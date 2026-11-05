@@ -34,7 +34,7 @@ const USE_FIREBASE_EMULATORS = false;
 <dialog id="board-dialog"><button id="close-board" class="close" aria-label="Close leaderboard">×</button><p class="eyebrow">THE QUICK THINKERS</p><h2>Every second counts.</h2><p class="muted">Correct answers, ranked by time. Equal times share a place.</p><div id="board-content"></div><p class="local-note">Shared rankings · Correct answers are ranked by server-recorded time. Equal times share a place.</p></dialog>
 <script type="module">
 function createQuizStore(sdk, db, user, clockNow = () => Date.now()) {
-  const {doc,collection,serverTimestamp,runTransaction,getDocFromServer,getDocs,query,orderBy,limit,where,getCountFromServer,setDoc} = sdk;
+  const {doc,collection,serverTimestamp,runTransaction,getDoc,getDocs,query,orderBy,limit,where,getCount} = sdk;
   const root='byfbFreeChallenges/bears-v1';
   const attemptRef=doc(db,root+'/attempts/'+user.uid);
   const scoreRef=doc(db,root+'/leaderboard/'+user.uid);
@@ -63,7 +63,7 @@ function createQuizStore(sdk, db, user, clockNow = () => Date.now()) {
     });
   }
   async function readAttempt(){
-    const snapshot=await getDocFromServer(attemptRef);
+    const snapshot=await getDoc(attemptRef);
     const data=snapshot.exists()?snapshot.data():null;
     // A lost response or closed tab can interrupt the second write. The immutable
     // attempt still contains both server timestamps; resume publishing on read.
@@ -72,11 +72,11 @@ function createQuizStore(sdk, db, user, clockNow = () => Date.now()) {
   }
   async function act(data){
     if(data.action==='get')return readAttempt();
-    await runTransaction(db,async tx=>{
+    const created=await runTransaction(db,async tx=>{
       const snapshot=await tx.get(attemptRef);
       if(!snapshot.exists()){
-        if(data.action==='start')tx.set(attemptRef,{name:user.displayName||'Reader',status:'active',startedAt:serverTimestamp()});
-        return;
+        if(data.action==='start'){tx.set(attemptRef,{name:user.displayName||'Reader',status:'active',startedAt:serverTimestamp()});return true;}
+        return false;
       }
       const current=snapshot.data();
       if(current.status!=='active'||data.action==='start')return;
@@ -89,14 +89,16 @@ function createQuizStore(sdk, db, user, clockNow = () => Date.now()) {
         tx.update(attemptRef,{status:'answered',answer:data.answer,finishedAt:serverTimestamp()});
       }else throw new Error('Unknown attempt action.');
     });
-    return readAttempt();
+    const result=await readAttempt();
+    if(created){result.attempt.status='active';result.serverNow=result.attempt.startedAt;}
+    return result;
   }
   async function leaderboard(){
-    const ownAttempt=await getDocFromServer(attemptRef);
+    const ownAttempt=await getDoc(attemptRef);
     if(ownAttempt.exists())await publish(ownAttempt.data());
     const scores=collection(db,root+'/leaderboard');
     const [top,own]=await Promise.all([
-      getDocs(query(scores,orderBy('elapsed','asc'),limit(100))),getDocFromServer(scoreRef)
+      getDocs(query(scores,orderBy('elapsed','asc'),limit(100))),getDoc(scoreRef)
     ]);
     let previous=null,rank=0;
     const rows=top.docs.map((row,index)=>{
@@ -105,7 +107,7 @@ function createQuizStore(sdk, db, user, clockNow = () => Date.now()) {
     });
     let ownRank=null;
     if(own.exists()){
-      const count=await getCountFromServer(query(scores,where('elapsed','<',own.data().elapsed)));
+      const count=await getCount(query(scores,where('elapsed','<',own.data().elapsed)));
       ownRank=count.data().count+1;
     }
     return {rows,ownRank};
@@ -113,12 +115,6 @@ function createQuizStore(sdk, db, user, clockNow = () => Date.now()) {
   return async function callDatabase(name,data={}){
     if(name==='byfbAttempt')return act(data);
     if(name==='byfbLeaderboard')return leaderboard();
-    if(name==='byfbClock'){
-      const ref=doc(db,root+'/clocks/'+user.uid);
-      await setDoc(ref,{at:serverTimestamp()});
-      const snapshot=await getDocFromServer(ref);
-      return {serverNow:snapshot.data().at.toMillis()};
-    }
     throw new Error('Unknown database action.');
   };
 }
@@ -155,9 +151,11 @@ function friendly(error){
   if(code.includes('operation-not-allowed'))return 'Google sign-in is not enabled for this quiz yet.';
   if(code.includes('unauthorized-domain'))return 'This website domain has not been authorized in Firebase yet.';
   if(code.includes('invalid-api-key'))return 'The Firebase configuration is not valid yet.';
-  if(code.includes('permission-denied'))return 'The database rejected this request. If your time is up, check your saved result. Otherwise, the host should publish the included Firestore rules.';
+  if(code.includes('permission-denied'))return 'Firestore denied access. Publish the included firestore.rules in Firebase Console → Firestore Database → Rules, then retry. Late quiz answers are also rejected.';
   if(code.includes('resource-exhausted'))return 'The free database quota has been reached. Please try again later.';
-  return 'Could not reach the quiz server. Check your connection and try again.';
+  if(code.includes('unavailable')||code.includes('network-request-failed'))return 'The database request failed. Check your connection or whether a browser extension/VPN is blocking Firestore, then try again.';
+  if(code.includes('not-found')||code.includes('failed-precondition'))return 'Create the default Firestore database for this Firebase project, publish firestore.rules, then retry.';
+  return 'Could not complete the database request. Please try again.';
 }
 async function reconnectAttempt(){
   if(!callCloud||reconciling||submitting)return;
@@ -182,7 +180,7 @@ function invalidate(reason){
 }
 async function submitAnswer(){
   if(!selected||submitting||attempt?.status!=='active')return;
-  if(!navigator.onLine){document.querySelector('#submit-error').textContent='You are offline. Reconnect before the original deadline to submit.';return;}
+  // Attempt the request: navigator.onLine can be false on a working network.
   submitting=true;
   const button=document.querySelector('#submit');button.disabled=true;button.textContent='Checking your answer…';
   document.querySelectorAll('.choice').forEach(b=>b.disabled=true);
@@ -198,7 +196,13 @@ async function start(name,button){
   if(starting||!connected)return;
   starting=true;departedDuringStart=false;button.disabled=true;button.textContent='Starting…';
   try{
-    adopt(await callCloud('byfbAttempt',{action:'start',name}));
+    const sent=performance.now();
+    const response=await callCloud('byfbAttempt',{action:'start',name});
+    if(Number.isFinite(response.serverNow)){
+      serverAnchor=response.serverNow+(performance.now()-sent)/2;perfAnchor=performance.now();
+      localStorage.setItem(key+':clock-offset',String(serverAnchor-Date.now()));
+    }
+    adopt(response);
     if(attempt?.status==='active'&&(departedDuringStart||document.hidden)){
       attempt={...attempt,status:'invalid',reason:'You left the page while the challenge was starting.',pendingInvalid:true};persist();
       starting=false;await reconnectAttempt();
@@ -301,7 +305,7 @@ async function initialize(){
   try{
     const base='https://www.gstatic.com/firebasejs/13.2.0/';
     const [{initializeApp},{getAuth,setPersistence,browserLocalPersistence,GoogleAuthProvider,signInWithPopup,connectAuthEmulator},firestore]=await Promise.all([
-      import(base+'firebase-app.js'),import(base+'firebase-auth.js'),import(base+'firebase-firestore.js')
+      import(base+'firebase-app.js'),import(base+'firebase-auth.js'),import(base+'firebase-firestore-lite.js')
     ]);
     const firebaseApp=initializeApp(firebaseConfig),auth=getAuth(firebaseApp);
     const db=firestore.getFirestore(firebaseApp);
@@ -314,9 +318,9 @@ async function initialize(){
     signedInUser=user;
     key='byfb:'+firebaseConfig.projectId+':bears-v1:'+user.uid;
     callCloud=createQuizStore(firestore,db,user,now);
-    const sent=performance.now();
-    const clock=await callCloud('byfbClock');
-    serverAnchor=clock.serverNow+(performance.now()-sent)/2;perfAnchor=performance.now();
+    // No clock document or preflight write is needed for sign-in.
+    const offset=Number(localStorage.getItem(key+':clock-offset')||0);
+    serverAnchor=Date.now()+(Number.isFinite(offset)?offset:0);perfAnchor=performance.now();
     const saved=JSON.parse(localStorage.getItem(key)||'null');
     const left=saved?.leftAt&&performance.getEntriesByType('navigation')[0]?.type!=='reload';
     if(saved?.pendingInvalid||left){

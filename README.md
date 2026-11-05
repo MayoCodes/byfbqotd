@@ -45,3 +45,12 @@ Firestore has free daily quotas. On Spark, requests can stop working when a quot
 ## Verification
 
 Frontend syntax and the direct-database adapter are checked locally. A real Firebase project and the rules have not been tested live because no project configuration was supplied. Java is unavailable locally, so the Firestore rules were not run in the emulator. After publishing the rules, test one Google login and complete an attempt, then check Firestore for the saved record and ranking.
+
+
+## Connection fix
+
+This repo uses Firestore Lite (REST-only HTTPS requests), rather than the streaming/offline SDK. Google sign-in restores the saved attempt directly. There is no separate clock-sync document or server-clock preflight; the original Firestore start timestamp anchors the countdown, with its display offset saved for reloads. Database security rules still reject answers after 70 seconds and validate leaderboard times from the two server timestamps.
+
+Publish the included firestore.rules in Firebase Console → Firestore Database → Rules, then click Publish. This file was missing from the repo. No Cloud Functions, paid server, billing upgrade, or Firebase CLI deployment is required.
+
+If requests still fail, the screen now distinguishes permission errors from network errors. Check that this project's default Firestore database exists and that the rules are published. Do not replace the rules with public read/write access. The app no longer blocks submissions solely because navigator.onLine reports false.

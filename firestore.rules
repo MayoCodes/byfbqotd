@@ -1,0 +1,62 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function google() {
+      return request.auth != null
+        && request.auth.token.firebase.sign_in_provider == 'google.com';
+    }
+    function owner(uid) { return google() && request.auth.uid == uid; }
+    function googleName() {
+      return ('name' in request.auth.token && request.auth.token.name != '')
+        ? request.auth.token.name : 'Reader';
+    }
+    match /byfbFreeChallenges/bears-v1/attempts/{uid} {
+      allow get: if owner(uid);
+      allow list, delete: if false;
+      allow create: if owner(uid)
+        && request.resource.data.keys().hasAll(['name','status','startedAt'])
+        && request.resource.data.keys().hasOnly(['name','status','startedAt'])
+        && request.resource.data.name == googleName()
+        && request.resource.data.name is string
+        && request.resource.data.name.size() <= 200
+        && request.resource.data.status == 'active'
+        && request.resource.data.startedAt == request.time;
+      allow update: if owner(uid)
+        && resource.data.status == 'active'
+        && request.resource.data.name == resource.data.name
+        && request.resource.data.startedAt == resource.data.startedAt
+        && request.resource.data.finishedAt == request.time
+        && (
+          (request.resource.data.status == 'answered'
+            && request.resource.data.keys().hasAll(['name','status','startedAt','finishedAt','answer'])
+            && request.resource.data.keys().hasOnly(['name','status','startedAt','finishedAt','answer'])
+            && request.resource.data.answer in ['A','B','C','D']
+            && request.time < resource.data.startedAt + duration.value(70, 's'))
+          || (request.resource.data.status == 'invalid'
+            && request.resource.data.keys().hasAll(['name','status','startedAt','finishedAt','reason'])
+            && request.resource.data.keys().hasOnly(['name','status','startedAt','finishedAt','reason'])
+            && request.resource.data.reason is string
+            && request.resource.data.reason.size() <= 180)
+        );
+    }
+    match /byfbFreeChallenges/bears-v1/leaderboard/{uid} {
+      function attempt() {
+        return get(/databases/$(database)/documents/byfbFreeChallenges/bears-v1/attempts/$(uid)).data;
+      }
+      allow read: if google();
+      allow create: if owner(uid)
+        && request.resource.data.keys().hasAll(['name','elapsed','finishedAt'])
+        && request.resource.data.keys().hasOnly(['name','elapsed','finishedAt'])
+        && attempt().status == 'answered'
+        && attempt().answer == 'B'
+        && request.resource.data.name == attempt().name
+        && request.resource.data.finishedAt == attempt().finishedAt
+        && request.resource.data.elapsed is int
+        && request.resource.data.elapsed == attempt().finishedAt.toMillis() - attempt().startedAt.toMillis()
+        && request.resource.data.elapsed >= 0
+        && request.resource.data.elapsed <= 70000;
+      allow update, delete: if false;
+    }
+    match /{document=**} { allow read, write: if false; }
+  }
+}
