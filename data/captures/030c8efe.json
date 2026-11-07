@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "030c8efe",
+  "capturedAt": "2026-11-07T23:25:41.939Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nIn a seminar on international trade policy, Sofia Pena argues that average customs processing time per imported shipment in the United States rose throughout the 1990s at major gateway ports such as the Port of Los Angeles, California, as well as at smaller ports such as Savannah, Georgia, and Portland, Maine; though those smaller ports may have processed shipments more quickly than the largest gateway ports, processing time also increased at them over the decade.",
+  "prompt": "Which choice best describes data from the graph that support Pena's claim?",
+  "choices": {
+    "A": "In at least one of the three ports shown, the average customs processing time was less than 20 hours per shipment at one point between 1990 and 2000.",
+    "B": "In 1992, the average customs processing time at the Port of Los Angeles, California, was less than 30 hours per shipment.",
+    "C": "While the average customs processing time per shipment was always lower at the Savannah, Georgia, port than at the Port of Los Angeles, California, for each year between 1990 and 2000, the processing time rose at both ports during this period.",
+    "D": "Even though the average customs processing time per shipment was greater at the Savannah, Georgia, port than at the Port of Los Angeles, California, throughout the period from 1990 to 2000, the times were nearly identical in 1996."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it best describes data from the graph that support Pena's claim. Pena claims that customs processing time rose throughout the 1990s at major gateway ports and smaller ports, and that while smaller ports may have processed shipments more quickly than the largest gateway ports, processing time also increased at them over the decade. The graph shows that for every year from 1990 to 2000, Savannah consistently had lower processing time than the Port of Los Angeles (ranging from 19 hours in 1990 to 36 hours in 2000 for Savannah, compared to 43 hours in 1990 to 68 hours in 2000 for Los Angeles). At the same time, processing time rose steadily at both ports during this period. Thus, this choice accurately describes data showing that smaller ports were less affected than the largest gateway but that processing time worsened over time at both, directly supporting both parts of Pena's claim.",
+  "source": "https://cooksat.com/practice?questionId=030c8efe&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/030c8efe/1-f65ba22dde222ffa.png"
+    }
+  ]
+}
