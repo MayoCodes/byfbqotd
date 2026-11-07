@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "03a55405",
+  "capturedAt": "2026-11-07T23:33:42.133Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "For decades, English instrument-maker Jesse Ramsden's 1777 screw-cutting lathe provided the earliest documented example of a precisely standardized threaded fastener, used in a dividing-engine calibration assembly. However, engineering historian Malaya Shin has argued that Italian clockmaker Yuto Vo, who built astronomical regulators for northern courts, machined such fasteners roughly sixty years before Ramsden did. Shin asserts that in his role as a regulator builder, Vo used a hand-cut guide to produce uniform threading for his escapement arbors, and his surviving mechanisms contain the earliest example of the standardized threaded fastener.",
+  "prompt": "Which finding, if true, would most directly support the underlined claim?",
+  "choices": {
+    "A": "Similar threaded fasteners appear in both Ramsden's dividing-engine assembly and Vo's astronomical regulators, but hand-filed screws were commonly used in eighteenth-century workshops without any consistent pitch from one screw to the next.",
+    "B": "In Ramsden's 1777 lathe documentation, he provides several examples of screw-cutting for dividing engines and justifies his method to readers by explaining how a master screw guarantees uniform pitch.",
+    "C": "In an escapement arbor recovered from Vo's 1718 astronomical regulator, Regulatore Celeste I, the threaded section shows a uniform pitch in a context suggesting the threads were produced using a single cutting guide.",
+    "D": "As recorded in surviving workshop inventories, some of Vo's escapement arbors were finished with irregular, hand-filed threads rather than threads produced from a uniform cutting guide."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Shin's claim is that Vo used a hand-cut guide to produce uniform threading for his escapement arbors and that his surviving mechanisms contain the earliest example of the standardized threaded fastener. A recovered escapement arbor from Vo's 1718 regulator showing uniformly pitched threads produced from a single cutting guide would directly demonstrate both parts of the claim: that Vo's own work contains standardized threading and that this example predates Ramsden's 1777 lathe by roughly sixty years, thus providing direct evidence for Shin's assertion.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it would contradict Shin's claim rather than support it. If Vo's escapement arbors were finished with irregular, hand-filed threads rather than threads produced from a uniform cutting guide, that would directly oppose Shin's assertion that Vo used a guide to produce uniform threading and that his mechanisms contain the earliest standardized threaded fastener.",
+  "source": "https://cooksat.com/practice?questionId=03a55405&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}
