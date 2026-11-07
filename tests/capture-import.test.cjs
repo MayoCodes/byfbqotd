@@ -1,0 +1,12 @@
+const {test}=require('node:test');
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const path=require('node:path');
+const {fromCapture,mergeCaptures}=require('../lib/question-bank.cjs');
+const capture={id:'abcdef123456',prompt:'Fixture prompt [Figure 1]',passage:'Fixture passage',choices:{A:'One',B:'Two',C:'Three',D:'Four'},correctAnswer:'B',explanation:'Fixture explanation',subject:'Math',skill:'Linear equations',images:[{label:'Figure 1',path:'data/capture-assets/abcdef123456/1-abcdef1234.png'}]};
+test('captured choices, explanations, metadata and static image paths are preserved',()=>{const q=fromCapture(capture);assert.equal(q.correctAnswer,'B');assert.equal(q.topic,'Linear equations');assert.equal(q.options[1],'Two');assert.equal(q.images[0].url,'/question-assets/abcdef123456/1-abcdef1234.png');assert.equal(q.explanation,capture.explanation);});
+test('repeated capture IDs update one bank entry and preserve unrelated questions',()=>{const result=mergeCaptures({questions:[{id:capture.id,prompt:'Old'},{id:'other',prompt:'Keep'}],skippedRows:0},[capture]);assert.equal(result.questions.length,2);assert.equal(result.questions[0].prompt,capture.prompt);assert.equal(result.questions[1].prompt,'Keep');});
+test('student-produced questions are retained instead of discarded for missing choices',()=>{const q=fromCapture({...capture,choices:{},correctAnswer:'3/4'});assert.equal(q.responseFormat,'student-produced');assert.deepEqual(q.options,[]);assert.equal(q.correctAnswer,'3/4');});
+test('unsafe or cross-question image paths are rejected before build file reads',()=>{for(const value of ['../../secret.png','data/capture-assets/deadbeef/1-abcdef.png'])assert.throws(()=>fromCapture({...capture,images:[{label:'Figure 1',path:value}]}));});
+test('partial answer choices are not silently published',()=>{assert.throws(()=>fromCapture({...capture,choices:{A:'One'}}));});
+test('typed numeric responses compare fractions and decimals without executing expressions',async()=>{const source=fs.readFileSync(path.join(__dirname,'../assets/answer-check.js'),'utf8');const {responseMatches}=await import('data:text/javascript;base64,'+Buffer.from(source).toString('base64'));assert.equal(responseMatches('.75','3/4'),true);assert.equal(responseMatches('0.5','$\\frac{1}{2}$'),true);assert.equal(responseMatches('0','0'),true);assert.equal(responseMatches('1/0','3/4'),false);assert.equal(responseMatches('1+1','2'),false);assert.equal(responseMatches('','0'),false);});
