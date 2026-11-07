@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "04080c6e",
+  "capturedAt": "2026-11-07T23:34:37.880Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In several mid-sized European cities, autonomous delivery robots built by the firm Helix Logistics navigate pedestrian plazas and narrow side streets that lack consistent curb markings. Robotics engineers Chidi Sithole and Frederick Law Olmsted used onboard telemetry to determine that the robots, whose stereo cameras continuously track nearby pedestrians, also emit high-frequency LiDAR pulses at fixed intervals along every route; further analysis indicated that these pulses generate detailed three-dimensional scans of curbs, signage, and building facades. The engineers hypothesize that the robots depend on this repeated scanning, as the process not only helps each unit avoid immediate collisions but also uploads fresh terrain data that refines the shared municipal map relied on by the entire fleet.",
+  "prompt": "Which finding, if true, would most directly support the engineers' hypothesis?",
+  "choices": {
+    "A": "Other autonomous vehicles built by competing firms operate in highway environments but use scanning systems similar to those of the Helix Logistics robots.",
+    "B": "Although all Helix Logistics robots emit LiDAR pulses at fixed intervals, different models of the robots emit the pulses at slightly different frequencies.",
+    "C": "The robots continue to emit high-frequency LiDAR pulses at the same fixed intervals even when traveling along routes that have been thoroughly mapped and cleared of obstacles earlier the same day.",
+    "D": "The Helix Logistics robots operate reliably even when deployed in cities whose municipalities have declined to integrate the robots' terrain data into any shared map."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The passage states that engineers hypothesize the robots depend on repeated LiDAR scanning because the scanning serves two purposes: helping individual units avoid collisions and uploading fresh terrain data that refines the shared municipal map. If the robots continue to emit pulses at the same fixed intervals even on routes already thoroughly mapped and cleared of obstacles, then the collision-avoidance benefit alone cannot explain why the robots keep scanning in that situation. The persistence of the behavior even when one benefit is unnecessary suggests the robots are obtaining another benefit from the process — consistent with the hypothesized dependence on scanning for the shared-map-updating function as well.\n\nWhy D is incorrect:\n\nChoice D is incorrect. If the robots operate reliably in cities whose municipalities decline to integrate their scans into any shared map, that would actually weaken the engineers' hypothesis. The hypothesis claims the robots depend on scanning partly because it uploads data to the shared map; reliable operation without that uploading suggests either the map benefit is not essential to the robots' functioning or they obtain what they need in some other way.",
+  "source": "https://cooksat.com/practice?questionId=04080c6e&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

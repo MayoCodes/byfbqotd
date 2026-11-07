@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "03d874a9",
+  "capturedAt": "2026-11-07T23:34:25.250Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Researchers Wei Malik and Tristan Kuznetsov hypothesized that a decline in municipal arts grants awarded in a large metropolitan area led to a decline in the number of new community theater productions staged in the region. Municipal arts grants do not typically fund individual productions but do fund local nonprofit performance venues, which are the main hosts of community theater productions.",
+  "prompt": "Which finding, if true, would most directly support the researchers' hypothesis?",
+  "choices": {
+    "A": "Declines in sources of municipal arts grants other than the nonprofit performance venues they fund are associated with regional declines in the amount of grant money awarded.",
+    "B": "The number of community theater productions tends to be greater in areas with both municipal arts grants and nonprofit performance venues than in areas with only municipal arts grants.",
+    "C": "Funding of nonprofit performance venues by municipal arts grants substantially increased before the regional decline in total municipal arts grant funding began.",
+    "D": "Nonprofit performance venues have decreased in regional number as municipal arts grants have decreased in regional funding."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents a finding that, if true, would most directly support the researchers' hypothesis about the connection between the decline in municipal arts grants and the decline in community theater productions. The text indicates that although municipal arts grants don't typically fund individual productions, they do fund local nonprofit performance venues, which host most community theater productions. A decrease in the number of nonprofit performance venues corresponding to the decline in grant funding would directly support the researchers' hypothesis: fewer funded venues would host fewer productions, driving down the overall number of new community theater productions in the region.\n\nWhy C is incorrect:\n\nChoice C is incorrect because a finding that grant funding of nonprofit performance venues substantially increased before the overall decline in municipal arts grant funding began wouldn't support the researchers' hypothesis that the decline in grants has led to a decline in community theater productions in the region. Such a finding would suggest that some factor other than the overall grant decline drove changes in venue funding, and thus any change in productions, thereby weakening the researchers' hypothesis.",
+  "source": "https://cooksat.com/practice?questionId=03d874a9&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}
