@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "aac24c5a",
+  "capturedAt": "2026-11-08T16:45:04.948Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In his Principia Fluidorum, Hugo Johansson examines turbulence, viscosity, and flow. So foundational is this particular treatise by Johansson, a Swedish mathematician whose analytical approach was at once empirical and theoretical, that its derivations concerning nineteenth-century hydraulics ______ modern aerospace engineering more than a century later.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "inform",
+    "B": "informs",
+    "C": "is informing",
+    "D": "has informed"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is subject-verb agreement along with tense consistency. The plural present-tense verb 'inform' agrees in number with the plural subject 'derivations' and is consistent with the simple present verb ('examines') used earlier to describe Johansson's treatise. It is also conventional to use the simple present tense when discussing the enduring content of a published work.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the singular present-tense verb 'informs' does not agree in number with the plural subject 'derivations.'",
+  "source": "https://cooksat.com/practice?questionId=aac24c5a&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "afc82522",
+  "capturedAt": "2026-11-08T16:45:21.422Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In 1995, stained-glass artist Declan Murphy designed an intricate rose window for St. Brendan's Cathedral that revolutionized contemporary ecclesiastical glasswork through its fusion of Celtic motifs and abstract geometry. Years later, he ______ for this innovative design with the Cooper-Hewitt National Design Award and the Royal Society of Arts Medal and hence would come to be regarded as a master of liturgical art.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "is recognized",
+    "B": "would be recognized",
+    "C": "will be recognized",
+    "D": "had been recognized"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is verb tense consistency. The conditional 'would be recognized' correctly expresses a future event viewed from the perspective of the past, which is parallel to the conditional verb 'would come to be regarded' used later in the same sentence. This construction properly conveys that both the recognition and the broader reputation occurred after Murphy designed the window in 1995, maintaining consistency with the past time frame established by 'In 1995' and 'Years later.'\n\nWhy D is incorrect:\n\nChoice D is incorrect because the past perfect 'had been recognized' incorrectly suggests that Murphy received the awards before he designed the window in 1995. The text clearly states that he was recognized 'Years later,' meaning after 1995, so the past perfect tense is not appropriate.",
+  "source": "https://cooksat.com/practice?questionId=afc82522&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

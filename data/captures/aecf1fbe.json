@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "aecf1fbe",
+  "capturedAt": "2026-11-08T16:45:18.683Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Venus flytraps typically obtain their nutrients from the soil through their root systems, but the plants are also carnivorous, with the ability to capture and digest small insects such as flies and ants. As botanist Parisa Moradi has observed, the plants release digestive enzymes that break down insects that ______ into contact with the trap's trigger hairs.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "has come",
+    "B": "comes",
+    "C": "is coming",
+    "D": "come"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is subject-verb agreement. The plural verb \"come\" agrees in number with the plural subject \"insects.\"\n\nWhy A is incorrect:\n\nChoice A is incorrect because the singular verb \"has come\" doesn't agree in number with the plural subject \"insects.\"",
+  "source": "https://cooksat.com/practice?questionId=aecf1fbe&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
