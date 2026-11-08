@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1cbf618a",
+  "capturedAt": "2026-11-08T16:04:34.225Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Use Quotation for Purpose",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• A material's critical temperature is the temperature below which it conducts electricity with zero resistance (becomes superconducting).\n• When a material's critical temperature is confirmed to exceed 200 K, it is classified as a high-temperature superconductor.\n• Lanthanum hydride (LaH10) is a hydrogen-rich compound.\n• It was confirmed as a high-temperature superconductor in 2019.\n• Carbonaceous sulfur hydride (CSH) is a hydrogen-rich compound.\n• It was confirmed as a high-temperature superconductor in 2020.",
+  "prompt": "The student wants to emphasize a similarity between lanthanum hydride and carbonaceous sulfur hydride. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Lanthanum hydride (LaH10), a hydrogen-rich compound, was confirmed as a high-temperature superconductor in 2019, unlike carbonaceous sulfur hydride (CSH), which would be confirmed later.",
+    "B": "The year was 2020, and carbonaceous sulfur hydride (CSH) had finally been confirmed as a high-temperature superconductor.",
+    "C": "Lanthanum hydride (LaH10), a hydrogen-rich compound, and carbonaceous sulfur hydride (CSH), also a hydrogen-rich compound, were both recently confirmed as high-temperature superconductors.",
+    "D": "Lanthanum hydride (LaH10) contains lanthanum, whereas carbonaceous sulfur hydride (CSH) contains carbon and sulfur."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence emphasizes a similarity between lanthanum hydride and carbonaceous sulfur hydride by noting that both compounds were recently confirmed as high-temperature superconductors.",
+  "source": "https://cooksat.com/practice?questionId=1cbf618a&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

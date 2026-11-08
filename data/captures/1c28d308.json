@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1c28d308",
+  "capturedAt": "2026-11-08T16:04:28.824Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Erik Elliott is a geochemist who studies fluorescent minerals, a class of minerals that emit visible light under specific conditions.\n• Photoluminescence, or light emission when exposed to ultraviolet radiation, is a central property of fluorescent minerals.\n• Triboluminescence, or light emission when mechanically stressed, is a central property of fluorescent minerals.\n• A specimen of sphalerite studied by Elliott exhibits triboluminescence by releasing flashes of orange light when scratched, crushed, or struck sharply.\n• Elliott: \"These minerals reveal a hidden chemistry of light, one that our eyes cannot detect until the right conditions unlock it.\"",
+  "prompt": "The student wants to provide a specific example of triboluminescence in fluorescent minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "A specimen of sphalerite studied by geochemist Erik Elliott exhibits triboluminescence by releasing flashes of orange light when scratched, crushed, or struck sharply.",
+    "B": "The triboluminescence observed in Erik Elliott's fluorescent minerals reveals \"a hidden chemistry of light, one that our eyes cannot detect until the right conditions unlock it.\"",
+    "C": "Fluorescent minerals, such as the sphalerite studied by Erik Elliott, can exhibit photoluminescence under ultraviolet radiation and triboluminescence under mechanical stress.",
+    "D": "A specimen of sphalerite studied by Erik Elliott is an example of a fluorescent mineral, a class in which triboluminescence is a central property."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence effectively provides a specific example of triboluminescence in fluorescent minerals, identifying the sphalerite specimen studied by Erik Elliott and specifying the concrete elements that illustrate the property: flashes of orange light released when the specimen is scratched, crushed, or struck sharply.\n\nWhy C is incorrect:\n\nChoice C is incorrect. While the sentence mentions that fluorescent minerals can exhibit triboluminescence under mechanical stress, it offers only a general definition of the property rather than the concrete example — what the sphalerite actually does when stressed — that the question requests.",
+  "source": "https://cooksat.com/practice?questionId=1c28d308&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1bda22f5",
+  "capturedAt": "2026-11-08T16:04:20.694Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Hydroponic cultivation is a method of growing plants without soil that uses nutrient-rich water solutions to deliver essential minerals directly to plant roots.\n• Step 1: Seeds are planted in an inert growing medium such as perlite or rockwool, which provides physical support but no nutrients.\n• Step 2: The growing medium is placed in a reservoir system where nutrient solution is pumped up from below to reach the roots.\n• Step 3: Excess nutrient solution drains back into the reservoir through a recirculation system, maintaining constant nutrient availability.\n• Step 4: When plants reach maturity, they are harvested with their root systems intact to preserve freshness.",
+  "prompt": "The student wants to describe how hydroponic cultivation grows plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Hydroponic cultivation grows plants without soil by creating a recirculation system in which nutrient solutions are pumped through the growing medium, then the nutrient solutions are harvested intact to preserve freshness.",
+    "B": "In hydroponic cultivation, plants are grown in an inert medium while nutrient solution is pumped to the roots and recirculated; when mature, plants are harvested intact.",
+    "C": "Hydroponic cultivation grows plants by pumping them through a recirculation system, adding nutrients to the plants, then growing the plants in a reservoir.",
+    "D": "In hydroponic cultivation, nutrient solutions are pumped into an inert growing medium until the plants mature and pass through a recirculation system, wherein the growing is completed."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The sentence describes how hydroponic cultivation grows plants, noting that plants are placed in inert medium while nutrient solution reaches the roots and recirculates, after which mature plants are harvested intact.\n\nWhy A is incorrect:\n\nChoice A is incorrect. While the sentence describes some elements of the growing process, it misrepresents information in the notes by saying that the nutrient solutions are harvested intact; the notes state that the mature plants are harvested with their root systems intact.",
+  "source": "https://cooksat.com/practice?questionId=1bda22f5&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
