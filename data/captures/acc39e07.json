@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "acc39e07",
+  "capturedAt": "2026-11-08T15:35:31.372Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The high-pitched nocturnal calls of certain Madagascan pygmy lemurs—first recorded in detail by biologists Celeste Ingram and Nikolai Johansson—are widely assumed by researchers today to coordinate group movement, but the actual purpose the calls serve in the lemurs' social lives remains ______. The vocalizations may indeed help cluster scattered individuals, but they could just as easily mark territory or signal alarm—we simply cannot say for certain.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "apparent",
+    "B": "unknown",
+    "C": "persistent",
+    "D": "predictable"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'unknown' most logically completes the text. As used here, 'unknown' means not known or uncertain. The passage states that researchers assume the calls coordinate group movement but the actual purpose 'remains ______,' and the second sentence emphasizes that the calls might serve any of several functions and that 'we simply cannot say for certain.' This context shows that the function of the calls has not been determined, so 'unknown' fits precisely.\n\nWhy C is incorrect:\n\nChoice C is incorrect because 'persistent' means continuing or enduring, which does not address the issue raised in the passage. The passage is about whether researchers can determine the calls' purpose, not about whether the calls themselves continue over time.",
+  "source": "https://cooksat.com/practice?questionId=acc39e07&subject=english&domain=craft-and-structure&skills=words_in_context&bank=cooksat",
+  "images": []
+}
