@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "4b22a5c9",
+  "capturedAt": "2026-11-08T00:30:56.782Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nUnionid mussels grow incrementally, so seasonal changes in water temperature and nutrient availability can drive seasonal fluctuations in shell deposition in species such as Lampsilis siliquoidea and Amblema plicata. Mussel longevity (for which shell thickness serves as a proxy measure) correlates with cumulative growth during warmer periods. Tadesse Haddad and Keiko Nguyen measured the shell thickness of members of an L. siliquoidea population in Lake Meriwether, Minnesota, that were sampled monthly between April and September over four years. Their research suggests that mussels sampled in relatively warmer months should tend to have a longer life span, as is illustrated by the finding that ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the assertion?",
+  "choices": {
+    "A": "the average juvenile shell thickness was larger in June than in April.",
+    "B": "the average adult shell thickness was consistently larger than the average juvenile shell thickness in all four months in the table.",
+    "C": "the average monthly low temperature was higher in August than in April.",
+    "D": "the average adult shell thickness was 1.91 mm in June but was 3.14 mm in September."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the text's assertion about mussel longevity and shell thickness. According to the text, shell thickness serves as a proxy measure for longevity, and the researchers suggest that mussels sampled in relatively warmer months should tend to have a longer life span. The table shows that June, with an average high of 79°F and an average low of 58°F, was warmer than April, with an average high of 58°F and an average low of 39°F. The table also shows that the average juvenile shell thickness was 1.91 mm in June compared to 1.84 mm in April. Since June was warmer than April and juvenile mussels had greater shell thickness in June than in April, this finding illustrates the researchers' suggestion that mussels sampled in warmer months should have longer life spans (as indicated by greater shell thickness).\n\nWhy C is incorrect:\n\nChoice C is incorrect because it cites temperature data rather than shell thickness data. The text indicates that shell thickness serves as a proxy measure for longevity, so the blank should be completed with a finding about shell thickness in order to illustrate the researchers' suggestion about life span. While it is true that the average monthly low temperature was higher in August (55°F) than in April (39°F), this fact about temperature alone doesn't complete the sentence logically.",
+  "source": "https://cooksat.com/practice?questionId=4b22a5c9&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/4b22a5c9/1-71c71bdf8ab69ba6.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4ff42534",
+  "capturedAt": "2026-11-08T00:31:30.374Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In 2019, Ama Owusu and colleagues produced the most precise estimate yet of the average sustained swimming speed (in body lengths per second) of the bluefin tuna population that tracks the Gulf Stream. Before the 2019 study, earlier estimates of the average sustained speed, including 4.1 bl/s in 1988 and 5.2 bl/s in 2005, were low enough for the tuna to remain associated with the current, but according to an analysis by Rina Santoso and colleagues, the estimated speed from the 2019 study, 6.3 bl/s, is too high for the tuna to remain associated with the current. Therefore, if Santoso and colleagues are correct, the maximum average sustained swimming speed that would allow the tuna to remain associated with the current is likely ______",
+  "prompt": "Which choice most effectively uses data from the text to complete the statement?",
+  "choices": {
+    "A": "at least 5.2 bl/s but below 6.3 bl/s.",
+    "B": "above 4.1 bl/s but below 5.2 bl/s.",
+    "C": "above 6.3 bl/s.",
+    "D": "below 4.1 bl/s."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The text states that 5.2 bl/s is low enough for the tuna to remain associated with the Gulf Stream, so the maximum allowable average sustained speed is at least 5.2 bl/s. According to Santoso and colleagues, 6.3 bl/s is too high, so the maximum is below 6.3 bl/s. Together, these facts support a maximum of at least 5.2 bl/s but below 6.3 bl/s. The passage does not rule out a maximum of exactly 5.2 bl/s.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The text states that 5.2 bl/s is low enough for the tuna to remain associated with the Gulf Stream. The maximum allowable average sustained speed therefore cannot be below 5.2 bl/s, as this choice requires.",
+  "source": "https://cooksat.com/practice?questionId=4ff42534&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "49af919e",
+  "capturedAt": "2026-11-08T00:30:45.634Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nVolunteers—individuals who contribute their time and labor to benefit others without receiving monetary compensation—represent a significant component of civic life in the United States. Researchers often distinguish between formal volunteering, which occurs through an established organization, and informal volunteering, which involves directly helping neighbors or acquaintances without any institutional mediation. A 2015 survey by Kulap Tang and Louis Mercer of formal and informal volunteer participation rates across four community-sector fields found that the highest formal volunteer participation rate occurred among people active in ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the text?",
+  "choices": {
+    "A": "arts and cultural programming.",
+    "B": "youth tutoring and mentoring.",
+    "C": "neighborhood and housing assistance.",
+    "D": "religious and congregational service."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to complete the text. The text discusses volunteer participation in the United States, and the table shows formal and informal volunteer participation rates across four community-sector fields in 2015. According to the table, the formal volunteer rate was 9.3% for religious and congregational service, which is higher than the formal volunteer rate shown for any other community-sector field.\n\nWhy A is incorrect:\n\nChoice A is incorrect because according to the table, the formal volunteer rate was 5.6% for arts and cultural programming, which is lower than the 9.3% for religious and congregational service.",
+  "source": "https://cooksat.com/practice?questionId=49af919e&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/49af919e/1-f25e1c4a8acb0cf3.png"
+    }
+  ]
+}

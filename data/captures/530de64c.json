@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "530de64c",
+  "capturedAt": "2026-11-08T00:31:37.314Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nTo investigate how the plant growth hormone gibberellin affects juvenile tree development, botanists Min-Ji Desai and Pierre Vogt treated oak and birch seedlings with either a plain water spray or a gibberellin solution, which stimulates stem and leaf expansion. Tracking growth by measuring the cumulative leaf area of each seedling at weekly intervals, Desai and Vogt found that the seedlings in their study showed species-specific differences in response to hormone application: ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "the four groups of seedlings differed substantially in leaf area before treatment but showed identical leaf area by the end of the monitoring period.",
+    "B": "water-treated birch seedlings showed noticeably greater leaf area at certain points in the monitoring period than water-treated oak seedlings did.",
+    "C": "gibberellin-treated birch seedlings showed more leaf area relative to water-treated birch seedlings than gibberellin-treated oak seedlings showed relative to water-treated oak seedlings.",
+    "D": "gibberellin-treated birch seedlings showed a substantial increase and then decline in leaf area over the monitoring period, whereas gibberellin-treated oak seedlings showed a substantial decline in leaf area followed by a steep increase."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The graph shows that gibberellin-treated birch seedlings produced far more leaf area than water-treated birch seedlings, while gibberellin-treated oak seedlings were only modestly above water-treated oaks and converged with the controls by the end of the monitoring period. This much larger treatment effect in birch than in oak supports the assertion that the seedlings showed species-specific differences in response to hormone application.",
+  "source": "https://cooksat.com/practice?questionId=530de64c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/530de64c/1-3515947d561286dc.png"
+    }
+  ]
+}

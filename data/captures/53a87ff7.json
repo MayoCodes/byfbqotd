@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "53a87ff7",
+  "capturedAt": "2026-11-08T00:31:41.163Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nAs mean annual temperatures climbed across the Southern Alps of New Zealand through the late twentieth century, many valley glaciers experienced accelerated retreat in response to shifting precipitation patterns and seasonal warming. Christopher Graves, Dong-Hyun Le, and colleagues compiled historical survey records and satellite imagery to track terminus recession rates across different elevation zones (categories based on the altitude of the glacier terminus). One such metric, annual recession rate, can be used to indicate how quickly a glacier's lower edge is melting back, with higher recession rates suggesting more rapid ice loss in a given year. The team found a range of recession rates, from lows of around 10 meters per year or less in the 1970s for all zones, to a high in 1998 of approximately ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "45 for the Mid Elevation zone.",
+    "B": "55 for the Low Elevation zone.",
+    "C": "20 for the Mid Elevation zone.",
+    "D": "10 for the High Elevation zone."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the graph to complete the text's discussion of recession rates in the Southern Alps. The text states that recession rates ranged from lows of around 10 meters per year or less in the 1970s for all zones, then asks for the high in 1998. The graph shows that in 1998, the Low Elevation zone reached approximately 55 meters per year, which is the highest recession rate among the three elevation zones that year, exceeding the Mid Elevation zone (approximately 48 meters per year) and the High Elevation zone (approximately 40 meters per year).\n\nWhy C is incorrect:\n\nChoice C is incorrect because the graph shows that in 1998 the Mid Elevation zone had a recession rate of approximately 48 meters per year, not 20. The value of 20 meters per year does not appear for any elevation zone in 1998.",
+  "source": "https://cooksat.com/practice?questionId=53a87ff7&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/53a87ff7/1-a7522e57ed671f82.png"
+    }
+  ]
+}
