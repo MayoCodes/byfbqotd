@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "890e098e",
+  "capturedAt": "2026-11-08T17:54:26.931Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "As astronomer Agus Han refined his study of variable stars—documenting subtle changes in brightness, pulsation period, amplitude, and ______ he drew comparisons to pioneering astronomer Simon Fletcher, one of his longtime scientific heroes. The comparisons underscore how Han, a relative newcomer, had matched the precision of an established field leader.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "spectral shifts:",
+    "B": "spectral shifts—",
+    "C": "spectral shifts,",
+    "D": "spectral shifts"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the punctuation of a nonessential element within a sentence. The em dash after 'spectral shifts' pairs with the em dash after 'variable stars' to clearly separate the nonessential element ('documenting subtle changes in brightness, pulsation period, amplitude, and spectral shifts') from the rest of the sentence. This nonessential element elaborates on how Han refined his study of variable stars, and the pair of em dashes indicates that this element could be removed without affecting the grammatical coherence of the sentence.",
+  "source": "https://cooksat.com/practice?questionId=890e098e&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

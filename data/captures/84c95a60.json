@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "84c95a60",
+  "capturedAt": "2026-11-08T17:54:13.631Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "At an observatory in the Atacama Desert, astronomer Siti Wijaya conducted a study to determine whether releasing fine silicate dust into the paths of approaching comets could enhance the brightness of subsequent meteor showers over the Southern Hemisphere. Wijaya's findings indicate that—assuming mission planners' ______ technique has the potential to increase peak meteor luminosity across observable showers by up to 30 percent.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "cooperation, this",
+    "B": "cooperation—this",
+    "C": "cooperation: this",
+    "D": "cooperation this"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation of a nonessential element within a sentence. An em dash appears after 'that' to open the supplementary element 'assuming mission planners' cooperation.' To properly set this element off from the rest of the sentence, a matching em dash is required at the close. This choice correctly pairs the opening dash with a closing dash.",
+  "source": "https://cooksat.com/practice?questionId=84c95a60&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

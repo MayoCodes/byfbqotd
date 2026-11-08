@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "88edc56a",
+  "capturedAt": "2026-11-08T17:54:24.129Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Combining organic materials, such as pressed ______ such as bottle caps; and conventional sculpting materials, such as bronze wire, Mexican artist Rosa Delgado Morales crafts her innovative Metamorfosis garden sculptures, which she believes can inspire communities to reconsider how discarded objects are perceived in public spaces.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "flowers, recycled materials:",
+    "B": "flowers; recycled materials,",
+    "C": "flowers, recycled materials,",
+    "D": "flowers; recycled materials;"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the punctuation of elements in a complex series. It's conventional to use a semicolon to separate items in a complex series with internal punctuation, and in this choice, the semicolon after \"flowers\" is conventionally used to separate the first item (\"organic materials, such as pressed flowers\") and the second item (\"recycled materials, such as bottle caps\") in the series of materials used by Morales. Further, the comma after \"materials\" correctly separates the noun phrase \"recycled materials\" from the supplementary phrase (\"such as bottle caps\") that describes it.\n\nWhy A is incorrect:\n\nChoice A is incorrect because a comma after \"flowers\" doesn't match the semicolon used later to separate the second and third items in the series (\"recycled...caps\" and \"and...wire\"). Additionally, it's not conventional to use a colon in this way to separate a supplementary phrase (\"such as bottle caps\") from the noun phrase it modifies (\"recycled materials\").",
+  "source": "https://cooksat.com/practice?questionId=88edc56a&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

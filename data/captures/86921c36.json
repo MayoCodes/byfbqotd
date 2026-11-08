@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "86921c36",
+  "capturedAt": "2026-11-08T17:54:16.406Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The Watson-Crick model, proposed in 1953 by biologists James Watson and Francis Crick, demonstrated that DNA exists as a double helix structure with complementary base pairs forming the rungs ______ it failed to address the specific mechanisms by which genetic information is actually copied during cell replication.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "together, but",
+    "B": "together but",
+    "C": "together",
+    "D": "together,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"but\" to join the first main clause (\"the Watson-Crick model…together\") and the second main clause (\"it failed…replication\").\n\nWhy B is incorrect:\n\nChoice B is incorrect because when coordinating two longer main clauses such as these, it's conventional to use a comma before the coordinating conjunction.",
+  "source": "https://cooksat.com/practice?questionId=86921c36&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

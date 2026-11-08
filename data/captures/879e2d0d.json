@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "879e2d0d",
+  "capturedAt": "2026-11-08T17:54:19.196Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Stromatolites are ancient rock structures formed by cyanobacteria that are largely unmodified—that is, they have retained their original layered composition over billions of years. They are hardly ______ many stromatolites undergo chemical weathering due to exposure to acidic groundwater, as well as erosion, mineral replacement, and partial dissolution caused by environmental changes.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "pristine, though",
+    "B": "pristine, though;",
+    "C": "pristine; though",
+    "D": "pristine, though,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to separate the supplementary adverb \"though\" from the preceding main clause (\"They are hardly pristine\") and uses a semicolon to join the two main clauses (\"They…though\" and \"many…changes\"). Further, placing the semicolon after \"though\" indicates that the information in the preceding main clause (stromatolites are far from pristine) is contrary to what might be assumed from the information in the previous sentence (stromatolites have been generally unmodified by their environment).\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a comma splice. Without a conjunction following it, the comma after \"though\" can't be used in this way to join two main clauses.",
+  "source": "https://cooksat.com/practice?questionId=879e2d0d&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

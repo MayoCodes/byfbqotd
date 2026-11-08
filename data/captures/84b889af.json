@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "84b889af",
+  "capturedAt": "2026-11-08T17:54:10.864Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In his documentary series Planet Earth, filmmaker David Attenborough explores aspects ______ animal behavior, ecological relationships, and environmental conservation by combining stunning cinematography with scientific narration.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "of:",
+    "B": "of—",
+    "C": "of",
+    "D": "of,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"Aspects of animal behavior\" is one noun phrase, with \"aspects of\" implicitly carrying over to the other items on the list (\"aspects of animal behavior, [aspects of] ecological relationships, and [aspects of] environmental conservation\").\n\nWhy A is incorrect:\n\nChoice A is incorrect. This choice inappropriately breaks up the introduction of a list. Also, \"In his documentary...aspects of\" is not an independent clause, thanks to the dangling \"of\" at the end, so it can't precede a colon.",
+  "source": "https://cooksat.com/practice?questionId=84b889af&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

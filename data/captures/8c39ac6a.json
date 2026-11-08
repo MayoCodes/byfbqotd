@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8c39ac6a",
+  "capturedAt": "2026-11-08T17:54:35.300Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Marine biologist Sylvia Earle has spent over seven thousand hours underwater exploring ocean ______ extensive research on deep-sea ecosystems, Earle has documented species previously unknown to science and has advocated for the establishment of protected marine reserves around the world.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "environments through",
+    "B": "environments, through",
+    "C": "environments. Through",
+    "D": "environments, which included through"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"Marine…environments\") and another (\"Through…world\"). The prepositional phrase beginning with \"through\" modifies the subject of the next sentence, \"Earle.\"\n\nWhy A is incorrect:\n\nChoice A is incorrect because it results in a run-on sentence. The sentences are fused without punctuation and/or a conjunction.",
+  "source": "https://cooksat.com/practice?questionId=8c39ac6a&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
