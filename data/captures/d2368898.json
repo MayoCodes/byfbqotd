@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d2368898",
+  "capturedAt": "2026-11-08T16:11:38.831Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Summarize Information",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The median voter theorem predicts that political parties in democracies will moderate their platforms to appeal to the centrist voter.\n• Samir Kamau studied the 2019 Danish parliamentary election as a test case for the theorem.\n• The election featured nine parties that won seats, with several maintaining distinctly non-centrist platforms.\n• Kamau's analysis was published in 2021.\n• Some political scientists have called the theorem \"inapplicable to multiparty systems.\" Political analyst Nora Colombo defends it, writing that it \"still illuminates coalition-building dynamics even in fragmented legislatures.\"",
+  "prompt": "The student wants to use a quotation to refute the claim that the median voter theorem is inapplicable to multiparty systems. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "While some political scientists have called the median voter theorem \"inapplicable to multiparty systems,\" others argue it \"still illuminates coalition-building dynamics even in fragmented legislatures.\"",
+    "B": "Far from inapplicable, the median voter theorem \"still illuminates coalition-building dynamics even in fragmented legislatures,\" as Colombo puts it, helping explain outcomes in elections like Denmark's 2019 parliamentary race.",
+    "C": "Given that the 2019 Danish election featured nine seat-winning parties with distinctly non-centrist platforms, the median voter theorem just might be \"inapplicable to multiparty systems.\"",
+    "D": "Kamau's analysis of the 2019 Danish election \"still illuminates coalition-building dynamics even in fragmented legislatures,\" as Colombo puts it."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. By opening with 'Far from inapplicable' and then deploying Colombo's characterization of the theorem as something that 'still illuminates coalition-building dynamics even in fragmented legislatures,' the sentence directly refutes the claim that the median voter theorem is inapplicable to multiparty systems. The choice strengthens the refutation by pointing to a concrete example of the kind of election the theorem helps explain (Denmark's 2019 parliamentary race).",
+  "source": "https://cooksat.com/practice?questionId=d2368898&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

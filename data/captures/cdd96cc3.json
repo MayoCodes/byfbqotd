@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "cdd96cc3",
+  "capturedAt": "2026-11-08T16:11:24.661Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Researchers Deepak Han, Xin Reddy, and colleagues sought to explore the relationship between the brain's ability to perceive patterns in everyday scenes and its ability to perceive rhythm in abstract paintings.\n• They used an artificial deep neural network (DNN) that models how the visual system processes images.\n• The DNN had been trained only to recognize objects in ordinary photographs (not artworks).\n• Finding: The DNN spontaneously developed units that responded to rhythmic compositions in abstract paintings but not to other visual stimuli.\n• Conclusion: The brain's ability to perceive rhythm in abstract art may arise as a by-product of everyday visual processing.",
+  "prompt": "The student wants to present the aim of the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Using an artificial deep neural network, the researchers sought to explore the relationship between the brain's ability to perceive patterns in everyday scenes and its ability to perceive rhythm in abstract paintings.",
+    "B": "The researchers used an artificial deep neural network, which spontaneously developed units that responded to rhythmic compositions in abstract paintings but not to other visual stimuli.",
+    "C": "By training an artificial deep neural network, the researchers aimed to establish that the brain's ability to perceive patterns in everyday scenes arises as a by-product of perceiving rhythm in abstract art.",
+    "D": "The researchers used an artificial deep neural network to demonstrate that units responding to rhythm in abstract paintings are also sensitive to a wide range of other visual stimuli."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence effectively presents the aim of the study, noting that the researchers sought to explore the relationship between the brain's ability to perceive patterns in everyday scenes and its ability to perceive rhythm in abstract paintings. It also appropriately mentions the methodology (using an artificial deep neural network) in a way that naturally complements the presentation of the study's aim.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The sentence presents a finding from the study—that the deep neural network spontaneously developed units that responded to rhythmic compositions in abstract paintings but not to other visual stimuli. It doesn't present the study's aim.",
+  "source": "https://cooksat.com/practice?questionId=cdd96cc3&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
