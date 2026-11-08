@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "57a70294",
+  "capturedAt": "2026-11-08T16:26:30.942Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Deciduous trees play a vital role in the forest's nutrient recycling system. When growing, these trees absorb minerals and nutrients from the soil through their root systems. ______ after they shed their leaves in autumn, the fallen foliage decomposes on the forest floor, where the nutrients in the leaves get returned to the soil, enriching it for future plant growth.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Then,",
+    "B": "Specifically,",
+    "C": "By contrast,",
+    "D": "Nevertheless,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Then\" logically signals that the event described in this sentence—nutrients in fallen leaves being returned to soil after trees shed their foliage—occurs later in a chronological sequence than the event described in the previous sentence (trees absorbing nutrients while growing).\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"by contrast\" illogically signals that the information that follows contrasts with the previous information about what trees do when growing. Instead, this sentence explains what happens after trees shed their leaves—a later step in the chronological sequence of events. There is no contrast: in both growth and leaf-shedding, trees contribute to the forest's nutrient cycling.",
+  "source": "https://cooksat.com/practice?questionId=57a70294&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

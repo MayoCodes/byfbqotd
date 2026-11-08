@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "58fdcc42",
+  "capturedAt": "2026-11-08T16:26:33.675Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Emphasis or Support",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In her 2011 monograph Civic Visions, historian Greta Sullivan examines an 1889 annual report issued by a Chicago settlement house. By quoting at length from the report's appeals to \"the common labor of neighbors,\" Sullivan preserves the reformers' optimistic civic rhetoric. ______ Sullivan's analysis exposes the paternalistic assumptions that shaped the reformers' view of the immigrant communities they sought to aid.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In other words,",
+    "B": "Consequently,",
+    "C": "At the same time,",
+    "D": "Specifically,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"At the same time\" logically signals that Sullivan's analysis accomplishes two coexisting things: it preserves the reformers' optimistic civic rhetoric AND exposes the paternalistic assumptions underlying that rhetoric. These are separate but simultaneous observations about the same scholarly work.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"consequently\" illogically signals that Sullivan's exposure of paternalistic assumptions is a consequence of her preservation of the reformers' rhetoric. The passage presents these as two coexisting features of her analysis, not as cause and effect.",
+  "source": "https://cooksat.com/practice?questionId=58fdcc42&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

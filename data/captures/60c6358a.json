@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "60c6358a",
+  "capturedAt": "2026-11-08T16:26:50.204Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "If bacterial resistance had developed purely through random mutation—whereby genetic changes occur spontaneously without environmental pressure—antibiotic-resistant strains would appear at consistent rates across all bacterial populations. Resistant bacteria emerge much more rapidly in hospital settings than in natural environments, however. ______ selective pressure from frequent antibiotic use in medical facilities, rather than random mutation alone, almost certainly drives the accelerated evolution of resistance.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "That said,",
+    "B": "For example,",
+    "C": "Likewise,",
+    "D": "Hence,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. \"Hence\" correctly signals that the claim in this sentence regarding selective pressure follows logically from the information in the previous sentences. The previous sentences establish that antibiotic resistance develops more rapidly in hospitals than predicted by random mutation alone. This sentence claims, logically, that selective pressure from antibiotic use drives this accelerated resistance evolution.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"for example\" illogically signals that the information in this sentence regarding selective pressure exemplifies the previous information about resistance rates in hospitals. Instead, it is a new claim that follows logically from the previous information.",
+  "source": "https://cooksat.com/practice?questionId=60c6358a&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
