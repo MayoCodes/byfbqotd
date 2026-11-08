@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "404124c6",
+  "capturedAt": "2026-11-08T16:40:50.704Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The draisine, a two-wheeled precursor to the modern bicycle, was invented by German engineer Karl Drais in 1817. According to historians of technology Margot Maxwell and Gopal Jang, riders ______ the vehicle forward by pushing their feet against the ground. Later designers added pedals, transforming the machine into a true bicycle.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "propel",
+    "B": "propelled",
+    "C": "will propel",
+    "D": "are propelling"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is verb tense consistency. This choice correctly supplies the finite past tense verb \"propelled,\" which matches the historical time frame established by the passage (the draisine was invented in 1817) and agrees with the other past tense verb \"added\" in the following sentence.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the future tense verb \"will propel\" doesn't match the historical time frame of the passage, which describes events following the invention of the draisine in 1817.",
+  "source": "https://cooksat.com/practice?questionId=404124c6&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

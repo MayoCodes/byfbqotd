@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "34e5e2a2",
+  "capturedAt": "2026-11-08T16:40:30.026Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The Keck I telescope, with a primary mirror composed of 36 hexagonal segments, ______ capable of collecting roughly 17 times more light than the Hubble Space Telescope.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "is",
+    "B": "are",
+    "C": "are being",
+    "D": "have been"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb \"is\" agrees in number with the singular subject \"The Keck I telescope.\"\n\nWhy C is incorrect:\n\nChoice C is incorrect because the plural verb \"are being\" doesn't agree in number with the singular subject \"The Keck I telescope.\"",
+  "source": "https://cooksat.com/practice?questionId=34e5e2a2&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

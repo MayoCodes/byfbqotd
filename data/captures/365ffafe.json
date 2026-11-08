@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "365ffafe",
+  "capturedAt": "2026-11-08T16:40:35.494Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Possessive Determiners",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The NavIC satellite constellation, operated by the Indian Space Research Organisation, was developed as a regional navigation system, one of several independent positioning networks built outside the dominant global systems. Like ______ peer regional navigation networks, NavIC was designed to ensure sovereign control: most of the constellation's signals serve users within South Asia.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "they're",
+    "B": "its",
+    "C": "their",
+    "D": "it's"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of possessive determiners. The singular possessive determiner 'its' agrees in number with the singular noun 'the NavIC satellite constellation,' indicating that NavIC had peer regional navigation networks.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the plural possessive determiner 'their' doesn't agree in number with the singular noun 'the NavIC satellite constellation.'",
+  "source": "https://cooksat.com/practice?questionId=365ffafe&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

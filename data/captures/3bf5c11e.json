@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3bf5c11e",
+  "capturedAt": "2026-11-08T16:40:45.263Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Informed by genetic analyses of over 1,500 specimens from ancient coral reefs, ______",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "results from a 2023 study indicated that calcium carbonate and algae were the dominant elements of prehistoric marine ecosystems.",
+    "B": "calcium carbonate and algae were, a 2023 study revealed, the dominant elements of prehistoric marine ecosystems.",
+    "C": "prehistoric marine ecosystems were shown, in a 2023 study, to have been dominated primarily by calcium carbonate and algae.",
+    "D": "the dominant elements of prehistoric marine ecosystems were calcium carbonate and algae, according to a 2023 study."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"results from a 2023 study\" the subject of the sentence and places it immediately after the modifying phrase \"informed...reefs.\" In doing so, this choice clearly establishes that the results—and not another noun in the sentence—are informed by the genetic analyses.",
+  "source": "https://cooksat.com/practice?questionId=3bf5c11e&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
