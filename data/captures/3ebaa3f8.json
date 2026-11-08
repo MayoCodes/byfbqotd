@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3ebaa3f8",
+  "capturedAt": "2026-11-08T17:51:28.349Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Deserts are typically known for being dry. Even so, the Atacama Desert in Chile is remarkably arid. There, the average annual rainfall ______ only 0.6 inches.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "is",
+    "B": "is;",
+    "C": "is:",
+    "D": "is,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation between a verb and its complement. No punctuation is needed between the linking verb (\"is\") and its complement (\"only 0.6 inches\"). The complement completes the meaning of the verb, and any punctuation between the two results in an ungrammatical sentence.",
+  "source": "https://cooksat.com/practice?questionId=3ebaa3f8&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

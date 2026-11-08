@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "46b7f18e",
+  "capturedAt": "2026-11-08T17:51:42.219Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "As the chief curator of the Metropolitan Museum of Art, Dr. Gabriela Stanescu has numerous duties. These include supervising the museum's permanent collection, which contains over 2 million ______ the Conservation Department, which preserves and restores artworks for future generations; and coordinating traveling exhibitions with international institutions.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "pieces; overseeing",
+    "B": "pieces overseeing",
+    "C": "pieces, overseeing",
+    "D": "pieces. Overseeing"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the punctuation of elements in a complex series. It's conventional to use a semicolon to separate items in a complex series with internal punctuation, and in this choice, the semicolon after \"pieces\" is conventionally used to separate the first item (\"supervising…pieces\") and the second item (\"overseeing…generations\") in a list of Stanescu's duties.\n\nWhy C is incorrect:\n\nChoice C is incorrect because a comma after \"pieces\" doesn't match the semicolon used later to separate the second and third items in the series (\"overseeing…generations\" and \"and coordinating traveling exhibitions with international institutions\").",
+  "source": "https://cooksat.com/practice?questionId=46b7f18e&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

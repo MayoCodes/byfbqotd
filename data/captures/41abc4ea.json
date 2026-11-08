@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "41abc4ea",
+  "capturedAt": "2026-11-08T17:51:33.900Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The extreme cold temperatures found in arctic environments can damage the cellular membranes of plants, causing the membranes to become rigid and brittle. The sugar compound trehalose counteracts this damage, maintaining the membranes' flexibility and ______ is produced in high quantities by the most cold-resistant plant species.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "functionality. Trehalose",
+    "B": "functionality trehalose",
+    "C": "functionality, trehalose",
+    "D": "functionality and trehalose"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after \"functionality\" is used correctly to mark the boundary between one sentence (\"The extreme…functionality\") and another (\"Trehalose…species\"). The supplementary phrase (\"maintaining…functionality\") modifies the main clause of the first sentence (\"The sugar…damage\"), and \"trehalose\" is the subject of the second sentence.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a comma splice. A comma can't be used in this way to mark the boundary between sentences.",
+  "source": "https://cooksat.com/practice?questionId=41abc4ea&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

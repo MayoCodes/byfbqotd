@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "48c0949b",
+  "capturedAt": "2026-11-08T17:51:47.147Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "As historian Ashok Wijaya notes, eponymous doctrines misattributed to later popularizers ______ there is the Monroe Doctrine; in economics, the Laffer curve; and in political theory, the Machiavellian principle. Each of these bears the name of a figure who was not, in fact, its originator.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "abound, in diplomacy,",
+    "B": "abound in diplomacy:",
+    "C": "abound: in diplomacy,",
+    "D": "abound in diplomacy;"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The colon after 'abound' follows a complete independent clause and properly introduces the complex series of exemplars that follows. Because the items in the series contain internal commas (each pairs a field, such as 'in diplomacy,' with a named concept, such as 'the Monroe Doctrine'), semicolons are used to separate the items. The comma after 'diplomacy' correctly offsets the prepositional phrase from the rest of the first item.\n\nWhy A is incorrect:\n\nChoice A is incorrect. A comma after 'abound' cannot introduce the complex series that follows; a colon is required to signal that a list elaborating the main clause is coming. The comma also misleadingly absorbs 'in diplomacy' into the main clause rather than marking it as the opening of the first series item.",
+  "source": "https://cooksat.com/practice?questionId=48c0949b&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

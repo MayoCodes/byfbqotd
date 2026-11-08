@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "43d77f20",
+  "capturedAt": "2026-11-08T17:51:39.468Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "By examining fossilized coral reefs from the Caribbean and Pacific, a research team at Australia's Monash University uncovered evidence of a massive volcanic eruption that occurred 74,000 years ago. Geologists had previously believed the region to be tectonically stable during that ______ the Monash team's discovery indicates otherwise.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "period but",
+    "B": "period,",
+    "C": "period",
+    "D": "period, but"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"but\" to join the first main clause (\"Geologists...period\") and the second main clause (\"the Monash...otherwise\").\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.",
+  "source": "https://cooksat.com/practice?questionId=43d77f20&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
