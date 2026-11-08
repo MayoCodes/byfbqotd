@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c5451eab",
+  "capturedAt": "2026-11-08T16:46:33.032Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "A recipient of the Pritzker Prize and the RIBA Royal Gold Medal, ______ known as biophilic minimalism when she devised a design methodology that allowed practitioners to integrate living ecosystems into dense urban housing developments.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "the result of architect Sakura Ito's reimagining of urban density was the founding of a new architectural movement",
+    "B": "the founding of a new architectural movement by architect Sakura Ito led to a reimagining of urban density",
+    "C": "urban density was reimagined by architect Sakura Ito who founded a new architectural movement",
+    "D": "architect Sakura Ito reimagined urban density and founded a new architectural movement"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"architect Sakura Ito\" the subject of the sentence and places it immediately after the modifying phrase \"A recipient…Medal.\" In doing so, this choice clearly establishes that architect Sakura Ito—and not another noun in the sentence—is the recipient of the Pritzker Prize and the RIBA Royal Gold Medal.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a dangling modifier. The placement of the noun phrase \"urban density\" immediately after the modifying phrase illogically suggests that \"urban density\" is a recipient of the Pritzker Prize and the RIBA Royal Gold Medal.",
+  "source": "https://cooksat.com/practice?questionId=c5451eab&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
