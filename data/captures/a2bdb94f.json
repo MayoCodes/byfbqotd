@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a2bdb94f",
+  "capturedAt": "2026-11-08T16:44:45.686Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Pronoun-Antecedent Agreement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Estimates of the Great Lakes' total surface area differ among sources: according to the National Ocean Service, the lakes cover 94,250 square miles, whereas the EPA reports their area as 95,160 square miles. This variation can be attributed partly to the fact that bodies of water such as Lake Superior fluctuate in size as ______ ice during seasonal changes.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "they accumulate",
+    "B": "one accumulates",
+    "C": "it accumulates",
+    "D": "we accumulate"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The noun that goes with \"fluctuate\" is \"bodies of water,\" a plural noun. \"They\" is a third-person plural pronoun, so it can correctly stand in for \"bodies of water.\"\n\nWhy D is incorrect:\n\nChoice D is incorrect. This choice creates a pronoun-antecedent agreement error. The noun that goes with \"fluctuate\" is the plural noun \"bodies of water.\" Bodies of water are not people, so \"we\" can't be used to stand in for it.",
+  "source": "https://cooksat.com/practice?questionId=a2bdb94f&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
