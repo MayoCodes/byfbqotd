@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6c80516e",
+  "capturedAt": "2026-11-08T15:59:52.689Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Describe Overall Text Relationship",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nThe marketing label 'world music' has long been used to categorize non-Western popular recordings for Western audiences. Industry analysts have increasingly questioned the label, arguing it flattens distinct traditions into a single commercial category. Previous research conducted in Western European retail markets has documented that replacing 'world music' with genre-specific terms such as 'Malian desert blues' or 'cumbia' produces measurable increases in listener engagement and album sales compared to the generic label.\n\nText 2\nAt several music festivals across Colombia, Peru, and Mexico, Carlos Delgado and Ivy Johansson surveyed audience responses to albums marketed with either the 'world music' label or genre-specific terms. They found that although the festivals drew diverse audiences and varied substantially in size, neither labeling approach produced any significant difference in listener engagement or purchasing behavior across the events.",
+  "prompt": "Which choice best describes the relationship between the two texts?",
+  "choices": {
+    "A": "Text 2 reports a study that suggests an alternative explanation for the trend observed in the research discussed in Text 1.",
+    "B": "Text 2 describes a methodology that helps researchers avoid a problem encountered in the studies discussed in Text 1.",
+    "C": "Text 2 presents a finding that casts doubt on the generalizability of the research discussed in Text 1.",
+    "D": "Text 2 discusses an observation that challenges the validity of the findings described in Text 1."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Text 1 describes previous research conducted specifically in Western European retail markets, which documented that replacing 'world music' with genre-specific terms increased listener engagement and sales. Text 2 reports Delgado and Johansson's study at festivals in Colombia, Peru, and Mexico, where neither labeling approach produced any significant difference in engagement or purchasing behavior. Because the pattern documented in Western European markets was not observed in Latin American festival contexts, Text 2's findings cast doubt on whether the research discussed in Text 1 can be generalized beyond its original setting.",
+  "source": "https://cooksat.com/practice?questionId=6c80516e&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

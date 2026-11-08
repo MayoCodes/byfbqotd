@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8a5e12c0",
+  "capturedAt": "2026-11-08T16:00:08.840Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nIt appears evident that effective collaborative learning (the process by which students achieve better educational outcomes through group work) requires face-to-face interaction and shared physical workspace. Research demonstrates that students working together in the same room, able to make eye contact and share materials directly, consistently outperform those in other arrangements. Likewise, studies show that access to whiteboards and physical manipulatives during group sessions leads to significantly improved problem-solving outcomes.\n\nText 2\nIn a study examining virtual learning environments, researchers Paola Zarate and Yuto Hayashi found evidence of highly effective collaborative learning in fully remote settings. The team discovered that students participating in structured online group projects with video conferencing and shared digital workspaces achieved learning gains comparable to traditional in-person collaborative methods, with some measures showing even greater improvement in critical thinking skills.",
+  "prompt": "Based on the texts, what would the researchers in Text 2 most likely say about the claim underlined in Text 1?",
+  "choices": {
+    "A": "It perpetuates a flawed understanding of collaborative learning, because there isn't enough evidence to suggest that eye contact is a reliable indicator of effective collaboration.",
+    "B": "It reflects an incomplete view of collaborative learning, because this process can be highly effective even without shared physical workspace.",
+    "C": "It's fairly persuasive, because studies attempting to identify effective collaborative learning in virtual environments have thus far yielded unclear results.",
+    "D": "It's mostly accurate, because the virtual learning study confirmed that collaborative learning works best when students focus primarily on individual critical thinking tasks."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it represents how the researchers in Text 2 would most likely respond to the underlined claim in Text 1. Text 1 begins by asserting that effective collaborative learning appears to require face-to-face interaction and shared physical workspace, then references research supporting this assertion. Text 2 describes an experiment conducted by researchers Zarate and Hayashi in which they found evidence of highly effective collaborative learning without shared physical workspace, namely through virtual environments with video conferencing and shared digital workspaces. The researchers in Text 2 wouldn't completely agree with what is asserted in the underlined portion of Text 1 (that collaborative learning seems to require physical proximity), because their study found that shared physical workspace isn't the only way that effective collaborative learning can take place. Thus, the researchers in Text 2 would most likely respond to the underlined claim in Text 1 by stating that it reflects an incomplete view of collaborative learning, because the process can be highly effective without shared physical workspace.\n\nWhy D is incorrect:\n\nChoice D is incorrect because neither of the texts claim that collaborative learning works best when students focus primarily on individual tasks. Instead, Text 1 claims that shared physical workspace is required for effective collaborative learning, and Text 2 describes a study that suggests collaborative learning can be highly effective in virtual environments.",
+  "source": "https://cooksat.com/practice?questionId=8a5e12c0&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

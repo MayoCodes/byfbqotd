@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "82827de9",
+  "capturedAt": "2026-11-08T16:00:00.761Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Identify Shared Conclusion",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nDark chocolate, made from roasted cacao beans, is prized for its complex bitter flavor profile. Bitterness—one of the five basic tastes—involves specific taste receptors that were mapped in detail in the 2010s. In 2012, to isolate the pure bitter taste, scientists Tiana Williams and Sardor Mirzayev used extracts made from dandelion roots and chicory, and two panels of European and Canadian judges reached strong consensus on describing the fundamental bitter sensation.\n\nText 2\nA 2019 experiment by Karla Meza et al. advanced understanding of dark chocolate's flavor complexity. The team initially presented a solution of alkaloids with high molecular weights to taste testers who found it more bitter than actual dark chocolate but lacked its depth. Further analysis of dark chocolate revealed tannins, including catechins, that modulated bitter flavor while also contributing to astringency. The team ultimately combined 75 chemical compounds to successfully replicate dark chocolate's full flavor profile.",
+  "prompt": "Based on the texts, if Williams and Mirzayev (Text 1) and Meza et al. (Text 2) were aware of the findings of both experiments, they would most likely agree with which statement?",
+  "choices": {
+    "A": "The extracts in the 2012 experiment most likely did not contain a substantial amount of the catechins that played a crucial role in the 2019 experiment.",
+    "B": "On average, the diets of people in Europe tend to include more foods that contain certain catechins than the diets of people in Canada include.",
+    "C": "Chemical compounds that activate both the bitter and astringent taste receptors tend to have a lower molecular weight than those that only activate bitter taste receptors.",
+    "D": "Roasting introduces tannins responsible for the modulation of bitter flavor in dark chocolate, and those tannins also increase the perception of astringency."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. Williams and Mirzayev were trying to isolate the pure bitter taste, while Meza was trying to recreate dark chocolate, which has a complex flavor profile that includes bitterness. Accordingly, the extracts from Text 1 are not described as containing any chocolate—just \"dandelion roots and chicory.\" So they probably don't have as much of the catechins described in Text 2, which were found to be a crucial part of dark chocolate's bitterness modulation and its astringency.\n\nWhy C is incorrect:\n\nChoice C is incorrect. Neither text supports this. Text 2 does talk about the molecular weights of chemical compounds, but there isn't enough information provided about molecular weights in Text 1 to make an inference about what the scientists in Text 1 would say.",
+  "source": "https://cooksat.com/practice?questionId=82827de9&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

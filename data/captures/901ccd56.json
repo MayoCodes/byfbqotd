@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "901ccd56",
+  "capturedAt": "2026-11-08T16:00:14.263Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nIn 2022, a team led by Dr. Maata Levu proposed that the mysterious decline of coral reefs in the Caribbean during the 1980s was primarily caused by a viral pathogen. As evidence, Levu pointed to the rapid, synchronized nature of the die-offs across multiple reef systems, as well as the presence of viral particles in tissue samples from affected corals, similar to those found in the well-documented white-band disease that devastated elkhorn corals during the same period.\n\nText 2\nWhile viral pathogens can indeed cause rapid coral mortality, bacterial infections produce equally swift and widespread damage. Moreover, certain bacterial strains produce distinctive biofilms, as Dr. Musa Sani observes, whereas viral infections typically do not. Given the extensive biofilm formations documented at affected reef sites and in sediment cores from the 1980s Caribbean decline, Sani argues that a bacterial pathogen is the more likely culprit.",
+  "prompt": "Based on the texts, how would Sani likely respond to Levu's hypothesis, as presented in Text 1?",
+  "choices": {
+    "A": "By questioning whether white-band disease is representative of viral infections in coral reefs as a whole",
+    "B": "By commending it for linking the tissue samples from affected corals to the composition of certain bacterial strains",
+    "C": "By agreeing that viral particles are commonly found in sediment samples from areas unrelated to coral reef systems",
+    "D": "By arguing that it does not account for the biofilm formations found at affected reef sites during the 1980s decline"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. Levu's hypothesis is that the Caribbean coral decline was caused by a viral pathogen. But Sani points to the biofilm formations found at affected reef sites and in \"sediment cores from the 1980s Caribbean decline\" as evidence that it was actually a bacterial pathogen, not a viral one.\n\nWhy B is incorrect:\n\nChoice B is incorrect. We can't infer that this is how Sani would respond to Levu's hypothesis. Levu's hypothesis doesn't make this connection: rather, Levu hypothesizes that the coral decline was caused by a viral pathogen.",
+  "source": "https://cooksat.com/practice?questionId=901ccd56&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}
