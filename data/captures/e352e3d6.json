@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e352e3d6",
+  "capturedAt": "2026-11-08T00:41:24.181Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Stalagmites are mineral formations that begin accumulating on cave floors as dripwater deposits calcite and continue adding thin growth layers over thousands of years. The calcite in each growth layer incorporates oxygen atoms from the dripwater, and the cooler the cave temperature at which a layer forms, the greater the concentration of the isotope oxygen-18 that layer will contain. Because cave temperatures closely track the average surface temperature above, if the location of a stalagmite is known, this isotopic signature can reveal the surface climate at the time each layer formed. Archaeologists Callum Kent and Alexander Anderson analyzed every growth layer in two stalagmites and concluded that layer sample L14 formed at a temperature of 9.2°C whereas sample L27 formed at 15.6°C.",
+  "prompt": "Which finding, if true, would most directly weaken the researchers' conclusion?",
+  "choices": {
+    "A": "In a nearby cave with similar geology, a chamber where the temperature is 15.6°C contains dripwater calcite with an oxygen-18 concentration equal to that in sample L27.",
+    "B": "The concentration of oxygen-18 in L27 is higher than that in L14.",
+    "C": "The concentration of oxygen-18 in L27 is lower than that in L14.",
+    "D": "In a nearby cave with similar geology, a chamber where the temperature is 9.2°C contains dripwater calcite with an oxygen-18 concentration equal to that in sample L14."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The passage establishes that the cooler the temperature at which a calcite layer forms, the higher its oxygen-18 concentration will be. The researchers concluded that L14 formed at 9.2°C (colder) and L27 formed at 15.6°C (warmer). According to the relationship described, the colder-forming layer L14 should contain a higher concentration of oxygen-18 than the warmer-forming layer L27. A finding that L27 actually has the higher concentration would reverse this expected relationship and directly undermine the researchers' temperature conclusions.\n\nWhy C is incorrect:\n\nChoice C is incorrect because this finding would strengthen, not weaken, the researchers' conclusion. According to the passage, the warmer-forming layer should have a lower oxygen-18 concentration than the cooler-forming layer. Since L27 is identified as the warmer-forming sample and L14 as the cooler-forming sample, L27 having a lower oxygen-18 concentration than L14 is exactly what the researchers' relationship predicts.",
+  "source": "https://cooksat.com/practice?questionId=e352e3d6&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

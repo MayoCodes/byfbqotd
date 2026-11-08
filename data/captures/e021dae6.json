@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e021dae6",
+  "capturedAt": "2026-11-08T00:41:13.458Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Improvements in long-range atmospheric transport modeling and concerns about regional air quality have made remote high-altitude monitoring stations, which often lie far from any regulated emission source, increasingly valuable to researchers. A team led by Trinidad Chavez and Ananya Nguyen sampled airborne particulate composition at two remote Andean stations: Cumbre Azul, a site 210 kilometers downwind of a copper-smelting corridor, and Punta Sereno, a comparably elevated site 180 kilometers upwind of the same corridor. Particulates containing heavy metals constituted 28% of the collected aerosol mass at Cumbre Azul but only 6% at Punta Sereno. Chavez, Nguyen, and colleagues attribute this difference to the two stations' differing positions relative to industrial emissions.",
+  "prompt": "Which finding, if true, would most directly support Chavez, Nguyen, and colleagues' explanation?",
+  "choices": {
+    "A": "Total aerosol mass collected at Cumbre Azul is much greater than total aerosol mass collected at Punta Sereno, though the two stations' aerosol concentrations are similar.",
+    "B": "Prevailing winds reach Punta Sereno from the smelting corridor somewhat more frequently than they reach Cumbre Azul.",
+    "C": "Some of the heavy-metal compounds detected at Punta Sereno are not detected at Cumbre Azul.",
+    "D": "Smelting operations of the type found in the corridor release aerosols that are disproportionately enriched in heavy metals."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The passage reports that heavy-metal particulates made up 28% of the aerosol mass at Cumbre Azul, which lies downwind of a copper-smelting corridor, but only 6% at Punta Sereno, which lies upwind of the same corridor. Chavez, Nguyen, and colleagues attribute this difference to the stations' differing positions relative to industrial emissions. For that attribution to hold, smelting emissions must specifically inflate the heavy-metal fraction of the aerosol. A finding that smelting operations release aerosols disproportionately enriched in heavy metals supplies precisely this mechanism: air masses passing over the corridor before reaching Cumbre Azul would pick up a heavy-metal-rich signature that upwind Punta Sereno would not receive, directly supporting the researchers' explanation.",
+  "source": "https://cooksat.com/practice?questionId=e021dae6&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

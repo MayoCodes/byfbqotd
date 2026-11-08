@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "eddeb4d0",
+  "capturedAt": "2026-11-08T00:42:14.994Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nChemoreceptors are sensory structures that shape foraging behavior in insects, including antennae orientation (the tendency of antennae to angle toward one side of the body's central axis rather than the other). University of Cape Town entomologist Samar Ndlovu and colleague Audrey Vogt noticed that in certain cave-dwelling beetles that forage in pairs, chemoreceptors tend to be densest on the outward-facing sides of each beetle in the pair (for instance, on the left antenna of one beetle and the right antenna of its partner). Accordingly, they hypothesized that paired beetles should tend to show diverging antennae orientation, and they tested their hypothesis by examining foraging pairs from several species of cave beetles.",
+  "prompt": "Which choice best describes data from the graph that support Ndlovu and Vogt's hypothesis?",
+  "choices": {
+    "A": "Although the number of antennae pairs showing converging orientation is fairly high in the shadow beetle, it is much lower in both the ghost beetle and the pale cave beetle.",
+    "B": "In the pale cave beetle, ghost beetle, and shadow beetle, all the antennae pairs show diverging orientation.",
+    "C": "Although the exact ratio varies by species, the pale cave beetle, ghost beetle, and shadow beetle all show more antennae pairs with diverging orientations than with converging orientations.",
+    "D": "The number of antennae pairs showing diverging orientation is fairly high in the shadow beetle, but not as high as it is in the pale cave beetle."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Ndlovu and Vogt hypothesized that paired beetles should tend to show diverging antennae orientation. The graph shows that for the ghost beetle, 160 pairs have diverging orientation compared with 70 converging; for the shadow beetle, 210 diverging compared with 105 converging; and for the pale cave beetle, 275 diverging compared with 95 converging. All three species therefore have more pairs with diverging orientation than with converging orientation, even though the exact ratio differs by species — a pattern that supports the hypothesis.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Although it accurately notes that the shadow beetle has fewer diverging pairs (210) than the pale cave beetle (275), simply comparing two species on one orientation does not establish the overall pattern the hypothesis predicts. Supporting the hypothesis requires showing that diverging orientation predominates within each of the tested species, not just noting a difference between two of them.",
+  "source": "https://cooksat.com/practice?questionId=eddeb4d0&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/eddeb4d0/1-e15b64a22a9573df.png"
+    }
+  ]
+}

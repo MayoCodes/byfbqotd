@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "ed59fea1",
+  "capturedAt": "2026-11-08T00:42:11.233Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nElise Kent is writing a report on a pollinator study she conducted in a mountain meadow, which surveyed three flowering plant species during the summer. She needs to determine how many bee visits were recorded at the species that attracted the most pollinators, scarlet gilia. According to the table, scarlet gilia received ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "248 bee visits.",
+    "B": "193 bee visits.",
+    "C": "87 bee visits.",
+    "D": "44 bee visits."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the statement about the pollinator study. The table shows the total number of bee visits and the total number of butterfly visits recorded at each of three flowering plant species. The table shows that scarlet gilia received 248 bee visits.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the table shows that scarlet gilia received 248 bee visits, not 44. According to the table, none of the plant species received a total of 44 visits of either type (bee or butterfly).",
+  "source": "https://cooksat.com/practice?questionId=ed59fea1&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/ed59fea1/1-0620a66fd7fd6bdc.png"
+    }
+  ]
+}

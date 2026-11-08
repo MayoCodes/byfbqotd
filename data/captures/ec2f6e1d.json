@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ec2f6e1d",
+  "capturedAt": "2026-11-08T00:42:07.794Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Researchers have long studied ancient craft remains to reconstruct social and economic life, as in Hans Bergmann's 1981 analysis, or to infer questions of cultural identity, as in Ayla Demir's 2007 study. Excavations at the Anatolian site of Karatepe have documented substantial changes in pottery decoration and form—changes consistent with the arrival of a population from farther east in Mesopotamia—over the course of the Early to Middle Iron Age. In a 2021 study, however, Margaret Dalton and Edward Caldwell found that textile-production techniques at Karatepe, as reconstructed from loom weights and spindle whorls, remained strikingly uniform across this ceramic transition, which they interpret as evidence of local cultural continuity through the Early and Middle Iron Ages.",
+  "prompt": "Which finding, if true, would most directly weaken Dalton and Caldwell's argument?",
+  "choices": {
+    "A": "The raw fibers used in textile production at Karatepe were obtained from the same regional sources throughout both the Early and the Middle Iron Ages.",
+    "B": "The textile-production techniques most common among neighboring Mesopotamian cultures during the Early and Middle Iron Ages produced cloth more quickly than the techniques used at Karatepe.",
+    "C": "The textile-production techniques used at Karatepe during the Early and Middle Iron Ages were also used by some Mesopotamian cultures from which the incoming population may have come.",
+    "D": "Shifts in pottery styles like those documented at Karatepe have not been correlated with shifts in textile-production techniques at other Anatolian sites during the Early and Middle Iron Ages."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Dalton and Caldwell infer local cultural continuity from the fact that textile-production techniques at Karatepe remained uniform even as pottery styles shifted in ways consistent with the arrival of a Mesopotamian population. This inference depends on the uniform techniques being distinctively local: only then does their persistence show that locals, not newcomers, were still doing the weaving. If those same techniques were also used by Mesopotamian cultures from which the incoming population may have come, then the continued use of the techniques at Karatepe could equally reflect practices brought in by the newcomers, undermining the case that the consistency indicates local cultural continuity.",
+  "source": "https://cooksat.com/practice?questionId=ec2f6e1d&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

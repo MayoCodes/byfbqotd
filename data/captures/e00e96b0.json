@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "e00e96b0",
+  "capturedAt": "2026-11-08T00:41:09.747Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nSamir Sow and Juan Amat presented study participants with descriptions of fictitious trade proposals, framing each as embodying either a free-trade orientation (e.g., reduced tariffs) or a protectionist orientation (e.g., import quotas). A survey recorded participants' ratings of each proposal's appeal and showed that across participants, protectionist proposals were rated as less appealing than free-trade proposals. However, when the economists factored in the participants' own protectionism scores, on a scale of 1 (least protectionist) to 7 (most protectionist), they concluded that this relative ranking of proposals persisted except among the participants with high protectionism scores.",
+  "prompt": "Which choice best describes data from the graph that support the economists' conclusion?",
+  "choices": {
+    "A": "There was a strong positive correlation between participants' protectionism scores and free-trade proposals' appeal ratings, but there was no correlation between protectionism scores and protectionist proposals' appeal ratings.",
+    "B": "Participants with a protectionism score of 6 or less rated free-trade proposals as more appealing than protectionist proposals, whereas participants with a protectionism score of 7 rated protectionist proposals as more appealing than free-trade proposals.",
+    "C": "Overall, participants rated free-trade proposals as quite appealing, and that rating was not significantly affected by the participants' protectionism scores.",
+    "D": "Unlike participants with a protectionism score of 6, participants with a protectionism score either greater or less than 6 gave free-trade proposals and protectionist proposals different appeal ratings."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it describes data from the graph that support the economists' conclusion that free-trade proposals were rated more appealing than protectionist proposals except among participants with high protectionism scores. The x-axis represents participants' protectionism scores from 1 to 7, while the y-axis represents the proposals' appeal ratings. Ratings of free-trade proposals rise only slightly, from 70 at a protectionism score of 1 to 73 at a score of 7, whereas ratings of protectionist proposals rise from 22 to 76. Consequently, participants with protectionism scores from 1 through 6 rated free-trade proposals as more appealing, while participants with a score of 7 rated protectionist proposals as more appealing. The plotted lines intersect between scores 6 and 7.\n\nWhy C is incorrect:\n\nChoice C is incorrect. Although the graph shows that participants rated free-trade proposals as quite appealing across all protectionism scores, this observation does not support the economists' conclusion, which concerns how participants rated the two types of proposals relative to each other and how that relative ranking changed among participants with high protectionism scores.",
+  "source": "https://cooksat.com/practice?questionId=e00e96b0&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e00e96b0/1-ac91c9143a4d75ea.png"
+    }
+  ]
+}

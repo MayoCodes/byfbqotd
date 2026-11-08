@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "e36190be",
+  "capturedAt": "2026-11-08T00:41:27.670Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nTo assess wetland change along a stretch of the Louisiana Gulf Coast, Siti Le and Ayana Khoury used historical satellite imagery and field surveys to track the wetland area across different hydrologic zones (categories defined by salinity and tidal exposure). Because the coast was easily navigable, extensive portions of these wetlands were dredged for canals and access channels as an oil and gas pipeline boom took hold through the 1970s and early 1980s. By the late 1990s, however, stricter coastal permitting, targeted restoration projects, and a slowdown in new pipeline construction enabled a gradual recovery of wetland area, as evident by the ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "difference between the wetland area in Zone A and in Zone B in 2005.",
+    "B": "increase in the wetland area for all zones from 1983 to 2005.",
+    "C": "decrease in the wetland area for all zones from 1970 to 1983.",
+    "D": "similarity in wetland area in Zone A and Zone C in 1992."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The passage states that by the late 1990s, stricter permitting, restoration projects, and a slowdown in pipeline construction produced a gradual recovery of wetland area. The graph shows that from 1983 to 2005, wetland area increased in all three hydrologic zones: Zone A rose from roughly 820 to 1,480 square kilometers, Zone B from roughly 1,250 to 1,960 square kilometers, and Zone C from roughly 1,550 to 1,910 square kilometers. This universal increase across all zones directly demonstrates the recovery described in the text.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The blank requires evidence of recovery after the early 1980s, but this choice describes the earlier period of wetland loss from 1970 to 1983 — the opposite of regrowth. The choice is also inaccurate because the graph shows Zone C did not decrease during that window.",
+  "source": "https://cooksat.com/practice?questionId=e36190be&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e36190be/1-c679182883470509.png"
+    }
+  ]
+}

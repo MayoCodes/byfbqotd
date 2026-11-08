@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "deaf9745",
+  "capturedAt": "2026-11-08T00:41:02.490Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nCalculations may be inexact due to rounding. A student in an Earth science course is examining the decline since 1970 in average annual glacial ice thickness in various mountain regions due to both warming temperatures and shifts in snowfall patterns documented by glaciologist Hafsa Okeke. The first task in this investigation is to determine how the decline in the Andes compares to that in other regions. The student finds that ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the student's conclusion?",
+  "choices": {
+    "A": "the percent decrease in ice thickness was greater in the Andes than it was in the Alps, the Rockies, or the Caucasus.",
+    "B": "while the thickness of glacial ice rose in the Andes between 1970 and 2020, it declined in the Alps, the Rockies, and the Caucasus.",
+    "C": "though the decline in glacial ice thickness in the Andes was less than that in the Alps and the Caucasus, it was greater than that in the Rockies.",
+    "D": "though the decline in glacial ice thickness in the Andes was not as great as that in the Alps, it was greater than that in the Rockies and the Caucasus."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to complete the student's conclusion about how the decline in the Andes compares to declines in other mountain regions. According to the table, average annual glacial ice thickness in the Andes declined from 127 meters in 1970 to 92 meters in 2020, a decline of 35 meters. Ice thickness in the Alps declined from 148 to 106 meters, a decline of 42 meters. Ice thickness in the Rockies declined from 95 to 77 meters, a decline of 18 meters. Ice thickness in the Caucasus declined from 113 to 87 meters, a decline of 26 meters. Therefore, the Andes's decline of 35 meters was not as great as the Alps's decline of 42 meters, but it was greater than both the Rockies's decline of 18 meters and the Caucasus's decline of 26 meters.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it inaccurately describes the data in the table. The Andes did not have the greatest decline of the four regions: the Alps's ice thickness declined by 42 meters, which exceeds the Andes's decline of 35 meters. The percent decrease in the Alps (approximately 28.4%) is also greater than the percent decrease in the Andes (approximately 27.6%), so the Andes did not have the greatest percent decrease either.",
+  "source": "https://cooksat.com/practice?questionId=deaf9745&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/deaf9745/1-4644f302490e110a.png"
+    }
+  ]
+}

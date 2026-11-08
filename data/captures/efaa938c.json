@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "efaa938c",
+  "capturedAt": "2026-11-08T00:42:22.197Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nContributions of Three Electricity Sources to Germany's Grid in 2019\nHomeowners, small businesses, and cooperatives across Germany operate hundreds of thousands of rooftop solar installations that collectively generate significant electricity. In a recent analysis, researchers Yue Banerjee and Maryam Kamau found that when these rooftop installations are regarded as a single source, their contribution to Germany's electricity grid in 2019 ____________",
+  "prompt": "Which choice uses data from the table to most effectively complete the comparison?",
+  "choices": {
+    "A": "was greater than the contribution made by wind power but equal to that made by hydroelectric.",
+    "B": "exceeded the contribution made by both hydroelectric and wind power.",
+    "C": "was lower than the contribution made by either hydroelectric or wind power.",
+    "D": "surpassed the contribution made by hydroelectric but fell short of that made by wind power."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to complete the comparison. The table shows that rooftop solar installations contributed approximately 46.5 TWh to Germany's electricity grid in 2019. This amount surpassed the contribution made by hydroelectric (20.2 TWh) but fell short of the contribution made by wind power (125.9 TWh).\n\nWhy C is incorrect:\n\nChoice C is incorrect because the table shows that rooftop solar installations' contribution (46.5 TWh) was higher than, not lower than, the contribution made by hydroelectric (20.2 TWh).",
+  "source": "https://cooksat.com/practice?questionId=efaa938c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/efaa938c/1-43593688075a94ea.png"
+    }
+  ]
+}

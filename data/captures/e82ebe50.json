@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "e82ebe50",
+  "capturedAt": "2026-11-08T00:41:49.691Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nThe nutrient buffering hypothesis predicts that soil microbial communities compensate for destabilizing nitrogen pulses following heavy rainfall (which flushes ammonium into the upper soil layers before plants can absorb it) by adjusting the proportional composition of nitrogen-fixing versus denitrifying bacteria, thereby maintaining steady mineralization rates. Pavel Foster, Samira Okeke, and colleagues tested the hypothesis by monitoring a temperate grassland plot, a site at which denitrifier populations generally respond to moisture changes more slowly than nitrogen-fixer populations, over a twenty-day period following a major storm. They concluded that their observations were consistent with the nutrient buffering hypothesis, although they did not establish that composition changes caused the stable mineralization rates.",
+  "prompt": "Which choice best describes data from the table that support the researchers' conclusion?",
+  "choices": {
+    "A": "Whereas the total number of active bacterial cells per gram of soil peaked on day 15, the proportion of nitrogen-fixing bacteria experienced a peak earlier in the monitoring period, on day 10.",
+    "B": "Despite the sharp reduction in the total number of active bacterial cells per gram of soil from day 15 to 20, there was no decline in the estimated net mineralization rate in that interval.",
+    "C": "The proportion of nitrogen-fixing bacteria exceeded 0.50 on both day 10 and day 15.",
+    "D": "The proportion of nitrogen-fixing bacteria changed from 0.45 on day 5 to 0.13 on day 20, while the estimated net mineralization rate remained at 0.29 mg N/kg/day across all four measurements."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The nutrient buffering hypothesis predicts changes in microbial community composition alongside steady mineralization rates. The proportion of nitrogen-fixing bacteria changed from 0.45 on day 5 to 0.13 on day 20, while the estimated net mineralization rate remained at 0.29 mg N/kg/day across all four measurements. This combination matches the predicted pattern and supports the researchers' conclusion that their observations were consistent with the hypothesis. However, these observational data do not establish that the composition changes caused the stable rates. The table also does not identify all other bacteria as denitrifiers, so the decline in the nitrogen-fixing proportion does not establish denitrifier dominance.\n\nWhy A is incorrect:\n\nChoice A is incorrect because, although total active bacterial cells peaked at 110 million per gram on day 15 and the proportion of nitrogen-fixing bacteria peaked at 0.50 on day 10, comparing the timing of these peaks does not connect composition changes with stable mineralization. It therefore does not provide the direct evidence of the hypothesis's predicted pattern that choice D provides.",
+  "source": "https://cooksat.com/practice?questionId=e82ebe50&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e82ebe50/1-816231ea1c874d92.png"
+    }
+  ]
+}

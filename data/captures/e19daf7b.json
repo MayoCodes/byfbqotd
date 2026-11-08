@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "e19daf7b",
+  "capturedAt": "2026-11-08T00:41:16.957Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nVolcanic glass fragments dating to roughly 12,000 years ago have been collected from the Suswa lava dome in Kenya. Because the fragments show pervasive microcrystal growth, some petrologists have argued that they cooled too slowly to preserve the chemistry of the original magma, making them unsuitable for reconstructing past eruption conditions. However, Friedrich Dalton and Lan Reyes recently applied a diffusion-based method to estimate each fragment's cooling rate and concluded that at least some of the fragments cooled faster than 50°C per hour—the rate above which original magma chemistry is generally retained—and could therefore yield reliable compositional data.",
+  "prompt": "Which choice best describes data in the graph that support the team's conclusion?",
+  "choices": {
+    "A": "Fragments SD_42 and SD_55 had cooling rates above 50°C per hour.",
+    "B": "Fragments SD_17 and SD_08 had cooling rates of approximately 70°C per hour and 85°C per hour, respectively.",
+    "C": "All of the fragments had cooling rates above 10°C per hour.",
+    "D": "Fragment SD_55 had a higher cooling rate than fragment SD_42."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The passage explains that original magma chemistry is generally retained only when cooling rates exceed 50°C per hour. The graph shows that fragments SD_17 and SD_08 have cooling rates of approximately 70°C and 85°C per hour—both above the 50°C per hour threshold—supporting the conclusion that at least some fragments cooled quickly enough to preserve reliable compositional data.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Although SD_55 did cool slightly faster than SD_42, both fragments cooled at rates well below the 50°C per hour threshold. A comparison between two sub-threshold values does not support the team's conclusion that some fragments cooled quickly enough to retain original magma chemistry.",
+  "source": "https://cooksat.com/practice?questionId=e19daf7b&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e19daf7b/1-9f6609254c9d94dd.png"
+    }
+  ]
+}
