@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c824c93e",
+  "capturedAt": "2026-11-08T15:36:54.841Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The popular image of absolute zero as a point of total stillness pervades introductory chemistry textbooks. Physicist Laura Dalton and chemist Patricia Foster (authors of The Coldest Edge) even describe the approach to zero kelvin as a gradual quieting of atomic motion. This might suggest that atoms finally come to rest, but quantum mechanics forbids such stasis: the uncertainty principle demands a residual jitter that persists even at the coldest temperatures, producing not repose but ______.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "tenuity",
+    "B": "perturbation",
+    "C": "nonchalance",
+    "D": "indolence"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'perturbation' — meaning agitation or disturbance — most precisely completes the contrast set up by 'not repose but ______.' The passage explicitly describes a 'residual jitter' that persists even at the coldest temperatures, directly glossing the state the blank must name. Perturbation captures this restless, disturbed motion and stands in logical opposition to 'repose.'\n\nWhy C is incorrect:\n\nChoice C is incorrect because 'nonchalance' means casual indifference or unconcern. The passage describes a physical 'jitter' — a restless agitation — not an attitude of detached calm. Nonchalance would contradict the description of persistent motion and does not describe a physical state of atoms.",
+  "source": "https://cooksat.com/practice?questionId=c824c93e&subject=english&domain=craft-and-structure&skills=words_in_context&bank=cooksat",
+  "images": []
+}
