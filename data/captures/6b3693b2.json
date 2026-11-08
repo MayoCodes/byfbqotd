@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6b3693b2",
+  "capturedAt": "2026-11-08T16:27:20.185Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Emphasis or Support",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Marie Curie's groundbreaking research involved multiple experiments with radioactive elements. In her 1898 study, she isolated polonium from pitchblende ore, demonstrating its radioactive properties through careful measurement. ______ in her 1902 investigation, she successfully extracted radium from several tons of pitchblende residue, proving its existence as a distinct element.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Granted,",
+    "B": "Likewise,",
+    "C": "For example,",
+    "D": "Hence,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. \"Likewise\" logically signals that this sentence about Marie Curie's radium research provides another similar example—another groundbreaking experiment with radioactive elements—adding to the polonium research described in the previous sentence.\n\nWhy A is incorrect:\n\nChoice A is incorrect because \"granted\" illogically signals that the information in this sentence about Marie Curie's radium research concedes or admits something about her previous research. Instead, the sentence provides another similar example of her groundbreaking experiments with radioactive elements.",
+  "source": "https://cooksat.com/practice?questionId=6b3693b2&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

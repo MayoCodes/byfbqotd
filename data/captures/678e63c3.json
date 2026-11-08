@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "678e63c3",
+  "capturedAt": "2026-11-08T16:27:12.007Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Located throughout the Amazon rainforest are medicinal plants so diverse that researchers estimate only a fraction have been catalogued. Botanists have known of these healing properties since the 1960s, when early expeditions began documenting indigenous knowledge, and they have been researching the plants ever since. ______ botanists' work is enhanced by satellite imaging that identifies previously unexplored forest regions.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In comparison,",
+    "B": "Still,",
+    "C": "However,",
+    "D": "Currently,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. \"Currently\" logically signals that the botanists' use of satellite imaging (a current technology) to identify forest regions is the present-day continuation of the ongoing botanical research described in the previous sentence.\n\nWhy A is incorrect:\n\nChoice A is incorrect because \"in comparison\" illogically signals that the action described in this sentence offers a comparison to the ongoing botanical research described in the previous sentence. Instead, the use of satellite imaging is the present-day continuation of that research.",
+  "source": "https://cooksat.com/practice?questionId=678e63c3&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
