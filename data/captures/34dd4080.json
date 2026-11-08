@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "34dd4080",
+  "capturedAt": "2026-11-08T03:49:36.397Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Through laboratory experiments studying bacterial growth patterns, Dr. Dalal Nasser and her research team concluded that bacterial colonies may develop through three distinct phases of nutrient availability before reaching maturity. The researchers suggest that bacteria in the high-nutrient phase become the core colony structure, bacteria in the moderate-nutrient phase form the protective outer layers, and bacteria in the low-nutrient phase create the specialized reproductive cells. In one experiment, the researchers delayed the onset of the moderate-nutrient phase, causing the core colony structures to become abnormally dense and overgrown. The researchers therefore hypothesize that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "the moderate-nutrient phase occurred earlier in bacterial development than the initial experiments suggested.",
+    "B": "the timing of the onset of the moderate-nutrient phase played an important role in determining the eventual density of the core colony structure.",
+    "C": "if the onset of the low-nutrient phase had occurred earlier in an experiment, all the bacterial structures would have become abnormally dense.",
+    "D": "the high-nutrient phase actually produced all the bacterial structures in the colony, not just the core colony structure."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most logically follows from the text's discussion of Dr. Dalal Nasser and her research team's bacterial growth experiments. The text begins by stating that the experiments led the researchers to conclude that bacterial colonies likely develop through three distinct nutrient phases. The text explains that the core colony structure, which includes the area where the main bacterial mass develops, formed during the high-nutrient phase and that the protective layers formed during the moderate-nutrient phase. It then explains that in one experiment, the researchers delayed the onset of the moderate-nutrient phase—that is, they tested to see what would happen if the moderate-nutrient phase had begun later than it normally did. They found that doing so affected the density of the core structure, resulting in abnormally dense and overgrown colonies. Since the delayed timing had the effect of changing the density of the core structure in the experiment, it's reasonable to conclude that the timing of the moderate-nutrient phase's onset was important in determining the core structure's eventual density.\n\nWhy D is incorrect:\n\nChoice D is incorrect because there is nothing in the text to suggest that the high-nutrient phase produced all the colony's structures. Rather, the text states that the experiments showed that the core structure formed during the high-nutrient phase and that the protective layers formed during the moderate-nutrient phase.",
+  "source": "https://cooksat.com/practice?questionId=34dd4080&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
