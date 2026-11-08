@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b4236ade",
+  "capturedAt": "2026-11-08T17:56:06.406Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In her groundbreaking research, marine biologist Rachel Carson documented the effects of pesticides on ocean ecosystems, a comprehensive study that revealed the interconnectedness of marine food chains. For decades, environmental scientists sought to expand upon this foundational ______ aspiration finally materialized in 2019, when researchers published a global assessment of microplastic contamination using Carson's methodological framework.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "research, that",
+    "B": "research. That",
+    "C": "research that",
+    "D": "research and that"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"For…research\") and another (\"That…framework\").\n\nWhy D is incorrect:\n\nChoice D is incorrect. Without a comma preceding it, the conjunction \"and\" can't be used in this way to join sentences.",
+  "source": "https://cooksat.com/practice?questionId=b4236ade&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

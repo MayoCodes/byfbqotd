@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b6dfe2bd",
+  "capturedAt": "2026-11-08T17:56:17.563Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The programming languages ______ Lua, and Haskell were all created in the late twentieth century. However, they were each designed by different people: Thao Malik, Declan Hoffman, and an academic committee, respectively.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Python",
+    "B": "Python:",
+    "C": "Python;",
+    "D": "Python,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation used to separate items in a series. This choice correctly uses a comma to mark the boundary between the first item (\"Python\") and the second item (\"Lua\") in the list of three programming languages.\n\nWhy B is incorrect:\n\nChoice B is incorrect because a colon can't be used in this way to separate items within a series. Colons are conventionally used to introduce a list or provide emphasis, not to separate individual items in the list itself.",
+  "source": "https://cooksat.com/practice?questionId=b6dfe2bd&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

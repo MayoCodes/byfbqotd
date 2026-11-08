@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b7556102",
+  "capturedAt": "2026-11-08T17:56:20.364Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The central African mammal commonly studied today under the scientific name Okapia johnstoni has a classification that is familiar to most zoologists. The species originally had a different ______ while drafting his early descriptions, biologist Christopher Whitfield had proposed calling the animal Equus johnstoni.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "designation, though;",
+    "B": "designation, though,",
+    "C": "designation; though",
+    "D": "designation, though"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to separate the supplementary adverb \"though\" from the preceding main clause (\"The species originally had a different designation\") and uses a semicolon to join the two main clauses (\"The species…though\" and \"while…johnstoni\"). Further, placing the semicolon after \"though\" logically indicates that the information in the second main clause (that Whitfield had proposed calling the animal Equus johnstoni) is contrary to what might be assumed from the information in the first sentence (that the species is familiar under the name Okapia johnstoni).\n\nWhy C is incorrect:\n\nChoice C is incorrect because placing the semicolon after \"designation\" illogically indicates that the information in the next main clause (that Whitfield had proposed a different name) is contrary to the information in the previous clause (that the species originally had a different designation). Instead, the second clause supports and explains the first clause's claim about the species having a different original designation.",
+  "source": "https://cooksat.com/practice?questionId=b7556102&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

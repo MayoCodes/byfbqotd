@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b56a8e13",
+  "capturedAt": "2026-11-08T17:56:14.766Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In 2020, the groundbreaking compositions of Brazilian pianist and composer Hermeto ______ were showcased in Sonic Landscapes, a retrospective concert at London's Royal Festival Hall.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Pascoal",
+    "B": "Pascoal;",
+    "C": "Pascoal,",
+    "D": "Pascoal:"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation between a subject and a verb. No punctuation is needed when the subject of a sentence is immediately followed by a main verb. In this case, the sentence's subject (\"the groundbreaking compositions of Brazilian pianist and composer Hermeto Pascoal\") is followed by the main verb \"were showcased,\" and no punctuation should come between them.\n\nWhy B is incorrect:\n\nChoice B is incorrect because no punctuation is needed between the subject and the verb.",
+  "source": "https://cooksat.com/practice?questionId=b56a8e13&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
