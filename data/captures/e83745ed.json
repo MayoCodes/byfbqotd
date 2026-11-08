@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e83745ed",
+  "capturedAt": "2026-11-08T16:47:41.828Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Pronoun-Antecedent Agreement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Air in major metropolitan areas is filled with microscopic particles from vehicle emissions, but atmospheric pressure and interference from surrounding buildings together cause ______ to circulate into a massive, swirling dome—also called an urban heat island—that traps pollutants.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "it",
+    "B": "these",
+    "C": "those",
+    "D": "them"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun \"it\" agrees in number with the singular antecedent \"air\" and clearly indicates that the air circulates into a dome.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The plural pronoun \"them\" neither agrees in number with the singular antecedent \"air\" nor clearly indicates that the air—not another plural noun in the sentence, such as \"particles\" or \"buildings\"—circulates into a dome.",
+  "source": "https://cooksat.com/practice?questionId=e83745ed&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

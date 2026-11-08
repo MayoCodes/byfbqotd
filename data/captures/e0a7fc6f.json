@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e0a7fc6f",
+  "capturedAt": "2026-11-08T16:47:30.822Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Plural and Possessive Nouns",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "German physicist Albert Einstein struggled to understand the relationship between mass and energy. Eventually, he expressed this connection in his famous equation \"E=mc².\" The ______ complexity: only through years of theoretical work could one derive such a profound relationship.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "equations' simplicity masks its",
+    "B": "equations simplicity masks their",
+    "C": "equation's simplicity masks its",
+    "D": "equation's simplicity masks their"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The conventions being tested are the use of possessive nouns and the use of possessive determiners. The singular possessive noun \"equation's\" correctly indicates that there is only one simple equation. The singular possessive determiner \"its\" agrees in number with the singular possessive noun \"equation's,\" reinforcing the idea that there is only one simple yet complex equation.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the context requires the singular possessive determiner \"its,\" not the plural possessive determiner \"their.\"",
+  "source": "https://cooksat.com/practice?questionId=e0a7fc6f&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

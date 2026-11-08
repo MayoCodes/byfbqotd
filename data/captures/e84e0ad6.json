@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e84e0ad6",
+  "capturedAt": "2026-11-08T16:47:44.580Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "On June 14, 2011, after seventeen years of leading deep-sea robotics research, Margot Quinn stepped down from her post. The veteran engineer ______ her tenure with forty-two successful submersible missions and six major design patents.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "conclude",
+    "B": "has been concluding",
+    "C": "concluded",
+    "D": "will be concluding"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of a verb to express tense in a sentence. In this choice, the past tense verb \"concluded\" is consistent with the other past tense verb (\"stepped down\") used to refer to Quinn's departure from her post in 2011.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the future progressive tense verb \"will be concluding\" isn't consistent with the other past tense verb (\"stepped down\") used to refer to Quinn's departure in 2011.",
+  "source": "https://cooksat.com/practice?questionId=e84e0ad6&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

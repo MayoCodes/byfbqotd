@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "dcb9e64a",
+  "capturedAt": "2026-11-08T16:47:19.800Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In crystallography (the scientific study of crystal structures), minerals are characterized by their symmetry groups—that is, the mathematical patterns that describe their internal arrangements. The quartz crystal and the calcite crystal, each with a hexagonal lattice below complex trigonal systems, ______ among the most common crystalline forms with the highest degrees of symmetry.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are",
+    "B": "was",
+    "C": "has been",
+    "D": "is"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is subject-verb agreement. The plural verb \"are\" agrees in number with the plural compound subject \"the quartz crystal and the calcite crystal.\" The two types of crystals joined by \"and\" function as a plural subject and thus require a plural verb.",
+  "source": "https://cooksat.com/practice?questionId=dcb9e64a&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

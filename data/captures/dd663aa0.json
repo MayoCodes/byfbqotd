@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "dd663aa0",
+  "capturedAt": "2026-11-08T16:47:22.551Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Every morning in Portland, Oregon, a corner of the downtown square is filled with a brilliant blue light. The source of the light is the Digital Rain installation, a large interactive display made up of 2,400 LED panels. A sensor within the wave-shaped structure ______ the blue panels.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "will be activating",
+    "B": "would activate",
+    "C": "activates",
+    "D": "activated"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of verbs to express tense. In this choice, the present tense verb \"activates\" is consistent with the other present tense verb (\"is\") used to describe the installation, correctly indicating that the display habitually lights up (\"every morning\") and that the sensor inside is the source of its activation.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the future progressive tense verb \"will be activating\" isn't consistent with the other present tense verb used to describe the installation and the source of its light.",
+  "source": "https://cooksat.com/practice?questionId=dd663aa0&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
