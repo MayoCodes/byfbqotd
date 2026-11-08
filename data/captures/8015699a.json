@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8015699a",
+  "capturedAt": "2026-11-08T00:34:34.060Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Many male crickets produce songs whose pitch shifts rapidly, seeming to warble when heard by nearby listeners. Researchers have long assumed that this feature helps attract females but could also draw predators. But linguist Beatriz Rivera and acoustician Matteo Barrett proposed that the shifting pitch might actually make it harder for other animals to pinpoint where a singing cricket is located. To test this idea, the team played recorded cricket songs from hidden speakers along a park path and asked human participants to locate each source. Some of the recordings preserved the natural pitch-shifting pattern. Others were digitally flattened to a single steady pitch drawn from the song, such as a high tone or a low tone.",
+  "prompt": "Which finding, if true, would most directly support the team's idea?",
+  "choices": {
+    "A": "On average, participants located most of the high-tone recordings and low-tone recordings and far fewer of the pitch-shifting recordings.",
+    "B": "On average, participants located the pitch-shifting recordings faster than they located the high-tone recordings or low-tone recordings.",
+    "C": "Some participants reported that the high-tone recordings were easier to locate than the low-tone recordings.",
+    "D": "Some participants successfully located all of the recordings along the path."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The passage explains that Rivera and Barrett proposed that the rapid pitch-shifting in cricket songs might make a singing cricket harder to locate, and they tested this by asking participants to pinpoint the sources of both naturally pitch-shifting recordings and recordings flattened to a single steady pitch such as a high tone or low tone. If participants located most of the steady-pitch recordings but far fewer of the pitch-shifting ones, that finding would support the team's idea because it would show that pitch-shifting sources are harder to locate than steady-pitch sources.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The high-tone and low-tone recordings were both steady-pitch control conditions, so any difference in how easy those two were to locate has no bearing on the team's idea that pitch-shifting sources are harder to locate than steady-pitch sources.",
+  "source": "https://cooksat.com/practice?questionId=8015699a&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

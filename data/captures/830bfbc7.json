@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "830bfbc7",
+  "capturedAt": "2026-11-08T00:34:48.044Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Microsoft's release of the Teams add-in for Outlook in 2017 is an instance of cross-platform integration—the company built a plug-in that let users invoke one of its applications directly from the interface of another, bridging tools users had previously operated separately. To determine whether perceived interface similarity predicts users' likelihood of adopting such integrations, Beatriz Castillo, Matteo Kent, and colleagues identified 28 bridged-application pairs (e.g., the same developer's spreadsheet editor and database tool) drawn from 18 months of installation logs covering roughly 45,000 enterprise users; for each pair Castillo and Kent had users rate the similarity of the two applications' interfaces and calculated the change in probability of installing one application's bridging plug-in if the paired application was already installed.",
+  "prompt": "Which finding, if true, would provide evidence that the possibility Castillo and Kent investigated does occur?",
+  "choices": {
+    "A": "Users tended to install more plug-ins in application categories in which bridged-application pairs are found than in categories in which bridged-application pairs are not found.",
+    "B": "Users' ratings and the changes in probability calculated by the researchers were both affected by level of prior experience with the developer's products.",
+    "C": "There was a strong positive correlation between users' ratings and the changes in probability calculated by the researchers.",
+    "D": "Users' ratings varied substantially by application pair, whereas the changes in probability calculated by the researchers were broadly similar for each pair."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents a finding that, if true, would directly support the possibility that Castillo and Kent investigated. The text explains that the researchers sought to determine whether perceived interface similarity predicts users' likelihood of adopting cross-platform integrations. To investigate this, they collected users' ratings of interface similarity for bridged-application pairs and calculated the change in probability of installing a bridging plug-in when a paired application was already installed. A strong positive correlation between users' similarity ratings and the calculated probability changes would indicate that as perceived interface similarity increases, the likelihood of adopting the bridging plug-in also increases—exactly the predictive relationship the researchers were investigating.\n\nWhy D is incorrect:\n\nChoice D is incorrect because this finding would contradict rather than support what Castillo and Kent investigated. If users' similarity ratings varied substantially across application pairs while the probability changes remained broadly similar across those same pairs, this pattern would indicate that perceived interface similarity does not track adoption likelihood—the opposite of the researchers' hypothesis. Such a finding would imply no meaningful predictive relationship between similarity perceptions and plug-in adoption.",
+  "source": "https://cooksat.com/practice?questionId=830bfbc7&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

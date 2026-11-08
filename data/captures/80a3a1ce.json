@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "80a3a1ce",
+  "capturedAt": "2026-11-08T00:34:37.464Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Rising ambient air temperatures at data center facilities have been increasing in response to regional climate trends, potentially enabling greater delivery of usable waste heat to district heating networks through intensified server workload consolidation, but also potentially reducing net energy savings through heightened cooling-fan electricity draw required to stabilize internal equipment temperatures. Thermal engineer Ingrid Barrett and her colleagues developed a simulation incorporating numerous inputs—years of facility power-draw and outdoor temperature records among them—to evaluate the effects of warming on the net energy balance at Nordic data centers, concluding that net energy savings are likely to decline if warming pushes summer ambient temperatures past a critical threshold.",
+  "prompt": "Which finding, if true, would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "Crossing the critical ambient temperature threshold reduces the rate of server workload consolidation, and it suppresses cooling-fan electricity draw.",
+    "B": "Crossing the critical ambient temperature threshold extends the period during which server workload consolidation yields usable waste heat but has no effect on cooling-fan electricity draw.",
+    "C": "Crossing the critical ambient temperature threshold amplifies the effect of outdoor humidity on both server workload consolidation and cooling-fan electricity draw.",
+    "D": "Crossing the critical ambient temperature threshold reduces the amount of usable waste heat produced through server workload consolidation, and it raises the rate of cooling-fan electricity draw."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents a finding that, if true, would support Barrett and her colleagues' conclusion that net energy savings are likely to decline if warming pushes ambient temperatures past a critical threshold. The text explains that rising ambient temperatures have two competing effects on net energy balance: they can enable greater delivery of usable waste heat through intensified workload consolidation, but they can also reduce net energy savings through heightened cooling-fan electricity draw. For the researchers' conclusion to hold, crossing the temperature threshold would need to either decrease the recovered waste heat or increase cooling-fan electricity consumption, or both. If crossing the threshold reduces the usable waste heat produced through workload consolidation, then the positive contribution to net savings declines. At the same time, if it raises the rate of cooling-fan electricity draw, then the negative contribution grows. Together, these two effects directly support the conclusion that net energy savings would decline.\n\nWhy B is incorrect:\n\nChoice B is incorrect because a finding that crossing the threshold extends the period of usable waste heat delivery but has no effect on cooling-fan electricity draw wouldn't support the conclusion that net energy savings decline. If waste heat delivery is extended while cooling-fan electricity consumption remains unchanged, then net energy savings would likely increase rather than decrease, contradicting Barrett and her colleagues' conclusion.",
+  "source": "https://cooksat.com/practice?questionId=80a3a1ce&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

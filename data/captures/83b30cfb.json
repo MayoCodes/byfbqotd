@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "83b30cfb",
+  "capturedAt": "2026-11-08T00:34:55.047Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nThe Rio Verde basin has been monitored by a network of hydrological stations that record annual rainfall to support regional drought studies. Meron Mansour is writing a report on the basin's climate and wishes to determine the annual rainfall (in millimeters) recorded at the Cerro Alto station, located in the highland headwaters, during 2017. According to the table, the rainfall (in millimeters) was ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "172.",
+    "B": "174.",
+    "C": "807.",
+    "D": "784."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the statement. Meron Mansour needs the annual rainfall recorded at the Cerro Alto station in 2017. The table shows that in 2017, Cerro Alto recorded 172 millimeters of rainfall.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the table shows that Cerro Alto recorded 172 millimeters of rainfall in 2017, not 784. According to the table, 784 millimeters is the 2017 rainfall recorded at Valle Bajo, not at Cerro Alto.",
+  "source": "https://cooksat.com/practice?questionId=83b30cfb&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/83b30cfb/1-46eb2a8bd099a945.png"
+    }
+  ]
+}

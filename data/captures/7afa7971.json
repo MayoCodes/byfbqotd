@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7afa7971",
+  "capturedAt": "2026-11-08T00:34:19.882Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Sophia Foster, Moussa Toure, and colleagues assembled a database of urban air-quality findings by conducting their own measurements and by gathering data from prior monitoring studies. The team gave each of these studies a rating for methodological transparency (with a higher rating for clearer descriptions of measurement protocols) and for spatial resolution (with a higher rating for finer geographic sampling grids). Based on these ratings, a second research team concluded that a study by Aditi Ramanujan captured finer-grained location differences in pollutant levels than a study by Henrik Olafsson and colleagues did.",
+  "prompt": "Which finding, if true, would most directly challenge the second research team's conclusion?",
+  "choices": {
+    "A": "The study by Ramanujan had a lower methodological transparency rating than the study by Olafsson and colleagues did.",
+    "B": "The study by Ramanujan had a lower spatial resolution rating than the study by Olafsson and colleagues did.",
+    "C": "The study by Ramanujan had a high spatial resolution rating and a high methodological transparency rating.",
+    "D": "The study by Olafsson and colleagues had a low spatial resolution rating and a low methodological transparency rating."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The second research team concluded that Ramanujan's study captured finer-grained location differences than Olafsson's study did — a claim about spatial resolution (the dimension measuring fineness of geographic sampling grids). If Ramanujan's study actually had a lower spatial resolution rating than Olafsson's, that finding would directly contradict the comparative claim and therefore challenge the conclusion.\n\nWhy A is incorrect:\n\nChoice A is incorrect. Methodological transparency measures the clarity of measurement protocols, not the fineness of the geographic sampling grid. Because the second team's conclusion concerns the grain of location differences — a spatial resolution property — a finding about transparency ratings doesn't directly address the claim.",
+  "source": "https://cooksat.com/practice?questionId=7afa7971&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "8115adfd",
+  "capturedAt": "2026-11-08T00:34:40.923Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nEconomists have long observed that reductions in export tariffs tend to increase the volume of goods a country ships abroad. To better understand this relationship, a team led by Oluwaseyi Moejoh and Adjoa Dlamini examined trade data from three nations that lowered tariffs between 2015 and 2020. Their analysis suggested that a post-reduction increase in export volume above 15% typically indicates a meaningful market response, so they concluded that both Kenya and Vietnam demonstrated meaningful responses to their tariff reductions.",
+  "prompt": "Which choice best describes data from the graph that support the team's conclusion?",
+  "choices": {
+    "A": "Both Kenya and Vietnam were found to have export volume increases greater than 15%.",
+    "B": "Kenya was found to have an export volume increase many times greater than that found for Peru.",
+    "C": "Vietnam was found to have a greater export volume increase than Kenya and Peru were found to have.",
+    "D": "Peru was found to have an export volume increase below 15%."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The researchers concluded that both Kenya and Vietnam demonstrated meaningful responses to their tariff reductions because post-reduction increases in export volume above 15% typically indicate such responses. This choice accurately describes data from the graph that support that conclusion: Kenya had an export volume increase of approximately 42%, and Vietnam had an increase of approximately 28%. Since both values exceed the 15% threshold, this data supports the conclusion that both countries demonstrated meaningful market responses.",
+  "source": "https://cooksat.com/practice?questionId=8115adfd&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8115adfd/1-204b248b64c43322.png"
+    }
+  ]
+}

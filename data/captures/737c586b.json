@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "737c586b",
+  "capturedAt": "2026-11-08T00:33:46.991Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nIn a college course on conservation biology, Chinwe Demir asserts that increased garlic mustard cover in the 2000s in midwestern forest preserves was present both in very large preserves such as Shawnee National Forest, Illinois, and smaller preserves such as Oak Ridge Reserve, Indiana, and Beechwood Sanctuary, Ohio; though those smaller preserves may have been less affected by garlic mustard invasion than very large preserves, this invasion also worsened in them over time.",
+  "prompt": "Which choice best describes data from the graph that support Demir's claim?",
+  "choices": {
+    "A": "While the percent cover of garlic mustard was always lower in the Oak Ridge Reserve, Indiana preserve than in the Shawnee National Forest, Illinois preserve for each year between 2000 and 2010, the percent cover rose in both preserves during this period.",
+    "B": "In at least one of the three forest preserves shown, the percent cover of garlic mustard was less than 20 percent at one point between 2000 and 2010.",
+    "C": "In 2002, the percent cover of garlic mustard in the Shawnee National Forest, Illinois preserve was less than 20 percent.",
+    "D": "Throughout the period between 2000 and 2010, the annual percent cover of garlic mustard was greater in the Oak Ridge Reserve, Indiana preserve than in the Shawnee National Forest, Illinois preserve."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it describes data from the graph that support Demir's claim about garlic mustard invasion trends in midwestern forest preserves during the 2000s. Demir claims that increased invasion was present in both very large preserves like Shawnee National Forest and smaller preserves, and that while smaller preserves may have been less affected, invasion worsened in them over time. The graph shows that for each year between 2000 and 2010, the smaller Oak Ridge Reserve consistently had lower percent cover than Shawnee National Forest. The graph also shows percent cover rose in both: Oak Ridge from approximately 17 percent in 2000 to approximately 29 percent in 2010, and Shawnee from approximately 43 percent in 2000 to approximately 62 percent in 2010. Thus the data show the smaller preserve was less affected by invasion than the very large preserve but that invasion increased in both, directly supporting Demir's claim.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it reverses the relationship shown in the graph. The graph shows that throughout the period between 2000 and 2010, the annual percent cover of garlic mustard was consistently lower in the Oak Ridge Reserve than in Shawnee National Forest, not greater as this choice claims. This directly contradicts Demir's claim that smaller preserves were less affected by invasion than very large preserves were.",
+  "source": "https://cooksat.com/practice?questionId=737c586b&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/737c586b/1-0600be33cd05fb39.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "7a6d8cac",
+  "capturedAt": "2026-11-08T00:34:12.316Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nBecause adolescents' sleep patterns shift with changing school demands, monthly variation in academic workload can drive fluctuations in nightly sleep duration across a school year. Sleep duration (which average hours of sleep per weeknight serves as a proxy measure for) correlates with standardized test performance. Colette Elliott and Gopal Banerjee recorded the average weeknight sleep hours of a cohort of ninth graders in a suburban district, with data collected monthly during September, November, February, and April over four school years. Their research suggests that adolescents surveyed in months with heavier academic workloads should tend to perform worse on standardized tests, as is illustrated by the finding that ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the assertion?",
+  "choices": {
+    "A": "the average girls' weeknight sleep was shorter in February than in November.",
+    "B": "the average boys' weeknight sleep was consistently shorter than the average girls' weeknight sleep in all four months in the table.",
+    "C": "the average weekly homework hours were higher in February than in November.",
+    "D": "the average boys' weeknight sleep was 7.6 hours in April but 8.3 hours in September."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the text's discussion of the relationship between academic workload and standardized test performance. The text establishes that sleep duration correlates with test performance and that average weeknight sleep hours serve as a proxy measure. The text then suggests that adolescents surveyed in months with heavier workloads should perform worse on tests. Since shorter sleep is associated with worse performance, evidence that heavier-workload months are associated with shorter sleep would support this claim. According to the table, February had 20 average weekly homework hours and an average girls' weeknight sleep of 7.6 hours, while November had only 15 average weekly homework hours and a longer average girls' sleep of 8.1 hours. This shows that the heavier-workload month (February) was associated with shorter sleep, which would indicate worse test performance, effectively completing the assertion.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it contains a factual error regarding the data in the table. According to the table, the average boys' weeknight sleep in September was 8.1 hours, not 8.3 hours. The value of 8.3 hours represents the average girls' weeknight sleep in September. Therefore, this choice inaccurately describes the data and cannot effectively complete the text.",
+  "source": "https://cooksat.com/practice?questionId=7a6d8cac&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/7a6d8cac/1-e48c749119f4aa78.png"
+    }
+  ]
+}

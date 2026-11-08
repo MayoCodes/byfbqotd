@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "74bdefe7",
+  "capturedAt": "2026-11-08T00:33:50.701Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nMeteorites preserved in the ice, or Antarctic finds, have been recovered from many different sectors of the Antarctic ice sheet. Some of these meteorites were recovered before 2010: for example, ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "the Allan Hills Meteorite was recovered in 1984, and the Yamato Meteorite was recovered in 1969.",
+    "B": "the Allan Hills Meteorite was one of several meteorites recovered in the 1980s.",
+    "C": "the Yamato Meteorite and the Miller Range Meteorite were both recovered in the 2000s.",
+    "D": "the Miller Range Meteorite was recovered in 1984, and the Allan Hills Meteorite was recovered in 2015."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the statement about meteorites recovered before 2010. The table shows that the Allan Hills Meteorite was recovered in 1984 and the Yamato Meteorite was recovered in 1969, both of which are before 2010, making this an effective example.\n\nWhy C is incorrect:\n\nChoice C is incorrect because according to the table, the Yamato Meteorite was recovered in 1969, not in the 2000s. Only the Miller Range Meteorite was recovered in the 2000s (in 2015).",
+  "source": "https://cooksat.com/practice?questionId=74bdefe7&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/74bdefe7/1-37800835766a7fbe.png"
+    }
+  ]
+}
