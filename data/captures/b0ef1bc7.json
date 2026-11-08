@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b0ef1bc7",
+  "capturedAt": "2026-11-08T16:10:21.764Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Renewable energy sources generate electricity without depleting natural resources, helping reduce environmental impact.\n• Solar panels and wind turbines are renewable energy technologies.\n• Solar panels convert sunlight directly into electricity using photovoltaic cells.\n• To generate electricity effectively, solar panels need direct sunlight and clear weather conditions.\n• Wind turbines convert kinetic energy from moving air into electricity using rotating blades.\n• To generate electricity effectively, wind turbines need consistent wind speeds but can operate in various weather conditions.",
+  "prompt": "The student wants to emphasize a difference between solar panels and wind turbines. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "To generate renewable electricity, engineers install solar panels and wind turbines in suitable locations.",
+    "B": "Solar panels and wind turbines are renewable energy technologies that convert natural forces into electricity.",
+    "C": "To generate electricity effectively, solar panels need clear weather conditions, whereas wind turbines can operate in various weather conditions.",
+    "D": "Solar panels use photovoltaic cells to convert sunlight, and clear weather conditions help optimize electricity generation."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence emphasizes a difference between solar panels and wind turbines, noting that solar panels need clear weather conditions to generate electricity effectively but wind turbines can operate in various weather conditions.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The sentence explains what solar panels use and weather conditions; it doesn't emphasize a difference between solar panels and wind turbines.",
+  "source": "https://cooksat.com/practice?questionId=b0ef1bc7&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
