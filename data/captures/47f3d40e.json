@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "47f3d40e",
+  "capturedAt": "2026-11-08T03:50:33.784Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Margaret Dubois and colleagues analyzed microbial and geochemical data from over 9,000 soil samples representing more than 80 wetland sites and found that certain similarities in microbial functional activity across sites correspond to similarities in local soil chemistry between those sites, suggesting a chemical basis for site differences in microbial behavior. This was the case for both carbon respiration and methane release but was especially pronounced for nitrogen cycling, which can be observed when microbes rapidly convert ammonium into nitrate under aerobic conditions. A separate study by Brendan Dalton found that a coastal marsh in Louisiana and an inland fen in Minnesota exhibit similar nitrogen-cycling activity, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "their similarities with respect to that activity could result from a shared aspect of their soil chemistry.",
+    "B": "the coastal marsh in Louisiana likely displays higher levels of nitrogen cycling than the inland fen in Minnesota does.",
+    "C": "the Louisiana marsh and the Minnesota fen show a greater tendency toward nitrogen cycling than most other wetland sites do.",
+    "D": "the two sites will likely become less chemically similar over time."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it presents the conclusion that most logically follows from the text's discussion of the relationship between microbial activity and soil chemistry at wetland sites. The text establishes that Dubois and colleagues found that similarities in microbial functional activity across sites correspond to similarities in local soil chemistry, with this pattern being especially pronounced for nitrogen cycling. The text then describes a separate study by Dalton finding that a Louisiana coastal marsh and a Minnesota inland fen exhibit similar nitrogen-cycling activity. Since Dubois's research showed that behavioral similarities (especially in nitrogen cycling) correspond to chemical similarities, the finding that these two sites display similar nitrogen-cycling activity suggests that their similarities with respect to that activity could result from a shared aspect of their soil chemistry.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the text provides no information about how the chemical similarity between the Louisiana marsh and the Minnesota fen might change over time. The text discusses the current relationship between functional similarities and chemical similarities but doesn't address future changes at these sites.",
+  "source": "https://cooksat.com/practice?questionId=47f3d40e&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
