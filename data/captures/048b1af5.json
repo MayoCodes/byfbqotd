@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "048b1af5",
+  "capturedAt": "2026-11-08T16:23:09.374Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The Large Hadron Collider at CERN, one of the most powerful scientific instruments ever built, accelerated protons to energies of 13 trillion electron volts across its 27-kilometer ring in 2015. The facility, which smashes particles to probe fundamental physics, has grown substantially since its predecessor began operating at the same site in 1989. ______ the collider reached energies of only about 100 billion electron volts, a small fraction of today's output.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "On the other hand,",
+    "B": "For instance,",
+    "C": "Then,",
+    "D": "Moreover,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. 'Then,' logically signals a temporal shift back to an earlier point in the collider's history — the 1989 predecessor, which reached only about 100 billion electron volts compared with the 13 trillion electron volts achieved in 2015.\n\nWhy D is incorrect:\n\nChoice D is incorrect because 'Moreover,' illogically signals that the sentence merely adds information parallel to the preceding claim. The sentence actually shifts the narrative back in time to describe an earlier state, a relationship 'Moreover,' does not convey.",
+  "source": "https://cooksat.com/practice?questionId=048b1af5&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

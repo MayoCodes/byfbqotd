@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0200080b",
+  "capturedAt": "2026-11-08T16:23:04.515Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Proxima Centauri, located approximately 4.24 light-years from Earth, is a star that radiates visible light. ______ WISE J085510.83-071442.5, located about 7.2 light-years away, is a cold brown dwarf that lacks the mass to radiate starlight.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Secondly,",
+    "B": "Consequently,",
+    "C": "Moreover,",
+    "D": "However,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. \"However\" signals the contrast between Proxima Centauri, a star that radiates visible light, and WISE J085510.83-071442.5, a cold brown dwarf that lacks the mass to radiate starlight.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"moreover\" signals a straightforward addition, but the second sentence contrasts the cold brown dwarf WISE J085510.83-071442.5 with the star Proxima Centauri.",
+  "source": "https://cooksat.com/practice?questionId=0200080b&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

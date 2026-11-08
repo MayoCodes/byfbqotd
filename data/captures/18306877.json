@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "18306877",
+  "capturedAt": "2026-11-08T16:24:17.660Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The 32 teams in the National Football League are designed to have roughly equal salary caps to maintain competitive balance. These salary caps average around $220 million per team. However, the Green Bay Packers currently have only about $210 million in committed salaries. ______ the Packers have additional cap space available, allowing them to sign more players.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Instead,",
+    "B": "Finally,",
+    "C": "As a result,",
+    "D": "For instance,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"As a result\" logically signals that the information in the sentence—that the Green Bay Packers have additional cap space available to sign more players—is the result or consequence of the Packers having only about $210 million in committed salaries. This is below the average salary cap, which teams are designed to use for competitive balance.\n\nWhy A is incorrect:\n\nChoice A is incorrect because \"instead\" illogically signals that the Packers having additional cap space is an alternative to the information about the team's committed salaries in the previous sentence. Rather, the fact that the Packers have additional cap space is a result or consequence of the team having fewer committed salaries than the average cap allows.",
+  "source": "https://cooksat.com/practice?questionId=18306877&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

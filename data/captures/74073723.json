@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "74073723",
+  "capturedAt": "2026-11-08T16:27:36.515Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Miles Davis's album Kind of Blue (1959) revolutionized jazz through its innovative use of modal improvisation rather than traditional chord progressions. With its subtle harmonies, relaxed tempo, and masterful interplay between musicians, the album influenced countless jazz artists who followed. ______ those who embraced its modal approach are often referred to as post-bop musicians.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Nevertheless,",
+    "B": "By comparison,",
+    "C": "Fittingly,",
+    "D": "Instead,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"Fittingly\" logically signals that this sentence about jazz musicians provides an appropriate consequence—the naming of post-bop musicians—that suitably follows from the influence of Kind of Blue described in the previous sentence.\n\nWhy A is incorrect:\n\nChoice A is incorrect because \"nevertheless\" illogically signals that the information in this sentence about post-bop musicians contradicts or concedes something about Kind of Blue's influence. Instead, the sentence provides an appropriate consequence of that influence.",
+  "source": "https://cooksat.com/practice?questionId=74073723&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
