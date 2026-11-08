@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ef0a7d8d",
+  "capturedAt": "2026-11-08T17:58:31.052Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "How do marine biologists track the migration patterns of deep-sea creatures that live thousands of meters below the ocean surface? Traditionally, scientists relied on studying specimens caught in fishing nets, but in 2019 a research team at the Woods Hole Oceanographic Institution attempted something ______ the bioluminescent signals produced by these elusive organisms.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "innovative: tracking",
+    "B": "innovative; tracking",
+    "C": "innovative, tracking:",
+    "D": "innovative. Tracking"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"A research team...attempted something innovative\" is an independent clause leading to an explanation of what the innovative thing was. A colon can only be used at the end of an independent clause, and typically introduces further explanation that expands upon the first clause, which makes a colon the perfect choice here.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This choice results in a punctuation error. \"Tracking...elusive organisms\" can't stand on its own as a sentence, and so it can't be linked to the independent clause \"a research team...attempted something innovative\" with a semicolon. Only two independent clauses can be connected in this way.",
+  "source": "https://cooksat.com/practice?questionId=ef0a7d8d&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

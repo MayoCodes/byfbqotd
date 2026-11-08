@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f3feff8e",
+  "capturedAt": "2026-11-08T17:58:42.239Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In 1962, during the height of the Space Race, marine biologist Rachel Carson published Silent Spring to raise awareness about environmental destruction caused by pesticides. Carson's influence would extend far beyond marine ______ as a foundational environmental activist, Carson would help launch the modern environmental movement.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "biology, though,",
+    "B": "biology. Though,",
+    "C": "biology, though:",
+    "D": "biology though"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of punctuation to mark boundaries between supplements and clauses. The comma after \"biology\" is used to separate the independent clause (\"Carson's…biology\") from the supplementary adverb phrase \"though.\" The colon after \"though\" is used to mark the boundary between the clause ending with \"though\" and the following clause (\"as…movement\"). A colon used in this way introduces information that illustrates or explains information that has come before it. In this case, the colon after \"though\" introduces the following explanation of how Carson's influence would extend far beyond marine biology: she would become a foundational environmental activist.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a run-on sentence. The two independent clauses (\"Carson's…though\" and \"as…movement\") are fused without punctuation.",
+  "source": "https://cooksat.com/practice?questionId=f3feff8e&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

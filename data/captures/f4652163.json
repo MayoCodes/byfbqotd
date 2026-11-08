@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f4652163",
+  "capturedAt": "2026-11-08T17:58:45.040Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "End-of-Sentence Punctuation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Processes such as water purification and food preservation rely on antimicrobial compounds, which eliminate harmful bacteria and other pathogens when applied correctly. The growing resistance of some bacteria to these compounds recently prompted a research group from Stanford University to examine how ______",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "their effectiveness could be improved.",
+    "B": "could their effectiveness be improved?",
+    "C": "their effectiveness could be improved?",
+    "D": "could their effectiveness be improved."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is end-of-sentence punctuation. This choice correctly uses a period to punctuate a declarative sentence that asks an indirect question (\"The growing resistance of some bacteria to these compounds recently prompted a research group from Stanford University to examine how their effectiveness could be improved\").",
+  "source": "https://cooksat.com/practice?questionId=f4652163&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

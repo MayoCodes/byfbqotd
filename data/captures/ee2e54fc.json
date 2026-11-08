@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ee2e54fc",
+  "capturedAt": "2026-11-08T17:58:28.234Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "From a distance, Japanese ceramic artist Takeshi Yamamoto's sculptures appear to be ancient bronze artifacts, their surfaces so weathered and patinated that they seem to have been excavated from archaeological sites. Upon closer examination, however, the sculptures reveal themselves to be ______ glazing technique barely detectable among the thousands of layers of carefully applied ceramic compounds.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "ceramics, the",
+    "B": "ceramics, and the",
+    "C": "ceramics; the",
+    "D": "ceramics. The"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between a main clause and a supplementary phrase. This choice correctly uses a comma to mark the boundary between the main clause (\"the sculptures...ceramics\") and the supplementary noun phrase (\"the glazing...compounds\") that provides a further description of how the sculptures can be identified as ceramics.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"the glazing.\"",
+  "source": "https://cooksat.com/practice?questionId=ee2e54fc&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

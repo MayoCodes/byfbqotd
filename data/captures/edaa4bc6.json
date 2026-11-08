@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "edaa4bc6",
+  "capturedAt": "2026-11-08T17:58:25.428Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Mycorrhizae, symbiotic fungal networks that form connections with plant roots to enhance nutrient absorption, develop when soil conditions create optimal pH levels for fungal growth. In a groundbreaking 2015 study, forest ______ demonstrated that chemical signals called terpenes are responsible for facilitating communication between distant trees through these underground networks.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "ecologist, Katsuki Tanaka",
+    "B": "ecologist Katsuki Tanaka,",
+    "C": "ecologist Katsuki Tanaka",
+    "D": "ecologist, Katsuki Tanaka,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of punctuation between titles and proper nouns. No punctuation is needed to offset the proper noun \"Katsuki Tanaka\" from the title \"forest ecologist\" that describes Tanaka.\n\nWhy D is incorrect:\n\nChoice D is incorrect because no punctuation is needed around the proper noun \"Katsuki Tanaka.\" Setting the phrase off with punctuation suggests that it could be removed without affecting the coherence of the sentence, which isn't the case.",
+  "source": "https://cooksat.com/practice?questionId=edaa4bc6&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

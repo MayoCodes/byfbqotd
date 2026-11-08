@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f065418d",
+  "capturedAt": "2026-11-08T17:58:33.842Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Five years ago, in a groundbreaking study on urban sustainability, researcher Dr. Bhavana Kamath examined energy consumption patterns across different neighborhoods. The heating systems installed in residential buildings ______ whereas some districts had solar-powered units, others relied on traditional gas furnaces. Remarkably, the areas with newer technology showed thirty percent lower energy costs.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "varied widely;",
+    "B": "varied widely:",
+    "C": "varied widely,",
+    "D": "varied widely"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation use within a sentence. In this choice, the colon after \"widely\" is used in a conventional way to introduce the following description of how the heating systems installed in residential buildings varied: whereas some districts had solar-powered units, others relied on traditional gas furnaces.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a comma splice. A comma alone cannot be used to join the main clause (\"The heating systems...widely\") with the subordinate clause and main clause that follow (\"whereas...furnaces\").",
+  "source": "https://cooksat.com/practice?questionId=f065418d&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "eb621f18",
+  "capturedAt": "2026-11-08T17:58:19.864Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The AquaGuard system, developed by Brazilian engineer Lubna Tannous, consists of sensors installed throughout urban water distribution networks. Equipped with ______ the monitoring devices detect contamination in real time, thus ensuring water safety without requiring expensive laboratory testing.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "technology developed, by machine learning algorithms, in recent years",
+    "B": "technology developed by machine learning algorithms in recent years",
+    "C": "technology, developed by machine learning algorithms in recent years,",
+    "D": "technology developed by machine learning algorithms in recent years,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation between a supplementary phrase and a main clause. This choice correctly uses a comma to mark the boundary between the supplementary phrase (\"equipped…years\"), which describes how the devices are equipped, and the main clause (\"the monitoring…time\").\n\nWhy C is incorrect:\n\nChoice C is incorrect. Placing commas around the phrase \"developed by machine learning algorithms in recent years\" suggests that it could be removed without affecting the coherence of the sentence, which isn't the case.",
+  "source": "https://cooksat.com/practice?questionId=eb621f18&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

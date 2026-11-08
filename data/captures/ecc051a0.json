@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ecc051a0",
+  "capturedAt": "2026-11-08T17:58:22.660Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "A basic digital telescope, a type of automated observatory equipment, captures images and tracks celestial objects in visible light spectrums. More sophisticated telescopes can detect a broader range of ______ and observe distant galaxy formations.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "wavelengths: operate in multiple environments",
+    "B": "wavelengths operate in multiple environments,",
+    "C": "wavelengths, operate in multiple environments;",
+    "D": "wavelengths, operate in multiple environments,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the punctuation of items in a series. The comma after \"wavelengths\" is used conventionally to separate the first and second items in the series, and the comma after \"environments\" is used conventionally to separate the second and third items.\n\nWhy A is incorrect:\n\nChoice A is incorrect because a colon can't be used in this way to separate items in a simple series.",
+  "source": "https://cooksat.com/practice?questionId=ecc051a0&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
