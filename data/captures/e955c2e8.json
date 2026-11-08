@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e955c2e8",
+  "capturedAt": "2026-11-08T17:58:14.267Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "On February 15, 2013, a meteor explosion shook the scientific world. The Chelyabinsk meteor, a massive space rock, entered Earth's atmosphere over Russia and created a spectacular airburst. The meteor took scientists months to fully ______ it released energy equivalent to thirty atomic bombs when it exploded.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "analyze in part due to its complexity,",
+    "B": "analyze, in part due to its complexity:",
+    "C": "analyze, in part due to its complexity,",
+    "D": "analyze, in part, due to its complexity"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation between main clauses and a supplementary element. This choice correctly uses a comma to mark the boundary between the main clause (\"The meteor took scientists months to fully analyze\") and the supplementary element (\"in part due to its complexity\") that provides additional information on why the meteor was difficult to analyze. Additionally, this choice correctly uses a colon to introduce another main clause that describes the meteor's power (\"it released energy equivalent to thirty atomic bombs when it exploded\").\n\nWhy A is incorrect:\n\nChoice A is incorrect because it results in a comma splice. A comma can't be used in this way to mark the boundary between two main clauses (\"The meteor...complexity\" and \"it released...exploded\"). Additionally, it fails to mark the boundary between the main clause (\"The meteor took scientists months to fully analyze\") and the supplementary element (\"in part due to its complexity\").",
+  "source": "https://cooksat.com/practice?questionId=e955c2e8&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

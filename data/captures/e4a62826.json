@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e4a62826",
+  "capturedAt": "2026-11-08T17:58:00.312Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "A comprehensive analysis examined the migration patterns of monarch butterflies across fifteen breeding sites in the Midwest over a twelve-year span. ______ discovered that when pesticide use in surrounding agricultural areas increased, the butterfly population density at those sites declined significantly.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Lepidopterist Shiori Tamura:",
+    "B": "Lepidopterist Shiori Tamura",
+    "C": "Lepidopterist, Shiori Tamura,",
+    "D": "Lepidopterist Shiori Tamura,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation use between a name and title and between a subject and a verb. No punctuation is needed between the proper noun \"Shiori Tamura\" and \"lepidopterist,\" the title that describes Tamura. Additionally, no punctuation is needed between the sentence's subject (\"Lepidopterist Shiori Tamura\") and the main verb (\"discovered\") that indicates what Tamura did.\n\nWhy C is incorrect:\n\nChoice C is incorrect because no punctuation is needed. Setting the lepidopterist's name off with commas suggests that it could be removed without affecting the coherence of the sentence, which isn't the case.",
+  "source": "https://cooksat.com/practice?questionId=e4a62826&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e6dbc005",
+  "capturedAt": "2026-11-08T17:58:08.698Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Named for the depth at which it forms, abyssal manganese is a polymetallic concretion (a slow-growing mineral ______ on the seafloor of the Clarion-Clipperton Zone, roughly 4,000 meters below the surface, the dense formation accumulates metals from seawater over millions of years.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "nodule) and occurring",
+    "B": "nodule). Occurring",
+    "C": "nodule), occurring",
+    "D": "nodule) occurring"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation use between sentences. The period after the closing parenthesis correctly marks the boundary between one sentence ('Named...nodule)') and another ('Occurring...years'). The participial phrase beginning with 'Occurring' modifies the subject of the second sentence, 'the dense formation.'\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a comma splice. A comma cannot be used in this way to mark the boundary between two sentences.",
+  "source": "https://cooksat.com/practice?questionId=e6dbc005&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

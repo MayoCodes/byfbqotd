@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e45b6626",
+  "capturedAt": "2026-11-08T17:57:57.506Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The epic poem The Iliad opens with the word \"mēnin,\" which is an ancient Greek ______ as \"rage\" or \"wrath\" in most versions, the word was creatively rendered as \"fury\" by Caroline Alexander in her 2015 translation of the poem.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "term. Translated",
+    "B": "term, translated",
+    "C": "term and translated",
+    "D": "term translated"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"The epic poem…term\") and another sentence that begins with a supplementary element (\"Translated…poem\"). The supplementary element \"translated as 'rage' or 'wrath' in most versions\" modifies the subject of the second sentence, \"the word\" (referring to mēnin).",
+  "source": "https://cooksat.com/practice?questionId=e45b6626&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

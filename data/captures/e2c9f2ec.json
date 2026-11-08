@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e2c9f2ec",
+  "capturedAt": "2026-11-08T17:57:51.905Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The first commercially successful electric vehicle, Tesla's Roadster, revolutionized sustainable transportation not only by demonstrating the viability of electric cars for everyday use but also by inspiring major automakers to accelerate their own development of electric ______ to Tesla's breakthrough, most car manufacturers had dismissed electric vehicles as impractical, a perspective that dominated the industry for decades.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "models prior",
+    "B": "models, prior",
+    "C": "models and prior",
+    "D": "models. Prior"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between the first sentence (\"The...models\") and the second sentence (\"Prior...decades\"). Because the adverbial phrase beginning with \"prior\" indicates when manufacturers dismissed electric vehicles, that phrase belongs with the second sentence.",
+  "source": "https://cooksat.com/practice?questionId=e2c9f2ec&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

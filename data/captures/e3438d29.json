@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e3438d29",
+  "capturedAt": "2026-11-08T17:57:54.698Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "On March 15, 1969, a research vessel called the Deep Explorer docked in Plymouth ______ departed from Woods Hole under the command of Captain Yagmur Bayraktar and her colleague, oceanographer Dr. Bekzod Rakhimov, exactly 127 days and 14 hours earlier, the groundbreaking expedition established a diving record that would remain unbroken for 89 years.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Harbor and having",
+    "B": "Harbor, having",
+    "C": "Harbor. Having",
+    "D": "Harbor having"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after \"Harbor\" is used correctly to mark the boundary between one sentence (\"On…Harbor\") and another sentence that begins with a supplementary phrase (\"Having…years\"). Here, the supplementary phrase beginning with \"having\" modifies the subject of the second sentence, \"the groundbreaking expedition.\"\n\nWhy A is incorrect:\n\nChoice A is incorrect. Without a comma preceding it, the conjunction \"and\" can't be used in this way to join sentences.",
+  "source": "https://cooksat.com/practice?questionId=e3438d29&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

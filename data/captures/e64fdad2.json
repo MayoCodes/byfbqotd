@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e64fdad2",
+  "capturedAt": "2026-11-08T17:58:05.899Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Archaeologist Carmen Pacheco was a pioneering researcher in landscape ______ demonstrated by her theory that rather than focusing solely on individual artifacts, such as pottery or tools, excavations should analyze the spatial relationships and environmental contexts that reveal how ancient communities interacted with their surroundings, Pacheco's methodology was distinctly holistic.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "archaeology. As",
+    "B": "archaeology as",
+    "C": "archaeology and as",
+    "D": "archaeology, as"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"Archaeologist...archaeology\") and another (\"As...holistic\"). The long adverbial element \"as demonstrated...surroundings\" modifies the content in the following clause to support the claim that Pacheco's methodology was holistic.\n\nWhy C is incorrect:\n\nChoice C is incorrect. Without a comma preceding it, the conjunction \"and\" can't be used in this way to join sentences.",
+  "source": "https://cooksat.com/practice?questionId=e64fdad2&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
