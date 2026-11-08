@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1d2d9f84",
+  "capturedAt": "2026-11-08T17:49:54.181Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Core-ring fingerprinting (CRF), a beam-dating method developed by historians studying heritage temples in Kyoto, matches the unique sequence of growth-ring widths inside a wooden support to regional master chronologies, allowing researchers like Mei Tanaka to estimate when a particular tree was felled for construction. Reliable application of CRF demands careful attention to the various ______ distort a beam's ring sequence: shifts in regional rainfall patterns, the replacement of damaged beams during later restorations, and natural variation among cypress subspecies.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "factors, that",
+    "B": "factors; that",
+    "C": "factors that",
+    "D": "factors: that"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation between a noun and a restrictive relative clause. The noun 'factors' is immediately followed by the restrictive relative clause 'that distort a beam's ring sequence,' which is essential to identifying the factors in question. A restrictive relative clause is never set off from the noun it modifies, so no punctuation belongs between 'factors' and 'that.'\n\nWhy A is incorrect:\n\nChoice A is incorrect because a comma can't separate a noun from a restrictive relative clause that modifies it. The clause 'that distort a beam's ring sequence' is essential to the noun's meaning, and clauses beginning with 'that' are restrictive and are never preceded by a comma.",
+  "source": "https://cooksat.com/practice?questionId=1d2d9f84&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

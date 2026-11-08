@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "137682de",
+  "capturedAt": "2026-11-08T17:49:32.124Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma After Introductory Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Nearly 15,000 plant species are currently threatened with extinction. Although most endangered plants are located in tropical ______ dozen are native to temperate regions of North America.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "rainforests. Several",
+    "B": "rainforests; several",
+    "C": "rainforests, several",
+    "D": "rainforests: several"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. This choice uses a comma to correctly separate the dependent clause \"although…rainforests\" from the independent clause \"several dozen are native…America.\"\n\nWhy B is incorrect:\n\nChoice B is incorrect. This choice results in a punctuation error. \"Although…rainforests\" is a dependent clause and can't be joined to the independent clause \"several dozen are native…America\" with a semicolon. A semicolon can only join two independent clauses.",
+  "source": "https://cooksat.com/practice?questionId=137682de&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

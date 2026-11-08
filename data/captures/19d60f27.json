@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "19d60f27",
+  "capturedAt": "2026-11-08T17:49:48.653Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The distinction between phonemes and morphemes illustrates how languages organize sounds into meaningful ______ whereas phonemes are the smallest units of sound that distinguish meaning, morphemes are the smallest units of meaning that can combine to form words.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "patterns",
+    "B": "patterns,",
+    "C": "patterns:",
+    "D": "patterns and,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of a colon within a sentence. In this choice, the colon correctly introduces the following explanation of the different patterns of phonemes and morphemes.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the comma after “patterns” does not correctly connect the opening main clause to the final main clause, “morphemes are the smallest units of meaning that can combine to form words.” The intervening “whereas” clause is subordinate, so this punctuation leaves a comma splice.",
+  "source": "https://cooksat.com/practice?questionId=19d60f27&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "147e805f",
+  "capturedAt": "2026-11-08T17:49:37.622Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "By examining the distinctive patterns of tree ring growth within ancient wood samples, archaeologists can determine the age of wooden artifacts with remarkable accuracy. When tree ring data is unavailable, researchers rely on ______ study of ceramic styles and decorative motifs (iconography)—to estimate the age of an artifact based on known historical periods when specific artistic elements were popular.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "typology—the",
+    "B": "typology (the",
+    "C": "typology: the",
+    "D": "typology, the"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the use of punctuation within a sentence. The dash after \"typology\" pairs with the dash after \"(iconography)\" to separate the supplementary element \"the study of ceramic styles and decorative motifs (iconography)\" from the rest of the sentence. This supplementary element functions to define the term \"typology,\" and the pair of dashes indicates that this element could be removed without affecting the grammatical coherence of the sentence.",
+  "source": "https://cooksat.com/practice?questionId=147e805f&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

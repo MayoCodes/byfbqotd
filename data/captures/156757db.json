@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "156757db",
+  "capturedAt": "2026-11-08T17:49:40.380Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Two years before Marie Curie became the first woman to win a Nobel Prize in Physics, a brilliant Polish chemist named Jadwiga Szeliga made groundbreaking discoveries about radioactive ______ to many researchers, Szeliga's work provided the foundation for Curie's later achievements and eventually contributed to modern nuclear science.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "materials, according",
+    "B": "materials according",
+    "C": "materials. According",
+    "D": "materials and according"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"Two years…materials\" and \"according to…science\" are both independent clauses. Separating them with a period and turning them into their own sentences is the only grammatically correct choice among the provided options.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This choice results in a run-on sentence, which occurs when two independent clauses are joined without punctuation. \"Two years…materials\" and \"according to…science\" are both independent clauses, so they need to be either joined by a semicolon, joined by a comma and a coordinating conjunction, or separated by a period.",
+  "source": "https://cooksat.com/practice?questionId=156757db&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
