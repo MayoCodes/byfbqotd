@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8749aa6c",
+  "capturedAt": "2026-11-08T16:43:31.595Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Pronoun-Antecedent Agreement",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In 2011, ceramic artist Sophia Magnusson designed the glazed stoneware installation Tidelines for the Reykjavik Harbor Pavilion. Throughout her career, Magnusson has produced work ranging from functional tableware to large public sculptures. However, ______ the most recognition for architectural tile murals.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "those get",
+    "B": "both get",
+    "C": "she gets",
+    "D": "they all get"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun 'she' agrees in number with the singular antecedent 'Sophia Magnusson,' and it clearly indicates that Magnusson receives the most recognition for architectural tile murals.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the plural pronoun 'both' doesn't agree in number with the singular antecedent 'Sophia Magnusson,' and it incorrectly suggests that two people receive recognition when only Magnusson is being discussed.",
+  "source": "https://cooksat.com/practice?questionId=8749aa6c&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

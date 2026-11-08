@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "862e8a05",
+  "capturedAt": "2026-11-08T16:43:28.848Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Known as ocean \"underwater forests,\" kelp forests are dense marine ecosystems dominated by large brown algae called kelp. Supporting diverse marine life in coastal waters through shelter and nutrients, ______",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "these forests sustain over 700 marine species annually, according to recent research.",
+    "B": "a recent study's findings indicate that these ecosystems sustain over 700 marine species annually.",
+    "C": "an estimated 700 marine species are sustained by these ecosystems annually, according to recent research.",
+    "D": "recent research has found that these ecosystems sustain over 700 marine species annually."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The subject of the modifier \"supporting diverse marine life in coastal waters through shelter and nutrients\" is \"kelp forests.\" Subject-modifier placement requires a modifier and its subject to be next to each other, so \"kelp forests\" or some variant meaning \"kelp forests\" (in this case, \"these forests\") must begin the missing clause.",
+  "source": "https://cooksat.com/practice?questionId=862e8a05&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
