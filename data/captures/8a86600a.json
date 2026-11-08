@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8a86600a",
+  "capturedAt": "2026-11-08T15:34:16.052Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Some sampling models predict that the distance prospectors traverse between ore outcrops will decline as outcrop density increases, but geochemists Deepa Ishikawa and Aleksei Ricci showed that prospectors' behavior is inconsistent with this prediction if the outcrops in dense clusters are ______: prospectors will traverse beyond clusters of low mineralogical variety to obtain multiple resource types.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "depleted",
+    "B": "homogeneous",
+    "C": "unequivocal",
+    "D": "dispersed"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'homogeneous,' meaning uniform or of the same kind, most logically completes the text's discussion of Ishikawa and Ricci's finding. The text indicates that some sampling models predict that prospectors will traverse shorter distances as outcrop density increases. However, the researchers identified a condition in which prospectors do not behave this way: when they encounter clusters of 'low mineralogical variety' — that is, clusters in which the outcrops are largely of the same composition — they traverse beyond those clusters to obtain multiple resource types. The blank must therefore describe outcrops that are uniform in composition, which 'homogeneous' captures.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the text indicates that prospectors behave contrary to the models' predictions when they encounter clusters of outcrops that lack mineralogical variety, not when the outcrops are 'depleted,' or emptied or reduced in quantity. While depleted outcrops might plausibly prompt prospectors to move on, the text does not suggest that Ishikawa and Ricci examined that situation.",
+  "source": "https://cooksat.com/practice?questionId=8a86600a&subject=english&domain=craft-and-structure&skills=words_in_context&bank=cooksat",
+  "images": []
+}
