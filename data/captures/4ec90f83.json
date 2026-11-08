@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4ec90f83",
+  "capturedAt": "2026-11-08T17:52:00.978Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Volcanoes are generally grouped into four shapes: shield, stratovolcano, cinder cone, and lava dome. Mauna Loa in the Hawaiian Islands is a shield ______ with an estimated volume of about 75,000 km³, it is one of the largest volcanoes of any shape on Earth.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "volcano,",
+    "B": "volcano, and",
+    "C": "volcano and",
+    "D": "volcano"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"and\" to join the first main clause (\"Mauna Loa...volcano\") and the second main clause (\"it...Earth\").\n\nWhy C is incorrect:\n\nChoice C is incorrect because when coordinating two longer main clauses such as these, it's conventional to use a comma before the coordinating conjunction.",
+  "source": "https://cooksat.com/practice?questionId=4ec90f83&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

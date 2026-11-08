@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4d34b807",
+  "capturedAt": "2026-11-08T17:51:52.681Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Metamorphosis is a 1995 sculpture by the Brazilian artist Carlos Fajardo. Like many of Fajardo's works, Metamorphosis, which depicts a dancer in mid-leap, seeks to capture the complete range of human ______ featuring flowing bronze forms that twist and spiral upward, the sculpture embodies the grace and power of athletic movement.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "motion",
+    "B": "motion while",
+    "C": "motion:",
+    "D": "motion, while"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of a colon within a sentence. In this choice, the colon correctly introduces the following description of how the sculpture captures the complete range of human motion through its flowing bronze forms.\n\nWhy B is incorrect:\n\nChoice B is incorrect because it results in a run-on sentence. The main clauses (\"Like…motion\" and \"while…movement\") are fused without punctuation. Furthermore, the conjunction \"while\" fails to indicate that what follows is a description of how the sculpture captures the complete range of human motion.",
+  "source": "https://cooksat.com/practice?questionId=4d34b807&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5490971f",
+  "capturedAt": "2026-11-08T17:52:14.923Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "President Franklin D. Roosevelt established the Civilian Conservation Corps in 1933 as part of his New Deal programs. The CCC focused on environmental conservation projects, including forest ______ the construction of hiking trails, and the development of state parks.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "restoration",
+    "B": "restoration;",
+    "C": "restoration,",
+    "D": "restoration:"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Notice that \"forest restoration\" is the first item in a list of three things. We must use a comma to separate the first two items in the list, just as a comma is used to separate \"the construction of hiking trails\" and \"the development of state parks.\"\n\nWhy B is incorrect:\n\nChoice B is incorrect. This choice creates a punctuation error. Notice that \"forest restoration\" is the first item in a list of three things. While semicolons are sometimes used to separate list items, this list uses commas to separate the other list items, and lists must use the same punctuation throughout.",
+  "source": "https://cooksat.com/practice?questionId=5490971f&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

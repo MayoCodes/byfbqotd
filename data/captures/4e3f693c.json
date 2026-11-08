@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4e3f693c",
+  "capturedAt": "2026-11-08T17:51:58.211Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Research by pioneering nineteenth-century British ______ was highlighted in Scientific Legacies, an exhibition at the Royal Institution that showcased the work of scientists whose discoveries fundamentally changed our understanding of the natural world.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "scientists: Charles Darwin and Alfred Russel Wallace,",
+    "B": "scientists Charles Darwin and Alfred Russel Wallace",
+    "C": "scientists Charles Darwin, and Alfred Russel Wallace,",
+    "D": "scientists, Charles Darwin and Alfred Russel Wallace"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of punctuation around noun phrases. No punctuation is needed because the coordinated noun phrase \"Charles Darwin and Alfred Russel Wallace\" is a restrictive appositive, meaning that it provides essential identifying information about the noun phrase before it, \"pioneering nineteenth-century British scientists.\"\n\nWhy D is incorrect:\n\nChoice D is incorrect because no punctuation is needed between the noun phrase \"pioneering nineteenth-century British scientists\" and the restrictive appositive \"Charles Darwin and Alfred Russel Wallace.\"",
+  "source": "https://cooksat.com/practice?questionId=4e3f693c&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4d590364",
+  "capturedAt": "2026-11-08T17:51:55.423Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Between December 4 and December 17 each year, debris shed by asteroid 3200 Phaethon enters Earth's atmosphere at a velocity of 35 kilometers per second. Only a small fraction of these particles are expected to reach the planet's ______ since friction with the upper atmosphere heats the meteoroids until most disintegrate in the mesosphere, generating the bright streaks of the Geminid meteor shower.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "surface; however.",
+    "B": "surface, however,",
+    "C": "surface, however;",
+    "D": "surface. However,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation with a supplementary transitional element within a sentence. This choice correctly uses a pair of commas to set off the transitional adverb \"however\" from the rest of the sentence (\"Only a small fraction...surface...meteor shower\"). The transitional element signals a contrast between particles entering the atmosphere and few reaching the surface, and the paired commas properly mark its boundaries within the sentence.\n\nWhy C is incorrect:\n\nChoice C is incorrect because while it correctly places a comma before the transitional adverb \"however,\" it incorrectly places a semicolon after it. A semicolon cannot be used in this way to join a transitional element to a dependent clause beginning with \"since.\"",
+  "source": "https://cooksat.com/practice?questionId=4d590364&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

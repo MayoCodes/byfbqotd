@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4ecf85b6",
+  "capturedAt": "2026-11-08T17:52:03.808Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In developing his science fiction works, Korean-American author Chang-rae Lee has found inspiration in the dystopian classics of the twentieth century. His 2017 novel On Such a Full Sea, for example, is a thoughtful reimagining of themes from Brave New World, while his 2021 novel ______ presents a haunting exploration of concepts first introduced in 1984.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "My Year Abroad—",
+    "B": "My Year Abroad,",
+    "C": "My Year Abroad:",
+    "D": "My Year Abroad"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation between a subject and a verb. When, as in this case, a subject (\"his 2021 novel My Year Abroad\") is immediately followed by a verb (\"presents\"), no punctuation is needed.\n\nWhy B is incorrect:\n\nChoice B is incorrect because no punctuation is needed between the subject and the verb.",
+  "source": "https://cooksat.com/practice?questionId=4ecf85b6&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

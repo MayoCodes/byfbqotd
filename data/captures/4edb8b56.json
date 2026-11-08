@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4edb8b56",
+  "capturedAt": "2026-11-08T17:52:06.582Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "With nearly 25,000 participants from over 80 countries, the International Conference on Climate Action and ______ or ICCS 2023, as the summit was more widely referred to—became the most comprehensive environmental gathering in recent history. ICCS brought together scientists, policymakers, and activists from across the globe to Copenhagen, Denmark, for a week-long forum on sustainable development and climate solutions.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Sustainability:",
+    "B": "Sustainability—",
+    "C": "Sustainability,",
+    "D": "Sustainability"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The text uses a dash to introduce a nonessential element that explains the acronym ICCS. The dash matches the dash that comes after \"referred to,\" ending the descriptive aside.\n\nWhy A is incorrect:\n\nChoice A is incorrect. A colon can only come after an independent clause, which isn't the case here.",
+  "source": "https://cooksat.com/practice?questionId=4edb8b56&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
