@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9894756a",
+  "capturedAt": "2026-11-08T16:44:18.219Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Polish-born Marie Curie was a physicist and chemist whose discoveries revolutionized our understanding of radioactivity. Named in 1998 as one of the greatest achievements by a European scientist in the twentieth century, ______ led to the first practical applications of radium in medical treatments.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Curie isolated pure radium in 1902; it",
+    "B": "in 1902 Curie isolated pure radium, which",
+    "C": "pure radium was isolated by Curie in 1902 and",
+    "D": "Curie's 1902 isolation of pure radium"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"Curie's 1902 isolation\" the subject of the sentence and places it immediately after the modifying phrase \"named…century.\" In doing so, this choice clearly establishes that Curie's 1902 isolation of pure radium—and not another noun in the sentence—was named in 1998 as one of the greatest achievements by a European scientist in the twentieth century.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it results in a dangling modifier. The placement of the noun \"Curie\" immediately after the modifying phrase illogically suggests that Curie herself was named as one of the greatest achievements by a European scientist in the twentieth century.",
+  "source": "https://cooksat.com/practice?questionId=9894756a&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

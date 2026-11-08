@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9261bf31",
+  "capturedAt": "2026-11-08T16:44:09.986Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Pronoun-Antecedent Agreement",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Twenty-five paintings by Vincent van Gogh, creator of the famous work The Starry Night (1889), are housed at the Metropolitan Museum of Art. ______ paintings reveal van Gogh's distinctive brushwork technique and vibrant use of color.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "One",
+    "B": "That",
+    "C": "These",
+    "D": "This"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of determiners in a sentence. The plural determiner \"these\" agrees in number with the plural noun \"paintings\" that it modifies. This choice clearly indicates that the paintings reveal van Gogh's technique.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the singular determiner \"one\" doesn't agree in number with the plural noun \"paintings.\"",
+  "source": "https://cooksat.com/practice?questionId=9261bf31&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
