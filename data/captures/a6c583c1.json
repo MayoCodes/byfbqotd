@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a6c583c1",
+  "capturedAt": "2026-11-08T16:09:46.296Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Marine biologist Dr. Abigail Mensah was studying fish that thrive in both shallow and deep ocean waters.\n• She examined the swim bladder density, or the amount of gas per unit volume, of the species she planned to study.\n• Mensah found that surface-dwelling fish had low-density swim bladders with a density of 0.15 g/cm³.\n• She found that deep-water fish had high-density swim bladders with a density of 0.89 g/cm³.\n• The density of a fish's swim bladder is directly related to the water pressure at its typical depth.",
+  "prompt": "The student wants to contrast the swim bladder density of surface-dwelling fish with that of deep-water fish. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The swim bladder density of surface-dwelling fish and deep-water fish was determined by an analysis of the gas volume in each species.",
+    "B": "The density of a fish's swim bladder is directly related to the water pressure at its typical depth, as Mensah's research confirmed.",
+    "C": "Whereas the surface-dwelling fish had swim bladders with a density of just 0.15 g/cm³, the deep-water fish had high-density swim bladders with a density of 0.89 g/cm³.",
+    "D": "Though the surface-dwelling fish and deep-water fish had different swim bladder densities, Mensah planned to study both types."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence uses \"whereas\" to contrast the swim bladder densities of the two fish types, noting that the density of surface-dwelling fish was just 0.15 g/cm³, far lower than that of deep-water fish (0.89 g/cm³).",
+  "source": "https://cooksat.com/practice?questionId=a6c583c1&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a7004bec",
+  "capturedAt": "2026-11-08T16:09:48.997Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Blue zoisite is a rare gemstone variety found in the Merelani Hills of Tanzania.\n• It was first commercially mined in 1967 after being identified by prospector Thao Tang.\n• Spectroscopic analysis of blue zoisite crystals shows trace vanadium ions substituting for aluminum within the silicate lattice.\n• Mineralogist Mpho Nwosu argues that blue zoisite's distinctive coloration results from the presence of trace vanadium in the crystal structure.",
+  "prompt": "The student wants to support Nwosu's claim about blue zoisite. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Blue zoisite, a rare gemstone from the Merelani Hills of Tanzania, was first commercially mined in 1967.",
+    "B": "According to Nwosu, the distinctive coloration of blue zoisite, which was first commercially mined in 1967, results from the presence of trace vanadium in the crystal structure.",
+    "C": "Nwosu argues that blue zoisite's distinctive coloration results from trace vanadium in its crystal structure; the mineral is found in the Merelani Hills of Tanzania.",
+    "D": "Nwosu argues that blue zoisite's distinctive coloration results from the presence of trace vanadium in the crystal structure; spectroscopic analysis supports this assertion, showing vanadium ions substituting for aluminum within the silicate lattice."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence effectively supports Nwosu's claim by both presenting the claim itself—that blue zoisite's distinctive coloration results from trace vanadium in the crystal structure—and providing concrete evidence that demonstrates it: spectroscopic analysis shows vanadium ions substituting for aluminum within the silicate lattice. This pairing of claim and supporting evidence accomplishes the goal of supporting Nwosu's assertion.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The sentence presents Nwosu's claim about trace vanadium causing the coloration, but it does not provide any concrete evidence to support that claim. Merely mentioning the year the mineral was first commercially mined does not demonstrate that vanadium is responsible for its color.",
+  "source": "https://cooksat.com/practice?questionId=a7004bec&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

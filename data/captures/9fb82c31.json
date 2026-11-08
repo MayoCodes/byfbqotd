@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9fb82c31",
+  "capturedAt": "2026-11-08T16:09:29.930Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make and Support Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• By adjusting their wing angles, birds can navigate complex wind currents during flight.\n• In 2019, Yara Issa was inspired by bird flight mechanics to design adaptive aircraft wings.\n• Over the course of two years, she designed, modeled, tested, and perfected her wing system.\n• Each wing segment is equipped with sensors that detect changes in wind pressure.\n• The sensors trigger automatic adjustments to the wing's angle and curvature to maintain optimal flight stability.",
+  "prompt": "The student wants to begin a narrative about the creation of the wing system. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "When Yara Issa's wing system encounters changing wind pressure, sensors automatically adjust the wing's angle and curvature to maintain flight stability.",
+    "B": "After two years, Yara Issa had designed, modeled, tested, and perfected her adaptive wing system.",
+    "C": "Birds, which have inspired aircraft design, navigate complex wind currents by adjusting their wing angles.",
+    "D": "Inspired by birds, which navigate wind currents by adjusting their wing angles, Yara Issa set out to design aircraft wings capable of similar adaptive behavior."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence effectively begins a narrative about the creation of the wing system, explaining that birds' wind navigation technique inspired Yara Issa to \"set out to design\" aircraft wings that could adapt in a similar manner.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The sentence describes how the wing system responds to wind pressure; it doesn't effectively begin a narrative about the creation of the wing system.",
+  "source": "https://cooksat.com/practice?questionId=9fb82c31&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
