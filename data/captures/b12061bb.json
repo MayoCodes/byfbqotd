@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b12061bb",
+  "capturedAt": "2026-11-08T16:29:55.804Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "With its parlors, reading rooms, and quiet courtyards offering refuge to neighborhood residents, Jane Addams's Hull House, founded in Chicago in 1889, can appear to stand apart from the chaotic city surrounding it. As historians Simone Hoffman and Daniel Fletcher have argued, however, Addams's settlement was a deliberate response to—and pointed critique of—the overcrowded tenements and grueling factory conditions then transforming urban America. ______ despite its sheltering character, Hull House bears the imprint of the very industrial pressures it sought to address.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "However,",
+    "B": "For example,",
+    "C": "Furthermore,",
+    "D": "As such,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. \"As such\" logically signals that the information in this sentence—that Hull House bears the imprint of the industrial pressures it sought to address—is a consequence of the previous information about the settlement being a deliberate response to and critique of overcrowded tenements and factory conditions. Because Hull House was created as a response to these urban conditions, it therefore carries traces of them.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"for example\" illogically signals that the information in this sentence provides an example of the scholars' argument in the previous sentence. Instead, the claim that Hull House bears the imprint of industrial pressures is a consequence of the settlement being a response to those pressures, not merely an example of that response.",
+  "source": "https://cooksat.com/practice?questionId=b12061bb&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

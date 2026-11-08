@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "bc62965b",
+  "capturedAt": "2026-11-08T16:30:12.257Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "\"Water Wars,\" a dystopian novel by Canadian author Luz Arevalo, depicts a future society where clean drinking water has become scarce and is controlled entirely by powerful corporations. ______ citizens must buy water using a digital currency known as Hydro tokens.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In any case,",
+    "B": "Nevertheless,",
+    "C": "As a result,",
+    "D": "Earlier,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"As a result\" logically signals that this sentence about citizens purchasing water describes a consequence of the system described in the previous sentence—because water is controlled by corporations, people must buy it using digital currency.\n\nWhy A is incorrect:\n\nChoice A is incorrect because \"in any case\" illogically signals that the information about citizens purchasing water occurs regardless of the situation described in the previous sentence. Instead, the sentence describes a direct consequence of corporations controlling the water supply.",
+  "source": "https://cooksat.com/practice?questionId=bc62965b&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
