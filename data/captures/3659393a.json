@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3659393a",
+  "capturedAt": "2026-11-08T04:21:42.392Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Main Idea - Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Studies of volcanic plume formation have predominantly focused on buoyant plumes (those rising through thermal convection alone), so Sean Novak, Asha Ito, and colleagues used a pressurized vent chamber to produce and study collimated jets, narrowly focused eruption columns that can form when two adjacent magma conduits discharge simultaneously. Buoyant plumes stall when the density contrast (plume-to-atmosphere ratio) falls below a critical value; stalling thus caps plume altitude. Novak et al. found that collimated jets can surpass that cap, as factors beyond density contrast (e.g., discharge alignment and conduit geometry) govern collimated-jet stalling.",
+  "prompt": "Which choice best states the main idea of the text?",
+  "choices": {
+    "A": "Novak et al. suggest that collimated jets can form when two adjacent magma conduits discharge simultaneously and that collimated jets tend to be taller than buoyant plumes.",
+    "B": "The process of stalling limits the altitude of buoyant plumes, but the study by Novak et al. suggests that collimated jets can exceed those limits if their plume-to-atmosphere density ratio reaches a critical value.",
+    "C": "The study by Novak et al. suggests that when magma conduits discharge in specific ways, the resulting plume may be taller than would be expected based on the properties of buoyant plumes.",
+    "D": "Previous studies have suggested that density contrast mediates stalling in buoyant plumes, but the study by Novak et al. shows that discharge alignment and conduit geometry may also influence stalling in such plumes."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most accurately states the main idea of the text. The text begins by noting that previous studies focused on buoyant plumes, which stall when density contrast falls below a critical value, capping their altitude. The text then describes how Novak et al. studied collimated jets, which form when two adjacent magma conduits discharge simultaneously. According to the text, Novak et al. found that collimated jets can surpass the altitude cap that applies to buoyant plumes because factors other than just density contrast (such as discharge alignment and conduit geometry) govern collimated-jet stalling. Thus, the main idea is that when magma conduits discharge in specific ways, the resulting plume may be taller than would be expected based on the properties of buoyant plumes.\n\nWhy B is incorrect:\n\nChoice B is incorrect because it reverses the logic of the text's explanation. The text states that buoyant plumes stall when density contrast reaches a critical value, which caps their altitude. Novak et al. found that collimated jets can exceed those caps because factors other than density contrast (discharge alignment and conduit geometry) govern collimated-jet stalling. This choice incorrectly suggests that collimated jets exceed limits by reaching the density-ratio threshold, when in fact they exceed limits despite the threshold because different factors are at play.",
+  "source": "https://cooksat.com/practice?questionId=3659393a&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}
