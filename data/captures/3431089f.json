@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "3431089f",
+  "capturedAt": "2026-11-08T00:29:22.607Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nThe Riverton Microloan Initiative works to reduce long-term dependence on municipal startup subsidies by helping new small businesses become self-sustaining. The program issued 45 low-interest loans in 2010 to launch its first cohort of subsidized businesses. Since 2012, qualifying businesses have been transitioned off subsidies and tracked as self-sustaining. Although many small businesses in Riverton still rely on public support, researchers Yaw Abubakar and Ivy Hoffman argue that the initiative has been reasonably successful.",
+  "prompt": "Which choice best describes data from the graph that support the researchers' claim?",
+  "choices": {
+    "A": "The number of subsidized businesses in Riverton steadily decreased between 2014 and 2020.",
+    "B": "The numbers of both subsidized and self-sustaining businesses in Riverton decreased slightly from 2019 to 2020.",
+    "C": "The difference between the numbers of subsidized and self-sustaining businesses in Riverton remained relatively steady between 2014 and 2017.",
+    "D": "The number of self-sustaining businesses in Riverton increased overall from 2014 to 2020 and exceeded the number of those still receiving subsidies."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it best describes data from the graph that support the researchers' claim. The passage describes the Riverton Microloan Initiative, which aims to help new businesses become self-sustaining rather than dependent on municipal subsidies. Abubakar and Hoffman claim that the initiative has been reasonably successful, and a reasonable indicator of that success would be growth in the number of self-sustaining businesses relative to those still receiving subsidies. The graph shows Riverton's subsidized and self-sustaining business counts from 2014 to 2020. In 2014 there were 230 self-sustaining businesses, but by 2020 there were 340. Meanwhile, over the same period the number of subsidized businesses remained under 200. Thus, the researchers' claim about the initiative's success is supported by data showing that the number of self-sustaining businesses in Riverton increased overall from 2014 to 2020 and exceeded the number of those still receiving subsidies.\n\nWhy B is incorrect:\n\nChoice B is incorrect. Even though the graph does show a slight decrease in both the subsidized and self-sustaining counts from 2019 to 2020, such a decrease during a particular year would not demonstrate the overall success of the initiative.",
+  "source": "https://cooksat.com/practice?questionId=3431089f&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3431089f/1-26224017dfaa911d.png"
+    }
+  ]
+}

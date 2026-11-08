@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "349b50ef",
+  "capturedAt": "2026-11-08T00:29:26.375Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nThe Ogallala, Edwards, and Floridan aquifers are among the largest groundwater systems in the United States, and hydrologists track each aquifer's annual recharge rate, measured from October to September for the Ogallala and Floridan and from January to December for the Edwards. A student is reviewing these rates and finds that for the measurement year 2018, the percentage of average capacity recharged in ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the text?",
+  "choices": {
+    "A": "the Edwards aquifer increased from the previous measurement year but remained lower than the percentage recharged in the Floridan aquifer.",
+    "B": "the Edwards aquifer exceeded the percentage recharged in the Ogallala aquifer for the first time.",
+    "C": "the Ogallala aquifer decreased from the previous measurement year but remained the highest among the three aquifers.",
+    "D": "the Floridan aquifer reached its highest point during the five measurement years."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively uses data from the graph to complete the text's discussion of recharge percentages in the measurement year 2018. The graph shows that for 2018, the percentage of average capacity recharged in the Ogallala aquifer decreased to about 72 percent from about 82 percent in the previous measurement year. The graph also shows that the Ogallala's percentage remained the highest among the three aquifers in 2018, surpassing the Edwards (about 32 percent) and the Floridan (about 8 percent).\n\nWhy A is incorrect:\n\nChoice A is incorrect because the graph indicates that the percentage recharged in the Edwards aquifer did not increase from the previous measurement year; it decreased from about 35 percent to about 32 percent. Moreover, the graph shows that the Edwards percentage remained higher, not lower, than the Floridan percentage in 2018.",
+  "source": "https://cooksat.com/practice?questionId=349b50ef&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/349b50ef/1-d63f324ebfc1a764.png"
+    }
+  ]
+}

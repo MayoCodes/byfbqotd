@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3cd6d0c3",
+  "capturedAt": "2026-11-08T00:29:55.150Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Students in a biology class investigated why individual zebrafish (Danio rerio) can differ from one another in the rate at which they regenerate damaged caudal fins. The students compared wild-type zebrafish and knockout zebrafish, which are zebrafish with specific genes deactivated, when zebrafish of each type were housed in similar naturalistic tanks and periodically assessed after standardized fin clipping. Finding that knockout zebrafish with the gene Fgfr1 deactivated tended to regenerate their fins more slowly than did wild-type zebrafish, the students concluded that differences in fin regeneration rate among zebrafish in nature are solely attributable to variations in the level of expression of Fgfr1.",
+  "prompt": "Which finding, if true, would most directly weaken the students' conclusion?",
+  "choices": {
+    "A": "Some wild-type zebrafish were very similar to the knockout zebrafish with regard to fin regeneration rate but showed a wide variety of levels of expression of Fgfr1.",
+    "B": "The level of expression of Fgfr1 does not appear to affect the functioning of any other genes in zebrafish.",
+    "C": "A sampling of zebrafish captured in natural settings shows that individual zebrafish can differ from one another in the level of expression of Fgfr1.",
+    "D": "The zebrafish with Fgfr1 deactivated were identical to the wild-type zebrafish except with regard to fin regeneration rate."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it presents a finding that, if true, would weaken the students' conclusion that differences in fin regeneration rate among zebrafish in nature are solely attributable to variations in the level of expression of Fgfr1. The text explains that the students found that knockout zebrafish with Fgfr1 deactivated regenerated their fins more slowly than wild-type zebrafish did, leading them to conclude that Fgfr1 expression is the sole cause of regeneration-rate differences. However, if some wild-type zebrafish had regeneration rates very similar to the knockout zebrafish but showed a wide variety of Fgfr1 expression levels, this would indicate that zebrafish with very different levels of Fgfr1 expression can have similar regeneration rates. This finding would break the claimed relationship between Fgfr1 expression level and regeneration rate, suggesting that something other than Fgfr1 expression must also influence regeneration, thereby weakening the claim that Fgfr1 is the sole cause.\n\nWhy B is incorrect:\n\nChoice B is incorrect because a finding about whether Fgfr1 affects the functioning of other genes in zebrafish would have no bearing on whether variations in Fgfr1 expression are the sole cause of differences in fin regeneration rate. The students' conclusion is specifically about the relationship between Fgfr1 expression and regeneration, and whether Fgfr1 influences other genes is irrelevant to that causal claim.",
+  "source": "https://cooksat.com/practice?questionId=3cd6d0c3&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

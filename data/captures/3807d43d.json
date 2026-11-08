@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3807d43d",
+  "capturedAt": "2026-11-08T00:29:33.574Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Previous research has shown that auditory enrichment increases foraging duration among captive primates and reduces behaviors associated with stress, such as repetitive pacing and self-grooming. Noor Santos and Aiko Yamada predicted that analogous results would emerge among captive squirrel monkeys exposed to a novel virtual forest soundscape. After recording each monkey's foraging duration and feeding-bout frequency to measure behavioral endurance (e.g., the ability to sustain extended foraging at a steady rate) under soundscape conditions (enriched, discordant, or silent) delivered during daily observation sessions, the researchers used standardized welfare indices to assess each animal's stress levels during the task.",
+  "prompt": "Assuming monkeys had similar baseline activity levels, which finding from the study, if true, would most strongly suggest that the enriched soundscape had the predicted welfare effect but not the predicted behavioral effect?",
+  "choices": {
+    "A": "Compared with monkeys exposed to discordant or silent soundscapes, monkeys exposed to the enriched soundscape showed lower stress indices on average but sustained their foraging durations and feeding-bout rates for approximately similar lengths of time.",
+    "B": "Compared with monkeys exposed to enriched or silent soundscapes, monkeys exposed to the discordant soundscape showed higher stress indices on average but sustained their foraging durations and feeding-bout rates for longer lengths of time.",
+    "C": "Compared with monkeys exposed to discordant soundscapes, monkeys exposed to silent soundscapes showed similar stress indices on average but sustained their foraging durations and feeding-bout rates for shorter lengths of time than monkeys exposed to the enriched soundscape.",
+    "D": "Compared with monkeys exposed to the enriched soundscape, monkeys exposed to silent soundscapes showed higher stress indices on average but sustained their foraging durations and feeding-bout rates for longer lengths of time than monkeys exposed to discordant soundscapes."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it presents a finding that, if true, would most strongly suggest that the enriched soundscape had the predicted welfare effect but not the predicted behavioral effect. The text explains that the researchers predicted the enriched soundscape would produce enhanced behavioral endurance (the ability to sustain extended foraging at a steady rate) and reduced stress indicators. The question asks for a finding where the welfare prediction was confirmed but the behavioral prediction was not. A finding that monkeys exposed to the enriched soundscape showed lower stress indices on average (confirming the predicted welfare effect) but sustained their foraging durations and feeding-bout rates for approximately similar lengths of time as monkeys in the discordant or silent conditions (showing no behavioral endurance advantage) would match exactly what the question asks for: the welfare effect occurred, but the behavioral effect did not.",
+  "source": "https://cooksat.com/practice?questionId=3807d43d&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

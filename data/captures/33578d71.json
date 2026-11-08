@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "33578d71",
+  "capturedAt": "2026-11-08T00:29:15.115Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nTo assess whether a workplace intervention improves employee well-being, researchers typically compare outcomes for employees who receive the intervention and those who do not. Employees are generally not informed about the specific purpose of such interventions, but organizational psychologists Elsa Novak and Noura Demir conducted a study to examine whether there might be a benefit to sharing peer-rated strengths openly with participating employees. The team used several measures to evaluate participants, with higher ratings indicating greater well-being in each measure. Compared to the mean ratings after 30 days for employees in the control group, the mean ratings for employees who received open peer-strength feedback _____",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "ranged from 5.1 to 88.0, indicating that well-being varied widely from employee to employee.",
+    "B": "were lower for two measures, with the rating for only one measure indicating greater well-being for these employees.",
+    "C": "ranged from 3.7 to 42.0, with no rating indicating greater well-being in any measure for these employees.",
+    "D": "were higher for all three measures, indicating greater overall well-being for these employees."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to complete the statement about the mean ratings for employees who received open peer-strength feedback. The table shows three measures of well-being (job engagement, stress reduction score, and overall life satisfaction) for employees receiving open peer-strength feedback and employees in the control group. The text indicates that higher ratings indicate greater well-being in each measure. According to the table, the mean rating for employees receiving open peer-strength feedback was higher than the mean rating for employees in the control group for all three measures: 5.1 compared to 3.7 for job engagement, 88.0 compared to 42.0 for stress reduction score, and 12.6 compared to 6.2 for overall life satisfaction.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it describes the range of mean ratings within the control group (from 3.7 to 42.0) rather than comparing the mean ratings for employees receiving open peer-strength feedback to the mean ratings for employees in the control group. Additionally, the text is asking about the feedback group's ratings, not the control group's ratings.",
+  "source": "https://cooksat.com/practice?questionId=33578d71&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/33578d71/1-d8371918dc65cd77.png"
+    }
+  ]
+}

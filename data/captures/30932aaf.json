@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "30932aaf",
+  "capturedAt": "2026-11-08T00:29:00.571Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "GPS receivers with strong satellite signals produce precise position fixes, while weak or obstructed signals yield imprecise fixes. To study positioning accuracy across street segments of major cities, Anna Tsouhlarakis, Kofi Dlamini, and colleagues used satellite telemetry to determine the dominant signal-to-noise ratio (SNR) measured for various segments of these streets. The researchers classified SNR values of 30 decibel-hertz (dB-Hz) and below as weak, values between 30 and 40 dB-Hz as moderate, and values of 40 dB-Hz and above as strong. The researchers concluded that for Chicago's grid, street segments flanked by tall buildings tend to yield less precise position fixes than those passing through open plazas.",
+  "prompt": "Which finding, if true, would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "The street segments of Chicago's grid that had higher levels of multipath interference, which is caused by signal reflections off metallic surfaces, have dominant SNR values between 28 and 40 dB-Hz.",
+    "B": "In open plazas through which segments of Chicago's grid pass, the dominant SNR value tended to be below 40 dB-Hz near the plaza edges and above 40 dB-Hz in the plaza centers.",
+    "C": "The majority of the street segments in Chicago's grid were found to have dominant SNR values significantly below 40 dB-Hz.",
+    "D": "Street segments in Chicago's grid flanked by tall buildings typically had dominant SNR values below 40 dB-Hz, while segments passing through open plazas typically had dominant SNR values above 40 dB-Hz."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The passage explains that strong satellite signals produce precise position fixes while weak signals produce imprecise fixes, and it classifies SNR values of 40 dB-Hz and above as strong and values of 30 dB-Hz and below as weak. Combined with the researchers' conclusion that building-flanked segments yield less precise fixes than open-plaza segments, a finding that building-flanked segments had SNR values below 40 dB-Hz while open-plaza segments had values above 40 dB-Hz would directly support the conclusion, since lower SNR corresponds to weaker signals and less precise positioning.\n\nWhy A is incorrect:\n\nChoice A is incorrect. A finding about multipath interference levels and their associated SNR range would not bear on the researchers' conclusion comparing building-flanked segments with open-plaza segments. This finding describes a different variable entirely and says nothing about which type of segment yields more or less precise position fixes.",
+  "source": "https://cooksat.com/practice?questionId=30932aaf&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "42c4d5cc",
+  "capturedAt": "2026-11-08T00:30:20.361Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The ancestral gut microbiomes of abyssal fishes are thought to have existed in a closed symbiotic regime, in which the gut bacterial communities were entirely host-restricted and exchanged no members with the surrounding seawater microbiota. Catalina Chavez and Nina Colombo investigated the timing of the transition from this closed regime to an open exchange regime, in which gut bacterial lineages are routinely shared with ambient marine microbial communities through feeding and defecation. Analyzing bacterial DNA preserved in fossilized gut contents and contemporaneous seafloor sediments ranging from 8 million to 95 million years old, the researchers dated the transition to roughly 40 million years ago.",
+  "prompt": "Which finding, if true, would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "Among samples known to be older than 40 million years, significantly more are seafloor-sediment derived than gut-derived, but the opposite is true for samples younger than 40 million years.",
+    "B": "Seafloor-sediment bacterial communities older than 40 million years show significantly more compositional diversity than gut bacterial communities older than 40 million years do.",
+    "C": "There is a positive correlation between the age of gut bacterial communities and their compositional similarity to seafloor-sediment bacterial communities, and that correlation increases significantly in strength at around 40 million years old.",
+    "D": "Gut bacterial communities younger than 40 million years contain some lineages that are not found in older gut communities but are found in older and contemporaneous seafloor-sediment communities."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents a finding that, if true, would most directly support the researchers' conclusion that the transition from a closed symbiotic regime to an open exchange regime occurred around 40 million years ago. The text explains that in the closed regime, gut bacterial communities exchanged no members with the surrounding seawater microbiota, while in the open regime, gut bacterial lineages are shared with ambient marine microbial communities. If gut communities younger than 40 million years contain bacterial lineages not found in older gut communities, those lineages must have originated somewhere other than the gut. And if these lineages are found in both older and contemporaneous seafloor-sediment communities, that would imply that gut communities began receiving material from sediment communities around 40 million years ago, as the researchers concluded.\n\nWhy C is incorrect:\n\nChoice C is incorrect. A positive correlation between the age of gut bacterial communities and their compositional similarity to seafloor-sediment communities would mean that the oldest gut communities would be the most similar to sediment communities, which contradicts the text's claim that gut and sediment bacterial communities were completely separate until 40 million years ago. If the researchers' conclusion about the onset of exchange is correct, then younger gut communities would show greater compositional similarity to sediment communities than older gut communities do.",
+  "source": "https://cooksat.com/practice?questionId=42c4d5cc&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

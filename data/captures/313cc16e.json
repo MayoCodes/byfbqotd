@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "313cc16e",
+  "capturedAt": "2026-11-08T00:29:04.068Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nMany deep-sea predators are drawn toward localized sources of faint blue light, and certain small crustaceans release brief bioluminescent flashes when disturbed. Olumide Hakim and Seung-Ho Das therefore hypothesized that bioluminescence in some crustacean species might be bright enough to lure partner fish that disperse the crustaceans to new habitats. The team's measurements showed that the peak brightness of flashes produced by common krill is sufficiently intense to attract partner fish, a finding that suggests that ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the text?",
+  "choices": {
+    "A": "firefly shrimp and copepods, having greater peak brightness than common krill have, should not demonstrate this capacity.",
+    "B": "copepods should demonstrate the opposite tendency.",
+    "C": "the minimum peak brightness necessary for a crustacean species to attract partner fish must be greater than 300 mcd.",
+    "D": "firefly shrimp should also demonstrate this capacity."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the graph to complete the text's discussion of bioluminescent attraction of partner fish. The text indicates that the peak brightness of flashes produced by common krill is sufficiently intense to attract partner fish. According to the graph, common krill produce flashes of approximately 340 millicandelas (mcd). The graph also shows that firefly shrimp produce flashes of approximately 720 mcd, more than twice as bright as those of common krill. Since common krill's brightness of 340 mcd is high enough to attract partner fish, it follows that firefly shrimp, with substantially brighter flashes, should also demonstrate this capacity.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it reverses the logical relationship established in the text. The text indicates that common krill's peak brightness is sufficiently intense to attract partner fish. According to the graph, only firefly shrimp (about 720 mcd) have a greater peak brightness than common krill (about 340 mcd); copepods (about 80 mcd) do not. More importantly, because 340 mcd is sufficient, a higher brightness such as 720 mcd should also be sufficient, not insufficient as this choice claims.",
+  "source": "https://cooksat.com/practice?questionId=313cc16e&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/313cc16e/1-7fda2252a913f68d.png"
+    }
+  ]
+}
