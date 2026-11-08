@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5a46b7c1",
+  "capturedAt": "2026-11-08T15:59:23.089Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Complementary Text",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nPottery fragments from the ancient Minoan civilization have been discovered on the Greek island of Santorini, but determining their age presents significant obstacles due to the limitations of conventional dating methods at this volcanic site. The island's repeated eruptions have caused different chronological layers to become intermixed, making stratigraphic analysis unreliable, and ceramic ages cannot be accurately determined from associated organic materials since volcanic activity has displaced and contaminated plant and animal remains.\n\nText 2\nResearchers employed innovative thermoluminescence dating to reassess the ages of Minoan pottery discovered on Santorini. This method involves measuring the thermoluminescence signals within the clay minerals of the pottery sherds themselves. The research team maintains that this technique circumvents the dating uncertainties that arise from relying on Santorini's disrupted stratigraphic layers or contaminated organic materials.",
+  "prompt": "Based on the texts, how would the researchers in Text 2 most likely respond to the underlined portion in Text 1?",
+  "choices": {
+    "A": "They would emphasize the fact that the Minoan pottery found on Santorini may have been degraded in some way over the centuries",
+    "B": "They would argue that their techniques are better adapted than other methods to the specific challenges posed by Santorini's volcanic environment",
+    "C": "They would contend that if analyses of stratigraphic layers and organic materials on Santorini were combined, then the dating of the pottery there would be more precise",
+    "D": "They would claim that thermoluminescence dating is reliable on Santorini because it is applied to the organic materials directly"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. Text 2 states that the researchers used thermoluminescence dating to 'circumvent the dating uncertainties' caused by Santorini's volcanic environment, which Text 1 describes as presenting 'significant obstacles' and making conventional methods unreliable.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Text 2 does not state that thermoluminescence dating is applied to organic materials directly but rather to the clay minerals within the pottery sherds themselves.",
+  "source": "https://cooksat.com/practice?questionId=5a46b7c1&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

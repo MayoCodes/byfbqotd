@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3c90067d",
+  "capturedAt": "2026-11-08T15:58:56.067Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nThe origins of massive star formation in our galaxy remain largely mysterious. Some astronomers propose that this process began approximately 8 billion years ago, frequently citing theoretical simulations of galactic gas density that suggest the interstellar medium would have reached sufficient density at that time to trigger the collapse of gas clouds into massive stellar objects.\n\nText 2\nAny credible hypothesis about when massive star formation commenced must be grounded in observational data from astronomical surveys. Astronomer Adwoa Darko and her colleagues used spectroscopic analysis of ancient white dwarf stars to determine the age and mass of their progenitors and, based on these observations, present compelling evidence that massive star formation may have begun as early as 12 billion years ago.",
+  "prompt": "Based on the texts, how would the author of Text 2 most likely respond to what \"some astronomers propose\" as described in Text 1?",
+  "choices": {
+    "A": "By suggesting that the gas density in the interstellar medium 8 billion years ago was likely insufficient to allow for the level of star formation predicted by theoretical simulations",
+    "B": "By distinguishing between theoretical simulations of galactic gas density that reliably predict the onset of massive star formation and those that do not",
+    "C": "By asserting that a more reliable form of evidence than the theoretical simulations suggests a different timeline for the onset of massive star formation in our galaxy",
+    "D": "By indicating that theoretical simulations of galactic gas density are still being refined such that newer simulations tend to be much more accurate than earlier versions"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it reflects how the author of Text 2 would most likely respond to what the astronomers mentioned in Text 1 propose. Text 1 discusses the mysterious origins of massive star formation in our galaxy. Text 1 also mentions astronomers who propose that massive star formation began around 8 billion years ago. As support for this assertion, these astronomers cite theoretical simulations (which are models, not observational evidence) of galactic gas density that show the interstellar medium would have reached sufficient density for star formation. However, the author of Text 2 asserts that observational data from astronomical surveys is necessary to make credible claims about when massive star formation began. Text 2 mentions spectroscopic analysis performed by Adwoa Darko and her team of ancient white dwarf stars (which would constitute observational evidence). Darko and her team argue, based on this analysis, that massive star formation may have begun as early as 12 billion years ago. Therefore, since the author of Text 2 would consider Darko et al.'s observational evidence to be more reliable than the theoretical simulations cited in Text 1, the author of Text 2 would most likely assert that a more reliable form of evidence than the theoretical simulations suggests a different timeline for the onset of massive star formation in our galaxy.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the author of Text 2 wouldn't consider any theoretical simulation to be able to provide evidence to support a credible hypothesis about massive star formation, no matter how much such simulations were refined. The author of Text 2 would only accept observational evidence.",
+  "source": "https://cooksat.com/practice?questionId=3c90067d&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

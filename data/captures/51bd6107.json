@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "51bd6107",
+  "capturedAt": "2026-11-08T15:59:17.706Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nWhen telecommunications companies in the same market propose consolidating their operations, they typically argue that the consolidation will benefit consumers by reducing redundancy and thus lowering service costs. Economist Hinemoa Ranapiri investigated this claim in the context of the Canadian wireless market. She analyzed a proposed merger of Toronto-area service providers and concluded that monthly fees would increase following a consolidation.\n\nText 2\nEconomists Henrik Berg and Anne Larsson have contended that studies examining the impact of corporate consolidations on pricing have concentrated too heavily on immediate outcomes, which are typically unfavorable for consumers. Using data from telecommunications mergers in Scandinavian countries, they demonstrate that over an extended timeframe (multiple years in their analysis), the operational efficiencies achieved by consolidated companies ultimately generate cost savings for consumers.",
+  "prompt": "Based on the texts, how would Berg and Larsson (Text 2) most likely respond to Ranapiri's findings (Text 1)?",
+  "choices": {
+    "A": "They would suggest that Ranapiri compare the immediate impact of a consolidation on monthly fees in the Toronto market with the impact of a consolidation in another wireless market.",
+    "B": "They would contend that over the long term the operational costs faced by the consolidated telecommunications company will also increase.",
+    "C": "They would assert that consolidations affect consumer pricing differently in the telecommunications sector than in most other industries.",
+    "D": "They would urge Ranapiri to examine whether the anticipated impact on monthly fees continues over a prolonged timeframe."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because, based on the information presented in the texts, it represents how Berg and Larsson would most likely respond to Ranapiri's findings. Text 1 indicates that Ranapiri found that a telecommunications consolidation would result in increased monthly fees. This increase would harm consumers, who would pay more for wireless service after a merger. Text 2 presents Berg and Larsson's argument that consolidation research focuses too heavily on immediate aftermath of mergers. Text 2 describes their finding that consolidations can generate cost savings for consumers over extended timeframes. This suggests that Berg and Larsson would urge Ranapiri to examine the long-term impact of the proposed telecommunications consolidation on monthly fees.",
+  "source": "https://cooksat.com/practice?questionId=51bd6107&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}
