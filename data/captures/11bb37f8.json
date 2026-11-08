@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "11bb37f8",
+  "capturedAt": "2026-11-08T03:47:43.363Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "To better understand the feeding patterns of Ursus americanus (the American black bear), some studies have used radio collar tracking to obtain precise data on the bears' foraging routes. Radio tracking involves fitting a bear with a transmitter that stores location data internally; however, retrieving that data for analysis during a study period requires repeatedly recapturing and tranquilizing the animal, each time halting the same foraging behavior being monitored. In their 2023 study, Sandra Crompton and colleagues discovered that satellite GPS monitoring can accurately record foraging behavior both at a moment in time and throughout the entire seasonal cycle, something that's impossible with radio collar tracking because ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "it can only be used on bears above a certain weight threshold.",
+    "B": "obtaining its data interrupts the very foraging behavior it is meant to record.",
+    "C": "the tracking process covers more territory than U. americanus typically ranges.",
+    "D": "the process of recapturing the animal disrupts the collar's accuracy."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The passage states that retrieving radio-collar data during a study period requires repeatedly recapturing and tranquilizing the bear, each time halting the same foraging behavior being monitored. Since collecting the data interrupts the behavior under study, radio collar tracking cannot accurately record that behavior throughout an entire seasonal cycle in the way satellite GPS monitoring can.",
+  "source": "https://cooksat.com/practice?questionId=11bb37f8&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

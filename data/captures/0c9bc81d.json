@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0c9bc81d",
+  "capturedAt": "2026-11-08T03:47:40.991Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In a 2019 study conducted in Western Australia, Rania Haddad and colleagues found a negative association between expression levels of the heat-shock protein HSP70 and drought tolerance in populations of the grass species Austrostipa scabra. It may seem reasonable to be skeptical of this finding, since most other studies, such as research published in 2004 by Mia Barrett and colleagues on European grasses, have found that HSP70 expression and drought tolerance increase together. Like the latter study, however, most research on this relationship has been conducted in Europe, and many of those field sites share similar soil and climate profiles, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "Few of the studies conducted in Europe have been able to measure HSP70 expression and drought tolerance with the same level of precision as in Haddad and colleagues' study.",
+    "B": "Haddad and colleagues' finding may differ from the findings of other studies due to a difference in environmental circumstances that affects the relationship between HSP70 expression and drought tolerance in grasses.",
+    "C": "Haddad and colleagues' study may have inadvertently measured a different gene's expression rather than the expression of HSP70.",
+    "D": "The drought tolerance levels reported in Haddad and colleagues' study were much lower than those reported in the study by Barrett and colleagues even though the HSP70 expression levels reported in the two studies were approximately the same."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents the conclusion that most logically follows from the text's discussion of HSP70 expression and drought tolerance in grasses. The text establishes that Haddad and colleagues found a negative association between HSP70 expression and drought tolerance in Western Australia, while most other studies, such as Barrett and colleagues' research on European grasses, found that these levels rise together. The text then notes that most research has been conducted in Europe and that many of those field sites share similar soil and climate profiles. If most study sites share similar environmental conditions but differ from the Western Australian site, this suggests that Haddad and colleagues' finding may differ from other findings due to a difference in environmental circumstances that affects the relationship between HSP70 expression and drought tolerance.",
+  "source": "https://cooksat.com/practice?questionId=0c9bc81d&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
