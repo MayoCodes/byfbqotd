@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6ba460dc",
+  "capturedAt": "2026-11-08T15:59:47.293Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Text 1\nAmerican jazz musicians in the 1920s rarely recorded solo piano albums. Even rarer were recordings that featured the pianist improvising entirely without written music. At the time, record companies preferred structured arrangements, so pianists mostly chose to perform composed pieces rather than pure improvisation. In New Orleans, the first musician to record a completely improvised solo piano piece was a man named Eddie Marchand. A recording of his from 1928 captures Marchand playing an entirely spontaneous twelve-minute composition.\n\nText 2\nNew Orleans jazz pianists typically avoided recording unstructured improvisations until the 1930s. However, Marie Boudreaux's 1925 recording, Midnight Reflections, stands out as the earliest example of such a work by a musician from New Orleans. Although the piece begins with a familiar melody, after the first minute, one can hear Boudreaux abandon all structure and play completely spontaneous music.",
+  "prompt": "Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?",
+  "choices": {
+    "A": "Marchand and Boudreaux were among the most commercially successful pianists in New Orleans at the time.",
+    "B": "The improvisation in Midnight Reflections was intended to showcase Boudreaux's technical virtuosity.",
+    "C": "Midnight Reflections was recorded earlier than Marchand's piece and also features completely improvised music.",
+    "D": "Boudreaux likely inspired the spontaneous style heard in Marchand's recording."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The author of Text 2 states that Boudreaux's recording, which features completely spontaneous music after the first minute, was made in 1925, three years before Marchand's recording. Therefore, they might argue that Marchand was not 'the first musician' to record completely improvised solo piano music.",
+  "source": "https://cooksat.com/practice?questionId=6ba460dc&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

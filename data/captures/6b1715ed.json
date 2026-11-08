@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6b1715ed",
+  "capturedAt": "2026-11-08T15:59:44.600Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Complementary Text",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nA significant obstacle for scholars studying global climate change impacts is that research institutions employ different methodologies to measure temperature anomalies. Many institutions base their calculations on specific baseline periods. However, these baseline periods vary considerably; for instance, some organizations use 1850-1900 as their reference period, while others use 1961-1990. Additional institutions incorporate different data sources and statistical adjustments. This inconsistency makes it challenging for researchers to synthesize findings across different climate studies.\n\nText 2\nLast year, a consortium of leading climate research centers established standardized protocols for temperature anomaly calculations. The consortium introduced a unified framework called the \"Global Temperature Assessment Standard.\" This new protocol establishes consistent baseline periods and data processing methods for measuring temperature changes, enabling researchers to more effectively integrate climate findings from around the world.",
+  "prompt": "Based on the texts, how would the author of Text 2 most likely respond to the problem presented in Text 1?",
+  "choices": {
+    "A": "By recommending that a specific research center should further investigate the problem",
+    "B": "By suggesting that researchers focus on topics besides climate change",
+    "C": "By supplying additional ways in which climate research is problematic",
+    "D": "By noting that a possible solution to the problem is available"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because Text 2 presents a possible solution to the problem identified in Text 1—that is, how differences in methodologies used by research institutions to measure temperature anomalies make it \"challenging for researchers to synthesize findings across different climate studies.\" Text 2 describes the creation of a standardized approach for climate research: \"standardized protocols for temperature anomaly calculations\" and a \"unified framework called the 'Global Temperature Assessment Standard'\" that \"enables researchers to more effectively integrate climate findings from around the world.\"",
+  "source": "https://cooksat.com/practice?questionId=6b1715ed&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5f533fc7",
+  "capturedAt": "2026-11-08T15:59:36.509Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Complementary Text",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Text 1\nWhile graphic novels have gained tremendous popularity among readers in recent decades, academic critics have consistently overlooked this medium. Among graphic works, those focusing on historical subjects receive the least critical attention, despite their sophisticated artistic techniques and educational value. This neglect persists even when such works demonstrate exceptional narrative complexity and visual storytelling.\n\nText 2\nWith his 1986 graphic novel Maus, Art Spiegelman revolutionized Holocaust literature by depicting his father's experiences through innovative animal metaphors and stark black-and-white illustrations. The work combines powerful visual artistry with profound emotional depth, creating a narrative more compelling than many traditional novels. Yet despite its undeniable significance as both art and literature, Spiegelman's groundbreaking work has received minimal recognition from academic literary critics.",
+  "prompt": "Based on the two texts, how would the author of Text 1 most likely regard the situation presented in the underlined sentence in Text 2?",
+  "choices": {
+    "A": "As predictable, because critics typically dismiss works that blend visual and textual elements",
+    "B": "As unsurprising, because critics tend to overlook the literary value of graphic works in general and of historical graphic novels in particular",
+    "C": "As reasonable, because Spiegelman used animal metaphors in Maus, thus compromising its status as serious literature",
+    "D": "As expected, because Maus was published by a comic book publisher rather than a traditional literary press"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. Text 1 states that academic critics overlook historical graphic novels most of all, even when they demonstrate sophisticated techniques and educational value. So the author of Text 1 wouldn't be surprised that critics gave minimal recognition to Spiegelman's historical graphic novel.\n\nWhy A is incorrect:\n\nChoice A is incorrect. We can't infer that this is how the author of Text 1 would regard the situation. Text 1 never suggests that critics dismiss visual-textual combinations in general. Instead, Text 1 says that critics overlook graphic novels specifically, despite their popularity—and despite the fact that they can be educationally valuable and artistically sophisticated.",
+  "source": "https://cooksat.com/practice?questionId=5f533fc7&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

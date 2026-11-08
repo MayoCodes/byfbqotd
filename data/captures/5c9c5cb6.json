@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5c9c5cb6",
+  "capturedAt": "2026-11-08T15:59:31.142Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nIn mid-twentieth-century America, radio broadcasts were a major vehicle for introducing audiences to classical music. Musicologist May Berenbaum and colleagues found that when a short orchestral overture received repeated radio airplay over several months, listener surveys showed significantly increased appreciation for the piece. This finding illustrates a foundational principle of music reception: repeated public exposure raises audience appreciation of a work.\n\nText 2\nEduardo Rios and colleagues found that broadcasting a three-hour Wagnerian opera repeatedly on a public radio station in Argentina produced no measurable increase in listener appreciation of the work. Many other exposure studies do report heightened appreciation following repeated hearings, but those studies often focus on brief, melodically accessible pieces, like overtures, popular songs, and dance movements, rather than long, structurally demanding works, like full operas, which could account for the difference between those results and Rios and colleagues' results.",
+  "prompt": "Based on the texts, the author of Text 2 would most likely agree with which statement about the \"principle\" mentioned in Text 1?",
+  "choices": {
+    "A": "It is plausible, but many of the studies that support it have methodological flaws.",
+    "B": "It has been challenged by some studies, but the findings of those studies have not been widely accepted.",
+    "C": "It may be true for some works but only because those works share certain performative characteristics.",
+    "D": "It has some evidential support, but it should not be regarded as universally applicable."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. Text 1 presents the principle that repeated public exposure raises audience appreciation of a work, supported by Berenbaum and colleagues' finding about a short overture. Text 2 describes Rios and colleagues' study in which repeated broadcasts of a three-hour Wagnerian opera produced no measurable increase in appreciation. Text 2 then notes that many other exposure studies do support the principle, but observes that they tend to involve brief, accessible pieces rather than long, structurally demanding works. This implies that the principle has evidential support from prior research but does not apply universally — especially to lengthy, complex works. D captures precisely this qualified position.\n\nWhy C is incorrect:\n\nChoice C is incorrect. Text 2 focuses on the nature of the works themselves — their length and structural complexity — rather than on any performative characteristics. The author distinguishes between brief, accessible pieces and long, demanding ones, not between works that share particular performance traits.",
+  "source": "https://cooksat.com/practice?questionId=5c9c5cb6&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

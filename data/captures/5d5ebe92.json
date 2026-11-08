@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5d5ebe92",
+  "capturedAt": "2026-11-08T15:59:33.842Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Describe Difference Between Views",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Text 1\nA team led by Dr. Ying Song has discovered that converting vacant urban lots into green spaces could significantly improve public health and reduce city temperatures. The scale of conversion required, they found, is surprisingly modest. Transforming just 20% of a city's vacant lots would reduce heat-related illnesses by 40% and lower average temperatures by 3 degrees Celsius—a remarkable breakthrough in combating urban heat islands and promoting community wellness.\n\nText 2\nWhile Song's team's research certainly provides promising evidence about the benefits of urban greening, it's crucial to examine potential impacts on affordable housing. The researchers indicate that to maximize health benefits, these green spaces would need ongoing maintenance and programming. Therefore, urban planning initiatives focused on lot conversion must also consider strategies for addressing the reduction in available land for low-income housing development.",
+  "prompt": "Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view Song's team's research?",
+  "choices": {
+    "A": "The author of Text 2 claims that the percentage of vacant lots identified by Song's team is too high for conversion to be practical, whereas the author of Text 1 thinks the percentage is reasonable.",
+    "B": "The author of Text 2 approaches the research findings with some caution, whereas the author of Text 1 is optimistic about the reported potential health benefits.",
+    "C": "The author of Text 2 believes that the results described by Song's team are easily replicable in other cities, whereas the author of Text 1 argues that they likely aren't.",
+    "D": "The author of Text 2 focuses on green spaces' effect on temperature reduction, whereas the author of Text 1 focuses on their effect on public health."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. Text 1 is extremely positive about Song's team's findings, calling the potential results \"a remarkable breakthrough in combating urban heat islands and promoting community wellness.\" Text 2 is not as positive, arguing that while the research provides \"promising evidence,\" we also need to examine the \"potential impacts on affordable housing.\"\n\nWhy C is incorrect:\n\nChoice C is incorrect. This isn't a difference between the two views. Neither text mentions the replicability of the results described by Song's team in other cities.",
+  "source": "https://cooksat.com/practice?questionId=5d5ebe92&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

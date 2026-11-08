@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5b3fbaa2",
+  "capturedAt": "2026-11-08T15:59:28.441Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nThe Amazon rainforest—once an even more expansive ecosystem—began experiencing significant deforestation about 2,000 years ago. While natural climate fluctuations have been suggested as a cause, environmental historian Janelle Gaines also attributes the forest loss to pre-Columbian indigenous populations. She points to their adoption of slash-and-burn agriculture as a key factor in the forest's reduction: these farming practices cleared vast areas of vegetation, initiating the processes that diminished the Amazon's original extent.\n\nText 2\nResearch by Dr. Guilherme Campos et al. disputes the notion that pre-Columbian peoples significantly contributed to Amazon deforestation. Using advanced soil analysis and carbon dating, the team determined that major forest loss began 300 years later than previously estimated. This revised chronology indicates that indigenous populations didn't accelerate deforestation but may have actually helped maintain forest stability through sustainable practices (e.g., controlled burning) that enhanced biodiversity.",
+  "prompt": "Based on the texts, how would Dr. Guilherme Campos (Text 2) most likely respond to the discussion in Text 1?",
+  "choices": {
+    "A": "By claiming that slash-and-burn agriculture was only one of many practices the pre-Columbian peoples employed that may have contributed to the Amazon's changing landscape",
+    "B": "By insisting that slash-and-burn agriculture can have both beneficial and harmful effects on a forest's vegetation and ecosystem",
+    "C": "By pointing out that given the revised timeline for Amazon forest loss, the pre-Columbian peoples' agricultural practices likely didn't cause the region's deforestation",
+    "D": "By asserting that more research needs to be conducted into factors that likely contributed to the deforestation of the Amazon region"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Campos et al.'s research directly challenges Gaines's claim that slash-and-burn agriculture reduced the Amazon, suggesting that, in a forest where major loss began 300 years later than previously thought, indigenous farming practices may have actually \"enhanced biodiversity\" rather than clearing vast areas of vegetation.\n\nWhy A is incorrect:\n\nChoice A is incorrect. Campos et al.'s research actually disputes the idea that any pre-Columbian peoples' practices, including slash-and-burn agriculture, could have contributed to the Amazon's changing landscape. In fact, their research implies that indigenous practices did not \"accelerate deforestation\" (i.e., make things worse), but may have maintained forest stability.",
+  "source": "https://cooksat.com/practice?questionId=5b3fbaa2&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}
