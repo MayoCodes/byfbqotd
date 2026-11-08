@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "563186db",
+  "capturedAt": "2026-11-08T15:48:57.922Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The deep-sea hydrothermal vent known as Rainbow Field has maintained unusually stable temperatures since monitoring began in 2009, but in contrast to other vents that experience temperature fluctuations due to seasonal changes in ocean currents, Rainbow Field shows no correlation with surface water patterns, and thus the stability cannot be attributed to reduced exposure to variable thermal layers. And as Agnieszka Kowalska et al. point out, the episodic nature of seismic activity makes it insufficient as an explanation for sustained thermal consistency over more than a decade. Instead, Kowalska et al. are likely correct that Rainbow Field maintains stable temperatures due to a persistent deep magma chamber.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It presents a geological observation, describes a contrast between that observation and other observations, and then explains why those other observations should not be considered credible.",
+    "B": "It describes an oceanographic finding, discusses competing theories about that finding that the author regards as flawed, and then describes new evidence that supports an alternative theory.",
+    "C": "It introduces a natural phenomenon, refutes two potential explanations for that phenomenon, and then presents a third explanation for that phenomenon that the author regards as plausible.",
+    "D": "It discusses a thermal process, evaluates possible causes of that process, and then states that a persuasive account of the process has yet to be put forward."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because the text introduces a phenomenon, refutes two explanations, and presents a third the author regards as plausible. First, it introduces Rainbow Field's unusually stable temperatures, noting no correlation with surface water patterns unlike other vents. The text then refutes two potential explanations: 'reduced exposure to variable thermal layers' and 'the episodic nature of seismic activity,' which is 'insufficient as an explanation for sustained thermal consistency.' Finally, it presents Kowalska et al.'s explanation—'a persistent deep magma chamber'—which the author endorses as 'likely correct.' This three-part structure matches choice C precisely.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Although the text does evaluate explanations for the cause of Rainbow Field's thermal stability, the text also asserts that Kowalska et al.'s explanation that they have put forth is persuasive and \"likely correct.\"",
+  "source": "https://cooksat.com/practice?questionId=563186db&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}

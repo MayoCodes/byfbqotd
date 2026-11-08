@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4f4ae495",
+  "capturedAt": "2026-11-08T15:48:44.536Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Works of literary criticism, such as T.S. Eliot's \"Tradition and the Individual Talent\" or Roland Barthes' \"The Death of the Author,\" are partly concerned with how to interpret texts effectively. But scholar Folake Adebayo argues that works that present a framework for interpretation without also providing clear criteria for evaluation are inherently useful only to those already committed to rigorous analysis—those with no interest in deeper understanding will not choose to apply their methods. However, some works of literary criticism attempt to establish interpretive approaches while also offering specific standards for assessing their validity.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It mentions two influential works and then claims that despite their scholarly reputation it is impossible for these works to achieve the goals their authors established.",
+    "B": "It traces the development of a field of thought by examining two works and then suggests a direction for future scholarship in that field.",
+    "C": "It describes two groundbreaking works and then explains why one approach is more theoretically sound than the other.",
+    "D": "It provides a characterization about a field of thought by noting two works in it and then details a way in which some works in that field are more comprehensive than others."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The text starts by stating what literary criticism is concerned with and naming two examples of works in the field. Then it describes a shortcoming of some works in that field (they provide framework but not evaluation criteria), and finally it states that other works try to avoid that shortcoming (by including both interpretive approaches and standards for validity).",
+  "source": "https://cooksat.com/practice?questionId=4f4ae495&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}

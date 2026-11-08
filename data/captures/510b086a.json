@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "510b086a",
+  "capturedAt": "2026-11-08T15:48:52.561Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Installing urban green roofs, such as those atop municipal buildings in Toronto, is a popular sustainability measure, but because green roofs occupy small, isolated patches high above street level, it's widely assumed that they offer minimal habitat value for native birds. This assumption stems partly from the fact that biodiversity surveys typically don't account for the indirect role green roofs play in linking larger habitat patches across a city. But Yaw Nwosu, Aissatou Sithole, and colleagues found that green roofs in Toronto serve as crucial stepping stones for migratory songbirds, substantially increasing species richness in nearby parks and ravines.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It explains how green roofs typically affect bird biodiversity in the cities where they are installed, summarizes the findings of several ecological studies that support this explanation, and then concedes that a particular city is an exception to the general trend.",
+    "B": "It introduces a widely held belief about the effect green roofs have on bird habitat, proposes a reason for that belief's prevalence, and then details a study whose findings seemingly conflict with that belief.",
+    "C": "It makes a generalization about the difficulty of using green roofs to reconcile sustainability and biodiversity priorities, demonstrates why most green roofs fall short of achieving that goal, and then holds up a particular city as an example of how that goal can be achieved.",
+    "D": "It states a hypothesis that accounts for why green roofs generally provide poor bird habitat, outlines how a research team's findings support that hypothesis, and then suggests how a novel methodology led a separate team of researchers to a different conclusion."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most accurately describes the overall structure of the text. The text begins by introducing a widely held belief: that urban green roofs offer minimal habitat value for native birds because they occupy small, isolated patches. The text then proposes a reason for the prevalence of that belief, explaining that biodiversity surveys typically don't account for the indirect role green roofs play in connecting larger habitat patches. Finally, the text details a study by Yaw Nwosu, Aissatou Sithole, and colleagues whose findings seemingly conflict with that belief: the researchers found that Toronto's green roofs serve as crucial stepping stones for migratory songbirds, substantially increasing species richness in nearby parks and ravines.",
+  "source": "https://cooksat.com/practice?questionId=510b086a&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}
