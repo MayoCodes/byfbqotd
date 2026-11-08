@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "09ec3cca",
+  "capturedAt": "2026-11-08T16:23:30.543Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Graphene is a form of carbon consisting of a single layer of atoms arranged in a precise hexagonal lattice structure. ______ many other materials also exhibit highly ordered atomic arrangements, but graphene is distinguished by its exceptional combination of strength and electrical conductivity; despite being only one atom thick, it is stronger than steel while conducting electricity better than copper.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "However,",
+    "B": "Of course,",
+    "C": "Specifically,",
+    "D": "Moreover,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. \"Of course\" logically signals that the information that follows—about many materials being \"highly ordered atomic arrangements\"—acknowledges an obvious similarity between these materials and the previous description of graphene. The sentence then goes on to emphasize a distinguishing feature of graphene.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"specifically\" illogically signals that the information that follows specifies or elaborates on the previous description of graphene. Instead, the information about many materials' features acknowledges an obvious similarity between these materials and graphene. The sentence then goes on to emphasize a distinguishing feature of graphene.",
+  "source": "https://cooksat.com/practice?questionId=09ec3cca&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0884c586",
+  "capturedAt": "2026-11-08T16:23:22.374Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "When exposed to high levels of stress, most individuals experience elevated cortisol production, a physiological response that typically impairs memory formation. This stress hormone generally disrupts the consolidation of new memories in most people. ______ when individuals with post-traumatic stress disorder (PTSD) experience elevated cortisol levels, the hormone actually enhances their formation of traumatic memories.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In contrast,",
+    "B": "Moreover,",
+    "C": "For example,",
+    "D": "Thus,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"In contrast\" logically signals that the information in this sentence—that cortisol enhances traumatic memory formation in individuals with PTSD—contrasts with the previous information about cortisol generally impairing memory formation in most people.\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"thus\" illogically signals that the information in this sentence about individuals with PTSD is a consequence, or result, of the previous information about the effects of cortisol. Instead, it contrasts with that information.",
+  "source": "https://cooksat.com/practice?questionId=0884c586&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
