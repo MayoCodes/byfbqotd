@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8dc5894c",
+  "capturedAt": "2026-11-08T17:54:43.600Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Research revealed that a new subway line caused surrounding neighborhoods to experience increased foot traffic, though the economic impact of this pedestrian surge remains unclear. Before the line opened, the number of businesses per block within 200 meters of proposed stations was 12% lower than that of a comparison ______ opening, the number of businesses per block within 200 meters of the stations was 28% higher than that of the comparison district.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "district after",
+    "B": "district after,",
+    "C": "district, after",
+    "D": "district. After"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used to correctly mark the boundary between one sentence (\"Before...district\") and another (\"After...district\"). The phrase \"After opening\" modifies the next sentence to indicate that the business count was higher after opening.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a comma splice. A comma can't be used in this way to mark the boundary between the two sentences (\"Before...district\" and \"after...district\").",
+  "source": "https://cooksat.com/practice?questionId=8dc5894c&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

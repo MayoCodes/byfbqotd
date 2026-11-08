@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "91a764e1",
+  "capturedAt": "2026-11-08T17:54:54.701Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The Metropolitan Museum of Art in New York and the Louvre Museum in Paris are two of many cultural institutions around the world dedicated to acquiring diverse ______ preserving historical artifacts; and providing educational programs about art history.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "artworks, both classical and contemporary,",
+    "B": "artworks, both classical and contemporary;",
+    "C": "artworks; both classical and contemporary,",
+    "D": "artworks both classical and contemporary,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the punctuation of items in a complex series (a series including internal punctuation). The semicolon after \"contemporary\" is correctly used to separate the first item (\"acquiring diverse artworks, both classical and contemporary\") and the second item (\"preserving historical artifacts\") in the series of things that cultural institutions are dedicated to. Further, the comma after \"artworks\" is correctly used to separate the noun phrase \"diverse artworks\" and the supplementary phrase \"both classical and contemporary\" that modifies it.\n\nWhy C is incorrect:\n\nChoice C is incorrect because a semicolon can't be used in this way to separate the noun phrase \"diverse artworks\" and the supplementary phrase \"both classical and contemporary\" that modifies it. Further, a comma can't be used in this way to separate items in a complex series.",
+  "source": "https://cooksat.com/practice?questionId=91a764e1&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

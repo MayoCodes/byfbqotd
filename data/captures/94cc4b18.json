@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "94cc4b18",
+  "capturedAt": "2026-11-08T17:55:03.029Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "First detected at the Arecibo Observatory by Bilal Demir and Elise Johansson, the object PSR B1937+21—an example of a millisecond pulsar, a rapidly rotating neutron star that emits radio pulses hundreds of times per second and has a period shorter than ten ______ has proven invaluable for testing predictions of general relativity.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "milliseconds:",
+    "B": "milliseconds—",
+    "C": "milliseconds;",
+    "D": "milliseconds,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation used to set off a supplementary element within a sentence. The em dash after \"PSR B1937+21\" begins the supplementary description of the object, so the em dash after \"milliseconds\" correctly closes that description. The sentence's subject, \"the object PSR B1937+21,\" then connects grammatically to the verb phrase \"has proven invaluable.\"\n\nWhy D is incorrect:\n\nChoice D is incorrect because the comma does not match the em dash that begins the supplementary description after \"PSR B1937+21.\" The supplementary element must be enclosed by matching punctuation, so a closing em dash is required after \"milliseconds.\"",
+  "source": "https://cooksat.com/practice?questionId=94cc4b18&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

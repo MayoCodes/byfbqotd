@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8dc324ac",
+  "capturedAt": "2026-11-08T17:54:40.834Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In a 2022 archaeological survey, researchers uncovered an intriguing architectural feature in ancient Mayan ruins. Within the central plaza, the structure's ______ the raised stone platforms that supported ceremonial buildings—had been arranged to align perfectly with astronomical phenomena.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "plinths",
+    "B": "plinths—",
+    "C": "plinths;",
+    "D": "plinths,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The dash after \"plinths\" pairs with the dash after \"ceremonial buildings\" to separate the supplementary element \"the raised stone platforms that supported ceremonial buildings\" from the rest of the sentence. This supplementary element functions to define the term \"plinths,\" and the pair of dashes indicates that this element could be removed without affecting the grammatical coherence of the sentence.",
+  "source": "https://cooksat.com/practice?questionId=8dc324ac&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

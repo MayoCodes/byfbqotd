@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9232e328",
+  "capturedAt": "2026-11-08T17:55:00.242Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In medieval Islamic philosophy, a Sufi was a follower of mystical teachings, practices that emphasized direct spiritual experience. The renowned mystic Rumi described this path as \"the journey from the head to the ______ that true wisdom emerged from this inner transformation.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "heart\": believing",
+    "B": "heart\"; believing",
+    "C": "heart.\" Believing",
+    "D": "heart,\" believing"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between a main clause and a participial phrase. This choice correctly uses a comma to mark the boundary between the main clause (\"The renowned…'heart'\") and the participial phrase (\"believing…transformation\") that provides additional information about how Rumi described this spiritual path.\n\nWhy B is incorrect:\n\nChoice B is incorrect because a semicolon can't be used in this way to join a main clause and a participial phrase.",
+  "source": "https://cooksat.com/practice?questionId=9232e328&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

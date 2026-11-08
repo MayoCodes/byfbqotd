@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8f6cdac7",
+  "capturedAt": "2026-11-08T17:54:49.192Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon Between Independent Clauses",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The innovative approach to crystal physics with which Moussa Haddad analyzed mineral behavior is evident in the chemist's \"pyro-piezoelectrics,\" his term for the naturally occurring minerals that generate electrical charges under both pressure and temperature ______ among these minerals was tourmaline, a boron silicate long prized for its ability to attract ash when warmed.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "changes: and",
+    "B": "changes;",
+    "C": "changes and",
+    "D": "changes,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice uses a semicolon in a conventional way to join the first main clause (\"The innovative...changes\") and the second main clause (\"among these...warmed\").\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a comma splice. Without a coordinating conjunction following it, a comma cannot be used in this way to join two main clauses.",
+  "source": "https://cooksat.com/practice?questionId=8f6cdac7&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
