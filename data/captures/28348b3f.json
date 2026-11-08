@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "28348b3f",
+  "capturedAt": "2026-11-08T16:04:53.176Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Segun Ozturk was a nineteenth-century American operator who worked with land-line telegraph codes.\n• Tuan Banerjee was a nineteenth-century German operator who worked with land-line telegraph codes.\n• Land-line telegraph codes were signaling systems that transmitted text across wired networks in North America and continental Europe.\n• Codes in the American tradition tended to use variable-length pauses between letters.\n• Those in the Continental tradition tended to use uniform-length pauses between letters.\n• In American codes, the letter C is transmitted as two dots, a space, and a dot, and the letter O is transmitted as a dot, a space, and a dot.",
+  "prompt": "The student wants to make a distinction between the two telegraph code traditions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "American telegraph codes, unlike their more uniform Continental counterparts, tended to use variable-length pauses between letters.",
+    "B": "Working in the American tradition, the telegraph codes used by Segun Ozturk differed from those used by the German operator Tuan Banerjee.",
+    "C": "While codes in the American tradition tended to use variable-length pauses between letters, those in the Continental tradition transmitted text across wired networks.",
+    "D": "Unlike Continental telegraph codes, which could transmit letters such as C and O using spaced dots, American codes used uniform-length pauses between letters."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. This choice makes a distinction between the two telegraph code traditions by contrasting their pause structures: American codes tended to use variable-length pauses between letters, while Continental codes used uniform-length pauses.\n\nWhy B is incorrect:\n\nChoice B is incorrect. While the sentence indicates that the codes used by Ozturk and Banerjee differed, it doesn't specify what that difference was and therefore doesn't effectively make a distinction between the two traditions.",
+  "source": "https://cooksat.com/practice?questionId=28348b3f&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

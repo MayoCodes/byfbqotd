@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2b075d56",
+  "capturedAt": "2026-11-08T16:05:01.247Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Use Quotation for Purpose",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Luna is the nickname of a meteorite specimen housed at the Smithsonian National Museum of Natural History.\n• The Smithsonian National Museum of Natural History is located in Washington, D.C.\n• Luna is classified as a carbonaceous chondrite.\n• Phoenix is the nickname of a meteorite specimen housed at the American Museum of Natural History.\n• The American Museum of Natural History is located in New York City.\n• Phoenix is classified as a carbonaceous chondrite.",
+  "prompt": "The student wants to emphasize a similarity between the two specimens. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The Smithsonian National Museum of Natural History, where Luna is housed, is located in Washington, D.C.",
+    "B": "Phoenix is the nickname of a carbonaceous chondrite specimen housed at the American Museum of Natural History in New York City.",
+    "C": "While Luna is housed at the Smithsonian National Museum of Natural History, Phoenix is housed at the American Museum of Natural History.",
+    "D": "The meteorite specimens Luna and Phoenix are both classified as carbonaceous chondrites."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence emphasizes a similarity between the two specimens, noting that Luna and Phoenix are both classified as the same type: carbonaceous chondrites.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The sentence contrasts the locations of Luna and Phoenix; it doesn't emphasize a similarity between the two specimens.",
+  "source": "https://cooksat.com/practice?questionId=2b075d56&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

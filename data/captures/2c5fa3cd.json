@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2c5fa3cd",
+  "capturedAt": "2026-11-08T16:05:12.085Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Selective Laser Sintering (SLS) is a form of additive manufacturing that uses a laser to fuse powdered polymer into durable, 3D objects.\n• Step 1: A thin layer of powdered polymer is spread across a heated build platform, where a laser traces and fuses the object's first cross-section.\n• Step 2: The build platform lowers slightly, creating a thin gap (a \"build zone\") into which a roller deposits a fresh layer of powder.\n• Step 3: The laser scans across the build zone—fusing the new powder to the layer below—and bonds additional cross-sections of the object.\n• Step 4: When the object is complete, it is moved to a cooling station where excess powder is removed and the part is finished.",
+  "prompt": "The student wants to describe how SLS fuses 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "SLS fuses 3D objects by passing through a \"build zone,\" adding layers to the object, then finishing the object at a cooling station.",
+    "B": "In SLS, a laser is traced across layers of powdered polymer until the powder fuses and passes through a \"build zone,\" wherein the finishing is completed.",
+    "C": "In SLS, a laser traces cross-sections across a bed of powdered polymer to fuse a 3D object layer by layer; once complete, the object is moved to a cooling station to be finished.",
+    "D": "SLS is a form of additive manufacturing that rapidly fuses powdered polymer into a 3D object in which a laser bonds layer by layer before being moved to a cooling station, producing a durable, 3D object."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. This choice accurately describes how SLS fuses 3D objects by synthesizing key information from the notes: a laser traces cross-sections across a bed of powdered polymer, the object is fused layer by layer, and once complete, the object is moved to a cooling station to be finished.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This choice misrepresents the process by suggesting that SLS itself passes through the build zone, when according to the notes it is the laser that scans across the build zone. Additionally, this choice oversimplifies the process and omits key details such as the use of powdered polymer and layer-by-layer fusion.",
+  "source": "https://cooksat.com/practice?questionId=2c5fa3cd&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
