@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "36bb0b98",
+  "capturedAt": "2026-11-08T15:58:42.559Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nUrban planners have long puzzled over why thousands of small businesses can coexist within dense commercial districts while competing for the same customer base. According to established theory, market forces should drive consolidation until only the most efficient businesses survive. So why do so many diverse enterprises persist in close proximity? Planners' numerous attempts to explain this phenomenon have yet to yield a convincing theoretical framework.\n\nText 2\nUrban economist Sachini Gunaratne and colleagues have linked small business diversity to the effects of pedestrian-scale geography. Because most foot traffic moves in predictable micro-patterns within a few blocks, businesses are effectively isolated within distinct \"customer catchment zones\" that overlap far less than previously assumed. This pedestrian behavior creates natural market segmentation, making direct competition between neighboring businesses much rarer than traditional models suggest.",
+  "prompt": "Based on the texts, how would Gunaratne and colleagues (Text 2) most likely respond to the \"established theory\" discussed in Text 1?",
+  "choices": {
+    "A": "By arguing that it is based on a misconception about small businesses competing with one another",
+    "B": "By asserting that it fails to recognize that regular turnover of commercial real estate prevents competition between small businesses",
+    "C": "By suggesting that their own findings help clarify how small businesses are able to compete with large chain retailers",
+    "D": "By recommending that more planners focus their research on how competition among small businesses is increased with pedestrian density"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because based on Text 2, it represents how Gunaratne and colleagues would most likely respond to the \"established theory\" discussed in Text 1. The established theory holds the view that when there is business diversity within a commercial district, \"market forces should drive consolidation until only the most efficient businesses survive\"—that is, after successful competition eliminates less competitive enterprises. However, Text 2 explains that according to Gunaratne and colleagues, pedestrian movement patterns create distinct catchment zones, making direct competition between businesses \"much rarer than traditional models suggest.\"\n\nWhy C is incorrect:\n\nChoice C is incorrect because the business competition discussed in both texts is specifically between small businesses, and neither text considers whether small businesses compete with large chain retailers.",
+  "source": "https://cooksat.com/practice?questionId=36bb0b98&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

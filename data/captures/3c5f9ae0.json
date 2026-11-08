@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3c5f9ae0",
+  "capturedAt": "2026-11-08T15:58:53.408Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nBecause knowledge of Linear B script, the writing system of ancient Mycenaean Greece, was lost after the Bronze Age collapse around 1200 BCE, scholars long debated how meaning was represented in its symbols. While many researchers had assumed that the symbols represented concepts or entire words, archaeologist Maria Petros argued in 2015 that they represented much more specific linguistic elements: individual phonemes, the smallest units of sound in spoken language.\n\nText 2\nCurrent scholarship on Linear B script suggests that its symbols operated with greater complexity than previously understood. Most symbols appear to have represented syllables rather than individual phonemes, though some could function as word-signs for frequently used terms like numbers or titles. For instance, a symbol might represent the syllable \"ka\" in most contexts but signify the complete word \"kanax\" (king) when appearing in royal administrative records. Mycenaean scribes thus had to interpret symbol function based on documentary context and content.",
+  "prompt": "Based on the texts, how would the author of Text 2 most likely characterize Petros's theory, as described in Text 1?",
+  "choices": {
+    "A": "By praising the theory for recognizing that the script's symbols could represent complete words",
+    "B": "By cautioning that the theory overlooks certain important aspects of how the script functioned",
+    "C": "By arguing that the theory is overly influenced by the assumptions of earlier researchers",
+    "D": "By approving of the theory's focus on how the script developed regional variations"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. Petros's theory is that Linear B symbols represented individual phonemes, but the current scholarship described in Text 2 indicates that most symbols represented syllables, with some functioning as complete word-signs depending on context. So the author of Text 2 would likely consider Petros's theory too narrow: it's missing the importance of syllabic representation and contextual variation in determining symbol meaning.\n\nWhy D is incorrect:\n\nChoice D is incorrect. We can't infer that this is how the author of Text 2 would characterize Petros's theory. Neither text mentions regional variations in the script or how it developed geographically.",
+  "source": "https://cooksat.com/practice?questionId=3c5f9ae0&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}
