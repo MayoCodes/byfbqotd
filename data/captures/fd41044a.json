@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fd41044a",
+  "capturedAt": "2026-11-08T16:01:27.427Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nIn a study of workplace performance, researcher Nneka Onyeka found that employee engagement scores remained steady when workers participated in three team meetings per week but began to decline when they attended six or more team meetings per week. After additional analysis, Onyeka concluded that this decrease in engagement primarily resulted when employees spent meeting time in what she termed passive activities, such as listening to lengthy presentations or sitting through status updates.\n\nText 2\nOrganizational psychologist Kevin Dawson warns against prescribing optimal meeting frequencies for all workplaces. While the desire for both collaboration and efficiency is widespread, Dawson maintains that different employees have distinct engagement patterns. Moreover, he notes that no universal standard exists for defining what constitutes active versus passive participation; contributing to a brainstorming session might be seen as active involvement by some, but merely reactive behavior by others.",
+  "prompt": "Based on the texts, how would Dawson (Text 2) most likely respond to the conclusion Onyeka (Text 1) reached after her additional analysis?",
+  "choices": {
+    "A": "By cautioning against making an overly sweeping generalization, as there is no universal agreement on what distinguishes active participation from passive activities",
+    "B": "By agreeing that meeting time is more likely to improve employee engagement when it involves active participation than when it involves passive activities",
+    "C": "By questioning the research methodology in Text 1, as it has not been demonstrated that collaboration typically enhances employees' workplace performance",
+    "D": "By arguing that the specific meeting types mentioned in Text 1 are actually examples of active participation rather than passive activities"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it reflects how Dawson would most likely respond to the conclusion Onyeka reached after her analysis. Text 1 describes Onyeka's workplace study, indicating that engagement scores remained steady at three meetings per week but declined at six or more meetings per week. Further analysis led Onyeka to conclude that time spent in activities she categorizes as passive, such as listening to presentations or sitting through status updates, correlated with decreased engagement. However, in Text 2 Dawson states that no universal standard exists for defining active versus passive participation, offering the example that contributing to brainstorming might be considered active by some but reactive by others. It can be inferred that Dawson would similarly argue that whether listening to presentations or attending status updates constitutes passive or active participation depends on individual perspective. Thus, Dawson would most likely caution against making an overly sweeping generalization, as there is no universal agreement on distinguishing active from passive activities.\n\nWhy D is incorrect:\n\nChoice D is incorrect because Dawson believes that whether an activity constitutes active or passive participation is subjective and varies by individual; therefore, he would most likely argue that listening to presentations or attending status updates might be active for some employees and passive for others.",
+  "source": "https://cooksat.com/practice?questionId=fd41044a&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

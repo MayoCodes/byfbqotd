@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fbf34bf0",
+  "capturedAt": "2026-11-08T16:01:24.731Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nCoral reefs depend on the symbiotic relationship between coral polyps and algae that live within their tissues, but increasing ocean acidification is disrupting this relationship, leading to widespread coral bleaching and raising concerns about reef ecosystem collapse as these vital marine habitats continue to deteriorate. A 2019 study examining reef systems across the Indo-Pacific concluded that reefs experiencing acidification stress are at severe risk of complete ecosystem breakdown by 2080.\n\nText 2\nResearch conducted by marine biologists at the Australian Institute of Marine Science reveals that coral communities in the Kimberley region remain healthy and resilient despite measurable increases in ocean acidity over the past decade. The researchers credit this reef system's durability to an evolutionary adaptation: the Kimberley corals have developed enhanced calcium carbonate production and partnerships with acid-resistant algal species.",
+  "prompt": "Based on the texts, how would the researchers in Text 2 most likely respond to the conclusion presented in the underlined portion of Text 1?",
+  "choices": {
+    "A": "By suggesting that it is likely incorrect about the rates at which increasing ocean acidification has affected marine ecosystems in the Indo-Pacific",
+    "B": "By asserting that it overlooks coral reef systems that have not yet been affected by ocean acidification stress",
+    "C": "By noting that it neglects the possibility of some coral reef systems adapting to changes in their environment",
+    "D": "By arguing that it fails to account for coral reefs' reliance on a single type of symbiotic algae"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Text 2 describes how the Kimberley corals have adapted to increasing ocean acidity through enhanced calcium carbonate production and partnerships with acid-resistant algal species, resulting in communities that 'remain healthy and resilient' despite environmental challenges. This counters the underlined claim that reefs experiencing acidification stress are at 'severe risk of complete ecosystem breakdown' by 2080.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Text 2 doesn't imply that coral reefs rely on a single type of symbiotic algae. In fact, the researcher in Text 2 would say that Text 1 fails to account for coral reefs' ability to develop partnerships with different types of algal species.",
+  "source": "https://cooksat.com/practice?questionId=fbf34bf0&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}
