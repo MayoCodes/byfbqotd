@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "eba47254",
+  "capturedAt": "2026-11-08T16:12:27.980Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Some bacteria have developed resistance to chemicals designed to kill them.\n• This is known as antibiotic resistance.\n• Staphylococcus bacteria develop resistance through genetic mutations.\n• This helps Staphylococcus bacteria survive antibiotic treatments.\n• Escherichia coli bacteria develop resistance by acquiring resistance genes from other bacteria.\n• This helps E. coli bacteria survive in hostile environments.",
+  "prompt": "The student wants to emphasize a difference in how Staphylococcus and E. coli bacteria develop antibiotic resistance. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Staphylococcus bacteria acquire resistance genes from other bacteria, while E. coli bacteria develop resistance through genetic mutations.",
+    "B": "Unlike E. coli bacteria, which develop resistance by acquiring genes from other bacteria, Staphylococcus bacteria develop resistance through genetic mutations.",
+    "C": "Staphylococcus and E. coli bacteria are two examples of organisms that develop antibiotic resistance.",
+    "D": "Bacteria that develop antibiotic resistance can survive chemicals designed to kill them."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It contrasts antibiotic resistance development: E. coli acquires genes from other bacteria while Staphylococcus develops resistance through genetic mutations.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The sentence describes what antibiotic resistance does; it doesn't emphasize a difference in how Staphylococcus and E. coli bacteria specifically develop resistance.",
+  "source": "https://cooksat.com/practice?questionId=eba47254&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

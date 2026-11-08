@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e9ee7b1f",
+  "capturedAt": "2026-11-08T16:12:25.247Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• French mathematician Sophie Germain studied number theory and mathematical analysis.\n• She proved that Fermat's Last Theorem held true for a specific class of prime numbers.\n• Germain presented her proof to the Paris Academy of Sciences in 1823.",
+  "prompt": "The student wants to specify when Germain presented her proof to the Paris Academy of Sciences. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Germain, who studied number theory and mathematical analysis, presented a proof to the Paris Academy of Sciences.",
+    "B": "In 1823, Germain presented her proof about Fermat's Last Theorem to the Paris Academy of Sciences.",
+    "C": "Germain was a French mathematician who studied number theory and mathematical analysis.",
+    "D": "A French mathematician who studied number theory and mathematical analysis, Germain proved that Fermat's Last Theorem held true for a specific class of prime numbers."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The sentence specifies when Germain presented her proof to the Paris Academy of Sciences, indicating that it was presented in the year 1823.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The sentence describes Germain's proof about Fermat's Last Theorem; it doesn't specify when the proof was presented to the Paris Academy of Sciences.",
+  "source": "https://cooksat.com/practice?questionId=e9ee7b1f&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

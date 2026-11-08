@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e4a59a33",
+  "capturedAt": "2026-11-08T16:12:08.823Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Ironclad is the nickname of a cast-iron printing press preserved at the Harborline Museum of Industry.\n• The Harborline Museum of Industry is located in Bristol, England.\n• Ironclad was manufactured during the early nineteenth century.\n• Stalwart is the nickname of a cast-iron printing press preserved at the Riverside Institute of Print History.\n• The Riverside Institute of Print History is located in Philadelphia, Pennsylvania.\n• Stalwart was manufactured during the early nineteenth century.",
+  "prompt": "The student wants to contrast the locations of the two presses. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Ironclad is preserved at the Harborline Museum of Industry in Bristol, England, while Stalwart is preserved at the Riverside Institute of Print History in Philadelphia, Pennsylvania.",
+    "B": "The cast-iron printing press Ironclad is not the only such press currently preserved in a museum or institute.",
+    "C": "The Riverside Institute of Print History in Philadelphia, Pennsylvania, preserves Stalwart, a cast-iron printing press.",
+    "D": "Like Ironclad, Stalwart is a cast-iron printing press that was manufactured during the early nineteenth century."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence contrasts the locations of the two presses, noting that Ironclad is preserved at the Harborline Museum of Industry in Bristol, England, while Stalwart is preserved at the Riverside Institute of Print History in Philadelphia, Pennsylvania.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The sentence describes the location of a single press (Stalwart); it doesn't contrast the locations of the two presses.",
+  "source": "https://cooksat.com/practice?questionId=e4a59a33&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
