@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ae8acc27",
+  "capturedAt": "2026-11-08T17:55:58.642Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While designing the Sydney Opera House, architect Jørn Utzon utilized innovative concrete shells to achieve the building's distinctive roof structure. These curved elements, an architectural technique called ______ became the defining feature of the building's silhouette.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "ribbing;",
+    "B": "ribbing",
+    "C": "ribbing,",
+    "D": "ribbing:"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of punctuation within a sentence. The comma after \"ribbing\" pairs with the comma after \"elements\" to separate the supplementary element \"an architectural technique called ribbing\" from the rest of the sentence. This supplementary element functions to clarify the term \"these curved elements,\" and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence.",
+  "source": "https://cooksat.com/practice?questionId=ae8acc27&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

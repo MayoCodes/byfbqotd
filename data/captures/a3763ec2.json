@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a3763ec2",
+  "capturedAt": "2026-11-08T17:55:39.164Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "During the multi-decade struggle to advance environmental protection in the United States, certain milestones were crucial: the establishment of the Sierra Club as a national conservation organization in ______ landmark Carson v. EPA ruling in 1972, which strengthened federal environmental oversight, represents another such milestone.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "1892. For one, the",
+    "B": "1892, for one, the",
+    "C": "1892 for one, the",
+    "D": "1892, for one. The"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The conventions being tested are punctuation use between sentences and the punctuation of a supplementary element. This choice correctly uses a period to mark the boundary between one sentence (\"During...one\") and another (\"The Carson...milestone\") and uses a comma to separate the supplementary phrase \"for one\" from the preceding main clause. Further, placing the period after \"for one\" correctly indicates that the information in the preceding main clause (\"the establishment...1892\") is the first example provided of a crucial milestone in the environmental protection movement.\n\nWhy A is incorrect:\n\nChoice A is incorrect because placing the period after \"1892\" illogically indicates that the information in the next main clause (describing the Carson v. EPA ruling) is the first example provided of a crucial milestone in the environmental protection movement; rather, it's a second example.",
+  "source": "https://cooksat.com/practice?questionId=a3763ec2&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

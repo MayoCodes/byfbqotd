@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a469aa39",
+  "capturedAt": "2026-11-08T17:55:41.959Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The 2018 documentary Won't You Be My Neighbor? examines the life and philosophy of Fred Rogers and his influential children's television program. Film scholars have praised the way acclaimed ______ explores the intersection of entertainment, education, and emotional development in media for young audiences.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "director, Morgan Neville,",
+    "B": "director, Morgan Neville",
+    "C": "director Morgan Neville",
+    "D": "director Morgan Neville,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of punctuation between titles and proper nouns. No punctuation is needed to set off the proper noun \"Morgan Neville\" from the title that describes Neville, \"acclaimed director.\" Because \"Morgan Neville\" is essential information identifying the \"acclaimed director,\" no punctuation is necessary.\n\nWhy A is incorrect:\n\nChoice A is incorrect because no punctuation is needed before or after the proper noun \"Morgan Neville.\" Setting the director's name off with commas suggests that it could be removed without affecting the coherence of the sentence, which isn't the case.",
+  "source": "https://cooksat.com/practice?questionId=a469aa39&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "abbbe474",
+  "capturedAt": "2026-11-08T17:55:50.288Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In 2015, three years after the passing of jazz musician Miles Davis's former collaborator, the Institute for Jazz Studies at Rutgers University in ______ acquired an extensive archive of over 6,000 items, including rare recordings, sheet music, correspondence, photographs, and personal instruments. Currently, the Gil Evans Collection represents one of the most comprehensive resources at the institution.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Newark,",
+    "B": "Newark:",
+    "C": "Newark—",
+    "D": "Newark"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. No punctuation should separate the subject of the sentence (\"the Institute for Jazz Studies at Rutgers University in Newark\") from its verb (\"acquired\").\n\nWhy C is incorrect:\n\nChoice C is incorrect. No punctuation should separate the subject of the sentence (\"the Institute for Jazz Studies at Rutgers University in Newark\") from its verb (\"acquired\").",
+  "source": "https://cooksat.com/practice?questionId=abbbe474&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ad380e92",
+  "capturedAt": "2026-11-08T17:55:53.070Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Nearly 200 days each year, when the frigid winds sweeping across Iceland's Westfjords encounter the geothermal heat radiating from underground hot springs, the interaction creates a mesmerizing aurora display, its ribbons so vivid, so expansive, and so ______ that locals have dubbed it \"Nature's Grand Theater.\"",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "predictable",
+    "B": "predictable:",
+    "C": "predictable;",
+    "D": "predictable,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the punctuation of an integrated relative clause. No punctuation is needed before the relative clause beginning with \"that\" because the content of the relative clause (\"that...Theater\") is integral to the meaning of the coordinated adjectival phrase (\"so vivid, so expansive, and so predictable\") that it modifies.",
+  "source": "https://cooksat.com/practice?questionId=ad380e92&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

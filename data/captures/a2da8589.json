@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a2da8589",
+  "capturedAt": "2026-11-08T17:55:36.392Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Many ballet terms in English come from French. According to dance historians Xin Santoso and Kibrom Sow, the word \"pirouette\" (a spin) comes from the French verb pirouetter, and \"plié\" (a ______ comes from plier, meaning \"to bend.\" This is because ballet developed as a formal art in the French royal courts, whose vocabulary shaped the discipline's terminology for centuries.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "bend;",
+    "B": "bend)",
+    "C": "bend—",
+    "D": "bend,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The blank occurs at the close of a parenthetical definition that was opened earlier with '('. The closing parenthesis properly completes the parenthetical phrase '(a bend)', which parallels the earlier parenthetical definition '(a spin)' in the same sentence. No punctuation should appear between 'bend' and the closing parenthesis.\n\nWhy A is incorrect:\n\nChoice A is incorrect. Inserting a semicolon before the closing parenthesis creates a punctuation error. No punctuation should separate 'bend' from the closing parenthesis in the parenthetical definition '(a bend)'.",
+  "source": "https://cooksat.com/practice?questionId=a2da8589&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

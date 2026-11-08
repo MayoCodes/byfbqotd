@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a233a7ec",
+  "capturedAt": "2026-11-08T17:55:33.599Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Collecting comprehensive data on bird migration patterns across North America is difficult because of the continent's vast network of ______ the timing and routes of species movement can change significantly from year to year.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "flyways and the reality that,",
+    "B": "flyways and the reality that",
+    "C": "flyways, and the reality that,",
+    "D": "flyways, and, the reality that"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation within two coordinated noun phrases. When, as in this case, a noun phrase (\"the continent's vast network of flyways\") is coordinated with another noun phrase (\"the reality\") followed by an integrated relative clause (\"that the timing...year\"), no punctuation is needed.\n\nWhy D is incorrect:\n\nChoice D is incorrect because no punctuation is needed.",
+  "source": "https://cooksat.com/practice?questionId=a233a7ec&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a66b91bf",
+  "capturedAt": "2026-11-08T17:55:44.737Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Canadian researchers Michael Smith and Jennifer Clarke developed a technique for analyzing the genetic composition of microscopic organisms in environmental samples. Their ______ eDNA (environmental DNA sequencing), is used to identify and catalog species that inhabit specific ecosystems.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "technique, known as",
+    "B": "technique; known as",
+    "C": "technique—known as",
+    "D": "technique known as"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The comma after \"technique\" pairs with the comma after the closing parenthesis to separate the supplementary element \"known as eDNA (environmental DNA sequencing)\" from the rest of the sentence. This supplementary element functions to identify the name of Smith and Clarke's technique, and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence.\n\nWhy C is incorrect:\n\nChoice C is incorrect because a dash can't be paired with a comma to separate the supplementary element \"known as eDNA (environmental DNA sequencing)\" from the rest of the sentence. Punctuation marks used to set off a supplementary element must be of the same type on both sides.",
+  "source": "https://cooksat.com/practice?questionId=a66b91bf&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
