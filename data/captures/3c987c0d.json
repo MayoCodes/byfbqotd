@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3c987c0d",
+  "capturedAt": "2026-11-08T03:50:06.924Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Many herbicides used to control invasive weeds contain synthetic compounds that work by disrupting multiple enzyme pathways in plant cells. As weeds develop resistance, new herbicides are needed. Meryem Benali and her research team discovered that CBT, a natural compound found in eucalyptus bark, can kill invasive weeds by targeting just one enzyme pathway—and this pathway, designated P47, is present in all weed species known to threaten agricultural crops. Therefore, the researchers suggest that in developing new herbicides, it would be most useful to ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "investigate improved methods for extracting CBT compounds from eucalyptus bark.",
+    "B": "identify natural compounds similar to CBT that target the disruption of P47 pathways.",
+    "C": "verify the exact cellular locations of P47 and other enzyme pathways in weed tissues.",
+    "D": "determine the maximum number of different enzyme pathways that can be disrupted by a single compound."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The text explains that CBT, a natural compound, kills invasive weeds by targeting 'just one enzyme pathway'—P47—which is 'present in all weed species known to threaten agricultural crops.' This makes P47-targeting compounds highly efficient: a single compound disrupting P47 could kill all crop-threatening weeds, unlike herbicides that disrupt multiple pathways not shared by all species. Once weeds develop resistance to CBT, it would logically make sense to find other natural compounds similar to CBT that also target P47, since they would share this universal effectiveness against all crop-threatening weeds.\n\nWhy A is incorrect:\n\nChoice A is incorrect because nothing in the text suggests that CBT compounds are difficult to extract from eucalyptus bark and that investigating improved extraction methods would therefore be useful for developing efficient and effective herbicides. Rather, the text suggests that researchers developing new herbicides should aim to identify natural compounds similar to CBT, since that compound targets the P47 pathway shared by all species of weeds known to threaten agricultural crops.",
+  "source": "https://cooksat.com/practice?questionId=3c987c0d&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

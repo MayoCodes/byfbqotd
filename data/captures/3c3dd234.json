@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3c3dd234",
+  "capturedAt": "2026-11-08T03:50:03.567Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Zebra mussels (Dreissena polymorpha) are European mollusks that have become invasive in the Great Lakes, where they clog water intake systems and outcompete native shellfish. Zebra mussels can be controlled with chemical molluscicides, but that approach can also kill beneficial aquatic organisms. Recent research on using targeted acoustic frequencies to disrupt mollusk reproduction may offer a path toward exclusively targeting zebra mussels, consequently ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "making individual zebra mussels more susceptible to existing chemical molluscicides.",
+    "B": "reducing invasive zebra mussel populations without harming other organisms.",
+    "C": "enhancing the ecological benefits of zebra mussels in the Great Lakes.",
+    "D": "enabling water intake systems to function normally despite zebra mussel presence."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents the conclusion that most logically follows from the text's discussion of zebra mussels and targeted acoustic frequencies. The text establishes that using chemical molluscicides to control zebra mussels in the Great Lakes can also harm other aquatic organisms. The text then indicates that it might be possible to use acoustic frequencies to disrupt reproduction, which would be useful for \"exclusively targeting\" zebra mussels. If it's possible to exclusively target zebra mussels with acoustic frequencies—meaning that only zebra mussels are affected by the treatment—and prevent them from reproducing, then zebra mussel populations could be reduced \"without harming other organisms.\"\n\nWhy A is incorrect:\n\nChoice A is incorrect because the text raises the possibility of using acoustic frequencies to disrupt zebra mussel reproduction, not to make individual zebra mussels more vulnerable to chemical molluscicides that already exist.",
+  "source": "https://cooksat.com/practice?questionId=3c3dd234&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
