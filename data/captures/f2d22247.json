@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "f2d22247",
+  "capturedAt": "2026-11-08T00:42:39.778Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nJin Ha Lee is a student researching active volcanoes for an earth science project. She wants to compare the average annual sulfur dioxide emissions of Mount Etna in Italy with the emissions of certain other active volcanoes around the world. Looking at the table, she finds that Mount Etna releases an average of 4,820 kilotons of sulfur dioxide per year, while Kilauea in the United States releases an average of ______________",
+  "prompt": "Which choice most effectively uses data from the table to complete the comparison?",
+  "choices": {
+    "A": "3,640 kilotons",
+    "B": "2,950 kilotons",
+    "C": "2,110 kilotons",
+    "D": "1,275 kilotons"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to complete the comparison between volcanoes. The student identifies that Mount Etna in Italy releases 4,820 kilotons of sulfur dioxide per year and needs to complete the comparison with the emissions of Kilauea in the United States. According to the table, Kilauea releases an average of 1,275 kilotons per year.",
+  "source": "https://cooksat.com/practice?questionId=f2d22247&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/f2d22247/1-79f8d78a2084d089.png"
+    }
+  ]
+}

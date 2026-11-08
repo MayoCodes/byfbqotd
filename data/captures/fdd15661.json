@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fdd15661",
+  "capturedAt": "2026-11-08T00:43:30.664Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Hypothesizing that natural soundscapes, characterized by their acoustic complexity, reduce workplace stress, David Renault, Florencia Espinoza, and colleagues played recordings of a forest soundscape and an urban traffic soundscape to office workers during a demanding task. The team found that the workers' cortisol levels and galvanic skin response both decreased more during the forest soundscape than during the urban one. Since reduced galvanic skin response is associated with relaxation, the team concluded that the forest soundscape relaxed the workers. However, noting that reduced galvanic skin response can also be associated with disengagement from a task, one critic argues that instead, the forest soundscape simply caused the workers to disengage.",
+  "prompt": "Which finding, if true, would most directly weaken the critic's claim?",
+  "choices": {
+    "A": "Managers of the office workers in the study preferred the forest soundscape over the urban traffic soundscape.",
+    "B": "Workers in the study had never listened to the forest soundscape before participating.",
+    "C": "Slower breathing rates have also been found to be a reliable indicator of disengagement.",
+    "D": "Cortisol levels typically increase when a person disengages from a demanding task."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The critic claims that the forest soundscape caused workers to disengage rather than relax, reinterpreting the reduced galvanic skin response as a sign of disengagement. However, the study also found that cortisol levels decreased during the forest soundscape. If cortisol levels typically increase when a person disengages from a demanding task, then the observed decrease in cortisol is inconsistent with the critic's disengagement interpretation. This directly undermines the critic's claim by showing that disengagement would have produced the opposite pattern on another measure the researchers recorded.",
+  "source": "https://cooksat.com/practice?questionId=fdd15661&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

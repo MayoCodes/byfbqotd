@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "f7d0dc61",
+  "capturedAt": "2026-11-08T00:42:58.426Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nIn Palauan, a language spoken in the western Pacific, vocabulary pertaining to taro cultivation resembles equivalent vocabulary in the Malayo-Polynesian language family of island Southeast Asia. This resemblance is perhaps attributable to cultural contact: such terms could have entered Palauan through the intermediary of the neighboring but historically distinct Chamorro language, concurrent with the dissemination of taro itself from Southeast Asia into Micronesia after 1500 BCE. That vocabulary pertaining to cultivated crops accompanies them as they diffuse into new regions is an established phenomenon globally. Crops may also be decoupled from vocabulary altogether: taro cultivation became widespread among Micronesian and neighboring island societies, yet ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "the origins of vocabulary pertaining to the crop vary across languages in the region, with the words for taro in Warlpiri and the Papuan languages showing no demonstrable relationship to Malayo-Polynesian vocabulary.",
+    "B": "the region is linguistically diverse, being home not only to Chamorro and Palauan, but also to the Papuan language family (including Enga and Huli) and to one Australian language (Warlpiri).",
+    "C": "taro-related vocabulary underwent changes when entering other, unrelated languages, as can be seen by the divergence of the Palauan word from the Chamorro word it originated in.",
+    "D": "words for taro in the Papuan languages evolved from a common root, as evidenced by the similarity between the Enga and Huli words."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The table shows that the words for taro in Warlpiri (Australian) and in Enga and Huli (Papuan) are marked as not of Malayo-Polynesian origin, while the Palauan and Chamorro words are. The passage's final sentence introduces the idea that crops may be decoupled from vocabulary — that a crop like taro can spread without its accompanying terminology. The data in Choice A illustrates this precisely: taro cultivation became widespread, yet several languages in the region adopted the crop without adopting vocabulary related to the Malayo-Polynesian source.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This choice describes how borrowed words can change when entering other languages, but the passage requires an example of decoupling — cases where vocabulary is unrelated to the source — not an example of how related words diverge. The table also does not indicate that the Palauan word originated from the Chamorro word.",
+  "source": "https://cooksat.com/practice?questionId=f7d0dc61&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/f7d0dc61/1-906f78d5d4d027f5.png"
+    }
+  ]
+}

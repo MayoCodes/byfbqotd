@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "fc872ff6",
+  "capturedAt": "2026-11-08T00:43:23.482Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nOne way that small businesses support their surrounding communities is through charitable giving—direct donations to local nonprofits, schools, and civic organizations. Because family-owned businesses typically remain rooted in the same town across generations while non-family-owned businesses are more likely to relocate, Seung-Ho Desai and Hannah Elliott hypothesized that it is more advantageous for family-owned businesses than non-family-owned businesses to devote resources to organizations located within the business's home community, and this should be reflected in ownership-specific differences in the share of donations directed locally.",
+  "prompt": "Which choice best describes data from the table that support Desai and Elliott's hypothesis?",
+  "choices": {
+    "A": "Business 6 and business 1 directed a higher proportion of donations to local organizations than did business 13 and business 15.",
+    "B": "The proportion of donations directed to local organizations ranged from a low of 0.00 to a high of 0.67.",
+    "C": "Business 6 directed a higher proportion of donations to local organizations than did business 1, and business 13 directed a higher proportion of donations to local organizations than did business 15.",
+    "D": "Business 13 made 27 donations, more than either business 6 or business 1."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. Desai and Elliott hypothesized that family-owned businesses would direct a higher share of donations to local organizations than non-family-owned businesses would, because family-owned businesses tend to remain in the same community across generations. The table shows that Business 1 (family-owned) directed 0.59 of its donations locally and Business 6 (family-owned) directed 0.67 locally, while Business 13 (non-family-owned) directed 0.15 locally and Business 15 (non-family-owned) directed 0.00 locally. Both family-owned businesses thus directed a higher proportion of donations to local organizations than either non-family-owned business did, supporting the hypothesized ownership-specific difference.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Although Business 13 did make 27 donations, more than Business 6 (6 donations) or Business 1 (17 donations), the hypothesis concerns the proportion of donations directed to local organizations, not the total number of donations. Comparing the total donation count of one non-family-owned business to those of two family-owned businesses also provides no information about ownership-specific differences in the share directed locally.",
+  "source": "https://cooksat.com/practice?questionId=fc872ff6&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/fc872ff6/1-846ee4052455795a.png"
+    }
+  ]
+}

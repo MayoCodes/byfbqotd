@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "f5738629",
+  "capturedAt": "2026-11-08T00:42:47.308Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nPsychrophilic enzymes are proteins from cold-adapted microorganisms that catalyze biochemical reactions at low temperatures, while mesophilic enzymes function best at moderate temperatures. Psychrophilic enzymes are known for maintaining catalytic activity in frigid environments, though their activity generally declines sharply as temperature rises toward mesophilic ranges. Lars Barrett, Wanjiku Okeke, and colleagues investigated the catalytic activity (measured for both substrate binding and product release) of two psychrophilic enzymes isolated from Antarctic bacteria, ProtA and LipB, and concluded that the enzymes' activity profile differs from that of most psychrophilic enzymes.",
+  "prompt": "Which choice best describes data in the graph that support Barrett, Okeke, and colleagues' conclusion?",
+  "choices": {
+    "A": "ProtA outperformed LipB at 5 degrees Celsius in both substrate binding and product release activity even though it was isolated from a colder source environment.",
+    "B": "Both ProtA and LipB showed substantially higher product release activity than substrate binding activity throughout the range from 5 degrees Celsius to 35 degrees Celsius.",
+    "C": "The changes in substrate binding activity and product release activity were greater between 5 degrees Celsius and 15 degrees Celsius than between 15 degrees Celsius and 25 degrees Celsius for both ProtA and LipB.",
+    "D": "For both ProtA and LipB, substrate binding activity and product release activity were higher at 35 degrees Celsius than at 5 degrees Celsius."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The passage explains that typical psychrophilic enzymes maintain catalytic activity in frigid environments but show sharply declining activity as temperatures rise toward mesophilic ranges. Barrett, Okeke, and colleagues concluded that ProtA and LipB differ from this typical pattern. To support that conclusion, the data must show the opposite directional pattern from the typical one. The graph shows that for both ProtA and LipB, both substrate binding activity and product release activity are higher at 35 degrees Celsius than at 5 degrees Celsius — directly contrary to the typical psychrophilic behavior described. This pattern of activity rising rather than falling as temperature increases supports the researchers' conclusion that the two enzymes' activity profile is atypical.",
+  "source": "https://cooksat.com/practice?questionId=f5738629&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f5738629/1-35745e6438de2e65.png"
+    }
+  ]
+}
