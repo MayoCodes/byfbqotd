@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e2779e26",
+  "capturedAt": "2026-11-08T03:55:23.726Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Some Bombus terrestris, a ground-nesting bee found throughout Europe, have established populations in high-altitude mountain environments in the region. Although there is little genetic difference between lowland and mountain B. terrestris and all members of the species can produce the same chemical pheromones, biologist Elena Kozlova and colleagues found that the context and significance of those pheromones vary by elevation—e.g., the compound that lowland B. terrestris use to mark foraging trails is used by mountain populations to signal nest defense—and the chemical profiles of mountain bee pheromones show some altitude-specific variations as well. Kozlova and colleagues note that differences in chemical communication could accumulate to the point of inhibiting interbreeding among bees from different elevations, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "although B. terrestris living in lowlands are genetically similar to those living in mountains, lowland bees rely on chemical communication less than mountain bees do.",
+    "B": "although B. terrestris is a single species at present, it could be in the process of splitting into distinct populations with different characteristics.",
+    "C": "although all B. terrestris produce pheromones, the bees living in lowlands produce some compounds that the bees living in mountains do not, and vice versa.",
+    "D": "although B. terrestris from different elevations can interbreed currently, lowland bees and mountain bees are sufficiently genetically distinct that they can be considered separate species."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The text states that lowland and mountain B. terrestris show 'little genetic difference' and all can 'produce the same chemical pheromones,' yet the 'context and significance of those pheromones vary by elevation'—the same compound used for foraging trails in lowlands signals nest defense in mountains. Kozlova and colleagues note that 'differences in chemical communication could accumulate to the point of inhibiting interbreeding among bees from different elevations.' This suggests that even though the bees are currently a single species, they could be in the process of splitting into distinct populations as communication differences prevent lowland and mountain bees from successfully interbreeding.\n\nWhy A is incorrect:\n\nChoice A is incorrect because there is no information in the text suggesting that the lowland bees are less reliant on chemical communication than the mountain bees are. Although the text does indicate that the lowland bees and mountain bees are genetically similar, the text describes both groups as using chemical communication and says nothing to indicate that one group depends on that communication more than the other group does.",
+  "source": "https://cooksat.com/practice?questionId=e2779e26&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

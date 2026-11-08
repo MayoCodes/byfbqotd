@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d38af120",
+  "capturedAt": "2026-11-08T03:55:03.392Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Carbon fiber composites account for 85% of the advanced materials used in aerospace manufacturing worldwide despite having an average tensile strength of only 3,500–4,000 MPa. In a study addressing this limitation, a team led by Dr. Bethany Graves demonstrated that incorporating graphene nanotubes—which provide exceptional flexibility under stress, whereas carbon fiber provides rigidity—increases the composite's tensile strength to 6,200 MPa or higher. Materials made with only graphene nanotubes, however, are no stronger than standard carbon fiber composites. It's reasonable to conclude, then, that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "materials with only graphene nanotubes and no carbon fiber would likely achieve tensile strengths exceeding 6,200 MPa.",
+    "B": "aerospace engineering will remain limited until composite materials are replaced with a more reliable technology.",
+    "C": "composites with both carbon fiber and graphene nanotubes are stronger because they combine rigidity and flexibility under stress.",
+    "D": "researchers need to investigate whether other nanomaterials like graphene nanotubes are as effective as graphene nanotubes appear to be."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents the conclusion that most logically follows from the text's discussion of the tensile strength of various composite materials. The text indicates that Graves and her team found that incorporating graphene nanotubes into carbon fiber composites increased the tensile strength relative to standard carbon fiber composites. Using materials with only graphene nanotubes and no carbon fiber, however, resulted in no improvement in strength over carbon fiber composites. The text also states that graphene nanotubes provide flexibility under stress and carbon fiber provides rigidity. If graphene nanotubes and carbon fiber have different mechanical properties and the combination of both materials results in greater strength than the use of either material alone does, then it is reasonable to infer that the improved strength of hybrid composites could be attributable to their combining both rigidity and flexibility properties that neither carbon fiber nor graphene nanotube materials possess individually.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it is directly contradicted by the text, which says that carbon fiber composites have tensile strengths of 3,500–4,000 MPa and that materials with only graphene nanotubes are no stronger than carbon fiber composites are. Graphene-only materials thus must achieve 4,000 MPa or less—not more than 6,200 MPa—in tensile strength.",
+  "source": "https://cooksat.com/practice?questionId=d38af120&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

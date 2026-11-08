@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d83b8180",
+  "capturedAt": "2026-11-08T03:55:06.808Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In a study of organic light-emitting diode (OLED) displays (one of several display technologies designed to produce high-quality visual output), researcher Eun-Seo Ham et al. describe a technique for creating the device's pixel matrix using laser etching. Traditional pixel matrix creation is achieved through photolithography processes. This approach can require up to 75% more processing time than necessary, significantly increasing production costs for large-scale manufacturing—a problem that may be eliminated by laser etching, which the researchers characterize as \"highly precise, efficient, and scalable.\"",
+  "prompt": "What does the text most strongly suggest about traditional pixel matrix creation?",
+  "choices": {
+    "A": "It is more costly for large-scale production than are methods for creating pixel matrices used in other display technologies.",
+    "B": "It generally involves longer processing times than do other established techniques for pixel matrix creation.",
+    "C": "It is somewhat inefficient and therefore reduces the potential image quality of OLED displays compared to their visual output capabilities.",
+    "D": "It is less suitable for producing large quantities of OLED displays than an alternative creation technique may be."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. Traditional pixel matrix creation increases \"production costs for large-scale manufacturing,\" but laser etching might eliminate that problem.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This is not completely supported by the text. While it's true that traditional pixel matrix creation is expensive for large-scale production, there's nothing in the text that mentions other display technologies.",
+  "source": "https://cooksat.com/practice?questionId=d83b8180&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
