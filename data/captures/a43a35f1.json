@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a43a35f1",
+  "capturedAt": "2026-11-08T15:51:23.718Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Deep-sea thermal vents—underwater fissures that release superheated water rich in minerals—are typically located only through expensive deep-sea exploration missions. Inspired by the magnetic sensitivity of certain marine animals like sharks and rays, researchers developed a method for detecting these vents from the surface using magnetic field variations, which occur as the heated, mineral-rich water creates distinctive electromagnetic signatures. A specialized magnetometer array captures readings of these magnetic patterns, which shift as thermal activity changes; systematic analysis of these variations can then be used to pinpoint vent locations and assess their activity levels from ships above.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It notes an obstacle to detecting a geological phenomenon, mentions a sensory ability of certain animals that inspired a solution to that obstacle, and then explains how researchers used a magnetic device to mimic that ability.",
+    "B": "It describes how most ocean exploration relies on thermal vents, explains how researchers discovered that certain animals can locate thermal vents without expensive equipment, and then suggests that this discovery could be used to reduce costs in ocean exploration associated with current methods.",
+    "C": "It presents a deep-sea method of geological survey, details the advantages of an alternative approach used by certain animals that is based on an unrelated natural phenomenon, and then indicates how researchers compared the effectiveness of the two approaches.",
+    "D": "It explains how thermal vents are typically found, emphasizes a key difference between how humans and certain animals locate thermal vents for research, and then proposes an alternative way of using thermal vents to enhance existing exploration technology."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it accurately describes the overall structure of the text. The text begins by pointing out an obstacle to detecting the geological phenomenon of thermal vents: they are located only through expensive deep-sea missions. The text then indicates that, inspired by the magnetic sensitivity of sharks and rays, researchers developed a way to detect thermal vents from the surface. The text then indicates that the researchers mimicked the animals' magnetic detection capabilities using a specialized magnetometer array. Thus, the text notes an obstacle to detecting a geological phenomenon, mentions a sensory ability of certain animals that inspired a solution to that obstacle, and then explains how researchers used a magnetic device to mimic that ability.",
+  "source": "https://cooksat.com/practice?questionId=a43a35f1&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}
