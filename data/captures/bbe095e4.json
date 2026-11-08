@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "bbe095e4",
+  "capturedAt": "2026-11-08T16:46:11.005Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "When evaluating a woodland as habitat for reintroducing native species, ecologists might be expected to prioritize forests with the densest canopy cover. Yet if ground-level surveys reveal that a site's soils cannot support diverse understory growth, the forest may be unsuitable regardless of its trees. Ultimately, a forest's soil chemistry and moisture levels, not its overall tree density, ______ its value as reintroduction habitat.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "shapes",
+    "B": "has shaped",
+    "C": "shaping",
+    "D": "shape"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is subject-verb agreement. The sentence contains a compound subject, \"a forest's soil chemistry and moisture levels,\" joined by \"and,\" which requires a plural verb. The phrase \"not its overall tree density\" is a parenthetical element that does not affect the agreement. This choice supplies the plural verb \"shape,\" which correctly agrees in number with the plural compound subject.",
+  "source": "https://cooksat.com/practice?questionId=bbe095e4&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

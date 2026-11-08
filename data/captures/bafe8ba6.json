@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "bafe8ba6",
+  "capturedAt": "2026-11-08T16:46:02.738Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Based on historical records, art historians have generally agreed that oil painting techniques were developed in the fifteenth century. However, since discovering traces of oil-based pigments in a thirteenth-century Byzantine manuscript in northern Italy, ______ may have emerged much earlier.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "researcher Maria Fernandez's argument is that these techniques",
+    "B": "researcher Maria Fernandez has argued that these techniques",
+    "C": "these techniques, researcher Maria Fernandez has argued,",
+    "D": "the argument researcher Maria Fernandez has made is that these techniques"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"researcher Maria Fernandez\" the subject of the sentence and places it immediately after the modifying phrase \"since…Italy.\" In doing so, this choice clearly establishes that researcher Maria Fernandez—and not another noun in the sentence—is who discovered traces of oil-based pigments in a thirteenth-century Byzantine manuscript in northern Italy.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a dangling modifier. The placement of the noun phrase \"the argument\" immediately after the modifying phrase illogically suggests that the \"argument\" is what discovered traces of oil-based pigments in a thirteenth-century Byzantine manuscript in northern Italy.",
+  "source": "https://cooksat.com/practice?questionId=bafe8ba6&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
