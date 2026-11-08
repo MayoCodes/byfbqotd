@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f81b7c21",
+  "capturedAt": "2026-11-08T16:48:03.847Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "On October 14, 2019, a routing flaw in a major internet backbone provider misdirected global web traffic for nearly two hours. Known as the Dalton incident, after the engineer who first diagnosed it, ______ October 14 has since been observed by network administrators as Internet Resilience Day.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "the system that prompted an annual day of network awareness had its traffic misdirected by the malfunction:",
+    "B": "an industry-wide protocol for outage response was inspired by the malfunction, which disrupted traffic for millions of users:",
+    "C": "the malfunction disrupted traffic for millions of users and inspired an industry-wide protocol for outage response:",
+    "D": "a cascade of routing errors affected millions of users and inspired an industry-wide protocol for outage"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"the malfunction\" the subject of the sentence and places it immediately after the modifying phrase \"Known as the Dalton incident, after the engineer who first diagnosed it.\" In doing so, this choice clearly establishes that the malfunction—and not another noun in the sentence—is what is known as the Dalton incident.",
+  "source": "https://cooksat.com/practice?questionId=f81b7c21&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

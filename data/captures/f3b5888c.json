@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f3b5888c",
+  "capturedAt": "2026-11-08T16:47:52.844Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The bacterium species Bacillus subtilis is highly effective at breaking down organic waste. For this reason, researchers are currently investigating methods to use this species in waste management. B. subtilis might be employed, for example, to create future biodegradation facilities that ______ harmful pollutants for environmental cleanup.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are decomposing",
+    "B": "decomposed",
+    "C": "have decomposed",
+    "D": "decompose"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of verbs to express tense. Simple present tense verbs can be used to describe actions that tend to occur, including in a hypothetical or future scenario. In this case, the simple present tense verb \"decompose\" indicates what the biodegradation facilities might be able to do in the future (decompose harmful pollutants for environmental cleanup).\n\nWhy C is incorrect:\n\nChoice C is incorrect because the present perfect tense verb \"have decomposed\" suggests that the pollutants have been decomposed from a point in the past up to the present, not that they might be decomposed in the future.",
+  "source": "https://cooksat.com/practice?questionId=f3b5888c&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

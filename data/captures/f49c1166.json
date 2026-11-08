@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f49c1166",
+  "capturedAt": "2026-11-08T16:47:55.582Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Marie Curie's groundbreaking research began in 1896 with her investigation of uranium rays, but she would expand and deepen her studies significantly over the following two decades. These revolutionary ______ the discovery of polonium and radium, the development of mobile X-ray units, and the establishment of the Radium Institute, transformed our understanding of atomic physics and earned her two Nobel Prizes.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "achievements would include",
+    "B": "achievements included",
+    "C": "achievements, include",
+    "D": "achievements, including"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite present participle \"including\" is correctly used to form a supplementary element that interrupts the main clause \"These revolutionary achievements…transformed our understanding of atomic physics and earned her two Nobel Prizes.\" This supplementary element, offset by commas after \"achievements\" and \"Institute,\" provides examples of the achievements Curie made in her research.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in an ungrammatical sentence. The finite present tense verb \"include\" can't be used in this way to form a supplementary element within the main clause.",
+  "source": "https://cooksat.com/practice?questionId=f49c1166&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
