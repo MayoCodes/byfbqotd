@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b2c618a1",
+  "capturedAt": "2026-11-08T16:45:32.379Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Like nearly every newly described organism, the Pacific deep-sea tubeworm Lamellibrachia ishikawae has been issued a unique identifier code upon entry into a global taxonomic registry. First catalogued in the 2014 ZooBank database, a registry maintained by the International Commission on Zoological Nomenclature, ______",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "formal species registration was not widely adopted until the 2010s, so initially, only a few taxonomists used the code.",
+    "B": "not until the 2010s did formal species registration become widely adopted, meaning that, initially, only a few taxonomists used the code.",
+    "C": "initially, only a few taxonomists used the code, as formal species registration was not widely adopted until the 2010s.",
+    "D": "the code was used by only a few taxonomists initially, as formal species registration was not widely adopted until the 2010s."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"the code\" the subject of the sentence and places it immediately after the modifying phrase \"First catalogued...Nomenclature.\" In doing so, this choice clearly establishes that the code—and not another noun in the sentence—was first catalogued in the 2014 ZooBank database.",
+  "source": "https://cooksat.com/practice?questionId=b2c618a1&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
