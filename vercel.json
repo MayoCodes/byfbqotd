@@ -3,5 +3,16 @@
   "framework": null,
   "buildCommand": "node build.cjs",
   "outputDirectory": "public",
-  "cleanUrls": true
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, must-revalidate"
+        }
+      ]
+    }
+  ]
 }
