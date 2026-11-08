@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "284154b6",
+  "capturedAt": "2026-11-08T17:50:27.415Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "On March 14, 2011, the research vessel Meridian departed from port, commencing Expedition ______ nearly six weeks and covering 4,200 nautical miles, the voyage concluded when the team led by Hazel Fletcher and Deepak Jang docked at Reykjavik Harbor in Iceland.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "NAV-17, covering",
+    "B": "NAV-17, it covered",
+    "C": "NAV-17 covering",
+    "D": "NAV-17. Covering"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after 'NAV-17' is used correctly to mark the boundary between the first sentence ('On...NAV-17') and the second sentence ('Covering...Iceland'), which begins with a supplementary participial phrase.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a run-on sentence. The sentences ('On...covering') and ('nearly six weeks...Iceland') are fused without punctuation and/or a conjunction.",
+  "source": "https://cooksat.com/practice?questionId=284154b6&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

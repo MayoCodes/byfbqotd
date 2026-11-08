@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "29e02064",
+  "capturedAt": "2026-11-08T17:50:38.547Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Drawing on decades of solar research, astronomer Mariana Lopes Barata relies on a coronagraph—a specialized optical ______ block the sun's bright disk and reveal the faint, wispy corona surrounding it.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "instrument; to",
+    "B": "instrument: to",
+    "C": "instrument. To",
+    "D": "instrument—to"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the punctuation of a nonessential element within a sentence. The dash after \"instrument\" pairs with the dash after \"coronagraph\" to clearly separate the nonessential element \"a specialized optical instrument\" from the rest of the sentence. This nonessential element functions to describe the coronagraph, and the pair of dashes indicates that this element could be removed without affecting the grammatical coherence of the sentence.\n\nWhy B is incorrect:\n\nChoice B is incorrect because a colon can't be paired with an opening dash in this way to separate the nonessential element from the rest of the sentence.",
+  "source": "https://cooksat.com/practice?questionId=29e02064&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

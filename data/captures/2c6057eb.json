@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2c6057eb",
+  "capturedAt": "2026-11-08T17:50:44.068Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma After Introductory Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The heights of redwood trees vary dramatically by subspecies. For example, the coastal redwood (Sequoia sempervirens) can reach over 350 ______ the dawn redwood (Metasequoia glyptostroboides) typically grows to only about 100 feet in height.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "feet: while",
+    "B": "feet. While",
+    "C": "feet, while",
+    "D": "feet; while"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation between a main clause and a subordinate clause. This choice correctly uses a comma to mark the boundary between the main clause (\"the coastal…feet\") and the subordinate clause (\"while…height\") that provides contrasting information about the height of dawn redwoods.\n\nWhy B is incorrect:\n\nChoice B is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"while.\"",
+  "source": "https://cooksat.com/practice?questionId=2c6057eb&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

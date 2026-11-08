@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2c8f0c61",
+  "capturedAt": "2026-11-08T17:50:46.832Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Research conducted by Harvard oceanographer Ama Sarpong in 2021 provides a groundbreaking theory about the formation of Earth's deepest ocean ______ features called trenches, massive depressions that develop when two tectonic plates collide, forcing one beneath the other into the mantle, creating profound underwater valleys that can extend for thousands of miles.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "basins: topographical",
+    "B": "basins topographical",
+    "C": "basins; topographical",
+    "D": "basins. Topographical"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between a main clause and a supplementary phrase. In this choice, a colon is correctly used to mark the boundary between the main clause (\"Research…basins\") and the supplementary phrase (\"topographical…miles\") and to introduce the following explanation of the formation of Earth's ocean basins.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"topographical.\"",
+  "source": "https://cooksat.com/practice?questionId=2c8f0c61&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

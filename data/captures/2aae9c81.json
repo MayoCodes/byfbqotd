@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2aae9c81",
+  "capturedAt": "2026-11-08T17:50:41.311Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The International Data Infrastructure Alliance (IDIA) publishes comparative latency benchmarks for its twenty-two member data-center hubs. For example, in March 2023, a reference query that resolved in 40 milliseconds at a Frankfurt facility resolved in 28 milliseconds and 61 milliseconds at fellow IDIA ______ and Santiago, respectively.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "hub: Singapore",
+    "B": "hubs Singapore",
+    "C": "hubs, Singapore",
+    "D": "hubs; Singapore"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation within a prepositional phrase containing coordinated proper nouns. When, as in this case, proper nouns ('Singapore' and 'Santiago') are coordinated to specify examples of a preceding noun ('fellow IDIA hubs'), no punctuation is needed between the general noun and the first proper noun.\n\nWhy D is incorrect:\n\nChoice D is incorrect because a semicolon can't be used in this way within a prepositional phrase. Semicolons are conventionally used to separate independent clauses or items in a complex series, not to mark boundaries within a prepositional phrase.",
+  "source": "https://cooksat.com/practice?questionId=2aae9c81&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

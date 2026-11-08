@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "28fee199",
+  "capturedAt": "2026-11-08T17:50:30.203Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "With the introduction of digital learning platforms that make educational content more accessible, student engagement in traditional classroom settings might be expected to decline. Educational researchers have found that enhanced accessibility often correlates negatively with classroom ______ digital tools, reducing barriers to information, may increase student motivation to the extent that in-person participation actually improves.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "participation, however,",
+    "B": "participation, however;",
+    "C": "participation; however,",
+    "D": "participation, however"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the punctuation of two independent clauses when the second clause begins with a transitional expression. This choice correctly uses a semicolon after \"participation\" to separate the first independent clause (\"Educational researchers...participation\") from the second independent clause (\"digital tools...improves\") and a comma after the transition word \"however.\" The transition introduces the contrast between the finding that enhanced accessibility often correlates negatively with classroom participation and the idea that digital tools may actually improve in-person participation.\n\nWhy B is incorrect:\n\nChoice B is incorrect because it places \"however\" with the preceding clause instead of using it to introduce the contrasting second independent clause. The contrast is between the finding that enhanced accessibility often correlates negatively with classroom participation and the idea that digital tools may actually improve in-person participation, so the semicolon should come before \"however\" and a comma should follow \"however.\"",
+  "source": "https://cooksat.com/practice?questionId=28fee199&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

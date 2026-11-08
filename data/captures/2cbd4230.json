@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2cbd4230",
+  "capturedAt": "2026-11-08T17:50:49.611Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In 2019, marine biologist Dr. Debra Kendall interviewed fifteen deep-sea researchers, all of whom had spent years studying bioluminescent organisms, to document \"their most extraordinary underwater encounters\" in comprehensive detail. Kendall combined transcripts of these interviews with underwater footage—both of the researchers themselves and the creatures they ______ to remarkable effect in her documentary Luminous Depths.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "observed, from jellyfish to squid to deep-sea corals",
+    "B": "observed, from jellyfish to squid to deep-sea corals—",
+    "C": "observed—from jellyfish to squid to deep-sea corals,",
+    "D": "observed: from jellyfish to squid to deep-sea corals"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the punctuation of supplementary elements within a sentence. The comma after \"observed\" separates the first supplementary element (\"both of the researchers themselves and the creatures they observed\") from the second supplementary element (\"from jellyfish to squid to deep-sea corals\"). Furthermore, the dash after \"corals\" pairs with the dash after \"footage\" to separate these two supplementary elements from the rest of the sentence. The pair of dashes, which operate at a higher organizing level than the comma, indicates that the elements between the dashes function together—in this case, the second supplement (\"from…corals\") describes the range of creatures mentioned in the first supplement—and could be removed without affecting the grammatical coherence of the sentence.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it fails to appropriately punctuate the supplementary elements in the sentence. A dash is needed after \"corals\" to separate the supplementary elements (\"both…corals\") from the rest of the sentence.",
+  "source": "https://cooksat.com/practice?questionId=2cbd4230&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

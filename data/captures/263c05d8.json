@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "263c05d8",
+  "capturedAt": "2026-11-08T17:50:24.675Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Norwegian composer Edvard Grieg's Piano Concerto in A minor consists of three interconnected movements built around a central melodic theme that appears in various forms throughout the work. The recurring use of this theme, according to ______ reflects his belief that \"music should tell a story that unfolds across time.\"",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Grieg",
+    "B": "Grieg:",
+    "C": "Grieg,",
+    "D": "Grieg—"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The phrase \"according to Grieg\" is an aside that interrupts the flow of the sentence, so it needs to be separated from the sentence with a pair of matching punctuation marks: two commas, two dashes, or a pair of parentheses. We already have a comma before \"according,\" so we must add a comma after \"Grieg.\"",
+  "source": "https://cooksat.com/practice?questionId=263c05d8&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
