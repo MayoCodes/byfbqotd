@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2f37fd49",
+  "capturedAt": "2026-11-08T16:05:20.218Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Yale University is located in New Haven, Connecticut.\n• Yale's undergraduate enrollment is 6,645 students.\n• Yale's undergraduates represent 47.2 percent of New Haven's college student population.\n• Harvard University is located in Cambridge, Massachusetts.\n• Harvard's undergraduate enrollment is 7,240 students.\n• Harvard's undergraduates represent 22.8 percent of Cambridge's college student population.",
+  "prompt": "The student wants to emphasize the relative sizes of the two universities' undergraduate enrollments. Which choice most effectively uses information from the given sentences to emphasize the relative sizes of the two universities' undergraduate enrollments?",
+  "choices": {
+    "A": "Even though Harvard (enrollment 7,240) is larger than Yale (enrollment 6,645), Yale accounts for more of its city's college student population.",
+    "B": "Connecticut's Yale University has 6,645 undergraduate students, and Massachusetts's Harvard University has 7,240 undergraduate students.",
+    "C": "Comparing Massachusetts and Connecticut, 7,240 is 22.8 percent of Cambridge's college students, and 6,645 is 47.2 percent of New Haven's.",
+    "D": "The undergraduate enrollments at Yale University and Harvard University are 6,645 and 7,240 students, respectively."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence emphasizes the relative sizes of the universities' undergraduate enrollments, noting that even though Harvard has more students overall, Yale accounts for a larger percentage of the college students in its city.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The sentence emphasizes the college student populations of the two cities; it fails to mention the universities' enrollments clearly.",
+  "source": "https://cooksat.com/practice?questionId=2f37fd49&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "353cebdf",
+  "capturedAt": "2026-11-08T16:05:36.498Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Dr. Mai Huynh is a conference organizer at the International Technology Summit in Silicon Valley.\n• She organized the summit's 2019 symposium \"Digital Futures: AI, Robotics, and Human Potential.\"\n• This symposium featured presentations by twelve startup founders.\n• She organized the summit's 2021 symposium \"Connected World: IoT, 5G, and Smart Cities.\"\n• This symposium included over 80 sessions by established technology executives.",
+  "prompt": "The student wants to describe the symposium that Huynh organized in 2019. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Held at the International Technology Summit, the symposium \"Connected World: IoT, 5G, and Smart Cities\" included over 80 sessions by established technology executives.",
+    "B": "In both 2019 and 2021, Dr. Mai Huynh organized symposiums at the International Technology Summit in Silicon Valley.",
+    "C": "While one symposium that Dr. Mai Huynh organized featured presentations by startup founders, another included sessions by established executives.",
+    "D": "\"Digital Futures: AI, Robotics, and Human Potential,\" a symposium at the International Technology Summit, featured presentations by twelve startup founders."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence describes the 2019 symposium Huynh organized, noting that the symposium, which was titled \"Digital Futures: AI, Robotics, and Human Potential,\" featured presentations by twelve startup founders.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The sentence emphasizes a similarity between the two symposiums Huynh organized; it doesn't describe her 2019 symposium.",
+  "source": "https://cooksat.com/practice?questionId=353cebdf&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
