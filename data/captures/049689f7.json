@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "049689f7",
+  "capturedAt": "2026-11-08T17:48:53.403Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "During her 2018 expedition through the Solomon Sea, Charlotte Dalton produced detailed atlases of small volcanic islands that had been ______ charted using only handheld instruments and weather observations. Through this painstaking work, the British cartographer offered geographers a fresh portrait of a region long overlooked by larger maritime surveys.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "mapped, surveyed, and,",
+    "B": "mapped, surveyed, and",
+    "C": "mapped, surveyed; and",
+    "D": "mapped surveyed, and"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation in a coordinate series. This choice correctly uses commas to separate the three past participles in the series ('mapped,' 'surveyed,' and 'charted') that together modify 'islands.'\n\nWhy C is incorrect:\n\nChoice C is incorrect because a semicolon can't be used in this way to separate items in a simple coordinate series. Semicolons in series are conventionally used only when the items themselves contain commas, which is not the case here.",
+  "source": "https://cooksat.com/practice?questionId=049689f7&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

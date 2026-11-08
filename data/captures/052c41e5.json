@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "052c41e5",
+  "capturedAt": "2026-11-08T17:48:56.163Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Mexican filmmaker Alejandro González Iñárritu's acclaimed body of work includes Amores Perros, a film about interconnected lives in contemporary Mexico ______ a documentary examining the environmental impact of industrial development in Latin America; and The Revenant, his Oscar-winning wilderness epic.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "City; Forgotten Voices,",
+    "B": "City, Forgotten Voices,",
+    "C": "City, Forgotten Voices:",
+    "D": "City; Forgotten Voices"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the punctuation of items in a complex series (a series including internal punctuation). In this choice, the semicolon after \"City\" is conventionally used to separate the first item (\"Amores Perros…City\") and the second item (\"Forgotten…America\") in the series. Further, the comma after \"Voices\" correctly separates the title \"Forgotten Voices\" from the supplementary phrase (\"a documentary…America\") that describes it.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the comma after \"City\" doesn't match the semicolon used later in the series to separate the second item (\"Forgotten…America\") from the third item (\"and…epic\"). Additionally, a colon can't be used in this way to separate the title \"Forgotten Voices\" from the supplementary phrase (\"a documentary…America\") that describes it.",
+  "source": "https://cooksat.com/practice?questionId=052c41e5&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

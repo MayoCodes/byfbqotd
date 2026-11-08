@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "009a49ec",
+  "capturedAt": "2026-11-08T17:48:42.129Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The Torre di Pisa and the Torre di Burano are two of several Italian bell ______ enormous bronze bell hangs inside the Torre di Pisa, while a smaller iron bell hangs inside the Torre di Burano.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "towers, that lean noticeably to one side, and an",
+    "B": "towers that lean noticeably to one side. An",
+    "C": "towers, that lean noticeably to one side and an",
+    "D": "towers that lean noticeably to one side, an"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period correctly marks the boundary between one sentence (\"The Torre…side\") and another sentence (\"An…Burano\"). The word \"that\" correctly introduces a restrictive clause without commas, since the clause is essential to identifying which Italian bell towers are being discussed.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a comma splice. A comma can't be used in this way to mark the boundary between the two sentences (\"The Torre…side\" and \"an enormous…Pisa\").",
+  "source": "https://cooksat.com/practice?questionId=009a49ec&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

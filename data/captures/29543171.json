@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "29543171",
+  "capturedAt": "2026-11-08T17:50:32.987Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Hidden beneath the dense canopy of Peru's Amazon rainforest lies the archaeological site of Monte Alegre, an ancient settlement that was inhabited by indigenous communities for centuries before being abandoned and reclaimed by the jungle. Recently, researchers have ______ pottery shards, stone tools, ceremonial masks, and dozens of other relics from the overgrown site.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "recovered:",
+    "B": "recovered,",
+    "C": "recovered",
+    "D": "recovered—"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. No punctuation should separate the verb \"recovered\" and its objects (i.e, what was \"recovered\"): \"pottery shards, stone tools, ceremonial masks, and dozens of other relics.\"\n\nWhy D is incorrect:\n\nChoice D is incorrect. This choice creates a punctuation error, separating the verb \"recovered\" from its objects (i.e, what was \"recovered\") with a dash.",
+  "source": "https://cooksat.com/practice?questionId=29543171&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

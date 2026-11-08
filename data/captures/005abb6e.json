@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "005abb6e",
+  "capturedAt": "2026-11-08T17:48:38.547Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Bongani Demir studies fungi that thrive in extreme environments, combining field observations from remote caves with DNA sequencing in the laboratory. Demir trained as a microbiologist but spent years working as a wilderness guide before returning to research. The field and laboratory ______ reflect the dual expertise Demir brings to the discipline.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "methods, that Demir combines in her work",
+    "B": "methods that Demir combines in her work",
+    "C": "methods that Demir combines in her work,",
+    "D": "methods, that Demir combines in her work,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The relative clause 'that Demir combines in her work' is restrictive, providing essential information to identify which specific methods are being discussed, and therefore should not be set off by commas.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the comma before 'that' incorrectly treats the relative clause as nonrestrictive, suggesting the information is supplementary rather than essential to identifying which methods reflect the dual expertise Demir brings to the discipline.",
+  "source": "https://cooksat.com/practice?questionId=005abb6e&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

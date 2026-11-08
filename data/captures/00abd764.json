@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "00abd764",
+  "capturedAt": "2026-11-08T17:48:45.150Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Spinning 642 times per second, PSR B1937+21, a millisecond pulsar located roughly 12,000 light-years from Earth, is among the most precise natural clocks ever observed. With decades of nearly unvarying pulse arrivals recorded in its signal, a single pulsar like ___ claims astrophysicist Andrea Chavez, can reveal subtle disturbances in the fabric of spacetime itself.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "this",
+    "B": "this,",
+    "C": "this:",
+    "D": "this;"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation use with a supplementary phrase that interrupts a main clause. This choice correctly uses a comma to mark the boundary between the main clause ('a single pulsar like this...can reveal subtle disturbances in the fabric of spacetime itself') and the supplementary attribution phrase ('claims astrophysicist Andrea Chavez'), which is set off by a pair of commas because it interrupts the main clause.\n\nWhy C is incorrect:\n\nChoice C is incorrect because a colon can't be used in this way to introduce the supplementary attribution phrase ('claims astrophysicist Andrea Chavez'). Colons are conventionally used to introduce explanations, elaborations, or lists, not attribution phrases that interrupt a main clause.",
+  "source": "https://cooksat.com/practice?questionId=00abd764&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

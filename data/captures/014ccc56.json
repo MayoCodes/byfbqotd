@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "014ccc56",
+  "capturedAt": "2026-11-08T17:48:47.946Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma After Introductory Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "After reading about Heitor Villa-Lobos, who studied composition in Paris during the 1920s, the student located biographical profiles of two other Brazilian modernist composers who trained in ______ Luis Valente of Rio de Janeiro and Kulap Wijaya of São Paulo.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Paris:",
+    "B": "Paris;",
+    "C": "Paris.",
+    "D": "Paris"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the use of punctuation to introduce a list. The colon correctly follows the independent clause (\"the student located...in Paris\") to introduce the list of specific names that exemplifies the \"two other Brazilian modernist composers.\"\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a run-on sentence. The main clause (\"the student located...in Paris\") and the list (\"Luis Valente...São Paulo\") are fused without punctuation.",
+  "source": "https://cooksat.com/practice?questionId=014ccc56&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

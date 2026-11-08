@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "10795177",
+  "capturedAt": "2026-11-08T17:49:18.292Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The ancient Library of Alexandria featured an unprecedented collection of scholarly manuscripts from across the known world. Established in the third century BCE, the library preserved knowledge for centuries (housing an estimated 400,000 scrolls, according to some ______ within a series of interconnected halls designed for optimal preservation.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "sources),",
+    "B": "sources—",
+    "C": "sources)",
+    "D": "sources"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly completes the parenthetical element \"housing an estimated 400,000 scrolls, according to some sources\" with a closing parenthesis, pairing with the opening parenthesis that appears earlier in the sentence. This parenthetical element functions to specify the number of scrolls, and the use of parentheses indicates that this element could be removed without affecting the grammatical coherence of the sentence.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it doesn't close the parenthetical element that was opened earlier in the sentence.",
+  "source": "https://cooksat.com/practice?questionId=10795177&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

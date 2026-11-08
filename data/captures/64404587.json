@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "64404587",
+  "capturedAt": "2026-11-08T17:52:50.922Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Sarita Gokhale, a linguistics professor at Stanford University in California, recently determined that ______ possess a unique phonetic feature called tonal harmony that enhances communication efficiency.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Bantu languages, African dialects that include Swahili, Zulu, and Xhosa",
+    "B": "Bantu languages—African dialects—that include Swahili, Zulu, and Xhosa,",
+    "C": "Bantu languages, African dialects that include: Swahili, Zulu, and Xhosa,",
+    "D": "Bantu languages—African dialects that include Swahili, Zulu, and Xhosa—"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. In this choice, the dash after \"languages\" pairs with the dash after \"Xhosa\" to clearly separate the supplementary element \"African dialects that include Swahili, Zulu, and Xhosa\" from the rest of the sentence. This supplementary element functions to explain what Bantu languages are, and the pair of dashes indicates that this element could be removed without affecting the grammatical coherence of the sentence.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it fails to use appropriate punctuation to separate the supplementary element that explains what Bantu languages are from the rest of the sentence.",
+  "source": "https://cooksat.com/practice?questionId=64404587&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
