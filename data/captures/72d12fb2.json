@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "72d12fb2",
+  "capturedAt": "2026-11-08T17:53:26.939Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Today, the Global Positioning System is widely recognized as an indispensable civilian utility, but when it was launched in 1978, it was strictly a military project; engineers Sami Dlamini and Arthur Johansson contributed to a Department of Defense effort designed to help American submarines and aircraft pinpoint their locations anywhere on Earth. Nevertheless, the technology soon matured in accuracy and ______ its early military applications were supplemented by civilian uses, including precision agriculture in the American Midwest and commercial aviation routes across the Atlantic.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "reach,",
+    "B": "reach and",
+    "C": "reach, and",
+    "D": "reach"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"and\" to join the first main clause (\"Nevertheless, the technology soon matured in accuracy and reach\") and the second main clause (\"its early military applications were supplemented by civilian uses, including precision agriculture in the American Midwest and commercial aviation routes across the Atlantic\").\n\nWhy A is incorrect:\n\nChoice A is incorrect because it results in a comma splice. Without a conjunction following it, a comma can't be used in this way to join two main clauses.",
+  "source": "https://cooksat.com/practice?questionId=72d12fb2&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

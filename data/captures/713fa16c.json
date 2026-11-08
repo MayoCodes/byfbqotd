@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "713fa16c",
+  "capturedAt": "2026-11-08T17:53:15.863Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The 2023 International Architecture Prize was awarded to three innovators in sustainable design: first-time recipient Maimuna Jobe, who pioneered green roofing techniques in 2019; Keron Noel, director of the Urban Planning Institute at ______ and Sofia Petrov, a senior architect at the Moscow Design Collective in Russia.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Yale",
+    "B": "Yale;",
+    "C": "Yale,",
+    "D": "Yale:"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. This choice correctly uses a semicolon to punctuate a complex list (which is made up of items that have commas in them).\n\nWhy A is incorrect:\n\nChoice A is incorrect. This is a complex list, indicated by the semicolon between \"2019\" and \"Keron Noel.\" What comes after the blank is a separate list item, so punctuation is needed after \"Yale.\"",
+  "source": "https://cooksat.com/practice?questionId=713fa16c&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

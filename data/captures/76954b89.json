@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "76954b89",
+  "capturedAt": "2026-11-08T17:53:40.238Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "During heavy rainfall, compacted soil prevents water absorption and creates dangerous runoff, increasing flood risk in urban ______ permeable pavement to existing concrete surfaces, either by installing specialized porous materials or applying textured overlay systems, helps mitigate this problem.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "areas; by installing",
+    "B": "areas, installing",
+    "C": "areas. Installing",
+    "D": "areas by installing"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between the first sentence (\"During…areas\") and the second sentence (\"Installing…problem\"). The gerund phrase beginning with \"installing\" is the subject of the second sentence, and the verb phrase \"helps mitigate this problem\" describes what installing permeable pavement can do.\n\nWhy A is incorrect:\n\nChoice A is incorrect because a semicolon can't be used in this way to join the sentence \"During...areas\" and the supplementary phrases that follow. Doing so leaves the verb phrase \"helps mitigate\" without a subject and thus results in a grammatically unconventional sentence.",
+  "source": "https://cooksat.com/practice?questionId=76954b89&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

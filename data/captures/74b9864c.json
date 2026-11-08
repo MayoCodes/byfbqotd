@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "74b9864c",
+  "capturedAt": "2026-11-08T17:53:32.497Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The Indo-European language family encompasses Sanskrit, Latin, and roughly 450 other languages across Europe and Asia, making it one of the most extensively studied language groups in the world and a primary research focus of Michael ______ of historical linguistics at Harvard University.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Witzel, a professor",
+    "B": "Witzel a professor",
+    "C": "Witzel: a professor",
+    "D": "Witzel; a professor"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between a proper noun and a supplementary phrase. This choice correctly uses a comma to mark the boundary between the proper noun (\"Michael Witzel\") and the supplementary appositive phrase (\"a professor of historical linguistics at Harvard University\") that provides additional information about Witzel.\n\nWhy C is incorrect:\n\nChoice C is incorrect because a colon can't be used in this way to separate a proper noun from a supplementary appositive phrase within a sentence.",
+  "source": "https://cooksat.com/practice?questionId=74b9864c&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

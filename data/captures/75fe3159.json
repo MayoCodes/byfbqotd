@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "75fe3159",
+  "capturedAt": "2026-11-08T17:53:35.280Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Contemporary composer Nafisat Balogun primarily uses electronic synthesizers and computer programming to create soundtracks for independent films. To achieve the organic and intimate textures that are a hallmark of her ______ she sometimes incorporates more traditional instruments, such as acoustic guitar and piano.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "compositions, though",
+    "B": "compositions; though,",
+    "C": "compositions, though,",
+    "D": "compositions, though;"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of punctuation within a sentence. The comma after \"compositions\" pairs with the comma after \"though\" to separate the supplementary element \"though\" from the rest of the sentence. This supplementary element signals that what follows is an exception to Balogun using electronic tools to create soundtracks, and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence.\n\nWhy B is incorrect:\n\nChoice B is incorrect because a semicolon can't be paired with a comma in this way to separate the supplementary element from the rest of the sentence.",
+  "source": "https://cooksat.com/practice?questionId=75fe3159&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
