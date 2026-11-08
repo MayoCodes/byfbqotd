@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e9fa677c",
+  "capturedAt": "2026-11-08T04:26:07.128Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Main Idea - Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Three anonymous short-story collections published in Lagos between 1912 and 1919 share striking stylistic features, including clipped dialogue and recurring coastal imagery; earlier critics had proposed that the collections were authored by a single writer working under different pseudonyms. Revisiting this view, Tala Das and Sami Owusu applied computational stylometry to the collections, identifying sentence-length distributions and function-word frequencies that diverged markedly across the three bodies of work. The scholars reported additional lexical patterns inconsistent with single authorship, concluding that the shared features likely reflect conventions common to Lagos literary circles of the period rather than a single hand.",
+  "prompt": "Which choice best states the main idea of the text?",
+  "choices": {
+    "A": "Das and Owusu identified divergences in sentence-length distributions and function-word frequencies across three anonymous Lagos short-story collections, but the scholars determined that these divergences were too varied to be indicative of distinct authorship, thereby weakening the single-author hypothesis.",
+    "B": "Although earlier critics concluded that three anonymous Lagos short-story collections were likely the work of a single pseudonymous author, those critics lacked access to the analytical methods that led Das and Owusu to reach a different conclusion.",
+    "C": "Earlier critics hypothesized that three anonymous Lagos short-story collections shared a single pseudonymous author, but the findings of Das and Owusu suggest that the distinctive style originated in one of the collections and was subsequently adopted by the other two.",
+    "D": "Das and Owusu found that three anonymous Lagos short-story collections with shared stylistic features were unlikely to have been produced by a single author, leading the scholars to posit a different explanation for the shared style than that posited in earlier accounts."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most accurately states the main idea of the text. The passage opens by noting that three anonymous short-story collections published in Lagos between 1912 and 1919 share striking stylistic features and that earlier critics had proposed a single pseudonymous author. It then describes how Das and Owusu applied computational stylometry to the collections and found sentence-length distributions and function-word frequencies diverging markedly across the three works, along with additional lexical patterns inconsistent with single authorship. Based on this evidence, the scholars concluded that the shared features likely reflect conventions common to Lagos literary circles of the period rather than a single hand. Thus, the main idea is that Das and Owusu found single authorship unlikely and proposed a different explanation for the shared style than that offered in earlier accounts.",
+  "source": "https://cooksat.com/practice?questionId=e9fa677c&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}
