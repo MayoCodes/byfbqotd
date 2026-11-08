@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "bacde912",
+  "capturedAt": "2026-11-08T00:38:14.036Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nWhile doing research for a paper about forest biodiversity, a student finds data compiled by Camila Rios and Dong-Hyun Wijaya on nesting pairs of spotted owls per square kilometer observed in four forest reserves in 2000 and 2020. The student notes that Cascade Ridge Reserve had 0.42 nesting pairs per square kilometer in 2000 and ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "1.15 nesting pairs per square kilometer in 2020.",
+    "B": "0.44 nesting pairs per square kilometer in 2020.",
+    "C": "2.08 nesting pairs per square kilometer in 2020.",
+    "D": "0.81 nesting pairs per square kilometer in 2020."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively uses data from the table to complete the statement about Cascade Ridge Reserve's nesting pair density. The student notes that Cascade Ridge Reserve had 0.42 nesting pairs per square kilometer in 2000 and needs to complete the statement with the reserve's 2020 figure. According to the table, Cascade Ridge Reserve had 2.08 nesting pairs per square kilometer in 2020.\n\nWhy B is incorrect:\n\nChoice B is incorrect because according to the table, Cascade Ridge Reserve had 2.08 nesting pairs per square kilometer in 2020, not 0.44, which is the 2020 figure for Birchwood Reserve.",
+  "source": "https://cooksat.com/practice?questionId=bacde912&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/bacde912/1-88232f15688871b9.png"
+    }
+  ]
+}

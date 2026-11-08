@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "bf93f672",
+  "capturedAt": "2026-11-08T00:38:39.927Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nIn a university seminar on conservation ecology, a student claims that amphibian population decline in North America from 2005 to 2015 occurred both in smaller fragmented habitats such as Brookside Marsh and Cedar Hollow and in larger protected reserves such as Wilmont Wetlands; though those larger reserves may have experienced less population decline than the smaller fragmented habitats, this decline also worsened in them over time.",
+  "prompt": "Which choice best describes data from the graph that support the student's claim?",
+  "choices": {
+    "A": "Even though the cumulative population decline was greater in the Pinebrook Reserve area than in the Brookside Marsh area throughout the period from 2005 to 2015, the amounts were nearly identical in 2011.",
+    "B": "While the cumulative amphibian population decline was always higher in the Brookside Marsh area than in the Wilmont Wetlands area for each year between 2005 and 2015, the amount of population decline rose in both areas during this period.",
+    "C": "In 2007, the cumulative population decline in the Brookside Marsh area was less than 30 percent.",
+    "D": "In at least one of the four habitats shown, the cumulative population decline was less than 20 percent at one point between 2005 and 2015."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it describes data that support both parts of the student's claim. The student argues that amphibian decline occurred in both larger protected reserves and smaller fragmented habitats, that the larger reserves experienced less decline than the smaller fragmented habitats, and that decline worsened over time in both. The graph shows that Brookside Marsh, a smaller fragmented habitat, consistently registered higher cumulative population decline than Wilmont Wetlands, a larger protected reserve, from 2005 through 2015 — approximately 44% versus 16% in 2005 and approximately 63% versus 28% in 2015 — while the decline values rose in both habitats across the period. This directly supports the student's claim of a consistent magnitude difference combined with a worsening trend in both habitat types.\n\nWhy D is incorrect:\n\nChoice D is incorrect because although the statement is accurate — Wilmont Wetlands had approximately 16% cumulative decline in 2005, which is less than 20% — it doesn't support the student's claim. The claim concerns the comparative magnitude of decline between larger reserves and smaller fragmented habitats and how decline worsened over time in both. Noting that one habitat fell below a threshold at a single moment addresses neither comparison nor trend.",
+  "source": "https://cooksat.com/practice?questionId=bf93f672&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/bf93f672/1-450b39dcbc717949.png"
+    }
+  ]
+}

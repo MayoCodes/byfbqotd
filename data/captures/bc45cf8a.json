@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "bc45cf8a",
+  "capturedAt": "2026-11-08T00:38:18.096Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nOver the past seven decades, economists Huong Wijaya and Carolina Castillo note, the share of household expenditure devoted to food has fallen in both Japan and South Korea, while the share devoted to discretionary goods and services (such as travel, entertainment, and dining out) has risen. However, this reallocation of household spending occurred at markedly different rates in the two countries. This contrast emerges most clearly when comparing the expenditure composition of the two countries in ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "1980 with the expenditure composition in 2010.",
+    "B": "1950 with the expenditure composition in 2020.",
+    "C": "1980 with the expenditure composition in 2020.",
+    "D": "1950 with the expenditure composition in 1980."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because comparing 1980 and 2010 most clearly illustrates the passage's claim that the reallocation of household spending occurred at markedly different rates in Japan and South Korea. Between 1980 and 2010, the share of expenditure devoted to food fell from 38% to 29% in Japan (a decline of 9 percentage points) but fell from 54% to 25% in South Korea (a decline of 29 percentage points). Over the same interval, the share devoted to discretionary goods and services rose from 33% to 40% in Japan (an increase of 7 percentage points) but rose from 21% to 47% in South Korea (an increase of 26 percentage points). The rate of change in South Korea was thus roughly three times that in Japan for both categories, making this interval the clearest illustration of very different rates.\n\nWhy D is incorrect:\n\nChoice D is incorrect because comparing 1950 and 1980 would not best illustrate the passage's overall claim. Food expenditure fell from 62% in 1950 to 38% in 1980 in Japan (a decline of 24 points) but only from 66% to 54% in South Korea (a decline of 12 points), while discretionary expenditure rose from 14% to 33% in Japan (19 points) and from 12% to 21% in South Korea (9 points). In this interval Japan shifted more than South Korea, which contradicts the passage's overall contrast rather than supporting it.",
+  "source": "https://cooksat.com/practice?questionId=bc45cf8a&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/bc45cf8a/1-f4e30dc215835da7.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "cbda38cb",
+  "capturedAt": "2026-11-08T00:39:16.391Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Maryam Owusu and Hiroshi Reddy have hypothesized that the small aerodynamic winglets mounted on the rotor tips of a new delivery drone improve the drone's ability to execute sharp course corrections while tracking a moving ground target in gusty conditions. To test their hypothesis, a second team of engineers built two battery-powered prototype drones identical in every respect except that one was equipped with winglets and the other was not, then subjected both prototypes to a series of identical trials in a wind tunnel.",
+  "prompt": "Which finding from the prototype trials, if true, would most strongly support Owusu and Reddy's hypothesis?",
+  "choices": {
+    "A": "The prototype with winglets completed a sharp mid-flight course correction in significantly less time than the prototype without winglets did.",
+    "B": "The prototype with winglets displaced significantly more air during each trial than the prototype without winglets did.",
+    "C": "The prototype with winglets had significantly less battery power remaining after completing the trials than the prototype without winglets did.",
+    "D": "The prototype with winglets took significantly longer to travel a specified distance in a straight line than the prototype without winglets did."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The hypothesis is that the winglets improve the drone's ability to execute sharp course corrections while tracking a moving target. A finding that the winglet-equipped prototype completed a sharp mid-flight course correction in significantly less time than the prototype without winglets would directly support the claim that the winglets enhance that specific maneuvering ability.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The hypothesis concerns the drone's maneuverability during sharp course corrections, not how much air it displaces. A difference in air displacement between the two prototypes has no clear connection to their ability to make sharp turns, so this finding wouldn't support the hypothesis.",
+  "source": "https://cooksat.com/practice?questionId=cbda38cb&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

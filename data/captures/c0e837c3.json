@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "c0e837c3",
+  "capturedAt": "2026-11-08T00:38:43.790Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nStreaming audio became an increasingly common way for listeners in Europe to consume spoken-word content during the 2010s, though that growth was concentrated in programs that, like those in most podcast genres, are designed to be listened to sequentially from start to finish. For reference-oriented genres that do not follow a narrative and require the listener to skip among segments, streaming formats proved considerably less commercially popular. This can be seen by comparing ______",
+  "prompt": "Which choice most effectively uses data from the table to illustrate the claim?",
+  "choices": {
+    "A": "the percentage of 2016 language lesson listening hours that were streamed with the percentage of 2016 true crime listening hours that were streamed.",
+    "B": "the percentage of 2006 audio drama listening hours that were streamed with the percentage of 2016 audio drama listening hours that were streamed.",
+    "C": "the percentage of 2006 audio drama listening hours that were streamed with the percentage of 2006 true crime listening hours that were streamed.",
+    "D": "the percentage of 2011 how-to guide listening hours that were streamed with the percentage of 2016 how-to guide listening hours that were streamed."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it uses data from the table to effectively support the claim that audio genres designed to be listened to sequentially from start to finish are more commercially popular as streaming content than reference-oriented genres. Language lessons are a reference genre that requires the listener to skip among segments, and the table shows that 11.8 percent of total 2016 language lesson listening hours were streamed. True crime is a narrative genre designed for sequential listening, and the table shows 38.1 percent of total 2016 true crime listening hours were streamed. The substantially higher share of streaming for the narrative genre in 2016 supports the claim in the text.",
+  "source": "https://cooksat.com/practice?questionId=c0e837c3&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c0e837c3/1-c48ed77367d4d959.png"
+    }
+  ]
+}

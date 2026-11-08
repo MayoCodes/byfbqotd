@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "c685275b",
+  "capturedAt": "2026-11-08T00:39:05.403Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nTo test the effects of biochar soil amendment on soybean production, Cecilia Rivera and Sami Hakim grew soybean plants and harvested their beans over three growing seasons. In each season, half the plots were treated with biochar amendment, and the other half received an untreated control soil containing no biochar. The researchers concluded that biochar amendment increases soybean yield.",
+  "prompt": "Which choice best describes data in the graph that support the researchers' conclusion?",
+  "choices": {
+    "A": "In every season of the experiment, plots treated with the biochar amendment had a yield of at least 35 bushels per acre.",
+    "B": "In every season of the experiment, plots treated with the biochar amendment had a greater yield than did plots treated with the control soil.",
+    "C": "The 2022 yield for plots treated with the control soil was greater than was the 2023 yield for plots treated with the biochar amendment.",
+    "D": "The yield for plots treated with the biochar amendment increased from 2021 to 2022."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it describes data from the graph that support the researchers' conclusion that biochar amendment increases soybean yield. The bar graph shows soybean yield for plots grown with biochar amendment and for those grown with untreated control soil across three consecutive seasons (2021–2023). In every season, the yield for the biochar group is greater than the yield for the control group: in 2021, biochar yield is about 38 bushels per acre compared with about 28 for the control; in 2022, biochar yield is about 46 compared with about 35 for the control; and in 2023, biochar yield is about 29 compared with about 22 for the control. These data strongly support the conclusion that biochar amendment increases soybean yield.",
+  "source": "https://cooksat.com/practice?questionId=c685275b&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c685275b/1-b2ed388a2706eec0.png"
+    }
+  ]
+}

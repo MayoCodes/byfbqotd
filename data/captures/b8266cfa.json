@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b8266cfa",
+  "capturedAt": "2026-11-08T00:37:56.233Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Soo-Yeon Shin, Budi Shin, and colleagues studied how a microbial community living near deep-sea hydrothermal vents along the Mariana Arc maintains a stable internal pH despite the highly acidic surrounding water. The researchers collected vent fluid samples containing the microbes and measured the activity of various membrane proteins, including ATP-driven proton pumps, which actively expel hydrogen ions from a cell's interior. Previous studies of acid-tolerant organisms in other environments have consistently found that such cells rely on these proton pumps to balance their internal chemistry: for example, certain acidophilic bacteria from sulfuric hot springs depend almost entirely on this mechanism. Some researchers believe this dependence is universal among acid-tolerant microbes, but Shin and colleagues claim this is not the case.",
+  "prompt": "Which finding, if true, would most directly support Shin and colleagues' claim?",
+  "choices": {
+    "A": "The Mariana Arc vent microbes possess membrane proteins of similar molecular weight to those found in acidophilic bacteria from sulfuric hot springs.",
+    "B": "ATP-driven proton pumps in the Mariana Arc vent microbes do not, on average, expel hydrogen ions at a rate sufficient to account for the cells' stable internal pH.",
+    "C": "Some genes encoding proton pumps in the Mariana Arc vent microbes are also present in acidophilic bacteria from sulfuric hot springs.",
+    "D": "The Mariana Arc vent microbes were observed maintaining stable internal pH at multiple sampling depths, though more reliably at shallower depths."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The text explains that prior research has found acid-tolerant organisms consistently rely on ATP-driven proton pumps to balance their internal chemistry, and that some researchers believe this dependence is universal. Shin and colleagues claim this is not the case. To support their claim, evidence is needed showing that the Mariana Arc vent microbes do not depend on proton pumps to maintain their stable internal pH. If the proton pumps in these microbes do not expel hydrogen ions at a rate sufficient to account for the cells' stable internal pH, then some other mechanism must be doing the work, which would directly support the claim that proton-pump dependence is not universal among acid-tolerant microbes.\n\nWhy C is incorrect:\n\nChoice C is incorrect. A finding that some proton-pump-encoding genes are shared between the Mariana Arc microbes and acidophilic bacteria from sulfuric hot springs would suggest the Mariana Arc microbes are similar to organisms known to depend on proton pumps. This would point toward, rather than away from, the universality of the mechanism, weakening rather than supporting Shin and colleagues' claim.",
+  "source": "https://cooksat.com/practice?questionId=b8266cfa&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

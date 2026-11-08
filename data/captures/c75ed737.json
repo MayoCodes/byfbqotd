@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "c75ed737",
+  "capturedAt": "2026-11-08T00:39:09.171Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nVivian Sullivan, Ibrahim Ozturk, and Teresa Holloway recently surveyed several plots on an arid plateau in central Anatolia where gravel-covered microsites are interspersed with exposed soil. The researchers calculated that if individual seedlings were randomly distributed across this terrain, only about 20% would occur beneath gravel cover rather than on exposed ground. They counted surviving seedlings of five native shrub species in gravel microsites and on exposed soil and compared those counts to what would be expected under a random distribution. Based on these results, they claim that seedlings of these species that establish beneath gravel cover gain a survival advantage during the vulnerable early stages of development.",
+  "prompt": "Which choice best describes data from the table that support the researchers' claim?",
+  "choices": {
+    "A": "For all five species, less than 80% of surviving seedlings were found beneath gravel cover.",
+    "B": "The species with the greatest number of surviving seedlings beneath gravel cover was A. fragilis.",
+    "C": "For S. graeca and P. anatolica, the percentage of surviving seedlings beneath gravel cover was less than what would be expected if seedlings were randomly distributed.",
+    "D": "For each species, the percentage of surviving seedlings beneath gravel cover was substantially higher than what would be expected if seedlings were randomly distributed."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it provides the most direct support from the table for the claim that seedlings establishing beneath gravel cover gain a survival advantage during early development. The passage notes that a random distribution of seedlings across the terrain would result in only about 20% occurring beneath gravel cover. The table shows that the percentage of surviving seedlings under gravel cover ranges from 63% (C. bornmuelleri) to 73% (T. polium) — substantially higher than the 20% random-distribution baseline for every species. That overrepresentation is exactly what the claim predicts: if establishing beneath gravel provides a survival advantage in early development, surviving seedlings should be disproportionately found in gravel microsites relative to the random baseline.",
+  "source": "https://cooksat.com/practice?questionId=c75ed737&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c75ed737/1-1e42009cf5c180a4.png"
+    }
+  ]
+}

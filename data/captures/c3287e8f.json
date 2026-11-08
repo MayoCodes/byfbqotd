@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c3287e8f",
+  "capturedAt": "2026-11-08T00:38:47.561Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Aggressive thermal throttling under sustained workloads has been thoroughly characterized in flagship smartphones using Qualcomm Snapdragon chipsets and other processors from the mobile SoC category. A comprehensive teardown survey conducted by Isabella Vasquez, Amelia Novak, and colleagues revealed that this behavior appears across a surprisingly wide hardware landscape of 13 chipset manufacturers, including MediaTek and UNISOC. Subsequent investigation of potential design drivers prompted the researchers to conclude that independent of chipset manufacturer, the prevalence of the behavior is mediated by engineering variations associated with the thermal conductivity of device enclosures.",
+  "prompt": "Which finding, if true, would most strongly support the researchers' conclusion?",
+  "choices": {
+    "A": "Aggressive thermal throttling is widespread among Qualcomm Snapdragon devices regardless of the thermal conductivity of their enclosures, but its prevalence among devices from other chipset manufacturers is limited to models with enclosure thermal conductivity values of 5-15 W/(m·K).",
+    "B": "Across the manufacturers in the study, aggressive thermal throttling is observed in approximately 34% of device models with enclosure thermal conductivity values of 5-15 W/(m·K) and approximately 60% of device models with values of 25-40 W/(m·K).",
+    "C": "Aggressive thermal throttling is documented in Qualcomm Snapdragon devices across the entire range of enclosure thermal conductivity values; throttling is documented only when enclosure thermal conductivity is 3-6 W/(m·K) lower than what is typical for those devices.",
+    "D": "Across the manufacturers in the study, approximately 54% of device models have enclosure thermal conductivity values from 25 to 40 W/(m·K), but most of the models known to exhibit aggressive thermal throttling have enclosure thermal conductivity values between 5 and 15 W/(m·K)."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a finding that, if true, would most directly support the researchers' conclusion that the prevalence of aggressive thermal throttling is mediated by engineering variations associated with enclosure thermal conductivity independent of chipset manufacturer. The text explains that Vasquez, Novak, and colleagues found this behavior across 13 different chipset manufacturers and concluded that regardless of which manufacturer produced the chipset, the key factor determining how common the behavior is relates to the thermal conductivity of the device enclosure. To support this conclusion, evidence would need to show that thermal conductivity predicts prevalence consistently across different manufacturers. If aggressive thermal throttling is observed in approximately 34% of device models with lower enclosure thermal conductivity values (5-15 W/(m·K)) and approximately 60% of device models with higher values (25-40 W/(m·K)) across the manufacturers in the study, this would demonstrate that thermal-conductivity-related engineering variations are indeed associated with the behavior's prevalence independent of chipset manufacturer, directly supporting the researchers' conclusion.\n\nWhy D is incorrect:\n\nChoice D is incorrect because while it suggests that enclosure thermal conductivity may be associated with the presence of aggressive thermal throttling, it doesn't demonstrate that this relationship holds independent of chipset manufacturer, which is central to the researchers' conclusion. The finding merely shows that most devices exhibiting throttling have lower thermal conductivity values even though most device models in the study have higher values. This doesn't establish whether the thermal-conductivity-prevalence relationship is consistent across different manufacturers or whether it might vary by manufacturer. To support the researchers' conclusion, evidence would need to show that the pattern of prevalence being mediated by thermal conductivity is observed across the various manufacturers in the study.",
+  "source": "https://cooksat.com/practice?questionId=c3287e8f&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}
