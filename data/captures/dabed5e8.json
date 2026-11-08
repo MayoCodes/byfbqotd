@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "dabed5e8",
+  "capturedAt": "2026-11-08T16:30:58.734Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In her research on deep-sea exploration, Dr. Chen attempts to study marine life in the ocean's most remote trenches. Of course, Dr. Chen's team cannot physically access these extreme depths; the crushing pressure would destroy any human-operated vessel. ______ by using advanced robotic submersibles with specialized cameras, Dr. Chen provides remarkable insights into what these hidden ecosystems might contain.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "That said,",
+    "B": "Moreover,",
+    "C": "In other words,",
+    "D": "For example,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"That said\" logically signals that the statement in this sentence—that Dr. Chen provides insights into deep-sea ecosystems by using robotic submersibles with specialized cameras—is true despite the point in the previous sentence (that Dr. Chen's team cannot physically access these depths because the pressure would destroy human-operated vessels).\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"in other words\" illogically signals that the information in this sentence is a paraphrase or restatement of the previous point about Dr. Chen's research. Instead, it provides information that is true despite that previous point.",
+  "source": "https://cooksat.com/practice?questionId=dabed5e8&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

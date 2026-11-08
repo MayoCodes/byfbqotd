@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d9466fd0",
+  "capturedAt": "2026-11-08T16:30:56.002Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Most antibiotics developed in recent decades have been derived from naturally occurring compounds found in soil bacteria. In 2015, ______ researchers successfully created teixobactin, a synthetic antibiotic produced entirely in laboratory conditions without any natural bacterial sources. This breakthrough represents one of the most promising advances in combating antibiotic resistance.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "however,",
+    "B": "likewise,",
+    "C": "therefore,",
+    "D": "for example,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The word \"however\" logically signals that the information in this sentence about teixobactin—that it is produced entirely in laboratory conditions—contrasts with the previous information about antibiotics developed in recent decades. Most of these antibiotics are derived from natural bacterial sources, not synthetic laboratory production.\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"for example\" illogically signals that the information about teixobactin is an example of the previous information about most antibiotics developed in recent decades. Instead, it contrasts with that information.",
+  "source": "https://cooksat.com/practice?questionId=d9466fd0&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

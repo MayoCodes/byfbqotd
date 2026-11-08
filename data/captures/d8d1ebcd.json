@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d8d1ebcd",
+  "capturedAt": "2026-11-08T16:30:53.287Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Olympic swimmer Katie Ledecky was already a world champion when she dominated the 2016 Rio Olympics, winning four gold medals and one silver in August of 2016. ______ in July of 2013, Ledecky had set a world record when she won the 1500-meter freestyle at the World Championships in Barcelona.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Earlier,",
+    "B": "However,",
+    "C": "Next,",
+    "D": "As a result,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Earlier\" logically signals that this sentence about Ledecky's world championship shifts back in time—from her 2016 Olympic success to her 2013 world record—explaining why she was already established as a champion.\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"as a result\" illogically signals that the information in this sentence about Ledecky's 2013 world record was caused by her 2016 Olympic success. Instead, the sentence provides supporting information explaining her earlier achievement.",
+  "source": "https://cooksat.com/practice?questionId=d8d1ebcd&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

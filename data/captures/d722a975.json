@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d722a975",
+  "capturedAt": "2026-11-08T16:30:50.553Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The amount of rainfall that cities receive annually can vary dramatically across different regions. For example, Seattle recorded approximately 37 inches of rainfall in 2019. ______ Phoenix received only about 8 inches of rainfall that same year.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In other words,",
+    "B": "Similarly,",
+    "C": "Therefore,",
+    "D": "By comparison,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. \"By comparison\" logically signals that this sentence about Phoenix's rainfall provides contrasting data—8 inches versus 37 inches—comparing two different examples that demonstrate the dramatic variation mentioned in the previous sentences.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"similarly\" illogically signals that the information in this sentence about Phoenix's rainfall is similar to the information about Seattle's rainfall in the previous sentence. Instead, the sentence provides contrasting data comparing two different examples.",
+  "source": "https://cooksat.com/practice?questionId=d722a975&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
