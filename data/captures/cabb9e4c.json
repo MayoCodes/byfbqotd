@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "cabb9e4c",
+  "capturedAt": "2026-11-08T16:30:28.657Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Because an analog signal is continuous, degrading it through transmission results in a smooth reduction of quality. A degraded digital signal, ______ can be compared to a light switch that has been damaged: it produces a complete loss of information rather than a gradual one.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "by contrast,",
+    "B": "in other words,",
+    "C": "for example,",
+    "D": "similarly,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"By contrast\" logically signals that this sentence about digital signal degradation contrasts with analog signal behavior—smooth reduction versus complete loss—highlighting the opposing ways these signal types respond to transmission problems.\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"similarly\" illogically signals that the information in this sentence about digital signal degradation shows similar behavior to analog signals described previously. Instead, the sentence contrasts digital signals with analog signals, showing opposite behavior patterns.",
+  "source": "https://cooksat.com/practice?questionId=cabb9e4c&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

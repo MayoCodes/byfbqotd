@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d518091b",
+  "capturedAt": "2026-11-08T16:30:36.862Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The James Webb Space Telescope is expected to revolutionize astronomical research, providing unprecedented views of distant galaxies and cosmic phenomena. As astronomers have noted, the telescope—launched in late 2021—features advanced instruments positioned at a location far from Earth. ______ the telescope operates from Lagrange point L2, approximately 1.5 million kilometers from Earth, and is equipped with 18 hexagonal mirror segments.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "To be exact,",
+    "B": "In conclusion,",
+    "C": "As a result,",
+    "D": "In contrast,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"To be exact\" logically signals that this sentence about the James Webb Space Telescope provides specific, precise details—distance from Earth, number of mirror segments—elaborating on the more general information about the telescope in the previous sentence.",
+  "source": "https://cooksat.com/practice?questionId=d518091b&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

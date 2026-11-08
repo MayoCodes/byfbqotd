@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "bc82a329",
+  "capturedAt": "2026-11-08T16:30:14.980Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Made from lightweight carbon fiber, the frame of the new racing bicycle was designed to be aerodynamic enough to help cyclists achieve maximum speeds on straightaways. ______ the frame's narrow profile made it difficult for riders to maintain stability when navigating sharp turns.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "However,",
+    "B": "For this reason,",
+    "C": "Firstly,",
+    "D": "In other words,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"However\" logically signals that the claim in this sentence—that the frame's narrow profile made it difficult to maintain stability when turning—contrasts with the previous information about the frame being aerodynamic enough to help achieve maximum speeds.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"firstly\" illogically signals that the claim in this sentence is the first in a series of claims about the frame being aerodynamic enough to help achieve maximum speeds. Instead, the claim that the frame's profile made turning difficult contrasts with the previous information about the frame's aerodynamic benefits.",
+  "source": "https://cooksat.com/practice?questionId=bc82a329&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ca7bbba0",
+  "capturedAt": "2026-11-08T16:30:25.916Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Steel components in long-span bridges can expand by several centimeters on hot summer days, putting significant stress on rigid connections. _____ engineers like Huong Chen design these bridges with specialized expansion joints that allow the steel to lengthen and contract without damaging the structure.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "For example,",
+    "B": "Accordingly,",
+    "C": "Similarly,",
+    "D": "Nevertheless,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. \"Accordingly\" logically signals that the action described in the second sentence—engineers designing bridges with specialized expansion joints—occurs as a consequence of the thermal expansion described in the first sentence. Because steel expands and stresses rigid connections, engineers accordingly build joints that accommodate this movement.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"similarly\" illogically signals that designing expansion joints is analogous or parallel to the steel's thermal expansion. Instead, the engineering design is a consequent action taken in response to that expansion, not a similar phenomenon.",
+  "source": "https://cooksat.com/practice?questionId=ca7bbba0&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

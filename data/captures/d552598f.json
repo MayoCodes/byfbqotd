@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d552598f",
+  "capturedAt": "2026-11-08T16:30:39.614Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "When astronomers first discovered exoplanets in the 1990s, some theorized that these distant worlds might harbor conditions suitable for life. The intense radiation from many host stars, however, likely destroys any organic compounds that could form the basis of life on nearby planets. ______ astronomers were unable to identify potentially habitable exoplanets until advanced space telescopes became available in the 2000s.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Moreover,",
+    "B": "Hence,",
+    "C": "Nevertheless,",
+    "D": "Next,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. \"Hence\" logically signals that the information in this sentence—that astronomers couldn't identify potentially habitable exoplanets until the 2000s—is a consequence of the previous information about stellar radiation destroying organic compounds and the difficulty of detecting suitable conditions.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"nevertheless\" illogically signals that the information in this sentence is true despite the previous information about stellar radiation destroying organic compounds. Instead, the sentence identifies a specific consequence of that information.",
+  "source": "https://cooksat.com/practice?questionId=d552598f&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

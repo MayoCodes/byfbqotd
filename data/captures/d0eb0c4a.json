@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d0eb0c4a",
+  "capturedAt": "2026-11-08T16:30:34.131Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "To make traditional sourdough bread, a baker must follow a careful sequence of steps that takes several days to complete. First, the baker will create a starter by mixing flour and water and allowing it to ferment for about a week. ______ the baker will combine the active starter with additional flour, water, and salt to form the dough. Finally, the dough will be shaped and baked in a hot oven.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Next,",
+    "B": "By contrast,",
+    "C": "Similarly,",
+    "D": "For example,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Next\" logically signals that the dough making in this sentence is the next step in the sequence of events described in the other sentences.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"by contrast\" illogically signals that the dough making in this sentence contrasts with the starter creation in the previous sentence. Instead, the dough making follows the starter creation as the next step in the sequence of events.",
+  "source": "https://cooksat.com/practice?questionId=d0eb0c4a&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
