@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "11710052",
+  "capturedAt": "2026-11-08T00:26:27.894Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nTo understand shifts in adult continuing-education participation in the Andalusia region of Spain, Roberto Burle Marx and Emilio Delgado drew on regional census records and municipal enrollment archives to track changes in program attendance across three household income brackets. Because of a prolonged economic contraction, enrollment declined sharply across the region during the late 1970s as families diverted resources away from optional schooling. By the mid-1980s, however, public subsidies and employer-training incentives, together with a recovering labor market, reversed this pattern and produced a sustained rebound in participation, as evident by the ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "increase in enrollment for all three income brackets from 1979 to 2000.",
+    "B": "similarity in enrollment between high-income and low-income households in 1986.",
+    "C": "difference between enrollment in high-income households and in middle-income households in 2000.",
+    "D": "decrease in enrollment for all three income brackets from 1960 to 1979."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The passage asserts that by the mid-1980s, public subsidies, training incentives, and a recovering labor market produced a sustained rebound in adult education participation. The graph shows that from 1979 to 2000, enrollment increased across all three income brackets: middle-income households rose from about 225 to 475 thousand, high-income households rose from about 300 to 775 thousand, and low-income households rose from about 325 to 975 thousand. This widespread increase across all brackets directly demonstrates the sustained rebound in participation described in the text.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The passage requires evidence of a recovery in participation that unfolded after the mid-1980s. A difference between two income brackets in a single year (2000) does not show how enrollment changed over time, which is what the assertion about a sustained rebound requires.",
+  "source": "https://cooksat.com/practice?questionId=11710052&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/11710052/1-ead559f0e7e33a0d.png"
+    }
+  ]
+}

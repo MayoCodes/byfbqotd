@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "2fff125a",
+  "capturedAt": "2026-11-08T00:28:56.799Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nA student in a sociology course is examining the decline since 1960 in average household size (number of persons per household) in various nations due to both falling birth rates and the rise of single-person households. The first task in this investigation is to determine how the decline in Portugal compares to that in other countries. The student finds that ______",
+  "prompt": "Which choice most effectively uses data from the table to compare the absolute decline in persons per household and complete the student's conclusion?",
+  "choices": {
+    "A": "the decline in household size in Portugal was greater than that in Japan but less than that in Ireland.",
+    "B": "though the decline in household size in Portugal was not as great as that in Japan and Brazil, it was greater than that in Ireland.",
+    "C": "the percent decrease in household size was greater in Portugal than it was in Japan, Ireland, or Brazil.",
+    "D": "while the average household size rose in Portugal between 1960 and 2015, it declined in Japan, Ireland, and Brazil."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the student's conclusion about how Portugal's decline in average household size compares to that of other countries. The table shows the change in persons per household from 1960 to 2015 for four countries: Japan (-2.21), Portugal (-1.54), Ireland (-1.40), and Brazil (-1.87). Portugal's decline of 1.54 persons was not as great as Japan's decline of 2.21 or Brazil's decline of 1.87, but it was greater than Ireland's decline of 1.40.",
+  "source": "https://cooksat.com/practice?questionId=2fff125a&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2fff125a/1-e8d22ea13a5031b0.png"
+    }
+  ]
+}

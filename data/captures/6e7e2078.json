@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6e7e2078",
+  "capturedAt": "2026-11-08T00:33:25.600Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Mount Kerinci, whose erupted magma contains about 62 percent silica, and Mount Semeru, whose erupted magma contains about 54 percent silica, are stratovolcanoes in the same Sunda volcanic arc. Since there is thought to be an inverse relationship between magma silica content and fluidity, geologist Anil Shin and colleagues, who studied eruptive histories across the arc, hypothesized that there will also be an inverse relationship between silica content and frequency of effusive (non-explosive) eruptions, as greater fluidity allows dissolved gases to escape gradually rather than build to explosive pressures.",
+  "prompt": "Which finding, if true, would most directly support Shin and colleagues' hypothesis?",
+  "choices": {
+    "A": "Shin and colleagues found that historical eruptions of Kerinci were almost always explosive, whereas Semeru frequently produced effusive lava flows.",
+    "B": "Shin and colleagues found that several other volcanoes with silica content similar to Semeru's, but not Semeru itself, regularly produced effusive eruptions.",
+    "C": "Shin and colleagues found that Semeru occasionally produced effusive eruptions, but not as frequently as Kerinci did.",
+    "D": "Shin and colleagues found that Semeru's magma released dissolved gases more gradually during ascent than more silica-rich magmas elsewhere in the arc."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it describes a finding that would directly support Shin and colleagues' hypothesis of an inverse relationship between silica content and frequency of effusive eruptions. The passage establishes that Kerinci has higher silica content (about 62 percent) while Semeru has lower silica content (about 54 percent). If Kerinci's eruptions were almost always explosive while Semeru frequently produced effusive lava flows, the lower-silica volcano would be shown to have a greater propensity for effusive eruptions than the higher-silica volcano, matching the predicted inverse relationship.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it describes a pattern opposite to the one the hypothesis predicts. The hypothesis predicts that the lower-silica volcano (Semeru) should produce effusive eruptions more frequently than the higher-silica volcano (Kerinci). A finding that Semeru produced effusive eruptions less frequently than Kerinci did would contradict rather than support the hypothesis.",
+  "source": "https://cooksat.com/practice?questionId=6e7e2078&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

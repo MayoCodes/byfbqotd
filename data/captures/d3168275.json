@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "d3168275",
+  "capturedAt": "2026-11-08T00:39:49.330Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Direct Data Lookup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nHafsa Haddad and Akira Menon recently tested whether powdered zinc increases the rate at which hydrogen gas is produced from dilute hydrochloric acid. The researchers prepared identical flasks, each containing a strip of magnesium ribbon and the acid. In one set of trials, they added no catalyst to the flask. In another set of trials, they added powdered zinc to the flask. After 5 minutes, they measured the volume of hydrogen gas, in milliliters (mL), collected from each flask.",
+  "prompt": "According to the table, for trial number 3, how many milliliters of hydrogen gas were collected from the flask containing powdered zinc?",
+  "choices": {
+    "A": "182",
+    "B": "841",
+    "C": "47",
+    "D": "126"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it gives the volume of hydrogen gas, in milliliters, collected from the flask containing powdered zinc in trial number 3 as directly shown in the table. According to the table, trial number 3 produced 182 mL of hydrogen gas with powdered zinc.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the table shows that trial number 3 produced 182 mL of hydrogen gas with powdered zinc, not 126 mL. The number 126 does not appear anywhere in the table.",
+  "source": "https://cooksat.com/practice?questionId=d3168275&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d3168275/1-837c69b1ec1294d6.png"
+    }
+  ]
+}

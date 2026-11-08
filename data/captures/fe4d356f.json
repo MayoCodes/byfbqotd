@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fe4d356f",
+  "capturedAt": "2026-11-08T00:43:34.114Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Many educational publishers now generate texts whose grade-level suitability must be certified before classroom adoption. In a 2015 study, Aleksei Hoffman and colleagues found that automated algorithmic readability scores (AARS) can produce consistent difficulty ratings for middle-grade science textbooks. While algorithmic ratings of pedagogical materials may seem inherently reductive, it has been hypothesized that AARS ratings of textbooks could serve a valuable proxy role, obviating the need for publishers to conduct costly and time-consuming evaluations by expert human panels—such as the certified reviewer boards commonly used in state adoption processes—for grade-level suitability, as current accreditation standards require.",
+  "prompt": "Which finding, if true, would most directly weaken the hypothesis presented in the text?",
+  "choices": {
+    "A": "When the same middle-grade science textbooks are evaluated by AARS and by expert human panels, the difficulty ratings assigned by both methods show little variation from one textbook edition to the next.",
+    "B": "The grade-level ratings produced by AARS for middle-grade science textbooks differ from the ratings produced by expert human panels in ways that are not yet well understood by researchers.",
+    "C": "AARS has been shown to produce reliable ratings for several other types of educational materials in addition to middle-grade science textbooks, whereas expert human panels typically rate only textbooks.",
+    "D": "Compared with expert human panels, AARS can generate grade-level ratings for middle-grade science textbooks with significantly less reviewer fatigue and scheduling delay."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a finding that, if true, would most directly weaken the hypothesis that AARS could serve as a proxy for expert human panel evaluations of textbooks. The text explains that researchers have hypothesized that automated algorithmic readability scoring could substitute for evaluation by expert human panels, which is currently required by accreditation standards. For this proxy relationship to be valid, the ratings produced by the two methods would need to be predictably related. If AARS ratings differ from expert panel ratings in ways that researchers don't yet understand, then data from AARS cannot reliably predict or substitute for data from expert panels, undermining the entire premise of using the algorithmic ratings as a proxy.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the hypothesis is about whether AARS can serve as a proxy to replace expert human panels in evaluation, not about which method is more convenient to administer. While a finding that AARS generates ratings with less reviewer fatigue and scheduling delay might make it more practical to deploy, it doesn't weaken the claim that AARS data could substitute for panel data. The proxy relationship depends on whether the ratings are reliably related, not on which method is easier to carry out.",
+  "source": "https://cooksat.com/practice?questionId=fe4d356f&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

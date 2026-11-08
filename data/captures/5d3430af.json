@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "5d3430af",
+  "capturedAt": "2026-11-08T00:32:10.321Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nExamining records for a mountain-west region of the United States, environmental scientists Khalil Ozturk and Fang Wijaya tallied the average annual number of wildfire-smoke advisory days and hazardous air-quality days logged by regional monitoring stations. According to the researchers, the findings suggest that across the periods analyzed, the region's air quality has become increasingly affected by wildfire smoke.",
+  "prompt": "Which choice best describes data from the graph that support the researchers' conclusion?",
+  "choices": {
+    "A": "The average annual numbers of hazardous air-quality days and advisory days didn't fluctuate from the 1995–2000 period to the 2009–2016 period.",
+    "B": "The average annual number of hazardous air-quality days was highest in the 2001–2008 period.",
+    "C": "The average annual number of advisory days was greater than the average annual number of hazardous air-quality days in each of the three periods studied.",
+    "D": "The average annual number of advisory days rose over the three periods studied."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it describes data from the graph that support the researchers' conclusion that the region's air quality has become increasingly affected by wildfire smoke. The graph shows that the average annual number of advisory days rose across the three periods studied, from about 22 days per year in 1995–2000, to 30 in 2001–2008, and to 52 in 2009–2016. A rising annual count of smoke-related advisory days directly supports the claim that wildfire smoke is increasingly affecting the region's air quality.\n\nWhy C is incorrect:\n\nChoice C is incorrect. Although the graph does show that advisory days exceeded hazardous air-quality days in every period, this cross-category comparison does not by itself address whether wildfire smoke is increasingly affecting air quality over time. Supporting the researchers' conclusion requires data showing that the frequency of smoke-related days has grown across the periods studied, not simply that one category is larger than the other.",
+  "source": "https://cooksat.com/practice?questionId=5d3430af&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5d3430af/1-89d42654bb90a6bc.png"
+    }
+  ]
+}

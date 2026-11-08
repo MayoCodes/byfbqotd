@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "305d9c10",
+  "capturedAt": "2026-11-08T04:21:28.545Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Atomic force microscopes are sophisticated scientific instruments—particularly valuable in materials science and nanotechnology—that use ultra-sharp probes to scan and map surface structures at the atomic level. Application of this technology has enabled numerous advances in materials research over recent years, but the probes frequently suffer from tip contamination due to direct contact with sample surfaces. To minimize the risk of contamination, and thus measurement errors, researchers sometimes coat the probe tips with protective polymer layers, allowing the scanning to occur through the coating rather than with the bare probe tip.",
+  "prompt": "Based on the text, what is one advantage of coating probe tips with polymer layers when using atomic force microscopes?",
+  "choices": {
+    "A": "It increases the speed at which the microscope can scan and analyze surface structures.",
+    "B": "It enables surface mapping without the probe tip coming into direct contact with contaminating materials.",
+    "C": "It allows researchers to use less precise probes while maintaining measurement accuracy.",
+    "D": "It provides a surface to which contaminants can migrate away from the probe tip during scanning."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The text says that the polymer coating allows scanning to occur 'through the coating rather than with the bare probe tip.' From this, we can infer that the coating enables surface mapping without direct contact between the tip and contaminating materials.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The text doesn't say that contaminants migrate to the coating—rather, it says the scanning occurs through the coating instead of with the bare probe tip.",
+  "source": "https://cooksat.com/practice?questionId=305d9c10&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "4f87bf12",
+  "capturedAt": "2026-11-08T00:31:22.659Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nAll other things being equal, the higher a solar photovoltaic panel's wattage rating (the maximum electrical power the panel can produce under standard test conditions), the greater amount of energy the panel can generate. In a research paper on solar power, a student claims that in Germany, the amount of energy generated per newly installed panel increased substantially between 2011 and 2021.",
+  "prompt": "Which choice best describes data in the graph that support the student's claim?",
+  "choices": {
+    "A": "The percentage of newly installed panels with wattage ratings greater than 500 W increased every year between 2011 and 2021.",
+    "B": "In 2011, nearly 80% of panels installed had wattage ratings of less than 300 W, whereas only a little more than 20% of panels installed that year had wattage ratings of 300-400 W.",
+    "C": "No panels installed in 2011 had wattage ratings greater than 400 W, whereas the majority of panels installed in 2021 had wattage ratings greater than 500 W.",
+    "D": "Most panels installed in 2011 had wattage ratings of less than 300 W, whereas most panels installed in 2021 had wattage ratings of at least 400 W."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The text explains that panels with higher wattage ratings produce more energy, so if wattage ratings have generally increased between 2011 and 2021, panels installed in 2021 should produce more energy than those installed in 2011. The graph shows that in 2011 about 80% of newly installed panels had ratings under 300 W, while in 2021 the great majority had ratings of at least 400 W, which supports the student's claim.",
+  "source": "https://cooksat.com/practice?questionId=4f87bf12&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4f87bf12/1-7e878a495f210293.png"
+    }
+  ]
+}

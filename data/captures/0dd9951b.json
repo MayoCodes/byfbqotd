@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "0dd9951b",
+  "capturedAt": "2026-11-08T00:26:13.762Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nForeign companies often petition national trade ministries for preferential tariff reductions when entering new markets. Economists Andrew Ingram and Hugo Barrett hypothesized that trade ministries are much more likely to respond to such petitions and grant reductions if the concessions can be publicized in time to bolster the ruling party's standing before an upcoming WTO review than if they cannot. The researchers contacted officials in thousands of ministries, inquiring about tariff concessions for a hypothetical exporter and indicating that any agreement would be publicized either shortly before or shortly after the next scheduled WTO review.",
+  "prompt": "Which choice best describes data from the graph that weaken the researchers' hypothesis?",
+  "choices": {
+    "A": "A large majority of the ministries that received a petition mentioning plans for publication before the next WTO review didn't respond to the petition.",
+    "B": "The proportion of ministries that responded to the petition or granted concessions didn't substantially differ across the publication timing conditions.",
+    "C": "Only around half the ministries that responded to petitions mentioning plans for publication before the next WTO review granted concessions.",
+    "D": "Of the ministries that received a petition mentioning plans for publication after the next WTO review, more than 1,200 didn't respond and only around 100 granted concessions."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The lighter bars show outcomes when the concession would be publicized before the WTO review, and the darker bars show outcomes when it would be publicized after. Across all three outcome categories — no response, responded to petition, and granted concession — the lighter and darker bars are virtually identical, indicating that publication timing made no substantive difference. This directly weakens Ingram and Barrett's hypothesis that ministries would respond more readily when publication could precede the review.",
+  "source": "https://cooksat.com/practice?questionId=0dd9951b&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0dd9951b/1-85f1b7689248a448.png"
+    }
+  ]
+}

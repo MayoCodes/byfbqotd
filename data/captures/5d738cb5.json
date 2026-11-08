@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5d738cb5",
+  "capturedAt": "2026-11-08T04:22:49.494Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Dewi Menon and colleagues have confirmed that fifteen stony coral species (including Acropora millepora and several members of the genus Porites) sustain measurable bioelectric field gradients across both their surface polyps and their underlying skeletal tissue, though the benefits of this bioelectric activity remain poorly understood. Observing that field strength was notably greater at reproductive regions than at vegetative regions of the skeletal tissue—a differential that persisted even after the overlying reproductive polyps were excised—the researchers propose that bioelectric regulation within the skeleton may shape spawning success.",
+  "prompt": "Which statement about the skeletal tissue of the fifteen coral species is best supported by the text?",
+  "choices": {
+    "A": "The skeletal tissue generally sustains stronger bioelectric fields than the surface polyps do, even accounting for differences between reproductive and vegetative regions.",
+    "B": "The correlation between weaker bioelectric fields in the skeletal tissue and reduced spawning output indicates that successful reproduction may depend on bioelectric regulation.",
+    "C": "Variation in bioelectric field strength across the skeletal tissue may occur independent of the presence or absence of overlying reproductive polyps.",
+    "D": "Field strength is greater in reproductive regions of the skeletal tissue than in vegetative regions because of differences in mineral density within the coral skeleton."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The text states that Menon and colleagues observed that bioelectric field strength was greater at reproductive regions than at vegetative regions of the skeletal tissue. Critically, the text notes that this differential 'persisted even after the overlying reproductive polyps were excised,' meaning the variation across the skeletal tissue continued to exist when the reproductive polyps themselves were no longer present. This supports the inference that variation in bioelectric field strength across the skeletal tissue may occur independent of the presence or absence of overlying reproductive polyps.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the text never establishes a correlation between weaker bioelectric fields and reduced spawning output. The text notes that field strength was greater at reproductive regions than at vegetative regions, but it does not link field strength magnitude to any measure of reproductive output. While the researchers speculate that bioelectric regulation may shape spawning success, this speculation is not grounded in any such correlation mentioned in the text.",
+  "source": "https://cooksat.com/practice?questionId=5d738cb5&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}

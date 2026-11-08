@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8e730efa",
+  "capturedAt": "2026-11-08T03:52:27.908Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "As obligate decomposers, Russulaceae spp. and Mortierella humicola depend on living plant hosts to complete their life cycles. Drawing on fungal DNA counts from tall fescue and six other grassland plant species sampled across Midwestern prairie plots from 1952 to 2021, Yasmin Benali, Hans Everett, and colleagues found that the abundance of multi-host fungi, such as Russulaceae spp., negatively correlated with increasing summer drought severity; the abundance of single-host fungi, such as M. humicola, was largely stable. Noting that flowering prairie plants are particularly sensitive to prolonged drought, Benali et al. observed that all multi-host fungi in the study depend on at least two flowering plant species, while all single-host fungi depend on only one, suggesting that ______________",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "although Russulaceae spp. and M. humicola both rely on tall fescue as a host, M. humicola was more adversely affected by drought-driven changes in the tall fescue population than Russulaceae spp. was.",
+    "B": "drought-induced population changes among prairie flowering plants may have suppressed some fungal populations, but there were no changes among the seven studied host species that affected single-host fungal abundance.",
+    "C": "population size and density of the seven plant species examined in the study were likely largely unaffected by increasing drought severity.",
+    "D": "a fungus's sensitivity to drought severity is negatively correlated with the number of unique flowering plant species it depends on throughout its life cycle."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most logically completes the text's discussion of how fungal populations have changed in response to increasing drought severity. The text explains that Benali et al. found the abundance of multi-host fungi like Russulaceae spp. negatively correlated with drought severity (meaning their populations declined as droughts worsened), while single-host fungi like M. humicola remained largely stable. The text then notes that flowering prairie plants are especially sensitive to prolonged drought and identifies a key structural difference: all multi-host fungi in the study depend on at least two flowering plant species, while all single-host fungi depend on only one. This suggests that drought-induced population changes among flowering plants—the group most vulnerable to drought—may have suppressed populations of multi-host fungi (which depend on multiple plant species and would thus be more affected by plant population declines), but that there were no changes among the host species that affected the abundance of single-host fungi (which depend on only one plant species and would thus be less vulnerable to such disruptions).",
+  "source": "https://cooksat.com/practice?questionId=8e730efa&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

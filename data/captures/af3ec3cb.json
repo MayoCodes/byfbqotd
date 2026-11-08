@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "af3ec3cb",
+  "capturedAt": "2026-11-08T00:37:10.048Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Iron-oxidizing microbial mats and sulfur-oxidizing mats colonize newly formed mineral surfaces on deep-sea hydrothermal vent chimneys during the same narrow window following vent activation. Julia Everett and Isabella Ricci observed that both communities readily colonize artificial substrate plates, yet the two mats are rarely seen co-occupying a single plate, prompting the hypothesis that the communities compete for colonization surfaces. To test this, the researchers deployed substrate plates across a vent field in the East Pacific Rise, treated some plates with a chemical barrier that excluded iron-oxidizers, and monitored colonization for three years. Not only was the hypothesis validated, there was also a clear indication of competitive advantage for iron-oxidizing mats.",
+  "prompt": "Which finding from the study, if true, would most directly support the text's characterization of the study's results?",
+  "choices": {
+    "A": "Even though overall colonization of the substrate plates by both mats was high throughout the study, 26% of the treated plates remained bare each monitoring interval, while less than 5% of the untreated plates remained bare.",
+    "B": "Colonization by either iron-oxidizing or sulfur-oxidizing mats but not both was observed on more than 90% of the untreated plates, while sulfur-oxidizing colonization was observed on less than 50% of the treated plates.",
+    "C": "Sulfur-oxidizing mats initiated colonization on treated plates far more often than on untreated plates, and 82% of initial co-occupations of untreated plates resulted in retreat by sulfur-oxidizing mats but not by iron-oxidizing mats.",
+    "D": "Although only 14 instances of co-occupation of untreated plates by the two communities were observed over the course of the study, in a majority of those instances, sulfur-oxidizing mats were already present when iron-oxidizing mats began colonizing."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents a finding that, if true, would most directly support the text's two-part characterization of the study's results. The text states that the researchers' competition hypothesis was validated and that there was a clear indication of competitive advantage for iron-oxidizing mats. The finding that sulfur-oxidizing mats colonized treated plates (where iron-oxidizers were excluded) far more often than untreated plates suggests that sulfur-oxidizers avoid surfaces where iron-oxidizers can potentially colonize, directly demonstrating competition between the two communities. Additionally, the finding that 82% of initial co-occupations of untreated plates resulted in retreat by sulfur-oxidizing mats but not by iron-oxidizing mats directly establishes that, when both communities attempt to colonize the same surface, iron-oxidizers prevail — a clear competitive advantage.\n\nWhy D is incorrect:\n\nChoice D is incorrect because a finding about which community arrived first during co-occupation wouldn't support the characterization that iron-oxidizing mats have a competitive advantage. Establishing advantage requires evidence that one community prevails when both attempt to colonize the same surface. Knowing that sulfur-oxidizers were typically already present when iron-oxidizers arrived doesn't reveal which community ultimately persisted on the plate. Moreover, only 14 co-occupation instances over three years would provide limited grounds for any broader inference about competitive advantage.",
+  "source": "https://cooksat.com/practice?questionId=af3ec3cb&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

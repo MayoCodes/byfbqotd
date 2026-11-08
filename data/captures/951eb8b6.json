@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "951eb8b6",
+  "capturedAt": "2026-11-08T00:35:44.869Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nAnnual Soil Erosion Rates (Metric Tons per Hectare) at Four Monitoring Sites in 2000 and 2022\n\nWhile preparing a report on land degradation, a student reviews a table compiled by environmental scientists Susanne Benz and Thomas Vogt showing erosion rates at four monitoring sites. The student notes that the site that recorded 0.55 metric tons per hectare of erosion in 2022 had recorded _______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "0.26 metric tons per hectare in 2000.",
+    "B": "0.59 metric tons per hectare in 2000.",
+    "C": "2.49 metric tons per hectare in 2000.",
+    "D": "0.38 metric tons per hectare in 2000."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the statement. The text identifies the site that recorded 0.55 metric tons per hectare of erosion in 2022 and asks what that site had recorded in 2000. According to the table, Hollowcreek recorded 0.55 metric tons per hectare in 2022 and 0.26 metric tons per hectare in 2000.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the table shows that the site that recorded 0.55 metric tons per hectare in 2022 (Hollowcreek) recorded 0.26 metric tons per hectare in 2000, not 2.49. According to the table, 2.49 is the amount Valle Alto recorded in 2000.",
+  "source": "https://cooksat.com/practice?questionId=951eb8b6&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/951eb8b6/1-fff1e8c61e4edddc.png"
+    }
+  ]
+}

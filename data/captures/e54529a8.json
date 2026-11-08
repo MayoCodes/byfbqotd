@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "e54529a8",
+  "capturedAt": "2026-11-08T00:41:34.922Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nGeologists Ming Mukherjee, Celeste Dubois, and their team collected soil samples from volcanic field sites in Iceland after a heavy rainfall and recorded whether each sample tested acidic or alkaline. The table shows the results for three of the sites sampled in the study. Based on the table, a student concludes that Hverir and Leirhnjukur behaved similarly in the pH tests.",
+  "prompt": "Which choice best describes data from the table that support the student's conclusion?",
+  "choices": {
+    "A": "Leirhnjukur tested alkaline, while Krafla tested acidic.",
+    "B": "Krafla and Hverir both tested alkaline.",
+    "C": "Hverir and Leirhnjukur both tested acidic.",
+    "D": "Leirhnjukur tested alkaline, while Hverir tested acidic."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The student's conclusion is that Hverir and Leirhnjukur behaved similarly in the pH tests. According to the table, both Hverir and Leirhnjukur tested acidic, which supports the conclusion that they behaved similarly.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This choice misreads the table: Leirhnjukur tested acidic, not alkaline. Also, the conclusion is about Hverir and Leirhnjukur, not about Krafla.",
+  "source": "https://cooksat.com/practice?questionId=e54529a8&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e54529a8/1-a30ed4f6feac9b99.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "12ae46eb",
+  "capturedAt": "2026-11-08T00:26:35.815Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Past research suggests that nitrogen fixation by Rhizobium bacteria accounts for up to 15 percent of total alfalfa biomass production. Now Alexander Sullivan, Yuto Tang, and colleagues are investigating how dependent soybean yield is on Rhizobium. The first phase of their study involved sterilizing the soil of some soybean plots to prevent any microbes from interacting with the plants, which resulted in those plots producing 30 to 70 percent lower yields than plots with untreated soil. However, the researchers claim that the first-phase experiment alone didn't tell them how much of that yield difference is due specifically to excluding Rhizobium.",
+  "prompt": "Which finding, if true, would most directly support the researchers' claim?",
+  "choices": {
+    "A": "The soil sterilization used in the first phase of the study did not affect the moisture levels available to the soybean plants.",
+    "B": "Other microbes like mycorrhizal fungi also promote alfalfa growth, and some studies have allowed them to function normally while excluding Rhizobium.",
+    "C": "Other microbes like mycorrhizal fungi also promote soybean growth, and the sterilization in the first phase of the study eliminated them as well.",
+    "D": "Rhizobium bacteria are more commonly associated with soybean plants than with alfalfa plants."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents a finding that, if true, would most directly support the researchers' claim that the first-phase experiment alone didn't tell them how much of the yield difference was due specifically to excluding Rhizobium. The text explains that sterilized soybean plots produced 30 to 70 percent lower yields than untreated plots, but the researchers acknowledge that this doesn't isolate the effect of Rhizobium. If other beneficial microbes like mycorrhizal fungi also promote soybean growth and were eliminated by the sterilization used in the first phase, that would explain why the researchers couldn't determine how much of the yield drop was specifically due to excluding Rhizobium versus excluding other beneficial microbes. This finding directly supports their claim that the experiment couldn't isolate the Rhizobium-specific effect.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the fact that sterilization didn't affect moisture levels would only address a potential confounding variable in the experiment. While this information might be relevant to the overall validity of the study, it doesn't address the researchers' specific claim about being unable to isolate the effect of Rhizobium from the effects of other beneficial microbes.",
+  "source": "https://cooksat.com/practice?questionId=12ae46eb&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

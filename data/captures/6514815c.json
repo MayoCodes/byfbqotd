@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "6514815c",
+  "capturedAt": "2026-11-08T00:32:46.234Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nHigh concentrations of air pollutants can harm public health, but general indices of air quality have not historically distinguished among the specific pollutants driving poor readings. Recently, however, environmental scientist Abigail Dalton analyzed monitoring station records to derive measures not only for overall air quality but also for concentrations of specific pollutants, such as nitrogen dioxide and fine particulate matter. One revelation of her work is that a general index may not fully reflect trends in specific pollutants, as in the case of Millbrook, where the overall air quality index ______",
+  "prompt": "Which choice most effectively uses data from the graph to illustrate the claim?",
+  "choices": {
+    "A": "aligned closely with the concentration of nitrogen dioxide in 2015 but differed from the concentration of nitrogen dioxide by a large amount in 2019.",
+    "B": "was substantially lower than the concentration of nitrogen dioxide each year from 2015 to 2020.",
+    "C": "reached its highest level between 2015 and 2020 in the same year that the concentrations of fine particulate matter and nitrogen dioxide reached their lowest levels.",
+    "D": "was substantially lower than the concentration of fine particulate matter in 2015 and substantially higher than the concentration of fine particulate matter in 2020."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it uses data from the graph to effectively illustrate the text's claim about Millbrook's overall air quality index. The graph presents values for nitrogen dioxide, fine particulate matter, and the overall air quality index in Millbrook from 2015 to 2020. The graph shows that in 2015, the value for the overall air quality index (approximately 90) was substantially lower than the value for fine particulate matter (approximately 160). It also shows that in 2020, the value for the overall air quality index (approximately 115) was substantially higher than the value for fine particulate matter (approximately 75). The substantial differences between these values in 2015 and 2020 support the claim that a general index may not fully reflect trends in specific pollutants.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the graph shows that the overall air quality index was higher than the concentration of nitrogen dioxide in 2016, 2017, and 2019, not that it was lower each year from 2015 to 2020.",
+  "source": "https://cooksat.com/practice?questionId=6514815c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6514815c/1-d3052ebd4a10f122.png"
+    }
+  ]
+}

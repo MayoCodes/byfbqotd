@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "14eee7fa",
+  "capturedAt": "2026-11-08T00:26:43.035Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nAnil Mukherjee and Zawadi Sow compiled trade policy data on 18 agricultural commodities monitored across Southeast Asia. They examined records from Vietnam, Thailand, and Malaysia regarding the number of these commodities subject to import controls in each country, along with the average tariff rates and total import volumes associated with those commodities. The researchers concluded that Vietnam imposed a higher average tariff rate on these commodities than either of the other countries did.",
+  "prompt": "Which choice best describes data from the table that support Mukherjee and Sow's conclusion?",
+  "choices": {
+    "A": "Thailand reported an average tariff rate of 12% but an import volume of only 18.",
+    "B": "Vietnam reported an average tariff rate of 28%, whereas Malaysia reported an import volume of 22.",
+    "C": "Thailand and Malaysia reported average tariff rates of 4% and 7%, respectively, which are far lower than Vietnam reported.",
+    "D": "Vietnam reported an average tariff rate of 28%, which is higher than either Thailand or Malaysia reported."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to support Mukherjee and Sow's conclusion. The researchers concluded that Vietnam imposed a higher average tariff rate than either Thailand or Malaysia. According to the table, Vietnam's average tariff rate is 28%, while Thailand's is 12% and Malaysia's is 9%, so Vietnam's rate is indeed higher than either of the other two countries.\n\nWhy B is incorrect:\n\nChoice B is incorrect because it does not effectively support the researchers' conclusion. While it accurately states Vietnam's tariff rate, it then mentions Malaysia's import volume, which is irrelevant to a claim about average tariff rates.",
+  "source": "https://cooksat.com/practice?questionId=14eee7fa&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/14eee7fa/1-a0eace2dec1d50a7.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "64a52882",
+  "capturedAt": "2026-11-08T00:32:39.049Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nSmall-business loans help local entrepreneurs purchase equipment, lease space, and hire workers. The graph shows the number of small-business loans approved by the Cascade Regional Credit Union from 2012 to 2021. According to economists Declan Quinn and Olumide Owusu, although the number of small-business loans approved by this credit union has fluctuated considerably across the period shown, the number overall has decreased since 2012.",
+  "prompt": "Which choice most effectively uses data from the graph to justify the underlined claim?",
+  "choices": {
+    "A": "The credit union approved approximately 1,000 small-business loans in 2012 and approximately 500 in 2021.",
+    "B": "The smallest annual number of small-business loans approved by the credit union during the period shown is approximately 1,600 in 2015.",
+    "C": "The greatest annual number of small-business loans approved by the credit union during the period shown is approximately 1,000 in 2019.",
+    "D": "The credit union approved approximately 1,000 small-business loans in 2012 and approximately 1,600 in 2015."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. By comparing the number of small-business loans approved in 2012 (approximately 1,000) to the number approved in 2021 (approximately 500), we can see that the number has fallen overall during the period shown, which directly supports the claim.",
+  "source": "https://cooksat.com/practice?questionId=64a52882&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/64a52882/1-7405821155aa52cf.png"
+    }
+  ]
+}

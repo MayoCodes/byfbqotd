@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "2be657c3",
+  "capturedAt": "2026-11-08T00:28:38.762Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nHelene Renault and her team conducted multiple surveys to gauge farmers' assessments of soil-moisture conditions in fields managed under a new drip-irrigation schedule. Farmers filled out surveys several times during the growing season to indicate their assessment on a scale from −3 (far too dry) to +3 (far too wet), with 0 indicating neutral (neither dry nor wet), and to indicate how they would prefer the watering to be adjusted. The table shows three farmers' responses in one of the surveys. According to the table, all three farmers wanted more watering, ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "and they each reported the same soil-moisture assessment.",
+    "B": "even though each farmer's assessments varied throughout the growing season.",
+    "C": "but farmer 14 reported feeling conditions were significantly drier than the other two farmers did.",
+    "D": "but farmer 7 reported conditions were wetter than the other two farmers did."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The text describes the assessment scale: from −3 (far too dry) to +3 (far too wet), with 0 being neutral. Farmer 14 gave a −2 assessment, a full three points drier on the scale than the other two farmers, who each reported a 1.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This choice doesn't use data from the table. The table only shows one survey, so there is no basis for a claim about how the farmers' assessments varied throughout the growing season.",
+  "source": "https://cooksat.com/practice?questionId=2be657c3&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2be657c3/1-50dc6b1e2242d2fb.png"
+    }
+  ]
+}

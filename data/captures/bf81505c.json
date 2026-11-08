@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "bf81505c",
+  "capturedAt": "2026-11-08T00:38:36.158Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nTrees are often described in terms of their maximum height, or how tall they can grow from the ground to their crown. But a tree's maximum height may not be as good an indication of how massive the tree appears to foresters as is the tree's trunk diameter at breast height (DBH), or the thickness of its trunk measured 1.3 meters above the ground, and these values can differ significantly. For example, the tree species ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the example?",
+  "choices": {
+    "A": "Douglas-fir has a maximum height of 100 meters and is considered one of the tallest trees in the Pacific Northwest region.",
+    "B": "Coast redwood has a much greater trunk diameter than does Western hemlock.",
+    "C": "Coast redwood has a tall maximum height and grows in a different forest region than Giant sequoia, which has a thicker trunk diameter.",
+    "D": "Coast redwood has a maximum height of 115 meters but a considerably smaller trunk diameter of 7 meters."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to complete the example about how maximum height and trunk diameter can differ significantly. The text explains that a tree's maximum height may differ considerably from its DBH. The table shows that Coast redwood reaches a maximum height of 115 meters but has a trunk diameter of just 7 meters. Although 7 meters is substantial in absolute terms, it is considerably smaller than Coast redwood's 115-meter height, effectively illustrating how the two measures can differ significantly for the same species.\n\nWhy C is incorrect:\n\nChoice C is incorrect because although it mentions that Coast redwood is tall and Giant sequoia has a thicker trunk, it doesn't provide specific numerical data from the table and doesn't include both measures for a single species to illustrate how they can differ significantly.",
+  "source": "https://cooksat.com/practice?questionId=bf81505c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/bf81505c/1-5f165f8a4d538d4f.png"
+    }
+  ]
+}

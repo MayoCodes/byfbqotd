@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f297817c",
+  "capturedAt": "2026-11-08T00:42:36.309Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Bats emit high-frequency calls and locate small insects by analyzing the faint echoes that return; the ear pinnae (external ear flaps) focus these echoes and influence how finely bats can resolve them. Laboratory trials by Tomoko Jang, Meera Yamada, and Rafael Ortiz using artificial bat models with three pinna sizes—small (low ratio of surface area to head width), medium, and large (high ratio of surface area to head width)—showed that for faint insect-generated echoes, bats with medium pinnae would be better able than small-pinnae bats to distinguish prey echoes from background clutter. A second research team has therefore hypothesized that in densely vegetated forest environments, medium-pinnae bats will be more likely than small-pinnae bats to detect small insect prey.",
+  "prompt": "Which finding, if true, would most directly support the second research team's hypothesis?",
+  "choices": {
+    "A": "A study conducted in densely vegetated forest environments found that the medium-pinnae Myotis nattereri successfully captured small insect prey just as often as the small-pinnae Nyctalus leisleri did.",
+    "B": "A study conducted in densely vegetated forest environments found that the small-pinnae Nyctalus leisleri failed to capture more than half of the small insect prey it pursued.",
+    "C": "A study conducted in densely vegetated forest environments found that the small-pinnae Nyctalus leisleri failed to capture small insect prey more often than the medium-pinnae Myotis nattereri did.",
+    "D": "A study conducted in densely vegetated forest environments found that some specimens of the medium-pinnae Myotis nattereri failed to capture small insect prey more often than other specimens of the same species did."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The second research team hypothesizes that in densely vegetated forest environments, medium-pinnae bats will detect small insect prey more successfully than small-pinnae bats will. This extends the laboratory finding by Jang, Yamada, and Ortiz that medium-pinnae bats can better distinguish faint prey echoes from background clutter. A finding that the small-pinnae Nyctalus leisleri failed to capture prey more often than the medium-pinnae Myotis nattereri did in forest environments would indicate that medium-pinnae bats were indeed more successful at detecting prey—since better detection would translate into more successful captures. This comparative finding in the predicted direction directly supports the hypothesis.",
+  "source": "https://cooksat.com/practice?questionId=f297817c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

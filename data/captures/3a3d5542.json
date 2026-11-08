@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3a3d5542",
+  "capturedAt": "2026-11-08T00:29:47.881Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Drawing on data from numerous ore deposits, geochemists had developed the so-called segregation hypothesis, which holds that hydrothermal vein systems formed during the Carboniferous period (circa 300 to 360 million years ago) belonged to two distinctly different geochemical environments. One was a high-temperature magmatic environment that produced sulfide-rich veins containing minerals such as the copper-bearing chalcopyrite, and the other was a low-temperature meteoric environment that produced carbonate-rich veins containing minerals such as the lead-bearing cerussite. Recently, however, mineralogist Ngozi Kaplan analyzed the vein assemblages preserved at a Carboniferous site in what is now the Otavi Mountains of Namibia and concluded that evidence from the Otavi site is inconsistent with the segregation hypothesis.",
+  "prompt": "Which finding about the Otavi site, if true, would most directly support Kaplan's conclusion?",
+  "choices": {
+    "A": "Although the site appears to have hosted a high-temperature magmatic environment during the Carboniferous period, mineralogical evidence indicates that chalcopyrite was present at that time.",
+    "B": "The site appears to have hosted a high-temperature magmatic environment early in the Carboniferous period but transitioned to a low-temperature meteoric environment after the end of the Carboniferous period.",
+    "C": "The site appears to have hosted a low-temperature meteoric environment during the Carboniferous period and contains mineralogical evidence of contemporaneous chalcopyrite and cerussite.",
+    "D": "Mineralogical evidence from the site indicates that several vein-forming minerals other than chalcopyrite and cerussite were deposited there during the Carboniferous period."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents a finding that, if true, would most directly support Kaplan's conclusion that evidence from the Otavi site is inconsistent with the segregation hypothesis. The text explains that the segregation hypothesis holds that during the Carboniferous period there were two distinctly different geochemical environments: a high-temperature magmatic environment (producing minerals such as chalcopyrite) and a low-temperature meteoric environment (producing minerals such as cerussite). The hypothesis thus posits that these mineral types formed in separate environments. A finding that the Otavi site hosted a low-temperature meteoric environment during the Carboniferous period and contains mineralogical evidence of both chalcopyrite and cerussite forming at the same time would directly contradict the segregation hypothesis, which predicts these minerals should be found in distinctly different environments. This finding would therefore support Kaplan's conclusion that the Otavi evidence is inconsistent with the segregation hypothesis.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the segregation hypothesis concerns geochemical environments during the Carboniferous period specifically, not what happened after the Carboniferous period ended. A finding that the Otavi site transitioned to a low-temperature meteoric environment after the end of the Carboniferous period wouldn't provide any information about whether the site evidence is consistent or inconsistent with the segregation hypothesis's claims about environments during the Carboniferous period itself.",
+  "source": "https://cooksat.com/practice?questionId=3a3d5542&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

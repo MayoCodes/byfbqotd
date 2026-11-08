@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c852877b",
+  "capturedAt": "2026-11-08T03:54:36.172Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "A pneumatic tube system is a network of pressurized tubes used for transporting physical documents—usually letters and small packages—by propelling them through the tubes using air pressure. Pneumatic tube systems were used for rapid delivery across urban areas for postal, banking, and commercial purposes during the late nineteenth and early twentieth centuries, but they were largely limited to short distances within buildings or city blocks, and the capacity of the system depended on factors such as tube diameter and air pressure maintenance. Therefore, pneumatic tube systems were eventually replaced by technology that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "was not so limited by physical infrastructure requirements.",
+    "B": "operated on similar principles but was cheaper to install and repair.",
+    "C": "could be used for more than postal, banking, or commercial purposes.",
+    "D": "enabled delivery that didn't require specialized packaging or containers."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The passage explains that pneumatic tube systems \"were largely limited to short distances within buildings or city blocks\" and that \"the capacity of the system depended on factors such as tube diameter and air pressure maintenance.\" These infrastructure constraints would have greatly limited the use of pneumatic tube systems, so we can infer that this would have been a reason to replace them with new technology.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The passage doesn't mention specialized packaging or containers as a particular problem with the use of pneumatic tube systems, so there's no basis for this inference.",
+  "source": "https://cooksat.com/practice?questionId=c852877b&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

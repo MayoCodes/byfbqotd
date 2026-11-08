@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "19bbd688",
+  "capturedAt": "2026-11-08T00:27:15.662Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nSome climate projections for temperate forests of the northeastern United States anticipate that average growing-season temperatures will rise modestly but that year-to-year temperature swings will grow more pronounced. Forest ecologist Padma Nguyen and entomologist Yewande Khoury simulated how annual leaf damage from defoliating insects and the timing of pest emergence would shift under this scenario. Nguyen and Khoury concluded that increasingly variable temperatures would advance pest emergence and raise overall leaf damage, but that this increase in damage is highly sensitive to the baseline temperature variability a forest currently experiences.",
+  "prompt": "Which choice best describes data from the table that support Nguyen and Khoury's conclusion?",
+  "choices": {
+    "A": "If baseline variability is currently high, leaf damage will increase 0.6% from native pests and 1.1% from invasive pests, whereas pests will emerge 12.4 days earlier if baseline variability is currently low.",
+    "B": "If baseline variability is currently high, leaf damage will increase only slightly, whereas it will increase 8.7% from native pests and 7.4% from invasive pests if baseline variability is currently low.",
+    "C": "If baseline variability is currently high, pests will emerge 5.2 days earlier, while leaf damage will increase 0.6% from native pests and 1.1% from invasive pests.",
+    "D": "If baseline variability is currently high, leaf damage will decline slightly, whereas it will increase 12.4% from native pests and 5.2% from invasive pests if baseline variability is currently low."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it describes data from the table that support Nguyen and Khoury's conclusion. The text explains that Nguyen and Khoury concluded that increasingly variable temperatures would raise overall leaf damage but that this increase is highly sensitive to the baseline temperature variability a forest currently experiences. Supporting this two-part conclusion requires contrasting outcomes under the two baseline conditions. The table shows that if baseline variability is currently high, leaf damage increases only slightly (0.6% from native pests and 1.1% from invasive pests), whereas if baseline variability is currently low, leaf damage increases far more substantially (8.7% from native pests and 7.4% from invasive pests). This sharp contrast illustrates that the magnitude of the increase depends heavily on baseline conditions, supporting the researchers' conclusion.",
+  "source": "https://cooksat.com/practice?questionId=19bbd688&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/19bbd688/1-c5f456b752c2e8db.png"
+    }
+  ]
+}

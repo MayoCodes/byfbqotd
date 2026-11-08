@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3a0b4550",
+  "capturedAt": "2026-11-08T03:50:00.156Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The tomato was first cultivated in Mesoamerica around 7,000 years ago. But which wild ancestor did it descend from, the cherry tomato or the currant tomato? A research team led by Simona Barbu may have resolved the question, concluding that the modern tomato is the cultivated form of the cherry tomato but that today's commercial varieties retain only 58 percent of their genetic material from their wild ancestor. The remainder comes from the domesticated tomatillo. The tomatillo, meanwhile, retains 92 percent of its genetic material from its own wild ancestor, the ground cherry, and the rest from the tomato. The tomato and tomatillo apparently hybridized extensively for only a brief period between 300 and 500 years ago. Assuming that the findings of Barbu's team are valid, it can be inferred that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "the period of hybridization resulted in a greater genetic difference between tomatoes and their wild ancestors than between tomatillos and their wild ancestors.",
+    "B": "modern tomatillo populations have a greater degree of genetic diversity, on average, than modern tomato populations do.",
+    "C": "the cultivation process of the tomato may have involved some introduction of genetic material from the tomatillo.",
+    "D": "if they were subjected to genetic testing, modern populations of ground cherries and cherry tomatoes would likely show traces of ancient hybridization as well."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it presents the inference that most logically follows from the text's discussion of the genetic material of tomatoes. The text states that modern tomatoes retain only 58 percent of their genetic material from their wild ancestor (the cherry tomato), while tomatillos retain 92 percent of their genetic material from their wild ancestor (the ground cherry). These data imply that relative to tomatillos, tomatoes have experienced a much greater genetic shift away from their wild ancestors (42 percent of their genetic material derives from another source, compared to 8 percent of tomatillos' genetic material). Moreover, the text establishes that the remainder of tomatoes' genetic material derives from tomatillos, and the remainder of tomatillos' genetic material derives from tomatoes, reflecting a period of hybridization. Taken together, these details support the inference that the period of hybridization had a more significant impact on the genetic material of tomatoes than on that of tomatillos, thereby reducing the percentage of tomatoes' genetic material that derives from wild ancestors and placing tomatoes at a greater remove from these ancestors.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it contradicts the chronology presented in the text. The text states that tomatoes were cultivated about 7,000 years ago, but the hybridization with tomatillos occurred \"between 300 and 500 years ago.\" The genetic mixing happened thousands of years after cultivation, not during it; in addition, the text does not provide details about what the process of cultivation might entail. Therefore, it isn't logical to infer that tomatillo genetic material was introduced during the cultivation process of tomatoes.",
+  "source": "https://cooksat.com/practice?questionId=3a0b4550&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

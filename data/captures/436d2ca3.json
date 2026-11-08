@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "436d2ca3",
+  "capturedAt": "2026-11-08T00:30:30.762Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Extended weekday retail hours in mixed-use neighborhoods have been reshaping customer circulation patterns, potentially enabling increased foot traffic in independent bookstores through longer windows for spontaneous browsing visits, but also potentially enabling decreased foot traffic as patrons redirect their discretionary time toward competing late-evening venues such as cafes and entertainment halls. Urban sociologist Ivy Elliott and her colleague Matteo Gallagher developed a model incorporating numerous inputs—years of pedestrian count and transit ridership data among them—to evaluate the effects of extended hours on bookstore foot traffic in several neighborhoods, concluding that net foot traffic is likely to decrease if extended hours push closing times past 9 p.m.",
+  "prompt": "Which finding, if true, would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "Closing times past 9 p.m. extend the window in which bookstores can attract spontaneous browsing visits but have no effect on patrons' redirection toward competing late-evening venues.",
+    "B": "Closing times past 9 p.m. reduce spontaneous browsing visits to bookstores by fragmenting patrons' evening routines, and they diminish patron redirection toward competing late-evening venues.",
+    "C": "Closing times past 9 p.m. reduce the share of patrons making spontaneous browsing visits to bookstores, and they increase patron redirection toward competing late-evening venues such as cafes and entertainment halls.",
+    "D": "Closing times past 9 p.m. amplify the effect of transit ridership on both spontaneous browsing visits to bookstores and patron redirection toward competing late-evening venues."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents a finding that, if true, would support Elliott and Gallagher's conclusion that net foot traffic in independent bookstores is likely to decrease if extended hours push closing times past 9 p.m. The text explains that extended weekday retail hours could potentially enable both increased foot traffic through longer windows for spontaneous browsing visits and decreased foot traffic through patrons' redirection toward competing late-evening venues. The researchers concluded that net foot traffic would decrease, meaning that the redirection effect would outweigh the browsing-visit effect. A finding that closing times past 9 p.m. reduce the share of patrons making spontaneous browsing visits (thereby limiting the pathway that would increase bookstore traffic) while simultaneously increasing patron redirection toward competing venues (thereby strengthening the pathway that decreases bookstore traffic) would directly support this conclusion, since both effects work together to decrease net foot traffic: fewer browsing visits and more redirection away from bookstores.\n\nWhy D is incorrect:\n\nChoice D is incorrect because a finding that closing times past 9 p.m. amplify the effect of transit ridership on both browsing visits and patron redirection would not clearly support the conclusion that net foot traffic would decrease. Without knowing which pathway is amplified more—browsing visits to bookstores or redirection to competing venues—it would be impossible to determine whether net foot traffic would increase or decrease. The conclusion specifically states that net foot traffic would decrease, which requires the redirection effect to outweigh the browsing-visit effect.",
+  "source": "https://cooksat.com/practice?questionId=436d2ca3&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

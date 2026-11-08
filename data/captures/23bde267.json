@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "23bde267",
+  "capturedAt": "2026-11-08T00:28:02.783Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nAcross four rocky-shore sites surveyed along the Pacific Northwest coast, marine ecologists recorded an estimated 1.4 million tide-pool invertebrates in 2022. In a report for a field biology course, a student working with researchers Emilio Chavez and Olumide Benali notes that sites with very large total invertebrate populations may be less densely populated than are sites with much smaller populations, as can be seen by comparing ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the example?",
+  "choices": {
+    "A": "the area of Basalt Bay (35,500 square meters) with its relatively large total population of 773,900 individuals.",
+    "B": "Basalt Bay, which has a large total population of 773,900 individuals and a relatively low density of 21.8 individuals/square meter, with Tidepool Cove, which has a much smaller total population and a higher density.",
+    "C": "Driftwood Point, which has a low density, with Cape Hollow, which has a similar density despite the two sites having different areas.",
+    "D": "the total populations of Tidepool Cove and Cape Hollow in 2022 with their total populations in 2012."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the student's example. The student's claim is that sites with very large total invertebrate populations may be less densely populated than sites with much smaller populations. According to the table, Basalt Bay has a large total population of 773,900 individuals and a relatively low density of 21.8 individuals/m², while Tidepool Cove has a much smaller total population of 170,000 individuals but a much higher density of 212.5 individuals/m². This comparison directly illustrates the student's point.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the table does not contain any data about invertebrate populations in 2012. The table provides data only for 2022, so this choice cannot effectively use data from the table to complete the example.",
+  "source": "https://cooksat.com/practice?questionId=23bde267&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/23bde267/1-5bf6a47922321ad5.png"
+    }
+  ]
+}

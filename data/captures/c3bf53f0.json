@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c3bf53f0",
+  "capturedAt": "2026-11-08T03:54:25.915Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Archaeometallurgists have struggled to pinpoint when tin-bronze production became widespread in Eurasia. The presence of crucibles capable of alloying copper with tin by 3500 BCE made bronze production possible but does not establish its prevalence, and although bronze tools were a luxury rarity in their initial Mesopotamian range around 3300 BCE, mass demand for bronze armaments became unavoidable across competing polities by 2200 BCE. Audrey Ricci and Faisal Haddad proposed a novel proxy: the formation of a distinctive sulfide-rich patina chemistry on certain ore-rich soils, which Ricci and Haddad date to as early as 2900 BCE. This patina could not have formed and persisted without sustained sulfur-dioxide emissions from large-scale ongoing smelting, so if Ricci and Haddad are correct, then ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "it is unlikely that metallurgical traditions outside Eurasia produced tin-bronze alloys even though crucibles enabling bronze alloying existed well before mass demand emerged.",
+    "B": "large-scale bronze smelting most likely began at some point after 2900 BCE but before approximately 2200 BCE.",
+    "C": "a substantial volume of bronze smelting must have been ongoing long before competing polities created mass demand sufficient to compel such production.",
+    "D": "the expansion of bronze production after approximately 2200 BCE may have been driven by factors other than the military demand that the text identifies."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most logically completes the text's discussion of when widespread bronze production began. The text establishes that bronze was a luxury rarity in early Mesopotamia around 3300 BCE and that mass demand for bronze armaments did not become unavoidable until competing polities required it by 2200 BCE. Ricci and Haddad propose using a distinctive sulfide-rich patina as a proxy for determining when large-scale smelting was ongoing, dating its earliest formation to as early as 2900 BCE. Crucially, the text states that this patina 'could not have formed and persisted without sustained sulfur-dioxide emissions from large-scale ongoing smelting' — meaning its existence requires substantial, continuous bronze production already underway. If Ricci and Haddad are correct that the patina formed by 2900 BCE, then large-scale smelting must have been occurring by that time. Since 2900 BCE substantially predates 2200 BCE, when military mass demand made widespread bronze production unavoidable, this finding would indicate that substantial bronze smelting was already ongoing well before external pressures made such production necessary.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the text does not provide any information about metallurgical traditions outside Eurasia. The passage focuses exclusively on Eurasian bronze production and does not discuss whether other regions independently produced tin-bronze, despite noting that crucibles enabling alloying existed well before mass demand emerged.",
+  "source": "https://cooksat.com/practice?questionId=c3bf53f0&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

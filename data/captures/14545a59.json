@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "14545a59",
+  "capturedAt": "2026-11-08T04:20:49.781Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In a study by Hans Graves, Callum Elliott, and colleagues, rainwater samples were collected from monitoring stations in the Carpathian Mountains of Romania and the Pyrenees of northern Spain. Of the 412 samples analyzed from the Carpathian sites, 71.8% registered a pH below 5.0, while of the 687 samples from the Pyrenees sites, only 28.4% fell below that threshold. Given that the average elevation of the Carpathian monitoring stations was considerably lower than that of the Pyrenees stations, higher elevation alone can't explain the difference in rainwater acidity.",
+  "prompt": "The text makes which point about the difference between the acidity of rainwater samples from the Carpathian sites and that of samples from the Pyrenees sites?",
+  "choices": {
+    "A": "It was much larger than the researchers conducting the study expected.",
+    "B": "It was calculated using sources that predate the study.",
+    "C": "It could be due to inaccuracies in the sample analysis.",
+    "D": "It is caused by something other than the elevation of the monitoring stations."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it paraphrases the conclusion the text explicitly draws. The text reports that 71.8% of Carpathian samples but only 28.4% of Pyrenees samples had a pH below 5.0, then notes that the Carpathian stations sit at lower elevations than the Pyrenees stations. It concludes that \"higher elevation alone can't explain the difference in rainwater acidity,\" meaning the difference must be caused by something other than the elevation of the stations.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the text indicates that all the values about rainwater acidity come from the samples collected at the monitoring stations in this study. The text does not refer to any earlier sources used to calculate the difference.",
+  "source": "https://cooksat.com/practice?questionId=14545a59&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}

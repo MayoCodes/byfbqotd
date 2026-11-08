@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "180300d9",
+  "capturedAt": "2026-11-08T00:27:05.048Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Several studies of airborne pollutants (e.g., nitrogen oxides, fine particulates, etc.) in urban areas have shown an inverse correlation between pollutant concentration and downwind distance from the primary industrial emitter, suggesting that atmospheric transport has a dilution effect on concentration. In a study of air samples taken at more than a dozen sites along transects in a Mediterranean port city, however, atmospheric chemists Moussa Demir and Gabriela Delgado found that cross-site variations in concentration were not associated with differences in downwind distance, though they did not conclude that downwind distance is irrelevant to concentration. Rather, they concluded that pollutant emissions in this city may have been sufficiently spatially diffuse to prevent the typical dilution effect from being observed.",
+  "prompt": "Which finding about the port city in the study, if true, would most directly support Demir and Delgado's conclusion?",
+  "choices": {
+    "A": "The city contains numerous small workshops and vehicle depots that release pollutants at many locations upwind of the sampling sites.",
+    "B": "The city's air contains several pollutant compounds that are not typically found in cities where the dilution effect has been demonstrated.",
+    "C": "The transects mostly begin near the same industrial emitter, but their lengths vary considerably because they follow different street grids.",
+    "D": "The city is ringed by several highways that release substantial volumes of exhaust and that lie downwind of the sampling sites."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. This finding would support the conclusion. If numerous workshops and vehicle depots release pollutants at many locations upwind of the sampling sites, then pollutants are entering the air at many different points rather than from a single primary source. This supports the conclusion that the emissions in this city are spatially diffuse, which is what Demir and Delgado argue prevented the typical dilution effect from being observed.",
+  "source": "https://cooksat.com/practice?questionId=180300d9&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

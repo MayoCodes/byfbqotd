@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "28eb2ba8",
+  "capturedAt": "2026-11-08T00:28:31.496Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "As music listening has become increasingly shaped by algorithmically curated platforms, active exploration of artists and genres has given way to an orientation known as \"playlist-driven discovery\" (PDD), in which listeners passively depend on streaming services' recommendations to encounter new music. Olumide Al-Rashid and Diego Castillo analyzed survey data from a representative sample of adults in Canada to measure participants' strength of PDD orientation, loyalty to specific artists, and general curiosity about musical styles. Although no major concert season coincided closely enough with the study for Al-Rashid and Castillo to establish causality between PDD and concert attendance, they nonetheless proposed that PDD may reduce the likelihood of attending live performances through an indirect effect.",
+  "prompt": "Which finding, if true, would most directly support the idea advanced by Al-Rashid and Castillo?",
+  "choices": {
+    "A": "PDD orientation tends to intensify in strength as major concert seasons approach, and people are significantly more likely to attend performances during major concert seasons than during off-seasons.",
+    "B": "PDD orientation has a strong negative effect on artist loyalty and musical curiosity, and there is known to be a strong positive correlation between artist loyalty and musical curiosity and the likelihood of attending live performances.",
+    "C": "Artist loyalty is known to have a strong positive effect on likelihood of attending live performances but shows only a weak positive effect on musical curiosity, and PDD orientation shows little correlation with either artist loyalty or musical curiosity.",
+    "D": "The likelihood of attending live performances increases as artist loyalty increases, and the relationship between PDD orientation and artist loyalty tends to strengthen as the number of platforms a listener uses increases."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a finding that, if true, would most directly support Al-Rashid and Castillo's idea that PDD orientation may reduce the likelihood of attending live performances through an indirect effect. The text describes PDD as a passive orientation that has diminished active musical exploration and introduces the researchers' study measuring PDD alongside artist loyalty and musical curiosity. Because no concert season coincided with the study, the researchers could not test a direct causal link to attendance, yet they still propose an indirect effect. If PDD has a strong negative effect on artist loyalty and musical curiosity, and those variables are in turn strongly positively correlated with attending live performances, then PDD would indirectly reduce attendance by suppressing the intermediate factors that drive attendance.",
+  "source": "https://cooksat.com/practice?questionId=28eb2ba8&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2fc8c0b5",
+  "capturedAt": "2026-11-08T03:49:22.794Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Smart textiles are advanced fabrics embedded with electronic components that can monitor physiological conditions. These innovative materials are increasingly used in athletic wear and medical devices where continuous monitoring is essential, as they provide excellent data collection despite typically being vulnerable to moisture damage and eventually failing due to degradation from repeated washing and sweat exposure. Now, Chun Wei of Stanford University and colleagues have developed a smart textile with uniquely waterproof properties. Unlike earlier smart textiles, Wei's team's material maintains full functionality even when completely submerged and continues operating normally after exposure to intense moisture for extended periods, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "the textile's superior waterproofing results from its higher density of electronic components relative to fabric material as compared to other smart textiles.",
+    "B": "the textile's overall durability is greater than that of other monitoring devices but its ability to collect accurate physiological data is lower.",
+    "C": "the textile will be more effective as a monitoring device for activities that involve light perspiration than for those that involve heavy sweating.",
+    "D": "the textile will be less prone to the moisture-related damage that ultimately causes most other smart textiles to malfunction with use."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most logically completes the text's discussion of smart textiles. The text states that smart textiles—advanced fabrics with electronic components—offer \"excellent data collection\" but typically fail after exposure to moisture from washing and sweat. However, according to the text, Wei and colleagues developed a smart textile that \"maintains full functionality even when completely submerged\" and continues operating after intense moisture exposure. Thus, it is logical to conclude that Wei's team's textile material will be less prone to the moisture-related damage that caused earlier smart textiles to malfunction.",
+  "source": "https://cooksat.com/practice?questionId=2fc8c0b5&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

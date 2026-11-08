@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "60312172",
+  "capturedAt": "2026-11-08T00:32:21.384Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Direct Data Lookup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nIn a survey of the Southern Alps of New Zealand, glaciologist Segun Demir and a team of researchers recorded the elevation of several alpine monitoring stations.",
+  "prompt": "According to the table, what is the elevation of the monitoring station with the ID AM43?",
+  "choices": {
+    "A": "1,705 m",
+    "B": "2,145 m",
+    "C": "2,380 m",
+    "D": "1,820 m"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accurately reflects the data in the table. According to the table, the monitoring station with ID AM43 has an elevation of 1,820 m.\n\nWhy A is incorrect:\n\nChoice A is incorrect. None of the monitoring stations in the table have an elevation of 1,705 m.",
+  "source": "https://cooksat.com/practice?questionId=60312172&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/60312172/1-d478b92054b2bc27.png"
+    }
+  ]
+}

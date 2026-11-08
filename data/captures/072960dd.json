@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "072960dd",
+  "capturedAt": "2026-11-08T00:25:57.646Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Cryogenic storage tanks that hold liquefied gases such as hydrogen or helium present persistent challenges for engineers, because the outer shell is repeatedly exposed to extreme thermal contraction as well as mechanical stresses whenever the tank is filled or emptied. In particular, the shell must retain its structural integrity despite thousands of cooling and warming cycles that cause the metal to shrink and expand. To test a hypothesis that a titanium alloy is more suitable than an aluminum alloy for fabricating the outer shell, Edmund Sullivan and Claire Whitfield developed a computational model of two tanks that were identical except for the shell material and simulated the effects of repeated fill-and-empty cycles on those tanks over the span of several decades.",
+  "prompt": "Which finding from the model tests, if true, would support the researchers' hypothesis?",
+  "choices": {
+    "A": "During the simulation, the shell of the tank made from the titanium alloy developed visible surface cracks earlier in the cycling process than the shell of the tank made from the aluminum alloy did.",
+    "B": "At the end of the simulation, the shell of the tank made from the aluminum alloy had thinned noticeably in several regions, whereas the shell of the tank made from the titanium alloy showed no measurable thinning.",
+    "C": "During the simulation, after each cooling cycle the shell of the tank made from the titanium alloy took longer to return to its original dimensions than the shell of the tank made from the aluminum alloy did.",
+    "D": "At the end of the simulation, the shell of the tank made from the titanium alloy was slightly heavier than it had been at the beginning of the simulation."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a finding that, if true, would most directly support the researchers' hypothesis that a titanium alloy is more suitable than an aluminum alloy for fabricating the outer shell of a cryogenic storage tank. The text explains that the shell must retain its structural integrity despite thousands of cooling and warming cycles that cause the metal to shrink and expand. Sullivan and Whitfield simulated repeated fill-and-empty cycles on two otherwise identical tanks over several decades. If the simulation showed that the aluminum shell had thinned noticeably in several regions while the titanium shell showed no measurable thinning, this would indicate that the aluminum degraded under the repeated thermal and mechanical stresses while the titanium retained its integrity. That result would suggest that titanium performed better than aluminum in withstanding the conditions the tank must endure, thereby supporting the hypothesis that titanium is more suitable for the outer shell.\n\nWhy C is incorrect:\n\nChoice C is incorrect because a finding that the titanium shell took longer to return to its original dimensions after each cooling cycle than the aluminum shell did would suggest a disadvantage of titanium, not an advantage. Slower dimensional recovery under thermal stress would indicate that titanium may be less suitable than aluminum for the outer shell, which would weaken rather than support the researchers' hypothesis.",
+  "source": "https://cooksat.com/practice?questionId=072960dd&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

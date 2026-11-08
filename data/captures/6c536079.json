@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "6c536079",
+  "capturedAt": "2026-11-08T00:33:21.948Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nThe Eastern Violet Warbler is estimated to have a breeding population of up to 12 million individuals worldwide. It's also regularly documented in three major flyway regions: the Great Basin, the Columbia Plateau, and the Northern Rockies, which means these regions report consistent annual observations. But even in regions where the species is extremely abundant during migration seasons, for many individuals it isn't their breeding grounds but is instead a stopover site, wintering area, or temporary dispersal location.",
+  "prompt": "Which choice most effectively uses data from the table to support the underlined claim?",
+  "choices": {
+    "A": "The Northern Rockies has approximately 53 million Eastern Violet Warbler individuals, which is much more than the estimated total breeding population of the species worldwide.",
+    "B": "The Northern Rockies is estimated to have at most 12 million Eastern Violet Warbler individuals, while the region's total bird population is approximately 53 million.",
+    "C": "Approximately 100 percent of the Eastern Violet Warblers that breed worldwide live in the Columbia Plateau, which has a total bird population of approximately 47 million.",
+    "D": "Approximately 100 percent of the Columbia Plateau's bird population includes Eastern Violet Warblers, while only about 30 percent of the Great Basin's bird population includes the species."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to support the underlined claim. The text indicates that the Eastern Violet Warbler has a breeding population of up to 12 million individuals worldwide. The text goes on to claim, in the underlined portion, that even in regions where the species is extremely abundant, many individuals are not using the region as breeding grounds but as stopover sites, wintering areas, or temporary dispersal locations. The table indicates that 53 million Eastern Violet Warbler individuals are documented in the Northern Rockies, which amounts to 100 percent of the regional bird population. If 53 million individuals are documented in the Northern Rockies, but only 12 million individuals worldwide are part of the breeding population, that means there are many individuals in the Northern Rockies that are not breeding residents. This information about Eastern Violet Warbler observations in the Northern Rockies therefore supports the claim that many individuals in regions where the species is extremely abundant are not breeding there but are instead using the region for other purposes (such as stopover, wintering, or dispersal).\n\nWhy C is incorrect:\n\nChoice C is incorrect because there's no information in the table or the text that indicates where breeding individuals of the Eastern Violet Warbler live. Although the Columbia Plateau's total bird population can be inferred from the table—if the Columbia Plateau has 47 million Eastern Violet Warbler individuals and 100% of the region's bird population includes the species, then the region must have a bird population of 47 million—nothing suggests that all breeding individuals live in a single region, let alone that they all live in the Columbia Plateau.",
+  "source": "https://cooksat.com/practice?questionId=6c536079&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/6c536079/1-c9b166bc8158dd2d.png"
+    }
+  ]
+}

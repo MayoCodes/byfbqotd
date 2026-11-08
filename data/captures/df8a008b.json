@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "df8a008b",
+  "capturedAt": "2026-11-08T00:41:06.254Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In commercially managed forests, foresters typically remove fallen logs and large woody debris from stands to reduce fire risk, suppress pathogens, and create clearer access for harvesting equipment. At intensively managed sites, this practice often depletes soil organic matter and disrupts the slow release of minerals on which new seedlings depend, leading to diminished growth rates in successive rotations. Forest ecologist Ingrid Foster claims that in temperate timber plantations, abandoning the removal of deadwood at most stands—whether the material poses immediate fire risk or not—would improve nutrient cycling and, as a consequence, raise long-term timber yields even if such a policy would require foresters to dedicate slightly more land area to achieve the same annual harvest volume.",
+  "prompt": "Which finding, if true, would most directly support the researcher's claim?",
+  "choices": {
+    "A": "In a region where foresters began removing deadwood more aggressively from all managed stands, seven out of ten surveyed landowners agreed with the statement \"my timber stands appear healthier than they did before.\"",
+    "B": "A forestry study of plantations shows that on average seedlings grow more slowly in stands where deadwood is removed twice per rotation than in stands where it is removed only once per rotation.",
+    "C": "After a plantation company stopped removing deadwood at most of its stands, the company reports that its mature timber volume per hectare has risen relative to prior rotations, and therefore its total annual yield across its landholdings has increased.",
+    "D": "Statistics reveal that stands in a plantation that abandoned deadwood removal at most sites produced on average two percent less mature timber per hectare after the policy took effect than they did before."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Foster claims that abandoning deadwood removal would improve nutrient cycling and, as a result, raise long-term timber yields even if the policy required dedicating slightly more land to achieve the same annual harvest. A finding that a plantation company that stopped removing deadwood at most of its stands subsequently reports higher mature timber volume per hectare and higher total annual yield would directly support both components of the claim: the improved biological outcome (higher volume per hectare, consistent with better nutrient cycling) and the improved overall yield despite the tradeoff Foster acknowledges.\n\nWhy D is incorrect:\n\nChoice D is incorrect. A finding that stands in a plantation that abandoned deadwood removal produced less mature timber per hectare after the policy took effect would contradict rather than support Foster's claim that abandoning removal would raise long-term timber yields.",
+  "source": "https://cooksat.com/practice?questionId=df8a008b&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

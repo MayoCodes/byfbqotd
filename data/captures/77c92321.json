@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "77c92321",
+  "capturedAt": "2026-11-08T04:23:28.147Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The 1822 identification of albite twinning in feldspar crystals from the Italian Alps is a classic instance of polysynthetic twinning—a phenomenon in which a mineral grows with alternating crystal orientations stacked along a common plane. An outstanding question is whether crystallization temperature predicts the likelihood that a given mineral will form such twins. To investigate this question, Lwazi Mansour, Soo-Yeon Bose, and colleagues identified 30 twin-prone mineral species (e.g., plagioclase, staurolite) in 52 months of samples collected from roughly 60,000 igneous and metamorphic rock specimens and, for each species, calculated the change in probability that a crystal would display twinning if it were found in a specimen whose parent rock had cooled quickly rather than slowly.",
+  "prompt": "Based on the text, which potential study design would be most likely to produce evidence that would enable Mansour, Bose, and colleagues to answer their research question?",
+  "choices": {
+    "A": "Have a panel of petrologists estimate the crystallization temperature for each mineral species in the study, then determine how, if at all, those temperature estimates correlate with the change in probability that the team calculated for each species.",
+    "B": "Have a panel of petrologists estimate the average hardness of each mineral species in the study, then determine how, if at all, those hardness estimates correlate with the frequency with which a different set of rock specimens exhibited twinning of that species.",
+    "C": "Have a panel of petrologists estimate the average hardness of each mineral species in the study, then determine how, if at all, those hardness estimates correlate with the average market value of specimens containing each species.",
+    "D": "Have a panel of petrologists estimate the crystallization temperature of one individual crystal within each mineral species compared to other crystals of that same species, then determine how, if at all, those estimates correlate with the change in probability that the team calculated for each species."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The research question asks whether crystallization temperature predicts the likelihood that a mineral will form twins, and the passage states that Mansour, Bose, and colleagues have already calculated the change in probability of twinning for each of 30 mineral species. To answer the research question, the team needs to pair their already-calculated probabilities with an estimate of crystallization temperature for each species and test whether the two correlate. Choice A describes exactly this procedure—estimating crystallization temperature per species and correlating those estimates with the change in probability the team has already calculated.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it proposes correlating hardness with market value. Neither variable figures in the research question, which specifically concerns whether crystallization temperature predicts the likelihood of twin formation.",
+  "source": "https://cooksat.com/practice?questionId=77c92321&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}

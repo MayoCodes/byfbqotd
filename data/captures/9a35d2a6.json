@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9a35d2a6",
+  "capturedAt": "2026-11-08T00:36:03.084Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Ethologists Hamza Haddad, Jacques Everett, and colleagues investigated the melody recognition abilities of twenty captive African grey parrots. The researchers monitored the brain activity of Kiko (a long-beaked male), Nia (a short-beaked female), and other parrots as the birds listened to three recordings: one of a baroque harpsichord piece, another of a traditional West African kora composition, and a third consisting of brief pitch fragments from the first two rearranged so that they formed no coherent melodic phrasing. Each parrot had been exposed during rearing to either the harpsichord piece or the kora composition, but not both. The team concluded that differences in parrots' anatomical features may affect their ability to distinguish melodic music from nonmelodic sound.",
+  "prompt": "Which finding from the study, if true, would most directly support the team's conclusion?",
+  "choices": {
+    "A": "Compared with longer-beaked parrots, shorter-beaked parrots showed less difference in brain activity when hearing either the harpsichord piece or the kora composition than when hearing the rearranged recording.",
+    "B": "Compared with longer-beaked parrots, shorter-beaked parrots showed a greater difference in brain activity when hearing the piece they were accustomed to than when hearing the other piece.",
+    "C": "The pattern of brain activity that long-beaked parrots showed when hearing the rearranged recording was different from the pattern of brain activity that short-beaked parrots showed when hearing the piece they were accustomed to.",
+    "D": "Long-beaked parrots accustomed to hearing the harpsichord piece tended to show more brain activity when hearing that piece than long-beaked parrots accustomed to hearing the kora composition showed when hearing that composition."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The team concluded that anatomical differences among parrots may affect their ability to distinguish melodic music from nonmelodic sound. Supporting this conclusion requires a finding that compares parrots of different anatomical features (beak length) on the specific distinction between real melodies and the rearranged, nonmelodic recording. If shorter-beaked parrots showed less of a difference in brain activity between the two real melodic pieces and the rearranged recording than longer-beaked parrots did, that would demonstrate that beak anatomy correlates with the ability to distinguish music from nonmusic — precisely what the researchers claimed.\n\nWhy D is incorrect:\n\nChoice D is incorrect. A finding about variation among long-beaked parrots accustomed to different pieces describes differences within a single anatomical group, not differences between parrots with different beak shapes. The team's conclusion requires evidence of a between-group effect of anatomy. Additionally, this finding concerns responses to different musical pieces rather than the distinction between music and nonmusic.",
+  "source": "https://cooksat.com/practice?questionId=9a35d2a6&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

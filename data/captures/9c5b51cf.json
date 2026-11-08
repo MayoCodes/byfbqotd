@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "9c5b51cf",
+  "capturedAt": "2026-11-08T00:36:20.915Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nA student who is researching special economic zones in India notes that the country hosts different classifications of zones. For example, ______",
+  "prompt": "Which choice most effectively uses information from the table to complete the example?",
+  "choices": {
+    "A": "Kandla is a multi-product zone, and Sriperumbudur is an export-oriented zone.",
+    "B": "Cochin is a multi-product zone, and Noida is an export-oriented zone.",
+    "C": "Noida is a free trade zone, and Kandla is a sector-specific zone.",
+    "D": "Sriperumbudur is a sector-specific zone, and Cochin is an export-oriented zone."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to complete the example about different classifications of special economic zones in India. According to the table, Sriperumbudur is a sector-specific zone and Cochin is an export-oriented zone, providing two distinct examples of zone types.\n\nWhy C is incorrect:\n\nChoice C is incorrect because although the table correctly lists Noida as a free trade zone, Kandla is a multi-product zone, not a sector-specific zone.",
+  "source": "https://cooksat.com/practice?questionId=9c5b51cf&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/9c5b51cf/1-eaf5a0ec66e3a1ae.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "1a35f94f",
+  "capturedAt": "2026-11-08T00:27:22.797Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nRina Mukherjee, Dina Ndlovu, and colleagues gathered data on 19 rare mineral types found in Northern European bedrock. They analyzed geological surveys from Iceland, Norway, and Scotland documenting how many of these mineral types appear in each region's bedrock. The researchers concluded that none of these regions' bedrock contains all 19 of the rare mineral types.",
+  "prompt": "Which choice best describes data from the graph that support Mukherjee and Ndlovu's conclusion?",
+  "choices": {
+    "A": "There are mineral types other than those documented in Norway that are significant to its geology, but they are common rather than rare.",
+    "B": "Some of the mineral types that Scotland documented are not among the 19 rare mineral types that Mukherjee and Ndlovu were evaluating.",
+    "C": "Iceland, Norway, and Scotland each documented at least 3 of the 19 mineral types.",
+    "D": "Iceland, which documented more of the 19 mineral types than either Norway or Scotland did, documented fewer than 15 of the types."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The conclusion is that none of the three regions' bedrock contains all 19 rare mineral types. The graph shows Iceland documented 10 types — more than Norway (4) or Scotland (7), but still fewer than 15 of the 19. If even the region with the highest count falls short of 19, then none of the regions contain all 19, directly supporting the researchers' conclusion.\n\nWhy C is incorrect:\n\nChoice C is incorrect. Although it accurately describes the graph (Iceland documented 10, Norway 4, and Scotland 7 — each at least 3), it does not directly support the conclusion that none of the regions documents all 19 types; a region could document at least 3 and still document all 19.",
+  "source": "https://cooksat.com/practice?questionId=1a35f94f&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1a35f94f/1-eeb87150ef8eea13.png"
+    }
+  ]
+}

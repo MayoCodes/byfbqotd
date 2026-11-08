@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b363f7fe",
+  "capturedAt": "2026-11-08T00:37:27.177Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "To certify workplaces under occupational health regulations, employers currently commission structured clinical interviews — a lengthy, resource-intensive procedure in which trained clinicians assess individual employees for burnout symptoms. In a 2021 study, Tomoko Nguyen and Fannie Barrier Williams found that scores on the Brief Occupational Strain Index (BOSI), a 12-item self-report questionnaire completed in under five minutes, correlated with interview-based diagnoses in a sample of office workers. While self-report instruments have well-known limitations, Nguyen and Williams have hypothesized that aggregate BOSI scores could serve as a valid proxy for clinical interview results, sparing employers the considerable expense and scheduling burden of the interviews currently mandated for compliance reporting.",
+  "prompt": "Which finding, if true, would most directly weaken the hypothesis presented in the text?",
+  "choices": {
+    "A": "Compared with structured clinical interviews, BOSI administration imposes significantly less psychological discomfort on the employees being assessed.",
+    "B": "The relationship between BOSI scores and clinical interview diagnoses varies across industries and job roles in ways that researchers have not yet characterized.",
+    "C": "The BOSI has been shown to correlate with self-reported symptoms of generalized anxiety and insomnia in addition to burnout, whereas structured clinical interviews assess burnout only.",
+    "D": "When employees in similar roles complete the BOSI and undergo clinical interviews, the scores and diagnoses produced by both methods show little variation from individual to individual."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a finding that, if true, would most directly weaken Nguyen and Williams's hypothesis about using BOSI scores as a proxy for structured clinical interview diagnoses. For a proxy relationship to be valid, the correspondence between BOSI scores and clinical interview results would need to be predictable and well understood. If the relationship between the two measures varies across industries and job roles in ways researchers have not yet characterized, then employers and regulators could not reliably interpret BOSI scores as standing in for clinical interview diagnoses, undermining the claim that the BOSI can substitute for the interviews currently mandated for compliance reporting.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it presents a finding that would actually support, rather than weaken, the hypothesis. If BOSI administration imposes significantly less psychological discomfort on employees than structured clinical interviews do, this enhances the practical appeal of using the BOSI as a proxy, since it would make the assessment process less burdensome for the employees being evaluated. It does not undermine the claim that BOSI scores can validly substitute for interview results.",
+  "source": "https://cooksat.com/practice?questionId=b363f7fe&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

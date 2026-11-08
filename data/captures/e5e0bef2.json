@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "e5e0bef2",
+  "capturedAt": "2026-11-08T00:41:38.591Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nIn soybean plants, herbivory triggers defensive production of terpenoid volatiles, while fungal infection triggers defensive production of phenolic compounds; soybeans also release airborne signals that prime appropriate defenses in neighboring soybean plants. To investigate why soybeans show weak resistance to spider mite herbivory, Kamau Sithole and Friedrich Barrett exposed some plants to airborne signals from mite-free plants and others to airborne signals from mite-infested plants, then infested both groups with spider mites. The researchers concluded that spider mites induce soybeans to release signals that cause neighboring soybeans to preferentially defend against fungal infection even when under herbivorous attack.",
+  "prompt": "Which choice best describes data from the graph that support the researchers' conclusion?",
+  "choices": {
+    "A": "When plants exposed to air from mite-free plants were infested, they produced more terpenoid volatiles than did control plants, whereas when plants exposed to air from mite-infested plants were infested, they produced less terpenoid volatiles and more phenolic compounds than did control plants.",
+    "B": "When plants exposed to air from mite-infested plants were infested, they produced less terpenoid volatiles than phenolic compounds, whereas when plants exposed to air from mite-free plants were infested, they produced about the same amount of terpenoid volatiles and phenolic compounds.",
+    "C": "When plants exposed to air from mite-free plants were infested, they produced both terpenoid volatiles and phenolic compounds, whereas when plants exposed to air from mite-infested plants were infested, they exclusively produced phenolic compounds.",
+    "D": "When plants exposed to air from mite-infested plants were infested, they produced less terpenoid volatiles than did control plants, whereas when plants exposed to air from mite-free plants were infested, they produced more terpenoid volatiles and phenolic compounds than did control plants."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it best describes data from the graph that support the researchers' conclusion about mite-induced defense signaling in soybeans. According to the text, soybeans produce airborne signals that prompt neighboring plants to ramp up appropriate defensive compounds—terpenoid volatiles against herbivory and phenolic compounds against fungal infection. The researchers concluded that spider mites induce soybeans to emit signals that cause nearby plants to defend against fungal infection rather than against herbivory. The graph shows that control plants produced about 140 nanograms of terpenoid volatiles and about 120 nanograms of phenolic compounds per gram of dry weight, establishing baseline levels. Plants exposed to air from mite-free plants produced about 205 nanograms of terpenoid volatiles when subsequently infested—more than controls—suggesting that without misleading signals, soybeans mount a normal anti-herbivore response. Plants exposed to air from mite-infested plants and then infested produced only about 100 nanograms of terpenoid volatiles (less than controls) and about 175 nanograms of phenolic compounds (more than controls). This pattern—reduced anti-herbivore defense paired with elevated antifungal defense—directly supports the researchers' conclusion that mite-emitted signals redirect neighboring plants' defenses toward fungal threats even when herbivores are attacking.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it inaccurately describes the data. The graph shows that plants in all three conditions produced both terpenoid volatiles and phenolic compounds; plants exposed to air from mite-infested plants produced about 100 nanograms of terpenoid volatiles per gram of dry weight, not zero.",
+  "source": "https://cooksat.com/practice?questionId=e5e0bef2&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e5e0bef2/1-f80c24d16325e868.png"
+    }
+  ]
+}

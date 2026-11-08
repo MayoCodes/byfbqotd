@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "4e7cca2c",
+  "capturedAt": "2026-11-08T00:31:15.244Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nIn a marine ecology seminar, a student named Pierre Kent asserts that microplastic contamination in ocean habitats rose between 2005 and 2015 mostly in and around large open-ocean gyres such as the North Pacific Gyre. The student claims that not only were smaller habitats such as Monterey Bay, California, and Narragansett Bay, Rhode Island, affected by microplastic contamination but in large open-ocean gyres such as the North Pacific Gyre, this contamination also worsened over time.",
+  "prompt": "Which choice best describes data from the graph that support Pierre Kent's claim?",
+  "choices": {
+    "A": "In all three marine habitats shown, the microplastic concentration was higher in 2015 than in 2005.",
+    "B": "In at least one of the three marine habitats shown, the microplastic concentration was less than 20 particles per cubic meter at one point between 2005 and 2015.",
+    "C": "Throughout the period between 2005 and 2015, the microplastic concentration was higher in Monterey Bay, California, than in the North Pacific Gyre.",
+    "D": "In 2007, the microplastic concentration in the North Pacific Gyre was less than 30 particles per cubic meter."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. Pierre Kent's claim has two parts: that smaller habitats such as Monterey Bay and Narragansett Bay were affected by microplastic contamination, and that in large open-ocean gyres this contamination worsened over time. The graph shows that in 2005, the North Pacific Gyre had about 42 particles per cubic meter, Monterey Bay about 17, and Narragansett Bay about 8. By 2015, these values had risen to about 62, 35, and 23, respectively. In all three habitats the concentration was higher in 2015 than in 2005, which supports both parts of the claim: the smaller bays experienced rising contamination, and the concentration in the large gyre worsened over the decade.\n\nWhy B is incorrect:\n\nChoice B is incorrect. Although it accurately describes the data — Narragansett Bay had fewer than 20 particles per cubic meter at several points between 2005 and 2015 — this information does not support Pierre Kent's claim about contamination worsening over time across both smaller and larger habitats. His claim concerns trends of increase, not whether any particular measurement fell below a threshold.",
+  "source": "https://cooksat.com/practice?questionId=4e7cca2c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4e7cca2c/1-9e833f10772cd3b4.png"
+    }
+  ]
+}

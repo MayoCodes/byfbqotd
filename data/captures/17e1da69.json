@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "17e1da69",
+  "capturedAt": "2026-11-08T00:27:01.265Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nMany commercial buildings achieve substantial energy savings over years of operation, but some show strong reductions immediately after opening. Environmental analyst Malaya Bose claims that a building's recognition status can greatly influence its long-term performance. Indications of high design quality, such as a LEED Platinum certification, can significantly increase a building's commitment to efficiency upgrades and thus its cumulative energy savings, even when the building's first-year savings are relatively modest.",
+  "prompt": "Which choice best describes data from the table that support Bose's claim?",
+  "choices": {
+    "A": "Willow Tower was LEED Platinum Certified, but Copper Ridge Center, which was not LEED Platinum Certified, had higher 10-year cumulative energy savings.",
+    "B": "Meridian Plaza, which was LEED Platinum Certified, had lower first-year energy savings but higher 10-year cumulative energy savings than Harbor Point Offices, which was not LEED Platinum Certified.",
+    "C": "Although Willow Tower and Meridian Plaza were both LEED Platinum Certified, Meridian Plaza had higher first-year and 10-year cumulative energy savings.",
+    "D": "Although the first-year energy savings were $6,942,180 for Copper Ridge Center and $4,318,627 for Harbor Point Offices, neither building was LEED Platinum Certified."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it describes data from the table that support Bose's claim. The text states that Bose claims indications of high design quality, such as LEED Platinum certification, can increase a building's cumulative energy savings even when first-year savings are relatively modest. According to the table, Meridian Plaza was LEED Platinum Certified and had first-year energy savings of $21,305, while Harbor Point Offices was not certified and had first-year savings of $4,318,627—far more than Meridian Plaza. Despite having much lower first-year savings than Harbor Point Offices, Meridian Plaza had higher 10-year cumulative energy savings ($19,875,640) than Harbor Point Offices did ($11,205,488). This comparison supports Bose's claim by showing that the certified building achieved higher cumulative energy savings than the non-certified building, even though the certified building had a much more modest first-year performance.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it doesn't support Bose's claim. Bose's claim is about how LEED Platinum certification can boost a building's cumulative energy savings, but this choice compares two buildings that were both LEED Platinum Certified. Without comparing a certified building to a non-certified building, this data cannot illustrate the effect of certification on cumulative energy savings.",
+  "source": "https://cooksat.com/practice?questionId=17e1da69&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/17e1da69/1-f801e84a74e28742.png"
+    }
+  ]
+}

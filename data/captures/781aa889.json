@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "781aa889",
+  "capturedAt": "2026-11-08T03:51:44.653Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The National Weather Service's (NWS) current radar network is expected to remain operational until at least 2035, but it has already transformed high-resolution tracking of severe weather events across multiple atmospheric layers, notwithstanding that only about 8% of the data collected by the NWS radar network focuses on oceanic weather patterns. Atmospheric scientist Dr. Sunaina Basnet and colleagues assert that a new radar system dedicated exclusively to marine meteorology would enable comprehensive monitoring of coastal storm systems and long-term observation to understand how oceanic weather patterns evolve over time. Basnet and colleagues' recommendation therefore implies that the NWS radar network ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "will no longer be used to track oceanic weather patterns if the radar system recommended by Basnet and colleagues is deployed.",
+    "B": "can be upgraded to monitor the specific features of oceanic weather systems that are of interest to Basnet and colleagues.",
+    "C": "lacks the technology to observe the atmospheric conditions needed to understand how oceanic weather patterns evolve over time.",
+    "D": "will likely continue to be used primarily to monitor land-based weather systems."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents the conclusion that most logically follows from the text's discussion of how weather monitoring resources would be allocated. The text explains that the NWS radar network will operate until at least 2035 but currently focuses on oceanic weather patterns only 8% of the time. The text goes on to point out that researchers recommend a dedicated system for comprehensive marine meteorology. Because the NWS radar network spends the vast majority of its time on land-based weather monitoring and a specialized system is recommended for oceanic patterns, it's reasonable to infer that the NWS radar network would continue to be used primarily for its current focus on land-based systems.",
+  "source": "https://cooksat.com/practice?questionId=781aa889&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

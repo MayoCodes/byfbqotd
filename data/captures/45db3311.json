@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "45db3311",
+  "capturedAt": "2026-11-08T00:30:34.146Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Engineers have long assumed that autonomous delivery drones coordinate with one another solely through GPS-based location sharing. But engineer Otieno Okafor and colleague Marie Graves analyzed hundreds of hours of flight telemetry from three commercial drone fleets and discovered that the drones emit brief ultrasonic pulses. The researchers claim that the drones use these pulses to coordinate with one another when GPS signals are unavailable, such as inside warehouses or under dense urban structures.",
+  "prompt": "Which finding, if true, would most directly support Okafor and Graves's claim?",
+  "choices": {
+    "A": "The drones' GPS receivers are highly sensitive and can pinpoint their location within a few centimeters.",
+    "B": "The drones only emitted the ultrasonic pulses when they were indoors or beneath structures that blocked GPS signals.",
+    "C": "Delivery drones operating in open rural airspace have never been recorded emitting ultrasonic pulses.",
+    "D": "Researchers observed other types of industrial robots in warehouses emitting ultrasonic signals."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The passage explains that engineers previously believed drones coordinated exclusively through GPS-based location sharing, but Okafor and Graves found that drones also emit ultrasonic pulses. Their specific claim is that the drones use these pulses to coordinate when GPS signals are unavailable. A finding that the drones only emitted the pulses when they were indoors or beneath structures that blocked GPS — that is, precisely the conditions in which GPS coordination is impossible — would directly support this claim about when and why the pulses are used.",
+  "source": "https://cooksat.com/practice?questionId=45db3311&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "63fbca12",
+  "capturedAt": "2026-11-08T00:32:35.590Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Under moderate temperatures within Earth's upper mantle, silicate minerals form crystalline lattices stabilized by oxygen bridge bonds between adjacent silicon atoms. The intense heat encountered in the lower mantle weakens these bonds and causes the lattice to expand thermally, allowing external ions to migrate through the crystal and disrupt its structural integrity; nevertheless, a class of minerals known as ultradeep silicates maintains its rigidity under such conditions. Analyses conducted by Astrid Murphy and Katherine Anderson have revealed a positive correlation between the depths at which various ultradeep silicates occur and concentrations of hafnium oxide inclusions within them, prompting the researchers to hypothesize that hafnium oxide reduces the thermal expansion of silicate lattices.",
+  "prompt": "Which finding, if true, would most directly support the researchers' hypothesis?",
+  "choices": {
+    "A": "Silicon atoms are found to be impervious to hafnium oxide even when the lattice's crystalline configuration has been disrupted by intense heat.",
+    "B": "Examination of hafnium oxide's molecular structure shows that hafnium oxide inclusions retain their shape even as temperature rises.",
+    "C": "A positive correlation is found between concentrations of hafnium oxide and the rate at which silicate lattices expand as temperature increases.",
+    "D": "Analysis of silicate lattices under intense heat reveals that oxygen bridge bonds are more stable when hafnium oxide is present than when it is not."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents a finding that, if true, would support the researchers' hypothesis that hafnium oxide reduces the thermal expansion of silicate lattices. The text explains that intense heat in the lower mantle weakens the oxygen bridge bonds between silicon atoms, causing the crystalline lattice to expand and permitting external ions to migrate through and disrupt its structure. Ultradeep silicates, however, remain rigid, and Murphy and Anderson observed a positive correlation between the depth at which these minerals occur and their concentrations of hafnium oxide. Because the hypothesis links hafnium oxide with reduced thermal expansion of the lattice, a finding that hafnium oxide helps maintain the oxygen bridge bonds that hold the lattice together under heat would directly support that hypothesis.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the text discusses how silicate lattices, not hafnium oxide inclusions, expand under intense heat, and it never addresses how hafnium oxide itself might be affected by temperature.",
+  "source": "https://cooksat.com/practice?questionId=63fbca12&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

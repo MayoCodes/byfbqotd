@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "4a32c11c",
+  "capturedAt": "2026-11-08T00:30:53.010Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nA student in an ecology course is examining the decline since 1980 in amphibian population density in wetland habitats across various regions due to both habitat loss and the spread of chytrid fungal disease. Drawing on data compiled by Youssef Dlamini and Camille Renault, the student's first task is to determine how the decline in the Cascade Foothills compares to that in other regions. The student finds that ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "though the percent decrease in density in the Cascade Foothills was greater than that in the Highland Bogs and Coastal Fens, it was less than that in the Lakeshore Marshes.",
+    "B": "though the percent decrease in density in the Cascade Foothills was less than that in the Highland Bogs, it was greater than that in the Lakeshore Marshes and Coastal Fens.",
+    "C": "the decline in number of individuals per hectare was greater in the Cascade Foothills than it was in the Highland Bogs, Lakeshore Marshes, or Coastal Fens.",
+    "D": "while the density of amphibians rose in the Cascade Foothills from 1980 to 2020, it declined in the Highland Bogs, Lakeshore Marshes, and Coastal Fens."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the text's discussion of how the decline in amphibian density in the Cascade Foothills compares to that in other regions. According to the table, the percent change in density from 1980 to 2020 was -24% in the Cascade Foothills, -44% in the Highland Bogs, -21% in the Lakeshore Marshes, and -7% in the Coastal Fens. Because -24% is a smaller decrease than -44% but a larger decrease than both -21% and -7%, the Cascade Foothills' percent decrease was indeed less than that in the Highland Bogs but greater than that in the Lakeshore Marshes and Coastal Fens.",
+  "source": "https://cooksat.com/practice?questionId=4a32c11c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/4a32c11c/1-8b2a5c311066ca6e.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "65c484cc",
+  "capturedAt": "2026-11-08T00:32:50.066Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\n\"Micro-enterprises\" are small businesses that employ fewer than 20 workers (meaning that their workforce does not reach 20 employees) and generate annual revenue of less than $500,000 (meaning that their yearly earnings fall below half a million dollars), while \"small enterprises\" are businesses that meet the same employee criterion but generate annual revenue of $500,000 or more. In 2023, economists Sanjay Hayashi and Maryam Toure surveyed five newly registered businesses in a regional development zone and asserted that four are micro-enterprises and one is a small enterprise.",
+  "prompt": "Which choice best describes data from the table that support Hayashi and Toure's assertion?",
+  "choices": {
+    "A": "None of the businesses generate annual revenue of $500,000 or more, and BZ-417 has 19 employees.",
+    "B": "BZ-417 has founding capital of $742,000, and the employee counts of all the businesses range from 6 to 19.",
+    "C": "All the businesses have founding capital between $28,000 and $120,000, and only BZ-623 generates annual revenue of $500,000 or more.",
+    "D": "Each of the businesses employs fewer than 20 workers, and all except for BZ-417 generate annual revenue of less than $500,000."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accurately describes data from the table that support Hayashi and Toure's assertion about the classifications of the five newly registered businesses. The text describes two categories: micro-enterprises, which have fewer than 20 employees and annual revenue below $500,000, and small enterprises, which meet the same employee criterion but have annual revenue of $500,000 or more. According to the table, four of the businesses (BZ-204, BZ-311, BZ-508, and BZ-623) have fewer than 20 employees and annual revenue below $500,000, while one business (BZ-417) has fewer than 20 employees and annual revenue of $742,000. These data therefore support Hayashi and Toure's assertion that four of the surveyed businesses are micro-enterprises and one is a small enterprise.\n\nWhy C is incorrect:\n\nChoice C is incorrect. According to the table, BZ-623 has annual revenue of only $410,000, not $500,000 or more. Additionally, although the table does show that all the businesses have founding capital between $28,000 and $120,000, the text indicates that a business may be classified as a micro-enterprise or a small enterprise based on its employee count and annual revenue, not on its founding capital, making the information about the range of founding capital values irrelevant.",
+  "source": "https://cooksat.com/practice?questionId=65c484cc&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/65c484cc/1-6117b783fec1412b.png"
+    }
+  ]
+}

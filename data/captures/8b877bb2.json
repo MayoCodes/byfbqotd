@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8b877bb2",
+  "capturedAt": "2026-11-08T03:52:01.515Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The widespread implementation of advanced diagnostic imaging systems in hospitals during the early 21st century significantly improved patient outcomes, but those improvements have been most pronounced in the treatment and recovery phases, which occur after the initial consultation, examination, and diagnosis are complete. This suggests that in the early 21st century, ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "diagnostic imaging made it easier than it had been previously for doctors to detect rare conditions and provide accurate prognoses.",
+    "B": "patients generally expected healthcare costs to decline relative to the cost of other professional services.",
+    "C": "hospitals expanded their medical specialties by offering more diverse treatments but also reduced the number of beds available.",
+    "D": "patient outcomes during consultation, examination, and diagnosis were less improved by imaging systems than were outcomes during treatment and recovery."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents the conclusion that most logically follows from the text's discussion of how diagnostic imaging systems affected patient outcomes. The text explains that in the early 21st century these systems improved outcomes most significantly during treatment and recovery phases. The text goes on to point out that consultation, examination, and diagnosis are distinct phases in the process that occur before treatment and recovery. Because the improvements connected to imaging systems have been most pronounced in treatment and recovery, it's reasonable to infer that those systems had less of an effect on consultation, examination, and diagnosis outcomes.\n\nWhy B is incorrect:\n\nChoice B is incorrect. Although it's logical to conclude that patients would expect costs to decline if medical technology has improved outcomes, the text doesn't address patient expectations for healthcare costs or any other service costs.",
+  "source": "https://cooksat.com/practice?questionId=8b877bb2&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

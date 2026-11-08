@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "9b902d0c",
+  "capturedAt": "2026-11-08T00:36:13.694Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nPercentages of Annual Migration Count Participants Who Seek Particular Bird Categories\nA survey by ornithologist Margot Barrett, conducted during the 2023 fall migration, found that about one in four amateur birdwatchers in the region participate in at least one organized migration count, while roughly half of those who participate target more than one category of bird. The survey asked participants which categories of birds they actively sought out and sorted the answers into several groups. The table presents percentages of birdwatchers who seek particular bird categories among those who participate in counts, indexed by years of birdwatching experience.",
+  "prompt": "Which choice best presents a conclusion about the habits of migration count participants that is best supported by information in the text and the table?",
+  "choices": {
+    "A": "The majority of amateur birdwatchers who seek out songbirds during migration counts also seek birds in multiple additional categories.",
+    "B": "Among all amateur birdwatchers in the region, people become less likely to participate in migration counts as their years of birdwatching experience increase, regardless of the bird category.",
+    "C": "Migration count participants with 0-5 years of experience are more likely to seek songbirds than migration count participants with 6-10 years of experience are.",
+    "D": "Migration count participants with 11-20 years of experience are more likely to seek raptors and less likely to seek shorebirds than migration count participants with 6-10 years of experience are."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The table shows that among migration count participants, 59% of those with 11-20 years of experience seek raptors, compared with 54% of those with 6-10 years of experience, so the 11-20 group is more likely to seek raptors. The table also shows that 55% of participants in the 11-20 group seek shorebirds, compared with 62% of participants in the 6-10 group, so the 11-20 group is less likely to seek shorebirds. Both parts of the claim are therefore supported by data in the table.",
+  "source": "https://cooksat.com/practice?questionId=9b902d0c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/9b902d0c/1-9c6d0eb515ca4033.png"
+    }
+  ]
+}

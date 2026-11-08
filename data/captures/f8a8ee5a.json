@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "f8a8ee5a",
+  "capturedAt": "2026-11-08T00:43:02.183Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nStudying tools unearthed at a highland rock shelter in the central Andes, geoarchaeologist Santiago Vasquez and colleague Nina Johansson have determined that prehistoric toolmakers fashioned cutting implements from two sources: obsidian collected from a distant volcanic outcrop and basalt gathered from a nearby riverbed. Obsidian fractures into exceptionally sharp edges and retains those edges through heavy use, while riverbed basalt is duller and chips easily, so the research team suspects that the toolmakers prized implements made from obsidian. However, the team also concluded that those implements were likely more challenging to obtain, noting that ______",
+  "prompt": "Which choice most effectively uses data from the table to support the research team's conclusion?",
+  "choices": {
+    "A": "at each depth below the surface in the shelter, the difference in the numbers of implements of each type suggests that basalt was easier to gather from the riverbed than obsidian was to collect from the volcanic outcrop.",
+    "B": "the highest number of implements were at a depth of 1.5–2 meters below the surface, which suggests that the toolmaking population at the site was largest during the related period of time.",
+    "C": "at each depth below the surface in the shelter, the difference in the numbers of implements of each type suggests that the toolmakers preferred implements made from riverbed basalt because of their durability.",
+    "D": "the higher number of implements at depths of 2.5–3 meters below the surface in the shelter than at depths of 2–2.5 meters below the surface suggests that the availability of raw stone changed over time."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to support the researchers' conclusion that obsidian implements were more challenging to obtain than basalt ones. The text explains that obsidian was the preferred material because it was sharper and more durable than riverbed basalt. The table shows that at every depth stratum, the number of basalt implements exceeds the number of obsidian implements — often by a wide margin. The fact that the more desirable material is consistently rarer in the archaeological record supports the inference that it was significantly more difficult to collect obsidian from the distant volcanic outcrop than to gather basalt from the nearby riverbed.",
+  "source": "https://cooksat.com/practice?questionId=f8a8ee5a&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/f8a8ee5a/1-f882e1307516a536.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "e5f425e2",
+  "capturedAt": "2026-11-08T00:41:42.350Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nManufacturing employment in small European economies with populations under 10 million, such as Portugal, has historically supported a significant share of national output. A study comparing employment data from 2005 and 2020 found that, in general, the number of manufacturing workers in such economies has been declining. However, economist Aissatou Al-Rashid claimed that some small European economies have instead experienced an increase in manufacturing employment over this period, citing as an example ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the economist's example?",
+  "choices": {
+    "A": "both Latvia and Estonia, which had more manufacturing workers in 2020 than they did in 2005.",
+    "B": "Slovenia, which had more manufacturing workers in 2020 than it did in 2005.",
+    "C": "both Slovenia and Estonia, which had fewer than 200 thousand manufacturing workers in 2005.",
+    "D": "both Slovenia and Estonia, which had more than 95 thousand manufacturing workers in 2020."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The economist's example requires a small European economy that experienced an INCREASE in manufacturing employment between 2005 and 2020. The graph shows that Slovenia had approximately 95 thousand manufacturing workers in 2005 and approximately 110 thousand in 2020, which represents an increase and thus supports the economist's claim that some small European economies bucked the general declining trend.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The graph shows that Estonia had approximately 190 thousand manufacturing workers in 2005 and approximately 155 thousand in 2020, representing a decrease rather than an increase. Latvia had approximately 90 thousand workers in both years, representing no change. Neither country demonstrates the increase that the economist's example requires.",
+  "source": "https://cooksat.com/practice?questionId=e5f425e2&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e5f425e2/1-2cf155da6a71c561.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "109e50bf",
+  "capturedAt": "2026-11-08T00:26:21.000Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Released in 2014 by a group of engineering students at the Georgia Institute of Technology, SkyPing is an open-source mobile app that helped expand public access to hyperlocal weather data by allowing users to share readings from low-cost backyard sensors. The app had impressive uptake for a student-built tool: roughly 12,000 downloads were recorded in its first year. A student writing a paper on civic technology, however, hypothesizes that SkyPing's influence cannot be measured by its first-year download count alone.",
+  "prompt": "Which finding, if true, would most directly support the student's hypothesis?",
+  "choices": {
+    "A": "The engineering students who initially developed SkyPing each contributed coding hours to its creation.",
+    "B": "In addition to displaying current conditions, SkyPing also offered short tutorials on meteorology.",
+    "C": "SkyPing was initially hosted on servers maintained by the Georgia Tech Research Institute.",
+    "D": "Households that downloaded SkyPing often installed the app on multiple family members' phones from a single download record."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. If a single download record corresponded to multiple users within a household, then SkyPing's actual user base would be considerably larger than its 12,000 first-year downloads suggest, directly supporting the hypothesis that download counts alone understate the app's influence.",
+  "source": "https://cooksat.com/practice?questionId=109e50bf&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

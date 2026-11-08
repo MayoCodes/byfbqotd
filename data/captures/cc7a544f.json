@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "cc7a544f",
+  "capturedAt": "2026-11-08T03:54:46.344Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Marine biologists have been debating the origin of a distinctive type of coral found in Caribbean reef formations from the 1600s since its presence was discovered in underwater surveys in the 1990s. Different researchers have proposed theories on which ocean regions would have had the environmental conditions suitable for the specific coral in these formations, but no conclusive evidence has been presented. What is intriguing is that reef formations from the Caribbean dated after the 1600s do not contain this type of coral, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "Caribbean reef formations from the 1600s are rare and therefore more scientifically significant than those from other time periods.",
+    "B": "coral was present for a short time in the 1600s before different marine organisms dominated Caribbean reefs.",
+    "C": "techniques used to study reef formations are not effective on samples that are dated after the 1600s.",
+    "D": "the environmental conditions that supported this type of coral existed only until the end of the 1600s."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The passage tells us that Caribbean reef formations from the 1600s contained \"a distinctive type of coral,\" but that reef formations after this time did not contain that coral. Although we don't know where that specific type of coral originated, we can conclude that the conditions supporting it were not present after the end of the 1600s—otherwise, post-1600s formations would also contain that distinctive coral.\n\nWhy B is incorrect:\n\nChoice B is incorrect. Although the passage mentions that the nature of coral in Caribbean formations changed after the 1600s, coral was still present in reefs after this time. The passage in fact explicitly states \"reef formations from the Caribbean dated after the 1600s...,\" indicating that coral was still present in Caribbean reefs after the 1600s.",
+  "source": "https://cooksat.com/practice?questionId=cc7a544f&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

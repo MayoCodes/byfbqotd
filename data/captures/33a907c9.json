@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "33a907c9",
+  "capturedAt": "2026-11-08T00:29:18.848Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nGig-economy platforms have become significant sources of flexible income for many U.S. workers. Historically, independent contract work dominated this sector, but ride-share driving has proven better suited to recent shifts in consumer demand, scaling more quickly and attracting workers faster than traditional freelance categories. Although the rise of ride-share work has been associated with a substantial increase in the total gig workforce, economists Catalina Mendoza and Nathan Ingram caution that the latter change does not necessarily make the gig labor market as a whole more resilient to economic shocks.",
+  "prompt": "Which statement, if true, would account for data shown in the graph and would illustrate the point made by the researchers?",
+  "choices": {
+    "A": "In early 2022, a sharp economic downturn reduced consumer discretionary spending across the country, cutting demand for many gig-economy services at the same time.",
+    "B": "In early 2021, a regulatory change that applied to ride-share and delivery work but not to other gig categories was enacted in several states.",
+    "C": "Between 2015 and 2021, the total number of ride-share workers and the total gig workforce both increased as consumer demand for on-demand services grew.",
+    "D": "Consumer demand shifted gradually from 2015 to 2021, but in early 2022 demand dropped to levels that could be absorbed by few gig categories other than ride-share."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The researchers caution that the substantial increase in the total gig workforce — driven largely by growth in ride-share — does not necessarily make the gig labor market more resilient to economic shocks. The graph shows that ride-share, delivery, and total gig workers all grew steadily from 2015 through 2021, with the total reaching roughly 4,250 thousand workers in 2021. In 2022, however, all three categories declined sharply: ride-share fell to about 550 thousand, delivery to about 900 thousand, and the total to about 2,700 thousand. A 2022 economic downturn that reduced consumer discretionary spending across the country would account for this simultaneous decline across every gig category and would illustrate the researchers' point that overall workforce growth did not insulate the market from an economy-wide shock.\n\nWhy C is incorrect:\n\nChoice C is incorrect because, although it accurately describes part of the data — that ride-share workers and the total gig workforce increased from 2015 to 2021 — it does not account for the sharp decline in 2022 or illustrate the researchers' point about resilience to economic shocks. The researchers' caution concerns vulnerability to disturbances, which is illustrated by the 2022 decline, not by the earlier growth trend.",
+  "source": "https://cooksat.com/practice?questionId=33a907c9&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/33a907c9/1-0edcaaef03fa69f6.png"
+    }
+  ]
+}

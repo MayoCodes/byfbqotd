@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "72567b99",
+  "capturedAt": "2026-11-08T00:33:39.780Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nResidential landowners and other private property holders must file a standard Habitat Report annually with the regional wildlife agency, but commercial timber operators, such as those surveyed by Padma Banerjee, must file a different form, Habitat Report-T. In addition, properties harboring invasive species must also file a Control Action Report and pay a remediation fee for the affected acreage. Such properties are prohibited from allowing the following: excessive population density of invasive organisms within a single plot, \"unauthorized relocation\" (moving invasive specimens between plots), prohibited plantings such as ornamentals of banned cultivars, and failing to contain the spread of invasive growth beyond property lines. Out of the properties that filed Habitat Report-T in the years 2003–2005, ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "more of those that filed a Control Action Report failed to contain the spread of invasive growth than did those properties that filed a Habitat Report but filed a Control Action Report for the same reason.",
+    "B": "those that filed a Control Action Report were less likely to do so because they failed to contain the spread of invasive growth than for other reasons.",
+    "C": "those that filed a Control Action Report because of excessive population density on a single plot paid, on average, a significantly smaller remediation fee than those properties that filed a Control Action Report because of prohibited plantings.",
+    "D": "the percentage of those that filed a Control Action Report because of excessive population density on a single plot was smaller than the percentage of those that did so because they failed to contain the spread of invasive growth."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The passage explains that properties must file a Control Action Report for specific prohibited conditions, including excessive population density of invasive organisms on a single plot and failing to contain the spread of invasive growth beyond property lines. The graph shows that across 2003–2005, Control Action Reports filed for excessive density stayed at about 1% each year, while those filed because properties failed to contain uncontained spread accounted for approximately 90%, 90%, and 88%. The percentage filed for excessive density was therefore clearly smaller than the percentage filed for uncontained spread.",
+  "source": "https://cooksat.com/practice?questionId=72567b99&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/72567b99/1-3162f4b3964b2f88.png"
+    }
+  ]
+}

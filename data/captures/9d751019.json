@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9d751019",
+  "capturedAt": "2026-11-08T00:36:24.560Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "To help reduce reliance on petroleum-based foam packaging, a team of researchers has engineered a biodegradable packaging material that decomposes fully within weeks of being discarded. The material, made primarily from mycelium and hemp hurds, forms a dense, protective structure as the fungal threads bind the plant fibers together during growth. Louis Kuznetsov, one of the researchers, says that the growth conditions can be tuned to produce panels of varying density and shape, making the material adaptable to many product categories. Salma Uwimana, a materials scientist, argues, however, that this packaging would be difficult to mass-produce.",
+  "prompt": "Which finding, if true, would most directly support Uwimana's claim?",
+  "choices": {
+    "A": "Foam packaging is among the most common forms of plastic waste found in coastal landfills worldwide.",
+    "B": "The packaging material developed by Kuznetsov and his team is lighter than conventional foam, which would make it inexpensive to transport to retailers.",
+    "C": "The structural strength of the material developed by Kuznetsov and his team varied depending on the humidity level during the team's trials.",
+    "D": "Growing mycelium into dense, uniform panels requires several weeks under tightly controlled temperature and humidity conditions that are difficult to maintain at industrial scale."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. Uwimana claims that the packaging would be difficult to mass-produce. If growing the mycelium panels requires weeks of tightly controlled temperature and humidity that cannot easily be maintained at industrial scale, that finding directly explains why scaling up production would be impractical, supporting Uwimana's claim.\n\nWhy A is incorrect:\n\nChoice A is incorrect. A finding that foam packaging is a common form of plastic waste addresses the environmental problem the new material is intended to solve, not the challenge of manufacturing the new material at scale. It does not speak to Uwimana's specific concern about mass production.",
+  "source": "https://cooksat.com/practice?questionId=9d751019&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "b76ba55f",
+  "capturedAt": "2026-11-08T00:37:49.073Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nSarah Kent, Christopher Ricci, and their colleagues surveyed three groups of people in Hartford, Connecticut—owners of small businesses, industry analysts (e.g., commercial real estate consultants and chamber of commerce researchers), and general consumers—to compare their views about the importance of 25 features that the team identified for a proposed neighborhood revitalization initiative. The researchers asked each group to rank the features, with a ranking of 1 indicating the feature that the group considers most important to the success of the initiative. Using only the rankings shown in the table, an economic development director in Hartford who is preparing outreach materials concludes that communications aimed at small business owners should emphasize the initiative's commitment to expanded parking infrastructure.",
+  "prompt": "Which choice best describes data in the table that support the economic development director's conclusion?",
+  "choices": {
+    "A": "Storefront facade grants were ranked higher for small business owners than was expanded parking infrastructure.",
+    "B": "Expanded parking infrastructure was ranked higher for small business owners than were the other four features.",
+    "C": "Expanded parking infrastructure was ranked higher for industry analysts than it was for small business owners.",
+    "D": "Outdoor seating and plazas were ranked lower for industry analysts than they were for general consumers."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it describes data from the table that support the economic development director's conclusion. The director concludes that communications aimed at small business owners should emphasize expanded parking infrastructure. This conclusion would make sense if small business owners rank expanded parking infrastructure more highly than other features shown. According to the table, small business owners rank expanded parking infrastructure at 2 (where 1 = highest), upgraded public transit access at 9, new streetlights and signage at 13, storefront facade grants at 5, and outdoor seating and plazas at 7. Since a lower number indicates a higher ranking, expanded parking infrastructure (2) is ranked higher for small business owners than all four other features in the table. This supports the director's decision to emphasize this particular feature in outreach to small business owners.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it inaccurately describes data from the table. Small business owners rank expanded parking infrastructure at 2 and storefront facade grants at 5. Because a ranking of 1 is the highest, 2 is a higher ranking than 5, so expanded parking infrastructure was ranked higher for small business owners than storefront facade grants were—not the other way around.",
+  "source": "https://cooksat.com/practice?questionId=b76ba55f&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b76ba55f/1-0e89e0dde968b020.png"
+    }
+  ]
+}

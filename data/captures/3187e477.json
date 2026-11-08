@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "3187e477",
+  "capturedAt": "2026-11-08T00:29:07.851Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nMarie Everett and colleagues found that supplemental feeding—the practice of providing extra food near nesting sites during the breeding season—was associated with an increased rate of fledgling survival in European blue tits. But some studies of other bird species have found the opposite effect, for example ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the assertion?",
+  "choices": {
+    "A": "Natalia Rivera and colleagues reported an even larger positive effect of no supplemental feeding on the fledgling survival of great tits.",
+    "B": "Kenji Watanabe and colleagues found a similar association in a study using house sparrows.",
+    "C": "fledgling survival rates with supplemental feeding have ranged from 41% for great tits to 72% for European blue tits.",
+    "D": "a study using European blue tits yielded 72% fledgling survival with supplemental feeding and only 58% without supplemental feeding."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the text's discussion of studies that found the opposite effect of supplemental feeding on fledgling survival. The text states that Marie Everett and colleagues found that supplemental feeding was associated with increased fledgling survival in European blue tits, and the table confirms this (72% with feeding versus 58% without). The text then indicates that some studies of other bird species found the opposite effect—that is, that no supplemental feeding produced higher survival than supplemental feeding. The table shows that Natalia Rivera and colleagues' study of great tits found precisely this opposite effect: survival with no supplemental feeding (77%) was much higher than survival with supplemental feeding (41%). The phrase 'even larger positive effect' is appropriate because the advantage of no feeding in Rivera's great tit study is indeed substantial.",
+  "source": "https://cooksat.com/practice?questionId=3187e477&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/3187e477/1-90ecce4f648ea1b7.png"
+    }
+  ]
+}

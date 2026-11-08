@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "4b38510c",
+  "capturedAt": "2026-11-08T00:31:00.649Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nA study by Farhan Santoso and Sibusiso Okafor of commercial shipping lanes that carried the greatest volume of freight in 2020 and 2021 shows that, in general, domestic lanes (lanes within a single country) carried far more cargo than international lanes. However, a few international lanes were so heavily used that they handled more freight than some of the most active domestic lanes, as can be seen when comparing the ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the example?",
+  "choices": {
+    "A": "lane length between Houston and New Orleans with the lane length between Singapore and Tokyo.",
+    "B": "amount of cargo carried between Shanghai and Guangzhou in 2020 with the amount carried between Singapore and Tokyo during that same year.",
+    "C": "amount of cargo carried between Singapore and Tokyo in 2020 with the amount carried along that same lane in 2021.",
+    "D": "amount of cargo carried between Rotterdam and New York in 2021 with the amount carried between Shanghai and Guangzhou during that same year."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The passage states that although domestic lanes generally carried more cargo than international lanes, a few international lanes carried more freight than some of the most active domestic lanes. According to the table, the Rotterdam-New York lane (an international lane) handled 182.4 million metric tons of cargo in 2021, while the Shanghai-Guangzhou lane (a domestic lane) handled 154.7 million metric tons during that same year. This comparison illustrates an international lane carrying more cargo than a domestic lane.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it compares the same lane (Singapore-Tokyo) across two different years rather than comparing an international lane with a domestic lane. The passage requires a comparison that demonstrates an international lane carrying more cargo than a domestic lane.",
+  "source": "https://cooksat.com/practice?questionId=4b38510c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/4b38510c/1-f4f886165e45e98b.png"
+    }
+  ]
+}

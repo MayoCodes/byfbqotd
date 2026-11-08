@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "969ef2a0",
+  "capturedAt": "2026-11-08T00:35:52.102Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nProperty tax revenue is a funding source that primarily supports infrastructure maintenance and emergency services in municipal budgets; these are essential functions in any operating city, including mid-sized municipalities. Sustaining these functions typically requires property tax revenue to constitute a substantial share of total revenue, evidenced by a dedicated capital improvement line in the budget. The table shows the average share of revenue derived from property taxes and the standard deviations (indicating how dispersed the shares are across individual fiscal years) for three mid-sized cities, as calculated by Leandro Delgado and Hao Banerjee. Based on the data, the researchers concluded that for some mid-sized cities, infrastructure maintenance and emergency services may be sustained with negligible reliance on property tax revenue.",
+  "prompt": "Which choice most effectively uses data from the table to support Delgado and Banerjee's conclusion?",
+  "choices": {
+    "A": "On average, Riverton had a higher share of revenue from property taxes than Kellridge and Monteview had.",
+    "B": "Less variation in property tax share was observed across Monteview's fiscal years than across Riverton's and Kellridge's fiscal years.",
+    "C": "Monteview had a very low share of revenue derived from property taxes.",
+    "D": "Greater average property tax share in a certain city was associated with greater variance in property tax share across that city's fiscal years."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The passage states that Delgado and Banerjee concluded that some mid-sized cities may sustain infrastructure maintenance and emergency services with negligible reliance on property tax revenue. It also notes that sustaining these functions typically requires a substantial share of revenue from property taxes, evidenced by a dedicated capital improvement line in the budget. The table shows that Monteview lacks such a line and derives only 0.03 of its revenue from property taxes — far less than the shares of 0.34 and 0.19 found in the other two cities. Despite deriving almost none of its revenue from property taxes, Monteview continues to operate as a functioning mid-sized city, which directly supports the researchers' conclusion that some mid-sized cities can sustain essential services with negligible reliance on property tax revenue.\n\nWhy D is incorrect:\n\nChoice D is incorrect. It describes a correlation between average property tax share and variance across the three cities, but it does not address the researchers' conclusion about whether any city can sustain services with negligible reliance on property taxes. Observing that the city with the highest average also has the highest variance does not demonstrate that any city operates with minimal property tax revenue.",
+  "source": "https://cooksat.com/practice?questionId=969ef2a0&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/969ef2a0/1-2e0b2da76f88ac34.png"
+    }
+  ]
+}

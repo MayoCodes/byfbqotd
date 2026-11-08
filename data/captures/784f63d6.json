@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "784f63d6",
+  "capturedAt": "2026-11-08T00:34:04.885Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nDong-Hyun Vo, Edmund Murphy, and colleagues gathered data on small-business tax incentive programs offered in three mid-sized cities. They examined reports from Riverton, Oakdale, and Millbrook on the number of active programs in each city as well as the number of business applications submitted and the number of applications subsequently approved. The researchers concluded that Riverton processed a greater number of approved applications than either of the other cities did.",
+  "prompt": "Which choice best describes data from the table that support Vo, Murphy, and colleagues' conclusion?",
+  "choices": {
+    "A": "Oakdale reported 22 applications submitted but only 15 applications approved.",
+    "B": "Riverton reported 205 approved applications, whereas Millbrook reported 88 applications submitted.",
+    "C": "Riverton reported 205 approved applications, which is more than either Oakdale or Millbrook reported.",
+    "D": "Oakdale and Millbrook reported 22 and 88 approved applications, respectively, which is far fewer than Riverton reported."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The researchers concluded that Riverton processed a greater number of approved applications than either Oakdale or Millbrook. This choice accurately describes data that support that conclusion: the table shows Riverton reported 205 approved applications, while Oakdale reported 15 and Millbrook reported 62—both fewer than Riverton's count.",
+  "source": "https://cooksat.com/practice?questionId=784f63d6&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/784f63d6/1-4b55be5032f8ee9d.png"
+    }
+  ]
+}

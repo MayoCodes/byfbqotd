@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "b8e1d315",
+  "capturedAt": "2026-11-08T00:38:03.408Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nTo investigate the effect of a newly imposed tariff on imports of processed steel, Nattaya Shin, a student in an economics class, tracked monthly import volumes of processed steel from two trading partners over a six-month period: Country X, whose exports were subject to the new tariff, and Country Y, whose exports were not. Shin concluded that the decline in steel imports from Country X by month 6 was entirely attributable to the newly imposed tariff.",
+  "prompt": "Which choice best describes data from the graph that weaken Shin's conclusion?",
+  "choices": {
+    "A": "The import volume was approximately the same from both countries in month 1.",
+    "B": "The import volume from Country Y also substantially declined by month 6.",
+    "C": "The largest decline in import volume from Country X occurred between month 1 and month 2.",
+    "D": "The import volume in month 6 was lower from Country X than from Country Y."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it describes data from the graph that weaken Shin's conclusion about the decline in steel imports from Country X. The graph shows that both countries began month 1 with roughly similar import volumes (around 85-86 thousand tons) and that both saw their import volumes fall over the six-month period. Shin's claim is that the decline in imports from Country X is 'entirely attributable to the newly imposed tariff,' meaning imports would not have fallen without the tariff. This claim is weakened by the fact that imports from Country Y, which faced no new tariff, also declined substantially by month 6 (from about 86 to about 45 thousand tons). Since imports fell from the non-tariffed country as well, some factor other than the tariff must have contributed to the reduction.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the fact that imports from Country X fell more sharply between months 1 and 2 than in later intervals concerns only the timing of the decline within that country. It has no bearing on Shin's claim that the reduction by month 6 can be entirely attributed to the tariff.",
+  "source": "https://cooksat.com/practice?questionId=b8e1d315&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b8e1d315/1-a360667bb5bb00af.png"
+    }
+  ]
+}

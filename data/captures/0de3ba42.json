@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "0de3ba42",
+  "capturedAt": "2026-11-08T00:26:17.852Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nWhile short-distance migratory birds tracked by researchers using GPS devices typically generate data through standard monitoring protocols, long-distance migrants such as Arctic terns equipped with satellite transmitters often experience tracking failures that must be categorized and analyzed. Migration ecologists Wanjiku Al-Rashid and Nattaya Ito have identified four primary failure categories: devices may lose signal due to navigation errors (inability to maintain satellite lock during flight), experience battery depletion before migration completion, encounter signal interference from atmospheric conditions, or suffer sensor malfunction. Out of the long-distance migrants tracked during the 2018–2020 monitoring seasons, ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "a smaller percentage of devices that experienced tracking failures did so because of sensor malfunction than the percentage that failed due to navigation errors.",
+    "B": "devices that failed due to battery depletion experienced longer interruptions in data transmission than those devices monitored in the previous study that failed for the same reason.",
+    "C": "devices that failed because of signal interference experienced, on average, a higher failure rate than those devices that failed because of sensor malfunction.",
+    "D": "devices that experienced tracking failures collectively failed more often due to navigation errors than due to other causes."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the graph to complete the assertion about long-distance migrants tracked during 2018–2020. According to the text, migration ecologists categorize tracking failures into four types, and the graph shows the percentage of total failures attributed to each cause across three monitoring seasons. In each year, navigation error accounted for the largest share of total failures: approximately 68% in 2018, 71% in 2019, and 62% in 2020. Since navigation error consistently represented a majority or near-majority of total failures across all three years—and in each year exceeded the combined percentages of the other three categories—the data support the claim that devices collectively failed more often due to navigation errors than due to other causes.\n\nWhy A is incorrect:\n\nChoice A is incorrect. While the graph does show that in each year a smaller percentage of total failures was attributed to sensor malfunction than to navigation errors (approximately 5% vs. 68% in 2018, 3% vs. 71% in 2019, and 5% vs. 62% in 2020), this choice doesn't effectively complete the text's assertion. The text is building toward a claim about the collective magnitude of navigation error failures across all tracked birds, not merely a comparison between two specific categories. Choice D more directly captures the dominance of navigation error suggested by the data.",
+  "source": "https://cooksat.com/practice?questionId=0de3ba42&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0de3ba42/1-09644891e51822d6.png"
+    }
+  ]
+}

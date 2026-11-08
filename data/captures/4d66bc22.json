@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "4d66bc22",
+  "capturedAt": "2026-11-08T00:31:08.018Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nThe depth of root penetration by winter wheat declined significantly around 9 years ago in the Highland Plateau region and around 11 years ago in the Coastal Plain region. Using the ratio of bulk density to organic matter, which directly correlates with soil compaction levels, soil scientist Hassan Nwosu and colleagues evaluated whether compaction played a role in the declines of root penetration. The researchers concluded that compaction may have been important in the Highland Plateau but not in the Coastal Plain, since ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+  "choices": {
+    "A": "a substantial decrease in compaction in the Highland Plateau corresponded with the local decline in root penetration, but the opposite relationship between compaction and root penetration was found in the Coastal Plain.",
+    "B": "root penetration declined in the Highland Plateau during a period of substantial local increase in compaction, but root penetration declined in the Coastal Plain during a period of little local change in compaction.",
+    "C": "compaction in the Highland Plateau was lower before the decline in root penetration than after the decline, whereas compaction in the Coastal Plain was relatively high both before and after the decline in root penetration.",
+    "D": "compaction in the Highland Plateau tended to be substantially higher than compaction in the Coastal Plain during the period studied."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it effectively uses data from the graph to complete the statement about Hassan Nwosu and colleagues' conclusion. The graph shows the ratio of bulk density to organic matter in soil samples from the Highland Plateau and the Coastal Plain. The text indicates that the researchers tested the samples to determine whether compaction played a role in the decline of root penetration. The text notes that a change in the ratio of bulk density to organic matter would signal a direct, or corresponding, change in compaction. According to the graph, the ratio of bulk density to organic matter in samples from the Highland Plateau increased from about 0.9 grams per cubic centimeter per percent 10 years ago to about 2.0 at 8 years ago, which means that compaction increased between 10 and 8 years ago. Meanwhile, there was almost no discernible change in the ratio of bulk density to organic matter in samples from the Coastal Plain between 12 and 10 years ago. According to the text, root penetration declined significantly around 9 years ago in the Highland Plateau and around 11 years ago in the Coastal Plain. Thus, the increase in the ratio of bulk density to organic matter around 9 years ago in the Highland Plateau coincides with the decline in root penetration, suggesting an association between the increase in compaction and the decline in root penetration. No such relationship is suggested around 11 years ago in the Coastal Plain. So, compaction likely played a role in the root penetration decline in the Highland Plateau but not in the Coastal Plain.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it asserts the opposite of what the graph indicates regarding compaction in the Highland Plateau, and it misrepresents what the graph indicates about compaction in the Coastal Plain. The graph indicates that at the time of the decline in root penetration (approximately 9 years ago), the samples from the Highland Plateau contained a ratio of bulk density to organic matter that was increasing. According to the text, this ratio directly correlates with soil compaction levels, so if the ratio was increasing, compaction was increasing, not substantially decreasing. Furthermore, the graph shows that the ratio of bulk density to organic matter remained relatively stable in soil samples from the Coastal Plain during the period studied, which suggests that there was no discernible relationship between compaction and the decline in root penetration in that location, not that there was a substantial increase in compaction corresponding to the decline.",
+  "source": "https://cooksat.com/practice?questionId=4d66bc22&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4d66bc22/1-248480166d995215.png"
+    }
+  ]
+}

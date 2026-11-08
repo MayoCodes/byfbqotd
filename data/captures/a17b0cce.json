@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a17b0cce",
+  "capturedAt": "2026-11-08T03:53:07.829Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Researchers studying ancient lake systems initially believed the formation of sediment layers was relatively straightforward. Early evidence suggested these layers consisted primarily of fine clay particles, presumably deposited through gradual settling as seasonal floods brought sediment into calm lake waters. However, a recent study by Dr. Elena Kovač examined additional data—detailed core samples and chemical analysis of mineral content—that revealed unexpectedly high levels of coarse sand and gravel in certain sediment layers. Since sediment layers formed through gradual settling in calm water environments would be unlikely to contain large amounts of coarse material, Kovač concluded that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "these sediment layers likely formed as a result of other significant geological processes in addition to gradual settling during seasonal floods.",
+    "B": "the information about coarse materials gathered from core samples is likely more reliable than the mineral data obtained through chemical analysis.",
+    "C": "high concentrations of coarse sediments in ancient lakes likely formed through different processes than those which created sediment layers in modern lakes.",
+    "D": "developing a more complete understanding of ancient sediment formation will provide greater insight into how ocean floor sediments are created."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. Gradual settling would create fine clay layers, but \"sediment layers formed through gradual settling in calm water environments would be unlikely to contain large amounts of coarse material.\" Since these layers do contain large amounts of coarse sand and gravel, it is unlikely that they were formed exclusively by gradual settling. Therefore, there were likely other significant geological processes that created the coarse sediment deposits.\n\nWhy B is incorrect:\n\nChoice B is incorrect. Although the passage discusses these two methods of analyzing sediment composition, it never compares their reliability, so there's no basis for this inference.",
+  "source": "https://cooksat.com/practice?questionId=a17b0cce&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

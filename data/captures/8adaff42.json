@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "8adaff42",
+  "capturedAt": "2026-11-08T00:35:12.986Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nIn a study of coastal wetland loss, Patricia Barrett, Arthur Dalton, and colleagues analyzed more than 200 estuarine sites worldwide to determine whether coastal wetland loss (CWL) was more strongly driven by sea-level rise or by reductions in upstream sediment supply caused by river damming. Because effective watershed management is necessary to restore sediment delivery through measures such as dam removal and channel restoration, Barrett and Dalton propose that absent other factors, the importance of sediment-supply reduction to CWL would likely decrease relative to the importance of sea-level rise as watershed management becomes more effective. If true, this suggests the possibility that ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+  "choices": {
+    "A": "watershed management in countries in Region 1 became less effective in the period from 2000 to 2014, relative to the period from 1970 to 2000.",
+    "B": "estuarine sites in Region 1 experienced a slower rate of sea-level rise in the period from 2000 to 2014 than sites in Region 2 did, despite more effective watershed management in Region 1.",
+    "C": "watershed management in most parts of Region 2 became more effective in the period from 2000 to 2014 than it had been in the period from 1970 to 2000, but in several parts of this region it did not.",
+    "D": "watershed management in countries in Region 1 and in Region 2 generally became more effective in the period from 2000 to 2014 than it had been in the period from 1970 to 2000, but at different rates."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the graph to complete the statement about Barrett and Dalton's proposal regarding factors that affect coastal wetland loss (CWL). According to the text, CWL is driven by sediment-supply reduction and by sea-level rise. Barrett and Dalton reason that as watershed management becomes more effective at restoring sediment delivery, the share of CWL attributable to sediment-supply reduction should decrease while the share attributable to sea-level rise should increase. The graph, however, shows that in Region 1 the percentage of CWL attributed to sediment-supply reduction rose from 63% in 1970–2000 to 74% in 2000–2014, while the percentage attributed to sea-level rise fell from 38% to 26% over the same span. Because this is the opposite of what would be expected if watershed management had improved, the data suggest that watershed management in Region 1 actually became less effective between the two periods.\n\nWhy C is incorrect:\n\nChoice C is incorrect. Neither the text nor the graph provides any information about subregional variation within Region 2; the data are reported only as regional totals for each time period, so no conclusion about 'most parts' versus 'several parts' of Region 2 can be drawn.",
+  "source": "https://cooksat.com/practice?questionId=8adaff42&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8adaff42/1-130cb935d0b52f4d.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "4053d451",
+  "capturedAt": "2026-11-08T00:30:13.206Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nWhile general importers in the country must submit a standard Form C-12 to the Customs Bureau for each shipment, licensed bonded carriers, such as TransOceanic Freight Ltd., must instead submit the more detailed Form C-22. In addition, bonded carriers found to have committed certain trade infractions must also file Supplemental Form P-9 and pay an enforcement penalty on the cargo involved. Bonded carriers are prohibited from misdeclaring the value of imported goods, transporting restricted commodities (such as protected wildlife products) without authorization, late filing of cargo manifests beyond the required deadline, and carrying undocumented cargo not listed on any submitted manifest. Out of the carriers that filed Form C-22 in the years 2018-2020, ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "those that filed Form P-9 in 2020 because they misdeclared the value of imported goods collectively paid a larger percentage of the total penalty assessed that year than those that filed Form C-12 but also filed Form P-9 for the same reason.",
+    "B": "those that filed Form P-9 because they carried undocumented cargo paid, on average, a larger penalty than those that filed Form P-9 because they misdeclared the value of imported goods.",
+    "C": "those that filed Form P-9 because they misdeclared the value of imported goods paid an increasing percentage of the total penalty each year from 2018 to 2020.",
+    "D": "those that filed Form P-9 in 2018 because they filed cargo manifests after the required deadline collectively paid a larger percentage of the total penalty assessed that year than those that filed Form P-9 in 2020 for the same reason."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the graph to complete the text's discussion of customs penalties on bonded carriers. The text explains that bonded carriers must file Form P-9 and pay penalties for certain infractions, including 'late filing of cargo manifests beyond the required deadline.' This corresponds to the 'late filing of manifests' category in the graph. According to the graph, in 2018 late filing of manifests accounted for 78% of the total penalty, while in 2020 it accounted for 56%. Therefore, carriers that filed Form P-9 in 2018 for filing manifests after the required deadline collectively paid a larger percentage of the total penalty assessed that year (78%) than those that filed in 2020 for the same reason (56%).\n\nWhy B is incorrect:\n\nChoice B is incorrect because it misreads the type of data displayed. The graph shows the percentage of the total penalty that each infraction accounts for in a given year, not the average penalty paid by individual carriers. Because the graph provides no information about average penalty amounts, it cannot support a claim about whether carriers penalized for undocumented cargo paid larger penalties on average than those penalized for misdeclared value.",
+  "source": "https://cooksat.com/practice?questionId=4053d451&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4053d451/1-0e39a19a818088c6.png"
+    }
+  ]
+}

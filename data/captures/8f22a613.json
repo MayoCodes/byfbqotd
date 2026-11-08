@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8f22a613",
+  "capturedAt": "2026-11-08T00:35:27.015Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "As of 2023, the United Kingdom has 14,700 megawatts of offshore wind capacity installed and 8,300 megawatts under construction; in China, 31,400 megawatts are installed with 16,800 megawatts under construction. In contrast, the United States has a relatively small amount of offshore wind for its coastline: only 42 megawatts installed and 3,200 megawatts under construction. Many US energy experts, including Charles Caldwell and Vera Ricci, argue that this should change, claiming that offshore wind is more cost-effective than natural gas peaker plants are.",
+  "prompt": "Which finding, if true, would most directly support the US energy experts' claim?",
+  "choices": {
+    "A": "In most coastal regions of the US, adding capacity through natural gas peaker plants is more expensive relative to the amount of electricity generated than adding capacity through offshore wind is.",
+    "B": "In much of the US, the existing coastal electrical grid is so outdated that it would have to be entirely rebuilt in order to connect new offshore wind farms.",
+    "C": "Building successful offshore wind infrastructure would require that the US government establish a program to maintain the turbines long-term.",
+    "D": "Unlike people in the United States, people in the United Kingdom and China are less interested in receiving power from natural gas than they are in receiving power from offshore wind."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it presents a finding that, if true, would support the US energy experts' claim that offshore wind is more cost-effective than natural gas peaker plants. The text explains that many US energy experts argue the US should increase its offshore wind capacity because offshore wind is more cost-effective than natural gas peaker plants are. Finding that in most US coastal regions, adding capacity through natural gas peaker plants is more expensive relative to the amount of electricity generated than adding capacity through offshore wind is would directly support this claim, since it would demonstrate that offshore wind provides more generation per dollar spent than natural gas peaker plants do.\n\nWhy C is incorrect:\n\nChoice C is incorrect because finding that building successful offshore wind infrastructure would require a government program for long-term turbine maintenance would not address the experts' claim about comparative cost-effectiveness. The need for maintenance funding doesn't indicate whether offshore wind is more or less cost-effective than natural gas peaker plants, which also require ongoing maintenance.",
+  "source": "https://cooksat.com/practice?questionId=8f22a613&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

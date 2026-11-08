@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "3f0c968d",
+  "capturedAt": "2026-11-08T00:30:09.380Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nOn high mountain peaks, such as Mount Elbrus in the Caucasus range, measurable snowpack often persists on the summit well into summer. How long snowpack remains depends on many factors, including local precipitation patterns, slope aspect, prevailing winds, and the peak's overall surface area, but glaciologist William Whitfield claims that the higher a peak's elevation, the more days per year it will typically retain measurable snowpack.",
+  "prompt": "Which choice best describes data in the table that support Whitfield's claim?",
+  "choices": {
+    "A": "Mount Logan is at a higher elevation than Lassen Peak and typically had fewer days of snowpack per year than Lassen Peak did.",
+    "B": "Mount Tallac had 102 days of snowpack in 1995 and 126 days of snowpack in 2020.",
+    "C": "Mount Logan had 177 days of snowpack in 1995 and 134 days of snowpack in 2020.",
+    "D": "Mount Logan is at a higher elevation than Lassen Peak and typically had more days of snowpack per year than Lassen Peak did."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. Whitfield's claim is that peaks at higher elevations typically retain measurable snowpack for more days per year. This data supports that claim by comparing a higher-elevation peak to a lower-elevation peak. Mount Logan is at 5,959 meters, while Lassen Peak is at 3,187 meters. Across all six years shown (1995 through 2020), Mount Logan consistently had more days of snowpack than Lassen Peak, with Mount Logan's values ranging from 133 to 177 days and Lassen Peak's values ranging from 94 to 124 days.\n\nWhy B is incorrect:\n\nChoice B is incorrect. Although this choice accurately describes data from the table, it doesn't support the claim. It provides information about a single peak across two years but makes no comparison between peaks at different elevations.",
+  "source": "https://cooksat.com/practice?questionId=3f0c968d&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/3f0c968d/1-cb60717b72a91ac5.png"
+    }
+  ]
+}

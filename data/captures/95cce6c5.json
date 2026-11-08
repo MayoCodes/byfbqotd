@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "95cce6c5",
+  "capturedAt": "2026-11-08T03:52:38.014Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Social Science/History",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "An analysis by Socorro Noriega and colleagues of steel alloys produced in Shanghai during the 1980s and 1990s reveals a change in their composition over time: while a sample from 1983 contains about 96% iron and 3% carbon, a sample from 1994 (near the end of factory manager Liu's tenure) contains 78.5% iron and 20.1% carbon, giving it a notably brittle quality that engineers would have detected. Because alloys with an iron content below 85% were widely considered unsuitable for construction, Noriega et al. speculate that a crisis in confidence in the materials occurred in Shanghai around 1994, which was likely resolved—despite the factory's persistent budget constraints—as a result of Liu's successor Zhang's decision to ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "keep the amount of iron in Shanghai alloys consistent with that in alloys produced in 1994 but decrease their overall mass.",
+    "B": "announce that the percentage of iron in alloys suitable for construction would be raised to a threshold higher than 85%.",
+    "C": "begin producing denser alloys with a proportion of iron to carbon similar to that in alloys produced in 1994.",
+    "D": "invest in new carbon extraction technology that was not available to Liu."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The text explains that iron content dropped from 96% (1983) to 78.5% (1994), well below the 85% threshold considered suitable for construction, causing a crisis in confidence. Given the factory's 'persistent budget constraints,' Zhang couldn't simply add more iron. However, by keeping the same amount of iron while decreasing the alloys' overall mass (reducing carbon content), the percentage of iron would increase back above 85%. Choice A describes exactly this solution: maintain the iron amount from 1994 but decrease overall mass, which would raise the iron percentage without requiring additional expensive iron.",
+  "source": "https://cooksat.com/practice?questionId=95cce6c5&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

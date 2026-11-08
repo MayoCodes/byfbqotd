@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ea71bc96",
+  "capturedAt": "2026-11-08T00:42:04.282Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Patrick Hoffman, Seung-Ho Santoso, and colleagues examined the emission and purpose of audible tones produced by autonomous delivery drones when encountering unexpected obstacles. They found that during controlled trials in pedestrian plazas, 41% of the drone models tested emitted tones, which ranged from short chirps in the Aevum-3 platform to sustained hums in the Corvus-L. Although some robotic systems use sound to exchange status cues with nearby units of the same model, the researchers claim that the drone tones recorded in their study are directed primarily at pedestrians.",
+  "prompt": "Which finding, if true, would most directly support Hoffman and colleagues' claim?",
+  "choices": {
+    "A": "Drone chirps were emitted at a volume audible to pedestrians standing nearby, but drone hums were not.",
+    "B": "Each drone model tended to produce one tone during obstacle trials, although individual units occasionally produced a variety of other tones during the trials as well.",
+    "C": "Pedestrians walking in crowded plazas have been observed to alter their paths in response to drone tones.",
+    "D": "In most cases, the tone that a drone model produced during obstacle trials was not produced by other drone models during obstacle trials."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents a finding that, if true, would most directly support the researchers' claim that the drone tones are directed primarily at pedestrians. The text notes that although some robotic systems use sound to communicate status cues with other units of the same model, Hoffman and colleagues argue that the tones recorded in their study are instead directed at pedestrians. If pedestrians have been observed to alter their paths in response to drone tones, this finding would directly demonstrate that the tones have a functional effect on pedestrian behavior, supporting the claim that pedestrians—rather than other drones—are the intended audience.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the consistency of tone production within a drone model during obstacle trials does not address whether those tones are directed at pedestrians or at other drones. This finding relates to the variability of tone production but provides no information about the intended audience or function of the tones.",
+  "source": "https://cooksat.com/practice?questionId=ea71bc96&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "b8922b14",
+  "capturedAt": "2026-11-08T00:37:59.673Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nA student, Salma Nwosu, is writing a research paper on the growth of national civic service organizations in the United States during the mid-twentieth century. The student is surprised by differences in the number of members reported by some organizations compared to those reported by others. Most remarkably, the ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "4-H reported approximately 18,600,000 members, whereas Lions International reported only approximately 2,000,000 members.",
+    "B": "4-H reported approximately 4,000,000 members, whereas Lions International reported only approximately 3,000,000 members.",
+    "C": "Rotary International reported approximately 4,000,000 members, whereas Kiwanis International reported only approximately 3,000,000 members.",
+    "D": "Rotary International reported approximately 18,600,000 members, whereas Kiwanis International reported only approximately 2,000,000 members."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the statement about the most remarkable difference in membership. The table shows that 4-H reported approximately 18,600,000 members—far more than any other organization listed—while Lions International reported only approximately 2,000,000 members. This represents the largest membership gap among the organizations in the table and is therefore the most remarkable difference.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the table shows that 4-H reported approximately 18,600,000 members, not 4,000,000, and Lions International reported approximately 2,000,000 members, not 3,000,000. The value of 4,000,000 belongs to Rotary International, and 3,000,000 belongs to Kiwanis International.",
+  "source": "https://cooksat.com/practice?questionId=b8922b14&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b8922b14/1-86924f6dc389fa58.png"
+    }
+  ]
+}

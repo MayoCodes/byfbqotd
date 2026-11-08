@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9d932ee1",
+  "capturedAt": "2026-11-08T00:36:27.980Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Chronic occupational stress is typically assessed through multi-week ambulatory cortisol sampling, an expensive and burdensome procedure that requires participants to collect saliva at fixed intervals throughout each workday. In a 2018 study, Chanthira Mukherjee and colleagues demonstrated that brief laboratory tasks involving simulated workplace pressures reliably elicit measurable reductions in heart-rate variability (HRV) among office employees. Building on this, Narong Santos has hypothesized that lab-induced HRV responses in such employees could serve as a valuable proxy for ambulatory cortisol measurements, sparing organizations and workers the considerable cost and disruption associated with the longitudinal sampling currently favored in occupational health research.",
+  "prompt": "Which finding, if true, would most directly support the hypothesis presented in the text?",
+  "choices": {
+    "A": "Compared with cortisol-monitored employees, employees assessed via the lab HRV task can withstand significantly higher workloads before reporting any subjective distress.",
+    "B": "Lab-induced HRV responses tend to vary more from individual to individual than do ambulatory cortisol levels when employees are exposed to similar workplace pressures.",
+    "C": "Under comparable workplace conditions, lab-induced HRV responses and ambulatory cortisol levels show comparable patterns of stress-related change.",
+    "D": "It is easier to detect mild HRV changes in lab-task participants than it is to detect severe cortisol elevations in employees undergoing ambulatory sampling."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents a finding that, if true, would most directly support the hypothesis that lab-induced HRV responses could serve as a valuable proxy for ambulatory cortisol measurements. The text explains that organizations currently rely on costly, intrusive multi-week cortisol sampling to assess chronic occupational stress. The hypothesis proposes that brief lab HRV measurements could replace that procedure. For the lab measure to function as a reliable proxy, it would need to produce results that accurately track what the cortisol measure would show under similar conditions. A finding that, under comparable workplace conditions, HRV responses and cortisol levels show comparable patterns of stress-related change would directly support the hypothesis, since it would establish that measuring HRV in the lab would reliably indicate the cortisol patterns that ambulatory sampling would reveal.",
+  "source": "https://cooksat.com/practice?questionId=9d932ee1&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "a6df5c7c",
+  "capturedAt": "2026-11-08T00:36:48.868Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nSome ecologists have suggested that as lowland temperatures rise, many alpine plants currently found in the subalpine zone (below 2,500 meters in elevation) could migrate upslope into the cooler alpine zone (2,500 to 3,500 meters in elevation). However, it isn't clear that all such species will be able to establish themselves at alpine elevations. In 2021, Daniel Barrett, Kittisak Le, and colleagues surveyed four wildflower species across mountain ranges in the western United States. Based on the elevations at which those species are now found, the species that seems least suited to a full migration to the alpine zone is ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "Castilleja rhexiifolia, because its minimum elevation of 2,200 meters is in the subalpine zone.",
+    "B": "Erigeron humilis, because its minimum elevation of 1,400 meters is the lowest of those listed.",
+    "C": "Penstemon procerus, because its maximum elevation of 2,000 meters is furthest from the alpine zone.",
+    "D": "Aquilegia coerulea, because its maximum elevation of 2,400 meters is close to but doesn't reach the alpine zone."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively uses data from the table to complete the statement about which wildflower species seems least suited to a full migration to the alpine zone. The text explains that the alpine zone begins at 2,500 meters and that not all subalpine species will be able to establish themselves there. The table shows the elevation ranges at which four species are currently found. According to the table, Penstemon procerus has a maximum elevation of only 2,000 meters, meaning it is found no higher than 2,000 meters and is therefore 500 meters below even reaching the alpine threshold of 2,500 meters. This makes Penstemon procerus the species furthest from the alpine zone and thus least suited to migrating there.",
+  "source": "https://cooksat.com/practice?questionId=a6df5c7c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/a6df5c7c/1-9becbc2fbbd3816f.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f682f888",
+  "capturedAt": "2026-11-08T03:55:57.561Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Researchers Madeline Fenwick and Zamzam Idle modeled varying levels of patient transfer from in-person medical consultations (appointments lasting 15 to 45 minutes) to telemedicine visits. In-person visits provide more comprehensive examinations than virtual ones, but in-person appointments typically require 2 hours of scheduling flexibility for travel, parking, and waiting that telemedicine doesn't, so brief consultations take similar amounts of total time whether conducted in-person or virtually. However, the model suggests that as telemedicine appointment volumes approach current server capacity limits, technical delays emerge. Therefore, for telemedicine to remain a viable alternative to brief in-person consultations, ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "telemedicine platforms should offer fewer complex procedures and medical facilities should offer more complex procedures.",
+    "B": "travel, parking, and waiting requirements used by medical facilities may need to be implemented for telemedicine systems.",
+    "C": "telemedicine systems may need to expand their server capacity for these appointments.",
+    "D": "patients who use telemedicine for these consultations will need to accept that technical delays will be similar to those for in-person visits."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents the solution that most logically follows from the text's discussion of telemedicine's competitive advantage. The text explains that in-person visits usually require much more scheduling flexibility than telemedicine, so brief consultations end up taking the same total time whether conducted in-person or virtually. The text goes on to point out that telemedicine starts to experience technical delays when appointments approach server capacity limits. Because telemedicine's advantage depends on avoiding delays, it's reasonable to infer that expanding server capacity would maintain telemedicine's time efficiency compared to in-person visits.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the text never discusses complex procedures for either telemedicine or in-person care, so there is no basis to make this inference about procedure distribution.",
+  "source": "https://cooksat.com/practice?questionId=f682f888&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

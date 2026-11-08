@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4234b4fc",
+  "capturedAt": "2026-11-08T03:50:20.359Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In a study of the natural musical aptitude of elementary school children, researchers neglected to control for the amount of prior musical training the participants had received. The natural musical aptitude of children with minimal exposure, such as those who had attended only a few music classes, was judged by the same criteria as was that of children with extensive training, such as those who had taken private lessons for several years. The results of the study, therefore, ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "could suggest that there are differences in natural musical aptitude among the children even though such differences may not actually exist.",
+    "B": "are useful for identifying musical skills that the children lack the natural talent to develop but not for identifying skills that the children can master.",
+    "C": "should not be taken as indicative of the natural musical aptitude of children from different socioeconomic backgrounds.",
+    "D": "reveal more about the children's natural musical aptitude when performing classical pieces than when performing contemporary music."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it presents the conclusion that most logically follows from the text's discussion of the study of children's natural musical aptitude. The text explains that the study failed to account for differences in the children's prior musical training, such that children with minimal exposure were judged by the same criteria as children with extensive training. Because the study didn't control for this discrepancy, the researchers might have mistaken effects of prior training for differences in natural musical aptitude. In other words, the results could suggest differences in natural musical aptitude among the children even though such differences may not actually exist.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the text focuses on the fact that the children in the study had varying levels of prior musical training and that this variation wasn't taken into consideration. The text doesn't suggest that the study can identify which musical skills the children lack the natural talent to develop or which skills they can master.",
+  "source": "https://cooksat.com/practice?questionId=4234b4fc&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "d7e00546",
+  "capturedAt": "2026-11-08T00:40:18.337Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nA production subsidy is a government payment to domestic manufacturers intended to lower their costs and help them compete in global markets. Removing such subsidies can expose underlying differences in efficiency: in regions where manufacturing is inherently inexpensive, output tends to expand because producers remain profitable without support, whereas in regions where manufacturing is inherently costly, output tends to contract as firms can no longer compete. Economists Felix Maxwell and Sonja Hoffman compiled a table showing projected changes in output and wholesale prices for electric vehicle battery components across four regions in a subsidy-elimination scenario. Based on the data, a student claims that compared with the Nordic bloc and Southeast Asia, battery component manufacturing in Central Europe and Quebec is likely relatively inexpensive.",
+  "prompt": "Which choice most effectively uses information from the text and data from the table to support the student's claim?",
+  "choices": {
+    "A": "Although battery component output in the Nordic bloc and Southeast Asia would likely decrease if subsidies were eliminated, it would likely increase in both Central Europe and Quebec.",
+    "B": "Although eliminating subsidies would likely cause wholesale prices for battery components to decrease in most regions, it would likely cause wholesale prices to increase in both Central Europe and Quebec.",
+    "C": "Central Europe and Quebec are the only regions shown that are projected to see both an increase in battery component output and a reduction in wholesale prices in the absence of subsidies.",
+    "D": "In the absence of subsidies, total battery component output in Central Europe and Quebec would likely exceed that in the Nordic bloc and Southeast Asia."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it describes data from the table that support the student's claim that battery component manufacturing in Central Europe and Quebec is likely relatively inexpensive compared with that in the Nordic bloc and Southeast Asia. The text explains that when subsidies are removed, output expands in regions where manufacturing is inherently inexpensive (because producers remain profitable without support) and contracts in regions where manufacturing is inherently costly (because firms can no longer compete). The table shows that under subsidy elimination, Central Europe and Quebec are projected to see output increases (+1.24% and +0.68%, respectively), while the Nordic bloc and Southeast Asia are projected to see output decreases (-2.15% and -3.02%, respectively). According to the text's logic, this pattern of output changes directly supports the claim that production is relatively inexpensive in Central Europe and Quebec and relatively costly in the Nordic bloc and Southeast Asia.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it inaccurately describes the data. The table shows that both Central Europe (+0.87%) and Quebec (+1.13%) are projected to see increases in wholesale prices under subsidy elimination, not reductions. Moreover, even an accurate description combining output and price changes would not address the student's claim about relative production costs as directly as data focused on output changes alone.",
+  "source": "https://cooksat.com/practice?questionId=d7e00546&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d7e00546/1-92a92a04c0389347.png"
+    }
+  ]
+}

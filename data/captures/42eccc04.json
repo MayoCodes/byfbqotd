@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "42eccc04",
+  "capturedAt": "2026-11-08T00:30:23.856Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Periods of sea-ice cover in the Arctic Ocean have been growing shorter as a result of climate changes, potentially enabling increased carbon dioxide (CO₂) absorption through greater productivity of ice-edge phytoplankton such as Phaeocystis pouchetii and other marine algae, but also potentially enabling increased CO₂ output through greater air-sea outgassing (CO₂ released as surface waters warm and lose their capacity to hold dissolved gas). Oceanographer Lwazi Hakim and his colleague Hiroshi Han developed a model incorporating numerous inputs—years of sea surface temperature and wind speed data among them—to evaluate the effects of climate changes on the CO₂ balance in the Arctic Ocean, concluding that net CO₂ is likely to increase if open-water conditions arrive earlier relative to the onset of spring phytoplankton blooms.",
+  "prompt": "Which finding, if true, would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "Relatively early open-water conditions reduce the availability of nutrients needed for the growth of phytoplankton species such as P. pouchetii and lower the rate of air-sea outgassing.",
+    "B": "The warming of exposed surface waters enables air-sea outgassing to continue during a period in which phytoplankton species such as P. pouchetii have not yet begun their spring bloom.",
+    "C": "The effect of sea surface temperature on the growth of phytoplankton and on the rate of air-sea outgassing is stronger during the period of open water than during the period of sea-ice cover.",
+    "D": "Open-water conditions tend to persist longer in regions of relatively low phytoplankton productivity and high air-sea outgassing than in regions of relatively high phytoplankton productivity and low outgassing."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a finding that, if true, would support the researchers' conclusion that net CO₂ is likely to increase if open-water conditions arrive earlier relative to the onset of spring phytoplankton blooms. The text explains that shorter sea-ice periods in the Arctic could enable both increased CO₂ absorption through phytoplankton productivity and increased CO₂ output through air-sea outgassing as surface waters warm. A finding that warming exposed surface waters allow outgassing to continue during a period when phytoplankton such as P. pouchetii have not yet bloomed would directly support this conclusion: if outgassing releases CO₂ during a window when phytoplankton are not absorbing it, CO₂ output would exceed absorption, resulting in a net increase in CO₂.",
+  "source": "https://cooksat.com/practice?questionId=42eccc04&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

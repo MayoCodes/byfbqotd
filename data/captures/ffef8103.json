@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "ffef8103",
+  "capturedAt": "2026-11-08T00:43:48.617Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nAfter a sediment core was recovered by Colette Quinn and Rachel Johansson from a site on the Pacific seafloor, researchers applied a sequential solvent extraction to a portion of the pulverized core, rinsing it in order with pentane, ethyl acetate, acetone, and finally a mixture of ethyl acetate and acetone. Each rinse yielded a separate extract for chromatographic analysis. Based on the table, both fatty acid and sterol compounds must have been present in the pulverized sample before the acetone-only extraction, because ______",
+  "prompt": "Which choice uses data from the table to effectively complete the text?",
+  "choices": {
+    "A": "the third extract in the sequence contains fatty acids and the fourth contains sterols",
+    "B": "the second extract in the sequence contains sterols but no fatty acids",
+    "C": "three of the four extracts contain sterols but only one of the four contains fatty acids",
+    "D": "the fourth extract in the sequence contains sterols but no fatty acids"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the text about the presence of fatty acids and sterols in the sample before the acetone-only extraction. The text describes a sequential extraction in which the sample was rinsed with solvents in order: pentane (extract 1), ethyl acetate only (extract 2), acetone only (extract 3), and ethyl acetate and acetone (extract 4). For both fatty acids and sterols to have been present in the pulverized sample before the acetone-only extraction (extract 3), evidence is needed that each compound was extracted by extract 3 or by a later extract. According to the table, fatty acids are present in extract 3 (the acetone-only extraction), and sterols are present in extract 4 (the ethyl acetate and acetone extraction). Because both compounds were extracted at step 3 or later, they must have been in the sample before extract 3 was performed — they simply were not dissolved by the earlier pentane and ethyl-acetate-only rinses.",
+  "source": "https://cooksat.com/practice?questionId=ffef8103&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/ffef8103/1-1cb1883101eb2a30.png"
+    }
+  ]
+}

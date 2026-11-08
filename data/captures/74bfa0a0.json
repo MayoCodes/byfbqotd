@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "74bfa0a0",
+  "capturedAt": "2026-11-08T00:33:54.384Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nMalaya Malik is researching a public library system in a large metropolitan area where access to after-school programs varies by district. Malik claims that all districts of the metropolitan area should have more library branches offering free after-school tutoring, noting that the highest percentage of branches offering free after-school tutoring in any district is only ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the student's claim?",
+  "choices": {
+    "A": "50%.",
+    "B": "15%.",
+    "C": "90%.",
+    "D": "29%."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The table shows the percentage of library branches offering free after-school tutoring in each of five districts: Northgate (22%), Eastview (29%), Southridge (18%), Westhaven (15%), and Central (24%). The highest of these percentages is 29%, in Eastview, which effectively supports Malik's claim that the highest percentage of branches offering free after-school tutoring in any district is only 29%.",
+  "source": "https://cooksat.com/practice?questionId=74bfa0a0&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/74bfa0a0/1-5c2748326457c069.png"
+    }
+  ]
+}

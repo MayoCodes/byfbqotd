@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "d10ee806",
+  "capturedAt": "2026-11-08T00:39:37.974Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nThe United States Geological Survey's Annual Water Resources Summary is a report that covers a wide range of subjects, from the causes of declines in groundwater reserves to the volume of sediment transported by major rivers. Kavita Bose, a student studying watershed hydrology, is consulting a graph in the report that shows the mean annual discharge recorded for several rivers in a western watershed over four consecutive years from 2016 to 2020. The student wishes to determine in which year the Cascara River reached its lowest mean discharge. Consulting the graph, the student finds that this year was the ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+  "choices": {
+    "A": "2017.",
+    "B": "2018.",
+    "C": "2019.",
+    "D": "2016."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the graph to complete the statement about when the Cascara River reached its lowest mean discharge. The graph shows the river's mean annual discharge across four years: approximately 45 cubic meters per second in 2016, 60 in 2017, 32 in 2018, and 48 in 2019. The lowest value occurred in 2018.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the graph shows that the Cascara River had a mean discharge of approximately 45 cubic meters per second in 2016, which is higher than the minimum of approximately 32 reached in 2018.",
+  "source": "https://cooksat.com/practice?questionId=d10ee806&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d10ee806/1-f9b9b1316ca2f7d3.png"
+    }
+  ]
+}

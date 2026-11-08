@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "7aa4a19a",
+  "capturedAt": "2026-11-08T00:34:16.183Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nNora Fletcher, Tunde Okafor, and colleagues have reported that the golden-cheeked warbler population in central Texas may have declined notably between 2001 and 2018. The team reached this conclusion by analyzing existing acoustic monitoring and mist-net banding records collected at various preserves in different years. Of the team's sources listed in the table, the earliest example of acoustic monitoring data included in the analysis was obtained in ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the text?",
+  "choices": {
+    "A": "2009 using SM-Mini at Balcones Canyonlands Preserve.",
+    "B": "2004 using MN-24 at Government Canyon State Natural Area.",
+    "C": "2005 using ARU-200 at Balcones Canyonlands Preserve.",
+    "D": "2001 using MN-12 at Fort Hood Military Reservation."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it effectively completes the text's discussion of Fletcher, Okafor, and colleagues' analysis of the golden-cheeked warbler population by using data from the table to identify the source of the earliest example of acoustic monitoring data included in this analysis. The text indicates that the team analyzed acoustic monitoring and mist-net banding records collected in different years. The table lists the preserves where these methods were deployed, the type of data each method produced (acoustic monitoring or mist-net banding), and the years of observation. According to the table, only two methods produced acoustic monitoring data: ARU-200 at Balcones Canyonlands Preserve, which made its observations in 2005 and 2017, and SM-Mini at the same preserve, which made its observations in 2009 and 2014. Although the other two sources were obtained earlier, they produced mist-net banding data, not acoustic monitoring data. Therefore, the earliest example of acoustic monitoring data included in the analysis was obtained in 2005 by ARU-200 at Balcones Canyonlands Preserve.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the table indicates that MN-24 at Government Canyon State Natural Area collected mist-net banding data, not acoustic monitoring data. MN-24 therefore cannot be the source of the earliest example of acoustic monitoring data included in Fletcher, Okafor, and colleagues' analysis.",
+  "source": "https://cooksat.com/practice?questionId=7aa4a19a&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/7aa4a19a/1-632c0374ebee36b1.png"
+    }
+  ]
+}

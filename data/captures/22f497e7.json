@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "22f497e7",
+  "capturedAt": "2026-11-08T00:27:59.035Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nPercentages of Supplemental Disclosure Filings and Total Penalties Assessed on Importers, by Violation Category, 2019. While most commercial importers entering goods into the European Union submit only a standard customs declaration, trade-policy researchers Christopher Hoffman and Siti Menon note that importers found to have committed certain regulated infractions must additionally submit a supplemental disclosure and remit penalty duties on the affected shipments. Such infractions include \"misclassification\" (assigning goods to a tariff code that lowers the duty owed), undervaluation of declared shipment worth, and failure to maintain required country-of-origin documentation above a mandated recordkeeping threshold.",
+  "prompt": "The data in the graph best support which conclusion about supplemental disclosure filings in 2019?",
+  "choices": {
+    "A": "Filings involving failure to maintain required country-of-origin documentation must have been associated with higher penalties, on average, than standard customs declarations involving the same infraction.",
+    "B": "Filings involving misclassification were associated with higher penalties, on average, than filings involving failure to maintain required country-of-origin documentation.",
+    "C": "Filings involving misclassification and undervaluation collectively accounted for a greater portion of the total penalties than filings involving failure to maintain required country-of-origin documentation.",
+    "D": "Filings involving failure to maintain required country-of-origin documentation constituted a majority of the filings but accounted for less than a majority of the penalties."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because the graph supports an average-per-filing comparison. For misclassification, the ratio of the percentage of penalties to the percentage of filings is 42/10, or 4.2. For failure to maintain required country-of-origin documentation, the corresponding ratio is 53/88, or about 0.60. Because 42/10 is greater than 53/88, filings involving misclassification were associated with higher penalties, on average, than filings involving failure to maintain the required documentation.",
+  "source": "https://cooksat.com/practice?questionId=22f497e7&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/22f497e7/1-0d0e75c38fc15a59.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "1cde34f9",
+  "capturedAt": "2026-11-08T00:27:29.893Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nIn 2022, four of the largest public library systems in a midwestern state reported new patron enrollments by quarter: the Ashford City Library, the Brentwood Regional Library, the Claymont County Library, and the Dunmore Public Library. The graph shows the number of new patrons who registered at each of these libraries during the three consecutive quarters with the highest new enrollment. An analyst notes that among the libraries shown in the graph, the library with the highest number of new patrons in all three quarters was ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the text?",
+  "choices": {
+    "A": "the Ashford City Library.",
+    "B": "the Brentwood Regional Library.",
+    "C": "the Claymont County Library.",
+    "D": "the Dunmore Public Library."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively uses data from the graph to complete the statement about the library with the highest number of new patrons in each of the three quarters. According to the graph, the Claymont County Library registered approximately 16,000 new patrons in Q1, about 20,000 in Q2, and about 17,000 in Q3. In all three quarters, the number of new patrons at Claymont County was higher than at any other library shown.\n\nWhy A is incorrect:\n\nChoice A is incorrect. According to the graph, the Ashford City Library registered approximately 5,000 new patrons in Q1, about 7,000 in Q2, and about 6,000 in Q3, each of which is lower than the number at Claymont County in the same quarter.",
+  "source": "https://cooksat.com/practice?questionId=1cde34f9&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1cde34f9/1-77b79added9f4076.png"
+    }
+  ]
+}

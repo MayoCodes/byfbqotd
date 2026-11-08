@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "d5ae01ed",
+  "capturedAt": "2026-11-08T00:40:03.913Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nSome producers can discourage purchasing decisions by attaching labels that signal ambiguous sourcing. Callum Dalton and Marisol Vasquez studied how municipal procurement officers responded to supplier bids marked with solid 'local,' solid 'regional,' or combined 'mixed-origin' (i.e., ambiguous) labels. Each officer was shown a digital portfolio containing six otherwise identical bids — two bearing each of the three label types — and asked to award a single contract. Recording which label officers first examined and which bid they ultimately selected, the researchers concluded that mixed-origin labels served as a deterrent to contract awards.",
+  "prompt": "Which choice best describes data from the table that support Dalton and Vasquez's conclusion?",
+  "choices": {
+    "A": "Half of the officers who first examined a bid with a mixed-origin label awarded the contract to a bid with a solid 'regional' label, and the other half of those officers were just as likely to award the contract to a bid with a mixed-origin label as to a bid with a solid 'local' label.",
+    "B": "For each type of label, a majority of the officers who first examined a bid with that type of label awarded the contract to a bid with the same type of label.",
+    "C": "Regardless of the type of label on the bid the officers first examined, the large majority of contract awards went to bids bearing solid-label designations.",
+    "D": "None of the officers who first examined a bid with a solid 'regional' label awarded the contract to a bid with a mixed-origin label."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it describes data from the table that support Dalton and Vasquez's conclusion that mixed-origin labels served as a deterrent to contract awards. The table shows that regardless of which label type officers first examined, the large majority of contract awards went to bids with solid-label designations. When officers first examined a solid 'local' bid, 86% of awards (60% + 26%) went to solid-label bids. When officers first examined a solid 'regional' bid, 100% of awards (14% + 86%) went to solid-label bids. When officers first examined a mixed-origin bid, 75% of awards (25% + 50%) still went to solid-label bids. Thus, across every starting condition, the large majority of awards avoided mixed-origin bids, supporting the conclusion that the ambiguous labels deterred contract awards.",
+  "source": "https://cooksat.com/practice?questionId=d5ae01ed&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d5ae01ed/1-10e81216bf272a23.png"
+    }
+  ]
+}

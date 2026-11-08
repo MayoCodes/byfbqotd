@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "02a5a1e8",
+  "capturedAt": "2026-11-08T04:20:10.704Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In a 2023 study, Akira Banerjee and colleagues investigated whether the composition of honeybee gut microbial communities could influence the bees' resistance to fungal pathogens. Whereas Santoso et al. (2015) demonstrated that introducing isolated bacterial strains into the bee gut can enhance antimicrobial peptide production, Banerjee's team transferred intact microbial communities harvested from ecologically contrasting hive environments across Oregon, including those near alpine meadows and coastal apiaries, into laboratory-reared bees and then assessed their resistance to Nosema infection. This approach ensured that the microbial conditions in their experiment would better reflect the variation and complexity of naturally occurring communities.",
+  "prompt": "Based on the text, what is the most likely reason Banerjee and colleagues chose to avoid the method used in the study of antimicrobial peptide production?",
+  "choices": {
+    "A": "The composition of microorganisms introduced in the earlier study may not have been representative of a naturally existing composition.",
+    "B": "The bacterial strains used in the earlier study affected bees' antimicrobial peptide production, not their resistance to fungal pathogens.",
+    "C": "The bacterial strains used in the earlier study likely included species similar to those found in wild bee gut communities.",
+    "D": "The diversity of microorganisms in the bee guts used in the earlier study was already abnormally high before the researchers added further strains."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The passage contrasts Santoso et al.'s approach of introducing 'isolated bacterial strains' with Banerjee's approach of transferring 'intact microbial communities harvested from ecologically contrasting hive environments,' and explicitly states that Banerjee's method 'would better reflect the variation and complexity of naturally occurring communities.' This strongly implies that Banerjee's team avoided the earlier method because the composition of microorganisms introduced there may not have been representative of naturally existing communities.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the passage does not discuss the pre-existing microbial diversity of the bees used in Santoso et al.'s study. The text mentions only that specific strains were introduced and provides no information about baseline microbial diversity.",
+  "source": "https://cooksat.com/practice?questionId=02a5a1e8&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}

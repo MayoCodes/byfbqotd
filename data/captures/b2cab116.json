@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b2cab116",
+  "capturedAt": "2026-11-08T00:37:16.942Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Sociologists have shown that herding—in which individuals converge on the same action by imitating the choices of one or more peers—occurs among university students selecting majors. Investigating whether herding also occurs among universities themselves in matters of curriculum design, Lucas Pena examined changes in the undergraduate course catalogs of public universities in two regions during the decade following a major higher-education reform enacted in 2005. Pena posited that herding would manifest in regional peer institutions converging on the same rate of new course adoption regardless of each university's observable circumstances. He found that universities in the southern region showed evidence of herding but those in the northern region did not.",
+  "prompt": "Based on the text, which finding, if true, would best account for the discrepancy Pena observed?",
+  "choices": {
+    "A": "The majority of new courses added by universities in the northern region were in the humanities, whereas the majority of new courses added by universities in the southern region were in the sciences.",
+    "B": "Universities in the northern region tended to develop new courses across a wide range of departments, whereas universities in the southern region tended to concentrate new course development in a few departments.",
+    "C": "Most of the universities in the northern region belonged to statewide governing boards that set individual course-adoption schedules for each member institution, whereas the universities in the southern region were largely free to set their own course-adoption schedules.",
+    "D": "The 2005 higher-education reform resulted in immediate cuts to many of the northern region's university budgets, whereas the reform had few short-term effects on the budgets of most universities in the southern region."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents a finding that, if true, would best account for the discrepancy Pena observed between universities in the southern and northern regions. The text explains that Pena found evidence that southern-region universities engaged in herding behavior—converging on the same rate of new course adoption regardless of each university's observable circumstances—but northern-region universities did not. The text also explains that herding occurs when individuals or institutions converge on the same action by imitating the choices of peers. If most northern-region universities belonged to statewide governing boards that set individual course-adoption schedules for each member, then those universities would have had their schedules determined externally and individually, preventing them from imitating their peers' decisions. By contrast, if southern-region universities were largely free to set their own schedules, they would have been able to observe and imitate their peers' adoption rates. This finding would therefore directly account for why herding was observed in the southern region but not in the northern region.\n\nWhy A is incorrect:\n\nChoice A is incorrect because a finding about the subject-area composition of new courses (humanities versus sciences) wouldn't explain the discrepancy in herding behavior that Pena observed. Herding involves universities converging on the same adoption rate by imitating peers, regardless of individual circumstances. Whether the new courses are in the humanities or sciences doesn't address whether universities were imitating each other's adoption schedules or acting independently.",
+  "source": "https://cooksat.com/practice?questionId=b2cab116&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "3e4f398c",
+  "capturedAt": "2026-11-08T00:30:05.561Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nTo determine whether adopting a national reforestation mandate affects annual forest cover growth rates, environmental scientists Mariam Haddad and Frances Caldwell calculated average forest cover growth rates for several regions during the five years before and the five years after each region implemented such a mandate. The graph shows the results for three regions in the study. Consulting the graph, a student claims that adopting a reforestation mandate increases the rate of growth of a region's forest cover.",
+  "prompt": "Which choice best describes data from the graph that weaken the student's claim?",
+  "choices": {
+    "A": "Over the five years after the Andean Basin adopted the ABRM, forest cover in the Andean Basin grew at a rate of about 12 percent, which is higher than the rate over the five years before the Andean Basin adopted the mandate.",
+    "B": "All the regions shown had positive growth in forest cover over the five years after adopting their respective mandates, but their rates of growth varied.",
+    "C": "Although forest cover in the Carpathian Range decreased over the five years before the CRRM, a reversal in this trend was observed over the five years after the Carpathian Range adopted the CRRM.",
+    "D": "Although forest cover in the Sahel Corridor grew over the five years after the Sahel Corridor adopted the SCRM, its growth rate was even higher in the five years before the SCRM."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it describes data from the graph that weaken the student's claim that adopting a reforestation mandate increases the rate of growth of a region's forest cover. According to the graph, the Sahel Corridor's average forest cover growth rate was about 18% in the five years before adopting the SCRM but dropped to approximately 4% in the five years after adoption. Because the growth rate was actually higher before the mandate than after it, this counterexample directly contradicts — and therefore weakens — the student's claim.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it describes data that support the student's claim rather than weaken it. The graph shows that the Carpathian Range's forest cover growth rate was about -4% in the five years before adopting the CRRM but rose to approximately 32% in the five years after adoption. A reversal from negative to strongly positive growth after adoption is consistent with the student's claim that adopting a mandate increases the growth rate.",
+  "source": "https://cooksat.com/practice?questionId=3e4f398c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3e4f398c/1-05f65d9f4c56cf2e.png"
+    }
+  ]
+}

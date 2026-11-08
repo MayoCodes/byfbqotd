@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "de60286c",
+  "capturedAt": "2026-11-08T04:25:50.234Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In a study by Sarita Menon, Achieng Al-Rashid, and colleagues, basalt samples from two volcanic regions, the Deccan Traps in India and the Parana Basin in Brazil, were tested for thermal conductivity. Of the 562 Deccan samples analyzed, 77.6% transmitted heat above a baseline threshold, while of the 938 Parana samples, only 35.7% did so. Given that the average mineral density of the Deccan samples was substantially lower than that of the Parana samples, greater density alone can't explain the difference in thermal conductivity between the two sets of samples.",
+  "prompt": "The text makes which point about the difference between the proportions of Deccan samples and Parana samples transmitting heat above the baseline threshold?",
+  "choices": {
+    "A": "It could be due to inaccuracies in the testing results.",
+    "B": "It was much larger than the researchers conducting the study expected.",
+    "C": "It is caused by something other than the samples' mineral density.",
+    "D": "It was calculated using sources that predate the study."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents a statement about the difference in heat transmission between Deccan and Parana samples that is supported by the text. The text reports that 77.6% of Deccan samples transmitted heat above the baseline threshold compared to only 35.7% of Parana samples. The text then notes that the average mineral density of the Deccan samples was substantially lower than that of the Parana samples and concludes that \"greater density alone can't explain the difference in thermal conductivity,\" meaning that the difference must be caused by something other than mineral density.",
+  "source": "https://cooksat.com/practice?questionId=de60286c&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}

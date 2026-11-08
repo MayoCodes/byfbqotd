@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "61ba907d",
+  "capturedAt": "2026-11-08T00:32:25.033Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nTo assess the impact of agricultural intensification on native pollinators in the Kenyan highlands, Hamza Dlamini and Layla Kamau used long-term field surveys and remote sensing to track changes in the annual mean density of native bee colonies across different habitat suitability classes (categories that indicate how well land supports pollinator communities). Due to favorable growing conditions, extensive areas of native vegetation were converted to monoculture tea plantations as rising global tea demand fueled a plantation boom in the 1990s and 2000s. By 2010, mean colony densities had declined sharply. In that year, they were between ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "100 and 125 colonies per square kilometer.",
+    "B": "125 and 150 colonies per square kilometer.",
+    "C": "200 and 250 colonies per square kilometer.",
+    "D": "0 and 50 colonies per square kilometer."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the graph to complete the assertion about native bee colony densities in 2010. The stimulus asks for the range of mean colony densities in 2010 after the sharp decline caused by conversion to monoculture tea plantations. According to the graph, in 2010 the mean colony densities were 30 per square kilometer for Class A, 38 for Class B, and 20 for Class C. All of these values fall within the range of 0 and 50.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the graph shows that mean colony densities in 2010 ranged from 20 to 38 per square kilometer, not between 100 and 125. Values in the 100-125 range are closer to what the graph shows for 1995.",
+  "source": "https://cooksat.com/practice?questionId=61ba907d&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/61ba907d/1-2d9b116ae3010191.png"
+    }
+  ]
+}

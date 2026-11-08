@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e264db28",
+  "capturedAt": "2026-11-08T03:55:20.330Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Humanities/Arts",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "As the name suggests, sound engineers originated in recording studios, where they continue to serve a variety of functions: adjusting acoustic levels for producers, creating audio profiles for different instruments, and perhaps most importantly, helping musicians and composers to refine the works' tonal quality and sonic texture. Music industry analyst Marko Lazic observes that many video game developers, like musicians and composers, are concerned with creating immersive audio experiences and rich soundscapes. In fact, some game developers describe the audio environments they create as expressions of mood and atmosphere through sound; it is therefore unsurprising that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "game developers creating audio environments with atmospheric elements frequently engage sound engineers to assist in refining those elements.",
+    "B": "sound engineers can have a profound impact on the artistic direction of musical recordings and compositions.",
+    "C": "games by developers who incorporate rich soundscapes are more engaging to players than games by developers who do not.",
+    "D": "some producers and musicians rely too heavily on sound engineers to complete certain technical tasks."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. Sound engineers help musicians and composers with tonal quality and sonic texture. Game developers often create atmospheric audio experiences, so they are also concerned with tonal quality and sonic texture. This suggests that the fact that game developers seek the help of sound engineers with the audio aspects of their games should be 'unsurprising.'\n\nWhy B is incorrect:\n\nChoice B is incorrect. This inference isn't supported. The beginning of the text does imply that this is true, but the end is leading to a conclusion about how game developers use sound engineers.",
+  "source": "https://cooksat.com/practice?questionId=e264db28&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "cd70d204",
+  "capturedAt": "2026-11-08T00:39:19.909Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nBecause lichen growing in areas with minimal air pollution accumulate less sulfur than lichen exposed to emissions from industrial activity, the presence of sulfur dioxide contamination can be monitored by examining sulfur concentrations (measured in micrograms per gram of dry tissue) in lichen. Mohan Yamada and Ligaya Nguyen assessed sulfur concentrations in the lichen Parmelia sulcata from sites in northern England with moderate industrial activity, including Tyneside and Wearside, and minimal industrial activity, including Allendale and Redesdale, across sampling periods in 2018 and 2019. The data suggest that the moderate-activity sites experienced exposure to industrial emissions. However, the researchers concluded that this exposure occurred intermittently.",
+  "prompt": "Which choice best describes data from the table that support the underlined conclusion?",
+  "choices": {
+    "A": "Although sulfur concentrations were generally higher in Tyneside and Wearside than in Allendale and Redesdale, the concentrations were lower in Tyneside than in Allendale and Redesdale in Spring 2019.",
+    "B": "Sulfur concentrations reached their lowest level in Spring 2019 in both Tyneside and Wearside, but no data were available for Tyneside in Spring 2018, when concentrations reached their highest level in Wearside.",
+    "C": "Although all sites showed considerable variation in sulfur concentrations, the concentrations remained relatively constant in Tyneside from Autumn 2018 to Spring 2019 and in Wearside from Spring 2018 to Autumn 2018.",
+    "D": "In Tyneside and Wearside, sulfur concentrations fluctuated considerably across the three measurements made from Autumn 2018 to Autumn 2019."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it describes data from the table that support the underlined conclusion. The text explains that higher sulfur concentrations in lichen indicate greater exposure to industrial emissions. Because Tyneside and Wearside have moderate industrial activity, researchers expected them to show higher sulfur concentrations than the minimal-activity sites (Allendale and Redesdale). However, the researchers concluded that this exposure was not constant but intermittent. The table supports this conclusion because the two moderate-activity sites showed considerable fluctuation: both had much higher values than the minimal-activity sites in Autumn 2018 and Autumn 2019, but in Spring 2019 their values dropped sharply—below Allendale's value. This substantial fluctuation across the three measurements from Autumn 2018 to Autumn 2019 supports the conclusion that exposure to industrial emissions at these sites occurred intermittently rather than continuously.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the absence of data for Tyneside in Spring 2018 neither proves nor disproves that exposure to industrial emissions at the moderate-activity sites was intermittent. The missing data point is irrelevant to evaluating whether exposure fluctuated; there is already sufficient data from the other three sampling periods to assess intermittency.",
+  "source": "https://cooksat.com/practice?questionId=cd70d204&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/cd70d204/1-f02285dd8cc6d4c0.png"
+    }
+  ]
+}

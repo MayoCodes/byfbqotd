@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b1a6c5ee",
+  "capturedAt": "2026-11-08T04:24:40.196Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In 2020, researchers identified 25 previously unknown deep-sea hydrothermal vents in the Pacific Ocean. Eighteen of these vents exhibit high-temperature emissions (exceeding 350°C), while the other 7 display low-temperature emissions (below 200°C). All but one of the 25 vents are thought to be formed by standard tectonic processes where oceanic plates meet and create fractures in the seafloor. Although the one exceptional vent produces high-temperature emissions like most others, its chemical composition is remarkably different from the rest, which may suggest that it formed through a different geological process than the other 24 vents.",
+  "prompt": "Based on the text, which choice best describes the vent with the unusual chemical composition?",
+  "choices": {
+    "A": "It doesn't produce low-temperature emissions, but it likely formed through the same process as the vents with low-temperature emissions.",
+    "B": "Its chemical composition is so different from other vents that it produces emissions that are neither high-temperature nor low-temperature.",
+    "C": "It produces high-temperature emissions that likely result from the same tectonic processes that formed the other vents.",
+    "D": "It produces high-temperature emissions and may not have formed through the standard tectonic processes that created the other vents."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most accurately describes the vent with the unusual chemical composition. The text indicates that 18 of the 25 newly discovered vents produce high-temperature emissions (exceeding 350°C), while the other 7 vents produce low-temperature emissions (below 200°C). The text then states that 24 of the 25 vents appear to be formed by standard tectonic processes where oceanic plates meet. The one exception is a vent that produces high-temperature emissions like most others, meaning the exceptional vent falls into the high-temperature category. The text goes on to state that the exceptional vent's chemical composition is so different that the vent may have formed through a different geological process than the other 24 vents. The vent with unusual composition, therefore, produces high-temperature emissions and may not have formed through standard tectonic processes.\n\nWhy A is incorrect:\n\nChoice A is incorrect because nothing in the text supports the idea that the vent with unusual composition likely formed through the same process as the low-temperature vents. Although it's true that the vent produces high-temperature emissions (and thus doesn't produce low-temperature emissions), the only information the text provides about the vent's formation is that it may be different than the formation process of the other 24 vents.",
+  "source": "https://cooksat.com/practice?questionId=b1a6c5ee&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "99d97e24",
+  "capturedAt": "2026-11-08T00:35:59.350Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nOriginally found in subtropical Asia, the invasive fungus Rhizomorpha australis has spread through temperate forests in North America since the early 2000s. Field surveys show that in mixed-litter plots, the fungus breaks down leaves of some tree species far more readily than others. In a 2022 study, Huda Mensah and Quang Le presented R. australis cultures with equal masses of leaf litter from five tree species and measured the percentage of each species' litter that was decomposed. The researchers proposed that the fungus is drawn to syringaldehyde, a compound present in the litter of its original host tree but absent from litter of the native North American species. Using data from this study, however, a student wishes to argue that the presence of syringaldehyde doesn't entirely explain R. australis's preference for certain litters over others.",
+  "prompt": "Which choice best describes data from the table that support the student's argument?",
+  "choices": {
+    "A": "The fungus decomposed a higher percentage of the northern red oak litter than it did of the eastern hemlock litter.",
+    "B": "The fungus left a certain percentage of the litter of each of the five species undecomposed, thus allowing some of it to persist in the soil.",
+    "C": "The fungus decomposed a lower percentage of the white ash litter than it did of the Chinese sweetgum litter.",
+    "D": "The fungus decomposed the same percentage of the eastern hemlock litter as it did of the sugar maple litter."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to support the student's argument that syringaldehyde alone does not fully explain R. australis's preference among litters. According to the table, the fungus decomposed 10% of northern red oak litter but only 1% of eastern hemlock litter—indicating a clear preference for oak over hemlock. The table also shows that neither species produces syringaldehyde. Because the presence or absence of syringaldehyde is the same for both species yet the decomposition rates differ substantially, some factor beyond syringaldehyde must be influencing the fungus's preferences.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Although the table shows that the fungus decomposed 1% of eastern hemlock litter and 1% of sugar maple litter, it also indicates that neither species produces syringaldehyde. Equal decomposition of two species that share the same syringaldehyde status is consistent with syringaldehyde being the sole factor driving preferences, so these data do not support the student's argument.",
+  "source": "https://cooksat.com/practice?questionId=99d97e24&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/99d97e24/1-cf570247a16929f2.png"
+    }
+  ]
+}

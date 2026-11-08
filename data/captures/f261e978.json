@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f261e978",
+  "capturedAt": "2026-11-08T03:55:50.824Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Biosensors—electronic devices that detect specific chemical compounds through biological recognition elements—can be used to monitor air quality in urban environments, though their accuracy (the probability of correctly identifying the presence or absence of target pollutants) in real-world atmospheric conditions has been unclear. Graciela Valverde et al. developed portable sensors incorporating enzymes targeting nitrogen dioxide (NO₂); the devices emit a blue light when the enzymes react with target molecules. Valverde et al. tested the sensors in downtown air samples they exposed to NO₂, other nitrogen compounds, or other atmospheric gases. Following exposure, the sensor from the NO₂ test emitted blue light while sensors from the other tests remained dark, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "biosensor-based monitoring in real-world environments is more likely to show a high degree of accuracy if the target pollutant is nitrogen dioxide than if the target pollutant is another nitrogen compound or another gas.",
+    "B": "uncertainty about the accuracy of biosensor-based monitoring for pollutants in real-world environments may be due to the similarity between nitrogen dioxide and other nitrogen compounds.",
+    "C": "the enzymes successfully reacted with nitrogen dioxide and the sensors displayed a high degree of accuracy in a real-world environment.",
+    "D": "the accuracy of the sensors in a real-world environment was unaffected by the enzymes' tendency to react with different nitrogen compounds."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most logically completes the text's discussion of biosensors' capacity to monitor pollutants in urban air. The text explains that although electronic biosensor devices can be used to monitor air quality because they detect specific chemical compounds, it hasn't been clear how accurately they will identify the presence or absence of target pollutants in real-world atmospheric conditions. The text then indicates that Valverde et al. created sensors that emit blue light when enzymes in them react with nitrogen dioxide, and tested them with downtown air samples (that is, a real-world environment); the sensors emitted blue light when exposed to air containing the target pollutant nitrogen dioxide, but remained dark when exposed to air treated with other nitrogen compounds or other gases. Based on this result, it seems the enzymes in the sensors successfully reacted with the target (NO₂) and the sensors had a high degree of accuracy (providing correct results for samples where the target was present and absent even though other compounds were present) when applied to a real-world environment.\n\nWhy A is incorrect:\n\nChoice A is incorrect because nothing in the text suggests that nitrogen dioxide differs from other pollutants in a way that makes it more suitable for biosensor-based monitoring of any kind and that accuracy is likely to be lower when biosensors target other gases; the text simply indicates that Valverde et al. used nitrogen dioxide as the target for biosensor monitoring in their study and suggests that the sensors had a high degree of accuracy.",
+  "source": "https://cooksat.com/practice?questionId=f261e978&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

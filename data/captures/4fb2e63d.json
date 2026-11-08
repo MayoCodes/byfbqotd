@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "4fb2e63d",
+  "capturedAt": "2026-11-08T00:31:26.578Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nShang-Min Tsai is studying monthly average household grocery spending in two large metropolitan areas from January to June. After comparing data from Riverton and Belmont, Tsai concludes that the two metropolitan areas show a similar pattern in monthly average household grocery spending from January to June.",
+  "prompt": "Which choice best describes data from the graph that support Tsai's conclusion?",
+  "choices": {
+    "A": "The monthly average household grocery spending in both Riverton and Belmont holds steady in March and April before beginning to decline in May.",
+    "B": "The monthly average household grocery spending in both Riverton and Belmont increases from January to March and then decreases from March to June.",
+    "C": "Riverton and Belmont both have less than $400 in monthly average household grocery spending from January to June.",
+    "D": "Riverton and Belmont both have more than $600 in monthly average household grocery spending from January to March and less than $400 from April to June."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it best describes data from the graph that support Tsai's conclusion about grocery spending in Riverton and Belmont. According to the graph, average spending increases in both cities from January to March: in Riverton, monthly spending rises from about $500 to $600, and in Belmont, monthly spending rises from about $600 to just under $700. The graph also shows that spending decreases in both cities from March to June: in Riverton, monthly spending falls from about $600 to about $250, and in Belmont, monthly spending falls from just under $700 to about $300. Thus, the two cities follow a similar pattern, increasing from January to March and then decreasing from March to June.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the graph shows that spending in both cities is below $400 only in May (for Riverton) and June. For most of the months represented, both cities have monthly average spending well above $400.",
+  "source": "https://cooksat.com/practice?questionId=4fb2e63d&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4fb2e63d/1-2cd2ac0b8972ae9e.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1411b0e9",
+  "capturedAt": "2026-11-08T04:20:47.028Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The Vespers Psalter and the Lindenwood Hours are considered workshop manuscripts, whereas the Brevarium Aureum and the Codex of Saint Aldric are classified as master-attributed illuminations—works produced under a named master's direct hand rather than by anonymous studio assistants. Unlike workshop pieces, master-attributed illuminations contain a relatively high proportion (greater than 30%) of burnished gold-leaf layers, a feature regarded as essential for conveying the master's signature luminosity. In a 2023 study, Bilal Owusu and Sarah Murphy found that the Antwerp Gradual—a richly decorated choir book that had long been catalogued as a workshop manuscript—contains burnished gold-leaf layers amounting to 46% of its illuminated surface, thereby undermining that classification.",
+  "prompt": "According to the text, which choice most accurately describes the importance of the percentage of burnished gold-leaf layers in the Antwerp Gradual?",
+  "choices": {
+    "A": "It is insufficient to establish that the Antwerp Gradual should be categorized as Owusu and Murphy suggest.",
+    "B": "It is higher than that of the Brevarium Aureum, a master-attributed illumination, despite the Antwerp Gradual being a workshop manuscript.",
+    "C": "It is higher than that of the Codex of Saint Aldric, a master-attributed illumination, which calls into question the Antwerp Gradual's status as a master-attributed illumination.",
+    "D": "It is, by itself, sufficient to invalidate how the Antwerp Gradual has been categorized in the past."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The passage states that master-attributed illuminations contain greater than 30% burnished gold-leaf layers, whereas workshop manuscripts do not. The Antwerp Gradual had been catalogued as a workshop manuscript, but Owusu and Murphy found that it contains burnished gold-leaf layers amounting to 46% of its illuminated surface, a finding the passage says undermines that classification. Thus, the measured percentage is, by itself, sufficient to invalidate how the Antwerp Gradual has been categorized in the past.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the text indicates that the Antwerp Gradual was classified as a workshop manuscript, not as a master-attributed illumination. The new finding calls into question its status as a workshop manuscript, not its status as a master-attributed illumination. The text also does not compare the Antwerp Gradual's percentage to that of the Codex of Saint Aldric.",
+  "source": "https://cooksat.com/practice?questionId=1411b0e9&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}

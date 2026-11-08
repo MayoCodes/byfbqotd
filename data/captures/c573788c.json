@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "c573788c",
+  "capturedAt": "2026-11-08T00:38:58.057Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nThe Colorado River Basin supports water use across many sectors, including municipal supply, energy production, and outdoor recreation. Claire Johansson, a student in an environmental science class, is researching recreational water use in the basin as a single category. She wants to compare that category's withdrawals from the basin in 2019 with the withdrawals made by three other sectors in the region. Looking at the table, Johansson finds that recreational water use totaled approximately 4.8 billion gallons, ranking it above ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the comparison?",
+  "choices": {
+    "A": "both municipal supply and energy production but below agriculture.",
+    "B": "municipal supply but below both agriculture and energy production.",
+    "C": "agriculture, energy production, and municipal supply.",
+    "D": "municipal supply and nearly equal to agriculture and energy production."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the comparison. The text states that recreational water use totaled approximately 4.8 billion gallons in 2019 and asks how it ranks against the three other sectors. According to the table, municipal supply had total withdrawals of 3,120,000,000 gallons (about 3.1 billion), which is less than recreational use's 4.8 billion. Meanwhile, energy production had withdrawals of 9,540,000,000 gallons (about 9.5 billion) and agriculture had withdrawals of 14,260,000,000 gallons (about 14.3 billion), both of which are greater than 4.8 billion. Therefore, recreational water use ranked above municipal supply but below both agriculture and energy production.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the table shows that agriculture had total withdrawals of about 14.3 billion gallons and energy production had withdrawals of about 9.5 billion gallons, both of which are greater than recreational use's 4.8 billion gallons. Therefore, recreational water use did not rank above agriculture and energy production.",
+  "source": "https://cooksat.com/practice?questionId=c573788c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c573788c/1-11a4fbd68e7d41e4.png"
+    }
+  ]
+}

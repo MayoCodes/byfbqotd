@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d75f99fa",
+  "capturedAt": "2026-11-08T00:40:14.871Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Investigating atmospheric mineral dust as a source of bioavailable iron for open-ocean phytoplankton, Alfonso Lacadena and Mwangi Khoury collected dust samples deposited on the surface waters of the subtropical North Atlantic and measured the fraction of iron released under three protocols: a filtered seawater leach, a seawater leach assisted by brief ultrasonication, and a dilute acetic acid digestion (a treatment that dissolves the thin ferric oxyhydroxide coatings in which much of the iron is sequestered). The fractions of total iron recovered were 2.1 percent under seawater leaching, 9.7 percent under ultrasonication, and 31.4 percent under acid digestion, leading the pair to conclude that previous flux budgets have likely underestimated the ocean's bioavailable iron input from atmospheric dust.",
+  "prompt": "Which detail, if true, would most directly support the team's conclusion?",
+  "choices": {
+    "A": "Most earlier studies of iron release from atmospheric dust have relied on extraction protocols that leave the ferric oxyhydroxide coatings substantially intact.",
+    "B": "Most earlier studies of iron release from atmospheric dust have examined samples drawn from regions where mineral dust varies widely in its mineralogical composition.",
+    "C": "Most earlier studies of iron release from atmospheric dust have reported recovered iron fractions well above 31.4 percent.",
+    "D": "Most earlier studies of iron release from atmospheric dust have applied acid digestion before, rather than after, seawater and ultrasonic treatments."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The team's conclusion that previous flux budgets have underestimated bioavailable iron input rests on their observation that only the acid digestion — which dissolves the ferric oxyhydroxide coatings that sequester most of the iron — recovered a large fraction (31.4 percent), far more than seawater leaching (2.1 percent) or ultrasonication (9.7 percent). If most earlier studies used protocols that left those coatings substantially intact, they would have recovered far less iron than is actually bioavailable, directly supporting the conclusion that earlier budgets underestimated the input.",
+  "source": "https://cooksat.com/practice?questionId=d75f99fa&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

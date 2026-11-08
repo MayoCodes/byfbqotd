@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "4a1bf147",
+  "capturedAt": "2026-11-08T00:30:49.329Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nMost denominations of US paper currency that remain in everyday circulation last fewer than eight years before wearing out, which is unsurprising given the intense handling that frequently exchanged bills endure. But not all circulating denominations wear out so quickly, as we can see most clearly in the example of the ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the example?",
+  "choices": {
+    "A": "$1,000 bill, which has a longer average lifespan than the $500 bill.",
+    "B": "$20 bill, which has an average lifespan of 8.8 years.",
+    "C": "$1,000 bill, which has an average lifespan of 22.4 years.",
+    "D": "$1 bill, which has an average lifespan above 8 years."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the example. The text states that most denominations of US paper currency in everyday circulation last fewer than eight years but notes that 'not all circulating denominations wear out so quickly,' indicating that the example should illustrate a circulating denomination that lasts more than eight years. According to the table, the $20 bill is in everyday circulation and has an average lifespan of 8.8 years, making it a clear example of a circulating denomination that does not wear out so quickly.",
+  "source": "https://cooksat.com/practice?questionId=4a1bf147&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/4a1bf147/1-d8c636ee2f6deb0a.png"
+    }
+  ]
+}

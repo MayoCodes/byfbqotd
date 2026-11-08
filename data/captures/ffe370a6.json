@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "ffe370a6",
+  "capturedAt": "2026-11-08T00:43:44.818Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nA student in an environmental science course, working under researcher Mwangi Hakim, is examining the decline since 1960 in average annual rainfall in various regions due to shifting atmospheric circulation and changes in ocean surface temperatures. The first task in this investigation is to determine how the decline in the Sahel, measured in millimeters, compares to that in other regions. The student finds that ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the student's conclusion?",
+  "choices": {
+    "A": "though the decline in rainfall in the Sahel was less than that in Northeast Brazil and the Horn of Africa, it was greater than that in Southwest Australia.",
+    "B": "though the decline in rainfall in the Sahel was greater than that in Northeast Brazil and the Horn of Africa, it was less than that in Southwest Australia.",
+    "C": "while the amount of rainfall rose in the Sahel between 1960 and 2020, it declined in Northeast Brazil, the Horn of Africa, and Southwest Australia.",
+    "D": "the percent decrease in rainfall was greater in the Sahel than it was in Northeast Brazil, the Horn of Africa, or Southwest Australia."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the student's conclusion about how the Sahel's decline in average annual rainfall, measured in millimeters, compares to that in other regions. The table shows that the Sahel experienced a decline of 180 mm between 1960 and 2020. This decline was less than those experienced by Northeast Brazil (240 mm) and the Horn of Africa (220 mm), but greater than the decline experienced by Southwest Australia (110 mm).\n\nWhy D is incorrect:\n\nChoice D is incorrect because the table shows that the Sahel's percent decrease was 22%, which was less than the percent decrease in the Horn of Africa (41%). Therefore, the Sahel did not have a greater percent decrease than all of the other regions.",
+  "source": "https://cooksat.com/practice?questionId=ffe370a6&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/ffe370a6/1-972400c2a4fee30f.png"
+    }
+  ]
+}

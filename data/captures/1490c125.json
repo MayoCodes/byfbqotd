@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "1490c125",
+  "capturedAt": "2026-11-08T00:26:39.257Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nBiologists Rizal Siddiqui and Nicolas Almeida investigated factors that shape foraging decisions in long-tailed macaques of Southeast Asia. Drawing on field observations that recorded whether individual macaques consumed particular plant foods and how much prior foraging experience each individual had accumulated, Siddiqui and Almeida claim that the likelihood of eating a given plant is driven in part by foragers' confidence in their assessments of edibility—essentially, the more experienced macaques are with foraging, the more confident they are at judging whether a plant is safe and nutritious, and thus the more likely they are to consume it.",
+  "prompt": "Which choice best describes data in the graph that support Siddiqui and Almeida's claim?",
+  "choices": {
+    "A": "At each plant food category, high-experience macaques were more likely than low-experience macaques to consume the plant.",
+    "B": "Only low-experience macaques foraging on novel plants had a consumption probability below 50%.",
+    "C": "The closer that plant food categories are to the ends of the familiarity scale, the more likely low-experience macaques were to consume them.",
+    "D": "High-experience macaques were more likely to forage on highly familiar staples or highly unfamiliar plants than low-experience macaques were."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it uses data from the graph to effectively support Siddiqui and Almeida's claim about how foraging experience affects macaques. The graph shows the probability of consumption for both low- and high-experience macaques across seven plant food categories. Siddiqui and Almeida claim that \"the more experienced macaques are with foraging…the more likely they are to consume it.\" This statement correctly asserts that the graph shows a higher probability of consumption for high-experience macaques than for low-experience macaques at each of the seven plant food categories. Thus, this statement accurately cites data from the graph that support Siddiqui and Almeida's claim about how experience affects foraging behavior.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the graph does not give any information about how many macaques are represented in any of the categories, so this statement is not based on data from the graph. Furthermore, even if we did have this information, the claim is about how level of foraging experience affects macaques' probability of consuming a plant, not whether they are likely to encounter particular categories of plants.",
+  "source": "https://cooksat.com/practice?questionId=1490c125&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1490c125/1-de1f6ebf860ae102.png"
+    }
+  ]
+}

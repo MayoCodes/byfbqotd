@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "227014d6",
+  "capturedAt": "2026-11-08T00:27:55.184Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nAcross Greater Minneapolis, dozens of small mutual aid networks coordinate food distribution, tutoring, and neighborhood repair efforts. Sociology student Rizal Reddy is analyzing these networks' combined activity as a single nonprofit sector. Reddy wants to compare the average number of hours that sector contributed per volunteer with the average hours contributed per volunteer by three other nonprofit sectors. Looking at the table, Reddy finds that mutual aid networks contributed about $112$ hours per volunteer, on average, ranking the sector ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the comparison?",
+  "choices": {
+    "A": "above all three of the other sectors listed in the table.",
+    "B": "below disaster relief but above both environmental conservation and youth education.",
+    "C": "above either youth education or environmental conservation and nearly equal to disaster relief.",
+    "D": "below all three of the other sectors listed in the table."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the comparison. The passage indicates that Reddy wants to compare the average number of hours that mutual aid networks contributed per volunteer with the averages of three other sectors. According to the table, mutual aid networks averaged $112$ hours per volunteer. That value is below disaster relief ($255$ hours per volunteer) but above both environmental conservation ($90$ hours) and youth education ($75$ hours).",
+  "source": "https://cooksat.com/practice?questionId=227014d6&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/227014d6/1-529c7d23d21b8234.png"
+    }
+  ]
+}

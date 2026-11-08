@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "bc8c3485",
+  "capturedAt": "2026-11-08T00:38:22.105Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Direct Data Lookup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nBetween 2000 and 2010, ecologist Sarah Maxwell and her team documented the years in which several invasive aquatic species were first detected in a set of North American freshwater lakes.",
+  "prompt": "According to the table, in what year was the zebra mussel first detected as mentioned in the text?",
+  "choices": {
+    "A": "2001",
+    "B": "2015",
+    "C": "2008",
+    "D": "2003"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accurately reflects the data in the table. According to the table, the zebra mussel was first detected in 2003.\n\nWhy C is incorrect:\n\nChoice C is incorrect. None of the species in the table have a year of 2008.",
+  "source": "https://cooksat.com/practice?questionId=bc8c3485&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/bc8c3485/1-fcc711f185aa46a0.png"
+    }
+  ]
+}

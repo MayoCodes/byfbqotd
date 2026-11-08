@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "7d79864a",
+  "capturedAt": "2026-11-08T00:34:30.280Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nWild Bee Visitation Rates per Flower per Hour in 1995 and 2020 Calculations may be inexact due to rounding In a field ecology course, Hua Yamada is examining the decline since 1995 in wild bee visitation rates in several temperate forest regions, a decline attributed to both habitat fragmentation and pesticide exposure. The first task in this investigation is to determine how the decline in the Serra do Mar region compares to that in other regions. Yamada finds that ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the student's conclusion?",
+  "choices": {
+    "A": "the decline in wild bee visitation rates was greater in Serra do Mar than it was in the Cascades, the Pyrenees, or the Appalachians.",
+    "B": "while wild bee visitation rates rose in Serra do Mar between 1995 and 2020, they declined in the Cascades, the Pyrenees, and the Appalachians.",
+    "C": "though the percent decrease in visitation rates in Serra do Mar was greater than that in the Cascades and the Appalachians, it was less than that in the Pyrenees.",
+    "D": "though the percent decrease in visitation rates in Serra do Mar was less than that in the Cascades and the Pyrenees, it was greater than that in the Appalachians."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to complete Yamada's conclusion about how Serra do Mar's decline in wild bee visitation rates compares to other regions. The stimulus states that the first task is to determine how the decline in Serra do Mar compares to that in other regions. According to the table, Serra do Mar's percent decrease in visitation rates was -18%, which is less than both the Cascades' -29% and the Pyrenees' -25%, but greater than the Appalachians' -8%. This choice accurately captures Serra do Mar's position relative to the three comparison regions using the percent change data.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it inaccurately describes the percent change data in the table. According to the table, Serra do Mar's percent decrease was -18%, which is less than both the Cascades' -29% and the Pyrenees' -25%. The choice incorrectly states that Serra do Mar's percent decrease was greater than the Cascades' and less than the Pyrenees', reversing the actual relationship between these regions.",
+  "source": "https://cooksat.com/practice?questionId=7d79864a&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/7d79864a/1-e436419535faaf38.png"
+    }
+  ]
+}

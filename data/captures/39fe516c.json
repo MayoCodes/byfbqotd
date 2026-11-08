@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "39fe516c",
+  "capturedAt": "2026-11-08T00:29:44.185Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nMany marine diatoms exhibit reduced growth when exposed to elevated levels of dissolved copper, a trace metal released into coastal waters by industrial runoff. Marine biologists Viktor Dalton and Lin Le hypothesized that diatoms' response to copper exposure involves altering their uptake of dissolved nutrients, such as silica and nitrate. The researchers cultured two groups of the diatom Thalassiosira pseudonana, one exposed to copper-enriched seawater and one serving as a control without added copper, and measured the cells' nutrient content seven days after inoculation.",
+  "prompt": "Which choice best describes data in the graph that support Dalton and Le's hypothesis?",
+  "choices": {
+    "A": "The control diatoms contained higher levels of silica than nitrate, but diatoms exposed to copper contained higher levels of nitrate than silica.",
+    "B": "Both groups of diatoms contained more than 200 picomoles per cell of both silica and nitrate.",
+    "C": "Silica levels were around 300 picomoles per cell in the control diatoms but nearly 400 picomoles per cell in the diatoms exposed to copper.",
+    "D": "The diatoms exposed to copper showed lower levels of both silica and nitrate than the control diatoms did."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. Dalton and Le hypothesized that diatoms respond to copper exposure by altering their uptake of dissolved nutrients such as silica and nitrate. The graph compares two groups of diatoms — one cultured without added copper and one exposed to copper. Silica content is around 400 picomoles per cell in the control group but only around 310 picomoles per cell in the copper-exposed group, and nitrate content is around 630 picomoles per cell in the control group but only around 230 picomoles per cell in the copper-exposed group. Because the copper-exposed diatoms contained substantially less of both nutrients than the control diatoms did, the data support the hypothesis that copper exposure alters nutrient uptake.",
+  "source": "https://cooksat.com/practice?questionId=39fe516c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/39fe516c/1-fa210ea84a3b318f.png"
+    }
+  ]
+}

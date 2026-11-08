@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "7151beb0",
+  "capturedAt": "2026-11-08T00:33:32.547Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nBilateral Free Trade Agreements and Firm Export BehaviorOne way that exporting firms reduce tariff costs is through bilateral free trade agreements (FTAs)—country-to-country pacts that often provide deeper tariff cuts on specific goods than broader multilateral pacts do. Because small firms typically lack the legal resources to navigate the complex rules-of-origin requirements of multilateral agreements while large firms routinely employ such resources, Lisa Randall and Ashok Nguyen hypothesized that it is more advantageous for small exporters than large exporters to route shipments through bilateral FTA partners, and this should be reflected in size-specific differences in routing behavior.",
+  "prompt": "Which choice best describes data from the table that support Randall and Nguyen's hypothesis?",
+  "choices": {
+    "A": "Firm 15 routed a higher proportion of shipments through bilateral FTA partners than did firm 16, and firm 1 routed a higher proportion of shipments through bilateral FTA partners than did firm 6.",
+    "B": "Firm 16 had the highest total number of shipments observed at 80.",
+    "C": "Firm 6 and firm 1 routed a lower proportion of shipments through bilateral FTA partners than did firm 15 and firm 16.",
+    "D": "The proportion of shipments routed through bilateral FTA partners ranged from a low of 0.33 to a high of 1.00."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it describes data from the table that support Randall and Nguyen's hypothesis. According to the text, the researchers hypothesized that it would be more advantageous for small exporting firms than for large ones to route shipments through bilateral FTA partners, and that this advantage should be reflected in size-specific differences in routing behavior—specifically, that small firms should route a higher proportion of their shipments through bilateral FTA partners than large firms do. The table shows data for four firms: two small firms (firms 15 and 16) and two large firms (firms 1 and 6). The two small firms routed proportions of 1.00 and 0.84 of their shipments through bilateral FTA partners, while the two large firms routed proportions of only 0.41 and 0.33. Thus, both small firms routed a higher proportion of their shipments through bilateral FTA partners than either large firm did, supporting the hypothesis about size-specific differences in routing behavior.\n\nWhy A is incorrect:\n\nChoice A is incorrect because although it accurately describes data from the table, it doesn't support Randall and Nguyen's hypothesis. The hypothesis predicts that there should be size-specific differences in routing behavior, with small firms routing a higher proportion of shipments through bilateral FTA partners than large firms do. This choice compares firms within each size group (firm 15 to firm 16, and firm 1 to firm 6) rather than comparing small firms to large firms, so it doesn't address the hypothesis about differences between the two groups.",
+  "source": "https://cooksat.com/practice?questionId=7151beb0&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/7151beb0/1-de0fb8d26ea201aa.png"
+    }
+  ]
+}

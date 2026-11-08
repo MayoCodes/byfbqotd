@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "391b508a",
+  "capturedAt": "2026-11-08T00:29:37.015Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nEconomists Mateo Espinoza and Amina Ozturk were analyzing regional free-trade zones in Southeast Asia when they observed that three of the zones were hosting clusters of small export firms. Additionally, the team found that manufacturing-sector firms and agricultural-sector firms operate within the same zone (the same regulatory environment), a pattern not seen among the special economic corridors of the neighboring subregion.",
+  "prompt": "Which choice best describes data from the graph that support the underlined claim?",
+  "choices": {
+    "A": "Each of the three zones hosted at least one manufacturing-sector firm and at least one agricultural-sector firm.",
+    "B": "Zone 1 hosted 16 manufacturing-sector firms.",
+    "C": "Each of the three zones hosted at least one manufacturing-sector firm and at least one services-sector firm.",
+    "D": "Zone 1 hosted 12 agricultural-sector firms."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it describes data from the graph that support the underlined claim that manufacturing-sector firms and agricultural-sector firms operate within the same zone. The graph shows that Zone 1 hosted 16 manufacturing firms and 12 agricultural firms, Zone 2 hosted 1 manufacturing firm and 2 agricultural firms, and Zone 3 hosted 2 manufacturing firms and 1 agricultural firm. Thus, each of the three zones contained both sector types, demonstrating that manufacturing and agricultural firms share the same regulatory environment.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Although this choice accurately describes data from the graph, it only mentions agricultural-sector firms in Zone 1 and doesn't address whether manufacturing and agricultural firms operate within the same zone, which is the focus of the claim.",
+  "source": "https://cooksat.com/practice?questionId=391b508a&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/391b508a/1-7669365121637e71.png"
+    }
+  ]
+}

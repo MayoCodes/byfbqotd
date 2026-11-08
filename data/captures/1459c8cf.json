@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1459c8cf",
+  "capturedAt": "2026-11-08T03:47:49.051Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Humanities/Arts",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The jazz standard \"Summertime\" has captivated audiences for decades, but the song's compositional origins remain disputed. A music publisher in New York claimed that it commissioned the original composition when the company was founded in the 1920s. The Gershwin estate argues that George Gershwin created the melody in 1934 for the opera \"Porgy and Bess.\" A recording studio in Chicago and a music conservatory in Boston also publicly declared that versions of \"Summertime\" performed at their venues in the 1930s were original compositions, each asserting that it held the authentic source. No definitive evidence has surfaced to support one of these assertions over the others, however. It thus seems that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "\"Summertime\" was first composed sometime before the 1920s.",
+    "B": "none of the supposed composers of \"Summertime\" are likely to have created it.",
+    "C": "we cannot say at present who actually composed the original \"Summertime.\"",
+    "D": "the music publisher in New York probably composed \"Summertime.\""
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents the conclusion that most logically completes the text's discussion of competing claims about the origins of \"Summertime.\" The text states that the song's compositional origins \"remain disputed.\" The text then presents four different entities that claim to have created the original \"Summertime\": a New York music publisher (1920s), the Gershwin estate (1934), a Chicago recording studio (1930s), and a Boston music conservatory (1930s). Lastly, the text states that \"no definitive evidence has surfaced to support one of these assertions over the others.\" Given this information, it most logically follows that it's not possible to determine who composed the original \"Summertime,\" as there is insufficient evidence to determine which claim, if any, is correct.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the text provides no basis for concluding that the New York music publisher \"probably\" composed \"Summertime.\" While the text mentions that this publisher claims to have commissioned the composition in the 1920s (making it the earliest claim), the text explicitly states that there's no definitive evidence supporting any of the claims about the song's origins over the others. The text presents all claims as equally lacking in definitive supporting evidence.",
+  "source": "https://cooksat.com/practice?questionId=1459c8cf&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

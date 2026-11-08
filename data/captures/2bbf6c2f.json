@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "2bbf6c2f",
+  "capturedAt": "2026-11-08T00:28:34.981Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nInterested in how the color of a product's packaging band affects consumer judgments of artisan food goods, Ligaya Ito, Antoine Maxwell, and colleagues showed close-up images of jarred preserves to participants and asked them to rate the products' qualities and their own purchasing attitudes. Ito and Maxwell suggest that differences in band color led participants to view some products as more handcrafted and in need of consumer support than others and that this phenomenon could help explain the association the researchers observed between band color and participants' inclinations to purchase or recommend the products, as illustrated by the finding that ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "the more handcrafted a product was perceived to be, the more likely participants were to rate it as having a bright band.",
+    "B": "participants favored the products in images 2 and 11, which they rated as more handcrafted than the products in images 20 and 16.",
+    "C": "participants rated the product in image 2 as more handcrafted than the product in image 11 and rated the product in image 16 as more handcrafted than the product in image 20.",
+    "D": "products that participants rated as more decorative were also products that participants indicated a stronger willingness to purchase or recommend."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the statement about Ito and Maxwell's findings. According to the text, the researchers suggest that band color led participants to view some products as more handcrafted and in need of consumer support, and this perception could help explain the association between band color and participants' willingness to purchase or recommend the products. The table shows that images 2 and 11, which feature muted bands, received higher ratings on the Mass-produced-Handcrafted scale ($3.64$ and $4.06$, respectively) than images 20 and 16, which feature bright bands ($2.08$ and $1.61$, respectively). At the same time, the products in images 2 and 11 received higher willingness-to-purchase scores (both $1.85$) and willingness-to-recommend scores ($2.45$ and $2.05$) than the products in images 20 and 16 ($1.5$ and $1.3$ for purchasing; $1.75$ and $1.6$ for recommending). Thus, participants favored the products they rated as more handcrafted, which supports Ito and Maxwell's suggestion that perceived need for consumer support (indicated by higher handcrafted ratings) is associated with greater willingness to purchase or recommend.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it reverses the relationship suggested by the data in the table. According to the table, products with muted bands (images 2 and 11) received higher Mass-produced-Handcrafted ratings ($3.64$ and $4.06$) than products with bright bands (images 20 and 16, with ratings of $2.08$ and $1.61$). The table also doesn't indicate that participants determined band color based on perceived handcrafted quality; rather, participants rated products with already-identified band colors on various qualities including handcrafted appearance.",
+  "source": "https://cooksat.com/practice?questionId=2bbf6c2f&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2bbf6c2f/1-f6e23acbe609ab39.png"
+    }
+  ]
+}

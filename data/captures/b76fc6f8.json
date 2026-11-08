@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b76fc6f8",
+  "capturedAt": "2026-11-08T00:37:52.842Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Engineers Giovanni Barrett, Deepak Hayashi, and colleagues evaluated the accent-recognition performance of eighteen voice-assistant smart speakers deployed in similar household environments. The team logged the signal-processing activity of each device — including a countertop model nicknamed Echo-7 and a shelf-mounted unit called Lyra — as the speakers received three audio inputs: a set of wake-word commands spoken in a British English accent, the same commands spoken in an Australian English accent, and a third recording assembled from short, randomly reordered fragments of the first two, scrambled so that the audio no longer resembled coherent speech. Each device had been trained on either the British or the Australian accent, but not both. The team concluded that the amount of prior accent exposure a device has received may influence its ability to distinguish familiar accents from unfamiliar ones.",
+  "prompt": "Which finding from the study, if true, would most directly support the team's conclusion?",
+  "choices": {
+    "A": "Devices showed a different pattern of signal-processing activity when receiving the accent they had been trained on than when receiving the scrambled recording, and the difference in processing activity increased with the number of months the device had been deployed.",
+    "B": "Although the devices' overall input sensitivity decreased with deployment duration, devices of all ages showed more signal-processing activity in response to the accent they had been trained on than in response to the other accent.",
+    "C": "The similarity between the pattern of signal-processing activity a device showed in response to the scrambled recording and the pattern it showed in response to the accent it had not been trained on was greatest among devices that had been deployed the longest.",
+    "D": "The difference between the pattern of signal-processing activity a device showed when receiving the accent it had been trained on and the pattern it showed when receiving the accent it had not been trained on was greatest among devices that had been deployed the longest."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The team concluded that the amount of prior accent exposure a device has received may influence its ability to distinguish familiar accents from unfamiliar ones. Devices that have been deployed the longest would have received the most prior exposure to the accent they were trained on. If such devices show the greatest difference in signal-processing activity between the familiar accent and the unfamiliar accent, that finding would directly support the claim that greater exposure sharpens the ability to tell familiar accents from unfamiliar ones.\n\nWhy B is incorrect:\n\nChoice B is incorrect because, although it shows that devices of all ages respond more to the familiar accent than to the unfamiliar one, it does not show that this difference grows with prior exposure. Without an exposure gradient — evidence that longer-deployed devices discriminate more sharply — the finding fails to support the claim that the amount of prior exposure influences the ability to distinguish familiar from unfamiliar accents.",
+  "source": "https://cooksat.com/practice?questionId=b76fc6f8&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

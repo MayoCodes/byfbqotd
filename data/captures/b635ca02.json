@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "b635ca02",
+  "capturedAt": "2026-11-08T00:37:45.310Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nIn arid ecosystems, desert shrubs can sustain transpiration only when soil moisture around their roots remains above a species-specific minimum threshold, and different shrubs vary considerably in how much moisture their roots require. A team led by Luca Novak and Hans Hoffman therefore measured the lowest volumetric soil moisture at which several native shrubs could still maintain stable transpiration. The team's field trials showed that creosote bush could sustain transpiration at soil moisture as low as 12%, a finding that suggests that ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the text?",
+  "choices": {
+    "A": "desert willow should demonstrate the opposite tendency.",
+    "B": "brittlebush should also demonstrate this capacity.",
+    "C": "the maximum soil moisture at which a desert shrub can sustain transpiration must be less than 20%",
+    "D": "brittlebush and desert willow, having lower minimum thresholds than creosote bush has, should also demonstrate this capacity."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the graph to complete the text's discussion of Novak and Hoffman's findings. The text states that creosote bush could sustain transpiration at soil moisture as low as 12%. The graph shows that brittlebush has a minimum threshold of only 8%, which is lower than creosote bush's 12%. Since brittlebush can sustain transpiration at even drier conditions than creosote bush can, it follows logically that brittlebush should also be capable of sustaining transpiration at the 12% level that was sufficient for creosote bush.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it contains a factual error about the data shown in the graph. The graph shows that brittlebush has a minimum threshold of 8% (lower than creosote bush's 12%) but that desert willow has a minimum threshold of 20% (higher than creosote bush's 12%). Since desert willow's threshold is not lower than creosote bush's, the claim that both brittlebush and desert willow have lower minimum thresholds than creosote bush is inaccurate.",
+  "source": "https://cooksat.com/practice?questionId=b635ca02&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b635ca02/1-abb99bb682bf4b8a.png"
+    }
+  ]
+}
