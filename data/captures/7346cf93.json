@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7346cf93",
+  "capturedAt": "2026-11-08T16:27:33.797Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Emphasis or Support",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In his documentary series Planet Earth, David Attenborough combines cutting-edge filming techniques with compelling storytelling to showcase the natural world. He uses time-lapse photography to capture the dramatic seasonal changes in temperate forests, revealing patterns invisible to real-time observation. ______ Attenborough employs underwater cinematography to document the hidden behaviors of deep-sea creatures, exposing rarely seen aspects of marine ecosystems.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Specifically,",
+    "B": "Thus,",
+    "C": "Similarly,",
+    "D": "Regardless,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"Similarly\" logically signals that the information in the sentence—that Attenborough uses underwater cinematography to reveal hidden marine behaviors—is similar to the previous information about time-lapse photography and forest patterns. Both sentences support the first sentence's claim that Attenborough combines filming techniques with storytelling to showcase nature.\n\nWhy A is incorrect:\n\nChoice A is incorrect because \"specifically\" illogically signals that the information about underwater cinematography in this sentence provides specific details elaborating on the previous information about time-lapse photography. Instead, it's similar to the previous information about time-lapse photography.",
+  "source": "https://cooksat.com/practice?questionId=7346cf93&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

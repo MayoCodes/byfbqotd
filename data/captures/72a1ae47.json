@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "72a1ae47",
+  "capturedAt": "2026-11-08T16:27:31.073Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Addition or Continuation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "A team led by marine biologist Ximena Lima found that many species of deep-sea sponges contain bioluminescent proteins, such as aequorin and obelin. ______ Lima detected aequorin in Euplectella aspergillum sponges and obelin in Hexactinella ventilabrum sponges.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Nevertheless,",
+    "B": "Likewise,",
+    "C": "For this reason,",
+    "D": "For example,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. \"For example\" logically signals that the information in this sentence—that Lima detected aequorin in Euplectella aspergillum sponges and obelin in Hexactinella ventilabrum sponges—provides specific instances supporting the previous sentence's general claim that many deep-sea sponge species contain bioluminescent proteins such as aequorin and obelin.\n\nWhy A is incorrect:\n\nChoice A is incorrect because \"nevertheless\" illogically signals that the information in this sentence contrasts with the claim in the previous sentence. Instead, the sentence provides specific examples supporting that claim.",
+  "source": "https://cooksat.com/practice?questionId=72a1ae47&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

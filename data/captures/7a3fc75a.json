@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7a3fc75a",
+  "capturedAt": "2026-11-08T16:27:47.408Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Emphasis or Support",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In the Gulf of Maine, oceanographers Samuel Dalton and Helen Magnusson report that average sea surface temperature rose from 10.8 degrees C to 11.4 degrees C between 2010 and 2020. ______ sea surface temperatures across the global ocean climbed as well, increasing by roughly 0.2 degrees C over that same ten-year span.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Concurrently,",
+    "B": "For example,",
+    "C": "In other words,",
+    "D": "Eventually,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Concurrently\" logically signals that the sea surface temperature rise across the global ocean described in this sentence occurred at the same time as the Gulf of Maine temperature rise described in the previous sentence, both taking place between 2010 and 2020.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"in other words\" illogically signals that the information about the global ocean is a restatement of the information about the Gulf of Maine. Instead, they report distinct measurements at different geographic scales occurring in the same period.",
+  "source": "https://cooksat.com/practice?questionId=7a3fc75a&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
