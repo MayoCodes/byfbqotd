@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9f1c86fb",
+  "capturedAt": "2026-11-08T03:52:58.224Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The neurological complexity of cephalopods—marine invertebrates with highly developed brains and sophisticated behaviors—complicates comparisons with most other invertebrates, in which simple neural networks distributed throughout the body are typical. Particularly puzzling are octopuses, thought to have evolved their centralized brain architecture from a known distributed neural origin. Applying genomic knowledge of Aplysia californica sea slugs (close relatives of octopuses, and thus expected to have similar markers for corresponding neural development) to the brain formation genes of Octopus bimaculoides, Birgitta Wiklund et al. observed activity only in central nervous system genes across O. bimaculoides's head region and some peripheral nervous system genes limited to the arms, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "despite the greater prevalence of central nervous system genes in octopuses' genetic makeup, peripheral nervous system genes active in the arms are primarily responsible for the complex behaviors that distinguish octopuses' intelligence from that of other cephalopods.",
+    "B": "contrary to the belief that they evolved from early ancestors with the distributed neural networks typical of many other invertebrates, octopuses instead originated with an atypical brain structure that was neither centralized nor distributed.",
+    "C": "the observed pattern of gene activity is consistent with central nervous system development in the head region and peripheral nervous system development in the arms.",
+    "D": "although the two species are closely related, there is only minimal correspondence in the genetic markers for central, peripheral, and intermediate neural development in O. bimaculoides octopuses and A. californica sea slugs."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C follows from the locations of the reported CNS and PNS gene activity; these observations do not establish the complete absence of other networks or the evolutionary steps that produced this organization.\n\nWhy B is incorrect:\n\nChoice B contradicts the passage's stated distributed neural origin and proposes an ancestral brain structure that the observations do not establish.",
+  "source": "https://cooksat.com/practice?questionId=9f1c86fb&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

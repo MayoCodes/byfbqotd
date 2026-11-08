@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9bd2eba1",
+  "capturedAt": "2026-11-08T03:52:54.857Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Marine biologist Beth Rowland and colleagues have identified a new species of deep-sea fish (Photichthys abyssos) in the Pacific Ocean. Like other deep-sea fish, P. abyssos has bioluminescent organs that produce light, but unlike others, the light-producing organs of P. abyssos are located on the underside of the fish rather than on top or sides. The researchers discovered the new species in particularly dark ocean depths where very little sunlight penetrates and few other light sources exist. Therefore, the researchers hypothesize that the P. abyssos species likely ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "represents one of many undiscovered bioluminescent fish species in the region.",
+    "B": "evolved to have underside lights to attract more prey from below than would lights on top or sides.",
+    "C": "developed underside lights early in development to generate more heat.",
+    "D": "is illuminated by other deep-sea creatures as they swim above it in the water column."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The text says that P. abyssos's light-producing organs are on the underside. It also says that the depths where P. abyssos lives have very little sunlight and few other light sources. This suggests that P. abyssos evolved underside lights in order to attract more prey from below.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This inference isn't supported. The text never suggests that P. abyssos's underside lights can attract creatures swimming above, so there's no basis to make this inference.",
+  "source": "https://cooksat.com/practice?questionId=9bd2eba1&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

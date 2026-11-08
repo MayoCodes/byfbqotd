@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a1308d70",
+  "capturedAt": "2026-11-08T03:53:01.056Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Some materials scientists posit that the crosslink networks in a specialty silicone elastomer produced at the Halden facility are inherited from precursor batches formulated before the facility's complete reformulation of its curing chemistry 42 years ago. In a 2019 study, however, Marco Graves and Elsa Mercer found that the mean age of the oldest intact crosslinks (the age of the earliest surviving bonds still present in the network) in Halden elastomers is 18.7 years; Graves and Mercer further found that the mean age of the oldest intact crosslinks in comparable specialty silicone elastomers across the industry is also approximately 18.7 years.",
+  "prompt": "As presented in the text, the findings of Graves and Mercer best support which statement?",
+  "choices": {
+    "A": "The crosslink networks in Halden elastomers belong to a lineage that likely originated outside the specialty silicone industry.",
+    "B": "The oldest intact crosslinks in Halden elastomers formed at least 42 years ago.",
+    "C": "The crosslink networks in Halden elastomers are not inherited from precursor batches that existed before the facility's reformulation.",
+    "D": "Most other components of Halden elastomers were incorporated into the material earlier than were the oldest intact crosslinks."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it states the conclusion best supported by the findings of Graves and Mercer. Some materials scientists hypothesized that the crosslink networks in Halden elastomers were inherited from precursor batches formulated before the facility's reformulation 42 years ago. For that hypothesis to hold, the oldest intact crosslinks would have to be at least 42 years old. Graves and Mercer, however, measured the mean age of those oldest intact crosslinks at only 18.7 years — far younger than the 42-year reformulation date. Because the measured bonds are much younger than the reformulation, the networks cannot be inherited from precursor batches that predated it.",
+  "source": "https://cooksat.com/practice?questionId=a1308d70&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
