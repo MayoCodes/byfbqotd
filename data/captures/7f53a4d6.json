@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7f53a4d6",
+  "capturedAt": "2026-11-08T16:43:09.670Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In 1969, American computer scientist Ray Tomlinson revolutionized digital communication by implementing email. Tomlinson's innovation built upon the basic file transfer system that computer engineers at his company ______ three years earlier, transforming it into a method for sending messages between users.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "had developed",
+    "B": "are developing",
+    "C": "will develop",
+    "D": "develop"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. Tomlinson implemented email in 1969, and the file transfer system was developed \"three years earlier.\" Notice that this is the only choice in the past tense. To indicate that a past occurrence took place before another past occurrence, we need to use \"had\" + the past tense form of the verb. This is called the \"past perfect\" tense.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This choice creates a tense error. The engineers developed the system in the past, so we shouldn't use the present tense \"develop.\"",
+  "source": "https://cooksat.com/practice?questionId=7f53a4d6&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
