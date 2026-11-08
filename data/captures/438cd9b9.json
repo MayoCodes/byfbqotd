@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "438cd9b9",
+  "capturedAt": "2026-11-08T16:40:56.153Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The Metropolitan Museum, founded in 1870, is the largest art museum in the United States. The museum ______ over 2 million works that span 5,000 years of history, such as ancient Egyptian artifacts and European paintings.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "to be housing",
+    "B": "housing",
+    "C": "houses",
+    "D": "to house"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, \"the museum\"), and this choice supplies the finite present tense verb \"houses\" to indicate what is in the museum.\n\nWhy B is incorrect:\n\nChoice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"housing\" doesn't supply the main clause with a finite verb.",
+  "source": "https://cooksat.com/practice?questionId=438cd9b9&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

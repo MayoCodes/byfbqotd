@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4d79938d",
+  "capturedAt": "2026-11-08T16:41:11.984Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The encrypted mesh network on which all campus devices rely for secure communication, ______",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "the signal patterns within the system were analyzed by engineers Renee Quinn and Noor Le to diagnose intermittent outages in SentinelMesh.",
+    "B": "SentinelMesh has been maintained by engineers Renee Quinn and Noor Le, who analyze its signal patterns to diagnose intermittent outages.",
+    "C": "SentinelMesh's routing protocols were analyzed by engineers Renee Quinn and Noor Le to diagnose intermittent outages in the system.",
+    "D": "the engineers who maintain SentinelMesh analyze its signal patterns to diagnose intermittent outages in the system."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun \"SentinelMesh\" the subject of the sentence and places it immediately after the modifying phrase \"The encrypted mesh network...communication.\" In doing so, this choice clearly establishes that SentinelMesh—and not another noun in the sentence—is the encrypted mesh network on which all campus devices rely for secure communication.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a dangling modifier. The placement of the noun phrase \"the engineers\" immediately after the modifying phrase illogically suggests that the \"engineers\" are the encrypted mesh network on which all campus devices rely for secure communication.",
+  "source": "https://cooksat.com/practice?questionId=4d79938d&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
