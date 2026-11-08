@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "77b50e63",
+  "capturedAt": "2026-11-08T16:08:11.032Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Hector Almeida was a contemporary muralist from Oaxaca, Mexico.\n• His murals combine European fresco techniques with elements of various Mesoamerican artistic traditions.\n• Almeida's mural Raíces del Valle features cochineal red, a pigment made from insects used by ancient Zapotec artists.\n• Almeida's mural Canto de Piedra incorporates crushed volcanic obsidian, a material used in Mixtec ceremonial works.",
+  "prompt": "The student wants to emphasize a difference between the two murals. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "While both murals integrate elements of Mesoamerican artistic traditions, Raíces del Valle does so by featuring cochineal red and Canto de Piedra does so by incorporating crushed volcanic obsidian.",
+    "B": "Raíces del Valle and Canto de Piedra are two murals created by Almeida, a contemporary muralist from Oaxaca.",
+    "C": "In his two murals Raíces del Valle and Canto de Piedra, Almeida blends elements of various Mesoamerican artistic traditions, such as Indigenous pigments or materials, with European fresco techniques.",
+    "D": "Almeida has different approaches to combining European fresco techniques with elements of various Mesoamerican artistic traditions, such as using Indigenous pigments and materials in his murals."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence uses \"while\" to emphasize a difference between the two murals, acknowledging that both integrate elements of Mesoamerican artistic traditions but noting that Raíces del Valle does so by featuring cochineal red whereas Canto de Piedra does so by incorporating crushed volcanic obsidian.",
+  "source": "https://cooksat.com/practice?questionId=77b50e63&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

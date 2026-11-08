@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "771e4062",
+  "capturedAt": "2026-11-08T16:08:05.581Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• In marine biology, the lifespan of whales can be measured in human lifespans.\n• One human lifespan is roughly equal to 80 years.\n• The typical lifespan of a gray whale is 1.0 human lifespans.\n• The typical lifespan of a bowhead whale is 2.5 human lifespans.",
+  "prompt": "The student wants to emphasize the lifespan of the bowhead whale. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The lifespan of whales, like gray whales, can be measured in human lifespans.",
+    "B": "In marine biology, the lifespan of whales can be measured in human lifespans, and one human lifespan is roughly equal to 80 years.",
+    "C": "Humans live longer than gray whales, which have a typical lifespan of 1.0 human lifespans.",
+    "D": "With a typical lifespan of 2.5 human lifespans, the bowhead whale lives longer than humans."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence emphasizes the lifespan of the bowhead whale, noting that it has a lifespan of 2.5 human lifespans and that it lives longer than humans.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The sentence emphasizes the lifespan of gray whales, not the lifespan of the bowhead whale.",
+  "source": "https://cooksat.com/practice?questionId=771e4062&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
