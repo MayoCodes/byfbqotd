@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "17de74dc",
+  "capturedAt": "2026-11-08T03:47:59.150Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In a four-year study of bacterial infections by Streptomyces beneficus in Apis mellifera honeybees, microbiologist Solveig Bakke and colleagues found something unexpected: rather than weakening its host's immune system, as is typical of pathogens, S. beneficus significantly boosts the disease resistance of an A. mellifera worker bee and appears to enhance overall health. Furthermore, those infected receive preferential treatment, abandoning their foraging duties to remain in the hive while uninfected workers feed, groom, and protect them. By contrast, the researchers observed that uninfected workers in infected hives have reduced lifespans, most likely because the ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "need to compensate for abandoned foraging duties while also caring for infected workers is taxing to the uninfected workers.",
+    "B": "uninfected workers are at high risk for direct contact with S. beneficus in the course of providing intensive care to the infected workers in the hive.",
+    "C": "high level of activity maintained by the uninfected workers makes them better able than infected workers to quickly relocate when the hive faces environmental threats.",
+    "D": "average lifespan of A. mellifera worker bees in hives without bacterial infections typically falls well below four years, the duration covered by the study."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The text states that S. beneficus enhances its host's health and that infected bees abandon foraging duties while uninfected workers 'feed, groom, and protect them.' If infected bees—who do less work—have enhanced health, then it can be inferred that workload affects lifespan: less work correlates with better health, more work correlates with shorter life. Since uninfected workers must take on both the neglected foraging duties of infected bees and the additional burden of caring for them, their increased workload would explain their reduced lifespans. Choice A correctly identifies this taxing compensation as the most likely cause.",
+  "source": "https://cooksat.com/practice?questionId=17de74dc&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

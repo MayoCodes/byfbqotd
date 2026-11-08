@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "14898e22",
+  "capturedAt": "2026-11-08T03:47:51.917Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Potassium-argon dating is a widely used method for determining the age of volcanic rocks by measuring the decay of potassium-40 into argon-40. However, the technique is typically unreliable for rocks younger than about 100,000 years, because too little argon-40 has accumulated to measure precisely. Tomas Almeida and Sylvia Magnusson designed a procedure that uses a laser to vaporize tiny spots on a rock sample and then measures the ratio of argon isotopes in the released gas. The approach isolates argon produced only by radioactive decay, filtering out contamination from atmospheric argon. Testing indicated that the procedure produced consistent ages for volcanic rocks as young as 30,000 years. This result suggests that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "unlike laser-based techniques, potassium-argon dating can determine the age of older volcanic rocks.",
+    "B": "the laser-based procedure may help solve a problem associated with potassium-argon dating of volcanic rocks.",
+    "C": "vaporizing rock samples at multiple spots improves the reliability of potassium-argon dating.",
+    "D": "combining potassium-argon dating with laser vaporization is likely the most accurate method for dating volcanic rocks."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The passage states that potassium-argon dating is 'typically unreliable for rocks younger than about 100,000 years' but that Almeida and Magnusson's laser-based procedure produced consistent ages for volcanic rocks as young as 30,000 years. This suggests that the laser-based procedure may help solve the problem of potassium-argon dating's unreliability with very young volcanic rocks.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The passage never discusses combining potassium-argon dating with laser vaporization, nor does it compare the accuracy of different dating methods, so there is no basis for this inference.",
+  "source": "https://cooksat.com/practice?questionId=14898e22&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

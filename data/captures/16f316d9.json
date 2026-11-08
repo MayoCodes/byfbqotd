@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "16f316d9",
+  "capturedAt": "2026-11-08T03:47:54.256Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Urban development can introduce large amounts of artificial lighting into forest ecosystems, disrupting natural light cycles and creating illuminated corridors that fragment wildlife habitat. Wildlife biologist Nisreen Fares and colleagues found that nocturnal insects living within these bright corridors benefit from extended foraging opportunities, leading to increased population growth in well-lit areas. At forest peripheries, however, artificial lighting can harm insect communities by disrupting migration patterns and attracting insects away from their natural habitats, suggesting that the presence of artificial lighting ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "can be beneficial to forests with low tree density but can be harmful to forests with high tree density.",
+    "B": "tends to be more heavily concentrated in areas of forest interiors with extended corridors than at forest peripheries.",
+    "C": "varies in brightness depending on the size of the corridor relative to the size of the surrounding forest.",
+    "D": "may promote increases in insect populations or decreases in insect populations, depending on the lighting's location."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents the conclusion that most logically follows from the text's discussion of how artificial lighting affects forest insect communities. The text explains that artificial lighting in bright corridors enables insects to have extended foraging opportunities, leading to population growth. The text goes on to point out that artificial lighting at forest peripheries disrupts migration patterns and draws insects away from natural habitats. Because lighting can both promote insect population growth in corridors and harm insect communities at peripheries, it's reasonable to infer that artificial lighting's effect on insect populations depends on where the lighting is located.",
+  "source": "https://cooksat.com/practice?questionId=16f316d9&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

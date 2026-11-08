@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "17e3beb7",
+  "capturedAt": "2026-11-08T03:48:01.474Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "A team of neuroscientists led by Thuy Dinh, Ramon Escalante, and Mya Rollins investigated the mechanism that allows zebrafish to rapidly adjust their swimming speed in response to changes in water current. They replaced the protein FLOW1 in the fish with a similar protein found in another species (goldfish) that, unlike zebrafish, displays no speed adjustment when water current changes. A comparison of unmodified zebrafish with the altered fish showed no difference in swimming at low current, but at high current, the unmodified fish exhibited rapid speed adjustment while the altered ones did not, which suggests that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "current-sensitive speed adjustment is unique to zebrafish.",
+    "B": "FLOW1 enables zebrafish to respond to changes in water current.",
+    "C": "zebrafish increases FLOW1 production as water current strengthens.",
+    "D": "high current levels are required for zebrafish to swim effectively."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most logically completes the text's discussion of rapid speed adjustment in zebrafish. The text indicates that zebrafish show rapid speed adjustment in response to changes in water current. To investigate the mechanism for this speed adjustment, neuroscientists replaced the FLOW1 protein in one group of zebrafish with a similar protein found in another fish species that doesn't show speed adjustment. The team then compared these modified fish to zebrafish that retained their original FLOW1 protein. The text states that the two samples of fish showed no difference in swimming at low current, but at high current the unaltered fish with FLOW1 showed rapid speed adjustment while the fish without FLOW1 didn't. If rapid speed adjustment at high current occurred in the zebrafish with FLOW1 but not in the fish without the protein, then FLOW1 likely enables zebrafish to respond to changes in water current.",
+  "source": "https://cooksat.com/practice?questionId=17e3beb7&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
