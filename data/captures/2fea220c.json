@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2fea220c",
+  "capturedAt": "2026-11-08T16:25:06.712Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Before it launched a major expansion program in 2015, the Central Public Library was only able to serve about 8% of the county's population with adequate resources. ______ the library is able to serve close to 35% of the county's population.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Additionally,",
+    "B": "For example,",
+    "C": "Nevertheless,",
+    "D": "Today,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. \"Today\" logically signals that the information in the sentence—that the library is able to serve close to 35% of the county's population—is true of the Central Public Library as it exists in the present day after the previously mentioned launch of the major expansion program in 2015.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"for example\" illogically signals that the information in the sentence exemplifies the previous information about the library before the expansion program launched. Instead, the sentence is about the library in the present day after the expansion program launched.",
+  "source": "https://cooksat.com/practice?questionId=2fea220c&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

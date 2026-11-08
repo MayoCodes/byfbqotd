@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "23d266dc",
+  "capturedAt": "2026-11-08T16:24:42.275Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In gemology, diamonds and rubies are classified as mineral gems, while pearls and amber are classified as organic gems. The categorical distinction between mineral and organic gems lies not in the stones' hardness or brilliance but in their origin: the former are formed by geological processes, while the latter are produced by living organisms. ______ a pearl is as much an organic gem as amber, despite its decidedly gem-like luster.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Though it is formed by living organisms,",
+    "B": "In a notable exception to this rule,",
+    "C": "By this definition,",
+    "D": "In fact,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"By this definition\" logically signals that the information in this sentence—that a pearl is an organic gem despite its gem-like luster—provides a specific application of the definition stated in the previous sentence about the categorical distinction between mineral and organic gems being based on origin (geological vs. biological) rather than physical properties.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"in a notable exception to this rule\" illogically signals that a pearl is an exception to the definition of organic gems stated in the previous sentence. Instead, a pearl perfectly follows that definition: it is produced by a living organism, so it is an organic gem despite its lustrous appearance.",
+  "source": "https://cooksat.com/practice?questionId=23d266dc&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2faca835",
+  "capturedAt": "2026-11-08T16:25:03.988Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In 1912, musicologists first catalogued the bowed string instrument known as the rebec as a distinctly medieval European creation—and, they assumed, one with no counterparts outside Europe. ______ researcher Quang Han would document nearly identical bowed instruments in Central Asian court traditions, but this finding wouldn't emerge until decades later.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In other words,",
+    "B": "For instance,",
+    "C": "Eventually,",
+    "D": "Earlier,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"Eventually\" logically signals that the documentation of nearly identical bowed instruments in Central Asian traditions occurred later in a chronological sequence than the 1912 cataloguing discussed in the previous sentence, consistent with the passage's statement that this finding \"wouldn't emerge until decades later.\"\n\nWhy A is incorrect:\n\nChoice A is incorrect because \"in other words\" illogically signals that the documentation of Central Asian bowed instruments is a paraphrase or restatement of the 1912 cataloguing discussed in the previous sentence. Instead, the documentation is a separate event that occurred decades after the 1912 cataloguing.",
+  "source": "https://cooksat.com/practice?questionId=2faca835&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

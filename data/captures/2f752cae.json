@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2f752cae",
+  "capturedAt": "2026-11-08T16:25:01.274Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The method used by early 20th-century ornithologists to estimate songbird populations in a forest, involving nothing more than a pocket watch, a notebook, and careful listening along a walking path, seems primitive today. ___ when Robert Caldwell and Pranav Ishikawa repeated the survey in 2019 using automated acoustic sensors and machine-learning classifiers, their population estimate differed from the original count by less than seven percent.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "For example,",
+    "B": "That said,",
+    "C": "As such,",
+    "D": "In other words,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. 'That said' logically signals that the claim in the second sentence — that the early ornithologists' count was within seven percent of a modern high-tech survey's estimate — is true despite the previous information suggesting that the old listening-based method seems primitive today.",
+  "source": "https://cooksat.com/practice?questionId=2f752cae&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

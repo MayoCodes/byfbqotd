@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2d696e66",
+  "capturedAt": "2026-11-08T16:24:55.841Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Addition or Continuation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Archaeologists suspect that pottery fragments discovered in southern Italy belong to ancient Greek vessels that were traded in the region during the 5th century BCE. Local folklore preserved by families in nearby villages corroborates this theory. ______ village legends tell of how amphora handles, containers the Greeks used for storing olive oil, were frequently found by farmers plowing their fields.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "For example,",
+    "B": "For this reason,",
+    "C": "However,",
+    "D": "Likewise,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"For example\" logically signals that the village legends about amphora handles mentioned in this sentence are examples consistent with the previous claim that local folklore corroborates the pottery theory.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"for this reason\" illogically signals that the village legends about the amphora handles were caused by the previous claim that local folklore corroborates the pottery theory. Instead, the amphora legends are examples consistent with the claim.",
+  "source": "https://cooksat.com/practice?questionId=2d696e66&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

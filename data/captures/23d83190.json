@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "23d83190",
+  "capturedAt": "2026-11-08T16:24:44.988Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "A black hole appears to be a void in space, a region where nothing exists and light cannot escape. ______ black holes are often incorrectly assumed to be empty spaces, hollow regions devoid of matter, when in fact they contain extraordinarily dense concentrations of mass, more akin to collapsed stars compressed into infinitesimally small points.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "That being said,",
+    "B": "However,",
+    "C": "For instance,",
+    "D": "Hence,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. \"Hence\" logically signals that the information in this sentence about black holes—that people incorrectly assume they are empty spaces—is a consequence of the holes appearing to be voids in space.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"for instance\" illogically signals that this sentence provides an example supporting the previous information about black holes appearing to be voids in space. Instead, it presents a consequence of that information.",
+  "source": "https://cooksat.com/practice?questionId=23d83190&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
