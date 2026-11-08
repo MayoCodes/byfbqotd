@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "506e61b4",
+  "capturedAt": "2026-11-08T04:22:24.427Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Alexander Dubois, Budi Vo, and colleagues demonstrated that rapid heating typically causes fracturing in quartz crystals, a finding explicable in terms of stress and release: the swift thermal expansion generates internal strain that quartz cannot dissipate quickly enough to avoid damage from the accumulating pressure against its rigid crystal lattice. Though many other rigid crystalline minerals respond to rapid heating similarly to quartz, micas display the opposite pattern, as their layered sheet-silicate structure permits a different balance of stress accumulation and relief.",
+  "prompt": "Based on the text, why do micas respond to rapid heating differently than quartz crystals do?",
+  "choices": {
+    "A": "Under such conditions, internal strain declines for micas but rises for quartz crystals.",
+    "B": "Although the stresses produced under such conditions are greater for micas than they are for quartz crystals, the capacity to release stress is also greater for micas.",
+    "C": "Under such conditions, the accumulated stresses are lower relative to the capacity for stress relief for micas than they are for quartz crystals.",
+    "D": "Due to their layered sheet-silicate structure, micas experience a reduction in their thermal conductivity under such conditions, whereas quartz crystals experience no change in their thermal conductivity."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it presents a statement about why micas respond differently to rapid heating than quartz crystals do that is supported by the text. The text explains that rapid heating fractures quartz because the swift thermal expansion generates internal strain that quartz cannot dissipate quickly enough to avoid damage. However, the text states that micas \"display the opposite pattern\" because \"their layered sheet-silicate structure permits a different balance of stress accumulation and relief.\" In other words, for micas, the capacity to relieve stress is sufficient to handle the accumulating strain, whereas for quartz, the stress outstrips the capacity for release. Thus, the accumulated stresses are lower relative to the capacity for stress relief for micas than they are for quartz.",
+  "source": "https://cooksat.com/practice?questionId=506e61b4&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}
