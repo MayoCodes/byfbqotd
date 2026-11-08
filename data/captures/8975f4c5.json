@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8975f4c5",
+  "capturedAt": "2026-11-08T16:28:22.850Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The tech entrepreneur Elon Musk has accomplished remarkable feats across multiple industries during his career. He revolutionized electric vehicles with Tesla and advanced space exploration through SpaceX's reusable rockets. Today, ______ he is mainly remembered by the general public for his controversial social media presence and acquisition of Twitter.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "therefore,",
+    "B": "likewise,",
+    "C": "however,",
+    "D": "for instance,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"However\" logically signals that the information in this sentence—that Musk is mainly remembered for just his social media controversies—is contrary to what might be assumed from the previous information about Musk's many technological achievements.\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"for instance\" illogically signals that this sentence exemplifies the previous information about Musk's many technological achievements. Instead, this sentence makes a point that is contrary to what might be assumed from the previous information.",
+  "source": "https://cooksat.com/practice?questionId=8975f4c5&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

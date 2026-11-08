@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7fcacda1",
+  "capturedAt": "2026-11-08T16:27:58.263Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "A 2018 study of memory retention examined the role of visual imagery—the use of mental pictures to encode information—in learning effectiveness. The study found that the stronger the visual imagery associated with new information, the more likely students were to remember it accurately. ______ the correlation between retention and visual imagery was lower than that between retention and another factor studied: spaced repetition.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In fact,",
+    "B": "In other words,",
+    "C": "Granted,",
+    "D": "As a result,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"Granted\" logically signals that the following information—that visual imagery is not as highly correlated with retention as spaced repetition—is true in spite of the information about the correlation between visual imagery and retention in the previous sentence.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"in other words\" illogically signals that the sentence that follows is a restatement of the information in the previous sentence; instead, the sentence that follows provides additional information that is true in spite of the preceding information.",
+  "source": "https://cooksat.com/practice?questionId=7fcacda1&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

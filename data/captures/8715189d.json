@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8715189d",
+  "capturedAt": "2026-11-08T16:28:17.388Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "With its focus on obscure mathematical proofs and dense theoretical frameworks, Dr. Nary Sam's 2019 research on quantum field topology may seem like impenetrable territory for undergraduate education. ______ education specialist Dr. Mataio Pula has discovered remarkable pedagogical opportunities in just the first chapter, dedicating an entire semester course to exploring the \"accessibility within complexity\" that Sam creates in her theoretical work.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Likewise,",
+    "B": "In turn,",
+    "C": "That is,",
+    "D": "Nonetheless,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. \"Nonetheless\" logically signals that this sentence about Dr. Pula's educational work contradicts the expectation set up in the previous sentence—while Sam's research may seem like \"impenetrable territory\" for undergraduate education, Pula nonetheless found it suitable for \"an entire semester course.\"\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"in turn\" illogically signals that the information in this sentence about Dr. Pula's educational work occurs as a result of or in sequence with Sam's research seeming impenetrable for education. Instead, the sentence contradicts the expectation that the research would be unsuitable for undergraduate education.",
+  "source": "https://cooksat.com/practice?questionId=8715189d&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

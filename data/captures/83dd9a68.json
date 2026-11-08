@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "83dd9a68",
+  "capturedAt": "2026-11-08T16:28:11.936Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The more complex and varied a company's operations, the larger and more sophisticated the management structure tends to be. ______ from an efficiency perspective, businesses with simple, straightforward processes should require fewer administrative layers and management personnel. Small startups with limited product lines provide an opportunity to explore this hypothesis.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Thus,",
+    "B": "Subsequently,",
+    "C": "Besides,",
+    "D": "Nevertheless,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Thus\" logically signals that the claim in this sentence—that businesses with simple processes should require fewer administrative layers and management personnel—is a consequence of the previous sentence's claim about management complexity (namely, that the more complex a company's operations, the more sophisticated its management structure needs to be).\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"nevertheless\" illogically signals that the claim in this sentence is true in spite of the previous sentence's claim about management complexity. Instead, the second claim is a consequence of the first.",
+  "source": "https://cooksat.com/practice?questionId=83dd9a68&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
