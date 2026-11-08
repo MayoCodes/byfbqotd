@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "74f8c185",
+  "capturedAt": "2026-11-08T16:07:57.382Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Great Barrier Reef is a coral reef system off the coast of Australia.\n• In 2016, scientists began a major coral restoration project in the reef.\n• Since then, the number of restored coral colonies has grown to approximately 250.\n• This number represents significant progress toward the project's goals.\n• Coral restoration involves transplanting healthy coral fragments to damaged areas to promote reef recovery.",
+  "prompt": "The student wants to specify the number of restored coral colonies in the Great Barrier Reef. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Scientists began a major coral restoration project in the Great Barrier Reef, a coral reef system off the coast of Australia, in 2016.",
+    "B": "As of 2016, there was a coral restoration project underway in the Great Barrier Reef, a coral reef system off the coast of Australia.",
+    "C": "The Great Barrier Reef is a coral reef system that has approximately 250 restored coral colonies.",
+    "D": "Coral restoration, such as the work being done in the Great Barrier Reef, involves transplanting healthy coral fragments to damaged areas to promote reef recovery."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. This choice uses relevant information from the third bullet point to state the approximate number of restored coral colonies in the Great Barrier Reef.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This choice mentions the year the coral restoration project began but not how many restored coral colonies there are currently.",
+  "source": "https://cooksat.com/practice?questionId=74f8c185&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
