@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fc0ab7c9",
+  "capturedAt": "2026-11-08T17:59:04.605Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In 2019, designers Chen and Li Wang reimagined the lighting and staging for The San Francisco Opera's revival of ______ to critics, the Wangs' innovations successfully incorporated contemporary digital elements while honoring the opera's classical traditions.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Tosca according,",
+    "B": "Tosca, according",
+    "C": "Tosca. According",
+    "D": "Tosca according"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"In 2019...Tosca\") and another (\"According...traditions\"). The supplementary element \"according to critics\" modifies the main clause of the second sentence (\"the Wangs'...traditions\").\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a run-on sentence. The sentences are fused without punctuation and/or a conjunction.",
+  "source": "https://cooksat.com/practice?questionId=fc0ab7c9&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
