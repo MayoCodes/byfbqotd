@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6831d9bf",
+  "capturedAt": "2026-11-08T17:52:53.680Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Piezoelectric quartz crystals generate measurable voltage under mechanical stress. In a 2023 experiment, physicists Liang Reddy and Mariam Ndlovu examining links between the direction along which a compressive force was ______ studied hundreds of thin crystal samples cut at varying angles. They found that samples aligned with the crystal's polar axis produced substantially higher voltages than samples cut off-axis did.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "applied and the lattice orientation",
+    "B": "applied, and the lattice orientation",
+    "C": "applied and the lattice orientation,",
+    "D": "applied, and the lattice orientation,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation with coordinated noun phrases. No punctuation is needed to join the two objects of the preposition 'between': 'the direction along which a compressive force was applied' and 'the lattice orientation.' Because these two noun phrases are coordinated with 'and,' no punctuation is necessary, and the full prepositional phrase must remain connected to the verb 'studied.'\n\nWhy B is incorrect:\n\nChoice B is incorrect because no punctuation is needed before the conjunction 'and' when it joins two coordinated objects of the preposition 'between.' The comma incorrectly suggests that 'and' is joining two independent clauses rather than two noun phrases.",
+  "source": "https://cooksat.com/practice?questionId=6831d9bf&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

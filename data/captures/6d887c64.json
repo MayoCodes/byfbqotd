@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6d887c64",
+  "capturedAt": "2026-11-08T17:53:04.802Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon Between Independent Clauses",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The Digital Humanities Initiative, which was launched by the university consortium in 2018, represented a groundbreaking approach to interdisciplinary ______ it combined cutting-edge technology with traditional scholarly methods while also creating new pathways for collaborative research across multiple institutions.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "scholarship and",
+    "B": "scholarship",
+    "C": "scholarship,",
+    "D": "scholarship;"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice uses a semicolon to correctly join the first main clause (\"The Digital...scholarship\") and the second main clause that begins with \"it.\"\n\nWhy A is incorrect:\n\nChoice A is incorrect. When coordinating two longer main clauses such as these, it's conventional to use a comma before the coordinating conjunction.",
+  "source": "https://cooksat.com/practice?questionId=6d887c64&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

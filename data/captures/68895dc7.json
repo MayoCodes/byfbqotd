@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "68895dc7",
+  "capturedAt": "2026-11-08T17:52:56.485Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In 2020, a team of linguists led by Dr. Eloise Gauthier analyzed every recorded instance of language shift in bilingual communities from the past three decades. With this comprehensive database, the team was able to establish how socioeconomic factors influence language preservation across ______ and what role education plays in maintaining linguistic diversity within immigrant populations.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "generations,",
+    "B": "generations:",
+    "C": "generations;",
+    "D": "generations"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation between coordinates in a sentence. The two elements \"how…generations\" and \"what…populations\" work together as coordinates to complete the description of what the team was able to establish. Because there are only two coordinates in this case (as opposed to a series of three or more), no punctuation is needed between them.\n\nWhy A is incorrect:\n\nChoice A is incorrect because no punctuation is needed between the coordinates \"how…generations\" and \"what…populations.\"",
+  "source": "https://cooksat.com/practice?questionId=68895dc7&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

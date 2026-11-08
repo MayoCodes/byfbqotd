@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6becaf15",
+  "capturedAt": "2026-11-08T17:52:59.281Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Although the medieval Italian city-states—autonomous urban centers that flourished between the eleventh and fifteenth centuries—operated under distinct local laws, their political systems shared recurring features. These included a written constitution, often called a statuto, that codified rules of ______ of merchants, artisans, and minor nobles who debated civic affairs; and rotating magistracies designed to prevent the concentration of power.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "governance. Assemblies",
+    "B": "governance: assemblies",
+    "C": "governance; assemblies",
+    "D": "governance, assemblies"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the punctuation of elements in a complex series. It is conventional to use a semicolon to separate items in a complex series whose individual items contain internal commas. The semicolon after 'governance' separates the first item ('a written constitution…governance') from the second item ('assemblies…civic affairs'), and it matches the semicolon used later to separate the second item from the third item ('and rotating magistracies…power').\n\nWhy A is incorrect:\n\nChoice A is incorrect because using a period after 'governance' would result in an incomplete construction. The text that follows ('Assemblies of merchants, artisans, and minor nobles who debated civic affairs; and rotating magistracies designed to prevent the concentration of power.') lacks a main verb and cannot stand as a complete sentence. Additionally, a period doesn't conventionally separate items in a series.",
+  "source": "https://cooksat.com/practice?questionId=6becaf15&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

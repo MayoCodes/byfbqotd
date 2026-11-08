@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6de469a3",
+  "capturedAt": "2026-11-08T17:53:07.563Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma After Introductory Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Though it was catalogued under the designation C/2023 ______ comet became widely known to skywatchers as Tsuchinshan-ATLAS after its two discovering observatories.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "A3, and the",
+    "B": "A3. The",
+    "C": "A3 the",
+    "D": "A3, the"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of punctuation between an introductory dependent clause and a main clause. This choice correctly uses a comma to mark the boundary between the introductory dependent clause (\"Though...C/2023 A3\") and the main clause (\"the comet...observatories\").\n\nWhy A is incorrect:\n\nChoice A is incorrect. Joining the introductory dependent clause and the main clause with both a comma and the conjunction \"and\" results in a confusing and ungrammatical sentence.",
+  "source": "https://cooksat.com/practice?questionId=6de469a3&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
