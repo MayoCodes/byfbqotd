@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "037f4b2d",
+  "capturedAt": "2026-11-08T15:58:09.980Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nComputer-generated music, which uses algorithms and software to compose melodies and harmonies, cannot be considered genuine musical composition. It lacks the creativity and emotional depth that human composers bring to their work. Creating music through programming is far simpler than traditional composition: the software is handling the complex musical decisions.\n\nText 2\nThe programs used to generate computer music require much more than simply running an algorithm. Beyond understanding musical theory and composition principles, creators must master complex programming languages and audio synthesis techniques. Many composers begin by sketching musical ideas by hand before coding them into software, where they can experiment with intricate harmonic structures and timbres that would be impossible to achieve with traditional instruments alone.",
+  "prompt": "Based on the texts, how would the author of Text 2 most likely respond to the claims of the author of Text 1?",
+  "choices": {
+    "A": "By insisting that computer music requires musical knowledge and creativity even if it uses different methods",
+    "B": "By arguing that computer-generated music can still be performed by traditional orchestras",
+    "C": "By explaining that programming music software is actually more difficult than writing music with traditional notation",
+    "D": "By admitting that most computer music creators don't believe music theory knowledge is necessary"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it reflects how the author of Text 2 would respond to the claims in Text 1. Both texts address skills needed to create computer-generated music. Text 1 claims that computer music lacks creativity and that \"the software is handling the complex musical decisions.\" Text 2 states that computer music requires \"understanding musical theory and composition principles\" and that many creators begin by \"sketching musical ideas by hand\" before coding them using \"complex programming languages\" and experimenting with \"intricate harmonic structures.\" Therefore, the author of Text 2 would most likely insist that computer music requires musical knowledge and creativity even if it uses different methods.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the author of Text 2 doesn't address whether programming music software is more difficult than traditional composition. Text 2 does argue that computer music requires skills beyond traditional composition methods, but the text doesn't address relative difficulty.",
+  "source": "https://cooksat.com/practice?questionId=037f4b2d&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

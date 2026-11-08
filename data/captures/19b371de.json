@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "19b371de",
+  "capturedAt": "2026-11-08T15:58:20.827Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Complementary Text",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nIn 2008, archaeologist Maria Fernandez analyzed a ceramic fragment discovered in coastal Peru, dating it to 1180–1250 CE—well before Spanish contact in the 1530s. Fernandez found that the pottery shared a distinctive firing technique and clay composition with ancient ceramics from Easter Island (Rapa Nui) in the Pacific. Thus, Polynesian navigators, not later Spanish colonizers, likely first brought advanced pottery methods to the Peruvian coast.\n\nText 2\nA New Zealand research team challenged the case for Polynesian origins of Peruvian ceramics by demonstrating that the firing technique identified by Fernandez had been independently developed across multiple Pacific cultures. More recently, however, a team led by Carlos Vega-Santos discovered that Peruvian coastal pottery and Easter Island ceramics share distinctive mineral inclusions and temper patterns that Spanish colonial ceramics lack entirely. Thus, the weight of evidence now supports a Polynesian origin.",
+  "prompt": "Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?",
+  "choices": {
+    "A": "By broadly agreeing with the claim but arguing that the chronology it assumes is inconsistent with the ceramic analysis conducted by Fernandez's team",
+    "B": "By challenging the claim for failing to consider that pottery techniques could have been transmitted from Peru to Easter Island rather than the reverse",
+    "C": "By acknowledging that while the claim is convincing, the findings of Vega-Santos's team offer more compelling evidence for it than the ceramic analysis conducted by Fernandez does",
+    "D": "By questioning the claim for relying on an assumption that Spanish colonial pottery traditions were technologically homogeneous before contact with the Americas"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it accurately describes how the author of Text 2 would most likely respond to the underlined claim in Text 1. Text 1 indicates that Fernandez found shared firing techniques and clay composition between Peruvian and Easter Island ceramics, suggesting that Polynesian navigators brought pottery methods to Peru. Text 2 explains that the firing technique Fernandez identified was independently developed across multiple cultures, thus undermining this technique as evidence of Polynesian origin. However, Text 2 goes on to say that Vega-Santos and colleagues found distinctive mineral inclusions and temper patterns shared by Peruvian and Easter Island pottery but absent in Spanish ceramics, which strongly indicates a Polynesian origin. This shows that the author of Text 2 believes Vega-Santos's evidence for a Polynesian origin is more compelling while Fernandez's evidence has been weakened. Thus, the author of Text 2 would most likely agree with the underlined claim and believes Vega-Santos's evidence for the claim is stronger than Fernandez's evidence is.",
+  "source": "https://cooksat.com/practice?questionId=19b371de&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

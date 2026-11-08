@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1cfbee85",
+  "capturedAt": "2026-11-08T15:58:23.525Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nResearch in educational psychology consistently demonstrates that students pursue learning opportunities even when they receive no grades, credits, or external rewards for doing so. Such findings support the prevailing view among education researchers: namely, that genuine learning is not driven by external incentives but instead represents an intrinsic desire to understand and grow intellectually.\n\nText 2\nWhile recognizing that intrinsic motivation is indeed a significant factor in learning, Seon-Hwa Min and her research team conducted a study to examine whether highlighting real-world applications could enhance student engagement with abstract mathematical concepts. They discovered that when topics like calculus and statistics were presented with clear connections to career fields and practical problem-solving, students showed significantly higher levels of participation and retention than when the same material was taught without emphasizing its applications.",
+  "prompt": "Based on the texts, how would Min and her team (Text 2) most likely respond to the prevailing view discussed in Text 1?",
+  "choices": {
+    "A": "By suggesting that learning motivation may not be exclusively driven by the desire for intellectual growth",
+    "B": "By arguing that students may pursue learning without external rewards only because they expect future practical benefits",
+    "C": "By noting that it is difficult to distinguish between intrinsically and extrinsically motivated learning behaviors",
+    "D": "By challenging the notion that intrinsic motivation can account for students' willingness to learn without external rewards"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The researchers in Text 2 acknowledge that intrinsic motivation is a significant factor in learning, but demonstrated that this motivation can be enhanced by other elements, such as whether students perceive the material as having practical applications. This suggests that additional factors beyond purely intellectual curiosity may contribute to driving students' learning motivation.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This choice contradicts Text 2, which begins with Min and her team \"recognizing that intrinsic motivation is indeed a significant factor\" (i.e., accepting that intrinsic motivation explains learning without external rewards). The research in Text 2 simply indicates that more than just intrinsic motivation can influence learning behavior when practical applications are emphasized.",
+  "source": "https://cooksat.com/practice?questionId=1cfbee85&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

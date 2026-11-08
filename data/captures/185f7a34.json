@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "185f7a34",
+  "capturedAt": "2026-11-08T15:58:18.125Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Complementary Text",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nThe notion that light behaves predictably is fundamental to optics, yet recent findings have created confusion among physicists. According to classical wave theory, light should exhibit consistent interference patterns when passed through double-slit experiments—the waves should interact in mathematically predictable ways that can be precisely calculated. But emerging quantum mechanical models suggest that individual photons should behave unpredictably, making such precise calculations impossible.\n\nText 2\nIn 2018, physicists Soo-Min Park et al. conducted an experiment in which they observed unexpected randomness in photon behavior during double-slit trials, using advanced detectors to track individual particles through crystalline silicon barriers. The results showed interference patterns that defied classical predictions, but the experiment \"does not identify...what mechanism produces [the randomness] at the individual particle level,\" noted coauthor Dr. Sami Bazzi.",
+  "prompt": "Based on the texts, what would the author of Text 1 most likely say about the experiment described in Text 2?",
+  "choices": {
+    "A": "It would suggest an important avenue for additional study were it not the case that two of the researchers who performed the experiment hold conflicting views about interpreting its results.",
+    "B": "It is consistent with the current understanding of physics at the quantum level but not at the classical level.",
+    "C": "It offers experimental evidence that the current understanding of an aspect of physics at the particle level must be incomplete.",
+    "D": "It validates a theory about controlled photon behavior in laboratory conditions, but that theory should not be applied to natural light phenomena."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Author 1 describes the confusion that physicists face: classical theory suggests light should exhibit \"consistent interference patterns\" that are \"precisely calculated,\" while quantum models suggest individual photons \"should behave unpredictably.\" The experiment confirmed the unpredictable behavior at the individual particle level, but it didn't explain the underlying mechanism. This supports Author 1's point that physicists still don't fully understand how things work at the particle level—perhaps the current models need revision.",
+  "source": "https://cooksat.com/practice?questionId=185f7a34&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

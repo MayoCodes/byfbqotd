@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "089d7fcf",
+  "capturedAt": "2026-11-08T15:58:12.680Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nDevelopment of synthetic gene drives—genetic constructs that combine multiple regulatory elements, such as a CRISPR cutting module paired with a tissue-specific promoter, in order to spread a chosen trait through wild populations—has far outstripped field studies of their ecological risks. Predicting drive behavior from its separate elements is unreliable, because combination may alter an element's activity such that individually harmless components yield a construct that is anything but.\n\nText 2\nThe possibility that assembled gene drives may behave more aggressively than their individual elements would suggest has rightly attracted scrutiny, but the consequences of combination are not uniform across constructs. In recent laboratory trials, for example, pairing a self-limiting promoter with a standard CRISPR module produced a drive that retained the intended capacity to suppress a target pest population while losing the unchecked invasiveness that the CRISPR module exhibits on its own.",
+  "prompt": "Based on the texts, how would the author of Text 2 most likely respond to the assertion in the underlined portion of Text 1?",
+  "choices": {
+    "A": "By concurring that the risk described in Text 1 warrants examination but emphasizing that the risk is more than offset by the potential benefits of combining regulatory elements",
+    "B": "By arguing that the situation described in Text 1 may not be representative but conceding that the effects of combining regulatory elements are harder to predict than researchers had anticipated",
+    "C": "By denying that the circumstance described in Text 1 is likely to occur but acknowledging that many aspects of combining regulatory elements remain poorly understood",
+    "D": "By agreeing that the possibility described in Text 1 is a cause for concern but pointing out that combining regulatory elements does not inevitably produce that result"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The author of Text 2 grants that assembled gene drives may behave more aggressively than their individual elements would predict and says this possibility 'has rightly attracted scrutiny,' indicating agreement that the concern is legitimate. However, Text 2 then cites a trial in which pairing a self-limiting promoter with a CRISPR module produced a drive that suppressed the target pest while losing the unchecked invasiveness of CRISPR alone—demonstrating that combination does not always produce the harmful outcome Text 1 describes.\n\nWhy A is incorrect:\n\nChoice A is incorrect. Although Text 2 offers an example of a combined construct that is safer than one of its components, it does not claim that benefits outweigh risks. Text 2 only argues that 'the consequences of combination are not uniform across constructs,' which is a claim about variability, not about a favorable benefit-to-risk balance.",
+  "source": "https://cooksat.com/practice?questionId=089d7fcf&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

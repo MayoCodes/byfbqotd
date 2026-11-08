@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "91833415",
+  "capturedAt": "2026-11-08T16:00:16.962Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nThe proliferation of hybrid AI systems—models created by combining multiple distinct algorithms, such as neural networks and decision trees integrated for enhanced pattern recognition—has advanced faster than research into their systemic vulnerabilities. Regrettably, security assessments based on individual algorithms are inadequate: integration may fundamentally alter each algorithm's computational behavior such that robust individual components form a hybrid system that is anything but.\n\nText 2\nThe possibility of amplified security risks in hybrid AI systems compared to their constituent algorithms has rightfully garnered attention, but the consequences of algorithmic integration depend on the specific implementation. Recent research demonstrated that a hybrid combining deep learning and rule-based logic maintained the deep learning component's accuracy while eliminating the unpredictable decision-making that had previously made the system unreliable in critical applications.",
+  "prompt": "Based on the texts, how would the author of Text 2 most likely respond to the assertion in the underlined portion of Text 1?",
+  "choices": {
+    "A": "By concurring that the vulnerability described in Text 1 merits investigation but emphasizing that the risk is more than compensated for by the performance gains of algorithmic integration",
+    "B": "By arguing that the scenario described in Text 1 may not be typical but conceding that the effects of algorithmic integration are more complex than developers had anticipated",
+    "C": "By disputing that the situation described in Text 1 is probable but acknowledging that many dimensions of algorithmic integration remain poorly understood",
+    "D": "By accepting that the risk described in Text 1 is a legitimate concern but noting that algorithmic integration does not inevitably produce that outcome"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The author of Text 2 acknowledges that hybrid AI systems may have greater security risks than their individual components, but also provides an example of a hybrid that reduced rather than amplified problems: deep learning and rule-based logic together maintained the accuracy benefits while eliminating the unpredictability that the deep learning component had on its own.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The author of Text 2 agrees that the security risks of hybrid systems have 'rightfully garnered attention,' so they aren't disputing the likelihood of the problem.",
+  "source": "https://cooksat.com/practice?questionId=91833415&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}
