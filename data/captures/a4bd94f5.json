@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a4bd94f5",
+  "capturedAt": "2026-11-08T16:29:14.784Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Hispidin-3-hydroxylase (H3H), characterized in bioluminescent fungi by Natalie Colombo and Eleanor Dubois, is a specialized enzyme that can hydroxylate the substrate hispidin to produce the light-emitting precursor 3-hydroxyhispidin and can also operate as a general flavin-dependent monooxygenase, a class of enzyme found across many fungal species. ______ H3H is a bifunctional enzyme whose presence indicates a fungus is capable of emitting light; in contrast, the presence of a generic monooxygenase alone would be insufficient for determining bioluminescence.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Nevertheless,",
+    "B": "In fact,",
+    "C": "Moreover,",
+    "D": "That is,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. 'That is,' logically signals that the second sentence — which describes H3H as a bifunctional enzyme whose presence indicates bioluminescence capability, in contrast to a generic monooxygenase — provides a precise restatement and clarification of the more technical information in the first sentence about H3H's dual activity on hispidin and its role as a general flavin-dependent monooxygenase.\n\nWhy C is incorrect:\n\nChoice C is incorrect because 'moreover' illogically signals that the second sentence adds a new, separate piece of information to the first sentence's description of H3H's dual activity. Instead, the second sentence restates and clarifies that same claim rather than introducing an additional fact.",
+  "source": "https://cooksat.com/practice?questionId=a4bd94f5&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "988df91a",
+  "capturedAt": "2026-11-08T16:28:52.907Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In 2019, Dr. Upendo Mwasonga and her team developed the mobile app PlantID Pro for botanical identification. A user photographing an unknown plant species with PlantID Pro first captures multiple angles of the leaves and flowers. ______ the app's machine learning algorithm examines dozens of morphological characteristics and compares them to verified specimens in its botanical database.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Then,",
+    "B": "In fact,",
+    "C": "Likewise,",
+    "D": "For example,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Then\" indicates that the events in this sentence took place after the events in the previous sentence. Only after users photograph the plant specimens can those images be analyzed by the algorithm.",
+  "source": "https://cooksat.com/practice?questionId=988df91a&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a2031e81",
+  "capturedAt": "2026-11-08T16:29:06.589Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Quantum computing represents a revolutionary approach to information processing, using quantum mechanical phenomena to perform calculations exponentially faster than classical computers. Tech industry leaders have long believed that quantum computing has the potential to solve humanity's most complex computational problems. ______ prior to 2023, no quantum computer had ever achieved reliable quantum advantage over classical systems in practical applications.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "For this reason,",
+    "B": "That said,",
+    "C": "Moreover,",
+    "D": "Specifically,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. \"That said\" logically signals that this sentence about quantum computing's practical limitations acknowledges a contradiction with the previous optimistic belief—contrasting the industry's confidence in quantum potential with the reality of no reliable practical quantum advantage achieved.\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"specifically\" illogically signals that the information in this sentence about quantum computing's practical limitations provides specific examples of the industry's belief in quantum potential. Instead, the sentence contrasts the optimistic belief with disappointing practical reality.",
+  "source": "https://cooksat.com/practice?questionId=a2031e81&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
