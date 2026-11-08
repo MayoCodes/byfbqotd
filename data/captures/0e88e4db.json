@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0e88e4db",
+  "capturedAt": "2026-11-08T16:23:46.892Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "As demonstrated by the Allende meteorite—a carbonaceous chondrite whose chemistry was painstakingly mapped by Ashok Santoso, James Quinn, and their colleagues—geochemists have determined the mineral composition of many meteorites that have fallen to Earth in recent decades; specimens such as the Kaidun and Tagish Lake fragments, ______ remain as chemically puzzling as they were when first recovered.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "indeed,",
+    "B": "though,",
+    "C": "likewise,",
+    "D": "for example,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. 'Though' logically signals that the information in this part of the sentence—that specimens such as the Kaidun and Tagish Lake fragments remain as chemically puzzling as when first recovered—is true despite the previous point that geochemists have successfully determined the mineral composition of many meteorites, as demonstrated by the Allende meteorite.\n\nWhy A is incorrect:\n\nChoice A is incorrect because 'indeed' illogically signals that the information about the Kaidun and Tagish Lake fragments remaining puzzling offers additional emphasis in support of the previous point about successfully determining mineral composition. Instead, this information contrasts with that previous point.",
+  "source": "https://cooksat.com/practice?questionId=0e88e4db&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

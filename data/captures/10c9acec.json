@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "10c9acec",
+  "capturedAt": "2026-11-08T16:24:03.304Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Marine biologist Dr. Souad Naciri explains why the recent decline in coral reef populations is primarily caused by human activities rather than natural factors. First, the rapid increase in ocean temperatures correlates directly with industrial carbon emissions, creating conditions that cause coral bleaching. ______ the elevated levels of ocean acidity from atmospheric pollution have made it nearly impossible for corals to build and maintain their calcium carbonate structures.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Instead,",
+    "B": "Still,",
+    "C": "Second,",
+    "D": "Specifically,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"Second\" logically signals that the information in this sentence—that ocean acidity from pollution prevents corals from maintaining their structures—joins the information in the previous sentence (\"first…\") in supporting Naciri's claim that coral decline is caused by human activities.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"still\" illogically signals that the information in this sentence exists in contrast to or despite the previous information about ocean temperatures and coral bleaching. Instead, this sentence presents a second piece of information that supports Naciri's claim.",
+  "source": "https://cooksat.com/practice?questionId=10c9acec&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

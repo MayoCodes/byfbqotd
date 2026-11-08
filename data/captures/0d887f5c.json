@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0d887f5c",
+  "capturedAt": "2026-11-08T16:23:44.168Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "For decades, researchers have investigated using engineered probiotics rather than conventional antibiotics to treat certain infections, and clinical outcomes have been promising overall. ______ these beneficial bacterial strains—which can target specific pathogens while preserving healthy microbiome diversity without causing antibiotic resistance—have demonstrated superior therapeutic effects compared to standard antibiotic treatments.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "However,",
+    "B": "As a result,",
+    "C": "In many cases,",
+    "D": "Additionally,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"In many cases\" logically signals that this sentence about engineered probiotics provides specific evidence—superior therapeutic effects, targeted action—qualifying the general claim about promising clinical outcomes in the previous sentence.\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"additionally\" illogically signals that the information in this sentence about engineered probiotics adds new information to the discussion in the previous sentence. Instead, the sentence provides specific evidence qualifying the previous claim.",
+  "source": "https://cooksat.com/practice?questionId=0d887f5c&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
