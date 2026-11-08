@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2e0434b9",
+  "capturedAt": "2026-11-08T16:40:02.762Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In 1975, Julia Child became the first chef to host a live cooking demonstration on national television. Her animated explanations of French culinary techniques and her practice of sampling ingredients directly from the pan to ensure proper ______ revolutionize the traditionally formal approach to televised cooking instruction.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "seasoning helped",
+    "B": "seasoning, helping",
+    "C": "seasoning that helped",
+    "D": "seasoning to help"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is finite verb use in a main clause. A main clause requires a finite verb to perform the action of the subject (in this case, Child's \"explanations\" and \"practice\"), and this choice supplies the finite past tense verb \"helped\" to indicate what Child's explanations and practice helped accomplish.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the non-finite to-infinitive \"to help\" doesn't supply the main clause with a finite verb.",
+  "source": "https://cooksat.com/practice?questionId=2e0434b9&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
