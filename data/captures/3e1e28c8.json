@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3e1e28c8",
+  "capturedAt": "2026-11-08T16:06:11.700Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Saffir-Simpson Hurricane Wind Scale is a five-category scale that ranks hurricanes by sustained wind speed based on their potential to cause structural damage.\n• Hurricanes with larger category numbers have stronger winds than hurricanes with smaller category numbers and can cause more severe structural damage than them.\n• Hurricanes with smaller category numbers have weaker winds than hurricanes with larger category numbers and cannot cause more severe structural damage than them.\n• Hurricane Agnes (1972) was rated Category 1 on the Saffir-Simpson scale.\n• Hurricane Frances (2004) was rated Category 2 on the Saffir-Simpson scale.\n• Hurricane Andrew (1992) was rated Category 5 on the Saffir-Simpson scale.",
+  "prompt": "The student wants to compare the wind strength of Hurricane Agnes and Hurricane Andrew. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Hurricane Andrew could cause more severe structural damage than Hurricane Frances, which is why Hurricane Andrew has a higher category number than Hurricane Frances on the Saffir-Simpson scale.",
+    "B": "The Saffir-Simpson Hurricane Wind Scale can be used to rank Hurricane Agnes, Hurricane Frances, and Hurricane Andrew by their potential to cause structural damage.",
+    "C": "A hurricane with a Saffir-Simpson category of 2, like Hurricane Frances, has stronger winds than one with a category of 1, like Hurricane Agnes.",
+    "D": "Hurricane Andrew could cause more severe structural damage than Hurricane Agnes, which means that Hurricane Andrew had stronger winds than Hurricane Agnes."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. This choice most effectively compares the wind strength of Hurricane Agnes and Hurricane Andrew. It notes that Hurricane Andrew could cause more severe structural damage than Hurricane Agnes and concludes that Hurricane Andrew had stronger winds than Hurricane Agnes.",
+  "source": "https://cooksat.com/practice?questionId=3e1e28c8&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
