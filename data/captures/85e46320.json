@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "85e46320",
+  "capturedAt": "2026-11-08T16:08:49.152Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Use Quotation for Purpose",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The 1976 festival New Sound Sculpture at the Serpentine Gallery in London featured works by six kinetic sound artists.\n• The festival was influential in popularizing kinetic sound installation art in the late twentieth century.\n• It included Wind Chord, a 1972 work by Indian artist Chanthira Reddy consisting of suspended brass rods activated by ambient air currents in a courtyard.\n• It included a reconstruction of Breath Array, a 1969–76 work by Malaysian artist Mohan Tang consisting of suspended steel rods activated by visitors' breath in a gallery alcove.\n• Curators Helena Voss and Piers Ackerman describe the festival's works as rejecting traditional notions \"of fixity, silence, authorship, and completion.\"",
+  "prompt": "The student wants to emphasize a historical similarity between Reddy's and Tang's respective works. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The popularization of kinetic sound installation art in the late twentieth century owes much to the artists featured in the Serpentine Gallery's 1976 festival, Reddy and Tang among them.",
+    "B": "Reddy's and Tang's respective works date to 1972, four years before the Serpentine Gallery's influential 1976 festival New Sound Sculpture.",
+    "C": "With their suspended rods activated by air, Wind Chord and Breath Array both reject traditional notions \"of fixity, silence, authorship, and completion\" (Voss and Ackerman).",
+    "D": "Wind Chord and Breath Array were featured in an influential 1976 Serpentine Gallery festival that popularized kinetic sound installation art in the late twentieth century."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence emphasizes a historical similarity between the two works, noting that both Wind Chord and Breath Array were featured in the same influential 1976 Serpentine Gallery festival that helped popularize kinetic sound installation art.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The sentence emphasizes the role of multiple artists, including Reddy and Tang, in popularizing kinetic sound installation; it doesn't emphasize a historical similarity between Reddy's and Tang's specific works.",
+  "source": "https://cooksat.com/practice?questionId=85e46320&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

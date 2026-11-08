@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "87d36e07",
+  "capturedAt": "2026-11-08T16:08:51.863Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Vitamin C is essential for immune function and collagen production in the human body.\n• Vitamin C is a nutrient found in various fruits.\n• Oranges contain 53 milligrams per 100 grams (mg/100g) of vitamin C.\n• Strawberries contain 89 mg/100g.\n• Kiwi fruit contains 155 mg/100g.",
+  "prompt": "The student wants to identify which of the three fruits has the highest vitamin C content. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Kiwi fruit contains 155 mg/100g of vitamin C, which is more than oranges and strawberries.",
+    "B": "At 89 mg/100g, strawberries contain more vitamin C than oranges (53 mg/100g).",
+    "C": "Vitamin C is found in various fruits, including oranges, strawberries, and kiwi fruit.",
+    "D": "Oranges contain 53 mg/100g of vitamin C, a nutrient essential for immune function and collagen production."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence identifies kiwi fruit as having the highest vitamin C content of the three fruits, noting that they contain 155 mg/100g, which is more than both oranges and strawberries.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The sentence compares the vitamin C content of strawberries and oranges; it doesn't identify which of the three fruits has the highest vitamin C content.",
+  "source": "https://cooksat.com/practice?questionId=87d36e07&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
