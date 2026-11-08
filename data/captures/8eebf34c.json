@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8eebf34c",
+  "capturedAt": "2026-11-08T16:09:08.189Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Data in a hot storage tier is actively indexed and retrievable along many access paths; data in a cold storage tier is unindexed and can only be retrieved by sequential scan.\n• In a warm tier, an outer indexed partition (the frame) encloses an inner partition of partially unindexed data blocks (the core) within a single volume.\n• This warm tier was previously thought to be a temporary migration phase between the hot and cold tiers.\n• A 2021 study by Nyala Mansour and Babatunde Benali confirmed that, even under heavy write loads, the frame remained fully indexed while the core never became fully unindexed.\n• The core data blocks lost most access paths but retained one linear retrieval path enforced by the frame.\n• The warm tier was determined to be a stable, distinct storage state.",
+  "prompt": "The student wants to explain why data is not fully unindexed in a warm tier. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "A warm tier involves a dual partition of a fully indexed frame enclosing a core of partially unindexed data blocks.",
+    "B": "In a warm tier, some data blocks exhibit the unindexed character of cold storage but are held by the indexed frame to a single linear retrieval path, preventing the loss of all access paths that defines fully unindexed data.",
+    "C": "A 2021 study confirmed that data does not become fully unindexed under heavy write loads; instead, it enters a warm tier, a temporary migration phase between hot and cold storage.",
+    "D": "Because data in the warm tier loses most access paths even under heavy write loads, it cannot reach a fully unindexed state."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. This choice explains why data is not fully unindexed in a warm tier by identifying the key mechanism: some data blocks exhibit the disorder of cold storage (lost access paths) but remain confined by the indexed frame to a single linear retrieval path, preventing the complete loss of access paths that would characterize fully unindexed data.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This choice reverses the causal relationship: it suggests that losing most access paths prevents data from becoming fully unindexed, but the notes indicate that losing access paths is actually a characteristic of the cold (unindexed) state. The correct explanation is that the indexed frame confines the core data to one retrieval path despite its lost access paths.",
+  "source": "https://cooksat.com/practice?questionId=8eebf34c&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
