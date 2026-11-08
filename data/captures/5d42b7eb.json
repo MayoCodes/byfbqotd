@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5d42b7eb",
+  "capturedAt": "2026-11-08T16:41:52.967Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The James Webb Space Telescope's primary mirror, which spans 6.5 meters, ______ of 18 hexagonal segments.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "consist",
+    "B": "consists",
+    "C": "have consisted",
+    "D": "are consisting"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is subject-verb agreement. The singular verb \"consists\" correctly agrees in number with the singular subject \"The James Webb Space Telescope's primary mirror.\" The present tense is also appropriate for describing a permanent structural fact about the telescope.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the plural present progressive verb \"are consisting\" doesn't agree in number with the singular subject \"The James Webb Space Telescope's primary mirror.\" Additionally, the present progressive tense doesn't appropriately describe the permanent structural fact of what the mirror is composed of.",
+  "source": "https://cooksat.com/practice?questionId=5d42b7eb&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

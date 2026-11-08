@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6127cad3",
+  "capturedAt": "2026-11-08T16:42:09.461Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The sonnet, a poetic form that emerged in thirteenth-century Italy, follows strict compositional rules. The Renaissance scholar Francesco Petrarca observed that each one of a sonnet's quatrains, while maintaining the volta (turn) and meter established in the poem's opening stanza, ______ structurally and semantically independent, creating what he described as \"a unified multiplicity of thought.\"",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "were",
+    "B": "have been",
+    "C": "is",
+    "D": "are"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of verb forms within a sentence. The singular verb \"is\" agrees in number with the singular subject \"each one of a sonnet's quatrains.\" While the prepositional phrase \"of a sonnet's quatrains\" within the subject contains a plural noun, the head of the subject (\"each one\") is singular, indicating that each individual quatrain (not the quatrains as a group) is \"structurally and semantically independent,\" or self-standing.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the plural verb \"are\" doesn't agree in number with the singular subject \"each one of a sonnet's quatrains.\"",
+  "source": "https://cooksat.com/practice?questionId=6127cad3&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

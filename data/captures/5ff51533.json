@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5ff51533",
+  "capturedAt": "2026-11-08T16:42:06.714Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Despite being fast, convenient, and widely available, ______ they contribute to sedentary lifestyles, and many are high in sodium and preservatives.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "there are two concerns associated with fast-food restaurants:",
+    "B": "two concerns are associated with fast-food restaurants:",
+    "C": "fast-food restaurants' two associated concerns are that",
+    "D": "fast-food restaurants have two associated concerns:"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is subject-modifier placement. This choice ensures that the modifying phrase \"despite being fast, convenient, and widely available\" appears immediately before the noun it modifies, \"fast-food restaurants,\" clearly establishing that the fast-food restaurants—and not another noun in the sentence—are being described as fast, convenient, and widely available.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a dangling modifier. The placement of the noun phrase \"fast-food restaurants' two associated concerns\" immediately after the modifying phrase illogically suggests that the \"concerns\" are fast, convenient, and widely available.",
+  "source": "https://cooksat.com/practice?questionId=5ff51533&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
