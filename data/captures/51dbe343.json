@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "51dbe343",
+  "capturedAt": "2026-11-08T16:06:44.246Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Two competing theories of disease transmission dominated medical thought for centuries.\n• The Italian physician Girolamo Fracastoro (1478–1553) championed the contagion theory.\n• This theory proposed that diseases spread through direct contact between people or contaminated objects.\n• The German physician Max von Pettenkofer (1818–1901) supported the miasma theory.\n• This theory held that diseases spread through 'bad air' arising from decomposing organic matter.\n• In the 1870s, German physician Robert Koch (1843–1910) largely resolved the debate with his experiments demonstrating the role of specific microorganisms in disease.",
+  "prompt": "The student wants to provide a historical overview of the two theories. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Through two competing theories of disease transmission—contagion and miasma—Fracastoro, Pettenkofer, and Koch held that diseases spread either through direct contact or through contaminated air.",
+    "B": "While Robert Koch largely resolved the debate in the 1870s, Pettenkofer supported the miasma theory decades before.",
+    "C": "Medical professionals were divided between the contagion and miasma theories of disease transmission until Robert Koch's 1870s experiments largely resolved the debate in favor of contagion.",
+    "D": "Before the 1870s, the German physician Max von Pettenkofer supported the miasma theory, which held that diseases spread through 'bad air' arising from decomposing organic matter."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence provides a historical overview of the two theories, noting that medical professionals were divided between them before Robert Koch's experiments largely resolved the debate in favor of contagion in the 1870s.",
+  "source": "https://cooksat.com/practice?questionId=51dbe343&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

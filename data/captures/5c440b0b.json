@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5c440b0b",
+  "capturedAt": "2026-11-08T16:07:03.193Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Researchers in a 2022 study wanted to determine the effectiveness of 15 different exercise programs for improving cardiovascular health.\n• They measured the percentage improvement in VO2 max (the oxygen uptake rate, or OUR).\n• The OUR was found to be approximately consistent across the 15 programs (an average of 12% improvement).\n• They measured the number of hours per week required for each program (the time commitment rate, or TCR).\n• High-intensity interval training required the second-lowest TCR (3.2 hours per week).\n• Traditional marathon training required the fourteenth-highest TCR (11.8 hours per week).",
+  "prompt": "The student wants to present an overview of the study's findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The 2022 study determined the oxygen uptake rate (OUR) of 15 exercise programs in percentage improvement of VO2 max.",
+    "B": "Though some of the exercise programs differed in weekly time requirements, all 15 produced cardiovascular improvements at roughly the same rate.",
+    "C": "Researchers found that cardiovascular improvement was achieved more efficiently with high-intensity interval training, at 3.2 hours per week, than with marathon training, at 11.8 hours per week.",
+    "D": "Marathon training required the fourteenth-highest time commitment, higher than that of interval training, which required the second-lowest; however, interval training had the lower oxygen uptake rate of the two."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It presents an overview: weekly time requirements varied across programs while cardiovascular improvement remained roughly constant across all 15 programs.",
+  "source": "https://cooksat.com/practice?questionId=5c440b0b&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5c5f50d9",
+  "capturedAt": "2026-11-08T16:07:05.901Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Millau Bridge is a cable-stayed bridge in France.\n• It spans the Tarn River valley in southern France.\n• It is approximately 1,125 feet tall.\n• The Golden Gate Bridge is a suspension bridge in California.\n• It spans the Golden Gate strait in San Francisco Bay.\n• It is about 746 feet tall.",
+  "prompt": "The student wants to compare the heights of the two bridges. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The Millau Bridge is approximately 1,125 feet tall, while the shorter Golden Gate Bridge is about 746 feet tall.",
+    "B": "Some of the world's tallest bridges, including one bridge that spans the Golden Gate strait in San Francisco Bay, are over 700 feet tall.",
+    "C": "The Millau Bridge, which is approximately 1,125 feet tall, spans the Tarn River valley in southern France.",
+    "D": "Both the Millau Bridge, which is located in France, and the Golden Gate Bridge, which is located in California, are examples of major bridges."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence compares the heights of the two bridges, noting that the Golden Gate Bridge (about 746 feet tall) is shorter than the Millau Bridge (approximately 1,125 feet tall).\n\nWhy B is incorrect:\n\nChoice B is incorrect. The sentence makes a generalization about the height of some bridges; it doesn't compare the heights of the two bridges.",
+  "source": "https://cooksat.com/practice?questionId=5c5f50d9&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
