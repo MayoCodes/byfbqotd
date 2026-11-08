@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0c3521a3",
+  "capturedAt": "2026-11-08T00:26:10.302Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Nearly all long-term acoustic recordings of songbirds capture temporal features of singing behavior, including the hour at which particular vocalizations occur. In a 2022 study, Septima Clark, Min Huang, and Ravi Menon claim that an observable pattern in such vocalizations reflects a shift in songbird behavior prompted by the spread of urban artificial lighting in the late twentieth century. The researchers drew this conclusion from an analysis of more than 40,000 hours of recordings spanning many decades and ecosystems, using software to recognize and tally both timestamped vocalizations—that is, songs logged at specific clock times, such as 4 a.m. or 9 p.m.—and implied ones, such as song types typically associated with a particular phase of the daily cycle.",
+  "prompt": "Which finding from the study, if true, would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "Recordings made after 1900 include songs timestamped at 9 a.m. less often than recordings made before 1900 do.",
+    "B": "Recordings made after 1980 contain significantly more vocalizations occurring after 10 p.m. than do recordings from earlier periods.",
+    "C": "Among recordings made in the twentieth century, implied time references become steadily more common than timestamped ones as recording dates approach 2000.",
+    "D": "Vocalizations at dawn (5 a.m.) and dusk (7 p.m.) are captured with roughly the same frequency across all the recordings."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The researchers claim that an observable pattern in songbird vocalizations reflects a behavioral shift caused by the spread of urban artificial lighting in the late twentieth century. If recordings made after 1980 contain significantly more vocalizations occurring after 10 p.m. than recordings from earlier periods, this would suggest that songbirds began singing more frequently during late-night hours once artificial lighting became widespread. Because artificial night lighting is known to extend the periods of perceived daylight for many species, a post-1980 increase in late-night vocalizations would align precisely with the claimed causal mechanism.\n\nWhy D is incorrect:\n\nChoice D is incorrect. If dawn and dusk vocalizations are captured with roughly the same frequency across all the recordings, this would reflect a lack of change in songbird behavior over time and would therefore undermine, rather than support, the researchers' conclusion that a behavioral shift occurred in response to the spread of artificial lighting.",
+  "source": "https://cooksat.com/practice?questionId=0c3521a3&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "11a475b6",
+  "capturedAt": "2026-11-08T00:26:31.868Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nStudies have found that when looking at other people's faces, humans tend to judge wider smiles as conveying warmth and narrower smiles as conveying aloofness. Noting that high contrast between lip color and surrounding skin tone visually emphasizes a smile's width (and thereby affects the smile's apparent size) and that such contrast varies considerably across individuals, Aissatou Kaplan, Callum Vogt, and colleagues showed close-up portraits of adult faces to study participants and asked them to rate each person's traits and their own social attitudes toward the person. Their findings suggest that ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "differences in the physical width of a smile may elicit a stronger response in people than differences in how wide a smile appears to be, as participants' responses to portraits in which smiles were physically wide were indistinguishable from their responses to portraits in which smiles only appeared wide because of lip contrast.",
+    "B": "lip contrast in adults may have evolved to elicit negative social judgments from observers, as participants responded more negatively to portraits whose lip contrast can make smiles appear wider than they did to portraits without such lip contrast.",
+    "C": "people's positive responses to wider-appearing smiles may operate even when the width is produced by visual context rather than by the smile itself, as participants responded more positively to portraits whose lip contrast was likely to make smiles appear wider than they did to portraits whose lip contrast was unlikely to have that effect.",
+    "D": "observers may not be as sensitive to smile width in portraits as they are to smile width in face-to-face encounters, as participants' responses to the portraits show no relationship to differences in lip contrast that could affect how wide the smiles appear to be."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively uses data from the table to complete the statement about Kaplan, Vogt, and colleagues' findings. The passage explains that humans judge wider smiles as conveying warmth and that high lip–skin contrast visually emphasizes a smile's width, making it appear larger. The table shows that the two portraits with high lip contrast (image IDs 9 and 4) received higher average warmth ratings (3.24 and 3.91, respectively) than the two portraits with low lip contrast (image IDs 22 and 17, with ratings of 2.12 and 2.19, respectively). The high-contrast portraits also received higher ratings for willingness to befriend (1.88 and 2.32 vs. 1.48 and 1.52) and willingness to hire (2.08 and 2.61 vs. 1.72 and 1.80). Since high lip contrast makes smiles appear wider, and since participants responded more positively to portraits with high lip contrast, the findings suggest that people's positive responses to wider-appearing smiles may operate even when the apparent width is produced by visual context rather than by the smile itself.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the table shows a clear relationship between lip contrast and participants' responses. Portraits with high lip contrast (image IDs 9 and 4) consistently received higher ratings for warmth, willingness to befriend, and willingness to hire than portraits with low lip contrast (image IDs 22 and 17). This pattern demonstrates a relationship between lip contrast and observers' responses, contradicting the claim that no such relationship exists.",
+  "source": "https://cooksat.com/practice?questionId=11a475b6&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/11a475b6/1-ff5caabee0a02b28.png"
+    }
+  ]
+}

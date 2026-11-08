@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "1611b9ab",
+  "capturedAt": "2026-11-08T00:26:50.225Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nA student is conducting an experiment to test the effect of compost ratio and biochar amendment on soil moisture retention in agricultural plots. Following a protocol developed by Fang Yamada and Celeste Whitfield, the student amended some plots with biochar while leaving others unamended, then measured the number of days until each plot dried below a target moisture threshold at one of four different compost ratios. Comparing the data for plots with and without biochar, the student concluded that ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the student's conclusion?",
+  "choices": {
+    "A": "a 10% compost ratio is the ideal condition at which to maintain plots to maximize moisture retention time.",
+    "B": "for those plots that were not amended with biochar, differences in compost ratio were not associated with absolute differences in retention time.",
+    "C": "plots amended with biochar retain moisture longer at 8% and 10% compost ratios than at 4% and 6% compost ratios.",
+    "D": "biochar amendment was associated with a greater absolute change in retention time at 4%, 6%, and 8% compost ratios than at a 10% compost ratio."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the graph to complete the student's conclusion about soil moisture retention with and without biochar at different compost ratios. At the 10% compost ratio, the gap between the biochar bar (about 5.5 days) and the no-biochar bar (about 4 days) is only about 1.5 days. At the 4%, 6%, and 8% compost ratios, the corresponding gaps are larger: about 3 days at 4% (about 11 days for amended plots vs. about 8 days for unamended plots), about 3.5 days at 6% (about 9.5 days vs. about 6 days), and about 3 days at 8% (about 8.5 days vs. about 5.5 days). Because each of these gaps is larger than the gap at 10%, it can be concluded that biochar amendment was associated with a greater absolute change in retention time at 4%, 6%, and 8% compost ratios than at a 10% compost ratio.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the graph shows that plots at a 10% compost ratio, whether amended with biochar or not, actually dry out the fastest (about 5.5 days for amended plots and about 4 days for unamended plots), not the slowest. A 10% compost ratio therefore minimizes, rather than maximizes, moisture retention time relative to the other ratios shown.",
+  "source": "https://cooksat.com/practice?questionId=1611b9ab&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1611b9ab/1-fc2db5ae362d18ba.png"
+    }
+  ]
+}

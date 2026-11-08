@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "21160512",
+  "capturedAt": "2026-11-08T00:27:51.369Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nTo assess the effects of recent economic policy on small-business activity in the Northvale region, economists Shalini Tang and Kibrom Kaplan compiled annual registry records to track the number of active business licenses across three industry categories (manufacturing, retail services, and specialty trades). Due to stricter licensing requirements introduced in the early 1970s, many small operators let their licenses lapse, and the regulatory climate suppressed new registrations throughout that decade. By the mid-1980s, however, targeted tax incentives and streamlined registration procedures reversed this trend and encouraged a broad revival in small-business formation, as is evident by the ________",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "decrease in the number of active licenses for all categories from 1960 to 1979.",
+    "B": "difference between the number of active licenses in Manufacturing and in Retail Services in 2000.",
+    "C": "similarity in the number of active licenses in Manufacturing and Retail Services in 1986.",
+    "D": "increase in the number of active licenses for all categories from 1979 to 2000."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the graph to complete the text's claim about a broad revival in small-business formation after the mid-1980s. The graph shows that the number of active licenses for all three industry categories increased from 1979 to 2000: Manufacturing rose from approximately 300 to 975, Retail Services rose from approximately 400 to 935, and Specialty Trades rose from approximately 275 to 475. This across-the-board increase provides direct evidence of the revival described in the passage.",
+  "source": "https://cooksat.com/practice?questionId=21160512&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/21160512/1-0f1133c63518970b.png"
+    }
+  ]
+}

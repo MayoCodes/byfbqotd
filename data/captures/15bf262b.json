@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "15bf262b",
+  "capturedAt": "2026-11-08T00:26:46.792Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Engineers Anil Malik and Victoria Fletcher and their team have studied two variants of an autonomous delivery drone that operate along the same urban corridor in Singapore; one variant is configured for rooftop landings, while the other is configured for ground-level pads. The team found that, because of slight differences in rotor-blade curvature, the blades of rooftop-variant drones produce a higher-frequency acoustic signature during flight than those of ground-variant drones do. Malik and Fletcher hypothesize that each drone's onboard coordination system preferentially responds to the acoustic signature produced by drones of its own variant, and that over successive design iterations this preferential response will drive further structural and algorithmic divergence between the two variants.",
+  "prompt": "Which finding, if true, would most directly support Malik and Fletcher's hypothesis?",
+  "choices": {
+    "A": "The landing struts on rooftop-variant drones have a more compact folding mechanism than those on ground-variant drones, which allows them to secure themselves to narrow ledges.",
+    "B": "Over several successive design iterations, the acoustic signature produced by the rotor blades of rooftop-variant drones grows progressively higher in frequency relative to that produced by the rotor blades of ground-variant drones.",
+    "C": "Delivery drones transmit different operational messages to nearby units depending on whether their rotor blades generate high-frequency or low-frequency acoustic signatures.",
+    "D": "The delivery routing protocols of the rooftop-variant and ground-variant drones remained generally the same across several successive design iterations."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a finding that, if true, would most directly support Malik and Fletcher's hypothesis. The passage states that rooftop-variant drones already produce a higher-frequency acoustic signature than ground-variant drones because of small differences in rotor-blade curvature. Malik and Fletcher hypothesize that each drone's coordination system preferentially responds to the signature of its own variant and that this preference will drive further structural and algorithmic divergence over successive iterations. If the acoustic signature of rooftop-variant drones grew progressively higher relative to that of ground-variant drones over successive iterations, that would indicate that the rotor-blade shape of the rooftop variant is diverging further from that of the ground variant — exactly the kind of progressive divergence the researchers predict would follow from a preference-based selection mechanism.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the researchers' hypothesis predicts that preferential response to a variant's own acoustic signature will produce further structural and algorithmic divergence between the variants over time. The finding that delivery routing protocols remain unchanged across iterations does not, by itself, indicate anything about preferential responses to acoustic signatures or about divergence between the two variants.",
+  "source": "https://cooksat.com/practice?questionId=15bf262b&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

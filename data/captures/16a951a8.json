@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "16a951a8",
+  "capturedAt": "2026-11-08T00:26:57.573Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Direct Data Lookup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nAmong the smallest songbirds nesting in the Blackwood Ridge forest, ornithologists Tadesse Kaplan and Matthew Anderson identified three species: the golden warbler, the speckled vireo, and the dusky tanager.",
+  "prompt": "According to the table, what is the average territory size of the golden warbler?",
+  "choices": {
+    "A": "3,412 acres",
+    "B": "2.6 acres",
+    "C": "1.8 acres",
+    "D": "3.4 acres"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it states the average territory size of the golden warbler indicated in the table. The table presents the breeding population and average territory size for three songbird species, and it indicates that the average territory size of the golden warbler is 1.8 acres.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the table indicates that 2.6 acres is the average territory size of the speckled vireo, not of the golden warbler.",
+  "source": "https://cooksat.com/practice?questionId=16a951a8&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/16a951a8/1-54868d8ca2f1c960.png"
+    }
+  ]
+}
