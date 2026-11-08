@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "97d8bf33",
+  "capturedAt": "2026-11-08T16:28:50.173Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "When making maple syrup, producers first collect sap from maple trees by drilling small holes in the trunks. Then, they boil the sap in large evaporating pans for hours, sometimes even days, to remove the water. ______ they will stop the boiling process, at which point the sap will have become thick, golden syrup.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Eventually,",
+    "B": "Nevertheless,",
+    "C": "Likewise,",
+    "D": "In other words,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Eventually\" logically signals that the information in this sentence—that producers will stop the boiling process when the syrup has thickened—is the final step in the chronological sequence of the maple syrup making process described in the previous sentences.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"nevertheless\" illogically signals that the information in this sentence is true despite the previous information about boiling the sap in evaporating pans. Instead, stopping the boiling process is the final step in the syrup making process.",
+  "source": "https://cooksat.com/practice?questionId=97d8bf33&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

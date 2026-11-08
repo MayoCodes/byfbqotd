@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8c5593da",
+  "capturedAt": "2026-11-08T16:28:28.288Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In 1969, the Internet's predecessor, ARPANET, was developed by the US Department of Defense to connect four university computers, revolutionizing communication between research institutions. The network's civilian applications were largely ignored for decades as it remained primarily a tool for academic and military researchers. ______ in 1991, computer scientist Tim Berners-Lee created the World Wide Web, making the Internet accessible to the general public.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Lastly,",
+    "B": "Similarly,",
+    "C": "Then,",
+    "D": "For example,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"Then\" logically signals that the event described in this sentence—Berners-Lee's 1991 creation of the World Wide Web—is part of a chronological sequence of events, occurring after the decades-long period in which the network's civilian applications were ignored.\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"for example\" illogically signals that this sentence provides an example illustrating the previous information about the network's civilian applications being ignored for decades. Instead, it describes an event occurring after that decades-long period.",
+  "source": "https://cooksat.com/practice?questionId=8c5593da&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
