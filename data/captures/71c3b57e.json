@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "71c3b57e",
+  "capturedAt": "2026-11-08T04:23:11.512Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "To investigate how ambient humidity affects the degradation of organic pigments on medieval parchment, Bilal Pillai and colleagues removed matched folio samples from a monastic archive maintained at 45% relative humidity and installed them in a conservation chamber held at 62% relative humidity for eighteen months. Rates of pigment breakdown in the relocated folios were markedly higher; crucially, the composition of the microbial film coating each folio's surface was unchanged, allowing Pillai and colleagues to attribute the accelerated breakdown to humidity-driven chemical reactions rather than to shifts in microbial activity.",
+  "prompt": "It can most reasonably be inferred from the text that the finding about the microbial film composition was important for which reason?",
+  "choices": {
+    "A": "It provided preliminary evidence that rates of pigment breakdown were higher in the relocated folios.",
+    "B": "It suggested that humidity-driven chemical reactions may be occurring in archives maintained at progressively lower relative humidity levels.",
+    "C": "It ruled out a potential alternative explanation for the accelerated breakdown of the pigments.",
+    "D": "It clarified that rates of pigment breakdown on the folios varied depending on which microbes comprised the film."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The passage describes an experiment in which Pillai and colleagues moved folio samples from a 45% humidity archive to a chamber at 62% humidity and observed accelerated pigment breakdown. The passage then notes that 'crucially, the composition of the microbial film coating each folio's surface was unchanged,' which allowed the researchers to attribute the acceleration to humidity-driven chemical reactions rather than microbial activity. This strongly implies that a shift in microbial film composition represented another plausible cause of the accelerated breakdown — a cause the unchanged composition finding rules out.\n\nWhy A is incorrect:\n\nChoice A is incorrect. Although the passage states that pigment breakdown was higher in the relocated folios, the unchanged-microbial-composition finding is not evidence for that acceleration itself; rather, it is important because it eliminated an alternative explanation for the acceleration already observed.",
+  "source": "https://cooksat.com/practice?questionId=71c3b57e&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}
