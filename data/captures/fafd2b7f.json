@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fafd2b7f",
+  "capturedAt": "2026-11-08T16:13:09.013Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Researchers have developed a self-healing concrete that can repair cracks within 28 days of formation.\n• The concrete contains dormant bacteria (microorganisms that remain inactive until specific conditions are met).\n• When water enters cracks in the concrete, the bacteria become active and consume nutrients.\n• When the bacteria consume nutrients, they produce limestone that fills and seals the cracks.\n• The limestone formation continues until the cracks are completely sealed and the concrete is restored.",
+  "prompt": "The student wants to specify how the bacteria enable crack repair. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Researchers have developed self-healing concrete that contains dormant bacteria, which remain inactive until specific conditions are met.",
+    "B": "The limestone formation in self-healing concrete, which contains dormant bacteria, continues until the cracks are completely sealed.",
+    "C": "Dormant bacteria allow self-healing concrete to repair cracks within 28 days of formation.",
+    "D": "When dormant bacteria in self-healing concrete consume nutrients after water activation, they produce limestone that fills and seals the cracks."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence specifies how the bacteria in self-healing concrete enable crack repair, explaining that they produce limestone that fills and seals cracks when they consume nutrients after water activation.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The sentence explains some properties of dormant bacteria; it doesn't specify how those bacteria enable crack repair.",
+  "source": "https://cooksat.com/practice?questionId=fafd2b7f&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

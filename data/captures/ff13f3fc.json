@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ff13f3fc",
+  "capturedAt": "2026-11-08T16:13:19.945Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Some groundbreaking scientific discoveries have been made using vastly different research approaches that led to major breakthroughs.\n• Alexander Fleming's discovery of penicillin in 1928 occurred through accidental observation when mold contaminated his bacterial cultures.\n• Fleming's serendipitous finding revolutionized medicine and saved countless lives.\n• Rosalind Franklin's work on DNA structure in the 1950s involved systematic X-ray crystallography techniques and meticulous data collection.\n• Franklin's methodical approach provided crucial evidence for understanding the double helix structure of DNA.",
+  "prompt": "The student wants to emphasize a difference between the two discoveries. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "They may have used different research methods, but Fleming and Franklin both made groundbreaking discoveries.",
+    "B": "Although both led to revolutionary scientific breakthroughs, Fleming's discovery occurred through accident, while Franklin's involved systematic methodology.",
+    "C": "Fleming's accidental discovery of penicillin revolutionized medicine, while Franklin's systematic study provided crucial evidence for DNA structure.",
+    "D": "Alexander Fleming's penicillin discovery and Rosalind Franklin's DNA work are two scientific breakthroughs that transformed our understanding (of medicine and genetics, respectively)."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. This choice emphasizes a difference between the two discoveries by using relevant information from the notes to contrast their research approaches.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This choice doesn't emphasize a difference between the two discoveries. Instead, it emphasizes a similarity.",
+  "source": "https://cooksat.com/practice?questionId=ff13f3fc&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
