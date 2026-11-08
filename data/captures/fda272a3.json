@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fda272a3",
+  "capturedAt": "2026-11-08T16:32:04.602Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "When ancient manuscripts become damaged by age and deterioration, they can be preserved through digitization and stored in climate-controlled archives. ______ damaged manuscripts can be restored via laser technology: specialized laser systems that can precisely target degraded areas remove surface contaminants and strengthen weakened fibers, which are then treated with conservation solutions, preserving the integrity of the original documents.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Specifically,",
+    "B": "Alternatively,",
+    "C": "For example,",
+    "D": "As a result,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. \"Alternatively\" logically signals that the manuscript preservation method described in this sentence—restoring damaged documents via laser technology—offers an alternative to the previously described method (digitizing and archiving the manuscripts).\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"as a result\" illogically signals that the manuscript preservation method described in this sentence is a result or consequence of the previously described method (digitizing and archiving the manuscripts). Instead, laser restoration is an alternative to that method.",
+  "source": "https://cooksat.com/practice?questionId=fda272a3&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
