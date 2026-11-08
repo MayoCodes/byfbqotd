@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9a94bf91",
+  "capturedAt": "2026-11-08T17:55:14.168Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "During the early Romantic movement in music (1800–1850), many composers sought to break away from the rigid structures of the Classical period by incorporating folk melodies and nationalistic themes into their works. The influence of these traditional elements on Romantic-era compositions is widely ______ some scholars argue that the extent of this influence has been overstated, noting that many Romantic composers continued to rely heavily on Classical forms.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "acknowledged; however,",
+    "B": "acknowledged, however,",
+    "C": "acknowledged, however;",
+    "D": "acknowledged however,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the punctuation of a supplementary phrase between two main clauses. This choice correctly uses a semicolon to join the first main clause (\"The influence...acknowledged\") and the second main clause (\"some scholars...forms\") and a comma to separate the conjunctive adverb \"however\" from the second main clause it begins. The conjunctive adverb \"however\" correctly signals that the information in the second clause (that some scholars believe the influence has been overstated) is contrary to what might be expected given the information in the first clause (that the influence of traditional elements is widely acknowledged).\n\nWhy C is incorrect:\n\nChoice C is incorrect because placing the semicolon after \"however\" rather than before it fails to properly mark the boundary between the two main clauses (\"The influence...acknowledged\" and \"some scholars...forms\"). The semicolon must come before \"however\" to join the two main clauses, and a comma must follow \"however\" to separate the conjunctive adverb from the clause it begins.",
+  "source": "https://cooksat.com/practice?questionId=9a94bf91&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

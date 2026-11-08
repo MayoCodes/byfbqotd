@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9834d80b",
+  "capturedAt": "2026-11-08T17:55:05.825Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The advancement of computational linguistics has been significantly influenced by British ______ Alan Turing, a visionary computer scientist whose theoretical work on machine intelligence and algorithmic processing helped establish the foundations for artificial intelligence and natural language processing.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "mathematician,",
+    "B": "mathematician",
+    "C": "mathematician;",
+    "D": "mathematician:"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. \"Alan Turing\" is essential information that completes the first clause — the first clause doesn't function without it. So we don't want to separate it with punctuation.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This choice creates a punctuation error. \"The advancement of computational linguistics has been significantly influenced by British mathematician\" is unclear: which mathematician are we talking about? We need the \"Alan Turing\" for clarity, which means it's essential information and should not be separated by a comma.",
+  "source": "https://cooksat.com/practice?questionId=9834d80b&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a0dc1783",
+  "capturedAt": "2026-11-08T17:55:28.060Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In her widely cited 2018 monograph The Northern Exchange, historian Rabia Das, working alongside archivist Nandini Shin, organizes the commercial reach of the Hanseatic League around three principal trading ______ that, through meticulous attention to municipal records and shipping manifests, reveal the league's enduring influence on the cultural and economic life of medieval northern Europe.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "hubs (Lübeck, Bruges, and Novgorod)",
+    "B": "hubs—Lübeck, Bruges, (and Novgorod)",
+    "C": "hubs, (Lübeck, Bruges, and Novgorod).",
+    "D": "hubs Lübeck, Bruges, and Novgorod,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the use of punctuation to set off supplementary information within a sentence. This choice correctly uses parentheses to enclose the list of three principal trading hubs (\"Lübeck, Bruges, and Novgorod\"), which clarifies what the \"three principal trading hubs\" are. Because the list itself contains internal commas, parentheses are needed to mark its boundaries clearly. After the closing parenthesis, the sentence continues smoothly with the relative clause (\"that...Europe\") that modifies \"hubs.\"\n\nWhy C is incorrect:\n\nChoice C is incorrect because placing a period after the closing parenthesis creates a sentence fragment. The text following the period (\"that, through...Europe\") is a relative clause beginning with \"that,\" which cannot stand alone as a complete sentence and must remain attached to the main clause it modifies.",
+  "source": "https://cooksat.com/practice?questionId=a0dc1783&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

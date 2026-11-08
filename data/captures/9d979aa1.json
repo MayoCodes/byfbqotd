@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9d979aa1",
+  "capturedAt": "2026-11-08T17:55:19.728Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "To support rural communities during the 1960s, pioneering California health educator Theresa Newell provided wellness workshops in both English and Mandarin, an innovative ______ organized annual health fairs featuring traditional medicine demonstrations; and established mobile clinics serving migrant worker families.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "approach, for the region",
+    "B": "approach, for the region,",
+    "C": "approach for the region;",
+    "D": "approach for the region,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the punctuation of elements in a complex series. It's conventional to use a semicolon to separate items in a complex series with internal punctuation, and in this choice, the semicolon after \"region\" is conventionally used to separate the first item (\"provided…region\") and the second (\"organized…demonstrations\") in the series of activities that health educator Theresa Newell provided. Moreover, the semicolon after \"region\" matches the semicolon used later to separate the second item (\"organized...demonstrations\") and the third (\"and...families\") in the series.\n\nWhy B is incorrect:\n\nChoice B is incorrect because a comma after \"region\" doesn't match the semicolon used later to separate the second (\"organized...demonstrations\") and third (\"and...families\") items in the series. Furthermore, a comma isn't needed between the noun \"approach\" and the prepositional phrase \"for the region\" because the prepositional phrase is essential to the full meaning of the phrase \"an innovative approach for the region.\"",
+  "source": "https://cooksat.com/practice?questionId=9d979aa1&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

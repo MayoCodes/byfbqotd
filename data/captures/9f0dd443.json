@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9f0dd443",
+  "capturedAt": "2026-11-08T17:55:25.248Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Drawing on decades of archival research, the 2019 biography A Quiet Architect, by sociologists Michael Ingram and Yue Han, chronicles the organizer Ruth Delaney's campaigns against inequities in housing, schooling, and ______ its portrait reaches well beyond her lifetime to illuminate the movements she shaped in the 1970s.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "employment",
+    "B": "employment, and",
+    "C": "employment,",
+    "D": "employment and"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"and\" to join the first main clause (\"Drawing...employment\") and the second main clause (\"its portrait...1970s\").\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a comma splice. Without a conjunction following it, a comma can't be used in this way to join two main clauses.",
+  "source": "https://cooksat.com/practice?questionId=9f0dd443&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

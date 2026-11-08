@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a1e0380a",
+  "capturedAt": "2026-11-08T17:55:30.833Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In addition to pressure and temperature, the concentration of reactants influences the speed of ______ as reactant concentration increases, so does the frequency at which molecules collide and form new chemical bonds.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "crystallization and",
+    "B": "crystallization,",
+    "C": "crystallization",
+    "D": "crystallization:"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of punctuation in a sentence. In this choice, a colon is correctly used to mark the boundary between one main clause (\"In addition...crystallization\") and another main clause (\"as reactant...bonds\") and to introduce the following explanation of how reactant concentration affects crystallization.\n\nWhy B is incorrect:\n\nChoice B is incorrect because it results in a comma splice. Without a coordinating conjunction following it, a comma can't be used in this way to join two main clauses (\"In addition...crystallization\" and \"as reactant...bonds\").",
+  "source": "https://cooksat.com/practice?questionId=a1e0380a&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
