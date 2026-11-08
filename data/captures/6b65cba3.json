@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6b65cba3",
+  "capturedAt": "2026-11-08T15:32:42.262Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The results of controlled laboratory hardness tests performed on mineral specimens sometimes fail to ______ conclusions that field geologists like Grace Ricci and Angelina Weld Grimke reach from their long-term observations of rock durability at outcrop sites. While there are several possible reasons for this, one is that geologists may overlook weathering variables that account for the durability they attribute to the minerals in question.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "circumvent",
+    "B": "corroborate",
+    "C": "disseminate",
+    "D": "implement"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most logically completes the text's discussion of a relationship between laboratory hardness tests of minerals and the durability conclusions field geologists reach from long-term observations at outcrop sites. In this context, 'corroborate' means confirm or support with evidence. The text indicates that one possible explanation for the divergence being discussed is that geologists may overlook weathering variables—that is, additional factors other than intrinsic mineral properties that influence observed durability. This means that geologists may assume that durability reflects the mineral itself when it actually reflects a combination of factors. Laboratory tests isolate the mineral from such environmental influences, so if weathering is actually affecting field outcomes, the lab tests will likely yield conclusions different from those geologists reach in the field. In other words, laboratory results may fail to corroborate field geologists' conclusions.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it wouldn't make sense to say that the results of laboratory hardness tests could 'implement,' or put into effect, conclusions geologists reach through field observation; the researchers running the tests might consider those conclusions, but findings from a study can't put anything into effect.",
+  "source": "https://cooksat.com/practice?questionId=6b65cba3&subject=english&domain=craft-and-structure&skills=words_in_context&bank=cooksat",
+  "images": []
+}
