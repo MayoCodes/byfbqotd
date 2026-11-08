@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a73ee42b",
+  "capturedAt": "2026-11-08T16:29:25.722Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In modern agriculture, drip irrigation systems deliver water directly to plant roots through a network of tubes and emitters. Before this technology, farmers had to flood entire fields to water crops, which wasted enormous amounts of water and often damaged soil quality. The development of drip irrigation eliminated these problems. ______ farmers could grow crops using 30-50% less water while achieving better yields.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "As a result,",
+    "B": "Similarly,",
+    "C": "For instance,",
+    "D": "Nevertheless,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"As a result\" logically signals that the water savings and better yields in this sentence were a result of the development of drip irrigation in the previous sentence.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"for instance\" illogically signals that the water savings and better yields in this sentence are an example supporting the statement about the development of drip irrigation in the previous sentence. Instead, the improved outcomes were a result of that development.",
+  "source": "https://cooksat.com/practice?questionId=a73ee42b&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
