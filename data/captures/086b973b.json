@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "086b973b",
+  "capturedAt": "2026-11-08T16:03:34.746Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Seismographs record vibrations in Earth's crust to help scientists study earthquakes and the planet's interior structure.\n• Before electronic instruments, readings at geophysical observatories were recorded by resident scientists.\n• Caroline Renault was the resident seismologist at the Puy de Dome Observatory in France.\n• She held this position from 1871 to 1889.\n• Pavel Elliott was the resident seismologist at the Uccle Observatory in Belgium.\n• He held this position from 1932 to 1948.",
+  "prompt": "The student wants to emphasize a difference between the two seismologists. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Caroline Renault and Pavel Elliott both played important roles in recording seismic activity at European observatories.",
+    "B": "As the resident seismologist at the Uccle Observatory, Pavel Elliott recorded vibrations in Earth's crust.",
+    "C": "Caroline Renault worked as a resident seismologist in an earlier century than did Pavel Elliott.",
+    "D": "From 1871 to 1889, seismic activity in France was documented thanks to the work of Caroline Renault."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence emphasizes a difference between the two seismologists, noting that Caroline Renault (who worked from 1871 to 1889) worked in an earlier century than Pavel Elliott (who worked from 1932 to 1948).\n\nWhy B is incorrect:\n\nChoice B is incorrect. The sentence describes Pavel Elliott's role as a resident seismologist; it doesn't emphasize a difference between the two seismologists.",
+  "source": "https://cooksat.com/practice?questionId=086b973b&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
