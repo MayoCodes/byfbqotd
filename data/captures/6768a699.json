@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6768a699",
+  "capturedAt": "2026-11-08T00:33:00.927Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "To process echolocation signals, bats have an array of frequency-tuned hair cells arranged along the length of the cochlea. Hafsa Ozturk, Imran Bose, and Marcela Duarte conducted tests to identify where the difference in neural firing rate is greatest between two adjacent hair cells, reasoning that as this firing-rate difference grows, so does the amount of acoustic information available to the bat. Using the ratio of skull length to width, they found that the greatest firing-rate difference occurs closer to the base of the cochlea in bats with more elongated skulls (higher ratio of length to width) and closer to the apex in bats with more compact skulls (lower ratio of length to width). Drawing on this result, a second team of researchers has hypothesized that the hair cells where information is greatest are likely more finely tuned than the rest.",
+  "prompt": "Which finding, if true, would most directly support the second research team's hypothesis?",
+  "choices": {
+    "A": "The greater horseshoe bat (Rhinolophus ferrumequinum) has a much more elongated skull than the short-faced fruit bat (Carollia perspicillata), and the most finely tuned hair cells of the greater horseshoe bat are closer to the base of the cochlea than are those of the short-faced fruit bat.",
+    "B": "The greater horseshoe bat (Rhinolophus ferrumequinum) has a much more elongated skull than the short-faced fruit bat (Carollia perspicillata), and the most finely tuned hair cells for both are very close to the base of the cochlea.",
+    "C": "The greater horseshoe bat (Rhinolophus ferrumequinum) has a much more elongated skull than the short-faced fruit bat (Carollia perspicillata), and while the hair cells nearest the base of the cochlea for the greater horseshoe bat are more finely tuned than the others, for the short-faced fruit bat all hair cells are equally finely tuned.",
+    "D": "The greater horseshoe bat (Rhinolophus ferrumequinum) has a much more elongated skull than the short-faced fruit bat (Carollia perspicillata), and the most finely tuned hair cells of the short-faced fruit bat are closer to the base of the cochlea than are those of the greater horseshoe bat."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The first research team found that the location of greatest firing-rate difference between adjacent hair cells—the location where the most acoustic information is available—depends on skull shape: closer to the base of the cochlea in bats with more elongated skulls, and closer to the apex in bats with more compact skulls. The second team hypothesizes that these high-information hair cells are also the most finely tuned. A finding that the greater horseshoe bat (elongated skull) has its most finely tuned hair cells closer to the base of the cochlea than the short-faced fruit bat (more compact skull) would show that tuning follows the same skull-shape-dependent spatial pattern as information, directly supporting the hypothesis.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This finding reverses the pattern predicted by the first team's research. Elongated-skulled bats should have their most information-rich hair cells—and by the second team's hypothesis, their most finely tuned hair cells—closer to the base of the cochlea, while compact-skulled bats should have theirs closer to the apex. A finding that the compact-skulled short-faced fruit bat has its most finely tuned hair cells closer to the base than the elongated-skulled greater horseshoe bat does would contradict, not support, the hypothesis.",
+  "source": "https://cooksat.com/practice?questionId=6768a699&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

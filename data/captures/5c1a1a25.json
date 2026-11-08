@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "5c1a1a25",
+  "capturedAt": "2026-11-08T00:31:55.668Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nThe difficulty of restoring solvency is among the many challenges faced by analysts who are evaluating municipal pension reform—that is, policies designed to close funding gaps and stabilize retirement plans for public employees. In particular, economists Grace Elliott and Claude Dalton contend that the longer a city's pension plan has been underfunded, the less likely it is that incremental contributions can close the shortfall. Among the plans being considered for reform, this problem would be especially concerning for the ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "Merritt's Civic Employees Retirement Fund, which began underfunding only a few years before Fairhaven's Municipal Workers Trust.",
+    "B": "Brookline's General Retirement System, which began underfunding in 1898.",
+    "C": "Aldergrove's Public Service Pension Plan, which began underfunding several decades before Brookline's General Retirement System.",
+    "D": "Fairhaven's Municipal Workers Trust, which began underfunding in 2011."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it uses data from the table to complete the statement regarding a plan for which the problem of restoring solvency would be especially concerning. For each plan, the table lists the city, plan name, and the year underfunding began. The text explains that the longer a plan has been underfunded, the less likely it is that incremental contributions can close the shortfall. The problem would therefore be especially concerning for the plan whose underfunding began earliest. According to the table, that plan is Brookline's General Retirement System, which began underfunding in 1898.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it compares the onset of underfunding for Merritt's plan to that of Fairhaven's plan instead of citing the plan that has been underfunded the longest (Brookline's General Retirement System). The text indicates that the longer a plan has been underfunded, the harder it is to close the shortfall. Neither the table nor the text supports the claim that Merritt's plan is especially vulnerable to this problem.",
+  "source": "https://cooksat.com/practice?questionId=5c1a1a25&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/5c1a1a25/1-883cf45affa2782d.png"
+    }
+  ]
+}

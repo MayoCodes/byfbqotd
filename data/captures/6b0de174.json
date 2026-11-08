@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6b0de174",
+  "capturedAt": "2026-11-08T00:33:07.834Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The frequent misidentification of pyrite as gold by amateur prospectors is a quintessential instance of perceptual substitution—observers apply cues learned from one mineral to another that shares surface features like luster and color. An outstanding question is whether perceived visual similarity predicts the likelihood that amateurs will misidentify mineral pairs. To answer this question, Adewale Owusu and Bongani Uwimana identified 30 mineral-pair categories (e.g., pyrite and gold, calcite and quartz) in two years of submissions from approximately 60,000 amateur geologists and, for each pair, calculated the change in probability of misidentifying one mineral in a pair given that the submitter had correctly identified the other mineral in the same pair.",
+  "prompt": "Based on the text, which potential study design would be most likely to produce evidence that would enable Owusu and Uwimana to answer their research question?",
+  "choices": {
+    "A": "Have a representative sample of amateur geologists rate the visual similarity of the two minerals in each mineral-pair category, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.",
+    "B": "Have a representative sample of amateur geologists rate the visual similarity of one mineral in each pair to other minerals that share its chemical class, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.",
+    "C": "Poll a representative sample of amateur geologists to determine the degree of familiarity with each mineral in the mineral-pair categories, then determine how, if at all, the degree of familiarity correlates with the frequency with which a different group of amateurs submitted at least one sample of that mineral.",
+    "D": "Poll a representative sample of amateur geologists to determine the degree of familiarity with each mineral in the mineral-pair categories, then determine how, if at all, the degree of familiarity correlates with the average market value of each mineral in the pairs."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it presents a study design that would enable Owusu and Uwimana to answer their research question about whether perceived visual similarity predicts the likelihood that amateurs will misidentify mineral pairs. The text explains that the researchers have already calculated the change in probability of misidentifying one mineral in a pair given a correct identification of the other for 30 mineral-pair categories. To answer their research question, they would need to measure perceived visual similarity for each pair and then determine whether those similarity ratings correlate with the probability changes they already calculated. This choice proposes exactly that: having amateur geologists rate the visual similarity of the two minerals in each pair and then correlating those ratings with the team's existing probability calculations.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it substitutes familiarity for visual similarity, which is not what the research question asks about. Additionally, it proposes correlating familiarity with submission frequency in a different group of amateurs, whereas Owusu and Uwimana's research question requires correlating perceived similarity with the specific probability changes they have already calculated from their existing dataset.",
+  "source": "https://cooksat.com/practice?questionId=6b0de174&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

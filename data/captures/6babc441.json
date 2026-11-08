@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "6babc441",
+  "capturedAt": "2026-11-08T00:33:18.211Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nA report compiled by researchers Ananya Ishikawa and Hugo Colombo tracks the percentage of women serving on national parliamentary committees in several European and South American nations, such as Portugal and Uruguay. From 2015 to 2019, the percentage of women on such committees in most of the surveyed countries rose. However, there are also countries where the percentage fell or stayed the same; for example, ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the example?",
+  "choices": {
+    "A": "Estonia was greater in 2019 than in 2015, whereas the percentage in Uruguay was lower in 2019 than in 2015.",
+    "B": "Estonia was greater in 2019 than in 2015, whereas the percentage in Portugal was the same in 2019 as in 2015.",
+    "C": "Portugal was the same in 2019 as in 2015, but it had a greater percentage of women on its committees than either Estonia or Uruguay did in 2019.",
+    "D": "Uruguay was lower in 2019 than in 2015, whereas the percentage in Portugal was the same in 2019 as in 2015."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The passage requires examples of countries where the percentage of women on parliamentary committees either fell or stayed the same from 2015 to 2019. The graph shows Uruguay at 28% in 2015 and 24% in 2019, indicating a decrease, while Portugal was at 32% in both 2015 and 2019, indicating no change. Because both countries fit the description in the passage, this choice most effectively completes the example.\n\nWhy A is incorrect:\n\nChoice A is incorrect. Although Uruguay's percentage declined from 2015 to 2019, Estonia's percentage increased from 20% to 25% over the same period. The passage asks for examples of countries where the percentage fell or stayed the same.",
+  "source": "https://cooksat.com/practice?questionId=6babc441&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6babc441/1-3be0a875e31c6e6b.png"
+    }
+  ]
+}

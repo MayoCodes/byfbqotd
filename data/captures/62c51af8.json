@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "62c51af8",
+  "capturedAt": "2026-11-08T00:32:28.711Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In a multi-institution study, Pavel Quinn, Viktor Vogt, and other engineering historians examined the origins of load-distribution geometry in early bridge construction. The prevailing view held that pre-industrial timber bridges lacked triangulated bracing and that the structural principle underlying modern iron trusses emerged only within the last 220 years, arising from industrial-era metallurgical advances that first made such designs feasible. Quinn et al. contend that this account is flawed, having documented that a geometric arrangement functionally equivalent to triangulated bracing—produced through interlocking timber joinery rather than metal fasteners—is ubiquitous in surviving pre-industrial bridge remnants across multiple regions.",
+  "prompt": "Which finding, if true, would most directly support the researchers' assertion?",
+  "choices": {
+    "A": "Triangulated bracing geometry has been identified in timber scaffolding and roof trusses of buildings unrelated to bridge construction that predate the industrial era by several centuries.",
+    "B": "An additional feature of pre-industrial timber joinery affects moisture resistance and joint longevity in surviving bridge remnants rather than their load-bearing capacity.",
+    "C": "The interlocking joinery geometry that performs triangulated load distribution is documented in timber bridge remnants dated to more than 500 years before the industrial era began.",
+    "D": "A specific form of triangulated iron bracing is found only in bridges constructed after 1810 and appears to have emerged as a direct response to new metallurgical techniques."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The passage explains that the prevailing view holds that the structural principle behind triangulated bracing emerged only within the last 220 years, enabled by industrial-era metallurgy. Quinn and colleagues challenge this view, having documented that an equivalent geometric arrangement—produced through timber joinery—is ubiquitous in surviving pre-industrial bridge remnants. If this joinery geometry is documented in timber bridges dated to more than 500 years before the industrial era, it would demonstrate that the structural principle existed long before the timeframe proposed by the consensus, directly supporting the researchers' assertion that the traditional explanation is flawed.",
+  "source": "https://cooksat.com/practice?questionId=62c51af8&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

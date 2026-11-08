@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "5ca16731",
+  "capturedAt": "2026-11-08T00:32:06.532Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nPublic libraries—tax-supported community institutions offering free access to books—spread rapidly across the United States between the late nineteenth century and the early twentieth century. But as historians Samuel Renault and Adi Shin have shown, libraries were much more numerous relative to the population in some states than in others: for example, ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "there were 412 libraries in Indiana but 158 libraries in Massachusetts despite the two states having nearly equal numbers of inhabitants.",
+    "B": "Massachusetts had far more inhabitants than New York did but had many more libraries.",
+    "C": "there was one library for every 7,289 inhabitants in Massachusetts but one library for every 48,999 inhabitants in New York.",
+    "D": "New York had 186 libraries and 9,114,000 inhabitants, or one library for every 48,999 inhabitants."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The claim that must be supported is that libraries were much more numerous relative to the population in some states than in others. This choice compares the inhabitants-per-library ratio in two states (Massachusetts and New York), showing a substantial difference—one library per 7,289 inhabitants in Massachusetts versus one per 48,999 in New York—which directly illustrates the variation in libraries relative to population.",
+  "source": "https://cooksat.com/practice?questionId=5ca16731&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/5ca16731/1-086ae1a5aefdcb5a.png"
+    }
+  ]
+}
