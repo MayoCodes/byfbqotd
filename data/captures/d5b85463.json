@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d5b85463",
+  "capturedAt": "2026-11-08T15:37:29.985Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Multi-Word Phrase",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Celestial cues and ocean currents, as Eun-Ji Santoso has shown, guide many marine species on impressively long journeys, but for reliably locating a specific destination after years at sea, there is little that can ______ the detection of Earth's magnetic field. For example, loggerhead turtles use magnetic signatures to return, decades later, to the very beaches where they hatched.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "overreach by",
+    "B": "amass in",
+    "C": "conform to",
+    "D": "prevail over"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because 'prevail over' means to triumph over or be superior to, which most logically completes the passage's claim about magnetic field detection. The passage concedes that celestial cues and ocean currents guide many species on long journeys, but argues that for reliably locating a specific destination after years at sea, little can match magnetoreception. The example of loggerhead turtles returning decades later to their natal beaches supports the idea that magnetic field detection prevails over other navigation methods.\n\nWhy C is incorrect:\n\nChoice C is incorrect because 'conform to' means to match or comply with. This reverses the intended meaning: the passage argues that magnetoreception is unmatched for precise navigation, not that other methods should align with it. In the phrase 'little that can ___ X', a word meaning 'surpass' is required, not one meaning 'comply with'.",
+  "source": "https://cooksat.com/practice?questionId=d5b85463&subject=english&domain=craft-and-structure&skills=words_in_context&bank=cooksat",
+  "images": []
+}
