@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1e1ab24c",
+  "capturedAt": "2026-11-08T17:49:56.947Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Gothic architecture is a building style characterized by pointed arches, ribbed vaults, and flying buttresses that emphasize verticality and light. Notre-Dame de Chartres, a cathedral in northern France, was completed in the ______ the structure still inspires architects today.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "13th century, but",
+    "B": "13th century but,",
+    "C": "13th century,",
+    "D": "13th century"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"but\" to join the first main clause (\"Notre-Dame…13th century\") and the second main clause (\"the structure…today\").\n\nWhy B is incorrect:\n\nChoice B is incorrect because when coordinating two longer main clauses such as these, it is conventional to place the comma before the coordinating conjunction, not after it.",
+  "source": "https://cooksat.com/practice?questionId=1e1ab24c&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

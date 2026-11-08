@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2286df13",
+  "capturedAt": "2026-11-08T17:50:13.576Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "When, in 2021, field biologists in New Caledonia watched a crow carry a carefully notched twig between two feeding sites on consecutive mornings, then cache it beneath a fern frond each evening, they witnessed something never before recorded in avian ______ future planning, a form of prospective cognition, an animal stores a tool today specifically to use it tomorrow, anticipating a need before it arises—precisely what the crow was doing.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "behavior. Evidence of foresight in",
+    "B": "behavior—evidence of foresight in",
+    "C": "behavior, evidence of foresight, in",
+    "D": "behavior: evidence of foresight. In"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of punctuation within and between sentences. The colon correctly introduces the explanatory noun phrase ('evidence of foresight') that specifies what the biologists witnessed, namely the 'something never before recorded in avian behavior.' The period then correctly marks the boundary between that sentence and the next sentence ('In future planning...crow was doing'), which explains what future planning entails.\n\nWhy B is incorrect:\n\nChoice B is incorrect. An em dash can set off supplementary information, but using a single em dash after 'behavior' without a closing dash creates an awkward, unconventional structure that fails to properly introduce the explanatory noun phrase, and it also fails to mark the boundary to the following independent clause beginning with 'an animal stores.'",
+  "source": "https://cooksat.com/practice?questionId=2286df13&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

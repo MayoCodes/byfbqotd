@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2080c0e0",
+  "capturedAt": "2026-11-08T17:49:59.724Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "When certain bacteria are exposed to antibiotics (like penicillin in a culture dish), they will undergo rapid genetic changes and develop resistance mechanisms in response. This type of adaptive, evolutionary ______ is known as horizontal gene transfer, can be observed in laboratories worldwide.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "process, which",
+    "B": "process: which",
+    "C": "process which",
+    "D": "process. Which"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. This choice correctly uses commas to set off the nonessential relative clause \"which is known as horizontal gene transfer\" that provides extra information about the \"adaptive, evolutionary process\" that isn't necessary for the function of the sentence.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This choice results in a sentence fragment. \"This type of adaptive, evolutionary process\" is not an independent clause and can't stand alone as a full sentence, so we can't put a period here.",
+  "source": "https://cooksat.com/practice?questionId=2080c0e0&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

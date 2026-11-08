@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "22b653c4",
+  "capturedAt": "2026-11-08T17:50:16.354Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Marie Curie is perhaps best known for her groundbreaking research in radioactivity and her Nobel Prize achievements, but she also devoted considerable time to crystallography, the study of ______ more than 400 detailed drawings of crystal structures she examined in her laboratory and presenting her findings on molecular arrangements to the French Academy of Sciences.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "crystals; creating",
+    "B": "crystals. Creating",
+    "C": "crystals creating",
+    "D": "crystals, creating"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between two supplementary phrases following the coordinate clause (\"but she…crystallography\"). This choice correctly uses a comma to mark the boundary between the supplementary noun phrase (\"the study of crystals\") that defines the term \"crystallography\" and the supplementary participial phrase (\"creating...Sciences\") that provides additional information about the extent to which Curie dedicated herself to crystallography.\n\nWhy A is incorrect:\n\nChoice A is incorrect because a semicolon can't be used in this way to join two supplementary phrases following a coordinate clause.",
+  "source": "https://cooksat.com/practice?questionId=22b653c4&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
