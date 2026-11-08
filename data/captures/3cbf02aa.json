@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3cbf02aa",
+  "capturedAt": "2026-11-08T16:06:06.245Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The FDA classifies a food as \"organic\" only if it contains at least 95% organically produced ingredients.\n• The European Union's organic certification doesn't require a specific percentage threshold.\n• Under EU standards, many products with 70-94% organic ingredients can be labeled organic.\n• Under FDA standards, those same products would be labeled \"made with organic ingredients\" rather than organic.",
+  "prompt": "The student wants to contrast the FDA's definition of organic food with the European Union's. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The FDA's definition of organic food—containing at least 95% organically produced ingredients—is more restrictive than the European Union's, which doesn't require a specific percentage threshold.",
+    "B": "The European Union, which doesn't require a specific percentage threshold for organic certification, allows many products with varying organic content to be labeled organic.",
+    "C": "Because its definition of organic food is different from the FDA's, it is unclear what standards the European Union actually uses for organic certification.",
+    "D": "According to the FDA's definition of organic—containing at least 95% organically produced ingredients—many EU-certified organic products would be labeled differently in the US."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence contrasts the FDA's definition of organic food with the European Union's, explaining that the FDA's definition (which requires a specific percentage) is more restrictive than the EU's definition (which doesn't).",
+  "source": "https://cooksat.com/practice?questionId=3cbf02aa&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
