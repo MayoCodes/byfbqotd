@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f769d6ca",
+  "capturedAt": "2026-11-08T03:56:04.298Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Leticia Montes and colleagues' 2015 survey of urban bird populations reported approximately 340 species, nearly double the number reported in Istvan Papp and Megha Joglekar's 2005 survey of the same metropolitan area—a difference only partly attributable to the documentation of new migratory species in the interim. Another factor is that the behavioral patterns used to distinguish closely related songbird species are poorly understood compared to those of raptors, waterfowl, ground birds, and corvids, creating uncertainty about how to classify songbirds as distinct species. Researchers' decisions on such matters therefore can be highly consequential. Indeed, the two surveys reported similar counts of raptors, waterfowl, and corvid species, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "some behavioral differences observed in songbirds may have been treated as variations within species by Papp and Joglekar but treated as indicative of distinct species by Montes and colleagues.",
+    "B": "Montes and colleagues reported a much higher number of species than Papp and Joglekar did largely due to the inclusion of migratory species that had not been documented at the time of Papp and Joglekar's survey.",
+    "C": "Papp and Joglekar may have been less sensitive to the degree of behavioral variation displayed within a typical songbird species than Montes and colleagues were.",
+    "D": "the absence of clarity regarding how to differentiate among songbird species may have resulted in Montes and colleagues underestimating the number of songbird species."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. Montes reported nearly double Papp and Joglekar's species count, but this difference is only 'partly attributable' to new migratory species—another factor must exist. The text identifies that factor: songbird behavioral patterns used for species distinction are 'poorly understood,' making classification decisions 'highly consequential.' Crucially, both surveys reported 'similar counts of raptors, waterfowl, and corvid species,' meaning the discrepancy came from songbirds, not these other categories. It follows that Montes and colleagues may have treated certain songbird behavioral differences as indicative of distinct species, while Papp and Joglekar treated those same differences as variations within species, accounting for the large discrepancy.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the text explicitly addresses this issue by stating that the documentation of new migratory species in the years between the two studies can explain only part of the difference in the number of species reported by the studies. The focus of the text is on explaining the difference between Montes and colleagues' count and Papp and Joglekar's count that cannot be accounted for by the inclusion of migratory species that had not been documented at the time of Papp and Joglekar's study.",
+  "source": "https://cooksat.com/practice?questionId=f769d6ca&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
