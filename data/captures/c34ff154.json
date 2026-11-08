@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c34ff154",
+  "capturedAt": "2026-11-08T03:54:19.080Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "It's common for wine enthusiasts and critics to describe certain wines as having \"balance,\" indicating that the wines create a harmonious taste experience where no single element dominates. The exact chemical properties that give a wine balance, however, have long been thought to be indefinable. To investigate balance, a team led by food scientist Ximara Colon increased the tannin levels and reduced the acidity in red wine samples and asked wine experts to compare the perceived balance in each modified wine with the balance in the original wine. They found that participants were more than five times likelier to characterize the modified wines as having balance than to characterize the original versions as having balance, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "reduced acidity tends to give a wine balance regardless of whether tannin levels are increased.",
+    "B": "the ratio of tannins to acidity may play a crucial role in giving a wine balance.",
+    "C": "the chemical properties that give a wine balance are not easy for winemakers to control during production.",
+    "D": "red wines that have been aged longer are more likely to have balance than are red wines that have been aged for shorter periods."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The passage tells us that participants were \"more than five times likelier to characterize the modified wines as having balance than to characterize the original versions as having balance.\" Because the modified wines had been changed by altering the tannin levels and acidity, this suggests that the ratio of tannins to acidity may play a crucial role in giving a wine balance.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The passage doesn't mention whether or not it's difficult for a winemaker to give a wine balance, so there's no basis for this inference.",
+  "source": "https://cooksat.com/practice?questionId=c34ff154&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
