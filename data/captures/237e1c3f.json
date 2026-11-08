@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "237e1c3f",
+  "capturedAt": "2026-11-08T16:39:38.684Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In 1978, computer scientist Yue Santos developed an innovative error-correcting algorithm that enabled reliable data transmission across unstable networks. Years later, she ______ for this pioneering work with the Turing Award and the IEEE Hamming Medal and would therefore come to be regarded as a founding figure of modern coding theory.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "had been recognized",
+    "B": "would be recognized",
+    "C": "is recognized",
+    "D": "will be recognized"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The conditional construction 'would be recognized' correctly expresses an event that occurred after 1978 (when Santos developed her algorithm) but before the present. This 'future in the past' form parallels the later verb 'would...come to be regarded' in the same sentence, producing a consistent construction that describes two events following the 1978 development.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The present tense 'is recognized' is inconsistent with the past time frame established by 'In 1978' and by the past-tense verb 'developed.' The passage describes events that took place in the past.",
+  "source": "https://cooksat.com/practice?questionId=237e1c3f&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
