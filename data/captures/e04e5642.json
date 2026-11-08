@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e04e5642",
+  "capturedAt": "2026-11-08T16:12:00.608Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• A sonnet is a fourteen-line poetic form.\n• Each line follows a specific meter, typically iambic pentameter, and the poem follows a set rhyme scheme.\n• \"Death Be Not Proud\" is a sonnet by John Donne.\n• Its rhyme scheme is ABBAABBACDCDEE, characteristic of a Petrarchan sonnet.\n• \"Shall I Compare Thee\" is a sonnet by William Shakespeare.\n• Its rhyme scheme is ABABCDCDEFEFGG, characteristic of a Shakespearean sonnet.",
+  "prompt": "The student wants to use one of the poems to illustrate the sonnet form. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "As a sonnet, \"Shall I Compare Thee\" contains fourteen lines in iambic pentameter and follows a set rhyme scheme—in this case, ABABCDCDEFEFGG—characteristic of a Shakespearean sonnet.",
+    "B": "Donne and Shakespeare both employ the sonnet, a poetic form with fourteen lines and a specific meter, in \"Death Be Not Proud\" and \"Shall I Compare Thee.\"",
+    "C": "The fourteen-line sonnet form uses the rhyme scheme ABABCDCDEFEFGG, characteristic of a Shakespearean sonnet, which is found in the poem \"Death Be Not Proud.\"",
+    "D": "Shakespeare has used the sonnet form multiple times, as in \"Shall I Compare Thee,\" which follows this rhyme scheme: ABBAABBACDCDEE."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It illustrates sonnet form using 'Shall I Compare Thee,' explaining fourteen lines of iambic pentameter with a set rhyme scheme.\n\nWhy C is incorrect:\n\nChoice C is incorrect. While the sentence appears to use the poem \"Death Be Not Proud\" to illustrate a feature of the sonnet form, it misrepresents the information in the notes. According to the notes, \"Death Be Not Proud\" doesn't use this rhyme scheme; it uses a different pattern instead.",
+  "source": "https://cooksat.com/practice?questionId=e04e5642&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

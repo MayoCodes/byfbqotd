@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e01423ec",
+  "capturedAt": "2026-11-08T16:11:57.894Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Dr. Neema Msangi is a marine biology researcher.\n• One of her experiments involves studying fish navigation using a dual-tank system.\n• The system connects two separate aquarium tanks.\n• The tanks are positioned at different water temperatures.\n• The tanks share a single connecting tube that allows fish to move between them.",
+  "prompt": "The student wants to describe how the tanks in the dual-tank system are connected. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "To study fish navigation, Dr. Neema Msangi created a dual-tank system that connects two separate aquarium tanks.",
+    "B": "The two aquarium tanks in the dual-tank system are connected by sharing a single connecting tube that allows fish to move between them while maintaining different water temperatures.",
+    "C": "There are two separate aquarium tanks positioned at different water temperatures in the dual-tank system.",
+    "D": "The dual-tank system is an experiment created by marine biology researcher Dr. Neema Msangi."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The sentence correctly describes how the tanks in the system are connected: they share a single connecting tube that allows fish to move between them while maintaining different water temperatures.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The sentence describes features of the tanks without indicating that they are connected or describing how they are connected.",
+  "source": "https://cooksat.com/practice?questionId=e01423ec&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

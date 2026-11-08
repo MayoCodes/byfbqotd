@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d720061c",
+  "capturedAt": "2026-11-08T16:11:44.287Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Marcus Sullivan is a structural engineer known for designing pedestrian bridges.\n• His Riverfront Span in Portland received the 2018 Institution of Structural Engineers Award.\n• His Maple Crossing bridge uses a load-bearing lattice modeled on the microscopic cell structure of cuttlebone.\n• Structural historian Colette Ingram argues that Sullivan's bridge designs rely on principles drawn from biological structures.",
+  "prompt": "The student wants to support Ingram's claim about Marcus Sullivan's bridge designs. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "According to Ingram, engineer Marcus Sullivan, who designed the Riverfront Span, relies on principles drawn from biological structures.",
+    "B": "Structural engineer Marcus Sullivan, who designed Maple Crossing, received the 2018 Institution of Structural Engineers Award for the Riverfront Span in Portland.",
+    "C": "Ingram argues that Marcus Sullivan's bridge designs rely on principles drawn from biological structures; Maple Crossing affirms this assertion, using a load-bearing lattice modeled on the cell structure of cuttlebone.",
+    "D": "Ingram claims that Marcus Sullivan's bridge designs, one of which received the 2018 Institution of Structural Engineers Award, rely on principles drawn from biological structures."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence effectively supports Ingram's claim by both stating her position (that Sullivan's bridge designs rely on principles drawn from biological structures) and providing specific evidence for that claim: the Maple Crossing bridge uses a load-bearing lattice modeled on the cell structure of cuttlebone, a biological structure.\n\nWhy D is incorrect:\n\nChoice D is incorrect. While the sentence presents Ingram's claim, it doesn't support that claim with evidence; a bridge's award recognition doesn't demonstrate that Sullivan's designs rely on principles drawn from biological structures.",
+  "source": "https://cooksat.com/practice?questionId=d720061c&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
