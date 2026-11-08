@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2046d006",
+  "capturedAt": "2026-11-08T16:24:23.093Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In a 2021 analysis, Claude Colombo and Ousmane Sembène applied a statistical model to a century of film festival programs to infer the cycling rate of cinematic genres—the rate at which a genre is replaced over time by a successor form—in international cinema. The researchers found that experimental shorts cycle most rapidly; ______ documentary features cycle most slowly.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "meanwhile,",
+    "B": "similarly,",
+    "C": "hence,",
+    "D": "subsequently,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. 'Meanwhile' logically signals that two separate findings from the same analysis are being presented in parallel—that experimental shorts cycle most rapidly while documentary features cycle most slowly. This transition appropriately indicates that these observations occur concurrently within Colombo and Sembène's study.\n\nWhy D is incorrect:\n\nChoice D is incorrect. 'Subsequently' signals temporal sequence—that one event follows another in time. But the two findings emerge simultaneously from one analysis, not as sequential events.",
+  "source": "https://cooksat.com/practice?questionId=2046d006&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

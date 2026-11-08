@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "22846bc3",
+  "capturedAt": "2026-11-08T16:24:33.959Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In 2019, researchers at Cambridge University published a groundbreaking study on the cognitive abilities of urban wildlife, revealing that city-dwelling animals demonstrate remarkable behavioral adaptations. As the study's findings suggest, these animals show evidence of enhanced cognitive abilities compared to their rural counterparts. ______ the research documented that urban squirrels and ravens exhibit significantly improved memory retention and tool-use capabilities.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Specifically,",
+    "B": "In addition,",
+    "C": "In contrast,",
+    "D": "Therefore,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Specifically\" logically signals that this sentence provides specific, precise details elaborating on the previous sentence's claim that urban animals show enhanced cognitive abilities. This sentence specifies which animals and abilities the previous sentence is referring to: urban squirrels and ravens with improved memory retention and tool-use capabilities.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"in contrast\" illogically signals that the information in this sentence contrasts with the previous claim about urban animals' cognitive abilities. Instead, it provides specific details elaborating on that claim.",
+  "source": "https://cooksat.com/practice?questionId=22846bc3&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
