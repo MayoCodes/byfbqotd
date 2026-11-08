@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8cd577bb",
+  "capturedAt": "2026-11-08T03:52:11.633Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Urban planners in Chicago conducted a comprehensive study on how traffic noise levels affect residential satisfaction. The team measured average daytime decibel levels at 200 apartment buildings across the city and surveyed residents about their overall satisfaction with their living environment. Buildings exposed to noise levels below 55 decibels had an average resident satisfaction rating of 8.2 out of 10. Buildings with noise levels between 55 and 70 decibels had satisfaction ratings averaging 6.4 out of 10, while buildings exposed to noise above 70 decibels had ratings averaging 4.1 out of 10. The researchers controlled for factors including rent prices, building age, and proximity to amenities. Based on these findings, the planners concluded that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "traffic noise has minimal impact on residential satisfaction when other factors like rent and building age are considered.",
+    "B": "apartment buildings should implement soundproofing to eliminate all traffic noise and maximize resident satisfaction.",
+    "C": "reducing traffic noise exposure is associated with higher residential satisfaction levels.",
+    "D": "residents in buildings with moderate noise levels (55-70 decibels) report higher satisfaction than those in quieter buildings."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it accurately reflects the study's central finding that as traffic noise exposure decreased, residential satisfaction increased systematically: buildings with noise below 55 decibels had satisfaction ratings of 8.2, compared to 6.4 for moderate noise (55-70 decibels) and 4.1 for high noise (above 70 decibels), demonstrating a clear inverse relationship between noise and satisfaction.\n\nWhy B is incorrect:\n\nChoice B is incorrect. While the study found associations between noise and satisfaction, it makes an unsupported leap to prescriptive action ('should implement soundproofing to eliminate all traffic noise'). The research demonstrated correlations but didn't investigate specific interventions or establish that complete noise elimination is necessary or optimal for satisfaction.",
+  "source": "https://cooksat.com/practice?questionId=8cd577bb&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

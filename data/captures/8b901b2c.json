@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8b901b2c",
+  "capturedAt": "2026-11-08T03:52:04.876Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "To investigate how artificial lighting affects nocturnal pollinator behavior in urban environments, Xiu-Ying Liu et al. collected native wildflower patches from rural meadows and installed them in urban park settings with varying intensities of LED street lighting. Pollinator visitation rates increased significantly in the illuminated patches; crucially, the species composition of the pollinator communities remained constant across all lighting conditions, allowing Xiu-Ying Liu et al. to attribute the increased visitation to light-induced changes in individual pollinator foraging behavior.",
+  "prompt": "It can most reasonably be inferred from the text that the finding about the pollinator species composition was important for which reason?",
+  "choices": {
+    "A": "It provided preliminary evidence that pollinator visitation rates were increased in the illuminated wildflower patches.",
+    "B": "It suggested that light-induced changes in pollinator foraging may be occurring in increasingly urbanized environments.",
+    "C": "It clarified that pollinator activity levels in the wildflower patches varied depending on which species comprised the community.",
+    "D": "It ruled out a potential alternative explanation for the increase in pollinator visitation rates."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accurately describes why the finding about pollinator species composition was important. The text describes an experiment by Xiu-Ying Liu and her team in which they installed wildflower patches in urban settings with different LED lighting intensities. Xiu-Ying Liu and her team observed that pollinator visitation rates increased in the illuminated patches and that \"crucially, the species composition of the pollinator communities remained constant,\" which allowed the team to attribute the increase to changes in individual foraging behavior caused by the lighting. This strongly implies that the team wouldn't have been able to make that attribution otherwise, meaning that a change in species composition represented another possible explanation for the increased visitation that had to be ruled out.\n\nWhy C is incorrect:\n\nChoice C is incorrect. Although different pollinator species likely exhibit different activity levels, the text indicates that there was no change in species composition, and there is nothing in the text about different species having different activity levels.",
+  "source": "https://cooksat.com/practice?questionId=8b901b2c&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
