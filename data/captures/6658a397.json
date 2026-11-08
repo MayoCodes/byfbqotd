@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6658a397",
+  "capturedAt": "2026-11-08T16:07:32.997Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Amina Nwosu is a structural engineer who designs pedestrian bridges in Kyoto, Japan.\n• Nwosu's Kitano Footbridge was a finalist for the Aga Khan Award for Architecture in 2019.\n• Her Sakura Crossing uses interlocking mortise-and-tenon joints, a traditional Japanese timber-joinery technique.\n• Architectural historian Margot Ingram argues that Nwosu's bridge designs draw on techniques originating in traditional Japanese timber joinery.",
+  "prompt": "The student wants to support Ingram's claim about Amina Nwosu's bridge designs. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Structural engineer Amina Nwosu, who designed the Sakura Crossing, was a finalist for the Aga Khan Award for Architecture in 2019.",
+    "B": "Ingram argues that Amina Nwosu's bridge designs, one of which was a finalist for the Aga Khan Award for Architecture, draw on techniques originating in traditional Japanese timber joinery.",
+    "C": "According to Ingram, engineer Amina Nwosu, who designed the Kitano Footbridge, draws on techniques with origins in traditional Japanese timber joinery.",
+    "D": "Ingram argues that Amina Nwosu's bridge designs draw on techniques originating in traditional Japanese timber joinery; the Sakura Crossing affirms this assertion, using interlocking mortise-and-tenon joints."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence effectively supports Ingram's claim by first stating that Nwosu's bridge designs draw on techniques originating in traditional Japanese timber joinery and then providing concrete evidence: the Sakura Crossing uses interlocking mortise-and-tenon joints, a traditional Japanese timber-joinery technique.",
+  "source": "https://cooksat.com/practice?questionId=6658a397&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

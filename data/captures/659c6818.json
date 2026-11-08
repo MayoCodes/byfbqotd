@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "659c6818",
+  "capturedAt": "2026-11-08T16:07:27.583Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Vertebrae are bone structures that form the backbone of vertebrate animals.\n• Vertebrae provide support and protect the spinal cord, which controls movement.\n• Members of the same species typically have the same number of vertebrae.\n• The python (Python regius) and the cobra (Naja naja) are species of snakes.\n• The python has approximately 400 vertebrae.\n• The cobra has approximately 200 vertebrae.",
+  "prompt": "The student wants to specify how many vertebrae the python has. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The python's vertebrae provide support and protect the spinal cord, which controls the snake's movement.",
+    "B": "The python (Python regius) and the cobra (Naja naja) both have vertebrae, but the python has more than the cobra does.",
+    "C": "The cobra, a species of snake, has approximately 200 bone structures called vertebrae.",
+    "D": "The python (Python regius) has approximately 400 vertebrae."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence directly specifies how many vertebrae the python has, as indicated in the notes: approximately 400.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The sentence specifies how many vertebrae the cobra has, not how many the python has.",
+  "source": "https://cooksat.com/practice?questionId=659c6818&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
