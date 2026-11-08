@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8e6259a1",
+  "capturedAt": "2026-11-08T00:35:23.608Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Milan, Italy, has converted 78% of its municipal streetlights to high-intensity LED fixtures in order to reduce energy costs, a retrofit known as lighting modernization. Investigating the impact of such retrofits on urban bat populations at various sites across the Lombardy region, Giovanni Ricci, Sarah Ricci, and colleagues hypothesized that LED lighting modernization more negatively affects foraging bats than does the density of radio-frequency communication towers. To evaluate the responses of local bat species, including the common pipistrelle, to these infrastructure changes, the researchers employed the Bat Community Foraging Index (BCFI), on which a low score corresponds to reduced foraging activity.",
+  "prompt": "Which finding, if true, would most directly support the researchers' hypothesis?",
+  "choices": {
+    "A": "Bat communities at Brescia, a site with a relatively high density of communication towers and a relatively low percentage of LED-converted streetlights, had higher average BCFI scores than did bat communities at Cremona, a site with a lower density of communication towers but a higher percentage of LED-converted streetlights.",
+    "B": "Bat communities at Pavia, a site with a relatively high density of communication towers and a relatively low percentage of LED-converted streetlights, had lower average BCFI scores than did bat communities at Lodi, a site with a lower density of communication towers but a higher percentage of LED-converted streetlights.",
+    "C": "Bat communities at Monza and Varese, two sites with relatively high densities of communication towers and percentages of LED-converted streetlights, had similar BCFI scores, whereas bat communities at Sondrio and Mantova, two sites with relatively low densities of communication towers and percentages of LED-converted streetlights, had widely differing BCFI scores.",
+    "D": "Bat communities at Bergamo, a site with a relatively high density of communication towers and percentage of LED-converted streetlights, had lower average BCFI scores than did bat communities at Como, a site with a relatively low density of communication towers and percentage of LED-converted streetlights."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it presents a finding that, if true, would most directly support Ricci et al.'s hypothesis that LED lighting modernization more negatively affects foraging bats than does communication tower density. The text explains that the researchers used the Bat Community Foraging Index (BCFI) to evaluate bat responses, where a low BCFI score corresponds to reduced foraging activity. To support the hypothesis that LED conversion is more harmful than tower density, a finding would need to show that sites with higher percentages of LED-converted streetlights have lower foraging integrity than sites with higher densities of communication towers. This choice describes exactly that: Brescia, which has a relatively high density of communication towers but a relatively low percentage of LED-converted streetlights, had higher average BCFI scores than Cremona, which has a lower density of towers but a higher percentage of LED conversions. This comparison isolates the two variables and demonstrates that the site with more LED conversion had worse outcomes for bats despite having fewer communication towers, directly supporting the researchers' hypothesis.",
+  "source": "https://cooksat.com/practice?questionId=8e6259a1&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

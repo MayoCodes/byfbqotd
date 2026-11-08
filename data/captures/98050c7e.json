@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "98050c7e",
+  "capturedAt": "2026-11-08T00:35:55.825Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Leandro Almeida, Mai Santoso, and colleagues compiled a database of pollinator-plant interactions in Neotropical rainforests by conducting field surveys and by drawing on data from previously published interaction studies. The team assigned each of these prior studies a rating for reproducibility (with a higher rating for clearer documentation of sampling procedures) and for taxonomic alignment (with a higher rating for using species groupings more closely matched to those in the team's database). On the basis of these ratings, a second research team concluded that the experimental protocol was more rigorously documented in a study by Idalia Vega and Tomas Krieger than it was in a study by Yuki Hoshino and Camille Pereira.",
+  "prompt": "Which finding, if true, would most directly challenge the second research team's conclusion?",
+  "choices": {
+    "A": "The study by Hoshino and Pereira had a medium taxonomic alignment rating and a medium reproducibility rating.",
+    "B": "The study by Vega and Krieger had a lower taxonomic alignment rating than the study by Hoshino and Pereira did.",
+    "C": "The study by Vega and Krieger had a high taxonomic alignment rating and a high reproducibility rating.",
+    "D": "The study by Vega and Krieger had a lower reproducibility rating than the study by Hoshino and Pereira did."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The second research team concluded that the experimental protocol was more rigorously documented in the study by Vega and Krieger than in the study by Hoshino and Pereira. According to the passage, the reproducibility rating measures how clearly sampling procedures are documented, so a more rigorously documented protocol would correspond to a higher reproducibility rating. If the Vega and Krieger study actually had a lower reproducibility rating than the Hoshino and Pereira study, this finding would directly contradict the second team's conclusion.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This finding would strengthen rather than weaken the second team's conclusion. If the Vega and Krieger study had high ratings for both reproducibility and taxonomic alignment, that would be consistent with the claim that its experimental protocol was well documented.",
+  "source": "https://cooksat.com/practice?questionId=98050c7e&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

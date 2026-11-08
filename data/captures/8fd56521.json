@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "8fd56521",
+  "capturedAt": "2026-11-08T00:35:30.494Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nSome analysts have suggested that as workplace norms evolve, many industries that currently rely on partial remote arrangements (where employees work remotely for less than 70 percent of the workweek) could transition fully to the remote-operations tier (70 to 100 percent of the workweek). However, it isn't clear that every industry can sustain such a shift. In 2023, Chidi Toure and Henry Kent surveyed firms in four industries, recording the minimum and maximum shares of the workweek that employees currently spend working remotely. Based on the shares at which firms in those industries now operate, the industry that seems least suited to a full transition to the remote-operations tier is ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "Software development, because its minimum share of 55 percent is below the remote-operations tier.",
+    "B": "Hospitality management, because its maximum share of 25 percent is furthest from the remote-operations tier.",
+    "C": "Legal services, because its maximum share of 65 percent is close to but doesn't reach the remote-operations tier.",
+    "D": "Editorial publishing, because its minimum share of 5 percent is the lowest of those listed."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the statement about which industry is least suited to a full transition to the remote-operations tier. The text explains that the remote-operations tier covers 70 to 100 percent of the workweek, and the table shows the current minimum and maximum shares of remote work for each industry. According to the table, Hospitality management has a maximum share of only 25 percent, meaning firms in this industry have never been observed operating above that level. This maximum is the furthest below the remote-operations tier's starting point of 70 percent among all industries listed, suggesting that Hospitality management is least suited to a full transition to that tier.",
+  "source": "https://cooksat.com/practice?questionId=8fd56521&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/8fd56521/1-8e3343fdd8e784cf.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "8807fdbe",
+  "capturedAt": "2026-11-08T00:35:02.266Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nThe share of land designated as protected conservation area worldwide has expanded substantially since 1970, but this expansion has not been uniform. Germany and New Zealand, for example, were already heavily protected by 1970, with 70% or more of their land set aside. The main contributors to global growth in protected land since 1970 have been countries like Kenya, whose share went from ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "around 50% protected in 1970 to around 90% protected in 2020.",
+    "B": "less than 40% protected in 1970 to around 90% protected in 2020.",
+    "C": "less than 20% protected in 1970 to more than 50% protected in 2020.",
+    "D": "around 40% protected in 1970 to more than 70% protected in 2020."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. This choice effectively uses data from the graph to complete the example. The line representing the percent of Kenya's land protected as conservation area shows that it started at 40% in 1970 and reached 75% in 2020, which is more than 70%.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This choice misreads the graph. The line representing Kenya's protected land shows that it started at 40% in 1970, not around 50%, and reached 75% in 2020, not around 90%.",
+  "source": "https://cooksat.com/practice?questionId=8807fdbe&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8807fdbe/1-ca6bf79b6e27722e.png"
+    }
+  ]
+}

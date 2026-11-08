@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9a7ce448",
+  "capturedAt": "2026-11-08T00:36:06.497Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Construction of elevated highways through metropolitan areas has been expanding as urban populations grow, potentially decreasing residential noise exposure through the acoustic shadowing effect of overhead roadway decks, but also potentially increasing exposure through greater sound propagation (noise that travels further when emitted from elevated surfaces unobstructed by nearby buildings). Urban acoustician Nora Murphy and her colleague Linh Yamada developed a model incorporating numerous inputs—years of traffic volume and building-height data among them—to evaluate the effects of highway design on residential noise in several cities, concluding that net neighborhood noise exposure is likely to increase when elevated roadways rise higher than the rooflines of surrounding residential buildings.",
+  "prompt": "Which finding, if true, would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "The effect of traffic volume on acoustic shadowing and on sound propagation is stronger during periods of heavy rush-hour congestion than during periods of light overnight traffic.",
+    "B": "Relatively tall elevated roadways reduce the amount of traffic noise that reaches residential windows and lower the overall rate of sound propagation through the neighborhood.",
+    "C": "Elevated roadways tend to remain in service longer in areas of relatively low traffic congestion and high residential density than in areas of relatively high congestion and low residential density.",
+    "D": "The clear line of sight above rooftop level enables sound propagation from elevated roadways to reach distant residential blocks that the acoustic shadowing of lower highway designs would otherwise protect."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents a finding that, if true, would support Murphy and Yamada's conclusion that net neighborhood noise exposure increases when elevated roadways rise higher than surrounding rooflines. The passage explains that elevated highway construction could both decrease residential noise through acoustic shadowing and increase it through greater sound propagation from unobstructed elevated surfaces. The researchers concluded that net noise exposure rises specifically when roadways exceed rooftop height. A finding that a clear line of sight above rooftop level allows sound to propagate to distant residential blocks that lower highway designs would otherwise shield directly supports this conclusion: when the roadway rises above the rooflines, the shadowing mechanism that normally protects residents is defeated while the propagation mechanism is amplified, producing the net increase in noise exposure the researchers predicted.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it describes where elevated roadways tend to remain in service longest but does not explain how the height of a roadway relative to surrounding rooflines affects residential noise. Murphy and Yamada's conclusion focuses on the structural relationship between roadway elevation and building height, not on the longevity of roadways in particular neighborhoods, and this choice identifies no mechanism by which that height relationship would produce a net increase in noise exposure.",
+  "source": "https://cooksat.com/practice?questionId=9a7ce448&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

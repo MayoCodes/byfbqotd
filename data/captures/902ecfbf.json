@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "902ecfbf",
+  "capturedAt": "2026-11-08T00:35:34.233Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nIn many countries, national labor agencies enforce minimum wage laws by conducting workplace inspections, documenting violations, and assessing financial penalties against noncompliant employers. Economists Mei Ito and Fang Chen observed that although the number of workplace inspections a country conducts annually tends to rise with the size of its labor force, the average financial penalty assessed per violation, which depends on legislated fine schedules rather than workforce size, does not rise with workforce size to the same degree, which helps explain why ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "Estonia and Denmark show similar average financial penalties per violation.",
+    "B": "Denmark shows an average of 6.28 annual inspections per 1,000 employers.",
+    "C": "Portugal shows a higher average financial penalty per violation than Estonia does.",
+    "D": "Poland shows the highest average financial penalty per violation and the highest average number of annual inspections per 1,000 employers."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. To support the claim, the text needs data showing that a country with a larger labor force imposes a higher average financial penalty than a country with a smaller labor force — demonstrating that penalty levels vary across countries of different sizes. This choice accurately reflects that Portugal, with a labor force of 4.9-5.2 million, shows a higher average penalty ($3,130) than Estonia, with a labor force of only 0.6-0.8 million ($888).",
+  "source": "https://cooksat.com/practice?questionId=902ecfbf&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/902ecfbf/1-a1d4c0caf66f4bfc.png"
+    }
+  ]
+}

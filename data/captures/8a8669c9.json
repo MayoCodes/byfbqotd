@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8a8669c9",
+  "capturedAt": "2026-11-08T00:35:09.468Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Permeable pavement mitigates stormwater pollution through two principal mechanisms: adsorption (binding of dissolved contaminants to pavement substrate) and, the more effective, infiltration (downward percolation of runoff into underlying soils where microbial breakdown occurs). Accordingly, installation of permeable surfaces to reduce stormwater-borne pollutants such as dissolved heavy metals in urban watersheds has drawn substantial municipal interest. A study by Sylvie Marques and Amelia Hoffman drew on water-quality sampling from monitoring outfalls in Portugal, the Canadian province of Ontario, and hundreds of other sites worldwide over a twelve-year interval, paired with sediment-load records from the same sites. The researchers ultimately recommended that curbing upstream pollutant sources remain the primary focus of urban stormwater-quality improvement efforts.",
+  "prompt": "Which finding from the study, if true, would most directly account for the recommendation by Marques and Hoffman?",
+  "choices": {
+    "A": "The association between levels of dissolved heavy metals and permeable-surface coverage is strongly negative for sites within or adjacent to dense urban watersheds but becomes insignificant for more rural sites.",
+    "B": "The association between permeable-surface coverage and dissolved heavy-metal levels is moderately negative overall but becomes slightly negative and sometimes positive when consideration is limited to high-traffic corridors with substrate compaction heavy enough to impede percolation.",
+    "C": "Ambient levels of dissolved heavy metals are comparable across sites with comparable drainage infrastructure (e.g., typical culvert geometry) but vary considerably depending on the predominant substrate material used in the permeable surfacing.",
+    "D": "There is a predictable relationship between a site's typical precipitation regime and the efficacy of permeable surfacing at that site, but unusual storm events have an outsized effect on adsorption and infiltration of dissolved heavy metals."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a finding that, if true, would most directly account for Marques and Hoffman's recommendation that curbing upstream pollutant sources remain the primary focus of urban stormwater-quality improvement efforts. The text explains that permeable pavement reduces stormwater pollution through two mechanisms: adsorption and the more effective infiltration (percolation into soils where microbial breakdown occurs). Despite this, the researchers recommended prioritizing source reduction over permeable-surface installation. If it's true that the association between permeable coverage and dissolved heavy-metal levels becomes slightly negative and sometimes positive on high-traffic corridors where substrate compaction impedes percolation, this would directly account for the recommendation. This finding shows that in precisely the urban contexts where permeable pavement is most often proposed as a solution—high-traffic corridors—compaction impedes the more effective pollution-reduction mechanism (infiltration) and can even produce higher pollution levels. This supports the conclusion that permeable surfacing is not a reliable primary solution and that curbing upstream sources should be the main focus.\n\nWhy C is incorrect:\n\nChoice C is incorrect because a finding that heavy-metal levels vary considerably depending on the predominant substrate material used in permeable surfacing would not account for the recommendation to prioritize upstream source reduction. Rather, such a finding would suggest that installing permeable pavement could be an effective strategy for improving urban stormwater quality, provided the right substrate is selected. This would support expanding permeable surfacing as a primary solution rather than making source reduction the main focus.",
+  "source": "https://cooksat.com/practice?questionId=8a8669c9&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}
