@@ -50,3 +50,11 @@ Capturing only queues a reviewed question locally. Publishing writes one commit 
 Keep tokens in the extension, never in this website, its public files, or the repo. The source repo can stay private, while the chosen question text, answers, explanations, and images are published as static files. GitHub API and Cloudflare build quotas still apply to publishing; there are no per-visitor capture API calls or database costs for reading the bank. A commit receipt does not prove a successful Cloudflare deployment—check its dashboard.
 
 Run `node --test tests/question-bank.test.cjs tests/capture-import.test.cjs` to check the build importer. No real captures have been published by this coding session.
+
+## Question bank filters
+
+The question bank uses bundled HeroUI React select components, styled to match Friprep. Run `npm ci` once before `npm run build` (or `node build.cjs`). Vercel and Cloudflare install dependencies from `package-lock.json`; the existing build command and `public` output directory still work. No new environment variables are needed.
+
+Filters include section, domain, skill, difficulty, practice status, answer format, and difficulty order. Section changes clear domain and skill; domain changes clear skill. Captures retain `domain`, `skill`, and `subskill` as separate public question fields. CSV sources may also provide these columns; older Topic-only sources still work as skills. Missing metadata is never invented.
+
+Question progress and bookmarks are stored only in the browser on this device (`friprep-bank-progress`), without a database or added API calls. Practice status filters use that local history. The responsive filter panel can collapse on mobile. Published questions are not modified by practicing or saving.

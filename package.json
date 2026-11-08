@@ -1,0 +1,39 @@
+{
+  "name": "friprep",
+  "version": "1.0.0",
+  "description": "Friprep daily challenge and static question bank",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "node build.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "preview": "node scripts/preview.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayoCodes/byfbqotd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayoCodes/byfbqotd/issues"
+  },
+  "homepage": "https://github.com/MayoCodes/byfbqotd#readme",
+  "dependencies": {
+    "@heroui/react": "^3.2.7",
+    "@heroui/styles": "^3.2.7",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.5",
+    "esbuild": "^0.28.2",
+    "tailwindcss": "^4.3.5"
+  },
+  "private": true,
+  "type": "module"
+}
