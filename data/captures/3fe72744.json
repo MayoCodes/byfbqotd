@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3fe72744",
+  "capturedAt": "2026-11-08T16:25:44.699Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In retrospect, given the mathematical tools and computational methods available to quantum physicists in the 1920s, the development of matrix mechanics was an inevitable breakthrough. It may not have been a coincidence, ______ that Werner Heisenberg and Max Born formulated the theory simultaneously from different approaches. Indeed, contrary to the popular image of the solitary researcher, theirs is not the first revolutionary framework to have emerged from multiple scientists working in parallel.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "then,",
+    "B": "however,",
+    "C": "moreover,",
+    "D": "for example,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Then\" signals that this sentence's claim about Heisenberg and Born follows logically from the previous information. In other words, both physicists independently formulating matrix mechanics was, arguably, an expected outcome of the circumstances mentioned in the previous sentence.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"however\" illogically signals that the claim in this sentence contrasts with the previous information about the mathematical tools available to quantum physicists in the 1920s. Instead, this claim follows logically from that information.",
+  "source": "https://cooksat.com/practice?questionId=3fe72744&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

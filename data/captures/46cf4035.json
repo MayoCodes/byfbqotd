@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "46cf4035",
+  "capturedAt": "2026-11-08T16:25:55.601Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "When composing musical scores for orchestras, renowned conductor Maria Hendricks typically writes each instrumental part to showcase the unique strengths of individual musicians in her ensemble. ______ for her Symphony No. 3, which premiered during a guest performance with an unfamiliar orchestra, she composed standardized parts that could be performed competently by any skilled musician; lacking personalized touches, the final performance reflected the technical precision but emotional distance of unfamiliar collaborations.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Thus,",
+    "B": "Nevertheless,",
+    "C": "Likewise,",
+    "D": "Moreover,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. \"Nevertheless\" logically signals that the information in this sentence—that the musical parts Maria Hendricks composed for Symphony No. 3 were standardized for any skilled musician—presents a notable exception to Hendricks's typical approach of writing personalized parts for individual musicians, which is described in the previous sentence.\n\nWhy D is incorrect:\n\nChoice D is incorrect because \"moreover\" illogically signals that the information in this sentence merely adds to the previous information about Hendricks's typical approach of writing personalized parts for individual musicians. Instead, it presents a notable exception to Hendricks's typical approach.",
+  "source": "https://cooksat.com/practice?questionId=46cf4035&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

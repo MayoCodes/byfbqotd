@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "466f3772",
+  "capturedAt": "2026-11-08T16:25:52.884Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "With its innovative CRISPR gene-editing technology, biotechnology company Editas Medicine has succeeded in developing a revolutionary approach to treating genetic diseases. ______ when researchers applied the technique to patients with inherited blindness and observed dramatic improvements in vision within just weeks of treatment, they confirmed the technology's remarkable potential for transforming medical care.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Second,",
+    "B": "Indeed,",
+    "C": "Instead,",
+    "D": "Nevertheless,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. \"Indeed\" logically signals that the description of the CRISPR treatment in this sentence—its application to patients with inherited blindness and resulting \"dramatic improvements in vision\"—offers additional emphasis in support of the previous sentence's claim about the technology's \"revolutionary approach to treating genetic diseases.\"\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"instead\" illogically signals that the description in this sentence is an alternative to the previous sentence's claim about the technology's \"revolutionary approach to treating genetic diseases.\" Rather, the specific details describing the treatment results emphasize and support that claim.",
+  "source": "https://cooksat.com/practice?questionId=466f3772&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
