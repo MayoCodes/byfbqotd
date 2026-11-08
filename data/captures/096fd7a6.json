@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "096fd7a6",
+  "capturedAt": "2026-11-08T17:49:04.455Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The philosophy of the Montessori approach is grounded in several core ______ by Italian physician Maria Montessori, who aimed to replicate natural developmental processes, the method encourages hands-on learning from early childhood and guides students as young as two to engage with practical life activities such as pouring and sorting.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "principles pioneered",
+    "B": "principles that, pioneered",
+    "C": "principles. Pioneered",
+    "D": "principles, pioneered"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation use between sentences. This choice correctly uses a period to mark the boundary between one sentence (\"The philosophy...principles\") and another (\"Pioneered...'pouring and sorting'\"). The participial phrase \"pioneered by Italian physician Maria Montessori\" modifies the subject of the next sentence, \"the method.\"",
+  "source": "https://cooksat.com/practice?questionId=096fd7a6&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

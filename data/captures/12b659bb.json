@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "12b659bb",
+  "capturedAt": "2026-11-08T17:49:23.822Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Originally thought to be composed by Wolfgang Amadeus Mozart, the celebrated musical genius of the Classical era, the 1788 symphony K. 444 attracted renewed scholarly interest in the early 2000s when musicologists determined that the work—which features innovative harmonic progressions—was actually created by little-known Austrian ______ Michael Haydn (1737–1806).",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "composer—",
+    "B": "composer",
+    "C": "composer:",
+    "D": "composer,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of punctuation between titles and proper nouns. No punctuation is needed to set off the proper noun \"Michael Haydn\" from the title that describes Haydn, \"little-known Austrian composer.\"\n\nWhy A is incorrect:\n\nChoice A is incorrect because no punctuation is needed.",
+  "source": "https://cooksat.com/practice?questionId=12b659bb&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

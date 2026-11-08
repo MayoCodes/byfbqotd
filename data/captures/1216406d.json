@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1216406d",
+  "capturedAt": "2026-11-08T17:49:21.056Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "As an art historian, Fatima Tang of the Courtauld Institute examines how rare pigments (such as lapis lazuli and vermilion) shaped the visual choices Renaissance painters ______ Tang's research also traces the trade routes that delivered these materials to European workshops.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "made, moreover,",
+    "B": "made; moreover,",
+    "C": "made, moreover;",
+    "D": "made, moreover."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the coordination of main clauses within a sentence. The semicolon is correctly used to join the first main clause (\"As an art historian...made\") and the second main clause (\"moreover...workshops\"). Further, the comma after the adverb \"moreover\" is correctly used to separate the adverb from the main clause (\"Tang's research...workshops\") it modifies, logically indicating that the information in this clause (the trade routes that delivered materials) adds to the information in the previous clause (Tang's examination of rare pigments).\n\nWhy C is incorrect:\n\nChoice C is incorrect. Placing the comma between the first main clause \"As an art historian...made\" and the adverb \"moreover\" illogically indicates that the information in the first main clause is an addition to what came before, which doesn't make sense in this context. Further, placing the semicolon after \"moreover\" incorrectly separates the transitional adverb from the clause it should introduce.",
+  "source": "https://cooksat.com/practice?questionId=1216406d&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "096b9376",
+  "capturedAt": "2026-11-08T17:49:01.703Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma After Introductory Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While many modern architects design buildings to be increasingly ______ others embrace minimalism, creating structures with clean lines inspired by the Bauhaus movement of the early 20th century.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "ornate but",
+    "B": "ornate",
+    "C": "ornate,",
+    "D": "ornate, but"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation between a subordinate clause and a main clause. This choice correctly uses a comma to mark the boundary between the subordinate clause (\"While…ornate\") and the main clause (\"others embrace minimalism\").\n\nWhy B is incorrect:\n\nChoice B is incorrect because it fails to mark the boundary between the subordinate clause (\"While…ornate\") and the main clause (\"others…minimalism\").",
+  "source": "https://cooksat.com/practice?questionId=096b9376&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

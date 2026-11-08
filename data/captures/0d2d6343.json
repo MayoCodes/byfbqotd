@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0d2d6343",
+  "capturedAt": "2026-11-08T17:49:09.969Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Critics have labeled Maya Lin the \"revolutionary of memorial design,\" a designation that has appeared in numerous publications about her work since the 1980s. Lin herself rejected the revolutionary ______ believing that it failed to capture her commitment to the traditional landscape architecture principles as well as \"environmental artist,\" the term she favored.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "label, however",
+    "B": "label, however;",
+    "C": "label, however,",
+    "D": "label; however,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation use between a main clause and two supplementary elements. In this choice, the commas after \"label\" and \"however\" are correctly used to separate the supplementary adverb \"however\" from the main clause (\"Lin…label\") on one side and the supplementary participial phrase (\"believing…favored\") on the other.\n\nWhy D is incorrect:\n\nChoice D is incorrect because a semicolon can't be used in this way to join the main clause (\"Lin…label\") and the supplementary word and phrase (\"however\" and \"believing…favored\"). Moreover, placing the semicolon after \"label\" illogically signals that the following information (Lin's belief that the label failed to capture her commitment to traditional principles) is contrary to the information in the previous clause (Lin's rejection of the label).",
+  "source": "https://cooksat.com/practice?questionId=0d2d6343&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

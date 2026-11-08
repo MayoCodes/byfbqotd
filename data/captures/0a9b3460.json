@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0a9b3460",
+  "capturedAt": "2026-11-08T17:49:07.211Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "End-of-Sentence Punctuation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Octavio Paz has argued that when speakers of minority languages adopt machine translation tools for everyday communication, younger generations practice their heritage tongues less often, which accelerates vocabulary loss and ultimately threatens linguistic survival. If reliance on these tools keeps expanding, ______ Jabari Sithole conducted a study to find the answer.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "these languages could disappear entirely.",
+    "B": "these languages could disappear entirely?",
+    "C": "could these languages disappear entirely.",
+    "D": "could these languages disappear entirely?"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is end-of-sentence punctuation. The follow-up sentence states that Sithole 'conducted a study to find the answer,' confirming that the preceding clause poses a direct question. This choice correctly uses interrogative word order ('could these languages disappear entirely') and ends with a question mark.\n\nWhy B is incorrect:\n\nChoice B is incorrect because a question mark can't be used in this way to punctuate a declarative clause, such as 'these languages could disappear entirely,' at the end of a sentence.",
+  "source": "https://cooksat.com/practice?questionId=0a9b3460&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
