@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "00a650e3",
+  "capturedAt": "2026-11-08T16:03:07.342Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Mei-Li Tan (1965–2018) was a Mexican American scientist.\n• Coastal Ecosystems (1995) and Marine Biodiversity (1997) are two groundbreaking research papers that Tan published while working in California.\n• Tan moved to MIT in Massachusetts in 1999.\n• She is best known as a marine biologist of the genomics revolution, a scientific movement of the 2000s and 2010s.\n• Her most influential works include the research paper Ocean Genomes (2005) and the book Deep Sea Discoveries (2012).",
+  "prompt": "The student wants to emphasize Mei-Li Tan's accomplishments before moving to MIT. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Mexican American scientist Mei-Li Tan is the author of works such as Coastal Ecosystems (1995), Marine Biodiversity (1997), Ocean Genomes (2005), and Deep Sea Discoveries (2012).",
+    "B": "In 1999, Mei-Li Tan moved to MIT, where she would become known as a marine biologist of the genomics revolution (a scientific movement of the 2000s and 2010s).",
+    "C": "Before moving to MIT, Mei-Li Tan—author of the research paper Ocean Genomes (2005) and the book Deep Sea Discoveries (2012)—worked in California.",
+    "D": "Although she is best known as a genomics revolution scientist, Mei-Li Tan had published two groundbreaking research papers in the 1990s while working in California: Coastal Ecosystems and Marine Biodiversity."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. This choice contrasts Tan's fame as a genomics revolution scientist with her earlier achievements as a California researcher, and it names the two papers she published before moving to MIT.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This choice doesn't emphasize Tan's accomplishments before moving to MIT. It lists some of her works but doesn't distinguish between those she wrote in California and those she wrote at MIT.",
+  "source": "https://cooksat.com/practice?questionId=00a650e3&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

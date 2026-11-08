@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "02579349",
+  "capturedAt": "2026-11-08T16:03:18.433Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Archaeological artifacts are divided into two main categories based on their discovery context.\n• An artifact found in its original location with documented context is known as an in situ find.\n• All other artifacts discovered without proper archaeological context are known as surface finds.\n• There have been approximately 800 recorded in situ finds at the site.\n• There have been over 15,000 recorded surface finds at the site.",
+  "prompt": "The student wants to contrast the number of in situ finds with the number of surface finds. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "An artifact found in its original location with documented context is known as an in situ find; all others are known as surface finds.",
+    "B": "Archaeological artifacts are divided into two main categories: in situ finds and surface finds.",
+    "C": "While there have been only approximately 800 recorded in situ finds, there have been over 15,000 surface finds.",
+    "D": "There have been approximately 800 recorded in situ finds, or artifacts found in their original context."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence contrasts the number of in situ finds with the number of surface finds, noting that there have been over 15,000 surface finds but only approximately 800 recorded in situ finds.\n\nWhy A is incorrect:\n\nChoice A is incorrect. While the sentence explains the difference between in situ finds and surface finds, it doesn't contrast the number of in situ finds and surface finds.",
+  "source": "https://cooksat.com/practice?questionId=02579349&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
