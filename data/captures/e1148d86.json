@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e1148d86",
+  "capturedAt": "2026-11-08T15:53:09.082Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Ocean currents and temperature fluctuations affect marine biodiversity patterns, though the mechanisms driving species distribution remain poorly understood. Hypothesizing that seasonal temperature variations create predictable migration corridors that extend beyond coastal regions into deep-sea environments, Jasmine Brooks and colleagues tracked multiple fish species across various oceanic zones (e.g., continental shelf, abyssal plain, mid-ocean ridge) within several Pacific locations. They discovered, however, that across all zones, species diversity remained consistently low during both seasonal peaks and maintained uniform distribution patterns regardless of temperature gradients.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It introduces an unresolved scientific question, presents a research team's hypothesis pertaining to that question, and then describes an observation made by the team that conflicts with that hypothesis.",
+    "B": "It describes a phenomenon that scientists do not fully understand, explains a research team's hypothesis about that phenomenon, and then describes a finding that led the team to refine the hypothesis.",
+    "C": "It discusses a process that scientists are somewhat unclear about, introduces competing hypotheses about that process, and then explains how a research team concluded that one of those hypotheses is likely correct.",
+    "D": "It explains a hypothesis that has been the subject of scientific debate, discusses how a research team tested that hypothesis, and then presents data the team collected that validate the hypothesis."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because the text introduces an unresolved question, presents a hypothesis, and then describes a conflicting observation. The text begins by noting that mechanisms driving species distribution 'remain poorly understood'—an unresolved scientific question. Next, it summarizes Brooks and colleagues' hypothesis that seasonal temperature variations create predictable migration corridors extending into deep-sea environments. The text then pivots with 'however' to describe their finding: species diversity 'remained consistently low' across all zones and maintained 'uniform distribution patterns regardless of temperature gradients'—an observation that conflicts with their hypothesis about temperature-driven migration corridors.\n\nWhy B is incorrect:\n\nChoice B is incorrect. Although the text introduces a phenomenon (the fact that ocean currents and temperature fluctuations affect marine biodiversity patterns) that isn't fully understood by scientists and explains a research team's hypothesis about the phenomenon, the text doesn't describe how the team refined their hypothesis when a research finding contradicted it.",
+  "source": "https://cooksat.com/practice?questionId=e1148d86&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}
