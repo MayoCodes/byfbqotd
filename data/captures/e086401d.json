@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e086401d",
+  "capturedAt": "2026-11-08T17:57:46.338Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In their laboratory work, physical ______ combine techniques from infrared spectroscopy and computational modeling to map the vibrational patterns of reacting molecules and to trace the pathways through which chemical bonds break and reform.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "chemists Katarina Fletcher and Thanh Vo,",
+    "B": "chemists Katarina Fletcher and Thanh Vo",
+    "C": "chemists Katarina Fletcher, and Thanh Vo,",
+    "D": "chemists, Katarina Fletcher and Thanh Vo,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. No punctuation should separate the subject (\"physical chemists Katarina Fletcher and Thanh Vo\") from the verb \"combine.\" The names are a restrictive appositive — essential to identifying which chemists are being discussed — so no commas are needed around them.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This choice incorrectly treats the names \"Katarina Fletcher and Thanh Vo\" as nonessential information by setting them off with commas, but the names are essential to identifying which specific physical chemists are being discussed. Additionally, this choice separates the subject from the verb \"combine\" with a comma.",
+  "source": "https://cooksat.com/practice?questionId=e086401d&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

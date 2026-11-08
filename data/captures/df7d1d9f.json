@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "df7d1d9f",
+  "capturedAt": "2026-11-08T17:57:40.759Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Adding more musicians to an acoustic ensemble does not necessarily increase the overall volume of the performance. What increases is the richness and complexity of the harmonic ______ an electric amplification system, however, a sound engineer can boost the signal strength, creating amplification that allows the volume to exceed what acoustic instruments alone can produce.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "texture with",
+    "B": "texture, with",
+    "C": "texture and with",
+    "D": "texture. With"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"What…texture\") and another (\"With…produce\").\n\nWhy A is incorrect:\n\nChoice A is incorrect because it results in a run-on sentence. The sentences (\"What…texture\" and \"with…produce\") are fused without punctuation and/or a conjunction.",
+  "source": "https://cooksat.com/practice?questionId=df7d1d9f&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

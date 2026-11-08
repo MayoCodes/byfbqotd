@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e0a095fc",
+  "capturedAt": "2026-11-08T17:57:49.140Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Generally, scratches, dents, and wear marks reduce a vintage guitar's ______ when the previous owner is a legendary musician like Jimi Hendrix, such signs of use, known as player wear, can significantly increase the instrument's worth to collectors.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "value, but",
+    "B": "value",
+    "C": "value,",
+    "D": "value but"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the coordination of independent clauses within a sentence. An independent clause is a phrase containing a subject and a verb that can stand on its own as a sentence. This choice uses a comma and the coordinating conjunction \"but\" to join the first independent clause (\"scratches…reduce a vintage guitar's value\") and the second independent clause (\"such signs of use…can significantly increase the instrument's worth to collectors\") to create a compound sentence.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a comma splice. A comma can't be used in this way to mark the boundary between two independent clauses.",
+  "source": "https://cooksat.com/practice?questionId=e0a095fc&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

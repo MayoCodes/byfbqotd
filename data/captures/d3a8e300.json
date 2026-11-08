@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d3a8e300",
+  "capturedAt": "2026-11-08T17:57:23.932Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Norwegian composer Arne Nordheim is celebrated for his innovative electroacoustic ______ unconventional elements such as processed whale songs and industrial noise, Nordheim's compositions are so complex that they require specialized electronic equipment to perform.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "compositions. Incorporating",
+    "B": "compositions, incorporating",
+    "C": "compositions incorporating",
+    "D": "compositions and incorporating"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after \"compositions\" correctly marks the boundary between one sentence (\"Norwegian…compositions\") and another (\"Incorporating…perform\"). The second sentence begins with a participial phrase (\"Incorporating unconventional elements such as processed whale songs and industrial noise\") that modifies the subject \"Nordheim's compositions.\"",
+  "source": "https://cooksat.com/practice?questionId=d3a8e300&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

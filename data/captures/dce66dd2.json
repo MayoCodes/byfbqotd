@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "dce66dd2",
+  "capturedAt": "2026-11-08T17:57:35.129Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Beyond establishing innovative educational theories in her influential writings, The Montessori Method and The Absorbent Mind, Maria Montessori personally founded schools across multiple continents, revolutionizing early childhood education in three major regions—Northern Italy (her homeland), the Netherlands, and India (where she spent her final ______ from traditional pedagogical approaches.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "years,)",
+    "B": "years)",
+    "C": "years),",
+    "D": "years)—"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The dash after \"years\" and the closing parenthesis pairs with the dash after \"regions\" to separate the supplementary element (\"Northern...years\") from the rest of the sentence. The supplementary element specifies the three major regions where Maria Montessori revolutionized early childhood education, and the pair of dashes indicates that this element could be removed without affecting the grammatical coherence of the sentence.",
+  "source": "https://cooksat.com/practice?questionId=dce66dd2&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

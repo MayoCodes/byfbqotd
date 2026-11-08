@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e052b4b9",
+  "capturedAt": "2026-11-08T17:57:43.534Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Architect Maya Patel designed a revolutionary method for enhancing the durability—measured in stress cycles, or SC—of bamboo construction ______ treating and layering the bamboo with a composite of carbon fiber, epoxy resin, and natural polymers, Patel increased the material's resistance to structural failure from approximately 50,000 SC to 200,000 SC.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "materials. By",
+    "B": "materials, by",
+    "C": "materials by",
+    "D": "materials and by"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The independent clauses \"Architect Maya Patel…materials\" and \"by treating…200,000 SC\" can be grammatically separated by a period. They can stand alone as sentences, and this is the only choice that lets them do that.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This choice results in a grammar error called a comma splice. \"Architect Maya Patel…materials\" and \"by treating…200,000 SC\" are both independent clauses. They need to either be separated with punctuation like a period or a semicolon, or they need to be connected by a comma and a coordinating conjunction like \"and.\" A comma alone isn't enough.",
+  "source": "https://cooksat.com/practice?questionId=e052b4b9&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
