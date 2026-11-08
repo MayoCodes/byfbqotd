@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c4139eca",
+  "capturedAt": "2026-11-08T17:56:44.868Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "A computational biologist and researcher recognized by both the scientific community and the technology ______ Dr. Ebba Sandberg was selected to lead the international consortium studying artificial intelligence applications in genomics.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "industry",
+    "B": "industry,",
+    "C": "industry:",
+    "D": "industry;"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation between a supplementary phrase and a main clause. This choice correctly uses a comma to mark the boundary between the supplementary phrase (\"A computational biologist…industry\"), which describes Dr. Ebba Sandberg, and the main clause (\"Dr. Ebba…genomics\").\n\nWhy A is incorrect:\n\nChoice A is incorrect because it fails to mark the boundary between the supplementary phrase (\"A computational biologist…industry\") and the main clause (\"Dr. Ebba…genomics\") with appropriate punctuation.",
+  "source": "https://cooksat.com/practice?questionId=c4139eca&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c484aeb9",
+  "capturedAt": "2026-11-08T17:56:47.671Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Traditional satellite antennas must be manually deployed and realigned after launch, which consumes fuel and crew time. However, engineers Antoine Fletcher and Tariq Ito have designed antennas that unfold ______ shape-memory alloy hinges gradually restore the intended configuration.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "autonomously, once in orbit,",
+    "B": "autonomously—once in orbit—",
+    "C": "autonomously. Upon deployment,",
+    "D": "autonomously upon deployment,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation between sentences. The period after \"autonomously\" correctly marks the boundary between one sentence (\"However...autonomously\") and another (\"Upon deployment, shape-memory alloy hinges gradually restore the intended configuration\"). The comma after \"deployment\" correctly separates the introductory prepositional phrase from the main clause of the second sentence.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it results in a comma splice. The clause \"engineers...autonomously\" and the clause \"shape-memory alloy hinges...configuration\" are both independent clauses, so they can't be joined with just a comma, even with the parenthetical phrase \"once in orbit\" set off by commas.",
+  "source": "https://cooksat.com/practice?questionId=c484aeb9&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

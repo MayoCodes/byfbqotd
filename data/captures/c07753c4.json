@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c07753c4",
+  "capturedAt": "2026-11-08T17:56:39.275Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Historians have determined that the ancient Roman city of Pompeii, buried under volcanic ash from Mount Vesuvius in 79 AD, had approximately 15,000 residents at the time of its ______ it one of the most significant archaeological sites in the Mediterranean region.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "destruction making",
+    "B": "destruction, making",
+    "C": "destruction. Making",
+    "D": "destruction; making"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation use between a main clause and a supplementary phrase. This choice correctly uses a comma to separate the main clause (\"Historians…destruction\") from the participial phrase (\"making…region\") that provides additional information about Pompeii's significance.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a sentence fragment. \"Making…region\" is a participial phrase that lacks a subject and verb and can't stand on its own as a sentence.",
+  "source": "https://cooksat.com/practice?questionId=c07753c4&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

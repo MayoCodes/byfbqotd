@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c499b232",
+  "capturedAt": "2026-11-08T17:56:50.408Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In 2022, Brazilian archaeologist Carlos Eduardo Silva-Mendoza conducted a comprehensive analysis of pre-Columbian ceramic artifacts (i.e., pottery created before European contact with the ______ examining 95 ceremonial vessels from different cultural periods, he discovered that their decorative patterns can reveal sophisticated astronomical knowledge among ancient Amazonian civilizations.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Americas). By",
+    "B": "Americas), by",
+    "C": "Americas) and by",
+    "D": "Americas) by"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"In…Americas\") and another (\"By…civilizations\"). The prepositional phrase beginning with \"by\" modifies the subject of the next sentence, \"he,\" which refers to Silva-Mendoza.\n\nWhy B is incorrect:\n\nChoice B is incorrect because it results in a comma splice. A comma can't be used in this way to join two sentences.",
+  "source": "https://cooksat.com/practice?questionId=c499b232&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

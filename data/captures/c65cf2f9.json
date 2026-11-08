@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c65cf2f9",
+  "capturedAt": "2026-11-08T17:56:53.196Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Before the Golden Gate Bridge was completed in 1937, traveling between San Francisco and Marin County required a lengthy ferry ride that took up to thirty minutes and cost fifty cents per vehicle. By connecting the city directly to the northern ______ bridge reduced travel time to four minutes and eliminated ferry costs entirely.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "peninsula; the",
+    "B": "peninsula (the",
+    "C": "peninsula: the",
+    "D": "peninsula, the"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation between a supplementary phrase and a main clause. This choice correctly uses a comma to mark the boundary between the introductory supplementary phrase (\"By connecting the city directly to the northern peninsula\"), which identifies how the bridge reduced travel time, and the main clause (\"the bridge reduced travel time to four minutes and eliminated ferry costs entirely\").",
+  "source": "https://cooksat.com/practice?questionId=c65cf2f9&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

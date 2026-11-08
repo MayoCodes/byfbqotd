@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ba6d3da2",
+  "capturedAt": "2026-11-08T17:56:36.466Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Sunita Yamada, the British computer scientist credited with designing an influential object-oriented programming language in the 1980s, and Nigerian software ______ recognized for developing a pioneering compiler for distributed systems, are both celebrated for their contributions to the early history of modern computing.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "engineer Meron Nwosu,",
+    "B": "engineer, Meron Nwosu",
+    "C": "engineer Meron Nwosu",
+    "D": "engineer, Meron Nwosu,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is comma usage with nonessential elements in a compound subject. This choice correctly places a comma after 'Nwosu' to set off the nonessential participial phrase ('recognized for developing...distributed systems') that modifies Meron Nwosu, maintaining parallel structure with the earlier appositive phrase that modifies Sunita Yamada.\n\nWhy C is incorrect:\n\nChoice C is incorrect because it fails to use a comma to set off the nonessential participial phrase ('recognized for developing...distributed systems') from the compound subject. Without this comma, the sentence runs together the subject and its modifier, violating the convention of marking the boundary before a supplementary element.",
+  "source": "https://cooksat.com/practice?questionId=ba6d3da2&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
