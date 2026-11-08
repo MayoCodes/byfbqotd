@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "02cd4840",
+  "capturedAt": "2026-11-08T15:46:43.687Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Function of Underlined Sentence",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Multiple studies have found minimal correlation between corporate environmental initiatives and consumer purchasing behavior, yet several major retailers recently experienced significant sales increases following the launch of their sustainability programs. Martinez and colleagues attribute this apparent contradiction to companies' tendency—not observed in the recent retail cases—to implement environmental programs strategically to minimize market disruption (e.g., announcing initiatives during low-visibility periods or focusing on behind-the-scenes changes), which has masked the genuine consumer response to environmental action in the market data researchers have analyzed.",
+  "prompt": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+  "choices": {
+    "A": "It explains a discrepancy between what has been observed in laboratory settings and what has been observed in marketplace conditions that the text goes on to assert is attributable to the studies not using actual consumer data.",
+    "B": "It identifies a conflict between research findings and recent events that the text goes on to suggest is a consequence of a complicating factor in the data used to generate those findings.",
+    "C": "It presents a long-standing divergence in research findings that the text goes on to say is due to different groups of researchers using data that derive from different market conditions.",
+    "D": "It describes a recent exception to a general pattern in research findings that the text goes on to explain is a result of researchers underestimating the significance of variations in the data they've analyzed."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it best describes how the underlined sentence functions in the text as a whole. The underlined sentence explains that contrary to what multiple studies would suggest, recent major retailers experienced significant sales increases after launching sustainability programs. The text goes on to indicate that the researchers generated their findings from data that didn't reveal the true consumer response to environmental action because the data were based on cases in which companies had implemented environmental programs during low-visibility periods or with behind-the-scenes changes, a practice the retailers that recently experienced sales increases didn't follow, thus introducing a complicating factor resulting in a conflict between the research findings and recent events.\n\nWhy D is incorrect:\n\nChoice D is incorrect because while the underlined sentence notes that there have been some recent exceptions to a general pattern observed in multiple research studies, it does not go on to attribute this exception to the researchers underestimating variations in the data. Rather, the text goes on to attribute this to a circumstance (environmental programs being implemented during low-visibility periods rather than prominently) which adds a complicating factor into the data not accounted for in past studies.",
+  "source": "https://cooksat.com/practice?questionId=02cd4840&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}

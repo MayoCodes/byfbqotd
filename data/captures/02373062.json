@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "02373062",
+  "capturedAt": "2026-11-08T15:46:38.345Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Function of Underlined Portion",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Driven to process samples as quickly as possible, Paola Mendoza, an influential figure among the molecular biologists known as the Andean Genome Consortium, pioneered \"burst sequencing,\" a technique (which in part relied on extremely short reagent cycles) that many consortium members, including Jae-Won Reddy, adopted. To conclude that this approach accounts for the exceptional resolution now synonymous with the consortium's published maps is tempting but inaccurate, as Mendoza's methods weren't universally practiced by her colleagues: Hana Oyelaran, for example, sequenced with greater patience but achieved the same results.",
+  "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?",
+  "choices": {
+    "A": "It details evidence that contradicts a claim mentioned earlier in the text about a long-standing disagreement within a group of scientists.",
+    "B": "It considers and rebuts an interpretation of the effect of a sequencing technique mentioned earlier in the text on the perception of work by a group of scientists.",
+    "C": "It establishes a contrast between the methodological qualities of work by scientists who were central to a project introduced earlier in the text and those of a scientist who was more peripheral to that project.",
+    "D": "It explains how a scientist mentioned earlier in the text developed a distinctive method by adapting a particular approach to sequencing originated by her colleagues."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The passage establishes that Paola Mendoza pioneered burst sequencing and that many consortium members, including Jae-Won Reddy, adopted it. The underlined portion then acknowledges a tempting interpretation — that burst sequencing accounts for the exceptional resolution associated with the consortium's maps — and immediately labels this interpretation as inaccurate because Mendoza's methods weren't universally practiced. The passage supports this rebuttal by offering Hana Oyelaran as a counterexample: she sequenced more patiently yet achieved the same results. Thus, the underlined portion considers and rebuts an interpretation of the effect of a sequencing technique on the perception of work by a group of scientists.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the passage never mentions a disagreement within the consortium. The underlined portion contradicts a potentially tempting interpretation about what accounts for the consortium's resolution, not a position held by some scientists in opposition to others. The text corrects a misconception about the source of the consortium's results, not an internal dispute.",
+  "source": "https://cooksat.com/practice?questionId=02373062&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}
