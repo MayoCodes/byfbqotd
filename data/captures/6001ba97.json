@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6001ba97",
+  "capturedAt": "2026-11-08T17:52:39.846Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Renowned marine biologist Dr. Sylvia Earle was celebrated for her groundbreaking deep-sea research methods. While conducting underwater studies for the documentary Ocean Depths ______ Earle used specialized submersible technology. This enabled her team to explore previously inaccessible ocean trenches, providing unprecedented insights into deep-sea ecosystems.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "(2003), and",
+    "B": "(2003) and",
+    "C": "(2003)",
+    "D": "(2003),"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation between a supplementary element and a main clause. This choice correctly uses a comma to mark the boundary between the supplementary phrase (\"While...2003\"), which indicates when the action occurred, and the main clause (\"Earle used specialized submersible technology\").\n\nWhy B is incorrect:\n\nChoice B is incorrect because the conjunction \"and\" can't be used in this way to join the supplementary element (\"While…2003\") and the main clause (\"Earle…technology\").",
+  "source": "https://cooksat.com/practice?questionId=6001ba97&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

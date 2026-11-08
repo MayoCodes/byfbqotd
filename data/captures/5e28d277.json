@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5e28d277",
+  "capturedAt": "2026-11-08T17:52:34.280Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Bandwidth is a unit of measurement used to determine how much data a network can transmit. The measurement is based on how much and how quickly information can be ______ one unit of digital bandwidth is equivalent to the amount of data capacity needed to transfer one gigabyte of information in ten seconds.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "transmitted; for example,",
+    "B": "transmitted, for example,",
+    "C": "transmitted,",
+    "D": "transmitted"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the use of punctuation within a sentence. This choice uses a semicolon in a conventional way to join the first main clause (\"The measurement...transmitted\") and the second main clause (\"for example...seconds\").\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a run-on sentence. The two main clauses (\"The measurement…transmitted\" and \"one unit…seconds\") are fused without punctuation and/or a conjunction.",
+  "source": "https://cooksat.com/practice?questionId=5e28d277&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5ceda0bc",
+  "capturedAt": "2026-11-08T17:52:28.740Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Antibiotics—powerful medications designed to eliminate harmful bacteria in the human body—are often prescribed to treat serious infections. Antibiotics can sometimes produce unintended ______ disrupting the natural balance of beneficial bacteria in the digestive system can result in complications such as antibiotic-associated diarrhea.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "consequences, however",
+    "B": "consequences; however",
+    "C": "consequences, however,",
+    "D": "consequences, however;"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to separate the supplementary adverb \"however\" from the preceding main clause (\"Antibiotics can sometimes produce unintended consequences\") and uses a semicolon to join the next main clause (\"disrupting…diarrhea\") to the rest of the sentence. Further, placing the semicolon after \"however\" logically indicates that the information earlier in this sentence (that antibiotics can sometimes cause complications) is contrary to what might be assumed from the information in the previous sentence (that antibiotics are often prescribed to treat serious infections).",
+  "source": "https://cooksat.com/practice?questionId=5ceda0bc&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

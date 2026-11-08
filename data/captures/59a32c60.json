@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "59a32c60",
+  "capturedAt": "2026-11-08T17:52:23.242Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Signature auteur motifs compiled by Colin Graves and Zaid Demir ______ there is the long take; in Italian neorealism, the nonprofessional cast; and in Japanese jidaigeki, the static composition. Each of these devices became inseparable from the movement with which it is now identified.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "abound in French New Wave;",
+    "B": "abound: in French New Wave,",
+    "C": "abound, in French New Wave,",
+    "D": "abound in French New Wave:"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention tested is the punctuation of items in a complex series. The colon after 'abound' properly introduces the list of exemplars that follows an independent clause. The comma after 'French New Wave' correctly separates the prepositional phrase ('in French New Wave') from the clause it modifies ('there is the long take') within the first item, matching the structure of the subsequent items that are separated by semicolons.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the colon after 'French New Wave' is misplaced. The colon should appear after 'abound' to introduce the entire list of exemplars, not within the first item of the series to separate the prepositional phrase from the clause.",
+  "source": "https://cooksat.com/practice?questionId=59a32c60&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

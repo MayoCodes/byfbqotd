@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "55613cf5",
+  "capturedAt": "2026-11-08T17:52:20.485Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Environmental engineer Dr. Serwa Kyei and her research team believed they could enhance the effectiveness of the carbon capture polymer CaCO₃-PEI, an innovative mixture of calcium carbonate (CaCO₃) and polyethyleneimine (PEI), by incorporating graphene oxide ______ the modified polymer that emerged, CaCO₃-GO, proved to be a disappointing alternative to the original CaCO₃-PEI formula.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "(GO)",
+    "B": "(GO), but",
+    "C": "(GO) but",
+    "D": "(GO),"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the coordination of main clauses. This choice correctly uses a comma and the coordinating conjunction \"but\" to join the first main clause (\"Environmental…GO\") and the second main clause (\"the modified…formula\").",
+  "source": "https://cooksat.com/practice?questionId=55613cf5&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

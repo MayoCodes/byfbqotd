@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5e7ee426",
+  "capturedAt": "2026-11-08T17:52:37.044Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Consider the principles of the greenhouse effect: solar radiation enters Earth's atmosphere while heat becomes trapped, resulting in global temperature regulation. Scientific analysis demonstrates how this ______ the atmosphere's molecular composition allows short-wave radiation to pass through easily, all outgoing long-wave radiation encounters molecules that absorb and re-emit the energy, maintaining planetary warmth.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "functions because",
+    "B": "functions, it's because",
+    "C": "functions: it's because",
+    "D": "functions. Because"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used to correctly mark the boundary between one sentence (\"Scientific analysis...functions\") and another (\"Because...warmth\").",
+  "source": "https://cooksat.com/practice?questionId=5e7ee426&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

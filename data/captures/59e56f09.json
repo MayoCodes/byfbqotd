@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "59e56f09",
+  "capturedAt": "2026-11-08T17:52:25.977Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Machu Picchu is an archaeological marvel in present-day Peru and was a royal estate of the Inca Empire (fifteenth to sixteenth century CE). Historian Elena Vargas recently visited Machu Picchu to examine its ancient ______ along the steep mountainous terrain, these stone structures appear to emerge organically from the landscape.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "terraces, constructed",
+    "B": "terraces and constructed",
+    "C": "terraces. Constructed",
+    "D": "terraces constructed"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after \"terraces\" is used correctly to mark the boundary between one sentence (\"Historian...terraces\") and another (\"Constructed...landscape\").\n\nWhy D is incorrect:\n\nChoice D is incorrect because it results in a run-on sentence. The sentences (\"Historian...terraces\" and \"Constructed...landscape\") are fused without punctuation and/or a conjunction.",
+  "source": "https://cooksat.com/practice?questionId=59e56f09&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

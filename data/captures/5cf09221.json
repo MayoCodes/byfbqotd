@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5cf09221",
+  "capturedAt": "2026-11-08T17:52:31.509Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The International Energy Agency (IEA) monitors renewable energy adoption rates across its thirty member countries. For example, in 2022, solar panel installations that generated 1,000 megawatts of capacity in the United States would have produced equivalent output levels requiring 850 megawatts and 1,200 megawatts in fellow IEA ______ and Germany, respectively, due to differences in sunlight exposure.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "members, Spain",
+    "B": "members; Spain",
+    "C": "members Spain",
+    "D": "members: Spain"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of punctuation between titles and proper nouns. No punctuation is needed to set off the coordinated noun phrase \"Spain and Germany\" from the title that describes the two countries, \"fellow IEA members.\" Because the proper nouns \"Spain and Germany\" are essential information identifying the \"fellow IEA members,\" no punctuation is necessary.\n\nWhy A is incorrect:\n\nChoice A is incorrect because no punctuation is needed between the country names (\"Spain and Germany\") and the title (\"fellow IEA members\") describing them. Further, setting the countries' names off with commas suggests that they could be removed without affecting the coherence of the sentence, which isn't the case.",
+  "source": "https://cooksat.com/practice?questionId=5cf09221&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

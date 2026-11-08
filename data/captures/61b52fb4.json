@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "61b52fb4",
+  "capturedAt": "2026-11-08T17:52:42.613Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "When astronomers observe distant galaxies through ground-based telescopes, atmospheric interference distorts the light signals, limiting resolution quality. Recently, astrophysicist Claudia Barragan of the European Southern Observatory developed a new adaptive optics system using the rare earth ______ to create mirrors that can compensate for atmospheric turbulence more effectively than previous designs.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "element, scandium",
+    "B": "element scandium,",
+    "C": "element, scandium,",
+    "D": "element scandium"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of punctuation around noun phrases. No punctuation is needed because the noun phrase \"scandium\" is a restrictive appositive, meaning that it provides essential identifying information about the noun phrase before it, \"the rare earth element,\" and thus doesn't require punctuation around it.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the noun phrase \"scandium\" is a restrictive appositive. Setting the phrase off with punctuation suggests that it could be removed without affecting the coherence of the sentence, which isn't the case.",
+  "source": "https://cooksat.com/practice?questionId=61b52fb4&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
