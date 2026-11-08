@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9d2eb9c4",
+  "capturedAt": "2026-11-08T15:35:07.187Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Zawadi Mansour and Jing Ito used spectral data from well-catalogued meteorite samples to train an algorithm to classify mineral compositions. When tested on newly recovered meteorites from Antarctica, the algorithm ______ identified the dominant minerals in the vast majority of cases and even distinguished between olivine- and pyroxene-rich varieties. Mansour expects the algorithm to improve on this already-strong performance as additional samples are processed.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "clumsily",
+    "B": "reliably",
+    "C": "rarely",
+    "D": "slowly"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'reliably' means consistently and dependably. The passage states that the algorithm identified dominant minerals in 'the vast majority of cases' and even distinguished between olivine- and pyroxene-rich varieties, and it describes this output as 'already-strong performance.' Together these clues point to an algorithm that classified samples in a consistent, dependable way.",
+  "source": "https://cooksat.com/practice?questionId=9d2eb9c4&subject=english&domain=craft-and-structure&skills=words_in_context&bank=cooksat",
+  "images": []
+}
