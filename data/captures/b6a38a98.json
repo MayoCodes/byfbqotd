@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b6a38a98",
+  "capturedAt": "2026-11-08T16:00:41.222Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nA mysterious radio signal detected by astronomers appears to originate from the star system Proxima Centauri. The signal, designated as PCS-1, exhibits a narrow frequency band and regular pulsing pattern typical of technological transmissions. Because these characteristics match what scientists expect from artificial signals rather than natural phenomena, researchers initially concluded that the signal might represent the first confirmed evidence of extraterrestrial intelligence.\n\nText 2\nAstronomers were eager to investigate further when additional monitoring equipment detected similar signals from the same region of space. Extended analysis of both the original PCS-1 signal and the new detections revealed several patterns characteristic of natural stellar emissions rather than artificial transmissions. Consequently, astronomers now believe the signals were likely produced by previously unknown solar flare activity, despite initially appearing artificial in nature.",
+  "prompt": "Based on the texts, what would the astronomers in Text 2 most likely say about the researchers' initial conclusion in Text 1?",
+  "choices": {
+    "A": "It is confusing because it isn't clear what led the researchers to think that PCS-1 might be artificial rather than natural.",
+    "B": "It is flawed because the researchers incorrectly assumed that PCS-1 must be a natural stellar phenomenon.",
+    "C": "It is reasonable because the PCS-1 signal has about the same intensity as the additional signals but occurs at different frequencies.",
+    "D": "It is understandable because the signal does appear to have artificial characteristics, even though PCS-1 is probably natural in origin."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it reflects what the astronomers in Text 2 would most likely say about what the researchers in Text 1 initially concluded. Text 1 describes the discovery of a radio signal with characteristics that 'match what scientists expect from artificial signals rather than natural phenomena,' leading researchers to initially conclude that the signal might represent evidence of extraterrestrial intelligence. Text 2 explains that extended analysis revealed the signals were 'likely produced by previously unknown solar flare activity, despite initially appearing artificial in nature.' This suggests that the astronomers in Text 2 recognize that the signals do indeed appear to have artificial characteristics. For this reason, the astronomers in Text 2 would most likely say that the initial conclusion of the researchers in Text 1—that the signal was artificial—is understandable, even if the signal is probably natural rather than artificial.\n\nWhy B is incorrect:\n\nChoice B is incorrect because Text 1 never mentions natural phenomena as the researchers' assumption, so it wouldn't make sense for the astronomers in Text 2 to say that the researchers in Text 1 incorrectly assumed that PCS-1 must be natural.",
+  "source": "https://cooksat.com/practice?questionId=b6a38a98&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

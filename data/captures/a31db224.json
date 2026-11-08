@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a31db224",
+  "capturedAt": "2026-11-08T16:00:30.400Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nScholarship today overrepresents stripped geometric modernism, such as Meron Toure's unornamented concrete facades, well beyond the degree to which such work actually defined early twentieth-century architecture (roughly 1900-1940). Meanwhile, the buildings of Pierre Colombo, who drew heavily on classical ornamentation associated with earlier architectural traditions, attract woefully little attention from historians of the modernist era.\n\nText 2\nComputational image analysis, which applies pattern-recognition algorithms to large archives of digitized architectural drawings and photographs, can expose compositional features that have heretofore escaped notice, despite recurring across many buildings of the modernist era. For too long, historians have focused on ornamented versus stripped facade treatments, inhibiting inquiry into other points of stylistic correspondence among buildings that would enrich our understanding of the modernist canon.",
+  "prompt": "Based on the texts, how would the author of Text 2 most likely regard the emphasis that Text 1 places on facade treatment during the modernist era?",
+  "choices": {
+    "A": "As overestimating the impact that facade treatment, whether ornamented or stripped, has on the experience of occupying a building.",
+    "B": "As being founded on a misconception about modernist architecture that has been called into question by computational image analysis.",
+    "C": "As having the effect of forestalling consideration of the full stylistic dimensions of architecture produced in the era.",
+    "D": "As complementing the study of other stylistic features that distinguish the modernist era."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Text 1 argues that scholarship overemphasizes stripped geometric modernism (as exemplified by Toure) at the expense of traditional ornamentation (as exemplified by Colombo), centering the debate on facade treatment. The author of Text 2 argues that historians have focused on the ornamented-versus-stripped distinction 'for too long' and that this focus has been 'inhibiting inquiry into other points of stylistic correspondence among buildings that would enrich our understanding of the modernist canon.' In other words, by concentrating so heavily on facade treatment, scholars have prevented themselves from examining other compositional features that computational image analysis could reveal. The author of Text 2 would therefore most likely say that Text 1's emphasis on facade treatment forestalls, or prevents, consideration of the full stylistic dimensions of architecture produced during the modernist era.\n\nWhy A is incorrect:\n\nChoice A is incorrect because neither text discusses how facade treatment affects the experience of occupying a building. Text 1 concerns scholarly attention to particular architects, and Text 2 concerns what computational analysis of images and drawings can reveal about stylistic correspondence. The author of Text 2 would not characterize Text 1's emphasis in terms of occupant experience, which is not mentioned in either text.",
+  "source": "https://cooksat.com/practice?questionId=a31db224&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

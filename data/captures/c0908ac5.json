@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c0908ac5",
+  "capturedAt": "2026-11-08T16:00:46.612Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Complementary Text",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nLab-grown meat, produced by cultivating animal cells in bioreactors, offers a potential alternative to conventional livestock farming. Research comparing its environmental footprint consistently shows it generates fewer greenhouse gas emissions than beef production, though its impact remains comparable to that of poultry or fish farming. However, the high cost of specialized growth media needed to nourish the cells limits lab-grown meat production to wealthy nations with advanced biotechnology sectors. Recognizing that cost reduction would make lab-grown meat more globally accessible, bioengineers are investigating alternatives, including synthetic growth media that could replace expensive animal-derived nutrients.\n\nText 2\nTraditional livestock farming contributes significantly to global greenhouse gas emissions, and research by climatologist Liliya Stoyanova and her team found that substituting lab-grown meat for 25% of global beef consumption would reduce agricultural emissions by 40% within the next twenty-five years. Nevertheless, this transition would probably result in only minimal changes to overall energy consumption in food production, since energy previously used in livestock operations would be redirected toward powering cellular agriculture facilities.",
+  "prompt": "Based on the texts, how would the author of Text 1 most likely respond to the study findings mentioned in Text 2?",
+  "choices": {
+    "A": "By emphasizing that since energy consumption in food production would remain largely unchanged in the event of replacing beef with lab-grown meat, efforts should focus on substituting lab-grown alternatives for poultry and fish as well",
+    "B": "By noting that consumers would be more inclined to substitute lab-grown alternatives for poultry or fish in their diets than to replace beef consumption",
+    "C": "By pointing out that certain regions contribute disproportionately to greenhouse gas emissions and therefore, to achieve meaningful environmental impact, would need to replace more than 25% of their beef consumption with lab-grown alternatives",
+    "D": "By asserting that the creation of more affordable synthetic growth media for lab-grown meat production would support the objective of reducing global agricultural emissions over time"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it reflects how the author of Text 1 would most likely respond to the study findings described in Text 2. The author of Text 2 discusses research by Liliya Stoyanova and her team that found agricultural emissions would be reduced by 40% over the next twenty-five years if 25% of global beef consumption were replaced with lab-grown meat. The author of Text 1 points out that lab-grown meat is not widely available because of the high cost of specialized growth media, but goes on to note that this problem could be addressed by developing synthetic growth media alternatives. This suggests that the author of Text 1 would assert that the creation of more affordable synthetic growth media would contribute to the emissions reduction described in the study findings discussed in Text 2: if reducing the cost of lab-grown meat increases global access to it, then lab-grown alternatives may be able to replace beef in more diets worldwide, thereby reducing the greenhouse gas emissions associated with conventional livestock farming.\n\nWhy B is incorrect:\n\nChoice B is incorrect. Although Text 1 does compare the environmental effects of producing lab-grown meat to those of producing poultry or fish, nothing in Text 1 suggests that the author believes that consumers are more likely to replace poultry or fish with lab-grown alternatives than they are to replace beef with lab-grown meat.",
+  "source": "https://cooksat.com/practice?questionId=c0908ac5&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

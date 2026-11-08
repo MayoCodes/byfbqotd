@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b8e4840a",
+  "capturedAt": "2026-11-08T16:00:43.912Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nIn temperate grasslands of central Europe, mycorrhizal fungi form partnerships with the roots of meadow clover. Researcher Tariq Han and colleagues found that when clover plants were inoculated with these fungi in nutrient-poor plots, their biomass increased substantially compared with uninoculated plants. This finding illustrates a foundational ecological principle: mycorrhizal fungi enhance plant growth.\n\nText 2\nAntoine Dubois and colleagues found that inoculating seedlings of European beech, a slow-growing forest tree, with mycorrhizal fungi in a long-term field trial produced no significant increase in biomass over six years. Many other inoculation studies report clear growth benefits, but those studies typically focus on fast-growing herbaceous species, like clovers, grasses, and crop plants, rather than long-lived woody species, like beech, which could account for the difference between those results and Dubois and colleagues' results.",
+  "prompt": "Based on the texts, the author of Text 2 would most likely agree with which statement about the \"principle\" mentioned in Text 1?",
+  "choices": {
+    "A": "It has some evidential support, but it should not be regarded as universally applicable.",
+    "B": "It has been challenged by some studies, but the findings of those studies have not been widely accepted.",
+    "C": "It may be true for some fungi but only because those fungi possess certain morphological traits.",
+    "D": "It is plausible, but many of the studies that support it have methodological flaws."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. Text 1 presents the principle that mycorrhizal fungi enhance plant growth, citing Han and colleagues' finding that inoculated clover showed substantially greater biomass. The author of Text 2 concedes that many inoculation studies do report clear growth benefits, which provides evidential support for the principle. However, the author notes that Dubois and colleagues' trial with European beech showed no significant effect and suggests this difference arises because supporting studies typically involve fast-growing herbaceous species rather than long-lived woody species. This explanation implies the principle holds in some contexts but not others, so the author would agree it has evidential support yet should not be regarded as universally applicable.",
+  "source": "https://cooksat.com/practice?questionId=b8e4840a&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}
