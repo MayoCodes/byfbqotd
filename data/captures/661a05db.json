@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "661a05db",
+  "capturedAt": "2026-11-08T16:42:20.416Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The Ford Theatre in Washington, D.C., is a historic venue that has been restored to its 19th-century appearance. In 1893, a gas fixture ______ during an evening performance and caused a brief power outage. No one was injured, but the incident was reported in several newspapers the next day.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "overheats",
+    "B": "will overheat",
+    "C": "has overheated",
+    "D": "overheated"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of verbs to express tense. In this choice, the past tense verb \"overheated\" is consistent with the other past tense verbs (\"caused\" and \"was\") used to describe the incident at Ford Theatre.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the future tense verb \"will overheat\" isn't consistent with the other past tense verbs used to describe the incident at Ford Theatre.",
+  "source": "https://cooksat.com/practice?questionId=661a05db&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
