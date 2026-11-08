@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f65ed096",
+  "capturedAt": "2026-11-08T16:12:58.065Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• In a 2023 study, cognitive scientist Dr. Emily Thornton and colleagues tested the use of virtual reality (VR) therapy for treating anxiety disorders.\n• VR therapy involves using immersive digital environments to expose patients to anxiety-triggering situations in a controlled setting.\n• Finding: VR therapy reduced patient anxiety scores by 38% more than traditional therapy.\n• Finding: The treatment achieved 72% patient completion rates.\n• The authors concluded that VR therapy showed \"significant promise as an accessible and effective intervention for anxiety treatment.\"",
+  "prompt": "The student wants to present the findings of the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The authors concluded that VR therapy was \"accessible and effective,\" having achieved 72% patient completion rates in a 2023 study.",
+    "B": "In a 2023 study, Thornton and colleagues found that VR therapy achieved 38% higher patient completion rates than traditional therapy.",
+    "C": "Thornton and colleagues found that VR therapy not only reduced patient anxiety scores but also achieved high patient completion rates.",
+    "D": "VR therapy, Thornton and colleagues found, achieved 72% completion rates and reduced 38% of patient anxiety scores."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence presents both findings from the study, noting that VR therapy both reduced patient anxiety scores and achieved high patient completion rates.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The sentence misrepresents information in the notes. VR therapy reduced anxiety scores by 38% more than traditional therapy, not 38% of the total anxiety scores. Additionally, the completion rate figure lacks context; it was 72% overall completion rate.",
+  "source": "https://cooksat.com/practice?questionId=f65ed096&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

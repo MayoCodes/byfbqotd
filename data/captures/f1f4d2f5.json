@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f1f4d2f5",
+  "capturedAt": "2026-11-08T16:12:49.891Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Seasonal affective disorder (SAD) is a type of depression that occurs during specific seasons, typically winter.\n• To explain what causes SAD, psychiatrist Dr. Hine Leota proposes the circadian rhythm disruption theory.\n• According to Leota's theory, reduced daylight hours disrupt the body's internal clock, leading to depression.\n• Neuroscientist Dr. Caio Almeida posits the serotonin depletion theory.\n• According to Almeida's theory, decreased sunlight reduces serotonin production in the brain, causing depressive symptoms.",
+  "prompt": "The student wants to compare the causes of SAD proposed in the two theories. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Both Leota and Almeida have proposed theories to explain what causes seasonal affective disorder.",
+    "B": "Almeida posits the serotonin depletion theory, whereas Leota proposes an alternative theory.",
+    "C": "While Leota proposes that SAD is caused by reduced daylight disrupting the body's internal clock, Almeida posits that it occurs when decreased sunlight reduces serotonin production in the brain.",
+    "D": "Leota's circadian rhythm disruption theory proposes that reduced daylight hours disrupt the body's internal clock, resulting in a type of depression that occurs during specific seasons."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence compares the two proposed causes of SAD, noting the theories' differences: Leota cites daylight disrupting the internal clock as the cause, while Almeida cites decreased sunlight reducing serotonin production as the cause.",
+  "source": "https://cooksat.com/practice?questionId=f1f4d2f5&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
