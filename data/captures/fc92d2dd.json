@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fc92d2dd",
+  "capturedAt": "2026-11-08T16:31:59.104Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "As ecologist Anita Gill has observed, extreme heat presents a significant challenge for desert animals. A desert fox must regulate its body temperature during scorching daytime hours, while avoiding excessive water loss that could lead to dehydration and death. ______ a desert fox remains in underground burrows during the day, emerging only at night when temperatures drop.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In the first place,",
+    "B": "On the other hand,",
+    "C": "For this reason,",
+    "D": "In comparison,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. \"For this reason\" logically signals that the behavior described in this sentence is a consequence of the information about desert foxes in the previous sentence. That is, a desert fox remains in underground burrows during the day because it needs to regulate its body temperature and avoid water loss during extreme heat.\n\nWhy A is incorrect:\n\nChoice A is incorrect because \"in the first place\" illogically signals that this sentence is the first point in a discussion. Instead, the sentence describes a behavior that is a consequence of the previous information about desert foxes.",
+  "source": "https://cooksat.com/practice?questionId=fc92d2dd&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

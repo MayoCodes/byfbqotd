@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f46029de",
+  "capturedAt": "2026-11-08T16:31:45.400Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "When mapping the trophic levels of a kelp forest food web, marine ecologists tend to begin with the system's apex predators, such as sea otters and large sharks. ______ ichthyologists begin at the base of the food web, with the kelp and phytoplankton that fuel the ecosystem's primary consumers.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "For instance,",
+    "B": "In other words,",
+    "C": "In a similar way,",
+    "D": "By contrast,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. \"By contrast\" logically signals that the information in this sentence—that ichthyologists begin at the base of the food web with kelp and phytoplankton—contrasts with the preceding information that marine ecologists begin at the top, with apex predators such as sea otters and large sharks.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This choice uses a transition that rephrases or restates a previous idea. But the second sentence doesn't restate the ecologists' method in different words. Instead, it describes a contrasting approach used by ichthyologists.",
+  "source": "https://cooksat.com/practice?questionId=f46029de&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
