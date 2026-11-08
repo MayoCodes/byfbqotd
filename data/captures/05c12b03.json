@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "05c12b03",
+  "capturedAt": "2026-11-08T15:46:59.725Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "What counts as a folk song? The answer depends on who you ask! Many music scholars define a folk song based on how widely a tune has been passed down orally. However, not every scholar uses the same threshold. The archivist Alan Lomax considered a song traditional if it had circulated for at least three generations, while musicologist Patrick Everett required documented variants from a minimum of five regions. Some scholars even define folk songs using other factors, like whether the composer remains unknown.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It lists the number of folk songs collected in one region, then compares that number to the number collected in another region.",
+    "B": "It poses a question, then explains why the question has many answers.",
+    "C": "It describes two songs, then explains why only one of the songs is considered a folk song.",
+    "D": "It offers a recommendation, then provides reasons for that recommendation."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The text opens with a question ('What counts as a folk song?'), then explains why that question has many answers: different scholars use different criteria (Lomax requires three generations of oral circulation, Everett requires variants in at least five regions), and some scholars use other factors like anonymous authorship.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The text doesn't list or compare the number of folk songs collected in different regions. Instead, it discusses the different criteria scholars use to decide what qualifies as a folk song.",
+  "source": "https://cooksat.com/practice?questionId=05c12b03&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}

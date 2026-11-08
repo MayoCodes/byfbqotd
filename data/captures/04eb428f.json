@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "04eb428f",
+  "capturedAt": "2026-11-08T15:46:54.392Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Despite corroborating stratigraphic analyses, the reported identification in 2018 of iron-smelting residues—byproducts that in most archaeological contexts derive almost exclusively from deliberate metallurgical practice—at a sub-Saharan site predating the Bantu expansion remains contested, in part because organized iron production is thought to be absent from the region at that depth. To assess such a claim's plausibility, Chanaka Kumara and Karim Sithole modeled multiple nonmetallurgical pathways, including natural lightning strikes, wildfire-induced bog-iron concentration, and postdepositional mineral alteration, but none adequately account for the observed residue profile. If the early smelting evidence is genuine, it would reveal deficiencies in the current consensus on the region's technological chronology.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It compares the quantities of a particular residue at the sub-Saharan site and at later metallurgical sites, sketches the processes that account for differences in these quantities, and then addresses some of the practical challenges of excavating the site more thoroughly.",
+    "B": "It explains why the consensus view of iron production in a sub-Saharan region has recently become controversial, expands on a research team's reasons for rejecting that consensus, and then suggests that further excavations will likely be needed to resolve the dispute.",
+    "C": "It outlines recent efforts to document early iron-smelting activity at a sub-Saharan site, summarizes a research team's evaluations of those efforts' methodological shortcomings, and then explains why that team remains skeptical of the activity's eventual verification.",
+    "D": "It introduces an unexpected finding of residues associated with early iron-smelting at a sub-Saharan site, presents an effort to investigate possible mechanisms that could explain that finding, and then notes an implication of that investigation's results."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most accurately describes the overall structure of the text. The text begins by introducing an unexpected finding: the 2018 identification of iron-smelting residues at a sub-Saharan site predating the Bantu expansion, which is surprising because organized iron production is thought to be absent from the region at that period. The text then presents an effort to investigate possible mechanisms that could explain the finding, describing how Kumara and Sithole modeled multiple nonmetallurgical pathways—lightning strikes, wildfire-induced bog-iron concentration, and postdepositional mineral alteration—to see whether any could account for the observed residue profile. Finally, the text notes an implication of that investigation's results, stating that since none of these alternative pathways adequately accounts for the residues, the finding, if genuine, would reveal deficiencies in the current consensus on the region's technological chronology.",
+  "source": "https://cooksat.com/practice?questionId=04eb428f&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}
