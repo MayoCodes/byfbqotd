@@ -58,3 +58,18 @@ The question bank uses bundled HeroUI React select components, styled to match F
 Filters include section, domain, skill, difficulty, practice status, answer format, and difficulty order. Section changes clear domain and skill; domain changes clear skill. Captures retain `domain`, `skill`, and `subskill` as separate public question fields. CSV sources may also provide these columns; older Topic-only sources still work as skills. Missing metadata is never invented.
 
 Question progress and bookmarks are stored only in the browser on this device (`friprep-bank-progress`), without a database or added API calls. Practice status filters use that local history. The responsive filter panel can collapse on mobile. Published questions are not modified by practicing or saving.
+
+## Manual Vercel publishing
+
+Automatic Vercel deployments are disabled for all Git branches with `git.deploymentEnabled: false` in `vercel.json`. Capture and publish questions to GitHub as often as needed; those pushes do not automatically rebuild the Vercel site.
+
+When a batch is finished:
+
+1. Open the **byfbsat** project in Vercel.
+2. Open **Deployments → Create Deployment**.
+3. Enter `main` as the Git reference and create the deployment. This uses the latest questions committed to GitHub.
+4. Wait for Ready, then refresh `/question-bank`.
+
+Create a new deployment from `main`; redeploying an older deployment can rebuild its older commit and omit newer questions. The existing deployment limit must reset before another manual deployment can succeed.
+
+This setting applies to Vercel. Cloudflare's connected build trigger is managed separately in its dashboard.
