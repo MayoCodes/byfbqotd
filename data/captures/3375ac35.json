@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3375ac35",
+  "capturedAt": "2026-11-08T17:51:08.987Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon Between Independent Clauses",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While many marine animals are known for their ability to navigate vast ocean distances, some species rely on magnetic fields to find their way. One such species is a type of sea turtle that uses Earth's magnetic field as a natural compass called magnetoreception ______ marine biologist Kenneth Lohmann extensively studied this phenomenon to understand how turtles navigate across thousands of miles of open ocean.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "(MR),",
+    "B": "(MR);",
+    "C": "(MR) and",
+    "D": "(MR)"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a semicolon to join the first main clause (\"One…(MR)\") and the second main clause (\"marine…ocean\").\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a run-on sentence. Without a comma preceding it, a conjunction can't be used in this way to join two main clauses.",
+  "source": "https://cooksat.com/practice?questionId=3375ac35&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

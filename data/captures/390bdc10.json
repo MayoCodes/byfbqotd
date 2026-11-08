@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "390bdc10",
+  "capturedAt": "2026-11-08T17:51:20.089Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "During the late 15th century, the Ottoman Empire developed a sophisticated administrative system that, through military expansion and strategic ______ supported extensive cultural projects across the Mediterranean region. This included the construction of numerous mosques, libraries, and public baths.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "alliances:",
+    "B": "alliances,",
+    "C": "alliances—",
+    "D": "alliances"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of punctuation within a sentence. The comma after \"alliances\" pairs with the comma after \"that\" to separate the supplementary element \"through military expansion and strategic alliances\" from the rest of the sentence. This supplementary element functions to identify the funding source of the Ottoman administrative system, and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence.\n\nWhy A is incorrect:\n\nChoice A is incorrect because a colon can't be paired with a comma in this way to separate the supplementary element from the rest of the sentence.",
+  "source": "https://cooksat.com/practice?questionId=390bdc10&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

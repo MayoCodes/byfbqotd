@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "38eccb84",
+  "capturedAt": "2026-11-08T17:51:17.282Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma After Introductory Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Although several technically advanced civilizations had developed mosaic art long before the Romans ______ it was the Romans who transformed the medium from a decorative craft into a widespread form of artistic expression across the ancient world.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "did;",
+    "B": "did",
+    "C": "did:",
+    "D": "did,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between a dependent clause and a main clause. This choice correctly uses a comma to mark the boundary between the subordinate clause beginning with \"Although\" (\"Although…did\") and the main clause (\"it was…world\").\n\nWhy A is incorrect:\n\nChoice A is incorrect because a semicolon can't be used in this way to join a dependent clause (\"Although…did\") and a main clause (\"it was…world\"). A semicolon is conventionally used to join two independent clauses.",
+  "source": "https://cooksat.com/practice?questionId=38eccb84&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

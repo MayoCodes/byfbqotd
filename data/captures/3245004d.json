@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3245004d",
+  "capturedAt": "2026-11-08T17:51:03.412Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In community ecology, coexisting species often avoid direct competition by dividing available resources according to the principle of niche partitioning, a mechanism for resource ______ ecologists believe can be used to explain an array of coexistence phenomena, from the foraging zones of warblers to the beak sizes of Galápagos finches.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "division. Some",
+    "B": "division; some",
+    "C": "division that some",
+    "D": "division, that some"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation before an essential relative clause. The noun phrase 'a mechanism for resource division' is immediately followed by an essential relative clause ('that some ecologists believe can be used to explain...') that identifies which mechanism is being discussed. No punctuation is needed between the noun phrase and its restrictive 'that' clause.\n\nWhy D is incorrect:\n\nChoice D is incorrect because no comma should precede the restrictive relative clause 'that some ecologists...finches.' The clause is essential to identifying which mechanism is being discussed, so it should not be set off with punctuation.",
+  "source": "https://cooksat.com/practice?questionId=3245004d&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

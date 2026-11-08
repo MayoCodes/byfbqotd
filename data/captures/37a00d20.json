@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "37a00d20",
+  "capturedAt": "2026-11-08T17:51:14.514Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon Between Independent Clauses",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In 2019, acclaimed Danish industrial designer Erik Hoffman unveiled his SolarLeaf charging station and his KinetiChair prototype at design expositions in Copenhagen and ______ integrating recycled polymers, magnetically coupled components, and bioluminescent accents, Hoffman's designs embody a Nordic sensibility that he calls \"functional yet quietly radical.\"",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Kyoto, respectively,",
+    "B": "Kyoto, respectively;",
+    "C": "Kyoto; respectively,",
+    "D": "Kyoto, respectively"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of punctuation between two independent clauses. This choice correctly uses a semicolon to join the first main clause (\"In 2019...respectively\") and the second main clause (\"integrating...radical\"). The adverb \"respectively\" properly concludes the first clause by modifying the parallel listing of products and cities, and the semicolon then marks the boundary between the two independent clauses.",
+  "source": "https://cooksat.com/practice?questionId=37a00d20&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

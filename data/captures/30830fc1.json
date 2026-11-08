@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "30830fc1",
+  "capturedAt": "2026-11-08T17:50:55.111Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Tavion Pruett's commitment to environmental conservation was inspired by his work as a park ranger in Yellowstone National Park during the late 1990s. Wanting to expand his impact beyond the park ______ Pruett left his ranger position to establish the Western Wildlife Protection Alliance, an organization dedicated to preserving endangered species habitats.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "boundaries.",
+    "B": "boundaries,",
+    "C": "boundaries;",
+    "D": "boundaries"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to mark the boundary between the introductory participial phrase (\"Wanting...boundaries\") and the main clause (\"Pruett...habitats\").\n\nWhy D is incorrect:\n\nChoice D is incorrect because it fails to mark the boundary between the participial phrase (\"Wanting...boundaries\") and the main clause (\"Pruett...habitats\").",
+  "source": "https://cooksat.com/practice?questionId=30830fc1&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
