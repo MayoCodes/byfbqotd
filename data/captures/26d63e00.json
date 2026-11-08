@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "26d63e00",
+  "capturedAt": "2026-11-08T04:21:03.604Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Thermoregulatory trade-off theory (TTT) holds that the basking behaviors of ectothermic reptiles reflect heat-gain and heat-loss costs that vary by species and with shifting environmental conditions. One such condition is ambient wind speed, which Hafsa Dlamini and colleagues found to be negatively associated with basking duration in pale-scaled desert geckos but Keiko Pillai and colleagues found to be positively associated with basking duration in dark-scaled rock agamas. This discrepancy is explicable in terms of TTT: the agamas' darker, more absorptive skin means that higher wind speeds benefit them more than they benefit the geckos.",
+  "prompt": "Information in the text best supports which statement about dark-scaled rock agamas?",
+  "choices": {
+    "A": "If increased wind speed imposed the same costs on the agamas that it imposes on pale-scaled desert geckos, there would be no association between wind speed and the agamas' basking duration.",
+    "B": "If the advantages that the agamas gain from increased wind speed explain the change in their basking behavior, those advantages are likely shared by some other species whose skin is not especially absorptive.",
+    "C": "If increased wind speed creates any disadvantages for the agamas, those disadvantages are more than compensated for by the advantages that the agamas gain.",
+    "D": "If the agamas' basking behavior under increased wind speed actually reflects a cost-benefit trade-off, their behavior should be more similar to that of pale-scaled desert geckos than it is."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The passage states that thermoregulatory trade-off theory holds that basking behaviors reflect heat-gain and heat-loss costs, and it reports that dark-scaled rock agamas bask more as wind speed increases because their darker, more absorptive skin amplifies the benefits of those conditions. Within the cost-benefit framework, if the agamas increase their basking when wind speed rises, then whatever disadvantages increased wind might create (for example, accelerated convective heat loss) must be outweighed by the advantages they gain from their absorptive skin. The text therefore supports the statement that any disadvantages increased wind speed creates for the agamas are more than compensated for by the advantages.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the text attributes the discrepancy between the two species to different benefits, not necessarily different costs. The agamas' positive association with wind speed arises from an advantage conferred by their darker, more absorptive skin. Even if wind speed imposed identical costs on both species, the agamas could still show a positive association because their species-specific benefits could still outweigh those shared costs.",
+  "source": "https://cooksat.com/practice?questionId=26d63e00&subject=english&domain=information-and-ideas&skills=central_ideas_and_details&bank=cooksat",
+  "images": []
+}
