@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "89c6df8c",
+  "capturedAt": "2026-11-08T16:43:39.805Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Pronoun-Antecedent Agreement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "\"What this approach really does is make our models of choice a bit more human,\" writes Hiroshi Ito in the foreword to Nudges and Numbers: An Anthology of Behavioral Economics. For Ito, behavioral economics does more than refine forecasts: ______ insights from psychology to challenge standard assumptions about rationality, softening the \"edges of the textbook agent.\"",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "one uses",
+    "B": "it uses",
+    "C": "they use",
+    "D": "we use"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is pronoun–antecedent agreement. The singular pronoun \"it\" agrees in number with the singular antecedent \"behavioral economics\" and clearly identifies what uses insights from psychology to challenge standard assumptions about rationality.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the plural pronoun \"they\" doesn't agree in number with the singular antecedent \"behavioral economics.\"",
+  "source": "https://cooksat.com/practice?questionId=89c6df8c&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
