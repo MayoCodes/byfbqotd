@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "dc6ebb77",
+  "capturedAt": "2026-11-08T16:01:05.790Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Complementary Text",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nAcademic journals routinely require detailed acknowledgment sections that list all funding sources, institutional affiliations, and collaborative contributions involved in research projects. These acknowledgment requirements may seem bureaucratic, but they generally ensure that financial and intellectual debts are properly recognized. Because they follow established conventions, journal acknowledgments are also invaluable to scholars studying the history of scientific collaboration and the evolution of research networks.\n\nText 2\nHistorians of early computing face a significant obstacle in the tech industry's historical neglect of systematic documentation regarding project funding, institutional partnerships, and collaborative relationships. Without consistent records of which organizations and individuals contributed to which technological developments, questions about the field's evolution remain difficult to investigate, and the contributions of all but the most prominent figures can be nearly impossible to reconstruct.",
+  "prompt": "Based on the texts, how would the author of Text 1 most likely respond to the discussion in Text 2?",
+  "choices": {
+    "A": "By recommending that the historians mentioned in Text 2 consider adopting the documentation practices regularly employed by academic journal editors",
+    "B": "By pointing out that acknowledgments serve a different primary function in academic publishing than in the field addressed by the historians mentioned in Text 2",
+    "C": "By suggesting that the historians mentioned in Text 2 depend more extensively on acknowledgment records as sources than academic researchers do",
+    "D": "By observing that an established convention in academic publishing largely prevents the kind of problem faced by the historians mentioned in Text 2"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it reflects how the author of Text 1 would most likely respond to Text 2 based on the information provided. Text 2 discusses how the lack of systematic documentation regarding collaborations and funding in early computing can pose an obstacle to historians of the field, who need such records to investigate questions about technological development. Text 1 notes that in academic publishing, on the other hand, acknowledgment requirements are routinely enforced and are invaluable to scholars studying research networks and collaboration history. Since Text 1 asserts how consistent acknowledgment practices benefit researchers in academic fields, it can be inferred that this text's author would respond to the discussion in Text 2 by observing that the kind of problem faced by historians of computing—the inability to reconstruct collaborative relationships and funding sources—is, in academic publishing, largely prevented by the established convention of required acknowledgments.\n\nWhy A is incorrect:\n\nChoice A is incorrect. Although Text 1 discusses documentation practices used in academic publishing—namely, requiring detailed acknowledgments to track collaborative contributions—the author doesn't explicitly recommend that or any other practice. Moreover, Text 1 states that academic journals themselves, not their researchers, routinely enforce the practice of requiring acknowledgments.",
+  "source": "https://cooksat.com/practice?questionId=dc6ebb77&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

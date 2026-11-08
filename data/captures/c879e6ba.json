@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c879e6ba",
+  "capturedAt": "2026-11-08T16:00:57.607Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nMost mammals show limited capacity for neural regeneration after brain injury. But when sections of the zebrafish brain are damaged, the fish can regenerate entire neural networks within weeks. Neuroscientists are studying this remarkable ability to better understand human brain repair mechanisms, and they're achieving significant breakthroughs. A particularly encouraging finding is that both humans and zebrafish possess a gene for brain-derived neurotrophic factor (BDNF) that appears central to neural recovery processes.\n\nText 2\nWhen Dr. Shelly Marcelin and her research group announced that zebrafish share the BDNF gene with humans, the scientific community responded with considerable interest. However, as Marcelin's team emphasized in their report, the gene almost certainly operates through different pathways in humans compared to zebrafish. Marcelin has described BDNF as functioning like a master regulator that coordinates neural repair in zebrafish, but the mechanisms by which this regulation occurs in humans remain largely unknown.",
+  "prompt": "Based on the texts, what would the author of Text 2 most likely say about Text 1's characterization of the discovery involving BDNF?",
+  "choices": {
+    "A": "It is well-founded given that Marcelin and her team have determined how BDNF operates in both humans and zebrafish.",
+    "B": "It is unexpected given that Marcelin and her team's findings were generally met with interest.",
+    "C": "It is unfairly dismissive given the progress that Marcelin and her team have documented.",
+    "D": "It is overly optimistic given additional observations from Marcelin and her team."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it reflects how the author of Text 2 would most likely respond to Text 1 based on the information provided. Text 1 discusses the discovery of a neural recovery gene, BDNF, in both zebrafish (which can regenerate entire neural networks) and humans (who show limited neural regeneration). Text 1 characterizes this discovery as \"particularly encouraging\" and evidence of \"significant breakthroughs\" in understanding human brain repair. The author of Text 2, on the other hand, focuses on the fact that Marcelin's team emphasized that while BDNF's function in humans isn't well understood, it almost certainly operates differently from its function in zebrafish. Therefore, the author of Text 2 would most likely say that Text 1's enthusiasm about the BDNF discovery is overly optimistic given Marcelin's team's observations about BDNF in humans.",
+  "source": "https://cooksat.com/practice?questionId=c879e6ba&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

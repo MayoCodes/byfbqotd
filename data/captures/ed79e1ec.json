@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ed79e1ec",
+  "capturedAt": "2026-11-08T16:01:13.911Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nWhat determines how quickly students master complex mathematical concepts in a learning environment? Some educational theorists have proposed that initial preparation level is a primary factor in determining ultimate achievement: differences in learning outcomes across otherwise comparable classrooms, according to this view, are significantly influenced by students' foundational knowledge when they first enter the learning environment.\n\nText 2\nIn 2018, a team of researchers led by cognitive scientist Sangeetha Gopalan conducted an experiment across multiple high schools in California. They created two types of advanced calculus classes: some filled with students who had strong algebra backgrounds, others with students who had weaker foundational skills, then used identical teaching methods in all classes. Over two semesters, Gopalan and her colleagues regularly assessed student progress, discovering—contrary to their predictions—that by the end of the study period there was virtually no difference in the calculus mastery levels between the two groups.",
+  "prompt": "Based on the texts, how would Gopalan and her colleagues (Text 2) most likely describe the view of the theorists presented in Text 1?",
+  "choices": {
+    "A": "It appears reasonable in principle, but it is not supported by the research team's results.",
+    "B": "It is fundamentally sound, but it needs minor adjustments based on the research team's findings.",
+    "C": "It lacks merit as an educational theory independent of any experimental evidence gathered by the research team.",
+    "D": "It likely applies only under circumstances similar to those in the research team's study."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. This is how Gopalan and colleagues would most likely describe the view presented in Text 1. The view in Text 1 is that initial preparation level significantly influences ultimate learning achievement. But Gopalan and colleagues did not observe this result: they found virtually no difference in final calculus mastery between classes that started with strong algebra backgrounds versus those with weaker foundational skills.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Gopalan and colleagues would not describe the view presented in Text 1 this way. Their research findings directly contradict the view presented in Text 1: so the theory definitely does not hold true under circumstances like those in their study.",
+  "source": "https://cooksat.com/practice?questionId=ed79e1ec&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

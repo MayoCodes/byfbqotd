@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e3fb936f",
+  "capturedAt": "2026-11-08T16:01:08.508Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Identify Shared Conclusion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nAccording to a study by the Coastal Heritage Foundation, a nonprofit representing preservation societies across nine Atlantic states, nineteenth-century wooden lighthouses along the eastern seaboard will face severe structural loss over the next 40 years if shoreline erosion continues at current rates. By contrast, the region's masonry coastal fortifications, many dating from the same period, should be able to endure projected erosion without substantial damage and so likely won't require the restoration investments that the lighthouses will.\n\nText 2\nGovernment agencies responsible for historic preservation are regrettably unable to intervene at every endangered site. They must rely on the best available assessments to determine which structures face the gravest threats and are therefore most deserving of restoration funding.",
+  "prompt": "Based on the texts, both authors would most likely agree with which statement?",
+  "choices": {
+    "A": "A cooperative effort is required to slow the rate of shoreline erosion affecting historic sites along the eastern seaboard.",
+    "B": "Agencies responsible for historic preservation along the eastern seaboard should direct their restoration efforts more toward nineteenth-century wooden lighthouses than toward masonry coastal fortifications.",
+    "C": "Restoration efforts focused on nineteenth-century wooden lighthouses are more likely to succeed if they combine the resources of government agencies with the expertise of local preservation societies.",
+    "D": "Government agencies and preservation societies along the eastern seaboard should promptly launch restoration programs for both the nineteenth-century wooden lighthouses and the masonry coastal fortifications."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a statement both authors would most likely endorse. Text 1 establishes that nineteenth-century wooden lighthouses face severe structural loss from erosion while masonry coastal fortifications will endure projected erosion without substantial damage and won't require the restoration investments the lighthouses will. Text 2 argues that preservation agencies cannot intervene at every site and must determine which structures face the gravest threats and are therefore most deserving of restoration funding. Combining Text 1's assessment of relative threat with Text 2's principle of prioritization yields the shared conclusion that agencies should direct restoration efforts more toward the lighthouses than toward the fortifications.",
+  "source": "https://cooksat.com/practice?questionId=e3fb936f&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}

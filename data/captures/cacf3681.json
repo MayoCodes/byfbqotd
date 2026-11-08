@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "cacf3681",
+  "capturedAt": "2026-11-08T16:01:00.330Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nNationwide retail chains and large online marketplaces are dominant sources of consumer price data, but, as Elliot Murphy has shown, smaller independent retailers in rural counties also shape what households actually pay for goods. Tracking these local prices is difficult given the dispersion of independent retailers and their uneven reporting, but one promising approach is to use price series from existing chain-store scanner data as proxies for price movements in unmonitored rural counties.\n\nText 2\nDatu Yamada and colleagues examined the geographic footprint of the scanner-data panel—the retail sample used to compile national price indices—and identified substantial imbalances in coverage that limit the ability to infer rural price dynamics. Their analysis showed that participating stores are concentrated in high-density metropolitan markets and cluster along major highway corridors, leaving entire classes of rural counties, particularly in the Great Plains and Appalachia, severely underrepresented. This undermines the reliability of treating observed chain prices as proxies for unobserved local markets, since the panel's skewed footprint fails to capture the full range of pricing conditions that rural households face.",
+  "prompt": "Based on the texts, how would Yamada et al. (Text 2) most likely respond to the claim in the underlined portion of Text 1?",
+  "choices": {
+    "A": "By disputing that rural price movements in unobserved counties can be reliably derived from observed chain-store prices.",
+    "B": "By disagreeing about the importance of quantifying local price movements in rural counties.",
+    "C": "By challenging the assumption that there are significant rural price movements that existing scanner-data panels fail to capture.",
+    "D": "By arguing that existing scanner-data technology is not precise enough to register small changes in consumer prices."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. Text 1 describes using price series from existing chain-store scanner data as proxies for price movements in unmonitored rural counties as a 'promising approach' to tracking local prices. Text 2, however, reports that Yamada and colleagues found the scanner-data panel concentrated in metropolitan markets and along highway corridors, leaving many rural counties in the Great Plains and Appalachia severely underrepresented. Text 2 concludes that this skewed footprint 'undermines the reliability of treating observed chain prices as proxies for unobserved local markets.' Yamada et al. would therefore most likely respond to Text 1's claim by disputing that rural price movements in unobserved counties can be reliably derived from observed chain-store prices.\n\nWhy D is incorrect:\n\nChoice D is incorrect because Text 2 does not claim that scanner-data technology is insufficiently precise to register price changes. Yamada et al.'s critique concerns the geographic distribution of the retail sample — where participating stores are located — rather than the sensitivity or technical capability of the measurement system itself.",
+  "source": "https://cooksat.com/practice?questionId=cacf3681&subject=english&domain=craft-and-structure&skills=cross-text_connections&bank=cooksat",
+  "images": []
+}
