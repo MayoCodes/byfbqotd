@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "591a5b54",
+  "capturedAt": "2026-11-08T16:41:31.086Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Pronoun-Antecedent Agreement",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "If you visit one of chef Amahle Muthoni's signature food trucks, you can expect to smell cardamom, turmeric, or cinnamon wafting through the air. Muthoni creates her dishes using fresh spices, everything from whole peppercorns to dried saffron threads. She carefully tests the aroma a spice produces before adding ______ to a recipe.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "this",
+    "B": "that",
+    "C": "it",
+    "D": "these"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested here is pronoun-antecedent agreement. The singular pronoun \"it\" agrees in number with the singular antecedent \"spice.\"\n\nWhy A is incorrect:\n\nChoice A is incorrect. The singular pronoun \"this\" is used to refer to a specific thing, but here there is no specific spice being referred to. Instead, the sentence is referring back to a hypothetical spice that Muthoni might use in a recipe.",
+  "source": "https://cooksat.com/practice?questionId=591a5b54&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}

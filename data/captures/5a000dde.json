@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5a000dde",
+  "capturedAt": "2026-11-08T16:41:36.570Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Recipes ranging from the classic Caesar salad to the spicy Thai green curry to the traditional French bouillabaisse ______ featured in nineteenth-century cookbook author Auguste Escoffier's culinary guides.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "was",
+    "B": "is",
+    "C": "has been",
+    "D": "were"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is subject-verb agreement. The plural verb \"were\" agrees in number with the plural subject \"recipes.\"\n\nWhy A is incorrect:\n\nChoice A is incorrect because the singular verb \"was\" doesn't agree in number with the plural subject \"recipes.\"",
+  "source": "https://cooksat.com/practice?questionId=5a000dde&subject=english&domain=standard-english-conventions&skills=form_structure_and_sense&bank=cooksat",
+  "images": []
+}
