@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9520e8b0",
+  "capturedAt": "2026-11-08T15:50:43.223Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Research by Chen Liu and Kartika Lestari demonstrated that increased ambient temperature significantly reduces foraging activity in arctic ground squirrels (Spermophilus parryii), a response that can be understood through energetic trade-offs: higher temperatures may not provide enough metabolic benefits to compensate for the elevated risk of dehydration and heat stress. Most other cold-adapted mammals exhibit similar behavioral responses to temperature fluctuations, but muskoxen (Ovibos moschatus) show the reverse pattern, as their thick insulation creates a different set of thermal challenges that favor increased activity during warmer periods.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It discusses two different responses to the same environmental condition, explains why one of those responses occurs, and then suggests that the other response still needs to be explained.",
+    "B": "It describes and accounts for a finding, characterizes the finding as representative of a general pattern, and then describes and accounts for an exception to that pattern.",
+    "C": "It presents and explains a study result, indicates that the result is similar to the results of many other studies, and then attributes a conflicting study result to a difference in that study's experimental design.",
+    "D": "It introduces an observation of a behavioral pattern, presents an explanation for the pattern, and then describes an exception to the pattern that undermines that explanation."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it accurately describes the text's structure. First, the text describes and accounts for a finding: higher temperatures reduce arctic ground squirrel foraging activity because metabolic benefits don't offset increased dehydration and heat stress risks. Second, it characterizes this as representative of a general pattern, stating 'most other cold-adapted mammals exhibit similar behavioral responses.' Third, it describes and accounts for an exception: muskoxen show the reverse pattern because their thick insulation 'creates a different set of thermal challenges that favor increased activity during warmer periods.' This three-part structure matches choice B precisely.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Although the text characterizes the behavior of muskoxen in response to increased temperature as an exception to a pattern of behavior observed in other cold-adapted mammal species, this exception doesn't undermine the explanation that is offered for the general pattern observed among other species. Instead, the text uses the same energetic trade-off framework to explain why increased temperature is associated with decreased activity by arctic ground squirrels and other cold-adapted mammals but with increased activity by muskoxen.",
+  "source": "https://cooksat.com/practice?questionId=9520e8b0&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}

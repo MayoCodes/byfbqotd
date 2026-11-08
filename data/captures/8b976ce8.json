@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8b976ce8",
+  "capturedAt": "2026-11-08T15:50:32.234Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Many historical recipes from the medieval period have been lost over time. These losses include several cookbooks written by monastery scribes who documented local food traditions. We know about these lost texts only from scattered references. For instance, an inventory from Canterbury Cathedral mentions Brother Edmund's Seasonal Preparations manual. A chronicle from York Abbey refers to Thomas of Lindisfarne's treatise on herb cultivation. And William the Scribe's Feast Day Preparations is referenced in two separate monastery records, and a partial ingredient list was found in the 1980s.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "The text identifies a serious crisis, then presents examples of failed efforts to address that crisis.",
+    "B": "The text describes a general situation, then illustrates that situation with specific examples.",
+    "C": "The text outlines a scholarly controversy, then provides evidence supporting one position in that controversy.",
+    "D": "The text introduces several historical figures, then analyzes the major contrasts between those figures."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The first three sentences describe the general situation: these medieval recipes have been lost, and we only know about them from scattered references. The rest of the text offers specific examples of the scattered references.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This isn't the overall structure. There's no \"controversy\" presented in the text, so there's no \"position\" for the text to support.",
+  "source": "https://cooksat.com/practice?questionId=8b976ce8&subject=english&domain=craft-and-structure&skills=text_structure_and_purpose&bank=cooksat",
+  "images": []
+}
