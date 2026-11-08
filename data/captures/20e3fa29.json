@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "20e3fa29",
+  "capturedAt": "2026-11-08T00:27:47.617Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nThe largest informal economies—the unregulated sectors that operate outside official oversight in countries such as Bolivia, Georgia, and, most notably, Zimbabwe—are often said to rival the size of their formal counterparts as a share of gross domestic product. Measuring the scale of such an economy is notoriously difficult, however, and economists Mariana Vasquez and Ricardo Flores have suggested that an estimate of informal-economy size may be significantly influenced by the methodology used in generating that estimate.",
+  "prompt": "Which choice best describes data from the table that support Vasquez and Flores's suggestion?",
+  "choices": {
+    "A": "The study by Schneider used currency-demand modeling and produced the lowest estimated maximum informal-economy share, while the study by Elgin et al. used MIMIC modeling and produced the highest estimated maximum.",
+    "B": "In their study, Medina and Wu used electricity-consumption analysis to produce an estimated informal-economy share ranging from a minimum of 18 percent to a maximum of 42 percent of GDP.",
+    "C": "The informal-economy share estimates produced by Restrepo and Ihrig and by Elgin et al. were similar to each other, while the estimates produced by Schneider and by Medina and Wu each differed substantially from any other estimate.",
+    "D": "The estimated maximum informal-economy share produced by Elgin et al. exceeded the estimated maximum produced by Restrepo and Ihrig, even though both groups of researchers used the same method to generate their estimates."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it accurately describes data from the table that support Vasquez and Flores's suggestion about informal-economy estimates. According to the text, Vasquez and Flores believe that estimates of informal-economy size may be strongly influenced by the methods used to produce them—meaning that different methods may produce significantly different results. The table shows that the studies by Restrepo and Ihrig (24–48%) and by Elgin et al. (26–51%) used the same estimation method (MIMIC modeling) and produced similar informal-economy share estimates. The study by Schneider, however, used currency-demand modeling and produced a much higher estimate (35–62%), while the study by Medina and Wu used electricity-consumption analysis and produced a much lower estimate (18–42%). The fact that one method produced similar estimates in two different studies while two other methods produced substantially different estimates supports the idea that informal-economy size estimates are significantly influenced by the methodology used to produce them.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Although the table shows that the maximum informal-economy share estimated by Elgin et al. (51%) was higher than that estimated by Restrepo and Ihrig (48%), the difference is relatively small, and both teams produced broadly similar overall ranges. Because these findings demonstrate that a single methodology (MIMIC modeling) produced similar overall results in two studies, the findings do not support Vasquez and Flores's suggestion that different methodologies may produce significantly different informal-economy estimates.",
+  "source": "https://cooksat.com/practice?questionId=20e3fa29&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/20e3fa29/1-f681fe72aa1887f5.png"
+    }
+  ]
+}

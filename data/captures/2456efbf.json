@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "2456efbf",
+  "capturedAt": "2026-11-08T00:28:06.632Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nUsing gas chromatography–mass spectrometry—a technique that vaporizes a sample and sorts its constituent molecules by mass—biochemist Ivy Vogt and ecologist Patience Epps analyzed two skin-secretion samples from a population of dendrobatid poison frogs inhabiting a lowland rainforest in Ecuador, along with a composite sample of leaf litter and arthropod prey collected from the same forest floor, in order to measure the concentrations of several defensive alkaloids. By comparing the relative concentrations of these alkaloids in the frog secretions with those in the environmental sample, the researchers concluded that there is evidence the alkaloids are synthesized by the frogs themselves rather than acquired through ingestion of prey in the surrounding habitat.",
+  "prompt": "Which choice best describes data from the table that support the researchers' conclusion?",
+  "choices": {
+    "A": "Pumiliotoxin and epibatidine were detected in both frog secretion samples but not in the environmental sample.",
+    "B": "Allopumiliotoxin and histrionicotoxin were detected in both of the frog secretion samples and in the environmental sample.",
+    "C": "Decahydroquinoline and epibatidine were detected in both frog secretion sample 2 and in the environmental sample.",
+    "D": "Pumiliotoxin and decahydroquinoline were detected in frog secretion sample 1 but not in sample 2."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. Pumiliotoxin and epibatidine were detected in both frog secretion samples but not in the environmental sample. This observation is consistent with the researchers' proposed synthesis explanation and provides the best support among the choices. However, nondetection in this environmental sample does not establish absence throughout the habitat, rule out acquisition from unsampled prey, or prove that the frogs synthesize these compounds.\n\nWhy B is incorrect:\n\nChoice B is incorrect. Allopumiliotoxin and histrionicotoxin were detected in both frog secretion samples and in the environmental sample, so this choice accurately describes the table. Shared detection is compatible with acquisition through prey, but it does not establish that acquisition occurred or rule out synthesis by the frogs. It therefore does not distinguish the proposed sources and is not the best support for the researchers' conclusion.",
+  "source": "https://cooksat.com/practice?questionId=2456efbf&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2456efbf/1-edacf4f03a23ea89.png"
+    }
+  ]
+}

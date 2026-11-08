@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "2d78278e",
+  "capturedAt": "2026-11-08T00:28:49.615Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Direct Data Lookup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nChemists Yuki Das and Zaid Dlamini ran 55 trials of a synthesis reaction using three different catalysts to determine which produced the highest yield of the target compound. The graph shows the three catalysts tested and the average percent yield obtained with each one.",
+  "prompt": "According to the graph, about what average percent yield was obtained using catalyst B?",
+  "choices": {
+    "A": "10%",
+    "B": "95%",
+    "C": "25%",
+    "D": "50%"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it states the average percent yield obtained using catalyst B in the trials conducted by Das and Dlamini. The text states that the chemists ran 55 trials of a synthesis reaction using three different catalysts. The graph presents the three catalysts (A, B, and C) and the average percent yield obtained with each one. The graph shows that catalyst B produced an average yield of about 50%.\n\nWhy B is incorrect:\n\nChoice B is incorrect because the graph shows that catalyst B produced an average yield of about 50%, not 95%.",
+  "source": "https://cooksat.com/practice?questionId=2d78278e&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2d78278e/1-295c6bf2f5d82f54.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "28d4077c",
+  "capturedAt": "2026-11-08T00:28:27.799Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nIn an economics course on household finance, student Fatou Kamau asserts that rising average household debt in the United Kingdom during the 2000s was present both in very large metropolitan economies such as London and in smaller regional economies such as Leeds, West Yorkshire, and Bristol, South West England; though those smaller regional economies may have been less affected by debt growth than very large metropolitan economies, this debt also rose in them over time.",
+  "prompt": "Which choice best describes data from the graph that support the student's claim?",
+  "choices": {
+    "A": "Even though the average household debt was greater in the Leeds, West Yorkshire, area than in the London area throughout the period from 2000 to 2010, the amounts were nearly identical in 2006.",
+    "B": "In 2002, the average household debt in the London area was less than 45 thousand GBP.",
+    "C": "In at least one of the three metropolitan areas shown, the average household debt was less than 20 thousand GBP at one point between 2000 and 2010.",
+    "D": "While the average household debt was always lower in the Leeds, West Yorkshire, area than in the London area for each year between 2000 and 2010, the average household debt rose in both areas during this period."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it describes data from the graph that support both parts of Kamau's claim. Kamau asserts that rising household debt in the 2000s was present both in very large metropolitan economies such as London and in smaller regional economies such as Leeds, and that although smaller regional economies may have been less affected, debt rose in them over time as well. According to the graph, London's average household debt was higher than Leeds's in every year between 2000 and 2010, supporting the claim that smaller areas were less affected than very large ones. The graph also shows that debt rose in both London (from about 30 to about 72 thousand GBP) and Leeds (from about 12 to about 34 thousand GBP) across this period, supporting the claim that debt worsened in both types of areas over time.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it inaccurately describes data from the graph. Throughout the period from 2000 to 2010, average household debt was greater in London than in Leeds, not the other way around. London's values ranged from about 30 to about 72 thousand GBP, while Leeds's values ranged from about 12 to about 34 thousand GBP.",
+  "source": "https://cooksat.com/practice?questionId=28d4077c&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/28d4077c/1-8d8bf684fe4b7bfa.png"
+    }
+  ]
+}

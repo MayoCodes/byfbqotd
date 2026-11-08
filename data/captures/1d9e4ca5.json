@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1d9e4ca5",
+  "capturedAt": "2026-11-08T00:27:40.497Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Warming surface waters along the Oregon coast have been reducing seasonal upwelling events, potentially decreasing the release of dissolved inorganic carbon through the remineralization of sinking organic matter, but also potentially limiting the delivery of nutrients that stimulate CO2 uptake by phytoplankton such as Thalassiosira rotula. Oceanographers Abigail Fletcher, Vikram Le, and colleagues modeled monthly changes in net surface-water pH across the continental shelf using a seafloor grid of 1 square kilometer (km²) cells and again using a grid of 5 km² cells, both finer than the resolutions most regional pH models employ. The researchers concluded that bathymetric variations influence net surface-water pH in ways that most models are too coarse to detect.",
+  "prompt": "Which finding from the researchers' study, if true, would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "Higher average remineralization rates were found for late-summer months than for winter months when modeled using either a grid of 1 km² cells or a grid of 5 km² cells.",
+    "B": "No correlations between monthly variations in average remineralization rates and CO2 uptake by T. rotula and other phytoplankton species were found when modeled using either a grid of 1 km² cells or a grid of 5 km² cells.",
+    "C": "Lower average remineralization rates were found for spring months when modeled using a grid of 1 km² cells than when modeled using a grid of 5 km² cells.",
+    "D": "When monthly fluxes in average CO2 uptake and remineralization were modeled using a grid of 1 km² cells, much more data were generated than when monthly fluxes were modeled using a grid of 5 km² cells, though the two models reported identical net surface-water pH."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it is the only finding that reports a resolution-dependent result: the 1 km² and 5 km² grids produced different average remineralization rates. The stimulus links remineralization to dissolved inorganic carbon release, a process relevant to surface-water pH, and describes the grids as representations of seafloor bathymetry at different resolutions. Thus, C would support the conclusion that finer bathymetric resolution can reveal pH-relevant effects that a coarser model misses. Although C does not directly report different net pH values, it supports the conclusion more directly than A or B, which report no resolution-dependent result, and D, which reports identical net pH.\n\nWhy D is incorrect:\n\nChoice D is incorrect because generating more data with the 1 km² grid does not support the conclusion when both tested grids report identical net surface-water pH. That identical result provides no evidence that the finer of the two grids detected a pH effect missed by the coarser one. Because both tested grids are described as finer than most regional models, however, this finding would not by itself directly disprove the broader conclusion about those still-coarser models.",
+  "source": "https://cooksat.com/practice?questionId=1d9e4ca5&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": []
+}

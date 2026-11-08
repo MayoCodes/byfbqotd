@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "2799f8d9",
+  "capturedAt": "2026-11-08T00:28:20.698Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nEnvironmental scientists Ayana Owusu and Diego Espinoza developed a computational model to predict the relative soil moisture retention of a site on a scale from 1 (very low) to 4 (very high). They then deployed field monitoring stations to record measurements on the same scale at several sites across two land cover types. Assuming station S3 recorded equal values for the grassland and shrubland sites, the model-predicted values shown in the graph indicate that ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the example?",
+  "choices": {
+    "A": "S3 would record higher soil moisture retention in shrubland sites than in grassland sites.",
+    "B": "S3's model-predicted values for grassland and shrubland sites would equal one another.",
+    "C": "S3 would record lower soil moisture retention in shrubland sites than in grassland sites.",
+    "D": "S3's model-predicted values for grassland and shrubland sites would differ from one another."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the graph to complete the text about what the model predicted. The text states that station S3 recorded equal values for grassland and shrubland sites, but the graph shows that the model predicted different soil moisture retention values for S3 in those two land cover types: approximately 2.1 for grassland and approximately 3.0 for shrubland. Therefore, the model-predicted values for S3's grassland and shrubland sites would differ from one another.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the text states that station S3 recorded equal values for the grassland and shrubland sites. The graph shows model-predicted values, not values that S3 recorded, so it does not indicate that S3 would record lower soil moisture retention in shrubland than in grassland.",
+  "source": "https://cooksat.com/practice?questionId=2799f8d9&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2799f8d9/1-142523fe67d4b032.png"
+    }
+  ]
+}
