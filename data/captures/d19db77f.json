@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d19db77f",
+  "capturedAt": "2026-11-08T17:57:15.564Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma After Introductory Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The dense, nutrient-rich material that accumulates at the bottom of compost bins is called humus. Because humus is both easily accessible and rich in nitrogen ______ gardeners have long considered it an ideal natural fertilizer for vegetable gardens.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "compounds,",
+    "B": "compounds and",
+    "C": "compounds",
+    "D": "compounds, and"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation between a subordinate clause and a main clause. This choice correctly uses a comma to mark the boundary between the subordinate clause (\"Because...compounds\") and the main clause (\"gardeners...gardens\").\n\nWhy D is incorrect:\n\nChoice D is incorrect. Joining the subordinate clause (\"Because...compounds\") and the clause that follows (\"gardeners...gardens\") with a comma and the conjunction \"and\" results in an ungrammatical sentence that lacks a main clause.",
+  "source": "https://cooksat.com/practice?questionId=d19db77f&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

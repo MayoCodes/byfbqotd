@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "cde16836",
+  "capturedAt": "2026-11-08T17:57:09.974Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Nayeli Tsosie, coordinator of the cultural preservation initiative at the Pueblo Heritage Foundation in New Mexico, has overseen the creation of several educational ______ a digital archive of oral histories, in 2018; and an interactive museum exhibit on Pueblo traditions, in 2020.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "projects: a documentary film series, in 2017;",
+    "B": "projects, a documentary film series, in 2017;",
+    "C": "projects: a documentary film series, in 2017,",
+    "D": "projects; a documentary film series, in 2017;"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the punctuation of a complex series introduced by a colon. The colon after \"projects\" correctly introduces the list of educational projects Tsosie has overseen. The semicolon after \"2017\" is conventionally used to separate the first item (\"a documentary…2017\") from the second item (\"a digital…2018\") in the series, since each item contains internal commas.\n\nWhy B is incorrect:\n\nChoice B is incorrect because a comma after \"projects\" is insufficient to introduce a complex series. A colon is needed after the independent clause to properly introduce the list.",
+  "source": "https://cooksat.com/practice?questionId=cde16836&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

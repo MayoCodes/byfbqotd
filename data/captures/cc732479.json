@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "cc732479",
+  "capturedAt": "2026-11-08T17:57:04.379Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "A recent study revealed that certain deep-sea bacteria produce elevated concentrations of a specialized ______ responsible for oxidizing methane in seafloor sediments. Bacteria with high enzyme activity were also observed to thrive in significantly colder water temperatures.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "enzyme, methane monooxygenase",
+    "B": "enzyme methane monooxygenase",
+    "C": "enzyme, methane monooxygenase,",
+    "D": "enzyme methane monooxygenase,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. This choice correctly uses a pair of commas to set off the nonessential appositive \"methane monooxygenase,\" which identifies the specialized enzyme. The comma after \"enzyme\" and the comma after \"monooxygenase\" together indicate that the appositive could be removed without affecting the grammatical coherence of the sentence.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it places a comma after the appositive but fails to place one before it, resulting in an incomplete pair of commas around the nonessential element.",
+  "source": "https://cooksat.com/practice?questionId=cc732479&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d2fbedd8",
+  "capturedAt": "2026-11-08T17:57:21.146Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "At 324 meters, the Eiffel Tower in France is one of the tallest iron lattice towers in the ______ the Tokyo Tower in Japan, at 333 meters, is actually taller.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "world but",
+    "B": "world, but,",
+    "C": "world, but",
+    "D": "world,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"but\" to join the first main clause (\"At...world\") and the second main clause (\"the...taller\").\n\nWhy B is incorrect:\n\nChoice B is incorrect because a comma isn't needed after the conjunction \"but.\"",
+  "source": "https://cooksat.com/practice?questionId=d2fbedd8&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
