@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c101aa5d",
+  "capturedAt": "2026-11-08T16:10:49.216Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Hospitals traditionally use large MRI machines, which require dedicated rooms and specialized infrastructure.\n• Traditional MRI machines can't be used in emergency situations or remote locations due to their size and setup requirements.\n• These machines are also extremely expensive, costing millions of dollars and requiring extensive maintenance.\n• Portable MRI devices, which cost under $100,000, can be transported to any location and set up within minutes.\n• Portable MRI devices have been proposed as an alternative to traditional MRI machines.",
+  "prompt": "The student wants to explain an advantage of portable MRI devices. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Portable MRI devices, which cost under $100,000, can be used in emergency situations and remote locations where traditional MRI machines are impractical.",
+    "B": "Despite being expensive, traditional MRI machines can provide high-quality medical imaging in hospitals.",
+    "C": "Hospitals currently use traditional MRI machines, but portable MRI devices have been proposed as an alternative.",
+    "D": "Though they are different sizes, both portable MRI devices and traditional MRI machines can be used for medical imaging."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence explains an advantage of portable MRI devices, noting that because they cost under $100,000, they can be used in emergency situations and remote locations where traditional MRI machines are impractical.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The sentence indicates that traditional MRI machines can provide quality imaging despite their cost; it doesn't explain an advantage of portable MRI devices.",
+  "source": "https://cooksat.com/practice?questionId=c101aa5d&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

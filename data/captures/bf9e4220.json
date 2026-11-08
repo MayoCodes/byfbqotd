@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "bf9e4220",
+  "capturedAt": "2026-11-08T16:10:46.467Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Quercus lobata is a deciduous tree that can be found in the valleys of Northern California.\n• Sequoia sempervirens is a coniferous tree that can be found in the coastal regions of Northern California.\n• Forestry experts assess the drought tolerance levels of different tree species.\n• Q. lobata demonstrates low drought tolerance.\n• S. sempervirens shows high drought tolerance.",
+  "prompt": "The student wants to compare the drought tolerance of Q. lobata with that of S. sempervirens. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "According to forestry experts, Q. lobata has lower drought tolerance than S. sempervirens.",
+    "B": "S. sempervirens demonstrates low drought tolerance, while Q. lobata shows high drought tolerance.",
+    "C": "Forestry experts have assessed both S. sempervirens's and Q. lobata's drought tolerance levels.",
+    "D": "Q. lobata is a deciduous tree that demonstrates low drought tolerance."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence compares the drought tolerance of the two species, noting that Q. lobata has lower drought tolerance than S. sempervirens.\n\nWhy D is incorrect:\n\nChoice D is incorrect. While the sentence states that Q. lobata demonstrates low drought tolerance, it doesn't mention S. sempervirens or compare the drought tolerance of the two species.",
+  "source": "https://cooksat.com/practice?questionId=bf9e4220&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

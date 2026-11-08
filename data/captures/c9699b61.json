@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c9699b61",
+  "capturedAt": "2026-11-08T16:11:08.282Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• In 1976, the film The Omen was released in theaters.\n• According to the film's credits, the music was composed by Jerry Goldsmith.\n• Jerry Goldsmith was widely known to be a professional film composer.\n• A film composer creates original musical scores for movies.\n• However, the main theme was actually written by a session musician named Carol Douglas.",
+  "prompt": "The student wants to identify the real composer of The Omen's main theme. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Jerry Goldsmith, whom The Omen's credits indicated was the film's composer, was widely known to be a professional film composer.",
+    "B": "The credits of the film The Omen indicated that the music was composed by Jerry Goldsmith.",
+    "C": "The real composer of The Omen's main theme was Carol Douglas, though the film's credits listed Jerry Goldsmith as the composer.",
+    "D": "A session musician who was not credited in the film actually wrote the main theme of The Omen."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence identifies the main theme's real composer, explaining that Carol Douglas wrote it though Jerry Goldsmith received the official credit.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The sentence explains that Jerry Goldsmith was known as a professional composer; it doesn't identify the main theme's real composer.",
+  "source": "https://cooksat.com/practice?questionId=c9699b61&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
