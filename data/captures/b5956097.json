@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "b5956097",
+  "capturedAt": "2026-11-08T00:37:41.570Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nInfiltration Rates at Several Field Sites\nWhen rain falls faster than soil can absorb it, the excess water becomes surface runoff. The maximum rate at which a soil can absorb water, measured in millimeters per hour (mm/hr), is called its infiltration capacity, and it varies based on soil texture, compaction, and vegetation. Soil scientist Declan Murphy claims that during a moderately intense rainstorm delivering precipitation at 45 mm/hr, runoff would likely occur at most, but not all, of the field sites listed in the table.",
+  "prompt": "Which choice best describes data from the table that support Murphy's claim?",
+  "choices": {
+    "A": "Only Meadowbrook has an organic matter content below 4%.",
+    "B": "Only Clearwater has a slope greater than 7 degrees.",
+    "C": "Only Pinegrove has an infiltration capacity greater than 45 mm/hr.",
+    "D": "Only Riverbend has an organic matter content greater than 5%."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. Murphy claims that a rainstorm at 45 mm/hr would cause runoff at most, but not all, of the field sites. Runoff occurs when rainfall exceeds a soil's infiltration capacity, so the claim requires that most sites have infiltration capacities below 45 mm/hr while at least one does not. The table shows Meadowbrook (22 mm/hr), Riverbend (38 mm/hr), and Clearwater (29 mm/hr) all fall below 45 mm/hr, while only Pinegrove (51 mm/hr) exceeds it. Thus runoff would occur at three of the four sites — most, but not all — directly supporting Murphy's claim.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Although it accurately describes the table — Riverbend (5.8%) is the only site with organic matter content greater than 5% — this information is irrelevant to Murphy's claim. The claim is about whether rainfall at 45 mm/hr would produce runoff, which depends on infiltration capacity, not organic matter content.",
+  "source": "https://cooksat.com/practice?questionId=b5956097&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b5956097/1-59035cff4ff9c160.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "b539b058",
+  "capturedAt": "2026-11-08T00:37:37.804Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nEnvironmental scientist Amelia Everett and her colleague Cristobal Vasquez surveyed small-scale renewable energy installations in three coastal districts of Portugal—which features rocky cliffs in the north, a densely populated central estuary, and sandy lowlands in the south—to learn more about ownership patterns, including the types of energy systems most commonly installed. In some districts, community-owned installations were found to be especially prominent for specific types of energy systems and even constituted the majority of installations of those types; for instance, ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the example?",
+  "choices": {
+    "A": "most of the installations of wind turbines and most of the installations of solar panels in southern Portugal were community-owned.",
+    "B": "more community-owned installations in central Portugal were of micro-hydro systems than of wind turbines.",
+    "C": "most of the installations of solar panels in northern and southern Portugal were community-owned.",
+    "D": "a relatively equal proportion of community-owned installations across the three districts of Portugal were of wind turbines."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it uses data from the graph to effectively complete the example of Everett and Vasquez's findings concerning community-owned installations in some districts of coastal Portugal. The graph presents values for the percentage of small-scale renewable installations that are community-owned, by energy system type and district. The graph shows that of the installations of solar panels, 58% in northern Portugal and 54% in southern Portugal are community-owned; in other words, most of those installations are community-owned, which exemplifies the idea that community-owned installations make up the majority (more than half) of installations of specific energy system types in some districts.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it doesn't effectively complete the example; it simply states that a relatively equal proportion of community-owned installations across the three districts are wind turbines, which doesn't address the value for that proportion and thus doesn't show that a majority (more than half) of installations of certain energy system types are community-owned.",
+  "source": "https://cooksat.com/practice?questionId=b539b058&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b539b058/1-ad43c76903f49672.png"
+    }
+  ]
+}

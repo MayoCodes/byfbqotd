@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "af0c5f6d",
+  "capturedAt": "2026-11-08T00:37:06.336Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nA student who is researching frog species in Costa Rica notes that the country is home to different families of frogs. For example, ______",
+  "prompt": "Which choice most effectively uses information from the table to complete the example?",
+  "choices": {
+    "A": "The marine toad belongs to Hylidae, and the Tungara frog belongs to Bufonidae.",
+    "B": "The strawberry poison frog belongs to Dendrobatidae, and the red-eyed treefrog belongs to Leptodactylidae.",
+    "C": "The red-eyed treefrog belongs to Hylidae, and the strawberry poison frog belongs to Dendrobatidae.",
+    "D": "The red-eyed treefrog belongs to Hylidae, and the Tungara frog belongs to Bufonidae."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively uses data from the table to complete the example about different families of frogs in Costa Rica. The table shows that the red-eyed treefrog belongs to Hylidae and the strawberry poison frog belongs to Dendrobatidae, which are indeed different families, supporting the student's note.\n\nWhy D is incorrect:\n\nChoice D is incorrect because although the table shows that the red-eyed treefrog belongs to Hylidae, the Tungara frog belongs to Leptodactylidae, not Bufonidae.",
+  "source": "https://cooksat.com/practice?questionId=af0c5f6d&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/af0c5f6d/1-7c7970232cd3bdc0.png"
+    }
+  ]
+}
