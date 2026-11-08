@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "79aa7b54",
+  "capturedAt": "2026-11-08T17:53:51.398Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "According to the Stockholm Institute of Marine Biology, the concept of blå tillväxt, or \"blue growth,\" represents \"a sustainable development framework balancing economic progress with marine ecosystem preservation.\" This approach has been successfully implemented ______ Scandinavian fishing communities for decades, resulting in thriving coastal economies and healthy fish populations.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "by",
+    "B": "by;",
+    "C": "by:",
+    "D": "by,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between a preposition and its complement. No punctuation is needed between the preposition \"by\" and its complement \"Scandinavian fishing communities.\" The complement completes the meaning of the preposition in the phrase \"successfully implemented by Scandinavian fishing communities,\" and any punctuation within it results in an ungrammatical sentence.",
+  "source": "https://cooksat.com/practice?questionId=79aa7b54&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

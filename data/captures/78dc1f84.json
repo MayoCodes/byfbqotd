@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "78dc1f84",
+  "capturedAt": "2026-11-08T17:53:45.799Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Asia is home to thousands, if not tens of thousands, of distinct culinary traditions. Only five of these cuisines are typically featured in most Western cooking ______ Chinese, Japanese, Thai, Indian, and Korean—the last of which has gained popularity despite being relatively unknown until recent decades.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "programs, however,",
+    "B": "programs, however;",
+    "C": "programs; however,",
+    "D": "programs, however:"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the punctuation of supplementary elements within a sentence. This choice correctly uses a comma to separate the supplementary adverb \"however\" from the preceding main clause (\"only...programs\"), and it uses a colon to introduce the list of cuisines that follows (\"Chinese…Korean\"). Further, placing the colon after \"however\" rather than before indicates that the information in the preceding main clause (only...programs) is contrary to what might be assumed from the information in the previous sentence (Asia has many more culinary traditions).\n\nWhy A is incorrect:\n\nChoice A is incorrect. The comma after \"however\" can't be used in this way to introduce a series (\"Chinese...Korean\").",
+  "source": "https://cooksat.com/practice?questionId=78dc1f84&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

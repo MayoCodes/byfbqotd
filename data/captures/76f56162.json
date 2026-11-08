@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "76f56162",
+  "capturedAt": "2026-11-08T17:53:43.026Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "A team of linguists led by Hanan Sabbah at the Institute for Cognitive Sciences in Spain analyzed the phonetic characteristics of two dialects of the Basque ______ Gipuzkoan, which retains many archaic features, and Bizkaian, which shows significant influence from neighboring Romance languages.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "language.",
+    "B": "language;",
+    "C": "language",
+    "D": "language:"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between a main clause and a supplementary phrase. In this choice, a colon is correctly used to mark the boundary between the main clause (\"A team…language\") and the supplementary element (\"Gipuzkoan…languages\") and to introduce the following elaboration on the specific dialects of Basque that were analyzed.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"Gipuzkoan.\"",
+  "source": "https://cooksat.com/practice?questionId=76f56162&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

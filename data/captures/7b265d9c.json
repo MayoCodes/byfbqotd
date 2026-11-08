@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7b265d9c",
+  "capturedAt": "2026-11-08T17:53:54.195Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In 1895, inventor Nikola Tesla demonstrated a revolutionary wireless power transmission system at his laboratory in Colorado Springs. Tesla claimed that his technology could provide electricity to entire cities without cables or wires. Many electrical engineers, including Thomas Edison, were ______ modern researchers have confirmed that Tesla's basic principles were scientifically sound.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "doubtful but",
+    "B": "doubtful,",
+    "C": "doubtful, but",
+    "D": "doubtful"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. There are two independent clauses in the sentence, each with a subject and a verb: \"many electrical engineers...were doubtful\" and \"modern researchers have confirmed....\" These clauses can be grammatically joined by a comma and the coordinating conjunction \"but.\"\n\nWhy B is incorrect:\n\nChoice B is incorrect. This choice creates a punctuation error called a comma splice. This sentence contains two independent clauses (\"Many electrical engineers...were doubtful\" and \"modern researchers have confirmed...\"). A comma alone can't join two independent clauses. That requires a comma and a coordinating conjunction.",
+  "source": "https://cooksat.com/practice?questionId=7b265d9c&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

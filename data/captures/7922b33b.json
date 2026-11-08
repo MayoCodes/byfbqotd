@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7922b33b",
+  "capturedAt": "2026-11-08T17:53:48.628Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Recent excavation of the Pompeii bakery complex—an ancient Roman commercial site buried beneath volcanic ash for nearly two millennia—has revealed intact ovens and grain storage areas, suggesting a sophisticated bread-making operation. Such conclusions are ultimately ______ the preserved structures may be an incidental result of the specific volcanic conditions, ash composition, or post-eruption geological shifts rather than evidence of the original bakery's actual scale.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "tentative, though;",
+    "B": "tentative, though",
+    "C": "tentative; though",
+    "D": "tentative, though,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the use of punctuation in a sentence. This choice correctly uses a comma to separate the supplementary adverb \"though\" from the preceding main clause (\"Such conclusions are ultimately tentative\") and uses a semicolon to join the next main clause (\"the preserved...scale\") to the rest of the sentence. Further, placing the semicolon after \"though\" indicates that the information in the preceding main clause (conclusions about an ancient bakery's sophistication based on preserved structures are ultimately tentative) is a qualification of the information in the previous sentence (the sophistication of an ancient bakery is suggested by its preserved structures).\n\nWhy B is incorrect:\n\nChoice B is incorrect because it fails to mark the boundary between the two main clauses with appropriate punctuation.",
+  "source": "https://cooksat.com/practice?questionId=7922b33b&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "818e4cc7",
+  "capturedAt": "2026-11-08T17:54:05.267Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The university collaborated with researchers to create MindBridge—an innovative AI-powered language translation ______ text inputted from multiple global languages, the AI processor generates accurate translations without, in order to maintain data security, storing the original content.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "platform—processing",
+    "B": "platform, processing",
+    "C": "platform processing",
+    "D": "platform. Processing"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"The university…platform\") and another (\"Processing…content\"). The participial phrase beginning with \"processing\" modifies the subject of the second sentence, \"the AI processor.\"\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a run-on sentence. The sentences (\"The university…platform\" and \"processing…content\") are fused without punctuation and/or a conjunction.",
+  "source": "https://cooksat.com/practice?questionId=818e4cc7&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}

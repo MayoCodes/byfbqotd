@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7cf6f145",
+  "capturedAt": "2026-11-08T17:53:56.962Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Marine biologist Dr. Afi Klu serves on the committee responsible for designating new areas as National Marine Sanctuaries, which includes locations like the Monterey Bay National Marine Sanctuary and the Thunder Bay National Marine Sanctuary. Klu doesn't make such determinations ______ all sanctuary designations must be approved by a panel of twelve other specialists from the fields of oceanography, marine ecology, conservation biology, and coastal management.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "independently; however,",
+    "B": "independently, however,",
+    "C": "independently however",
+    "D": "independently, however;"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the punctuation of a supplementary word or phrase between two main clauses. This choice correctly uses a comma to separate the supplementary adverb \"however\" from the preceding main clause (\"Klu doesn't…independently\") and a semicolon to join the next main clause (\"all…management\") to the rest of the sentence. Further, placing the semicolon after \"however\" correctly indicates that the information in the preceding main clause (Klu doesn't make such determinations independently) is contrary to what might be assumed from the information in the previous sentence (Klu serves on the committee that designates new National Marine Sanctuaries).\n\nWhy C is incorrect:\n\nChoice C is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.",
+  "source": "https://cooksat.com/practice?questionId=7cf6f145&subject=english&domain=standard-english-conventions&skills=boundaries&bank=cooksat",
+  "images": []
+}
