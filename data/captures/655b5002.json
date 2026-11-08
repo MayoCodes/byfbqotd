@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "655b5002",
+  "capturedAt": "2026-11-08T15:32:18.279Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Digital painting archives such as the Renaissance Brushwork Database are vast collections of high-resolution image scans that allow art historians to empirically test hypotheses about stylistic patterns. For example, an art historian like Pavel Ingram, who suspects that diagonal brushstrokes appear unusually often in Venetian portraits, could ______ that suspicion with data from the archive: diagonal strokes are the third most frequently catalogued pattern.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "validate",
+    "B": "reject",
+    "C": "transpose",
+    "D": "entail"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. In this context, 'validate' means to confirm or verify. The passage describes an art historian who suspects diagonal brushstrokes appear unusually often in Venetian portraits and then notes that archive data shows diagonal strokes are the third most frequently catalogued pattern. Because the data supports the historian's suspicion, 'validate' most precisely captures the action of confirming that suspicion with empirical evidence.\n\nWhy B is incorrect:\n\nChoice B is incorrect because 'reject' means to dismiss or refuse to accept, which reverses the relationship described in the passage. The archive data confirms the historian's suspicion that diagonal brushstrokes appear often, so the data supports rather than rejects the suspicion.",
+  "source": "https://cooksat.com/practice?questionId=655b5002&subject=english&domain=craft-and-structure&skills=words_in_context&bank=cooksat",
+  "images": []
+}

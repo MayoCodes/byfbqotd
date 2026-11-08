@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "63a32a1c",
+  "capturedAt": "2026-11-08T15:32:10.252Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Ongoing fieldwork by ecologists Folake Ozturk and Isabella Everett stems from their observation that though investigations into mycorrhizal fungi in tropical rainforests are ______, the role these symbiotic fungi play in arid desert ecosystems, such as the sparse shrublands of the Atacama, has drawn comparatively little scholarly attention.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "abundant",
+    "B": "equivocal",
+    "C": "sporadic",
+    "D": "preliminary"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because 'abundant,' meaning plentiful or existing in large quantities, creates the contrast signaled by 'though.' The second clause notes that research on mycorrhizal fungi in arid desert ecosystems has drawn 'comparatively little scholarly attention,' so the blank must describe research on tropical rainforest mycorrhizae as numerous or plentiful. Saying studies are abundant establishes the logical contrast: many studies exist for rainforests, but few for deserts.\n\nWhy C is incorrect:\n\nChoice C is incorrect because 'sporadic,' meaning occurring irregularly or infrequently, would suggest that rainforest studies are also scarce. This aligns with rather than contrasts the second clause's point that desert studies have received little attention. The 'though' signal requires a word indicating rainforest research is plentiful or well-established.",
+  "source": "https://cooksat.com/practice?questionId=63a32a1c&subject=english&domain=craft-and-structure&skills=words_in_context&bank=cooksat",
+  "images": []
+}
