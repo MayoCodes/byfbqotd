@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "abc14319",
+  "capturedAt": "2026-11-08T16:09:57.155Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The botanist Luther Burbank developed over 800 new plant varieties in the early 1900s.\n• He conducted his research in Santa Rosa, California.\n• Burbank was known as the 'Plant Wizard' for his innovative breeding techniques.\n• The city of Burbank, California, is named after Luther Burbank.\n• Santa Rosa's Luther Burbank Home and Gardens is named after him.",
+  "prompt": "The student wants to indicate how Burbank, California, got its name. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Burbank, California, shares its name with the Luther Burbank Home and Gardens in Santa Rosa.",
+    "B": "The Luther Burbank Home and Gardens is in Santa Rosa, where innovative plant breeding was conducted in the early 1900s.",
+    "C": "Known as the 'Plant Wizard,' Luther Burbank developed over 800 new plant varieties in the early 1900s.",
+    "D": "Burbank, California, is named after Luther Burbank, the botanist who developed over 800 new plant varieties."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence indicates how Burbank, California, got its name, noting that the city was named after the botanist who developed over 800 new plant varieties, Luther Burbank.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The sentence indicates that the Luther Burbank Home and Gardens is in Santa Rosa; it doesn't indicate how Burbank, California, got its name.",
+  "source": "https://cooksat.com/practice?questionId=abc14319&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "acc0e22f",
+  "capturedAt": "2026-11-08T16:10:05.342Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Rosa Parks was one of the 15 founding members of the Montgomery Improvement Association.\n• The Montgomery Improvement Association was a civil rights organization formed by African American leaders in Montgomery, Alabama.\n• It was created in 1955 to coordinate the Montgomery bus boycott.\n• The organization aimed to \"improve the general status of Montgomery\" and promote equal treatment for all citizens.\n• Parks later became a prominent figure in the broader civil rights movement.",
+  "prompt": "The student wants to specify the reason the Montgomery Improvement Association was created. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Aiming to \"improve the general status of Montgomery\" and promote equal treatment, the Montgomery Improvement Association was a civil rights organization formed by African American leaders.",
+    "B": "Created in 1955, the Montgomery Improvement Association aimed to \"improve the general status of Montgomery\" and promote equal treatment for all citizens.",
+    "C": "The Montgomery Improvement Association was created to coordinate the Montgomery bus boycott among African American leaders in Montgomery, Alabama.",
+    "D": "The Montgomery Improvement Association had 15 founding members, including Rosa Parks, who became a prominent figure in the civil rights movement."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence specifies the reason the Montgomery Improvement Association was created, noting that it was created to coordinate the Montgomery bus boycott among African American leaders in Montgomery, Alabama.\n\nWhy B is incorrect:\n\nChoice B is incorrect. While the sentence provides background information about the Montgomery Improvement Association and notes the organization's broader goals, it doesn't specify why the association was created.",
+  "source": "https://cooksat.com/practice?questionId=acc0e22f&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

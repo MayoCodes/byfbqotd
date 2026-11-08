@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "acb9214b",
+  "capturedAt": "2026-11-08T16:10:02.599Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Global Climate Database (GCD) includes temperature measurements and regional classification tags for weather stations worldwide.\n• Temperature measurements include raw data such as daily highs and precipitation levels.\n• Many models use these temperature measurements to predict future climate patterns.\n• These models may fail to accurately process temperature data from stations with highly variable local conditions.\n• Models based on regional classification tags that describe stable factors such as climate zone are more reliable predictors of long-term patterns.",
+  "prompt": "The student wants to explain a disadvantage of relying on temperature measurements to predict climate patterns. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Many climate-predicting models are based on a station's temperature measurements, such as daily highs and precipitation levels.",
+    "B": "Models based on temperature measurements may fail to process data from stations with highly variable conditions, making such models less reliable predictors of climate patterns than those based on stable factors.",
+    "C": "Temperature measurements include raw data such as daily highs, which may vary significantly at a station, whereas regional tags describe stable factors such as climate zone, which are reliable predictors of patterns.",
+    "D": "The GCD's regional classification tags are reliable predictors of climate patterns, as the factors they describe are stable."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It explains a disadvantage of temperature measurements: they may fail to process data from certain stations, unlike more reliable regional tags.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This choice only describes the difference between temperature measurements and regional tags without indicating why this difference matters for predicting climate patterns.",
+  "source": "https://cooksat.com/practice?questionId=acb9214b&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
