@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "560b0c91",
+  "capturedAt": "2026-11-08T16:26:28.224Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The protein amyloid-beta is most commonly associated with Alzheimer's disease. Amyloid-beta is misfolded, meaning that its three-dimensional structure is so distorted that the protein cannot perform its normal cellular functions or be recognized by cellular repair mechanisms. The proteins in prion diseases are also unable to function normally due to misfolding; ______ they can sometimes be detected by specialized laboratory techniques.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "thus,",
+    "B": "for example,",
+    "C": "that said,",
+    "D": "similarly,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because \"that said\" logically signals that the information that follows—that the proteins in prion diseases can be detected by laboratory techniques—is an exception to the previous information about misfolded proteins not being recognized by cellular mechanisms.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"for example\" illogically signals that the information that follows exemplifies the fact that the proteins in prion diseases cannot function normally due to misfolding. Instead, the fact that they can be detected by laboratory techniques is an exception to the previous information about misfolded proteins.",
+  "source": "https://cooksat.com/practice?questionId=560b0c91&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

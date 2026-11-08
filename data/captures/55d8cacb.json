@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "55d8cacb",
+  "capturedAt": "2026-11-08T16:26:25.513Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "A venus flytrap uses trigger hairs to detect when prey lands on its leaves, causing the plant to rapidly close its trap through a complex hydraulic mechanism that forces water into specific cells to snap the trap shut. ______ when no prey is detected for an extended period, the plant reopens its trap by reversing the water flow and returning the leaves to their original position.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "For instance,",
+    "B": "By contrast,",
+    "C": "Specifically,",
+    "D": "In conclusion,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. \"By contrast\" logically signals that the information in this sentence—that a venus flytrap's trap reopens when no prey is detected—contrasts with the previous sentence's discussion of the processes that cause the trap to close.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"specifically\" illogically signals that the information in the sentence provides specific details elaborating on the previous sentence's discussion of how the trap closes. Instead, it contrasts with the previous sentence's discussion.",
+  "source": "https://cooksat.com/practice?questionId=55d8cacb&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

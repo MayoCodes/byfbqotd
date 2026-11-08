@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4bfd89e5",
+  "capturedAt": "2026-11-08T16:26:03.780Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In the early twenty-first century, researchers directed considerable attention toward issues of artificial intelligence development. Proponents of machine learning approaches emphasized efficiency through algorithmic pattern recognition and neural network optimization; ______ cognitive scientist Douglas Hofstadter argued that intelligence emerges from \"the strange loop of self-reference and meaning,\" focusing instead on consciousness and symbolic reasoning.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "by contrast,",
+    "B": "for example,",
+    "C": "as such,",
+    "D": "likewise,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"By contrast\" logically signals that the information about how Hofstadter approached intelligence—by focusing on consciousness and symbolic reasoning—contrasts with the information in the previous clause, which discusses machine learning approaches and algorithmic optimization.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"as such\" illogically signals that the information that follows in the sentence is a direct result or logical consequence of the machine learning approaches to artificial intelligence described previously. Instead, the information about Hofstadter's consciousness-focused approach presents a contrasting approach.",
+  "source": "https://cooksat.com/practice?questionId=4bfd89e5&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4d242c4c",
+  "capturedAt": "2026-11-08T16:26:06.492Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In 1912, German meteorologist Alfred Wegener proposed that continents slowly drift across Earth's surface over geological time, a theory that went against earlier assumptions about the planet's structure. ______ scientists had assumed that continents were permanently fixed in place, not mobile landmasses that could move across the globe.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Previously,",
+    "B": "However,",
+    "C": "As a result,",
+    "D": "Likewise,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Previously\" logically signals that the fixed continent theory came before Wegener's continental drift proposal.\n\nWhy C is incorrect:\n\nChoice C is incorrect because \"as a result\" illogically signals that the fixed continent theory in this sentence was a result of the proposal in the previous sentence. Instead, the fixed continent theory came before Wegener's continental drift proposal.",
+  "source": "https://cooksat.com/practice?questionId=4d242c4c&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}

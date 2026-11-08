@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "51e357af",
+  "capturedAt": "2026-11-08T16:26:22.804Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The linguistic principle of loanword chronology holds that a borrowed term cannot appear in a language before the contact event that introduced it. ______ historical linguists Sonja Elliott and Arthur Quinn, examining an undated manuscript, can determine that a text containing a Norman French term absent before 1066 but lacking a Dutch nautical term ubiquitous after 1580 was composed later than the former date but earlier than the latter.",
+  "prompt": "Which choice completes the text with a transition that signals that the second sentence is a result of applying the principle described in the first sentence?",
+  "choices": {
+    "A": "Accordingly,",
+    "B": "By contrast,",
+    "C": "Nevertheless,",
+    "D": "Moreover,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. \"Accordingly\" logically signals that the information in this sentence—that Elliott and Quinn can determine the composition date of a manuscript by analyzing its loanwords—is a logical consequence or application of the principle of loanword chronology described in the previous sentence.\n\nWhy B is incorrect:\n\nChoice B is incorrect because \"by contrast\" signals that the linguists' dating work contrasts with the principle described in the previous sentence. Instead, their work applies that principle and follows from it.",
+  "source": "https://cooksat.com/practice?questionId=51e357af&subject=english&domain=expression-of-ideas&skills=transitions&bank=cooksat",
+  "images": []
+}
