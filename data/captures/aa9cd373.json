@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "aa9cd373",
+  "capturedAt": "2026-11-08T03:53:31.449Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Cognitive psychologist Daniel Kahneman has theorized that when information is presented through familiar, easy-to-process formats, people tend to accept conclusions uncritically. Such acceptance is amplified by \"cognitive fluency,\" or the subjective ease with which information can be understood. Conversely, Kahneman proposes that difficult-to-process formats or deliberate obstacles to comprehension would promote more analytical thinking about the content. Consider, for example, the study materials used in Dr. Chen's statistics course, which employ intentionally complex fonts and require students to decode abbreviations, creating multiple processing challenges. According to Kahneman's logic, these materials should affect students by ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "reducing their awareness of the underlying mathematical concepts being taught in the course.",
+    "B": "encouraging them to think more critically about the statistical concepts, rather than accepting them passively.",
+    "C": "compelling them to focus on Dr. Chen's teaching methods rather than on the course content itself.",
+    "D": "shifting their attention away from the practical applications of statistics toward its theoretical foundations."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents the conclusion that most logically follows from the text's application of Kahneman's theory to a specific example. The text explains that easy-to-process formats lead to uncritical acceptance, while difficult-to-process formats promote analytical thinking. The text goes on to point out that Dr. Chen's materials create processing challenges through complex fonts and decoding requirements. Because these materials fall into the category of difficult-to-process formats, it's reasonable to infer that according to Kahneman's theory, they would encourage more critical thinking about the content rather than passive acceptance.\n\nWhy D is incorrect:\n\nChoice D is incorrect because the passage doesn't discuss the distinction between practical applications and theoretical foundations of statistics, so there's no basis for this inference.",
+  "source": "https://cooksat.com/practice?questionId=aa9cd373&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}

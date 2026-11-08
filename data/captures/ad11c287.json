@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ad11c287",
+  "capturedAt": "2026-11-08T03:53:34.846Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "To address the susceptibility of materials used in components of high-performance electronics, such as computer processors, to thermal degradation (deterioration that is induced by persistent heat exposure and that often occurs during intensive computational tasks), materials researchers have developed graphene-enhanced cooling films for producing thermal management systems. Testing the heat dissipation properties of several commercially available cooling films, Chen Li et al. found that in comparison with two silicon-based cooling films, a copper-infused graphene film exhibited a lower thermal resistance coefficient, a measure of a material's opposition to heat transfer at constant temperature and steady-state conditions. The finding suggests that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "unlike the two silicon-based cooling films, the copper-infused graphene film can substantially eliminate thermal degradation, provided that temperatures and computational loads are consistent.",
+    "B": "the two silicon-based cooling films likely hold similar potential for reducing the thermal conductivity of materials exposed to heat and intensive processing, thus prolonging the life span of electronic components.",
+    "C": "thermal management systems containing the copper-infused graphene film may have the ability to dissipate heat for a longer period of time than can thermal management systems containing either of the two silicon-based cooling films.",
+    "D": "thermal management systems based on the two silicon-based cooling films have heat transfer properties that may improve the thermal stability of electronic equipment to a greater extent than do systems based on the copper-infused graphene film."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most logically completes the text's discussion of graphene-enhanced cooling films and thermal degradation, or deterioration related to ongoing heat exposure during computational tasks. The text states that Chen Li et al. found that a copper-infused graphene film had a lower thermal resistance coefficient than two silicon-based cooling films did. Because having a lower thermal resistance coefficient means that the material offers less opposition to heat transfer, as the text explains, this finding suggests that thermal management systems made with the copper-infused graphene film may be able to dissipate heat effectively for a longer period than those made with the other two silicon-based cooling films can.\n\nWhy A is incorrect:\n\nChoice A is incorrect because it overstates the implications of the study's findings, which have to do with the rate of a material's heat transfer opposition, not the absolute prevention of thermal degradation. The text states that Chen Li et al. observed that a copper-infused graphene film had a lower thermal resistance coefficient than two silicon-based cooling films did, meaning only that it transferred heat more efficiently, not that it eliminated thermal degradation entirely.",
+  "source": "https://cooksat.com/practice?questionId=ad11c287&subject=english&domain=information-and-ideas&skills=inferences&bank=cooksat",
+  "images": []
+}
