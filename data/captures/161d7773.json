@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "161d7773",
+  "capturedAt": "2026-11-08T16:04:01.766Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Architects throughout history have designed buildings to reflect the cultural values of their time periods.\n• Italian architect Andrea Palladio designed the Villa Rotonda in the 1560s.\n• It embodied Renaissance ideals of mathematical harmony and classical proportions inspired by ancient Roman architecture.\n• American architect Frank Lloyd Wright designed Fallingwater in the 1930s.\n• It reflected modern values of integration with nature and rejection of traditional geometric forms.",
+  "prompt": "The student wants to contrast the Villa Rotonda with Fallingwater. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The Villa Rotonda and Fallingwater both reflect the cultural values of their respective time periods.",
+    "B": "Frank Lloyd Wright's Fallingwater, designed in the 1930s, reflected modern values of integration with nature and rejection of traditional forms.",
+    "C": "While both are significant architectural works, the Villa Rotonda embodies Renaissance mathematical harmony, whereas Fallingwater reflects modern integration with nature.",
+    "D": "Designed by Andrea Palladio in the 1560s, the Villa Rotonda embodied Renaissance ideals of mathematical harmony and classical proportions."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence contrasts the two buildings, noting that the Villa Rotonda embodies Renaissance mathematical harmony, whereas Fallingwater reflects modern integration with nature.\n\nWhy D is incorrect:\n\nChoice D is incorrect. While the sentence provides a description of the Villa Rotonda, it doesn't mention Fallingwater or contrast the two buildings.",
+  "source": "https://cooksat.com/practice?questionId=161d7773&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}

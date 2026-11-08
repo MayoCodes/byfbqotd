@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "139ddfff",
+  "capturedAt": "2026-11-08T16:03:59.035Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Early submarine telegraph cables included the 1858 Transatlantic cable and the 1866 Transatlantic cable, both laid between Ireland and Newfoundland.\n• The 1858 cable transmitted a single character across the Atlantic in about 120 seconds on average.\n• The 1866 cable transmitted a single character across the Atlantic in about 1.5 seconds on average.\n• British physicist William Thomson (1824-1907) identified the law of squares, which predicted signal delay in long submarine cables.\n• Thomson developed design principles requiring thick copper conductors and low-voltage mirror galvanometers for reliable transatlantic telegraphy.\n• Thomson's design principles were applied to the construction of all successful transatlantic cables, including the 1858 and 1866 cables.",
+  "prompt": "The student wants to contrast the transmission speeds of the two cables. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The 1858 and 1866 Transatlantic cables were both designed using principles developed by William Thomson for reliable transatlantic telegraphy.",
+    "B": "The 1858 Transatlantic cable transmitted a single character across the Atlantic in about 120 seconds on average, while the 1866 Transatlantic cable, which did not rely on Thomson's design principles, transmitted a single character in about 1.5 seconds.",
+    "C": "Like planets and other long-distance communication systems, the 1858 and 1866 Transatlantic cables were subject to predictable physical laws.",
+    "D": "The 1866 Transatlantic cable transmitted a single character across the Atlantic many times faster than the 1858 Transatlantic cable did."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence effectively contrasts the two cables' transmission speeds by emphasizing that the 1866 cable transmitted a single character much faster than the 1858 cable did, highlighting the significant difference between their transmission times (about 1.5 seconds versus about 120 seconds).",
+  "source": "https://cooksat.com/practice?questionId=139ddfff&subject=english&domain=expression-of-ideas&skills=rhetorical_synthesis&bank=cooksat",
+  "images": []
+}
