@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "d0134f3f",
+  "capturedAt": "2026-11-08T00:39:30.739Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nWhen a regional labor market operates without minimum wage enforcement and has a large surplus of unskilled workers, average hourly wages in the market can fall to extremely low levels. For three regional labor markets that economists Obiora Mansour and Rabia Desai identified as vulnerable to such conditions, the table shows workforce size, labor surplus index (expressed as the ratio of job seekers to available positions, with higher numbers indicating greater surplus), and average hourly wage according to a model that assumes the absence of minimum wage enforcement.",
+  "prompt": "Which choice best describes how data in the table for the Calderon Valley region would likely differ if it had minimum wage enforcement?",
+  "choices": {
+    "A": "It would have a workforce below 420 thousand.",
+    "B": "Its average hourly wage would be around $8.50.",
+    "C": "It would have a workforce above 420 thousand.",
+    "D": "Its average hourly wage would be above $3.20."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it describes how the data for Calderon Valley would likely differ if the region had minimum wage enforcement. The text explains that labor markets operating without minimum wage enforcement and with a large surplus of unskilled workers can see average hourly wages fall to extremely low levels, and the table presents data from a model that 'assumes the absence of minimum wage enforcement.' According to the table, Calderon Valley has an average hourly wage of $3.20 under this no-enforcement model. If minimum wage enforcement were instead in place, it would set a legal floor preventing wages from falling so low, and average wages would therefore rise above the level produced by unconstrained surplus labor — that is, they would be above $3.20.\n\nWhy C is incorrect:\n\nChoice C is incorrect because the introduction of minimum wage enforcement would not cause Calderon Valley to have a workforce above 420 thousand. The passage connects the absence of enforcement to low wages, not to workforce size. The variable affected by enforcement is wages, not the number of workers, so there is no basis for inferring a change in workforce size.",
+  "source": "https://cooksat.com/practice?questionId=d0134f3f&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d0134f3f/1-753934c707422a5d.png"
+    }
+  ]
+}

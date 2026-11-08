@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "d3fdce3f",
+  "capturedAt": "2026-11-08T00:39:56.529Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nNaveen Le, Arun Santos, and their colleagues surveyed three groups of people in Rochester, New York—owners of small downtown businesses, municipal officials involved in city planning, and residents of the surrounding neighborhoods—to compare their views about the extent to which a proposed downtown revitalization program would contribute to 20 economic and community benefits that the team identified. The researchers used these ratings to rank the benefits for each group, with a ranking of 1 indicating that a group perceives that the program advances that benefit the most. Using only the rankings shown in the table, an economic development director in Rochester who is promoting the revitalization program concludes that advertisements aimed at municipal officials should emphasize the program's benefit to the growth of local tax revenue.",
+  "prompt": "Which choice best describes data in the table that support the economic development director's conclusion?",
+  "choices": {
+    "A": "The growth of local tax revenue was ranked higher for municipal officials than were the other four benefits.",
+    "B": "The improvement of public transit access was ranked lower for municipal officials than it was for small-business owners.",
+    "C": "The growth of local tax revenue was ranked higher for neighborhood residents than it was for municipal officials.",
+    "D": "The reduction of commercial vacancies was ranked higher for municipal officials than was the growth of local tax revenue."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it describes data from the table that support the economic development director's conclusion. The director concludes that advertisements aimed at municipal officials should emphasize the program's benefit to the growth of local tax revenue. This conclusion would be supported if municipal officials highly value growth of local tax revenue compared to other benefits. The table shows the rankings of five benefits for municipal officials, where a lower number indicates a higher perceived benefit. For municipal officials, growth of local tax revenue is ranked 6, which is higher than the rankings for the other four benefits: expansion of public green space (18), increase in pedestrian foot traffic (14), reduction of commercial vacancies (12), and improvement of public transit access (9). Since growth of local tax revenue has the highest ranking among these five benefits for municipal officials, this supports the director's decision to emphasize it in advertisements aimed at that group.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it inaccurately describes data from the table and contradicts the director's conclusion. The table shows that for municipal officials, reduction of commercial vacancies was ranked 12 while growth of local tax revenue was ranked 6. Since lower numbers indicate higher perceived benefits, growth of local tax revenue was ranked much higher (better) for municipal officials than reduction of commercial vacancies, not the other way around. If commercial vacancies were ranked higher than tax revenue for municipal officials, that would actually undermine the director's conclusion about emphasizing tax revenue in advertisements aimed at that group.",
+  "source": "https://cooksat.com/practice?questionId=d3fdce3f&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d3fdce3f/1-cae98a7bd81dee43.png"
+    }
+  ]
+}

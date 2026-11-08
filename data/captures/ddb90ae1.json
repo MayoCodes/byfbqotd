@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "ddb90ae1",
+  "capturedAt": "2026-11-08T00:40:54.790Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nSome labor economists have suggested that as automation reshapes service industries, many workers currently in part-time positions (defined as fewer than 35 hours per week) could transition into full-time roles (35 to 60 hours per week). However, it isn't clear that workers in all occupational categories could accommodate full-time schedules. In 2022, Esteban Espinoza and Sadia Hayashi examined weekly hours logged by part-time workers across several service occupations. Based on the hours those workers currently log, the occupational category that seems least suited to a full transition to full-time status is ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "retail cashiers, because their maximum of 18 hours per week is furthest from the full-time threshold.",
+    "B": "food servers, because their minimum of 12 hours per week is in the part-time range.",
+    "C": "library assistants, because their maximum of 28 hours per week is close to but doesn't reach the full-time threshold.",
+    "D": "tutoring staff, because their maximum of 4 hours per week is the lowest of those listed."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively uses data from the table to complete the statement about which occupational category seems least suited to a full transition to full-time status. According to the text, full-time status begins at 35 hours per week, while part-time is fewer than 35 hours. The table shows the minimum and maximum weekly hours each category currently logs. Since the question asks which category is least suited to transition to full-time, the relevant data point is each category's maximum hours—how close workers currently come to full-time. The table shows that retail cashiers have a maximum of 18 hours per week, which is furthest from the 35-hour full-time threshold of all the categories listed (the others have maximums of 55, 28, and 35 hours). Therefore, retail cashiers, whose current hours fall well short of approaching full-time, would be the category least suited to a full transition.\n\nWhy B is incorrect:\n\nChoice B is incorrect because it cites data that is irrelevant to determining which category is least suited to transition to full-time. While the table does show that food servers have a minimum of 12 hours in the part-time range, minimum hours don't indicate a category's ability to accommodate full-time schedules. What matters is how high workers' current hours extend—the maximum. The table shows food servers have a maximum of 55 hours per week, meaning some already work well beyond full-time, so this category would actually be well-suited to transition, not least suited.",
+  "source": "https://cooksat.com/practice?questionId=ddb90ae1&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/ddb90ae1/1-1c1757a9c7dcc0f5.png"
+    }
+  ]
+}

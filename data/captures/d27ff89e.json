@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "d27ff89e",
+  "capturedAt": "2026-11-08T00:39:45.529Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nStudies of the size of the informal economy as a share of national GDP have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. For example, the difference between the maximum estimate reported by Amelia Barrett et al. and that reported by Greta Barrett et al. might be artificially large if the use of ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the example?",
+  "choices": {
+    "A": "household surveys is impractical outside of Portugal",
+    "B": "household surveys underestimates the size of the informal economy",
+    "C": "currency-demand modeling underestimates the size of the informal economy",
+    "D": "currency-demand modeling is more common in Hungary than the use of household surveys is"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the text's example about how methodological differences might affect estimates of informal economy size. The text states that the difference between the maximum estimate reported by Amelia Barrett et al. and that reported by Greta Barrett et al. might be artificially large due to differences in research methods. According to the table, Amelia Barrett et al. used household surveys in Portugal and reported a maximum estimate of 6.50 percent of GDP, while Greta Barrett et al. used currency-demand modeling in Hungary and reported a maximum estimate of 24.80 percent of GDP. If the use of household surveys underestimates the size of the informal economy, then Amelia Barrett et al.'s reported value would be artificially low, making the difference between 6.50 and 24.80 artificially large.\n\nWhy C is incorrect:\n\nChoice C is incorrect because claiming that currency-demand modeling underestimates the size of the informal economy would not explain why the difference between Amelia Barrett et al.'s result and Greta Barrett et al.'s result is artificially large. According to the table, Greta Barrett et al., who used currency-demand modeling, reported the highest maximum estimate (24.80 percent of GDP) of all the studies shown. If currency-demand modeling underestimated the size of the informal economy, then Greta Barrett et al.'s result would be artificially low, which would actually make the difference between the two studies smaller, not larger.",
+  "source": "https://cooksat.com/practice?questionId=d27ff89e&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d27ff89e/1-ffa66e2458f2400c.png"
+    }
+  ]
+}

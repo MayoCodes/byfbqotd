@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "d96f2998",
+  "capturedAt": "2026-11-08T00:40:36.781Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nTrade reform programs have been observed to vary considerably in the annual export growth they generate. Economist Aurora Magnusson has proposed that high export growth from such programs is driven primarily by the use of tariff reduction during implementation, but data on reform programs compiled by analyst Henry Dalton challenge that proposal and raise the possibility of an alternative explanation.",
+  "prompt": "Which choice best describes data from the table that support the underlined claim?",
+  "choices": {
+    "A": "Program 18 was implemented using tariff reduction but has the lowest export growth, while the two programs with the highest export growth (Programs 5 and 15) both contain subsidy reform, infrastructure, and credit access as major components.",
+    "B": "Program 1 was not implemented using tariff reduction but has relatively high export growth, suggesting that the number of components in a program, rather than tariff reduction, drives export growth.",
+    "C": "Program 15 was implemented using tariff reduction and has the highest export growth, whereas Program 25 was not implemented using tariff reduction and has relatively low export growth.",
+    "D": "Program 5 was implemented using tariff reduction but has relatively low export growth, and the program with the lowest export growth contains licensing changes and currency adjustment as major components."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it describes data from the table that support the underlined claim that Dalton's data challenge Magnusson's proposal linking tariff reduction to high export growth and raise the possibility of an alternative explanation. The table shows that Program 18 was implemented using tariff reduction (and bilateral negotiation) but has an export growth of only 0.30%—the lowest in the table. This directly contradicts the proposal that tariff reduction drives high export growth. Furthermore, the two programs with the highest export growth—Program 15 (14.90%) and Program 5 (11.40%)—both contain subsidy reform, infrastructure, and credit access as major components, while programs with lower export growth do not. This pattern suggests that reform composition, rather than tariff reduction per se, may be the key driver of export growth, providing the alternative explanation the underlined claim references.\n\nWhy D is incorrect:\n\nChoice D is incorrect because it inaccurately characterizes data from the table. Program 5's export growth is 11.40%, the second-highest value in the table—higher than Programs 1, 18, and 25. Describing Program 5's export growth as 'relatively low' misrepresents the data. Moreover, identifying compositional features of the lowest-performing program alone does not establish a broader pattern that could serve as an alternative explanation for variation in export growth across multiple programs.",
+  "source": "https://cooksat.com/practice?questionId=d96f2998&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d96f2998/1-38ddbc572b040e8a.png"
+    }
+  ]
+}

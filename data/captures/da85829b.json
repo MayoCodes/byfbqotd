@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "da85829b",
+  "capturedAt": "2026-11-08T00:40:40.672Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nA marine protected area was established in Bahia Verde lagoon in 2002. Marine ecologists Nasser Sithole and Paola Castillo and their colleagues tracked changes to the lagoon floor following the designation, including how much seagrass and mangrove root coverage were present. They concluded that the protections altered conditions in the lagoon in ways that benefited seagrass but didn't benefit mangroves.",
+  "prompt": "Which choice best describes data from the graph that support Sithole and Castillo's conclusion?",
+  "choices": {
+    "A": "The lowest amount of seagrass coverage was approximately 55,000 square meters, and the highest amount of mangrove root coverage was approximately 78,000 square meters.",
+    "B": "There was more seagrass coverage than mangrove root coverage in 1997, and this difference increased dramatically in 2003 and again in 2015.",
+    "C": "There was less seagrass coverage than bare sediment in 1997 but more seagrass coverage than bare sediment in 2003 and 2015, whereas there was more mangrove root coverage than bare sediment in all three years.",
+    "D": "Seagrass coverage increased from 1997 to 2003 and from 2003 to 2015, whereas mangrove root coverage decreased in those periods."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it describes data from the graph that support Sithole and Castillo's conclusion that the marine protected area led to changes that benefited seagrass but not mangroves. The graph shows coverage on the floor of Bahia Verde lagoon in three years—1997, 2003, and 2015. The text indicates that the protected area was established in 2002, meaning the 1997 data reflect conditions before designation while the 2003 and 2015 data reflect conditions after. The graph shows seagrass coverage rising from approximately 55,000 to 92,000 to 125,000 square meters across the three years, while mangrove root coverage fell from approximately 78,000 to 60,000 to 45,000 square meters. Together, these opposing trends support the conclusion that the protection benefited seagrass but not mangroves.\n\nWhy B is incorrect:\n\nChoice B is incorrect because it inaccurately describes the data. The graph shows that in 1997 there was more mangrove root coverage (approximately 78,000 square meters) than seagrass coverage (approximately 55,000 square meters), not the reverse as the choice claims.",
+  "source": "https://cooksat.com/practice?questionId=da85829b&subject=english&domain=information-and-ideas&skills=command_of_evidence&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/da85829b/1-e4e048df711ef205.png"
+    }
+  ]
+}
