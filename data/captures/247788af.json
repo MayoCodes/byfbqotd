@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "247788af",
+  "capturedAt": "2026-11-09T21:06:13.271Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The table above shows four values of the function f. Which of the following could be the formula for f(x)?",
+  "choices": {
+    "A": "f(x)=x2+3x",
+    "B": "f(x)=x2+x+3",
+    "C": "f(x)=x2+3",
+    "D": "f(x)=2x2+1"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The table shows that $f(0) = 3$, $f(1) = 4$, $f(2) = 7$, and $f(3) = 12$. Substituting $0$, $1$, $2$, and $3$ for $x$ in the expression $f(x) = x^2 + 3$ gives: when $x = 0$, $f(0) = (0)^2 + 3 = 0 + 3 = 3$ ; when $x = 1$, $f(1) = (1)^2 + 3 = 1 + 3 = 4$ ; when $x = 2$, $f(2) = (2)^2 + 3 = 4 + 3 = 7$ ; and when $x = 3$, $f(3) = (3)^2 + 3 = 9 + 3 = 12$. All four values match the table, so choice C is correct.\n\nWhy D is incorrect:\n\nChoice D is incorrect. When $x = 0$, $f(0) = 2(0)^2 + 1 = 1$, which does not match the table value of $3$. Similarly, $f(1) = 3$, $f(2) = 9$, and $f(3) = 19$ do not match any of the corresponding table values.",
+  "source": "https://cooksat.com/practice?questionId=247788af&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/247788af/1-b712620a51c50e43.png"
+    }
+  ]
+}

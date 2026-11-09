@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1c714a05",
+  "capturedAt": "2026-11-09T21:05:46.166Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For a certain function f, the graph in the xy-plane of y=f(x) is a parabola with a vertex at (4,16). If f(0)=128, what is the value of f(8)?",
+  "choices": {
+    "A": "32",
+    "B": "64",
+    "C": "128",
+    "D": "256"
+  },
+  "correctAnswer": "C",
+  "explanation": "Since the parabola has vertex $(4,16)$, it can be written as $f(x)=a(x-4)^2+16$ for some constant $a$. Using $f(0)=128$: $128=a(0-4)^2+16=16a+16$. Solving gives $a=7$, so $f(x)=7(x-4)^2+16$. Therefore $f(8)=7(8-4)^2+16=7(16)+16=128$.",
+  "source": "https://cooksat.com/practice?questionId=1c714a05&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
