@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6df57c7f",
+  "capturedAt": "2026-11-09T21:11:00.044Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "When x=−4, the value of f(x) is −3. When x=1, the value of f(x) is −2. Which of the following could define f(x), where f(x) is a quadratic function?",
+  "choices": {
+    "A": "f(x)=(x+4)(x−1)",
+    "B": "f(x)=51​x2+54​x−3",
+    "C": "f(x)=(x−4)(x+1)",
+    "D": "f(x)=x2−4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substituting $x=-4$ into choice B yields $f(-4)=\\frac{1}{5}(16)+\\frac{4}{5}(-4)-3=\\frac{16}{5}-\\frac{16}{5}-3=-3$. Substituting $x=1$ yields $f(1)=\\frac{1}{5}(1)+\\frac{4}{5}(1)-3=\\frac{5}{5}-3=1-3=-2$. Both conditions are satisfied.\n\nWhy D is incorrect:\n\nTesting this function: $f(-4)=16-4=12$ and $f(1)=1-4=-3$. Neither value matches the required conditions.",
+  "source": "https://cooksat.com/practice?questionId=6df57c7f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

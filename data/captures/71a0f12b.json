@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "71a0f12b",
+  "capturedAt": "2026-11-09T21:11:23.283Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Graph of Function",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph of a quadratic function is shown. Which of the following is an equation of this function?",
+  "choices": {
+    "A": "f(x)=−x2−x",
+    "B": "f(x)=x2+x",
+    "C": "f(x)=x2−x",
+    "D": "f(x)=−x2+x"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The parabola shown opens downward, indicating the coefficient of $x^2$ is negative. The parabola passes through the points $(0,0)$ and $(1,0)$, which are the $x$-intercepts (roots) of the function. Using the factored form with roots at $x=0$ and $x=1$: $f(x)=a\\cdot x(x-1)$, where $a$ is a nonzero constant. Since the parabola opens downward, $a<0$. The vertex of the parabola is located at $x=\\frac{0+1}{2}=0.5$ (midpoint of the roots). At $x=0.5$: $f(0.5)=a(0.5)(0.5-1)=a(0.5)(-0.5)=-0.25a$. From the graph, the vertex appears to be at approximately $(0.5, 0.25)$, so $-0.25a=0.25$, which gives $a=-1$. Therefore, $f(x)=-1\\cdot x(x-1)=-x^2+x$. We can verify: $f(0)=0$, $f(1)=0$, and $f(0.5)=-(0.5)^2+0.5=0.25$. Thus, the equation is $f(x)=-x^2+x$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The function $f(x)=-x^2-x$ can be factored as $f(x)=-x(x+1)$, which has $x$-intercepts at $x=0$ and $x=-1$. However, the parabola shown has $x$-intercepts at $x=0$ and $x=1$, not $x=-1$. Additionally, the vertex of this function is at $x=-0.5$ with $f(-0.5)=0.25$, which would place the vertex at $(-0.5, 0.25)$ rather than $(0.5, 0.25)$ as shown in the graph.",
+  "source": "https://cooksat.com/practice?questionId=71a0f12b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/71a0f12b/1-6ee083dea0c2412f.png"
+    }
+  ]
+}

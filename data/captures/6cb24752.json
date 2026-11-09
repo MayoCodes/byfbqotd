@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6cb24752",
+  "capturedAt": "2026-11-09T21:10:56.194Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(x)=∣41−2x∣",
+  "choices": {
+    "A": "641​",
+    "B": "241​",
+    "C": "382​",
+    "D": "41"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The value of $n$ for which $g(n) = 4n$ can be found by substituting $n$ for $x$ and $4n$ for $g(x)$ in the given equation $g(x) = \\left|41 - 2x\\right|$, which yields $4n = \\left|41 - 2n\\right|$. For this equation to be true, either $-4n = 41 - 2n$ or $4n = 41 - 2n$. Adding $2n$ to both sides of $-4n = 41 - 2n$ yields $-2n = 41$, so $n = -\\frac{41}{2}$. Substituting $-\\frac{41}{2}$ for $n$ in $4n = \\left|41 - 2n\\right|$ gives $-82 = \\left|82\\right|$, or $-82 = 82$, which isn't a true statement, so $-\\frac{41}{2}$ isn't a valid value of $n$. Adding $2n$ to both sides of $4n = 41 - 2n$ yields $6n = 41$, so $n = \\frac{41}{6}$. Substituting $\\frac{41}{6}$ for $n$ in $4n = \\left|41 - 2n\\right|$ gives $\\frac{82}{3} = \\left|\\frac{82}{3}\\right|$, which is true. Therefore, the value of $n$ for which $g(n) = 4n$ is $\\frac{41}{6}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This is the value obtained by solving $41 - 2n = 0$, which corresponds to the input that makes $g(n) = 0$, not $g(n) = 4n$.",
+  "source": "https://cooksat.com/practice?questionId=6cb24752&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

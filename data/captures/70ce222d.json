@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "70ce222d",
+  "capturedAt": "2026-11-09T21:11:20.187Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The area A, in square feet, of a rectangular garden plot can be represented by the expression x(x+14), where x is the width, in feet, of the garden plot. Which expression represents the length, in feet, of the garden plot?",
+  "choices": {
+    "A": "14",
+    "B": "x",
+    "C": "(x+14)",
+    "D": "x(x+14)"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the expression $x(x + 14)$ represents the area, in square feet, of a rectangular garden plot, where $x$ is the width, in feet, of the garden plot. The area of a rectangle can be calculated by multiplying its length by its width. It follows that the length, in feet, of the garden plot is represented by the expression $(x + 14)$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This expression represents the width, in feet, of the garden plot, not its length.",
+  "source": "https://cooksat.com/practice?questionId=70ce222d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

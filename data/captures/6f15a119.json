@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "6f15a119",
+  "capturedAt": "2026-11-09T21:11:06.281Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph of the function f is shown. The graph of the function h is a horizontal translation of the graph of f such that h(x)=f(x+2). What is the y-coordinate of the point at which the graph of h intersects the y-axis?",
+  "choices": {
+    "A": "−3",
+    "B": "−1",
+    "C": "1",
+    "D": "3"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The $y$-intercept of the graph of $h$ occurs where $x = 0$. To find this, we evaluate $h(0)$. Since $h(x) = f(x + 2)$, we have $h(0) = f(0 + 2) = f(2)$. The transformation $h(x) = f(x + 2)$ shifts the graph of $f$ horizontally $2$ units to the left. From the equation $f(x) = -(x - 1)(x - 3)$, we can calculate: $f(2) = -(2 - 1)(2 - 3) = -(1)(-1) = 1$. Therefore, the $y$-coordinate of the point at which the graph of $h$ intersects the $y$-axis is $1$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This may result from confusing the direction of the horizontal translation. A student might think $h(x) = f(x + 2)$ shifts the graph $2$ units to the right (when it actually shifts left), leading them to evaluate $f(-2) = -(-2 - 1)(-2 - 3) = -(-3)(-5) = -15$, then making arithmetic errors. The value $3$ doesn't correspond to any standard calculation with this function.",
+  "source": "https://cooksat.com/practice?questionId=6f15a119&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6f15a119/1-4c6c52b06d7cab2d.png"
+    }
+  ]
+}

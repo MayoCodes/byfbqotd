@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "71a6ad5b",
+  "capturedAt": "2026-11-09T21:11:27.088Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Intercept from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the y-intercept of the graph shown?",
+  "choices": {
+    "A": "(−4,0)",
+    "B": "(−2,0)",
+    "C": "(0,−4)",
+    "D": "(0,−2)"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The y-intercept of a graph in the xy-plane is the point $(x, y)$ on the graph where $x = 0$. The graph shown crosses the y-axis at the point $(0, -2)$. Therefore, the y-intercept of the graph shown is $(0, -2)$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from reversing the coordinates of the y-intercept. The y-intercept occurs where $x = 0$, so the correct form is $(0, -2)$, not $(-2, 0)$.",
+  "source": "https://cooksat.com/practice?questionId=71a6ad5b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/71a6ad5b/1-8174ad23ff6a5dc8.png"
+    }
+  ]
+}

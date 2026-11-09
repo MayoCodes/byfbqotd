@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6f7f6614",
+  "capturedAt": "2026-11-09T21:11:10.912Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If f(x)=x2−4x+3, what is the value of f(5)?",
+  "choices": {
+    "A": "2",
+    "B": "8",
+    "C": "13",
+    "D": "18"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substituting $5$ for $x$ in $f(x) = x^2 - 4x + 3$ yields $f(5) = (5)^2 - 4(5) + 3 = 25 - 20 + 3 = 8$.\n\nWhy D is incorrect:\n\nThis results from an intermediate calculation error, such as computing $25 - 20 + 3$ as $25 - 7 = 18$.",
+  "source": "https://cooksat.com/practice?questionId=6f7f6614&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
