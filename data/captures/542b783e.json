@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "542b783e",
+  "capturedAt": "2026-11-09T21:09:44.346Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x+25x3​. Which equation defines a function whose graph is the graph of y=f(x) translated to the right 4 units and then translated down 6 units?",
+  "choices": {
+    "A": "g(x)=x−25(x−4)3​−6",
+    "B": "g(x)=x+65x3​−6",
+    "C": "g(x)=x+65(x+4)3​−6",
+    "D": "g(x)=x−25x3​−6"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To translate a function to the right $4$ units and down $6$ units, apply the transformation $g(x)=f(x-4)-6$. Substituting $(x-4)$ for $x$ in $f(x)=\\frac{5x^3}{x+2}$ gives $f(x-4)=\\frac{5(x-4)^3}{(x-4)+2}=\\frac{5(x-4)^3}{x-2}$. Subtracting $6$ yields $g(x)=\\frac{5(x-4)^3}{x-2}-6$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This may result from correctly simplifying the denominator to $x-2$ but failing to apply the horizontal translation to the numerator. The transformation requires $5(x-4)^3$, not $5x^3$.",
+  "source": "https://cooksat.com/practice?questionId=542b783e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

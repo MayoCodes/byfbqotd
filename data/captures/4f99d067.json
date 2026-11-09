@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4f99d067",
+  "capturedAt": "2026-11-09T21:09:19.818Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "h(x)=7(3)x",
+  "choices": {
+    "A": "p(x)=14(3)x",
+    "B": "p(x)=14(9)x",
+    "C": "p(x)=49(9)x",
+    "D": "p(x)=63(3)x"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $h(x) = 7(3)^{x}$ and $p(x) = h(x + 2)$. Substituting $x + 2$ for $x$ in $h(x) = 7(3)^{x}$ gives $h(x + 2) = 7(3)^{x + 2}$. Using properties of exponents, this can be rewritten as $h(x + 2) = 7(3)^{x}(3)^{2}$, which is equivalent to $h(x + 2) = 7(3)^{x}(9)$. Multiplying $7$ and $9$ gives $h(x + 2) = 63(3)^{x}$. Since $p(x) = h(x + 2)$, it follows that $p(x) = 63(3)^{x}$.",
+  "source": "https://cooksat.com/practice?questionId=4f99d067&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

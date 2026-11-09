@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "53e23955",
+  "capturedAt": "2026-11-09T21:09:40.994Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A biologist tracked the number of bacteria in a culture throughout an experiment. An exponential model gives the estimated number of bacteria, M, in the culture w hours after the experiment began, where w≤2. Based on the model, 60 bacteria were estimated to be in the culture when the experiment began, and every 20 minutes the estimated number of bacteria increased by 175% of the estimated number of bacteria 20 minutes earlier. Which of the following equations best represents this model?",
+  "choices": {
+    "A": "M=60(1.75)20w​",
+    "B": "M=60(1.75)3w",
+    "C": "M=60(2.75)20w​",
+    "D": "M=60(2.75)3w"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since the model describes a fixed percent increase every $20$ minutes, it can be written as $M = K \\cdot b^{n}$, where $K$ is the initial count, $b$ is the growth factor per $20$-minute period, and $n$ is the number of $20$-minute periods after the experiment began. It's given that $60$ bacteria were in the culture when the experiment began, so $K = 60$. An increase by $175\\%$ means the new amount equals $100\\% + 175\\% = 275\\%$ of the previous amount, corresponding to a multiplicative factor of $2.75$, so $b = 2.75$. Since $w$ represents hours and growth occurs every $20$ minutes, there are $\\frac{60}{20} = 3$ twenty-minute periods per hour, so $n = 3w$. Substituting $60$ for $K$, $2.75$ for $b$, and $3w$ for $n$ yields $M = 60(2.75)^{3w}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from misinterpreting 'increased by $175\\%$' as a growth factor of $1.75$ rather than $2.75$. An increase by $175\\%$ means the new amount is $275\\%$ of the previous amount, corresponding to a factor of $2.75$.",
+  "source": "https://cooksat.com/practice?questionId=53e23955&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

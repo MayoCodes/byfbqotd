@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "54728c59",
+  "capturedAt": "2026-11-09T21:09:48.684Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=ax3+bx, where a and b are constants. If f(2)=16 and f(3)=54, what is the value of a?",
+  "choices": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since $f(x)=ax^3+bx$, we have $f(2)=8a+2b=16$ and $f(3)=27a+3b=54$. Simplifying the first equation by dividing by 2 gives $4a+b=8$. Simplifying the second by dividing by 3 gives $9a+b=18$. Subtracting the first from the second: $(9a+b)-(4a+b)=18-8$, which gives $5a=10$, so $a=2$.\n\nWhy D is incorrect:\n\nThis results from confusing the coefficient $4$ in the simplified equation $4a+b=8$ with the value of $a$ itself.",
+  "source": "https://cooksat.com/practice?questionId=54728c59&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
