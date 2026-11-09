@@ -13,3 +13,8 @@
 
 @media(min-width:761px){.practice-sidebar{max-height:calc(100svh - 44px);overflow-y:auto;scrollbar-width:thin;scrollbar-color:#d9cebe transparent}}
 .feedback .text-button{margin-top:14px}
+
+/* Equation widths stay within the question card on phones and laptops. */
+.katex{font-size:1.08em;white-space:normal}.katex-display{margin:18px 0;max-width:100%;overflow-x:auto;overflow-y:hidden;padding:6px 2px;white-space:normal}.katex-display>.katex{white-space:nowrap}.passage .katex,.choice-text .katex,.feedback .katex{color:inherit}.choice-text{min-width:0;width:100%}.choice-text>.katex-display{margin:4px 0}.feedback .katex-error{overflow-wrap:anywhere}.question-detail .katex-mathml{white-space:normal}
+
+.question-detail[data-subject="math"] .prompt{font-family:'DM Sans',sans-serif;font-size:16px;font-weight:400;line-height:1.9;letter-spacing:0}.question-detail[data-subject="math"] .choice{font-size:15px}

@@ -12,12 +12,16 @@ bank=mergeCaptures(bank,captures);
 fs.mkdirSync(output,{recursive:true});
 fs.copyFileSync(path.join(__dirname,'index.html'),path.join(output,'index.html'));
 fs.cpSync(path.join(__dirname,'assets'),path.join(output,'assets'),{recursive:true});
+const mathAssets=path.join(output,'assets/katex');
+fs.mkdirSync(mathAssets,{recursive:true});
+fs.copyFileSync(require.resolve('katex/dist/katex.min.css'),path.join(mathAssets,'katex.min.css'));
+fs.cpSync(path.join(path.dirname(require.resolve('katex/dist/katex.min.css')),'fonts'),path.join(mathAssets,'fonts'),{recursive:true});
 // One content-addressed module includes its dependencies, so a cached module cannot
 // ask the new page for controls that existed only in an earlier layout.
 const bundle=await require('esbuild').build({entryPoints:[path.join(__dirname,'assets/question-bank.js')],bundle:true,minify:true,format:'esm',entryNames:'question-bank-[hash]',outdir:path.join(output,'assets'),metafile:true});
 const entry=Object.entries(bundle.metafile.outputs).find(([,info])=>info.entryPoint)[0];
 let html=fs.readFileSync(path.join(__dirname,'question-bank.html'),'utf8').replace('/assets/question-bank.js','/assets/'+path.basename(entry));
-for(const name of ['heroui.css','question-bank.css']){
+for(const name of ['heroui.css','question-bank.css','katex/katex.min.css']){
   const bytes=fs.readFileSync(path.join(output,'assets',name));
   const hash=require('node:crypto').createHash('sha256').update(bytes).digest('hex').slice(0,12);
   const versioned=name.replace('.css','-'+hash+'.css');

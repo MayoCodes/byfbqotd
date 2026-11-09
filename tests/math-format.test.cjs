@@ -1,0 +1,8 @@
+const {test}=require('node:test');
+const assert=require('node:assert/strict');
+const format=()=>import('../assets/math-format.js');
+test('inline fractions and exponents preserve mathematical structure',async()=>{const {formatMathText}=await format();const html=formatMathText(String.raw`The function $g(x)=\frac{a}{b}(x-2)^2+c$.`);assert.match(html,/class="katex"/);assert.match(html,/<mfrac>/);assert.match(html,/<msup>/);assert.match(html,/The function/);});
+test('display equations are distinguished from inline equations',async()=>{const {formatMathText}=await format();assert.match(formatMathText('$$x=3$$'),/katex-display/);assert.doesNotMatch(formatMathText('$x=3$'),/katex-display/);assert.match(formatMathText(String.raw`\[x=3\]`),/katex-display/);});
+test('unsafe HTML and TeX commands cannot insert scripts or links',async()=>{const {formatMathText}=await format();const html=formatMathText(String.raw`<script>alert(1)</script> $\href{javascript:alert(1)}{x}$`);assert.doesNotMatch(html,/<script|<a\s|href="javascript/i);assert.match(html,/&lt;script&gt;/);});
+test('malformed math remains readable instead of crashing the question',async()=>{const {formatMathText}=await format();assert.doesNotThrow(()=>formatMathText('$\\frac{$'));assert.match(formatMathText('$\\frac{$'),/katex-error/);});
+test('ordinary currency remains plain text',async()=>{const {formatMathText}=await format();assert.equal(formatMathText('A ticket costs $5 and lunch costs $10.'),'A ticket costs $5 and lunch costs $10.');assert.equal(formatMathText(String.raw`A ticket costs \$5.`),'A ticket costs $5.');});

@@ -73,3 +73,7 @@ When a batch is finished:
 Create a new deployment from `main`; redeploying an older deployment can rebuild its older commit and omit newer questions. The existing deployment limit must reset before another manual deployment can succeed.
 
 This setting applies to Vercel. Cloudflare's connected build trigger is managed separately in its dashboard.
+
+## Math question formatting
+
+The question bank bundles KaTeX and its fonts locally during the build. Captured inline/display TeX is rendered in questions, choices, and explanations; native MathML is converted by Friprep Capture 2.2.0. Diagrams and graphs still use the captured image assets. No external rendering service, API key, or runtime CDN request is required. Upload math captures normally and create a manual deployment from `main` when ready.
