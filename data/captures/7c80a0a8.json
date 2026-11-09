@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7c80a0a8",
+  "capturedAt": "2026-11-09T21:12:05.703Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "M(t)=2,000(45​)25t​",
+  "choices": {
+    "A": "24",
+    "B": "30",
+    "C": "120",
+    "D": "150"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the number of cells increases by $25\\%$ every $k$ minutes. An increase of $25\\%$ corresponds to multiplying by $1.25$, or $\\frac{5}{4}$. The base of the given exponential function is $\\frac{5}{4}$, which means the number of cells is multiplied by $\\frac{5}{4}$ for every increase of $1$ in the exponent $\\frac{5t}{2}$. When the exponent equals $1$, $\\frac{5t}{2} = 1$. Multiplying both sides by $\\frac{2}{5}$ yields $t = \\frac{2}{5}$. Therefore, the number of cells is estimated to increase by $25\\%$ every $\\frac{2}{5}$ of an hour. Since there are $60$ minutes in one hour, $\\frac{2}{5}$ of an hour is equivalent to $\\left(\\frac{2}{5}\\right)(60) = 24$ minutes. Therefore, the value of $k$ is $24$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This value does not correspond to the time interval over which the function multiplies by $\\frac{5}{4}$ and may result from an arithmetic error when converting $\\frac{2}{5}$ of an hour to minutes.",
+  "source": "https://cooksat.com/practice?questionId=7c80a0a8&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

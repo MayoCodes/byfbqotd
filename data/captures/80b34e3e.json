@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "80b34e3e",
+  "capturedAt": "2026-11-09T21:12:22.495Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "h(x)=(x−2)(x+4)(x−5)",
+  "choices": {},
+  "correctAnswer": "47",
+  "explanation": "The correct answer is $47$. Since the graph of $h$ is shifted up $7$ units to produce the graph of $g$, function $g$ can be defined by $g(x) = h(x) + 7$. Substituting $(x - 2)(x + 4)(x - 5)$ for $h(x)$ yields $g(x) = (x - 2)(x + 4)(x - 5) + 7$. For the point $(6, c)$, the value of $x$ is $6$. Substituting $6$ for $x$ gives $g(6) = (6 - 2)(6 + 4)(6 - 5) + 7$, which simplifies to $g(6) = (4)(10)(1) + 7 = 40 + 7 = 47$. Therefore, the value of $c$ is $47$.",
+  "source": "https://cooksat.com/practice?questionId=80b34e3e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

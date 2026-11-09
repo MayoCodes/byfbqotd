@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "80ed479f",
+  "capturedAt": "2026-11-09T21:12:25.813Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A patient is given an initial dose of 48 milligrams of a medication. The function g estimates that each hour after the dose is administered, the amount of medication remaining in the patient's bloodstream is 70% of the amount remaining at the end of the previous hour. Which equation defines g, where g(n) is the estimated amount of medication, in milligrams, remaining in the patient's bloodstream n hours after the dose is administered and n is a whole number greater than 1 and less than 12?",
+  "choices": {
+    "A": "g(n)=48(0.48)n",
+    "B": "g(n)=48(0.70)n",
+    "C": "g(n)=70(0.48)n",
+    "D": "g(n)=70(0.70)n"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The function $g$ is a decreasing exponential function of the form $g(n) = a\\left(\\frac{p}{100}\\right)^{n}$, where $a$ is the initial amount of medication, in milligrams, and $p\\%$ is the percent of the previous hour's amount that remains after each hour. It's given that the initial dose is $48$ milligrams, so $a = 48$. Since each hour the amount remaining is $70\\%$ of the previous hour's amount, $p = 70$. Substituting $48$ for $a$ and $70$ for $p$ yields $g(n) = 48\\left(\\frac{70}{100}\\right)^{n}$, or $g(n) = 48(0.70)^{n}$.",
+  "source": "https://cooksat.com/practice?questionId=80ed479f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7ed2fd73",
+  "capturedAt": "2026-11-09T21:12:12.252Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Intercept from Graph",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The graph of the polynomial function g, where y=g(x), is shown. The y-intercept of the graph is (0,y). What is the value of y?",
+  "choices": {},
+  "correctAnswer": "3",
+  "explanation": "The correct answer is $3$. The $y$-intercept of a graph in the xy-plane is the point where the graph crosses the $y$-axis. The graph of the polynomial function shown crosses the $y$-axis at the point $(0, 3)$. It's given that the $y$-intercept of the graph is $(0, y)$. Thus, the value of $y$ is $3$.",
+  "source": "https://cooksat.com/practice?questionId=7ed2fd73&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7ed2fd73/1-f4a5609df46c222b.png"
+    }
+  ]
+}

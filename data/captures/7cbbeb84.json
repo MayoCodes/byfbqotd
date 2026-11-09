@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7cbbeb84",
+  "capturedAt": "2026-11-09T21:12:09.290Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the exponential function g, the value of g(0) is p, where p is a constant. Of the following equations that define the function g, which equation shows the value of p as the coefficient or the base?",
+  "choices": {
+    "A": "g(x)=20(2)x+1",
+    "B": "g(x)=40(2)x",
+    "C": "g(x)=80(2)x−1",
+    "D": "g(x)=160(2)x−2"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Each of the given choices has the form $g(x) = a(b)^{x-k}$, where $a$, $b$, and $k$ are constants. In this form, the coefficient $a$ equals the value of the function when the exponent is $0$, that is, when $x = k$. In the equation $g(x) = 40(2)^{x}$, the exponent equals $0$ when $x = 0$, so substituting $0$ for $x$ gives $g(0) = 40(2)^{0} = 40(1) = 40$. Thus, the value of $p$ is $40$, and this equation shows the value of $p$ as the coefficient.",
+  "source": "https://cooksat.com/practice?questionId=7cbbeb84&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
