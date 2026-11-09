@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "da0aa760",
+  "capturedAt": "2026-11-09T21:17:16.112Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g is defined by g(x)=(−9)(5)x+47. What is the y-intercept of the graph of y=g(x) in the xy-plane?",
+  "choices": {
+    "A": "(0,−9)",
+    "B": "(0,5)",
+    "C": "(0,38)",
+    "D": "(0,47)"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The $y$-intercept of a graph in the $xy$-plane is the point where the graph crosses the $y$-axis, which occurs when $x = 0$. Substituting $0$ for $x$ in the given equation yields $g(0) = (-9)(5)^{0} + 47$. Since $(5)^{0} = 1$, this is equivalent to $g(0) = (-9)(1) + 47 = -9 + 47 = 38$. Therefore, the $y$-intercept of the graph of $y = g(x)$ is $(0, 38)$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from ignoring the term $(-9)(5)^{x}$ and identifying only the constant term $47$ as the $y$-coordinate of the $y$-intercept.",
+  "source": "https://cooksat.com/practice?questionId=da0aa760&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

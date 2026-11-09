@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d8492f1f",
+  "capturedAt": "2026-11-09T21:17:09.852Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "y=−21​x2+3x+42",
+  "choices": {
+    "A": "At the end of March 2015, the estimated number of customer visits was 0.",
+    "B": "At the end of March 2015, the estimated number of customer visits was 42.",
+    "C": "At the end of April 2015, the estimated number of customer visits was 0.",
+    "D": "At the end of April 2015, the estimated number of customer visits was 42."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The y-intercept of a graph in the xy-plane is the point where $x = 0$. Substituting $0$ for $x$ in the given equation yields $y = -\\frac{1}{2}(0)^{2} + 3(0) + 42$, or $y = 42$. Therefore, the y-intercept of the graph is $(0, 42)$. It's given that $y$ is the estimated number of customer visits $x$ weeks after the end of March $2015$. Therefore, $x = 0$ represents $0$ weeks after the end of March $2015$, or the end of March $2015$. Thus, the best interpretation of the y-intercept of the graph of this equation in the xy-plane is that at the end of March $2015$, the estimated number of customer visits was $42$.",
+  "source": "https://cooksat.com/practice?questionId=d8492f1f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

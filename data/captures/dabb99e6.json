@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "dabb99e6",
+  "capturedAt": "2026-11-09T21:17:22.262Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function h is defined by h(x)=x2+14. For which value of x is h(x)=63?",
+  "choices": {
+    "A": "5",
+    "B": "7",
+    "C": "14",
+    "D": "49"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $h(x) = x^{2} + 14$. Substituting $63$ for $h(x)$ in this equation yields $63 = x^{2} + 14$. Subtracting $14$ from both sides of this equation yields $49 = x^{2}$. Taking the square root of each side of this equation yields $x = \\pm 7$. It follows that $h(x) = 63$ when the value of $x$ is $7$ or $-7$. Only $7$ is listed among the choices.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from conceptual or calculation errors.",
+  "source": "https://cooksat.com/practice?questionId=dabb99e6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
