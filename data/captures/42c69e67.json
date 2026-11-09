@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "42c69e67",
+  "capturedAt": "2026-11-09T21:08:34.915Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A sum of $7,500 was invested in a savings bond that earns interest, and no other deposits or withdrawals were made afterward. The function g(x)=7,500(1+0.03)x gives the value of the bond, in dollars, x years after the investment was initially made, where x≤8. Which of the following is the best interpretation of the statement \"g(4) is approximately equal to 8,441.32\" in this context?",
+  "choices": {
+    "A": "The value of the bond would be approximately $8,441.32 if invested at 3% interest.",
+    "B": "8,441.32 months after the investment was made, the value of the bond was approximately 4 times its initial value.",
+    "C": "4 years after the investment was made, the value of the bond was approximately $8,441.32 greater than its initial value.",
+    "D": "4 years after the investment was made, the value of the bond was approximately $8,441.32."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The function $g(x) = 7{,}500(1 + 0.03)^{x}$ gives the value of the bond, in dollars, $x$ years after the investment was initially made. The value of $g(4)$ is the value of $g(x)$ when $x = 4$. Therefore, \"$g(4)$ is approximately equal to $8{,}441.32$\" means that when $x = 4$, the value of $g(x)$ is approximately $8{,}441.32$. Since $x$ represents the number of years after the investment was made, $x = 4$ corresponds to $4$ years after the investment was made. Thus, the best interpretation is that $4$ years after the investment was made, the value of the bond was approximately $$8{,}441.32$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from interpreting $8{,}441.32$ as the increase in value rather than the total value. Since the initial investment was $$7{,}500$, the bond increased by approximately $$941.32$ after $4$ years (the difference between $8{,}441.32$ and $7{,}500$), not by $$8{,}441.32$.",
+  "source": "https://cooksat.com/practice?questionId=42c69e67&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

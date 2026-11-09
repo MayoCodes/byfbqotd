@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3ef8fd00",
+  "capturedAt": "2026-11-09T21:08:15.484Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2+5. What is the value of f(3)?",
+  "choices": {
+    "A": "8",
+    "B": "11",
+    "C": "14",
+    "D": "32"
+  },
+  "correctAnswer": "C",
+  "explanation": "It's given that $f(x)=x^2+5$. Substituting $3$ for $x$ yields $f(3)=3^2+5=9+5=14$.\n\nWhy A is incorrect:\n\nThis results from adding $3+5=8$ without squaring $3$ first.",
+  "source": "https://cooksat.com/practice?questionId=3ef8fd00&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

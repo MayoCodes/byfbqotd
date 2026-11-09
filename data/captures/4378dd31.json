@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4378dd31",
+  "capturedAt": "2026-11-09T21:08:37.855Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=51​(x−13)2+7. What is the minimum value of f(x)?",
+  "choices": {
+    "A": "−7",
+    "B": "7",
+    "C": "13",
+    "D": "20"
+  },
+  "correctAnswer": "B",
+  "explanation": "The function $f(x) = \\frac{1}{5}(x-13)^2 + 7$ is in vertex form $f(x) = a(x-h)^2 + k$ where $a = \\frac{1}{5} > 0$, $h = 13$, and $k = 7$. Since $a > 0$, the parabola opens upward and has a minimum value at the vertex. The minimum value is $k = 7$, occurring when $x = 13$.\n\nWhy D is incorrect:\n\nResults from adding the vertex coordinates: $h + k = 13 + 7 = 20$, rather than recognizing that the minimum value is just the $k$-coordinate.",
+  "source": "https://cooksat.com/practice?questionId=4378dd31&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

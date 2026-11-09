@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "41b2f0b0",
+  "capturedAt": "2026-11-09T21:08:27.179Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "When a short video was first posted to a social media feed, it had 25 views. An exponential model estimates that at the end of each hour after the video was first posted, the number of views on the video had increased by 240% of the number of views on the video at the end of the previous hour. Which of the following equations best represents this model, where V is the estimated number of views on the video t hours after the video was first posted and t≤5?",
+  "choices": {
+    "A": "V=25(1.24)t",
+    "B": "V=25(2.4)t",
+    "C": "V=25(3.4)t",
+    "D": "V=25(24)t"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that an exponential model estimates that the number of views on a video increased by a fixed percentage at the end of each hour. Therefore, the model can be represented by an exponential equation of the form $V = K a^{t}$, where $V$ is the estimated number of views on the video $t$ hours after the video was first posted and $K$ and $a$ are constants. It's also given that when the video was first posted, it had 25 views. This means that when $t = 0$, $V = 25$. Substituting $0$ for $t$ and $25$ for $V$ in the equation $V = K a^{t}$ yields $25 = K a^{0}$, or $25 = K$. It's also given that the number of views on the video at the end of each hour had increased by 240% of the number of views on the video at the end of the previous hour. Multiplying the percent increase by the number of views at the end of the previous hour yields the estimated number of additional views: $\\left(25\\right)\\left(\\frac{240}{100}\\right)$, or 60 views. Thus, the estimated number of views for the following hour is the sum of the views from the end of the previous hour and the number of additional views, which is $25 + 60$, or 85. This means that when $t = 1$, $V = 85$. Substituting $1$ for $t$, $85$ for $V$, and $25$ for $K$ in the equation $V = K a^{t}$ yields $85 = 25 a^{1}$, or $85 = 25 a$. Dividing both sides of this equation by $25$ yields $3.4 = a$. Substituting $25$ for $K$ and $3.4$ for $a$ in the equation $V = K a^{t}$ yields $V = 25\\left(3.4\\right)^{t}$. Thus, the equation that best represents this model is $V = 25(3.4)^{t}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This model represents a situation where the number of views at the end of each hour increased by 24% of the number of views at the end of the previous hour, rather than 240%.",
+  "source": "https://cooksat.com/practice?questionId=41b2f0b0&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

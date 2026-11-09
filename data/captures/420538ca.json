@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "420538ca",
+  "capturedAt": "2026-11-09T21:08:30.861Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A quadratic function models the height, in feet, of a projectile above the ground in terms of the time, in seconds, after the projectile is launched from a platform. The model indicates the projectile has an initial height of 6 feet above the ground and reaches its maximum height of 406 feet above the ground 5 seconds after being launched. Based on the model, what is the height, in feet, of the projectile above the ground 8 seconds after being launched?",
+  "choices": {
+    "A": "118",
+    "B": "262",
+    "C": "358",
+    "D": "390"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. A quadratic function modeling the height can be written in vertex form $g(x) = a(x-h)^{2} + k$, where $g(x)$ is the height, in feet, of the projectile $x$ seconds after launch, and the function reaches its maximum value $k$ when $x = h$. Since the projectile reaches its maximum height of $406$ feet $5$ seconds after being launched, $h = 5$ and $k = 406$. Substituting these values yields $g(x) = a(x-5)^{2} + 406$. Since the initial height is $6$ feet, $g(0) = 6$. Substituting $0$ for $x$ and $6$ for $g(x)$ gives $6 = a(0-5)^{2} + 406$, or $6 = 25a + 406$. Subtracting $406$ from both sides yields $25a = -400$, so $a = -16$. Therefore, the model can be represented by $g(x) = -16(x-5)^{2} + 406$. Substituting $x = 8$ gives $g(8) = -16(8-5)^{2} + 406 = -16(9) + 406 = -144 + 406 = 262$. Thus, $8$ seconds after being launched, the height of the projectile above the ground is $262$ feet.",
+  "source": "https://cooksat.com/practice?questionId=420538ca&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
