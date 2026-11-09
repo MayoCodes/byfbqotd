@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9930c60d",
+  "capturedAt": "2026-11-09T21:13:30.487Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(x)=ax2+5x+c",
+  "choices": {
+    "A": "I only",
+    "B": "II only",
+    "C": "I and II",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since $g(-8)=g(3)$, the axis of symmetry is at $x=\\frac{-8+3}{2}=-\\frac{5}{2}$, so $h=-\\frac{5}{2}$. In vertex form, $g(x)=a\\left(x+\\frac{5}{2}\\right)^{2}+k=ax^{2}+5ax+\\frac{25a}{4}+k$. Comparing to $g(x)=ax^{2}+5x+c$: the coefficient of $x$ gives $5a=5$, so $a=1$. Since $1<2$, statement II is false. The constant term gives $c=\\frac{25}{4}+k=6.25+k$. Since $k<0$, we have $c<6.25$, but $c$ could still be positive (for example, if $k=-3$, then $c=3.25$). Therefore, statement I is not necessarily true. Neither statement must be true.",
+  "source": "https://cooksat.com/practice?questionId=9930c60d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

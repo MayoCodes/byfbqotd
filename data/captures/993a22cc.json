@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "993a22cc",
+  "capturedAt": "2026-11-09T21:13:34.935Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A quadratic function f is defined by f(x)=a(x−3)2+12, where a is a constant. The graph of y=f(x) in the xy-plane has an x-intercept at (6,0). What is the value of a?",
+  "choices": {
+    "A": "−34​",
+    "B": "−43​",
+    "C": "43​",
+    "D": "34​"
+  },
+  "correctAnswer": "A",
+  "explanation": "Since the graph has an $x$-intercept at $(6,0)$, substituting these coordinates into the function gives $0 = a(6-3)^2 + 12$. This simplifies to $0 = a(3)^2 + 12$, or $0 = 9a + 12$. Solving for $a$ gives $9a = -12$, so $a = -\\frac{12}{9} = -\\frac{4}{3}$.\n\nWhy B is incorrect:\n\nThis results from incorrectly inverting the fraction, computing $a = -\\frac{9}{12}$ instead of $-\\frac{12}{9}$.",
+  "source": "https://cooksat.com/practice?questionId=993a22cc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

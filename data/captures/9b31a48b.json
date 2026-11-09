@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9b31a48b",
+  "capturedAt": "2026-11-09T21:13:52.351Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A scientist models the efficiency of a biological process using the function f(x)=−2x2+kx+5, where x represents temperature in degrees Celsius, f(x) represents efficiency (in percent), and k is a positive constant. The model shows that the process has the same efficiency at temperatures of 3°C and 7°C. What is the value of k?",
+  "choices": {
+    "A": "10",
+    "B": "15",
+    "C": "20",
+    "D": "25"
+  },
+  "correctAnswer": "C",
+  "explanation": "Since $f(3) = f(7)$, the temperatures $3$ and $7$ are symmetric about the axis of symmetry of the parabola. The axis of symmetry is at $x = \\frac{3+7}{2} = 5$. For a quadratic function $f(x) = ax^2 + bx + c$, the axis of symmetry is at $x = -\\frac{b}{2a}$. Here, $-\\frac{k}{2(-2)} = 5$, which simplifies to $\\frac{k}{4} = 5$, giving $k = 20$.",
+  "source": "https://cooksat.com/practice?questionId=9b31a48b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
