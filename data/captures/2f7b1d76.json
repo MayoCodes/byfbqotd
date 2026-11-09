@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2f7b1d76",
+  "capturedAt": "2026-11-09T21:06:51.584Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function h is defined by h(x)=x3+85. What is the value of h(x) when x=3?",
+  "choices": {
+    "A": "85",
+    "B": "91",
+    "C": "94",
+    "D": "112"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Substituting $3$ for $x$ in the given equation yields $h(3) = 3^{3} + 85$, which is equivalent to $h(3) = 27 + 85$, or $h(3) = 112$. Therefore, the value of $h(x)$ when $x = 3$ is $112$.",
+  "source": "https://cooksat.com/practice?questionId=2f7b1d76&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

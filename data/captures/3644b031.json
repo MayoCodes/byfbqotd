@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3644b031",
+  "capturedAt": "2026-11-09T21:07:23.228Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular garden plot has an area of 192 square meters. If the length of the plot is three times the width, what is the width of the plot, in meters?",
+  "choices": {
+    "A": "8",
+    "B": "24",
+    "C": "48",
+    "D": "64"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The area of a rectangle is $A = l w$, where $l$ is the length and $w$ is the width. Since the length is three times the width, $l = 3w$. Substituting into the area formula gives $192 = 3w \\cdot w$, or $192 = 3w^{2}$. Dividing both sides by $3$ yields $64 = w^{2}$. Taking the square root of both sides gives $w = \\pm 8$. Since the width of a rectangle must be positive, the width of the plot is $8$ meters.\n\nWhy D is incorrect:\n\nChoice D is incorrect and results from stopping at $w^{2} = 64$ and reporting $64$ as the width instead of taking the square root to find $w = 8$.",
+  "source": "https://cooksat.com/practice?questionId=3644b031&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

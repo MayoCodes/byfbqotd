@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3481d2da",
+  "capturedAt": "2026-11-09T21:07:17.517Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Priya purchased a rare vintage stamp on March 1. The function g(x)=120(1.04)x, where 0≤x≤12, gives the predicted value, in dollars, of the vintage stamp x years after Priya purchased it. What is the best interpretation of the statement \"g(6) is approximately equal to 152\" in this context?",
+  "choices": {
+    "A": "When the vintage stamp's predicted value is approximately 152 dollars, it is 6% greater than the predicted value, in dollars, on March 1 of the previous year.",
+    "B": "When the vintage stamp's predicted value is approximately 152 dollars, it is 6 times the predicted value, in dollars, on March 1 of the previous year.",
+    "C": "From the day Priya purchased the vintage stamp to 6 years after Priya purchased the stamp, its predicted value increased by a total of approximately 152 dollars.",
+    "D": "6 years after Priya purchased the vintage stamp, its predicted value is approximately 152 dollars."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the function $g(x) = 120(1.04)^{x}$ gives the predicted value, in dollars, of a rare vintage stamp $x$ years after Priya purchased it. It follows that $g(x)$ represents the predicted value, in dollars, of the stamp $x$ years after Priya purchased it. Since the value of $g(6)$ is the value of $g(x)$ when $x = 6$, the statement \"$g(6)$ is approximately equal to $152$\" means that $g(x)$ is approximately equal to $152$ when $x = 6$. Therefore, the best interpretation is that $6$ years after Priya purchased the vintage stamp, its predicted value is approximately $152$ dollars.",
+  "source": "https://cooksat.com/practice?questionId=3481d2da&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

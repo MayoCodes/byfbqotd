@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "33ebbc5c",
+  "capturedAt": "2026-11-09T21:07:14.208Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The table shows values of x and corresponding values of f(x) and g(x). For what value of x does f(x)=g(x)?",
+  "choices": {
+    "A": "−1",
+    "B": "0",
+    "C": "1",
+    "D": "2"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. From the table, when $x=0$, $f(0)=3$ and $g(0)=3$. Since $f(0)=g(0)=3$, the value of $x$ for which $f(x)=g(x)$ is $0$.",
+  "source": "https://cooksat.com/practice?questionId=33ebbc5c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/33ebbc5c/1-425b1e9fe99bdc50.png"
+    }
+  ]
+}
