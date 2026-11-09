@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "df67374e",
+  "capturedAt": "2026-11-09T21:17:35.539Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The number of fish in a certain lake is modeled by a function that increases exponentially over time. Which of the following could describe how the number of fish in the lake changes each week?",
+  "choices": {
+    "A": "Each week, the number of fish in the lake is 450 less than it was the previous week.",
+    "B": "Each week, the number of fish in the lake is 450 greater than it was the previous week.",
+    "C": "Each week, the number of fish in the lake is 8% less than it was the previous week.",
+    "D": "Each week, the number of fish in the lake is 8% greater than it was the previous week."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. An exponential function can be written in the form $f(t) = a \\cdot b^{t}$, where $a$ is the initial value and $b$ is the growth factor. For a quantity that increases exponentially, the value is multiplied by a constant factor greater than $1$ each time period. If each week the number of fish is $8\\%$ greater than it was the previous week, then the population is multiplied by $1 + 0.08 = 1.08$ each week, which represents exponential growth. Therefore, this choice correctly describes how the number of fish changes in a population modeled by a function that increases exponentially over time.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This choice describes a situation in which a constant amount ($450$) is added to the population each week. This represents linear growth, not exponential growth. In exponential growth, the population changes by a constant multiplicative factor (such as increasing by a fixed percentage), not by a constant additive amount.",
+  "source": "https://cooksat.com/practice?questionId=df67374e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

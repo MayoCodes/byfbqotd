@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e0f3f102",
+  "capturedAt": "2026-11-09T21:17:38.675Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A charity auction app awards 800 bid credits to a user who places the first bid within the first 4 hours after an item is listed. For every 4 hours after an item is listed, the number of bid credits awarded to the first bidder decreases by 15% of the number of bid credits that would have been awarded during the previous 4-hour period. Which function gives the number of bid credits awarded to the first bidder t hours after an item is listed, where t is a multiple of 4?",
+  "choices": {
+    "A": "g(t)=800(0.15)4t",
+    "B": "g(t)=800(0.15)4t​",
+    "C": "g(t)=800(0.85)4t",
+    "D": "g(t)=800(0.85)4t​"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Because the number of bid credits decreases by a fixed percentage, $15\\%$, every $4$ hours, the situation is modeled by an exponential decay function of the form $g(t) = a(1 - \\frac{p}{100})^{n}$, where $a$ is the initial value, $p$ is the percent decrease per interval, and $n$ is the number of intervals. Here $a = 800$, and the base is $1 - \\frac{15}{100} = 0.85$. Since $t$ is measured in hours and the decay occurs every $4$ hours, the number of $4$-hour intervals is $\\frac{t}{4}$. Substituting these values yields $g(t) = 800(0.85)^{\\frac{t}{4}}$. This can be verified: when $t = 0$, $g(0) = 800(0.85)^{0} = 800$; when $t = 4$, $g(4) = 800(0.85)^{1} = 680$, which is $85\\%$ of $800$; when $t = 8$, $g(8) = 800(0.85)^{2} = 578$, which is $85\\%$ of $680$.",
+  "source": "https://cooksat.com/practice?questionId=e0f3f102&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
