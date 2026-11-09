@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "672c7ff6",
+  "capturedAt": "2026-11-09T21:10:45.967Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph shows the height above ground, in meters, of a toy rocket t seconds after it was launched upward from a rooftop. Which statement is the best interpretation of the marked point (1.2,6.4) in this context?",
+  "choices": {
+    "A": "The rocket was launched from an initial height of 1.2 meters with an initial velocity of 6.4 meters per second.",
+    "B": "The rocket was launched from an initial height of 6.4 meters with an initial velocity of 1.2 meters per second.",
+    "C": "1.2 seconds after being launched, the rocket's height above ground is 6.4 meters.",
+    "D": "6.4 seconds after being launched, the rocket's height above ground is 1.2 meters."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The graph shows the height above ground, in meters, of a toy rocket $t$ seconds after it was launched upward from a rooftop. The horizontal axis represents time, in seconds, and the vertical axis represents the rocket's height above ground, in meters. For the marked point $\\left(1.2, 6.4\\right)$, the $x$-coordinate $1.2$ represents the time, in seconds, after the rocket was launched, and the $y$-coordinate $6.4$ represents the rocket's height above ground, in meters. Therefore, the best interpretation of the marked point $\\left(1.2, 6.4\\right)$ is that $1.2$ seconds after being launched, the rocket's height above ground is $6.4$ meters.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from confusing the marked point with the initial launch conditions and also reversing the coordinates. The point $\\left(1.2, 6.4\\right)$ represents the rocket's position at a specific time, not the initial height or velocity.",
+  "source": "https://cooksat.com/practice?questionId=672c7ff6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/672c7ff6/1-dc92caddf6335e66.png"
+    }
+  ]
+}

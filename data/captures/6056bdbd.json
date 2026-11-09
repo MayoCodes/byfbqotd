@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6056bdbd",
+  "capturedAt": "2026-11-09T21:10:27.303Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A chess tournament has 320 players and consists of 5 rounds of matches. In round 1, each player plays a match against another player. At the end of each round, the player who loses is eliminated and the player who wins advances to play another winning player in the next round. Which equation gives the number of players, n, eliminated at the end of round k, where k≤5?",
+  "choices": {
+    "A": "n=10(21​)k",
+    "B": "n=10(2)k",
+    "C": "n=320(21​)k",
+    "D": "n=320(2)k"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. In round $1$, $320$ players compete in $160$ matches, so $160$ players are eliminated. In round $2$, the remaining $160$ players compete in $80$ matches, eliminating $80$ players. Each subsequent round eliminates half as many players as the previous round: round $1$: $160$, round $2$: $80$, round $3$: $40$, round $4$: $20$, round $5$: $10$. This is an exponential decay pattern where each term is half the previous term. The general form is $n = 160\\left(\\frac{1}{2}\\right)^{k-1}$, which can be rewritten as $n = 160 \\cdot 2 \\cdot \\left(\\frac{1}{2}\\right)^{k} = 320\\left(\\frac{1}{2}\\right)^{k}$. Therefore, the equation $n = 320\\left(\\frac{1}{2}\\right)^{k}$ correctly gives the number of players eliminated at the end of round $k$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from using the number of players eliminated in the final round ($10$) as the coefficient instead of the initial number of players ($320$).",
+  "source": "https://cooksat.com/practice?questionId=6056bdbd&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
