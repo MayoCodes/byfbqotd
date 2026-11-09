@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4bd44fe5",
+  "capturedAt": "2026-11-09T21:08:54.248Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2−3x. What is the value of f(5)?",
+  "choices": {
+    "A": "−10",
+    "B": "10",
+    "C": "20",
+    "D": "40"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substituting $5$ for $x$ in the equation $f(x) = x^2 - 3x$ yields $f(5) = 5^2 - 3(5) = 25 - 15 = 10$.\n\nWhy A is incorrect:\n\nThis results from calculating $3(5) - 5^2 = 15 - 25 = -10$, reversing the order of the subtraction.",
+  "source": "https://cooksat.com/practice?questionId=4bd44fe5&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

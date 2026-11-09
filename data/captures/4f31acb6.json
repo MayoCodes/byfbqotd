@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4f31acb6",
+  "capturedAt": "2026-11-09T21:09:13.444Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An exponential model for the number of rabbits in a nature reserve estimates that there were 350 rabbits in the reserve in the year 2008, and that at the end of each 5-year period for the next 25 years, the number of rabbits in the reserve was 80% more than the number at the end of the previous 5-year period. Which of the following equations represents this model, where M is the estimated number of rabbits in the reserve t years after 2008, and 0≤t≤25?",
+  "choices": {
+    "A": "M=350(0.80)5t",
+    "B": "M=350(0.80)5t​",
+    "C": "M=350(1.80)5t",
+    "D": "M=350(1.80)5t​"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since the number of rabbits increases by a fixed percentage every $5$ years, this relationship is exponential. An exponential growth model can be written in the form $M = M_{0}(b)^{\\frac{t}{p}}$, where $M_{0}$ is the initial value when $t = 0$, $b$ is the growth factor per period, $p$ is the length of each period, and $t$ is the time elapsed. It's given that there were $350$ rabbits in $2008$, which corresponds to $t = 0$, so $M_{0} = 350$. The period length is $5$ years, so $p = 5$. It's given that at the end of each $5$-year period, the number of rabbits is $80\\%$ more than the number at the end of the previous $5$-year period. An increase of $80\\%$ means the new amount is the original amount plus $80\\%$ of the original amount, which equals $100\\% + 80\\% = 180\\%$ of the original amount. This is equivalent to a growth factor of $\\frac{180}{100} = 1.80$, so $b = 1.80$. Substituting these values into $M = M_{0}(b)^{\\frac{t}{p}}$ yields $M = 350(1.80)^{\\frac{t}{5}}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from two errors: misinterpreting '$80\\%$ more than' as '$80\\%$ of' (using $0.80$ instead of $1.80$) and using $5t$ as the exponent instead of $\\frac{t}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=4f31acb6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
