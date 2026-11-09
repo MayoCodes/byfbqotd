@@ -77,3 +77,7 @@ This setting applies to Vercel. Cloudflare's connected build trigger is managed 
 ## Math question formatting
 
 The question bank bundles KaTeX and its fonts locally during the build. Captured inline/display TeX is rendered in questions, choices, and explanations; native MathML is converted by Friprep Capture 2.2.0. Diagrams and graphs still use the captured image assets. No external rendering service, API key, or runtime CDN request is required. Upload math captures normally and create a manual deployment from `main` when ready.
+
+### Professional math typography and diagrams
+
+Math question text uses a textbook serif face. KaTeX supplies the italic variable alphabet, upright operators/numerals, stacked fractions, superscripts/subscripts, radicals, sums, and matrices. Equations remain structured and accessible via MathML. Question figures include a full-size dialog with original-image access and native pan/scroll for large graphs. This viewer displays captured graph images; it does not reconstruct plot data or change the source geometry. Older flattened captures must be refreshed with Capture 2.3.0 to recover their source structure.
