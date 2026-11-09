@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "febd4c9c",
+  "capturedAt": "2026-11-09T21:19:33.440Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2−10x+7. What is the minimum value of f?",
+  "choices": {
+    "A": "−25",
+    "B": "−18",
+    "C": "5",
+    "D": "7"
+  },
+  "correctAnswer": "B",
+  "explanation": "To find the minimum value, complete the square: $f(x)=x^2-10x+7=(x^2-10x+25)-25+7=(x-5)^2-18$. Since $(x-5)^2 \\geq 0$ for all real $x$, the minimum value is $-18$, occurring when $x=5$.\n\nWhy D is incorrect:\n\nThis is the value of $f(0)=7$, which is the constant term. The minimum value occurs at the vertex, not at $x=0$.",
+  "source": "https://cooksat.com/practice?questionId=febd4c9c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

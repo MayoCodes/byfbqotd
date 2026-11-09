@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "fb608a8a",
+  "capturedAt": "2026-11-09T21:19:13.659Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The table shows selected values of the function g. Which of the following defines g(x)?",
+  "choices": {
+    "A": "g(x)=2x",
+    "B": "g(x)=2x",
+    "C": "g(x)=x2",
+    "D": "g(x)=x+2"
+  },
+  "correctAnswer": "B",
+  "explanation": "Testing $g(x) = 2^x$ with each value in the table: $g(-1) = 2^{-1} = \\frac{1}{2}$, $g(0) = 2^0 = 1$, $g(1) = 2^1 = 2$, and $g(2) = 2^2 = 4$. All values match the table.",
+  "source": "https://cooksat.com/practice?questionId=fb608a8a&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/fb608a8a/1-ea3c992f51780e7a.png"
+    }
+  ]
+}

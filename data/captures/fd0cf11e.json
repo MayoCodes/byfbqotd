@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fd0cf11e",
+  "capturedAt": "2026-11-09T21:19:22.072Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the y-intercept of y=−(7)x−56 in the xy-plane?",
+  "choices": {
+    "A": "(0,−63)",
+    "B": "(0,−57)",
+    "C": "(0,−56)",
+    "D": "(0,−55)"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The $y$-intercept of a graph in the $xy$-plane is the point where the graph crosses the $y$-axis, which occurs when $x = 0$. Substituting $0$ for $x$ in the equation $y = -(7)^x - 56$ yields $y = -(7)^{0} - 56 = -1 - 56 = -57$. Therefore, the $y$-intercept is $(0, -57)$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from incorrectly evaluating $-(7)^{0}$ as $-7$ instead of $-1$, which would give $-7 - 56 = -63$.",
+  "source": "https://cooksat.com/practice?questionId=fd0cf11e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

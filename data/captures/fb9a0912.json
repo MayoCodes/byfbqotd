@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fb9a0912",
+  "capturedAt": "2026-11-09T21:19:18.541Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function h is defined by h(x)=x−2a+6​, where a is a constant. If the graph of h passes through the point (4,−2), what is the value of a?",
+  "choices": {
+    "A": "−16",
+    "B": "−10",
+    "C": "−4",
+    "D": "4"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since the graph passes through $(4, -2)$, substitute $x=4$ and $h(4)=-2$ into $h(x) = \\frac{a+6}{x-2}$: $-2 = \\frac{a+6}{4-2} = \\frac{a+6}{2}$. Multiplying both sides by $2$ gives $-4 = a+6$. Subtracting $6$ from both sides yields $a = -10$.\n\nWhy D is incorrect:\n\nResults from making a sign error early in the solution, perhaps interpreting the equation as $2 = \\frac{a+6}{2}$ instead of $-2 = \\frac{a+6}{2}$, leading to $4 = a+6$ and thus $a = -2$, with a final arithmetic slip to $a = 4$.",
+  "source": "https://cooksat.com/practice?questionId=fb9a0912&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
