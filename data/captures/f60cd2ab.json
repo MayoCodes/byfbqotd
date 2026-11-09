@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f60cd2ab",
+  "capturedAt": "2026-11-09T21:18:57.910Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "y=0.5x2−6x+48.5",
+  "choices": {
+    "A": "The estimated temperature of the cooling liquid increased by 2 degrees Celsius every 38.5 hours after the experiment began.",
+    "B": "The estimated temperature of the cooling liquid increased by 38.5 degrees Celsius every 2 hours after the experiment began.",
+    "C": "38.5 hours after the experiment began, the estimated temperature of the cooling liquid is 2 degrees Celsius.",
+    "D": "2 hours after the experiment began, the estimated temperature of the cooling liquid is 38.5 degrees Celsius."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In the given equation, $x$ represents the number of hours after the experiment began, where $0 \\leq x \\leq 15$, and $y$ represents the estimated temperature, in degrees Celsius, of the cooling liquid. Therefore, the best interpretation of $(x, y) = (2, 38.5)$ in this context is that $2$ hours after the experiment began, the estimated temperature of the cooling liquid is $38.5$ degrees Celsius.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from reversing the values in the ordered pair. The point $(2, 38.5)$ indicates that when $x = 2$, $y = 38.5$, not that when $x = 38.5$, $y = 2$.",
+  "source": "https://cooksat.com/practice?questionId=f60cd2ab&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

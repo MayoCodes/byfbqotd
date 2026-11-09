@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f35556d3",
+  "capturedAt": "2026-11-09T21:18:43.590Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(x)=3(x−6)2−108",
+  "choices": {
+    "A": "3",
+    "B": "6",
+    "C": "9",
+    "D": "12"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the graph of $y = g(x)$ intersects the $x$-axis at $(0, 0)$ and $(w, 0)$, where $w$ is a constant. Since this graph intersects the $x$-axis when $y = 0$, or when $g(x) = 0$, it follows that $g(0) = 0$ and $g(w) = 0$. If $g(w) = 0$, then $0 = 3(w - 6)^{2} - 108$. Adding $108$ to both sides of this equation yields $108 = 3(w - 6)^{2}$. Dividing both sides of this equation by $3$ yields $36 = (w - 6)^{2}$. Taking the square root of both sides of this equation yields $6 = w - 6$. Adding $6$ to both sides of this equation yields $12 = w$. Therefore, the value of $w$ is $12$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from calculation errors.",
+  "source": "https://cooksat.com/practice?questionId=f35556d3&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

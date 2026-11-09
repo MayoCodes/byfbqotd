@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "fa83c392",
+  "capturedAt": "2026-11-09T21:19:07.622Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=2x2+3x−1. What is the value of f(3)?",
+  "choices": {},
+  "correctAnswer": "26",
+  "explanation": "The correct answer is $26$. The value of $f(3)$ is found by substituting $3$ for $x$ in the given function $f(x)=2x^{2}+3x-1$. Substituting $3$ for $x$ yields $f(3)=2(3)^{2}+3(3)-1$. Evaluating the exponent gives $f(3)=2(9)+3(3)-1$. Multiplying gives $f(3)=18+9-1$. Adding and subtracting from left to right gives $f(3)=27-1=26$. Therefore, the value of $f(3)$ is $26$.",
+  "source": "https://cooksat.com/practice?questionId=fa83c392&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

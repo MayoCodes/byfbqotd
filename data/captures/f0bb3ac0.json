@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "f0bb3ac0",
+  "capturedAt": "2026-11-09T21:18:36.107Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the exponential function h, the table shows four values of x and their corresponding values of h(x). Which equation defines h?",
+  "choices": {
+    "A": "h(x)=−16x",
+    "B": "h(x)=−(161​)x",
+    "C": "h(x)=(161​)x",
+    "D": "h(x)=16x"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since $h$ is exponential, an equation defining $h$ can be written in the form $h(x) = a(b)^{x}$, where $a$ and $b$ are constants. The table shows that when $x = 0$, $h(x) = 1$. Substituting $0$ for $x$ and $1$ for $h(x)$ yields $1 = a(b)^{0}$, which is equivalent to $1 = a$. Substituting $1$ for $a$ yields $h(x) = (b)^{x}$. The table also shows that when $x = 1$, $h(x) = 16$. Substituting $1$ for $x$ and $16$ for $h(x)$ yields $16 = (b)^{1}$, so $b = 16$. Therefore, $h(x) = 16^{x}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. For this function, $h(1)$ is equal to $-\\frac{1}{16}$, not $16$.",
+  "source": "https://cooksat.com/practice?questionId=f0bb3ac0&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/f0bb3ac0/1-8e499f11ef9ea59c.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f0c6ba4f",
+  "capturedAt": "2026-11-09T21:18:40.413Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A nonprofit organization opens a savings fund with an initial balance of $24,500.00. The fund earns interest, and no additional deposits or withdrawals are made. The fund balance is given by an exponential function V, where V(t) is the fund balance, in dollars, t years after the fund is opened. The fund balance after 10 years is $36,265.98. Which equation could define V?",
+  "choices": {
+    "A": "V(t)=11,765.98(0.04)t",
+    "B": "V(t)=11,765.98(1.04)t",
+    "C": "V(t)=24,500.00(0.04)t",
+    "D": "V(t)=24,500.00(1.04)t"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since the fund balance $V(t)$, in dollars, after $t$ years is modeled by an exponential function, $V$ can be written in the form $V(t) = N r^{t}$, where $N$ is the initial value and $r$ is a constant related to the growth of the function. The initial balance is $$24{,}500.00$, so $N = 24{,}500.00$, giving $V(t) = 24{,}500.00 \\, r^{t}$. The balance after $10$ years is $$36{,}265.98$, so $24{,}500.00 \\, r^{10} = 36{,}265.98$. Dividing both sides by $24{,}500.00$ yields $r^{10} = \\frac{36{,}265.98}{24{,}500.00}$. Taking the $10$th root of both sides yields $r \\approx 1.04$. Substituting $1.04$ for $r$ gives $V(t) = 24{,}500.00(1.04)^{t}$.",
+  "source": "https://cooksat.com/practice?questionId=f0c6ba4f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
