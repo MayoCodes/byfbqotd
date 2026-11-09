@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0124ed2a",
+  "capturedAt": "2026-11-09T21:03:52.652Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The length of a rectangle is 12 times its width. The function A=(12x)(x) represents this situation, where A is the area, in square meters, of the rectangle and A>0. Which of the following is the best interpretation of 12x in this context?",
+  "choices": {
+    "A": "The length of the rectangle, in meters",
+    "B": "The area of the rectangle, in square meters",
+    "C": "The difference between the length and the width of the rectangle, in meters",
+    "D": "The width of the rectangle, in meters"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the length of a rectangle is $12$ times its width. If $x$ represents the width of the rectangle, in meters, then the length of the rectangle, in meters, is $12x$. The area of a rectangle is found by multiplying length times width, so the function $A=(12x)(x)$ represents the area where $12x$ is the length and $x$ is the width. Therefore, $12x$ represents the length of the rectangle, in meters.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The difference between the length and width would be $12x-x=11x$, not $12x$.",
+  "source": "https://cooksat.com/practice?questionId=0124ed2a&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

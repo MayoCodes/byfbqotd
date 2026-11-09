@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "70c7599b",
+  "capturedAt": "2026-11-09T21:11:16.594Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Intercept from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph of the function g is shown, where y=g(x). What is the value of g(0)?",
+  "choices": {
+    "A": "−8",
+    "B": "−5",
+    "C": "−3",
+    "D": "0"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The value of $g(0)$ is the $y$-coordinate of the point on the graph where $x = 0$, which is the $y$-intercept of the graph. The graph shows that when $x = 0$, the corresponding value of $y$ is $-8$. Therefore, $g(0) = -8$.",
+  "source": "https://cooksat.com/practice?questionId=70c7599b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/70c7599b/1-9d53f3403e8f6e38.png"
+    }
+  ]
+}

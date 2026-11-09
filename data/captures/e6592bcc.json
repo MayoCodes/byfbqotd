@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e6592bcc",
+  "capturedAt": "2026-11-09T21:18:10.735Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g is defined by g(x)=x2−6x+k, where k is a constant. If the function has two distinct zeros r and s such that r2+s2=20, what is the value of k?",
+  "choices": {
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "10"
+  },
+  "correctAnswer": "C",
+  "explanation": "Since $r$ and $s$ are zeros of $g(x)=x^2-6x+k$, they satisfy $x^2-6x+k=0$. By Vieta's formulas, $r+s=6$ and $rs=k$. We're given that $r^2+s^2=20$. Using the identity $r^2+s^2=(r+s)^2-2rs$, we have $20=6^2-2k$, which gives $20=36-2k$. Solving for $k$: $2k=16$, so $k=8$.\n\nWhy A is incorrect:\n\nResults from incorrectly computing $rs$ from $r^2+s^2=20$ by assuming $rs=\\frac{20}{5}=4$, confusing the relationship between sum of squares and product.",
+  "source": "https://cooksat.com/practice?questionId=e6592bcc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

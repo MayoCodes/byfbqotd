@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d4681831",
+  "capturedAt": "2026-11-09T21:16:58.883Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "y=625(2x+2)",
+  "choices": {
+    "A": "y=390,625x+1",
+    "B": "y=254x+4",
+    "C": "y=251​⋅254x+5",
+    "D": "y=6251​⋅6252x+3"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The $y$-intercept of a graph in the $xy$-plane is the point where $x=0$. Substituting $0$ for $x$ in the given equation, $y=625^{(2x+2)}$, yields $y=625^{(2 \\cdot 0+2)}$, which is equivalent to $y=625^{2}$, or $y=390{,}625$. Therefore, the graph of the given equation in the $xy$-plane has a $y$-intercept of $(0, 390{,}625)$. It follows that $r=0$ and $s=390{,}625$. Thus, the equivalent equation $y=390{,}625^{(x+1)}$ displays the value of $s$ as the base. This can be verified by rewriting: $390{,}625^{(x+1)}=(625^2)^{(x+1)}=625^{(2x+2)}$, confirming the equivalence to the original equation.",
+  "source": "https://cooksat.com/practice?questionId=d4681831&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "1035ff48",
+  "capturedAt": "2026-11-09T21:05:09.029Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The product of two positive integers is 306. If the first integer is 7 greater than 3 times the second integer, what is the smaller of the two integers?",
+  "choices": {
+    "A": "3",
+    "B": "9",
+    "C": "34",
+    "D": "68"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Let $x$ be the first integer and let $y$ be the second integer. Since the first integer is $7$ greater than $3$ times the second integer, $x = 3y + 7$. Since the product of the two integers is $306$, $xy = 306$. Substituting $3y + 7$ for $x$ gives $(3y + 7)y = 306$, or $3y^{2} + 7y = 306$. Subtracting $306$ from both sides yields $3y^{2} + 7y - 306 = 0$. To factor, find two numbers whose product is $3(-306) = -918$ and whose sum is $7$: these are $34$ and $-27$. Rewriting gives $3y^{2} + 34y - 27y - 306 = 0$, which factors as $y(3y + 34) - 9(3y + 34) = 0$, or $(y - 9)(3y + 34) = 0$. By the zero product property, $y = 9$ or $y = -\\frac{34}{3}$. Since $y$ is a positive integer, $y = 9$. Then $x = 3(9) + 7 = 34$. The two integers are $9$ and $34$, so the smaller of the two integers is $9$.",
+  "source": "https://cooksat.com/practice?questionId=1035ff48&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

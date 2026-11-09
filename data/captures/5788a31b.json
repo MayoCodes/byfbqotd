@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5788a31b",
+  "capturedAt": "2026-11-09T21:09:59.798Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(x)=x2−11x−350",
+  "choices": {
+    "A": "(−350,0)",
+    "B": "(−25,0)",
+    "C": "(−14,0)",
+    "D": "(14,0)"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The x-intercepts of the graph in the xy-plane are the points where $y = 0$. Substituting $0$ for $g(x)$ in the equation $g(x) = x^{2} - 11x - 350$ yields $0 = x^{2} - 11x - 350$. Factoring the right-hand side yields $0 = (x + 14)(x - 25)$. By the zero product property, $x + 14 = 0$ or $x - 25 = 0$, which gives $x = -14$ or $x = 25$. Therefore, the x-intercepts of the graph of $y = g(x)$ are $(-14, 0)$ and $(25, 0)$. Of these, only $(-14, 0)$ is given as a choice.",
+  "source": "https://cooksat.com/practice?questionId=5788a31b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

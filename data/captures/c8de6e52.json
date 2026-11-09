@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c8de6e52",
+  "capturedAt": "2026-11-09T21:16:29.363Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An object's kinetic energy, in joules, is equal to the product of one-half the object's mass, in kilograms, and the square of the object's speed, in meters per second. What is the speed, in meters per second, of an object with a mass of 8 kilograms and kinetic energy of 100 joules?",
+  "choices": {
+    "A": "5",
+    "B": "10",
+    "C": "25",
+    "D": "100"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that an object's kinetic energy, in joules, is equal to the product of one-half the object's mass, in kilograms, and the square of the object's speed, in meters per second. This relationship can be represented by the equation $K = \\frac{1}{2} m v^{2}$, where $K$ is the kinetic energy, $m$ is the mass, and $v$ is the speed. Substituting a mass of $8$ kilograms for $m$ and a kinetic energy of $100$ joules for $K$ results in the equation $100 = \\frac{1}{2} \\times 8 \\times v^{2}$, or $100 = 4 v^{2}$. Dividing both sides of this equation by $4$ yields $25 = v^{2}$. Taking the square root of both sides yields $v = -5$ and $v = 5$. Since speed can't be expressed as a negative number, the speed of the object is $5$ meters per second.",
+  "source": "https://cooksat.com/practice?questionId=c8de6e52&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "2fe45904",
+  "capturedAt": "2026-11-09T21:06:55.682Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The table shows three values of x and their corresponding values of h(x), where h(x)=x+6p(x)​ and p is a linear function. What is the y-intercept of the graph of y=p(x) in the xy-plane?",
+  "choices": {
+    "A": "(0,−8)",
+    "B": "(0,5)",
+    "C": "(0,6)",
+    "D": "(0,40)"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since $p$ is a linear function, it can be written as $p(x) = mx + b$, where $m$ is the slope and $b$ is the $y$-coordinate of the $y$-intercept $(0, b)$ of the graph of $y = p(x)$ in the $xy$-plane. Substituting the table values into $h(x) = \\frac{p(x)}{x+6}$ gives points on the graph of $y = p(x)$. Using $x = -16$ and $h(x) = 4$ yields $4 = \\frac{p(-16)}{-16+6}$, or $4 = \\frac{p(-16)}{-10}$. Multiplying both sides by $-10$ gives $p(-16) = -40$, so the point $(-16, -40)$ is on the graph of $y = p(x)$. Using $x = -8$ and $h(x) = 0$ yields $0 = \\frac{p(-8)}{-8+6}$, or $0 = \\frac{p(-8)}{-2}$. Multiplying both sides by $-2$ gives $p(-8) = 0$, so the point $(-8, 0)$ is on the graph of $y = p(x)$. The slope is $m = \\frac{0 - (-40)}{-8 - (-16)} = \\frac{40}{8} = 5$. Substituting $5$ for $m$ in $p(x) = mx + b$ yields $p(x) = 5x + b$. Since $p(-8) = 0$, substituting $-8$ for $x$ and $0$ for $p(x)$ gives $0 = 5(-8) + b$, or $0 = -40 + b$. Adding $40$ to both sides yields $b = 40$. Therefore, the $y$-intercept of the graph of $y = p(x)$ is $(0, 40)$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. $5$ is the slope of the graph of $y = p(x)$, not the $y$-coordinate of its $y$-intercept.",
+  "source": "https://cooksat.com/practice?questionId=2fe45904&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2fe45904/1-164d70ec33643d2a.png"
+    }
+  ]
+}

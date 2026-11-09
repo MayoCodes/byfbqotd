@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e2b8d5dd",
+  "capturedAt": "2026-11-09T21:17:46.361Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(x)=px2+6x+q",
+  "choices": {
+    "A": "I only",
+    "B": "II only",
+    "C": "I and II",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "A",
+  "explanation": "Since $g(-8) = g(4)$, the $x$-coordinate of the vertex is halfway between $-8$ and $4$: $h = \\frac{-8 + 4}{2} = -2$. For $g(x) = px^2 + 6x + q$, the axis of symmetry is $x = -\\frac{6}{2p} = -\\frac{3}{p}$. Setting $-\\frac{3}{p} = -2$ gives $p = \\frac{3}{2}$. Since $\\frac{3}{2} \\geq 1$, statement I is true. Writing $g$ in vertex form: $q = 4p + k = 6 + k$. Since $k < 0$, the value of $q$ depends on $k$. If $k = -2$, then $q = 4 > 0$. If $k = -8$, then $q = -2 < 0$. Statement II is not necessarily true. Only I must be true.\n\nWhy D is incorrect:\n\nThis may result from an arithmetic error when solving for $p$ from the axis of symmetry equation.",
+  "source": "https://cooksat.com/practice?questionId=e2b8d5dd&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "525c8f47",
+  "capturedAt": "2026-11-09T21:09:30.797Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=2x2−3. The function g is defined by g(x)=f(x+1)−4. What is the value of g(2)?",
+  "choices": {
+    "A": "7",
+    "B": "11",
+    "C": "15",
+    "D": "23"
+  },
+  "correctAnswer": "B",
+  "explanation": "To find $g(2)$, substitute $2$ for $x$ in $g(x) = f(x+1) - 4$, giving $g(2) = f(3) - 4$. Since $f(x) = 2x^2 - 3$, evaluating $f(3)$ yields $f(3) = 2(9) - 3 = 15$. Therefore, $g(2) = 15 - 4 = 11$.",
+  "source": "https://cooksat.com/practice?questionId=525c8f47&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

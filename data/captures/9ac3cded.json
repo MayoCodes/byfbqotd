@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9ac3cded",
+  "capturedAt": "2026-11-09T21:13:41.768Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function h is defined by h(x)=x(x+3)(x−3). For how many distinct values of x does h(x)=0?",
+  "choices": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Setting $h(x)=0$ gives $x(x+3)(x-3)=0$. By the zero product property, this equation is satisfied when $x=0$, when $x+3=0$ (so $x=-3$), or when $x-3=0$ (so $x=3$). Therefore, there are $3$ distinct values of $x$ for which $h(x)=0$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This may result from treating $(x+3)(x-3)$ as yielding only one zero rather than recognizing it produces two distinct zeros at $x=-3$ and $x=3$.",
+  "source": "https://cooksat.com/practice?questionId=9ac3cded&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2b09ff23",
+  "capturedAt": "2026-11-09T21:06:38.651Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If f(x)=21​x2+2x−3, what is the value of f(4)?",
+  "choices": {
+    "A": "5",
+    "B": "13",
+    "C": "17",
+    "D": "21"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Substituting $4$ for $x$ in $f(x)=\\frac{1}{2}x^{2}+2x-3$ gives $f(4)=\\frac{1}{2}(4)^{2}+2(4)-3=\\frac{1}{2}(16)+8-3=8+8-3=13$.",
+  "source": "https://cooksat.com/practice?questionId=2b09ff23&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

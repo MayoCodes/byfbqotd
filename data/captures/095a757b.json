@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "095a757b",
+  "capturedAt": "2026-11-09T21:04:41.144Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A sample of a radioactive substance takes 18 years to decay to half its original mass. The function m(t)=400(0.5)18t​ gives the approximate mass of this substance, in grams, that remains t years after a 400-gram sample starts to decay.",
+  "choices": {
+    "A": "Approximately 50 grams of the sample remains 54 years after the sample starts to decay.",
+    "B": "The mass of the sample has decreased by approximately 50 grams 54 years after the sample starts to decay.",
+    "C": "The mass of the sample has decreased by approximately 54 grams 50 years after the sample starts to decay.",
+    "D": "Approximately 54 grams of the sample remains 50 years after the sample starts to decay."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the function $m(t) = 400(0.5)^{\\frac{t}{18}}$ gives the approximate mass of this substance, in grams, that remains $t$ years after a $400$-gram sample starts to decay. Since the value of $m(54)$ is the value of $m(t)$ when $t = 54$, it follows that $m(54) = 50$ means that the value of $m(t)$ is $50$ when $t = 54$. Therefore, the best interpretation of $m(54) = 50$ in this context is approximately $50$ grams of the sample remains $54$ years after the sample starts to decay.",
+  "source": "https://cooksat.com/practice?questionId=095a757b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

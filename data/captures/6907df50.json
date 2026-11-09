@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "6907df50",
+  "capturedAt": "2026-11-09T21:10:52.799Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2−6. What is f(2)?",
+  "choices": {
+    "A": "−6",
+    "B": "−2",
+    "C": "4",
+    "D": "10"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substitute $x=2$ into the function: $f(2)=2^{2}-6=4-6=-2$.",
+  "source": "https://cooksat.com/practice?questionId=6907df50&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

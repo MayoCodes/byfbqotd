@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4a09c949",
+  "capturedAt": "2026-11-09T21:08:51.427Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(t)=−0.45×(t−18)2+1240",
+  "choices": {
+    "A": "−0.45",
+    "B": "0.45",
+    "C": "18",
+    "D": "1,240"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The function $g$ is quadratic, so it attains either a maximum or a minimum at the vertex of its graph. Since the coefficient of the quadratic term, $-0.45$, is negative, the vertex is a maximum. The equation $g(t) = -0.45(t - 18)^{2} + 1{,}240$ is written in vertex form, so the vertex occurs at $t = 18$. Therefore, a tilt angle of $18$ degrees gives the greatest energy output.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This is the maximum value of $g(t)$, in watt-hours per day, rather than the tilt angle $t$, in degrees, at which the maximum occurs.",
+  "source": "https://cooksat.com/practice?questionId=4a09c949&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

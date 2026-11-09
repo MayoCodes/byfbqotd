@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "6e604f4d",
+  "capturedAt": "2026-11-09T21:11:03.259Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2−6x+14. What is the x-coordinate of the vertex of the graph of y=f(x) in the xy-plane?",
+  "choices": {},
+  "correctAnswer": "3",
+  "explanation": "The correct answer is $3$. For a quadratic function in the form $f(x)=ax^{2}+bx+c$, the $x$-coordinate of the vertex is given by $h=-\\frac{b}{2a}$. In the given function $f(x)=x^{2}-6x+14$, the coefficients are $a=1$ and $b=-6$. Substituting these values into the formula yields $h=-\\frac{-6}{2(1)}$, which simplifies to $h=\\frac{6}{2}$, or $h=3$. Therefore, the $x$-coordinate of the vertex is $3$.",
+  "source": "https://cooksat.com/practice?questionId=6e604f4d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

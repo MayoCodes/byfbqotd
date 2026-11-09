@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "d3f6a8cd",
+  "capturedAt": "2026-11-09T21:16:55.547Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph shows the predicted value y, in dollars, of a certain motorcycle x years after it is first purchased. Which of the following is closest to the predicted value of the motorcycle 4 years after it is first purchased?",
+  "choices": {
+    "A": "$7,373",
+    "B": "$11,520",
+    "C": "$14,400",
+    "D": "$18,000"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For the graph shown, the horizontal axis represents the number of years after a certain motorcycle is first purchased, and the vertical axis represents the predicted value, in dollars, of the motorcycle. According to the graph, $4$ years after the motorcycle is purchased, the predicted value of the motorcycle is between $$4{,}000$ and $$8{,}000$. Of the given choices, only $$7{,}373$ is in that interval. Therefore, $$7{,}373$ is closest to the predicted value of the motorcycle $4$ years after it is first purchased.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is closest to the predicted value of the motorcycle $1$ year after it is first purchased, not $4$ years after.",
+  "source": "https://cooksat.com/practice?questionId=d3f6a8cd&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d3f6a8cd/1-82b930315338373e.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "13653c0e",
+  "capturedAt": "2026-11-09T21:05:30.470Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The table above gives selected values of a polynomial function q. Based on the values in the table, which of the following must be a factor of q?",
+  "choices": {
+    "A": "(x−3)",
+    "B": "(x+4)",
+    "C": "(x−3)(x+4)",
+    "D": "(x+3)(x−4)"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The table shows $q(-3) = 0$ and $q(4) = 0$, so by the factor theorem both $(x + 3)$ and $(x - 4)$ are factors of $q$. Because these are distinct linear factors, their product $(x + 3)(x - 4)$ must also be a factor of $q$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The factor $(x - 3)$ would require $q(3) = 0$, but the table does not give a value of $q$ at $x = 3$, so $(x - 3)$ need not be a factor.",
+  "source": "https://cooksat.com/practice?questionId=13653c0e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/13653c0e/1-f3a3fd13b8b0988d.png"
+    }
+  ]
+}

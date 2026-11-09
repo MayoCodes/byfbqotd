@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "da2fc7fb",
+  "capturedAt": "2026-11-09T21:17:19.093Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "When a new podcast episode was released, a podcast had 78 listeners. Each week for four weeks after the episode was released, the number of listeners doubled from the number the previous week. Which equation gives the total number of listeners, p, to the podcast w weeks after the episode was released?",
+  "choices": {
+    "A": "p=78(21​)w",
+    "B": "p=78(2)w",
+    "C": "p=(78)w",
+    "D": "p=(78)2+w"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since the number of listeners doubled each week, the relationship between $p$ and $w$ can be represented by an exponential equation of the form $p = ab^{w}$, where $a$ is the number of listeners at the time the episode was released and the number of listeners increases by a factor of $b$ each week. It's given that when the episode was released, the podcast had $78$ listeners, so $a = 78$. Since the number of listeners doubled, or increased by a factor of $2$, each week, $b = 2$. Substituting $78$ for $a$ and $2$ for $b$ in $p = ab^{w}$ yields $p = 78(2)^{w}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This equation gives the total number of listeners to a podcast for which the number of listeners each week was half the number from the previous week, rather than double the number.",
+  "source": "https://cooksat.com/practice?questionId=da2fc7fb&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

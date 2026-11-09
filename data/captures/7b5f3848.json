@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "7b5f3848",
+  "capturedAt": "2026-11-09T21:11:57.852Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Graph of Function",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following is an equation of the quadratic function shown?",
+  "choices": {
+    "A": "y=x2−2x+1",
+    "B": "y=−x2−2x−1",
+    "C": "y=−x2+2x−1",
+    "D": "y=x2+2x+1"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The graph of a quadratic function can be represented by an equation of the form $y=a(x-h)^2+k$, where $(h,k)$ is the vertex of the parabola and the value of $a$ determines whether the parabola opens up or down. The parabola shown opens down and has a vertex at $(1,0)$. Therefore, $a<0$, $h=1$, and $k=0$. Substituting these values into the vertex form yields $y=a(x-1)^2$. Expanding this equation: $y=a(x^2-2x+1)$, which simplifies to $y=ax^2-2ax+a$. The parabola passes through the point $(0,-1)$. Substituting these coordinates into the equation: $-1=a(0)^2-2a(0)+a$, which simplifies to $-1=a$. Therefore, $a=-1$. Substituting $a=-1$ into $y=ax^2-2ax+a$ yields $y=(-1)x^2-2(-1)x+(-1)$, which simplifies to $y=-x^2+2x-1$. This can be verified by checking that the parabola also passes through $(2,-1)$: $y=-(2)^2+2(2)-1=-4+4-1=-1$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This equation, $y=x^2+2x+1=(x+1)^2$, represents a parabola that opens upward with vertex at $(-1,0)$. The graph shown opens downward and has its vertex at $(1,0)$, so this equation is incorrect in both the direction of opening and the location of the vertex.",
+  "source": "https://cooksat.com/practice?questionId=7b5f3848&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7b5f3848/1-807340e89e1c093c.png"
+    }
+  ]
+}

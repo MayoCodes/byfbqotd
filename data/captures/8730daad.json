@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8730daad",
+  "capturedAt": "2026-11-09T21:12:50.358Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A function f is defined by f(x)=x2+3x. What is f(−2)?",
+  "choices": {
+    "A": "−4",
+    "B": "−2",
+    "C": "2",
+    "D": "10"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Substituting $-2$ for $x$ in $f(x)=x^2+3x$ yields $f(-2)=(-2)^2+3(-2)=4+(-6)=-2$.",
+  "source": "https://cooksat.com/practice?questionId=8730daad&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

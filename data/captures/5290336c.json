@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5290336c",
+  "capturedAt": "2026-11-09T21:09:34.402Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function M(t)=48(Q)6t​ gives the predicted mass M(t), in grams, of an algae culture t minutes after an initial measurement, where Q is a constant greater than 1. The predicted mass increases by p% every 180 seconds. What is the value of p in terms of Q?",
+  "choices": {
+    "A": "100(Q21​−1)",
+    "B": "100(Q21​+1)",
+    "C": "100(Q30−1)",
+    "D": "100(Q30+1)"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the predicted mass increases by $p\\%$ every $180$ seconds. Since there are $60$ seconds in $1$ minute, $180$ seconds is equivalent to $\\frac{180}{60}$, or $3$, minutes. To find $p$, the mass at time $t$ can be compared to the mass at time $t + 3$. Substituting $t + 3$ for $t$ in the given equation yields $M(t + 3) = 48(Q)^{\\frac{t + 3}{6}}$, which is equivalent to $M(t + 3) = 48(Q)^{\\frac{t}{6} + \\frac{1}{2}}$, or $M(t + 3) = 48(Q)^{\\frac{t}{6}}(Q)^{\\frac{1}{2}}$. The ratio of the mass at time $t + 3$ to the mass at time $t$ is $\\frac{M(t + 3)}{M(t)} = \\frac{48(Q)^{\\frac{t}{6}}(Q)^{\\frac{1}{2}}}{48(Q)^{\\frac{t}{6}}}$, which is equivalent to $Q^{\\frac{1}{2}}$. A $p\\%$ increase means the new mass is $\\left(1 + \\frac{p}{100}\\right)$ times the original mass. Therefore, $1 + \\frac{p}{100} = Q^{\\frac{1}{2}}$. Subtracting $1$ from both sides of this equation yields $\\frac{p}{100} = Q^{\\frac{1}{2}} - 1$. Multiplying both sides of this equation by $100$ yields $p = 100(Q^{\\frac{1}{2}} - 1)$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from using addition instead of subtraction when isolating $p$ from the equation $1 + \\frac{p}{100} = Q^{\\frac{1}{2}}$.",
+  "source": "https://cooksat.com/practice?questionId=5290336c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

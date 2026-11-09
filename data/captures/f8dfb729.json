@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "f8dfb729",
+  "capturedAt": "2026-11-09T21:19:04.553Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "f(x)=a∣x∣​−10",
+  "choices": {},
+  "correctAnswer": "396",
+  "explanation": "The correct answer is $396$. Since $a<0$, the value $12a<0$, so $|12a|=-12a$. Substituting: $f(12a)=\\frac{-12a}{a}-10=-12-10=-22$. Since $a<0$, the value $8a<0$, so $|8a|=-8a$. Substituting: $f(8a)=\\frac{-8a}{a}-10=-8-10=-18$. Therefore, $f(12a) \\cdot f(8a)=(-22)(-18)=396$.",
+  "source": "https://cooksat.com/practice?questionId=f8dfb729&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

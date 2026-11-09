@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "58fbb13e",
+  "capturedAt": "2026-11-09T21:10:02.869Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A warehouse manager ordered storage bins each in the shape of a right rectangular prism. Each bin has a height of 14 inches. The length of each bin's base is x inches, which is 3 inches more than the width of the bin's base. Which function V gives the volume of each bin, in cubic inches, in terms of the length of the bin's base?",
+  "choices": {
+    "A": "V(x)=14x(x−3)",
+    "B": "V(x)=14x(x+3)",
+    "C": "V(x)=x(x+14)(x−3)",
+    "D": "V(x)=x(x+14)(x+3)"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The volume of a right rectangular prism equals the area of its base times its height. The length of each bin's base is $x$ inches, which is $3$ inches more than the width; therefore, the width of the base is $x - 3$ inches. The area of the rectangular base is the product of its length and width, so the area is $x(x - 3)$ square inches. Since the height of each bin is $14$ inches, the volume is $V(x) = x(x - 3)(14)$, or $V(x) = 14x(x - 3)$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This expression treats the height as a variable factor $(x + 14)$ rather than as the constant $14$. The height is $14$ inches, so it should be multiplied as a constant.",
+  "source": "https://cooksat.com/practice?questionId=58fbb13e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

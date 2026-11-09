@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d102d6c6",
+  "capturedAt": "2026-11-09T21:16:52.613Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(x)=12,000(0.82)x",
+  "choices": {
+    "A": "The estimated initial bird population for this species and region in 2015",
+    "B": "The estimated bird population for this species and region 6 years after 2015",
+    "C": "The estimated percent decrease in the bird population for this species and region each year after 2015",
+    "D": "The estimated percent decrease in the bird population for this species and region every 6 years after 2015"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For an exponential function in the form $g(x) = a(b)^{x}$, where $a$ and $b$ are positive constants and $b < 1$, the initial value of $g(x)$, or the value of $g(x)$ when $x = 0$, is $a$, and the value of $g(x)$ decreases by $100(1 - b)\\%$ each time $x$ increases by $1$. Therefore, the initial value of the function $g(x) = 12{,}000(0.82)^{x}$, or the value of $g(x)$ when $x = 0$, is $12{,}000$. Thus, the best interpretation of $12{,}000$ in this context is the estimated initial bird population for this species and region in $2015$.",
+  "source": "https://cooksat.com/practice?questionId=d102d6c6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

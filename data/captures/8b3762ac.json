@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "8b3762ac",
+  "capturedAt": "2026-11-09T21:12:56.751Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Intercept from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the y-intercept of the graph shown?",
+  "choices": {
+    "A": "(0,4)",
+    "B": "(0,7)",
+    "C": "(4,4)",
+    "D": "(7,0)"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The y-intercept of a graph in the xy-plane is the point $\\left(x, y\\right)$ on the graph where $x = 0$. For the graph shown, at $x = 0$, the corresponding value of $y$ is $7$. Therefore, the y-intercept of the graph shown is $\\left(0, 7\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=8b3762ac&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8b3762ac/1-e0b11ad4051b9b98.png"
+    }
+  ]
+}

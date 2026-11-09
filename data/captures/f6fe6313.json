@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f6fe6313",
+  "capturedAt": "2026-11-09T21:19:01.118Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g(n)=5(15.28)6n​ gives each term of a sequence as a function of the term's position, n, in the sequence, where n is a whole number. The value of the term in position 15 is p% more than the value of the term in position 9. What is the value of p?",
+  "choices": {
+    "A": "15.28",
+    "B": "28",
+    "C": "1,428",
+    "D": "1,528"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Substituting $9$ for $n$ gives $g(9) = 5(15.28)^{\\frac{9}{6}} = 5(15.28)^{1.5}$. Substituting $15$ for $n$ gives $g(15) = 5(15.28)^{\\frac{15}{6}} = 5(15.28)^{2.5}$. The ratio $\\frac{g(15)}{g(9)} = \\frac{5(15.28)^{2.5}}{5(15.28)^{1.5}}$. Dividing numerator and denominator by $5$ yields $\\frac{(15.28)^{2.5}}{(15.28)^{1.5}}$. Using the property $\\frac{a^m}{a^n} = a^{m-n}$, this becomes $(15.28)^{2.5-1.5} = (15.28)^{1} = 15.28$. Therefore $g(15) = 15.28 \\times g(9)$, an increase by a factor of $15.28$. The percent increase is $\\frac{g(15) - g(9)}{g(9)} \\times 100 = (15.28 - 1) \\times 100 = 14.28 \\times 100 = 1{,}428$. Therefore $p = 1{,}428$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from rounding the base $15.28$ down to $15$, computing $15.28 - 15 = 0.28$, and then incorrectly converting this to $28\\%$.",
+  "source": "https://cooksat.com/practice?questionId=f6fe6313&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

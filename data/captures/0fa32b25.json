@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0fa32b25",
+  "capturedAt": "2026-11-09T21:05:02.442Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g is defined by g(x)=(−4)(5)x+30. What is the y-intercept of the graph of y=g(x) in the xy-plane?",
+  "choices": {
+    "A": "(0,−4)",
+    "B": "(0,5)",
+    "C": "(0,26)",
+    "D": "(0,30)"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The $y$-intercept of the graph of $y = g(x)$ in the $xy$-plane is the point where the graph crosses the $y$-axis, which occurs when $x = 0$. Substituting $0$ for $x$ in the given function yields $g(0) = (-4)(5)^{0} + 30$. Since any nonzero number raised to the power of $0$ equals $1$, this gives $g(0) = (-4)(1) + 30 = -4 + 30 = 26$. Therefore, the $y$-intercept is $(0, 26)$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from identifying the base $5$ of the exponential expression and incorrectly assuming this is the $y$-intercept without evaluating the entire function at $x = 0$.",
+  "source": "https://cooksat.com/practice?questionId=0fa32b25&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "858f140a",
+  "capturedAt": "2026-11-09T21:12:44.130Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "P(t)=24,500×bt",
+  "choices": {
+    "A": "0.07",
+    "B": "0.7",
+    "C": "1.07",
+    "D": "1.7"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A model for a quantity $P$ that increases by a certain percentage per time period $t$ is an exponential function of the form $P(t) = I \\times \\left(1 + \\frac{r}{100}\\right)^{t}$, where $I$ is the initial value at $t = 0$ and $r$ is the percent increase per year. It's given that the population increases by $7\\%$ each year, so $r = 7$. Substituting $0$ for $t$ in the given function yields $P(0) = 24{,}500$, so $I = 24{,}500$. Substituting these values into the form $P(t) = I \\times \\left(1 + \\frac{r}{100}\\right)^{t}$ yields $P(t) = 24{,}500 \\times \\left(1 + \\frac{7}{100}\\right)^{t}$, or $P(t) = 24{,}500 \\times (1.07)^{t}$. Therefore, the value of $b$ in the given function is $1.07$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from using $\\frac{r}{100}$ as the base instead of $1 + \\frac{r}{100}$, which would model a population shrinking to $7\\%$ of its previous value rather than growing by $7\\%$.",
+  "source": "https://cooksat.com/practice?questionId=858f140a&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

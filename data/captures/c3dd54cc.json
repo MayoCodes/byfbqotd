@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c3dd54cc",
+  "capturedAt": "2026-11-09T21:16:11.243Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Intercept from Graph",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The graph of a rational function is shown for some values of x. What is the y-coordinate of the y-intercept of the graph?",
+  "choices": {},
+  "correctAnswer": "5",
+  "explanation": "The correct answer is $5$. The y-intercept of a graph in the xy-plane is the point where the graph crosses the y-axis, which occurs when $x = 0$. The graph shown crosses the y-axis at the point $(0, 5)$. Therefore, the y-coordinate of the y-intercept of the graph is $5$.",
+  "source": "https://cooksat.com/practice?questionId=c3dd54cc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c3dd54cc/1-27f46a2545ba8f64.png"
+    }
+  ]
+}

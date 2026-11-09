@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "21350d9b",
+  "capturedAt": "2026-11-09T21:06:04.160Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph shown gives the estimated resale value, in dollars, of a bicycle as a function of the number of weeks since it was purchased. Which of the following is the best interpretation of the y-intercept of the graph in this context?",
+  "choices": {
+    "A": "The estimated resale value of the bicycle was $180 when it was purchased.",
+    "B": "The estimated resale value of the bicycle 36 weeks after it was purchased was $180.",
+    "C": "The estimated resale value of the bicycle had decreased by $180 in the 36 weeks after it was purchased.",
+    "D": "The estimated resale value of the bicycle decreased by approximately 1.80% each week after it was purchased."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the graph shows the estimated resale value $y$, in dollars, of a bicycle as a function of the number of weeks since it was purchased, $x$. The y-intercept of a graph is the point at which the graph intersects the y-axis, or when $x$ is $0$. The graph shown intersects the y-axis at the point $\\left(0, 180\\right)$. It follows that $0$ weeks after the bicycle was purchased, or when the bicycle was purchased, the estimated resale value of the bicycle was $180$ dollars. Therefore, the best interpretation of the y-intercept is that the estimated resale value of the bicycle was $$180$ when it was purchased.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from conceptual errors about the meaning of the y-intercept; the y-intercept represents a value at a single point in time, not a rate of change.",
+  "source": "https://cooksat.com/practice?questionId=21350d9b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/21350d9b/1-493203a70a1d9498.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fecbfd56",
+  "capturedAt": "2026-11-09T21:19:36.457Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(t)=−16t2+c",
+  "choices": {
+    "A": "4.5",
+    "B": "9",
+    "C": "81",
+    "D": "648"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the function $g$ estimates that the package is $1{,}296$ feet above the ground when it's dropped at $t = 0$. Substituting $1{,}296$ for $g(t)$ and $0$ for $t$ in the function yields $1{,}296 = -16(0)^{2} + c$, or $c = 1{,}296$. Therefore, $g(t) = -16t^{2} + 1{,}296$. When the package hits the ground, its height will be $0$ feet. Substituting $0$ for $g(t)$ yields $0 = -16t^{2} + 1{,}296$. Adding $16t^{2}$ to both sides gives $16t^{2} = 1{,}296$. Dividing both sides by $16$ gives $t^{2} = 81$. Taking the positive square root yields $t = 9$. The function estimates the package will hit the ground approximately $9$ seconds after being dropped.",
+  "source": "https://cooksat.com/practice?questionId=fecbfd56&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

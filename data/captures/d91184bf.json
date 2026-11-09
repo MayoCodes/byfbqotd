@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "d91184bf",
+  "capturedAt": "2026-11-09T21:17:13.093Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=3x2+15x+1. For what value of x does f(x) have its minimum value?",
+  "choices": {
+    "A": "−5",
+    "B": "−25​",
+    "C": "25​",
+    "D": "5"
+  },
+  "correctAnswer": "B",
+  "explanation": "The graph of $f(x)=3x^2+15x+1$ is a parabola that opens upward since the coefficient of $x^2$ is positive. The minimum occurs at the vertex, where $x=-\\frac{b}{2a}$. With $a=3$ and $b=15$, we get $x=-\\frac{15}{2(3)}=-\\frac{15}{6}=-\\frac{5}{2}$.\n\nWhy A is incorrect:\n\nResults from using the formula $x=-\\frac{b}{a}$ instead of $x=-\\frac{b}{2a}$: $-\\frac{15}{3}=-5$.",
+  "source": "https://cooksat.com/practice?questionId=d91184bf&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

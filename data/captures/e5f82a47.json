@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "e5f82a47",
+  "capturedAt": "2026-11-09T21:18:03.973Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A population of algae is growing at an exponential rate, as shown in the table above. At this rate, on which day would the number of algae cells per liter reach 5.12×109?",
+  "choices": {
+    "A": "Day 5",
+    "B": "Day 6",
+    "C": "Day 7",
+    "D": "Day 8"
+  },
+  "correctAnswer": "B",
+  "explanation": "The number of algae cells per liter is quadrupling each day. From day 1 to day 2, the number increased from $5.0 \\times 10^6$ to $2.0 \\times 10^7$, a factor of 4. At the end of day $d$, the number of cells is $5.0 \\times 10^6 \\times 4^{d-1}$. Setting this equal to $5.12 \\times 10^9$: $5.0 \\times 10^6 \\times 4^{d-1} = 5.12 \\times 10^9$. Dividing both sides by $5.0 \\times 10^6$ gives $4^{d-1} = 1024$. Since $4^5 = 1024$, we have $d - 1 = 5$, so $d = 6$.",
+  "source": "https://cooksat.com/practice?questionId=e5f82a47&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e5f82a47/1-18a13e080462710c.png"
+    }
+  ]
+}

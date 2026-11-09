@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "8573b49d",
+  "capturedAt": "2026-11-09T21:12:40.857Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A parabola in the xy-plane has vertex (7,4) and passes through the point (9,16). The equation of this parabola can be written in the form y=a(x−7)2+4, where a is a constant. What is the value of a?",
+  "choices": {
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "6"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since the parabola passes through $(9, 16)$ and has the form $y = a(x-7)^2 + 4$, substitute $x=9$ and $y=16$: $16 = a(9-7)^2 + 4$. This simplifies to $16 = 4a + 4$, so $12 = 4a$, giving $a = 3$.\n\nWhy A is incorrect:\n\nThis may result from incorrectly calculating $(9-7)^2$ as $2$ instead of $4$, or from other computational errors in the solving process.",
+  "source": "https://cooksat.com/practice?questionId=8573b49d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

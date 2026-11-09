@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "a8f4d8a1",
+  "capturedAt": "2026-11-09T21:14:39.936Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The quadratic function h models the height, in meters, above the ground of a drone t minutes after the drone was launched. The function estimates that the drone reached its maximum height of 245 meters 5 minutes after it was launched and then returned to the ground 12 minutes after it was launched. Based on the function, what was the estimated height, to the nearest meter, of the drone 9 minutes after it was launched?",
+  "choices": {},
+  "correctAnswer": "165",
+  "explanation": "The correct answer is $165$. The quadratic function $h$ gives the estimated height of the drone, $h(t)$, in meters, $t$ minutes after the drone was launched. Since the drone reached its maximum height of $245$ meters $5$ minutes after it was launched, function $h$ can be expressed in vertex form as $h(t) = a(t - 5)^{2} + 245$, where $a$ is a constant. Since the drone returned to the ground $12$ minutes after it was launched, $h(12) = 0$. Substituting $12$ for $t$ and $0$ for $h(t)$ in $h(t) = a(t - 5)^{2} + 245$ yields $0 = a(12 - 5)^{2} + 245$, or $49a = -245$. Dividing both sides of this equation by $49$ gives $a = -5$. Substituting $-5$ for $a$ in $h(t) = a(t - 5)^{2} + 245$ gives $h(t) = -5(t - 5)^{2} + 245$. Substituting $9$ for $t$ in $h(t)$ gives $h(9) = -5(9 - 5)^{2} + 245$, which is equivalent to $h(9) = -5(16) + 245$, or $h(9) = 165$. Therefore, the estimated height, to the nearest meter, of the drone $9$ minutes after it was launched was $165$ meters.",
+  "source": "https://cooksat.com/practice?questionId=a8f4d8a1&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

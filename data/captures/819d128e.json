@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "819d128e",
+  "capturedAt": "2026-11-09T21:12:30.127Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=9(4)x. If f(a)=576 and f(b)=2304, what is the value of b−a?",
+  "choices": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+  },
+  "correctAnswer": "A",
+  "explanation": "Substituting into $f(a) = 9(4)^a = 576$ and dividing by $9$ yields $(4)^a = 64 = 4^3$, so $a = 3$. Similarly, from $f(b) = 9(4)^b = 2304$, dividing by $9$ gives $(4)^b = 256 = 4^4$, so $b = 4$. Therefore, $b - a = 4 - 3 = 1$.\n\nWhy C is incorrect:\n\nThis is the value of $a$ itself, not $b - a$. This error occurs from finding $a = 3$ correctly but then reporting $a$ instead of computing the difference.",
+  "source": "https://cooksat.com/practice?questionId=819d128e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

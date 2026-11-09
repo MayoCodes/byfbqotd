@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "e24ece10",
+  "capturedAt": "2026-11-09T21:17:41.907Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph shows the height above ground, in meters, of a model rocket t seconds after it was launched upward from a rooftop. Which statement is the best interpretation of the marked point (0.5,3.55) in this context?",
+  "choices": {
+    "A": "0.5 second after being launched, the rocket's height above ground is 3.55 meters.",
+    "B": "3.55 seconds after being launched, the rocket's height above ground is 0.5 meter.",
+    "C": "The rocket was launched from an initial height of 0.5 meter with an initial velocity of 3.55 meters per second.",
+    "D": "The rocket was launched from an initial height of 3.55 meters with an initial velocity of 0.5 meter per second."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. On this graph the first coordinate of a point is the time, in seconds, after the rocket was launched, and the second coordinate is the corresponding height above ground, in meters. Therefore the marked point $(0.5, 3.55)$ means that $0.5$ second after being launched, the rocket's height above ground is $3.55$ meters.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This reverses the coordinates; $0.5$ is the time in seconds and $3.55$ is the height in meters, not the other way around.",
+  "source": "https://cooksat.com/practice?questionId=e24ece10&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e24ece10/1-938fb431c44801d7.png"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "e3655751",
+  "capturedAt": "2026-11-09T21:17:50.257Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "f(x)=x3+ax2+bx+c",
+  "choices": {},
+  "correctAnswer": "54",
+  "explanation": "The correct answer is $54$. Since $-3$, $2$, and $9$ are zeros of function $f$, it can be written as $f(x) = (x + 3)(x - 2)(x - 9)$. Expanding: $(x + 3)(x - 2) = x^2 + x - 6$. Then $(x^2 + x - 6)(x - 9) = x^3 + x^2 - 6x - 9x^2 - 9x + 54 = x^3 - 8x^2 - 15x + 54$. Thus, $a = -8$, $b = -15$, and $c = 54$.",
+  "source": "https://cooksat.com/practice?questionId=e3655751&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

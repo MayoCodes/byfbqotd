@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2552c024",
+  "capturedAt": "2026-11-09T21:06:17.456Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2−6x+8. What is the value of f(5)?",
+  "choices": {
+    "A": "−2",
+    "B": "3",
+    "C": "8",
+    "D": "13"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substituting $5$ for $x$ in $f(x) = x^2 - 6x + 8$ yields $f(5) = 5^2 - 6(5) + 8 = 25 - 30 + 8 = 3$.\n\nWhy A is incorrect:\n\nThis may result from an arithmetic error when computing $25 - 30 + 8$.",
+  "source": "https://cooksat.com/practice?questionId=2552c024&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

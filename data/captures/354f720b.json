@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "354f720b",
+  "capturedAt": "2026-11-09T21:07:20.304Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The population of insects in a field doubles every week. There are 27,000 insects in the field at the start of a study. Which equation represents the number of insects, y, in the field w weeks after the start of the study?",
+  "choices": {
+    "A": "y=21​(27,000)w",
+    "B": "y=2(27,000)w",
+    "C": "y=27,000(21​)w",
+    "D": "y=27,000(2)w"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since the insect population doubles every week, the relationship between $w$ and $y$ can be represented by an exponential equation of the form $y = a(b)^{w}$, where $a$ is the number of insects at the start of the study and the population increases by a factor of $b$ every week. It's given that there are $27{,}000$ insects at the start of the study, so $a = 27{,}000$. It's also given that the population doubles, or increases by a factor of $2$, every week, so $b = 2$. Substituting $27{,}000$ for $a$ and $2$ for $b$ in $y = a(b)^{w}$ yields $y = 27{,}000(2)^{w}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from conceptual or calculation errors, including placing the initial population as the base and using $\\frac{1}{2}$ as the coefficient.",
+  "source": "https://cooksat.com/practice?questionId=354f720b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

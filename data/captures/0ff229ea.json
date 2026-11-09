@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0ff229ea",
+  "capturedAt": "2026-11-09T21:05:05.496Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The value of a collectible coin was $585 on the day it was purchased. Every year, the value of the coin increases by 3% of its value the previous year. Which function M gives the value, in dollars, of the coin w years after the day it was purchased?",
+  "choices": {
+    "A": "M(w)=585(1.03w)",
+    "B": "M(w)=585(1.03)w",
+    "C": "M(w)=585(1.3w)",
+    "D": "M(w)=585(1.3)w"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. An exponential growth model can be written in the form $M(w) = a(1 + r)^{w}$, where $M(w)$ is the value after $w$ time periods, $a$ is the initial value, and $r$ is the growth rate expressed as a decimal. It's given that the initial value of the coin was $$585$, so $a = 585$. It's also given that the value increases by $3\\%$ each year, so $r = 0.03$. Substituting these values into the exponential growth model yields $M(w) = 585(1 + 0.03)^{w}$, which is equivalent to $M(w) = 585(1.03)^{w}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from interpreting the $3\\%$ increase as a $30\\%$ increase, leading to a growth factor of $1.3$ instead of $1.03$.",
+  "source": "https://cooksat.com/practice?questionId=0ff229ea&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

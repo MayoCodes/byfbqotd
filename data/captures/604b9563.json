@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "604b9563",
+  "capturedAt": "2026-11-09T21:10:21.329Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2+4x+4. What is the value of f(−3)?",
+  "choices": {},
+  "correctAnswer": "1",
+  "explanation": "The correct answer is $1$. It's given that the function $f$ is defined by $f(x) = x^2 + 4x + 4$. The value of $f(-3)$ is found by substituting $-3$ for $x$ in the given equation. Substituting $-3$ for $x$ yields $f(-3) = (-3)^2 + 4(-3) + 4$. Evaluating the exponent gives $f(-3) = 9 + 4(-3) + 4$. Multiplying gives $f(-3) = 9 - 12 + 4$. Adding the terms from left to right gives $f(-3) = -3 + 4 = 1$. Therefore, the value of $f(-3)$ is $1$.",
+  "source": "https://cooksat.com/practice?questionId=604b9563&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

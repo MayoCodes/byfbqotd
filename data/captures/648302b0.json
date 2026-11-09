@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "648302b0",
+  "capturedAt": "2026-11-09T21:10:39.826Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The height, in feet, of a ball t seconds after it is launched straight up in the air can be modeled by the function g(t)=−16t2+24t+6. Based on the model, which of the following statements best interprets the equation g(0.5)=14?",
+  "choices": {
+    "A": "The height of the ball 0.5 seconds after being launched straight up in the air is 14 feet.",
+    "B": "The height of the ball 14 seconds after being launched straight up in the air is 0.5 feet.",
+    "C": "The height of the ball 14 seconds after being launched straight up in the air is approximately 0.5 times as great as its initial height.",
+    "D": "The speed of the ball 0.5 seconds after being launched straight up in the air is approximately 14 feet per second."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The value $0.5$ is the value of $t$, which represents the number of seconds after the ball was launched straight up in the air. When the function $g$ is evaluated for $t = 0.5$, the function has a value of $14$, which is the height, in feet, of the ball.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from misidentifying height as speed.",
+  "source": "https://cooksat.com/practice?questionId=648302b0&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

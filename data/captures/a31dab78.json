@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a31dab78",
+  "capturedAt": "2026-11-09T21:14:21.639Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the value of f(2) for the function f defined by f(x)=x2+0.5x−1?",
+  "choices": {
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5"
+  },
+  "correctAnswer": "C",
+  "explanation": "Substituting $x=2$ into $f(x)=x^2+0.5x-1$ gives $f(2)=(2)^2+0.5(2)-1=4+1-1=4$.\n\nWhy A is incorrect:\n\nResults from an arithmetic error in calculating $0.5(2)$ or in the final addition and subtraction.",
+  "source": "https://cooksat.com/practice?questionId=a31dab78&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

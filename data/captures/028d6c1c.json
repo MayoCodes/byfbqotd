@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "028d6c1c",
+  "capturedAt": "2026-11-09T21:04:09.620Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function h is defined by h(x)=5x+4​. What is the value of h(9)?",
+  "choices": {
+    "A": "57​",
+    "B": "549​",
+    "C": "7",
+    "D": "49"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the function $h$ is defined by $h(x) = \\sqrt{5x + 4}$. Substituting $9$ for $x$ in the given function yields $h(9) = \\sqrt{5(9) + 4}$, which is equivalent to $h(9) = \\sqrt{49}$, or $h(9) = 7$. Therefore, the value of $h(9)$ is $7$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from conceptual or calculation errors.",
+  "source": "https://cooksat.com/practice?questionId=028d6c1c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

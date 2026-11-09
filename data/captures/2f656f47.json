@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "2f656f47",
+  "capturedAt": "2026-11-09T21:06:48.506Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "g(x)=(x−3)(x+11)",
+  "choices": {},
+  "correctAnswer": "−4",
+  "explanation": "The correct answer is $-4$. The function $g(x)=(x-3)(x+11)$ is a parabola opening upward, so its minimum occurs at the vertex. The $x$-coordinate of the vertex is the midpoint of the $x$-intercepts. Since $g(x)=(x-3)(x+11)$, the $x$-intercepts are $x=3$ and $x=-11$. The midpoint is $\\frac{3+(-11)}{2}=\\frac{-8}{2}=-4$. Alternatively, expanding gives $g(x)=x^{2}+8x-33$. Completing the square: $g(x)=(x+4)^{2}-49$, showing the vertex at $x=-4$.",
+  "source": "https://cooksat.com/practice?questionId=2f656f47&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

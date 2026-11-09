@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0d348ffc",
+  "capturedAt": "2026-11-09T21:04:59.075Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function h(x)=12,500(0.35)x/12 gives the value, in dollars, of a certain vehicle after x months of ownership. If the value of the vehicle decreases each year by p% of its value the preceding year, what is the value of p?",
+  "choices": {
+    "A": "5",
+    "B": "15",
+    "C": "35",
+    "D": "65"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the value of the vehicle decreases each year by $p\\%$ of its value the preceding year. This means that after one year, the value is $\\left(1 - \\frac{p}{100}\\right)$ times the value at the start of the year. Since $x$ represents the number of months after the vehicle is first owned, one year corresponds to $x = 12$. Substituting $12$ for $x$ in the given equation yields $h(12) = 12{,}500(0.35)^{\\frac{12}{12}}$, which is equivalent to $h(12) = 12{,}500(0.35)$. This shows that after one year (or $12$ months), the value of the vehicle is $0.35$ times its initial value of $$12{,}500$. Therefore, $1 - \\frac{p}{100} = 0.35$. Subtracting $1$ from both sides gives $-\\frac{p}{100} = -0.65$, so $\\frac{p}{100} = 0.65$. Multiplying both sides by $100$ yields $p = 65$.",
+  "source": "https://cooksat.com/practice?questionId=0d348ffc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

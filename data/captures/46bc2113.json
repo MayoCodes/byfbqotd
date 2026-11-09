@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "46bc2113",
+  "capturedAt": "2026-11-09T21:08:41.218Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A research diving bell is used for marine studies. The function h(x)=−701​(x+23)(x−42) gives the depth below the surface of the ocean, in meters, of the diving bell x minutes after beginning its descent, where x>0. How many minutes after beginning its descent did the diving bell return to the surface of the ocean?",
+  "choices": {},
+  "correctAnswer": "42",
+  "explanation": "The correct answer is $42$. It's given that the function $h(x) = -\\frac{1}{70}(x + 23)(x - 42)$ gives the depth below the surface of the ocean, in meters, of the diving bell $x$ minutes after beginning its descent, where $x > 0$. When the diving bell is at the surface of the ocean, the value of $h(x)$ is $0$. Substituting $0$ for $h(x)$ yields $0 = -\\frac{1}{70}(x + 23)(x - 42)$. Multiplying both sides by $-70$ gives $0 = (x + 23)(x - 42)$. Since a product of two factors equals $0$ if and only if at least one factor is $0$, either $x + 23 = 0$ or $x - 42 = 0$, so $x = -23$ or $x = 42$. Since $x > 0$, the diving bell returned to the surface $42$ minutes after beginning its descent.",
+  "source": "https://cooksat.com/practice?questionId=46bc2113&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

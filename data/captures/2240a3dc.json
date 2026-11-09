@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "2240a3dc",
+  "capturedAt": "2026-11-09T21:06:07.391Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph models the number of daily visitors to a museum exhibit x weeks after the start of March 2015, where 0≤x≤6. According to the model, what is the predicted number of daily visitors to the exhibit at the start of March 2015?",
+  "choices": {
+    "A": "0",
+    "B": "7",
+    "C": "12",
+    "D": "16"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The graph models the number of daily visitors to the exhibit $x$ weeks after the start of March $2015$. Therefore, the value of $x$ that corresponds to the start of March $2015$ is $0$. The point at which $x = 0$ is the y-intercept of the graph, which is the point $\\left( 0, 7 \\right)$. Therefore, according to the model, the predicted number of daily visitors at the start of March $2015$ is $7$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This is the maximum predicted number of daily visitors (the y-coordinate of the vertex), which occurs $3$ weeks after the start of March $2015$, not at the start of March $2015$.",
+  "source": "https://cooksat.com/practice?questionId=2240a3dc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2240a3dc/1-3a224c19b4b8dddb.png"
+    }
+  ]
+}

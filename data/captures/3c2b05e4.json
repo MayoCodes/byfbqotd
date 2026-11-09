@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "3c2b05e4",
+  "capturedAt": "2026-11-09T21:08:04.735Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A contractor is building a rectangular patio. The length of the patio is to be 7 feet longer than the width. If the area of the patio will be 144 square feet, what will be the length, in feet, of the patio?",
+  "choices": {},
+  "correctAnswer": "16",
+  "explanation": "The correct answer is $16$. Let $w$ represent the width of the rectangular patio, in feet. Since the length of the patio will be $7$ feet longer than the width, the length will be $w + 7$ feet. Thus the area of the patio will be $w(w + 7)$. It is also given that the area will be $144$ square feet. Therefore, $w(w + 7) = 144$, which is equivalent to $w^{2} + 7w - 144 = 0$. Factoring gives $(w + 16)(w - 9) = 0$, so $w = -16$ or $w = 9$. Because width cannot be negative, the width must be $9$ feet. Therefore, the length of the patio must be $9 + 7 = 16$ feet.",
+  "source": "https://cooksat.com/practice?questionId=3c2b05e4&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

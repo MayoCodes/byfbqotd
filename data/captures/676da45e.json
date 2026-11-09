@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "676da45e",
+  "capturedAt": "2026-11-09T21:10:49.743Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=3x2−4x+2. What is the value of f(5)−f(2)?",
+  "choices": {
+    "A": "27",
+    "B": "35",
+    "C": "45",
+    "D": "51"
+  },
+  "correctAnswer": "D",
+  "explanation": "To find $f(5) - f(2)$, first evaluate $f(5) = 3(5)^2 - 4(5) + 2 = 3(25) - 20 + 2 = 75 - 20 + 2 = 57$. Then evaluate $f(2) = 3(2)^2 - 4(2) + 2 = 3(4) - 8 + 2 = 12 - 8 + 2 = 6$. Therefore, $f(5) - f(2) = 57 - 6 = 51$.\n\nWhy C is incorrect:\n\nResults from correctly calculating both $f(5) = 57$ and $f(2) = 6$ but making an arithmetic error in the final subtraction: $57 - 6 = 45$.",
+  "source": "https://cooksat.com/practice?questionId=676da45e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

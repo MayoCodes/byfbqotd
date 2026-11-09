@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "17645e1c",
+  "capturedAt": "2026-11-09T21:05:38.838Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A rectangular garden plot has an area of 138 square feet. The length of the garden plot is 7 feet less than 5 times the width of the garden plot. What is the width of the garden plot, in feet?",
+  "choices": {},
+  "correctAnswer": "6",
+  "explanation": "The correct answer is $6$. Let $x$ represent the width, in feet, of the garden plot. It's given that the length of the garden plot is $7$ feet less than $5$ times its width, or $5x - 7$ feet. The area of a rectangle is equal to its width multiplied by its length. Multiplying the width, $x$ feet, by the length, $5x - 7$ feet, yields $x(5x - 7)$ square feet. It's given that the garden plot has an area of $138$ square feet, so it follows that $x(5x - 7) = 138$, or $5x^{2} - 7x = 138$. Subtracting $138$ from both sides of this equation yields $5x^{2} - 7x - 138 = 0$. Factoring the left-hand side of this equation yields $(5x + 23)(x - 6) = 0$. Applying the zero product property to this equation yields two solutions: $x = -\\frac{23}{5}$ and $x = 6$. Since $x$ is the garden plot's width, in feet, which must be positive, the value of $x$ is $6$. Therefore, the width of the garden plot, in feet, is $6$.",
+  "source": "https://cooksat.com/practice?questionId=17645e1c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

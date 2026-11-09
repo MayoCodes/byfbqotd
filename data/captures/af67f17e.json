@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "af67f17e",
+  "capturedAt": "2026-11-09T21:14:49.213Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A function h estimates that there were 5,400 bees in a colony in 2005. Each year from 2005 to 2018, the function estimates that the number of bees in this colony increased by 4% of the number of bees in the colony the previous year. Which equation defines this function, where h(x) is the estimated number of bees in the colony x years after 2005?",
+  "choices": {
+    "A": "h(x)=5,400(0.96)x",
+    "B": "h(x)=5,400(1.04)x",
+    "C": "h(x)=5,400(1.96)x",
+    "D": "h(x)=5,400(4)x"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that a function $h$ estimates that there were $5{,}400$ bees in a colony in $2005$ and that each year from $2005$ to $2018$, the number of bees in this colony increased by $4\\%$ of the number of bees in the colony the previous year. This situation can be represented by $h(x) = a\\left(1 + \\frac{r}{100}\\right)^{x}$, where $h(x)$ is the estimated number of bees $x$ years after $2005$, $a$ is the estimated number of bees in $2005$, and each year the estimated number of bees increased by $r\\%$. Substituting $5{,}400$ for $a$ and $4$ for $r$ yields $h(x) = 5{,}400\\left(1 + \\frac{4}{100}\\right)^{x}$, or $h(x) = 5{,}400(1.04)^{x}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This function represents a population in which each year the number of bees increased by $300\\%$, not $4\\%$, of the number of bees in the colony the previous year.",
+  "source": "https://cooksat.com/practice?questionId=af67f17e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

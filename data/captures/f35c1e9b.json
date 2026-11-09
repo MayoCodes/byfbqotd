@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "f35c1e9b",
+  "capturedAt": "2026-11-09T21:18:46.977Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "During the first trial of a test, a toy rocket was launched from a 9-foot-tall platform. The graph shows the height y, in feet, of the rocket x seconds after it was launched during the first trial.",
+  "choices": {
+    "A": "[Figure 2]",
+    "B": "[Figure 3]",
+    "C": "[Figure 4]",
+    "D": "[Figure 5]"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $y$ represents the height, in feet, of the rocket $x$ seconds after it was launched. It's also given that during the first trial, the rocket was launched from a $9$-foot-tall platform. Therefore, the y-coordinate of the y-intercept of the given graph, $9$, represents the platform height, in feet. During the second trial, the platform the rocket was launched from was $3$ feet shorter than the platform in the first trial. It follows that the height of the platform in the second trial was $9 - 3$ feet, or $6$ feet. Therefore, the y-coordinate of the y-intercept of the graph representing the second trial must be $6$. Additionally, the maximum height in the original graph is approximately $10$ feet. Since the entire trajectory is shifted down by $3$ feet, the new maximum height should be approximately $10 - 3$, or $7$ feet. Only choice B satisfies both conditions.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This graph shows a y-intercept of $7$ and a maximum height of approximately $8$ feet, which would result from shifting the original graph down by only $2$ feet rather than $3$ feet.",
+  "source": "https://cooksat.com/practice?questionId=f35c1e9b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f35c1e9b/1-ff07e9aac3a5d4ac.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/f35c1e9b/2-f6fa450044e8eda9.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/f35c1e9b/3-35d011e3f01c498e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/f35c1e9b/4-f2fd5110146564b0.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/f35c1e9b/5-499e55e3aeb4982c.png"
+    }
+  ]
+}

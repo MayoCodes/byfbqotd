@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "2ef14974",
+  "capturedAt": "2026-11-09T21:06:44.839Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The table shown gives the values of the function g for some values of x. Which of the following equations could define g?",
+  "choices": {
+    "A": "g(x)=7(3x+1)",
+    "B": "g(x)=7(3x)",
+    "C": "g(x)=7(3−(x+1))",
+    "D": "g(x)=7(3−x)"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Each choice has a function with coefficient $7$ and base $3$, so the exponents must be analyzed. When the input value of $x$ increases, the output value of $g(x)$ decreases, so the exponent must be negative. An exponent of $-x$ yields the values in the table: $7 = 7(3^{0})$, $\\frac{7}{3} = 7(3^{-1})$, $\\frac{7}{9} = 7(3^{-2})$, and $\\frac{7}{27} = 7(3^{-3})$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from choosing an equation that yields an increasing, rather than decreasing, output value of $g(x)$ when the input value of $x$ increases.",
+  "source": "https://cooksat.com/practice?questionId=2ef14974&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2ef14974/1-2f955bdff5163d65.png"
+    }
+  ]
+}

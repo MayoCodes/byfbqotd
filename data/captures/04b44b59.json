@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "04b44b59",
+  "capturedAt": "2026-11-09T21:04:20.167Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=4(x−3)2+k, where k is a constant. If f(6)=43, what is the minimum value of f(x)?",
+  "choices": {},
+  "correctAnswer": "7",
+  "explanation": "The correct answer is $7$. It's given that $f(x)=4(x-3)^2+k$ and $f(6)=43$. Substituting $6$ for $x$ yields $f(6)=4(6-3)^2+k=4(3)^2+k=4(9)+k=36+k$. Since $f(6)=43$, it follows that $36+k=43$. Subtracting $36$ from both sides gives $k=7$. The function $f(x)=4(x-3)^2+7$ is in vertex form $f(x)=a(x-h)^2+k$, where $a=4>0$. Since $a>0$, the parabola opens upward and has a minimum value at the vertex. The minimum value occurs when $(x-3)^2=0$, which gives $f(3)=4(0)+7=7$. Therefore, the minimum value of $f(x)$ is $7$.",
+  "source": "https://cooksat.com/practice?questionId=04b44b59&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

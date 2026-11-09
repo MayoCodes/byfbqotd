@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "f4131686",
+  "capturedAt": "2026-11-09T21:18:54.959Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The kinetic energy, in joules, of an object with mass 6 kilograms traveling at a speed of v meters per second is given by the function E, where E(v)=3v2.",
+  "choices": {
+    "A": "The object traveling at 15 meters per second has a kinetic energy of 675 joules.",
+    "B": "The object traveling at 150 meters per second has a kinetic energy of 675 joules.",
+    "C": "The object traveling at 675 meters per second has a kinetic energy of 15 joules.",
+    "D": "The object traveling at 6,750 meters per second has a kinetic energy of 15 joules."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the kinetic energy, in joules, of an object with mass $6$ kilograms traveling at a speed of $v$ meters per second is given by the function $E$, where $E(v) = 3v^{2}$. It follows that in the equation $E(15) = 675$, $15$ is the value of $v$, or the speed of the object in meters per second, and $675$ is the kinetic energy of the object, in joules, at that speed. Therefore, the best interpretation of $E(15) = 675$ in this context is the object traveling at $15$ meters per second has a kinetic energy of $675$ joules.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The object traveling at $150$ meters per second has a kinetic energy of $67{,}500$ joules, not $675$ joules.",
+  "source": "https://cooksat.com/practice?questionId=f4131686&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

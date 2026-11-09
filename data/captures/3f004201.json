@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3f004201",
+  "capturedAt": "2026-11-09T21:08:18.448Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a sequence, the first term is 6. Each term after the first is 5 times the preceding term. Which equation gives the nth term, a, of the sequence in terms of n?",
+  "choices": {
+    "A": "a=5(6n)",
+    "B": "a=5(6n−1)",
+    "C": "a=6(5n)",
+    "D": "a=6(5n−1)"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the first term of a sequence is $6$ and each term after the first is $5$ times the preceding term. This is a geometric sequence with first term $6$ and common ratio $5$. The $n$th term of a geometric sequence is given by $a=a_1 \\cdot r^{n-1}$, where $a_1$ is the first term and $r$ is the common ratio. Substituting $6$ for $a_1$ and $5$ for $r$ gives $a=6(5^{n-1})$.",
+  "source": "https://cooksat.com/practice?questionId=3f004201&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

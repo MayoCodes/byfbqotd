@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b7cac6f0",
+  "capturedAt": "2026-11-09T21:15:27.543Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "k(t)=−4.9t2+38t+6",
+  "choices": {
+    "A": "The initial height of the rocket",
+    "B": "The maximum height of the rocket",
+    "C": "The time at which the rocket reaches its maximum height",
+    "D": "The time at which the rocket hits the ground"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The positive $t$-intercept of the graph of $y = k(t)$ is a point $(t, y)$ for which $y = 0$. Since $y = k(t)$ models the height above the ground, in meters, of the rocket, a $y$-value of $0$ corresponds to the rocket being $0$ meters above the ground—that is, when the rocket is on the ground. Since $t$ represents the time since the rocket was launched, the positive $t$-intercept, $(t, 0)$, represents the time at which the rocket hits the ground.",
+  "source": "https://cooksat.com/practice?questionId=b7cac6f0&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

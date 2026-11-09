@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "84795214",
+  "capturedAt": "2026-11-09T21:12:37.706Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the quadratic function f(x)=x2−6x+5, what is the y-coordinate of the vertex?",
+  "choices": {
+    "A": "−5",
+    "B": "−4",
+    "C": "3",
+    "D": "5"
+  },
+  "correctAnswer": "B",
+  "explanation": "For a quadratic function $f(x) = ax^2 + bx + c$, the x-coordinate of the vertex is $x = -\\frac{b}{2a}$. Here, $a = 1$ and $b = -6$, so $x = -\\frac{(-6)}{2(1)} = 3$. To find the y-coordinate, substitute $x = 3$ into the function: $f(3) = (3)^2 - 6(3) + 5 = 9 - 18 + 5 = -4$.\n\nWhy D is incorrect:\n\nThis is the constant term $c$ from the original equation, not the y-coordinate of the vertex.",
+  "source": "https://cooksat.com/practice?questionId=84795214&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

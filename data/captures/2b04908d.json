@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2b04908d",
+  "capturedAt": "2026-11-09T21:06:35.687Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At a regional science fair, students launch a model rocket. The equation y=−16(x−4.5)2+395 gives the estimated height y, in feet, of the rocket x seconds after it is launched. Which of the following is the best interpretation of the vertex of the graph of the equation in the xy-plane?",
+  "choices": {
+    "A": "The rocket reaches an estimated maximum height of 4.5 feet 395 seconds after it is launched.",
+    "B": "The rocket reaches an estimated maximum height of 16 feet 395 seconds after it is launched.",
+    "C": "The rocket reaches an estimated maximum height of 395 feet 4.5 seconds after it is launched.",
+    "D": "The rocket reaches an estimated maximum height of 395 feet 16 seconds after it is launched."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The given equation $y = -16(x-4.5)^{2} + 395$ is in vertex form, $y = a(x-h)^{2} + k$, where the vertex of the parabola is at the point $(h, k)$. In this equation, $h = 4.5$ and $k = 395$, so the vertex is at $(4.5, 395)$. Since the coefficient $a = -16$ is negative, the parabola opens downward, which means the vertex represents the maximum point of the graph. It's given that $y$ represents the height in feet and $x$ represents the time in seconds after launch. Therefore, the vertex $(4.5, 395)$ means that $4.5$ seconds after the rocket is launched, it reaches its maximum estimated height of $395$ feet.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from confusing the magnitude of the leading coefficient, $16$, with the $x$-coordinate of the vertex. The vertex is at $(4.5, 395)$, not $(16, 395)$.",
+  "source": "https://cooksat.com/practice?questionId=2b04908d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

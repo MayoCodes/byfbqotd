@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "11c6b893",
+  "capturedAt": "2026-11-09T21:05:13.297Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2+8x+15. The function g is defined as g(x)=f(x−1). What is the value of g(x) when x=−2?",
+  "choices": {
+    "A": "0",
+    "B": "3",
+    "C": "8",
+    "D": "15"
+  },
+  "correctAnswer": "A",
+  "explanation": "Since $g(x) = f(x-1)$ and $f(x) = x^2 + 8x + 15$, we have $g(x) = (x-1)^2 + 8(x-1) + 15$. Expanding yields $g(x) = x^2 - 2x + 1 + 8x - 8 + 15 = x^2 + 6x + 8$. Substituting $x = -2$ gives $g(-2) = (-2)^2 + 6(-2) + 8 = 4 - 12 + 8 = 0$.",
+  "source": "https://cooksat.com/practice?questionId=11c6b893&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4e8281aa",
+  "capturedAt": "2026-11-09T21:09:07.339Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "h(x)=xb−23​+8",
+  "choices": {
+    "A": "r(x)=x+6b−23​+3",
+    "B": "r(x)=x−6b−23​+3",
+    "C": "r(x)=x+6b−28​+8",
+    "D": "r(x)=x−6b−28​+8"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the graph of $y = r(x)$ is produced by translating the graph of $y = h(x)$ $5$ units down and $6$ units to the right in the xy-plane. Therefore, function $r$ can be defined by $r(x) = h(x - 6) - 5$. Function $h$ is defined by $h(x) = \\frac{b - 23}{x} + 8$, where $b$ is a constant. Substituting $x - 6$ for $x$ yields $h(x - 6) = \\frac{b - 23}{x - 6} + 8$. Substituting this into $r(x) = h(x - 6) - 5$ gives $r(x) = \\frac{b - 23}{x - 6} + 8 - 5$, or $r(x) = \\frac{b - 23}{x - 6} + 3$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This equation defines a function whose graph is produced by translating the graph of $y = h(x)$ $5$ units down and $6$ units to the left, not $5$ units down and $6$ units to the right.",
+  "source": "https://cooksat.com/practice?questionId=4e8281aa&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

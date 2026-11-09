@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9c4d5f64",
+  "capturedAt": "2026-11-09T21:14:01.523Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the function g, for every increase of 2 in the value of x, the value of g(x) increases by a factor of k, where k is a constant. Which of the following equivalent forms of function g displays the value of k as the base or the coefficient?",
+  "choices": {
+    "A": "g(x)=55(2)4x",
+    "B": "g(x)=55(4)2x",
+    "C": "g(x)=55(16)x",
+    "D": "g(x)=55(256)2x​"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that for every increase of $2$ in the value of $x$, the value of $g(x)$ increases by a factor of $k$. This means that $g(x + 2) = k \\cdot g(x)$. For the form $g(x) = 55(256)^{\\frac{x}{2}}$, substituting $x + 2$ for $x$ yields $g(x + 2) = 55(256)^{\\frac{x + 2}{2}}$, which is equivalent to $g(x + 2) = 55(256)^{\\frac{x}{2} + 1}$, or $g(x + 2) = 55(256)^{\\frac{x}{2}} \\cdot (256)^{1}$. This can be rewritten as $g(x + 2) = 256 \\cdot g(x)$. Therefore, $k = 256$, which is displayed as the base in the form $g(x) = 55(256)^{\\frac{x}{2}}$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. For the form $g(x) = 55(16)^{x}$, substituting $x + 2$ for $x$ yields $g(x + 2) = 55(16)^{x + 2} = 55(16)^{x} \\cdot (16)^{2} = g(x) \\cdot 256$. Therefore, $k = 256$, but this form displays only $16$ as the base, not $256$. This choice may result from mistakenly identifying the base $16$ as the value of $k$.",
+  "source": "https://cooksat.com/practice?questionId=9c4d5f64&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

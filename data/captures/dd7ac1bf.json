@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "dd7ac1bf",
+  "capturedAt": "2026-11-09T21:17:32.569Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the function f(x)=x2+4x−5, what is the value of f(1)?",
+  "choices": {
+    "A": "−8",
+    "B": "0",
+    "C": "2",
+    "D": "10"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substituting $x = 1$ into $f(x) = x^2 + 4x - 5$ gives $f(1) = 1^2 + 4(1) - 5 = 1 + 4 - 5 = 0$.",
+  "source": "https://cooksat.com/practice?questionId=dd7ac1bf&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

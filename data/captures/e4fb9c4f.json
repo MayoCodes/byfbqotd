@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e4fb9c4f",
+  "capturedAt": "2026-11-09T21:18:00.325Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the exponential function g, the value of g(2) is k, where k is a constant. Which of the following equivalent forms of the function g shows the value of k as the coefficient or the base?",
+  "choices": {
+    "A": "g(x)=2(3)x+1",
+    "B": "g(x)=6(3)x",
+    "C": "g(x)=54(3)x−2",
+    "D": "g(x)=162(3)x−3"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. For the form $g(x) = 54(3)^{x - 2}$, evaluating at $x = 2$ gives $g(2) = 54(3)^{2 - 2} = 54(3)^{0} = 54$. Therefore $k = 54$, which is displayed as the coefficient in $g(x) = 54(3)^{x - 2}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. For $g(x) = 162(3)^{x - 3}$, the coefficient $162$ equals $g(3)$, not $g(2)$. Although this form is equivalent to the correct function, $k = 54$ is not displayed as a visible coefficient or base.",
+  "source": "https://cooksat.com/practice?questionId=e4fb9c4f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

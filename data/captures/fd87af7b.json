@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fd87af7b",
+  "capturedAt": "2026-11-09T21:19:24.856Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The product of a positive number w and the number that is 6 more than w is 135. What is the value of w?",
+  "choices": {
+    "A": "4",
+    "B": "9",
+    "C": "15",
+    "D": "27"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The number that is $6$ more than $w$ can be represented as $w + 6$. It's given that the product of $w$ and $w + 6$ is $135$, so $w(w + 6) = 135$, or $w^{2} + 6w = 135$. Subtracting $135$ from both sides yields $w^{2} + 6w - 135 = 0$. Factoring gives $(w - 9)(w + 15) = 0$. By the zero product property, $w = 9$ or $w = -15$. Since $w$ is positive, $w = 9$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is the value of the number that is $6$ more than $w$, not the value of $w$.",
+  "source": "https://cooksat.com/practice?questionId=fd87af7b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

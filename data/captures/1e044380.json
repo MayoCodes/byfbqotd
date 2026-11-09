@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "1e044380",
+  "capturedAt": "2026-11-09T21:05:50.441Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph gives the estimated number of members y, in hundreds, of a club v years since 2010, where 0≤v≤4. Which of the following best describes the increase in the estimated number of members from v=0 to v=1?",
+  "choices": {
+    "A": "The estimated number of members at v=1 is 0.25 times the estimated number of members at v=0.",
+    "B": "The estimated number of members at v=1 is 1.25 times the estimated number of members at v=0.",
+    "C": "The estimated number of members at v=1 is 2.25 times the estimated number of members at v=0.",
+    "D": "The estimated number of members at v=1 is 3.25 times the estimated number of members at v=0."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The $y$-axis represents the estimated number of members, in hundreds. The graph shows that when $v = 0$, the $y$-coordinate is $8$. Therefore, the estimated number of members at $v = 0$ is $800$. The graph also shows that when $v = 1$, the $y$-coordinate is $10$. Therefore, the estimated number of members at $v = 1$ is $1{,}000$. Dividing $1{,}000$ by $800$ yields $1.25$; therefore, $1{,}000$ is $1.25$ times $800$. It follows that the estimated number of members at $v = 1$ is $1.25$ times the estimated number of members at $v = 0$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from misreading the $y$-coordinates of the graph or adding $1$ to the correct multiplicative factor.",
+  "source": "https://cooksat.com/practice?questionId=1e044380&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1e044380/1-243a24eae679ab23.png"
+    }
+  ]
+}

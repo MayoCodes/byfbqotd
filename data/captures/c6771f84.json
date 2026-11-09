@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c6771f84",
+  "capturedAt": "2026-11-09T21:16:20.679Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2−3x. What is f(12)?",
+  "choices": {
+    "A": "108",
+    "B": "120",
+    "C": "144",
+    "D": "180"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Substituting $12$ for $x$ in the given function yields $f(12)=12^{2}-3(12)$, which is equivalent to $f(12)=144-36$, or $f(12)=108$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from an arithmetic error when subtracting $36$ from $144$.",
+  "source": "https://cooksat.com/practice?questionId=c6771f84&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

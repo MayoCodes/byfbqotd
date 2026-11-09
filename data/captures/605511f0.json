@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "605511f0",
+  "capturedAt": "2026-11-09T21:10:24.311Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A water balloon is launched from a balcony. The equation h=−4.9t2+12t+25 represents this situation, where h is the height of the water balloon above the ground, in meters, t seconds after it is launched. According to the equation, what is the height, in meters, from which the water balloon was launched?",
+  "choices": {},
+  "correctAnswer": "25",
+  "explanation": "The correct answer is $25$. It's given that a water balloon is launched from a balcony and that the equation $h = -4.9t^{2} + 12t + 25$ represents this situation, where $h$ is the height of the water balloon above the ground, in meters, $t$ seconds after it is launched. It follows that the height, in meters, from which the water balloon was launched is the value of $h$ when $t = 0$. Substituting $0$ for $t$ in the equation $h = -4.9t^{2} + 12t + 25$ yields $h = -4.9(0)^{2} + 12(0) + 25$, or $h = 25$. Therefore, according to the equation, the height, in meters, from which the water balloon was launched is $25$.",
+  "source": "https://cooksat.com/practice?questionId=605511f0&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "b6b6d9b9",
+  "capturedAt": "2026-11-09T21:15:24.415Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A drone was launched upward from a platform. The graph shown models the height above ground, y, in meters, of the drone x seconds after it was launched. For which of the following intervals of time was the height of the drone increasing for the entire interval?",
+  "choices": {
+    "A": "From x=0 to x=3",
+    "B": "From x=0 to x=6",
+    "C": "From x=3 to x=5",
+    "D": "From x=5 to x=6"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The variable $y$ represents the height, in meters, of the drone above the ground. The graph shows that the height of the drone was increasing from $x = 0$ to $x = 3$, and decreasing from $x = 3$ onward. Therefore, the height of the drone was increasing for the entire interval of time from $x = 0$ to $x = 3$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The height of the drone was decreasing, not increasing, for this entire interval of time.",
+  "source": "https://cooksat.com/practice?questionId=b6b6d9b9&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b6b6d9b9/1-b94ec34778113687.png"
+    }
+  ]
+}

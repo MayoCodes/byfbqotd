@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "4876f402",
+  "capturedAt": "2026-11-09T21:08:44.616Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Intercept from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Researchers recorded data about the depth of a submersible below the water's surface at a certain location over a period of 8 hours. The graph shown models the data, where y=0 represents the water's surface. Which table gives values of x and their corresponding values of y based on the model?",
+  "choices": {
+    "A": "[Table 2]",
+    "B": "[Table 3]",
+    "C": "[Table 4]",
+    "D": "[Table 5]"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Each point $(x, y)$ on the graph represents an elapsed time $x$, in hours, and the corresponding depth $y$, in feet, of the submersible below the water's surface based on the model. The graph shown passes through the points $(0, 0)$, $(4, -8)$, and $(8, 0)$. Thus, the table in choice C gives the values of $x$ and their corresponding values of $y$ based on the model.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from swapping the $x$- and $y$-coordinates of points on the graph. The graph passes through $(8, 0)$, not $(8, 4)$, and does not pass through $(-8, 0)$.",
+  "source": "https://cooksat.com/practice?questionId=4876f402&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4876f402/1-4e3f6ffda869927e.png"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/4876f402/2-5bb29e144728791c.png"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/4876f402/3-76eade58e4c068de.png"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/4876f402/4-dbf216b2f409f5d8.png"
+    },
+    {
+      "label": "Table 5",
+      "path": "data/capture-assets/4876f402/5-5ad2a0835ede326f.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9a4e3d4a",
+  "capturedAt": "2026-11-09T21:13:38.702Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If g(x)=21​(x−7)2, which of the following describes the graph of y=g(x) in the xy-plane?",
+  "choices": {
+    "A": "A parabola that opens downward with vertex (7,249​)",
+    "B": "A parabola that opens downward with vertex (27​,0)",
+    "C": "A parabola that opens upward with vertex (7,0)",
+    "D": "A parabola that opens upward with vertex (27​,0)"
+  },
+  "correctAnswer": "C",
+  "explanation": "The function $g(x)=\\frac{1}{2}(x-7)^{2}$ is in vertex form $g(x)=a(x-h)^{2}+k$ where $a=\\frac{1}{2}>0$, $h=7$, and $k=0$. Since $a>0$, the parabola opens upward. The vertex is at $(h,k)=(7,0)$.\n\nWhy A is incorrect:\n\nResults from correctly identifying the x-coordinate of the vertex as $7$, but incorrectly thinking the parabola opens downward and miscalculating the y-coordinate as $\\frac{49}{2}$ instead of $0$.",
+  "source": "https://cooksat.com/practice?questionId=9a4e3d4a&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

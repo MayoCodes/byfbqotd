@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "fab627c6",
+  "capturedAt": "2026-11-09T21:19:10.504Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangle has a length that is 8 times its width. The function y=(8p)(p) represents this situation, where y is the area, in square meters, of the rectangle and y>0. Which of the following is the best interpretation of 8p in this context?",
+  "choices": {
+    "A": "The area of the rectangle, in square meters",
+    "B": "The difference between the length and the width of the rectangle, in meters",
+    "C": "The length of the rectangle, in meters",
+    "D": "The width of the rectangle, in meters"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that a rectangle has a length that is $8$ times its width and that the function $y = (8p)(p)$ represents this situation, where $y$ is the area, in square meters, of the rectangle. The area of a rectangle is calculated by multiplying its length by its width. Since the length is $8$ times the width, it follows that $p$ represents the width of the rectangle, in meters, and $8p$ represents the length of the rectangle, in meters. Therefore, the best interpretation of $8p$ in this context is the length of the rectangle, in meters.",
+  "source": "https://cooksat.com/practice?questionId=fab627c6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

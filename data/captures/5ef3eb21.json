@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5ef3eb21",
+  "capturedAt": "2026-11-09T21:10:15.195Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=(x+0.5x)+x2. What is the value of f(2)?",
+  "choices": {
+    "A": "5",
+    "B": "7",
+    "C": "8",
+    "D": "10"
+  },
+  "correctAnswer": "B",
+  "explanation": "Combining like terms in the function gives $f(x) = 1.5x + x^2$. Substituting $2$ for $x$ yields $f(2) = 1.5(2) + (2)^2 = 3 + 4 = 7$.",
+  "source": "https://cooksat.com/practice?questionId=5ef3eb21&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

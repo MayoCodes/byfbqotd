@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "629bd078",
+  "capturedAt": "2026-11-09T21:10:36.680Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A function f is defined by f(x)=x2+3x−4. Which of the following statements is true about the graph of y=f(x)?",
+  "choices": {
+    "A": "The graph has a maximum at (−23​,−425​).",
+    "B": "The graph has a minimum at (0,−4).",
+    "C": "The graph has a maximum at (23​,45​).",
+    "D": "The graph has a minimum at (−23​,−425​)."
+  },
+  "correctAnswer": "D",
+  "explanation": "Since $f(x) = x^2 + 3x - 4$ has a positive coefficient for $x^2$, the parabola opens upward and has a minimum at its vertex. Using the vertex formula $x = -\\frac{b}{2a}$ with $a=1$ and $b=3$: $x = -\\frac{3}{2}$. Substituting: $f(-\\frac{3}{2}) = (-\\frac{3}{2})^2 + 3(-\\frac{3}{2}) - 4 = \\frac{9}{4} - \\frac{9}{2} - 4 = \\frac{9-18-16}{4} = -\\frac{25}{4}$.\n\nWhy B is incorrect:\n\nResults from incorrectly assuming the vertex is at $(0, -4)$ by evaluating $f(0) = -4$ without using the vertex formula to find the actual minimum location.",
+  "source": "https://cooksat.com/practice?questionId=629bd078&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

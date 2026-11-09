@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "cd438cfa",
+  "capturedAt": "2026-11-09T21:16:42.447Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=2x2−12x+10. What is the minimum value of f(x)?",
+  "choices": {},
+  "correctAnswer": "−8",
+  "explanation": "The correct answer is $-8$. To find the minimum value of $f(x)=2x^{2}-12x+10$, the function can be rewritten in vertex form $f(x)=a(x-h)^{2}+k$, where $k$ is the minimum value when $a>0$. First, factor out the coefficient of $x^{2}$ from the first two terms: $f(x)=2(x^{2}-6x)+10$. To complete the square, take half of the coefficient of $x$ (which is $-6$), square it to get $9$, and add and subtract this value inside the parentheses: $f(x)=2(x^{2}-6x+9-9)+10=2(x^{2}-6x+9)-18+10$. This can be written as $f(x)=2(x-3)^{2}-8$. Since the coefficient of the squared term is positive ($a=2>0$), the parabola opens upward and the minimum value occurs at the vertex. In vertex form $f(x)=a(x-h)^{2}+k$, the minimum value is $k=-8$. To verify, substitute $x=3$ into the original function: $f(3)=2(3)^{2}-12(3)+10=18-36+10=-8$, confirming the minimum. Therefore, the minimum value of $f(x)$ is $-8$.",
+  "source": "https://cooksat.com/practice?questionId=cd438cfa&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

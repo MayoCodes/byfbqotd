@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "72f8dba3",
+  "capturedAt": "2026-11-09T21:11:30.412Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x(x−1). What is the value of f(5)?",
+  "choices": {
+    "A": "0",
+    "B": "4",
+    "C": "20",
+    "D": "25"
+  },
+  "correctAnswer": "C",
+  "explanation": "Substitute $x = 5$ into $f(x) = x(x-1)$: $f(5) = 5(5-1) = 5(4) = 20$.\n\nWhy A is incorrect:\n\nResults from substituting $x = 0$ or $x = 1$ instead of $x = 5$: $f(0) = 0(0-1) = 0$ or $f(1) = 1(1-1) = 0$.",
+  "source": "https://cooksat.com/practice?questionId=72f8dba3&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

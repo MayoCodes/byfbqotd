@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "78651dfc",
+  "capturedAt": "2026-11-09T21:11:48.173Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g(x)=25,000(2)580x​ gives the number of yeast cells in a culture x hours after an initial observation. How much time, in hours, does it take for the number of yeast cells in the culture to double?",
+  "choices": {
+    "A": "2",
+    "B": "580",
+    "C": "1,160",
+    "D": "25,000"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For the number of yeast cells to double, the value of $g(x)$ must be twice the initial value. Since $g(0) = 25{,}000(2)^{0} = 25{,}000$, the number of yeast cells doubles when $g(x) = 50{,}000$. Setting $50{,}000 = 25{,}000(2)^{\\frac{x}{580}}$ and dividing both sides by $25{,}000$ yields $2 = 2^{\\frac{x}{580}}$. Since $2 = 2^{1}$, it follows that $\\frac{x}{580} = 1$, so $x = 580$.",
+  "source": "https://cooksat.com/practice?questionId=78651dfc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

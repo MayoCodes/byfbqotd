@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "278ad68e",
+  "capturedAt": "2026-11-09T21:06:23.453Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "f(x)=2x2+12x+1",
+  "choices": {},
+  "correctAnswer": "−17",
+  "explanation": "The correct answer is $-17$. The minimum value of a quadratic function in the form $f(x) = ax^2 + bx + c$ where $a > 0$ can be found by rewriting the function in vertex form $f(x) = a(x-h)^2 + k$, where the minimum value is $k$.\n\nTo convert $f(x) = 2x^2 + 12x + 1$ to vertex form, first factor out the coefficient of $x^2$ from the first two terms:\n\n$f(x) = 2(x^2 + 6x) + 1$\n\nNext, complete the square inside the parentheses. Take half of the coefficient of $x$ (which is $6$), square it to get $(\\frac{6}{2})^2 = 9$, and add and subtract this value:\n\n$f(x) = 2(x^2 + 6x + 9 - 9) + 1$\n$f(x) = 2((x+3)^2 - 9) + 1$\n\nDistribute the $2$:\n\n$f(x) = 2(x+3)^2 - 18 + 1$\n$f(x) = 2(x+3)^2 - 17$\n\nThis is now in vertex form $f(x) = a(x-h)^2 + k$ where $a = 2$, $h = -3$, and $k = -17$. Since $a = 2 > 0$, the parabola opens upward and the minimum value occurs at the vertex. Therefore, the minimum value of the function is $-17$.",
+  "source": "https://cooksat.com/practice?questionId=278ad68e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

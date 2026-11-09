@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "bbc546b1",
+  "capturedAt": "2026-11-09T21:15:43.042Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A vendor developed a plan to set the selling price of an item. The vendor determined that for a selling price of $80.00, zero items would be sold. For each $2.00 decrease in the selling price, the number of items sold would increase by one.",
+  "choices": {
+    "A": "18",
+    "B": "19",
+    "C": "396",
+    "D": "794"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Let $n$ represent the number of items sold. It's given that for a selling price of $$80.00$, zero items would be sold, and for each $$2.00$ decrease in the selling price, the number of items sold would increase by one. Therefore, the selling price can be represented by $P = 80 - 2n$. It's also given that revenue $=$ price $\\times$ number of items sold. Substituting $80 - 2n$ for the price and $n$ for the number of items sold yields revenue $= (80 - 2n)(n)$, or revenue $= 80n - 2n^{2}$. The question asks for the number of items sold when the revenue is exactly $$792.00$. Substituting $792$ for the revenue yields $792 = 80n - 2n^{2}$. This equation can be rewritten as $2n^{2} - 80n + 792 = 0$, or $n^{2} - 40n + 396 = 0$. Factoring the left-hand side of this equation yields $(n - 18)(n - 22) = 0$. By the zero product property, $n = 18$ or $n = 22$. Of these two values, only $18$ appears among the answer choices. Therefore, for a revenue of exactly $$792.00$, the number of items sold could be $18$.",
+  "source": "https://cooksat.com/practice?questionId=bbc546b1&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

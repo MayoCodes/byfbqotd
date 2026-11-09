@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "edf29409",
+  "capturedAt": "2026-11-09T21:18:26.726Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a certain nature reserve, the population of monarch butterflies is estimated each year by counting the number of butterflies observed per acre of meadow. On average, each year from 2008 to 2020 the number of butterflies counted per acre decreased by 2.8% of the number of butterflies per acre the previous year. Based on this average, if there were 8.47 butterflies per acre in this reserve in 2008, which of the following best approximates the number of butterflies per acre in 2020?",
+  "choices": {
+    "A": "0.972(8.47)12",
+    "B": "1.028(8.47)12",
+    "C": "8.47(0.028)12",
+    "D": "8.47(0.972)12"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Because the population decreases by the same percentage each year, the relationship between the number of butterflies per acre and the number of years can be modeled with an exponential decay function in the form $P(t) = a \\cdot (1 - r)^{t}$, where $P(t)$ is the population per acre after $t$ years, $a$ is the initial population per acre, $r$ is the rate of decrease each year expressed as a decimal, and $t$ is the number of years. It's given that there were $8.47$ butterflies per acre in $2008$ and that the population decreased by $2.8\\%$ each year, so $a = 8.47$ and $r = 0.028$. The number of years from $2008$ to $2020$ is $12$, so $t = 12$. Substituting these values into the decay function yields $P(12) = 8.47 \\cdot (1 - 0.028)^{12}$, which simplifies to $P(12) = 8.47(0.972)^{12}$.",
+  "source": "https://cooksat.com/practice?questionId=edf29409&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

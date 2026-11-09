@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3a2c1564",
+  "capturedAt": "2026-11-09T21:08:01.432Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The area of a rectangular garden plot is 1,855 square feet. The plot's length x, in feet, is 18 feet longer than its width, in feet. Which equation represents this situation?",
+  "choices": {
+    "A": "0=x2−18x−1,855",
+    "B": "0=x2−18x+1,855",
+    "C": "0=x2+18x−1,855",
+    "D": "0=x2+18x+1,855"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the plot's length $x$, in feet, is $18$ feet longer than its width, in feet. It follows that the plot's width, in feet, can be represented by the expression $x - 18$. The area of a rectangle is the product of its length and its width. It's given that the area of the plot is $1{,}855$ square feet, so it follows that $1{,}855 = x\\left(x - 18\\right)$, or $1{,}855 = x^{2} - 18x$. Subtracting $1{,}855$ from each side of this equation yields $0 = x^{2} - 18x - 1{,}855$. Therefore, the equation that represents this situation is $0 = x^{2} - 18x - 1{,}855$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from representing the width, in feet, of the plot as $18 - x$, rather than $x - 18$.",
+  "source": "https://cooksat.com/practice?questionId=3a2c1564&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

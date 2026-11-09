@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "4d81f3b8",
+  "capturedAt": "2026-11-09T21:09:00.865Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(d)=800(0.5)8d​",
+  "choices": {
+    "A": "21​",
+    "B": "8",
+    "C": "400",
+    "D": "800"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The function $g$ models the intensity of a sonar pulse, in number of acoustic units, $d$ meters below the surface of a body of water. At the surface of the water, the pulse is $0$ meters below the surface, so $d = 0$. Substituting $0$ for $d$ in $g(d) = 800(0.5)^{\\frac{d}{8}}$ yields $g(0) = 800(0.5)^{\\frac{0}{8}} = 800(0.5)^{0}$. Since any positive number raised to the $0$ power equals $1$, $g(0) = 800(1) = 800$. Therefore, the estimated number of acoustic units in the sonar pulse at the surface is $800$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is the value of $g(8)$, the intensity $8$ meters below the surface, not at the surface where $d = 0$.",
+  "source": "https://cooksat.com/practice?questionId=4d81f3b8&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

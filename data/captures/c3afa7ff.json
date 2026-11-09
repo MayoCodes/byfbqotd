@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "c3afa7ff",
+  "capturedAt": "2026-11-09T21:16:07.849Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "f(x)=(x+2)(x−1)(x+3)",
+  "choices": {},
+  "correctAnswer": "16",
+  "explanation": "The correct answer is $16$. Shifting the graph of $y = f(x)$ down 4 units gives $g(x) = f(x) - 4 = (x + 2)(x - 1)(x + 3) - 4$. Substituting $x = 2$: $g(2) = (2 + 2)(2 - 1)(2 + 3) - 4 = (4)(1)(5) - 4 = 20 - 4 = 16$. Therefore, the value of $b$ is $16$.",
+  "source": "https://cooksat.com/practice?questionId=c3afa7ff&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

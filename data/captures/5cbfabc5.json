@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5cbfabc5",
+  "capturedAt": "2026-11-09T21:10:12.238Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "y=5(x+m)(x−m)(x−n)(x+m)",
+  "choices": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. An x-intercept of a graph in the xy-plane is a point on the graph where the value of $y$ is $0$. Substituting $0$ for $y$ in the given equation yields $0 = 5 \\left( x + m \\right) \\left( x - m \\right) \\left( x - n \\right) \\left( x + m \\right)$. By the zero product property, the solutions to this equation are $x = -m$, $x = m$, $x = n$, and $x = -m$. However, $x = -m$ appears twice. It's given that $m$ and $n$ are unique positive constants. It follows that the equation $0 = 5 \\left( x + m \\right) \\left( x - m \\right) \\left( x - n \\right) \\left( x + m \\right)$ has $3$ unique solutions: $x = -m$, $x = m$, and $x = n$. Thus, the graph of the given equation has $3$ distinct x-intercepts.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from incorrectly treating $(x - m)$ and $(x + m)$ as producing the same zero.",
+  "source": "https://cooksat.com/practice?questionId=5cbfabc5&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

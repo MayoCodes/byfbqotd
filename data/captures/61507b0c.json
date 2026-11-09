@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "61507b0c",
+  "capturedAt": "2026-11-09T21:10:30.393Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A podcast began in March 2020 with 2,400 listeners. For each of the next 18 months after March 2020, the total number of listeners to the podcast was 4% greater than the total number of listeners in the previous month. Which equation gives the total number of listeners, n, to the podcast w months after March 2020, where w≤18?",
+  "choices": {
+    "A": "n=2,400(0.04)w",
+    "B": "n=2,400(1.04)w",
+    "C": "n=2,400(1.4)w",
+    "D": "n=2,400(4)w"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that in March $2020$, there were $2{,}400$ listeners to a podcast and for each of the next $18$ months after March $2020$, the total number of listeners each month was $4\\%$ greater than the total number of listeners in the previous month. This situation can be represented by the equation $n = a\\left(1 + \\frac{r}{100}\\right)^{w}$, where $n$ is the total number of listeners $w$ months after March $2020$, $a$ is the number of listeners in March $2020$, and the total number of listeners each month was $r\\%$ greater than the total number of listeners in the previous month. Substituting $2{,}400$ for $a$ and $4$ for $r$ in this equation yields $n = 2{,}400\\left(1 + \\frac{4}{100}\\right)^{w}$, or $n = 2{,}400\\left(1.04\\right)^{w}$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This equation represents a situation where the total number of listeners each month was $40\\%$, not $4\\%$, greater than the total number of listeners in the previous month.",
+  "source": "https://cooksat.com/practice?questionId=61507b0c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a54ed321",
+  "capturedAt": "2026-11-09T21:14:24.703Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Intercept from Graph",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The x-intercept of the graph shown is (x,0). What is the value of x?",
+  "choices": {},
+  "correctAnswer": "5",
+  "explanation": "The correct answer is $5$. It's given that the x-intercept of the graph shown is $\\left( x, 0 \\right)$. The graph passes through the point $\\left( 5, 0 \\right)$. Therefore, the value of $x$ is $5$.",
+  "source": "https://cooksat.com/practice?questionId=a54ed321&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a54ed321/1-997f43bfa02a8457.png"
+    }
+  ]
+}

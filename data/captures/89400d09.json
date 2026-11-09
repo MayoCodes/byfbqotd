@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "89400d09",
+  "capturedAt": "2026-11-09T21:12:53.641Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The size of a moss colony doubles every week. At the start of a study, the moss colony has a size of 48,000 cells. Which of the following represents the size of the moss colony, y, w weeks after the start of the study?",
+  "choices": {
+    "A": "y=21​(48,000)w",
+    "B": "y=2(48,000)w",
+    "C": "y=48,000(21​)w",
+    "D": "y=48,000(2)w"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since the size of the moss colony doubles every week, the relationship between $w$ and $y$ can be represented by an exponential equation of the form $y = a(b)^{w}$, where $a$ is the size of the colony at the start of the study and the size increases by a factor of $b$ every week. It's given that the colony has a size of $48{,}000$ cells at the start of the study, so $a = 48{,}000$. Since the size doubles, or increases by a factor of $2$, every week, $b = 2$. Substituting these values into $y = a(b)^{w}$ yields $y = 48{,}000(2)^{w}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from misinterpreting the structure of an exponential equation. In this equation, the initial size $48{,}000$ is incorrectly placed in the base rather than as the coefficient, and $\\frac{1}{2}$ is incorrectly used as the coefficient.",
+  "source": "https://cooksat.com/practice?questionId=89400d09&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

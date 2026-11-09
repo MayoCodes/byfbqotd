@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "ed6813d7",
+  "capturedAt": "2026-11-09T21:18:23.792Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x3−6x2+11x−6. If r, s, and t are the three zeros of f, what is the value of r+s+t?",
+  "choices": {},
+  "correctAnswer": "6",
+  "explanation": "The correct answer is $6$. For a polynomial function of the form $f(x) = x^3 + bx^2 + cx + d$, where the coefficient of $x^3$ is $1$, the sum of the zeros equals $-b$ by Vieta's formulas. The given function $f(x) = x^3 - 6x^2 + 11x - 6$ can be written as $f(x) = x^3 + (-6)x^2 + 11x + (-6)$, so $b = -6$. Therefore, the sum of the three zeros is $r + s + t = -(-6) = 6$.\n\nAlternatively, the function can be factored as $f(x) = (x-1)(x-2)(x-3)$, giving zeros $r = 1$, $s = 2$, and $t = 3$. Thus $r + s + t = 1 + 2 + 3 = 6$, confirming the answer.",
+  "source": "https://cooksat.com/practice?questionId=ed6813d7&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

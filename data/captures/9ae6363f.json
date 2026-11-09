@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9ae6363f",
+  "capturedAt": "2026-11-09T21:13:48.076Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function h is defined by h(x)=x3−2x2+x. What is the value of h(−1)−h(−2)?",
+  "choices": {
+    "A": "−14",
+    "B": "10",
+    "C": "14",
+    "D": "22"
+  },
+  "correctAnswer": "C",
+  "explanation": "First find $h(-1)=(-1)^3-2(-1)^2+(-1)=-1-2-1=-4$. Next find $h(-2)=(-2)^3-2(-2)^2+(-2)=-8-8-2=-18$. Therefore, $h(-1)-h(-2)=-4-(-18)=-4+18=14$.\n\nWhy A is incorrect:\n\nResults from correctly finding $h(-1)=-4$ and $h(-2)=-18$, but computing the subtraction as $-4-18=-22$, then making a sign or calculation error to arrive at $-14$.",
+  "source": "https://cooksat.com/practice?questionId=9ae6363f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

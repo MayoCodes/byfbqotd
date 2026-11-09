@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "dc0cfd50",
+  "capturedAt": "2026-11-09T21:17:29.136Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=ax2−k, where a and k are constants. The graph of y=f(x) in the xy-plane has its vertex at (0,−8) and passes through the point (2,−32). What is the value of a?",
+  "choices": {
+    "A": "−10",
+    "B": "−6",
+    "C": "−4",
+    "D": "10"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since the vertex is at $(0,-8)$, we have $f(0) = -8$. Substituting into $f(x) = ax^2 - k$ gives $-k = -8$, so $k = 8$. Thus $f(x) = ax^2 - 8$. Since the graph passes through $(2,-32)$, we have $4a - 8 = -32$, so $4a = -24$, giving $a = -6$.\n\nWhy D is incorrect:\n\nResults from a sign error with the point's y-coordinate. Using $4a - 8 = 32$ instead of $4a - 8 = -32$ gives $4a = 40$, leading to $a = 10$.",
+  "source": "https://cooksat.com/practice?questionId=dc0cfd50&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

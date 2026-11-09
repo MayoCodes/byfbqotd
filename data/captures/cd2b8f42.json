@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "cd2b8f42",
+  "capturedAt": "2026-11-09T21:16:38.593Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph gives the estimated number of printed newsletters y, in hundreds, a nonprofit organization mailed to its members at the end of each year, where x represents the number of years since the end of 2005, where 0≤x≤12. Which statement is the best interpretation of the y-intercept in this context?",
+  "choices": {
+    "A": "The estimated total number of printed newsletters the organization mailed to its members from the end of 2005 to the end of 2017 was 70.",
+    "B": "The estimated number of printed newsletters the organization mailed to its members at the end of 2005 was 7.",
+    "C": "The estimated total number of printed newsletters the organization mailed to its members during the first 12 years was 700.",
+    "D": "The estimated number of printed newsletters the organization mailed to its members at the end of 2005 was 700."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The y-intercept of the graph is the point at which the graph crosses the y-axis, or the point for which the value of $x$ is $0$. Therefore, the y-intercept of the given graph is the point $\\left(0, 7\\right)$. It's given that $x$ represents the number of years since the end of $2005$. Therefore, $x = 0$ represents $0$ years since the end of $2005$, which is the same as the end of $2005$. It's also given that $y$ represents the estimated number of printed newsletters, in hundreds, that the organization mailed to its members at the end of the year. Therefore, $y = 7$ represents $700$ newsletters. It follows that the y-intercept $\\left(0, 7\\right)$ means that the estimated number of printed newsletters the organization mailed to its members at the end of $2005$ was $700$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from misinterpreting the y-intercept as representing a total over the entire $12$-year period instead of the value at a single point in time.",
+  "source": "https://cooksat.com/practice?questionId=cd2b8f42&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/cd2b8f42/1-a5f6b6926425d329.png"
+    }
+  ]
+}

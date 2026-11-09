@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ec8da674",
+  "capturedAt": "2026-11-09T21:18:20.551Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2+10x+24. If g(x)=f(x−2) and h(x)=g(x)−f(x), what is the value of h(0)?",
+  "choices": {
+    "A": "−25",
+    "B": "−16",
+    "C": "−1",
+    "D": "1"
+  },
+  "correctAnswer": "B",
+  "explanation": "First, find $g(x) = f(x-2) = (x-2)^2 + 10(x-2) + 24$. Expanding gives $g(x) = x^2 - 4x + 4 + 10x - 20 + 24 = x^2 + 6x + 8$. Then $h(x) = g(x) - f(x) = (x^2 + 6x + 8) - (x^2 + 10x + 24) = -4x - 16$. Therefore, $h(0) = -4(0) - 16 = -16$.",
+  "source": "https://cooksat.com/practice?questionId=ec8da674&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

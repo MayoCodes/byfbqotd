@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e3d192f2",
+  "capturedAt": "2026-11-09T21:17:54.343Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function N(w)=12(1.25)w gives the estimated number of weeds in a garden plot, where w is the number of weeks since the plot was first measured. Which of the following is the best interpretation of the number 12 in this context?",
+  "choices": {
+    "A": "The estimated number of weeds when the plot was first measured",
+    "B": "The increase in the estimated number of weeds each week",
+    "C": "The number of weeks since the plot was first measured",
+    "D": "The percent increase in the estimated number of weeds each week"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For an exponential function of the form $N(w) = a(b)^{w}$, where $a$ and $b$ are constants, the initial value of the function—the value when $w = 0$—is $a$, and the value is multiplied by $b$ each time $w$ increases by $1$. Since $N(w) = 12(1.25)^{w}$ gives the estimated number of weeds in the plot and $w$ is the number of weeks since the plot was first measured, evaluating at $w = 0$ gives $N(0) = 12(1.25)^{0} = 12$. Therefore, the best interpretation of the number $12$ is the estimated number of weeds when the plot was first measured.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The variable $w$ represents the number of weeks since the plot was first measured; $12$ is an output value (a number of weeds), not an input value (a number of weeks).",
+  "source": "https://cooksat.com/practice?questionId=e3d192f2&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
