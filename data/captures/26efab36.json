@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "26efab36",
+  "capturedAt": "2026-11-09T21:06:20.552Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "What is an x-coordinate of an x-intercept of the graph of y=5(x−11)(x+7)(x+2) in the xy-plane?",
+  "choices": {},
+  "correctAnswer": "11,−7,−2",
+  "explanation": "The correct answer is either $11$, $-7$, or $-2$. The x-intercepts of a graph in the xy-plane are the points at which the graph intersects the x-axis, or where $y = 0$. Substituting $0$ for $y$ in the given equation yields $0 = 5\\left(x - 11\\right)\\left(x + 7\\right)\\left(x + 2\\right)$. Dividing both sides by $5$ yields $0 = \\left(x - 11\\right)\\left(x + 7\\right)\\left(x + 2\\right)$. By the zero product property, $x - 11 = 0$, $x + 7 = 0$, or $x + 2 = 0$. Solving each equation gives $x = 11$, $x = -7$, or $x = -2$. Therefore, the x-coordinates of the x-intercepts are $11$, $-7$, and $-2$. Note that 11, -7, and -2 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=26efab36&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

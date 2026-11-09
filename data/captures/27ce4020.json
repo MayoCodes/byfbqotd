@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "27ce4020",
+  "capturedAt": "2026-11-09T21:06:26.470Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g(t)=41​(t−6)2+3 gives a drone's height above the ground g(t), in feet, t seconds after it began a guided flight, where 0≤t≤12. Which of the following is the best interpretation of the vertex of the graph of y=g(t) in the ty-plane?",
+  "choices": {
+    "A": "The drone's minimum height was 3 feet above the ground.",
+    "B": "The drone's minimum height was 6 feet above the ground.",
+    "C": "The drone's height was 3 feet above the ground when it began its flight.",
+    "D": "The drone's height was 6 feet above the ground when it began its flight."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The function $g(t) = \\frac{1}{4}(t - 6)^{2} + 3$ is in vertex form, so the vertex of the graph of $y = g(t)$ is $(6, 3)$. Because the coefficient $\\frac{1}{4}$ is positive, the parabola opens upward and the vertex is the minimum point. Since $t$ represents the time in seconds after the drone began its flight and $g(t)$ represents the height in feet, the vertex $(6, 3)$ indicates that the drone's minimum height was $3$ feet above the ground, occurring $6$ seconds after it began its flight.",
+  "source": "https://cooksat.com/practice?questionId=27ce4020&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

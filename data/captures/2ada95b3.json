@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "2ada95b3",
+  "capturedAt": "2026-11-09T21:06:32.712Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A blog post had 35 comments when it was first published. Each hour after publication, the number of comments increased by 220% of the number of comments from the previous hour. Which equation best represents this model, where N is the number of comments h hours after publication?",
+  "choices": {
+    "A": "N=35(1.22)h",
+    "B": "N=35(2.2)h",
+    "C": "N=35(2.22)h",
+    "D": "N=35(3.2)h"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The initial number of comments is $35$, so the model has the form $N = 35 \\cdot a^h$. An increase of $220\\%$ means the number of new comments each hour is $2.2$ times the previous total. The total after each hour is the original plus the increase: $1 + 2.2 = 3.2$ times the previous hour's comments. Therefore, the growth factor is $3.2$, and the equation is $N = 35(3.2)^h$.",
+  "source": "https://cooksat.com/practice?questionId=2ada95b3&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

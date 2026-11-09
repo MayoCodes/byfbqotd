@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "27cf0d80",
+  "capturedAt": "2026-11-09T21:06:29.382Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Intercept from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph of the quadratic function f is shown. What is the y-intercept of the graph of f?",
+  "choices": {
+    "A": "(−3​,0)",
+    "B": "(0,−3)",
+    "C": "(0,3)",
+    "D": "(3​,0)"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The $y$-intercept is the point where the graph crosses the $y$-axis. The graph shows that the parabola crosses the $y$-axis at $(0, 3)$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The graph crosses the $y$-axis at $(0, 3)$, not $(0, -3)$.",
+  "source": "https://cooksat.com/practice?questionId=27cf0d80&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/27cf0d80/1-0172cdb2aaf1ed42.png"
+    }
+  ]
+}
