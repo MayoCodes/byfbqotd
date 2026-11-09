@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "bd474e18",
+  "capturedAt": "2026-11-09T21:15:45.980Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A sample of a certain isotope takes 18 years to decay to half its original mass. The function m(t)=320(0.5)18t​ gives the approximate mass of this isotope, in grams, that remains t years after a 320-gram sample starts to decay. Which statement is the best interpretation of m(72)=20 in this context?",
+  "choices": {
+    "A": "Approximately 20 grams of the sample remains 72 years after the sample starts to decay.",
+    "B": "The mass of the sample has decreased by approximately 20 grams 72 years after the sample starts to decay.",
+    "C": "The mass of the sample has decreased by approximately 72 grams 20 years after the sample starts to decay.",
+    "D": "Approximately 72 grams of the sample remains 20 years after the sample starts to decay."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. In the given function, $m(t)$ represents the approximate mass, in grams, of the sample that remains $t$ years after the sample starts to decay. It follows that the best interpretation of $m(72) = 20$ is that approximately $20$ grams of the sample remains $72$ years after the sample starts to decay.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The mass of the sample has decreased by approximately $172$ grams, not $72$ grams, $20$ years after the sample starts to decay.",
+  "source": "https://cooksat.com/practice?questionId=bd474e18&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
