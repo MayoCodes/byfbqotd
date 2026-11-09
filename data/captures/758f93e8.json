@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "758f93e8",
+  "capturedAt": "2026-11-09T21:11:42.029Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the function g, the table gives three values of x and their corresponding values of g(x). Which equation could define g?",
+  "choices": {
+    "A": "g(x)=3x",
+    "B": "g(x)=3x+3",
+    "C": "g(x)=3x+23",
+    "D": "g(x)=3x+24"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The table shows that when $x = 0$, $g(x) = 25$; when $x = 1$, $g(x) = 27$; and when $x = 2$, $g(x) = 33$. Substituting $0$ for $x$ in the equation $g(x) = 3^{x} + 24$ yields $g(0) = 3^{0} + 24$, or $g(0) = 1 + 24 = 25$. Substituting $1$ for $x$ in the equation $g(x) = 3^{x} + 24$ yields $g(1) = 3^{1} + 24$, or $g(1) = 3 + 24 = 27$. Substituting $2$ for $x$ in the equation $g(x) = 3^{x} + 24$ yields $g(2) = 3^{2} + 24$, or $g(2) = 9 + 24 = 33$. Therefore, the equation $g(x) = 3^{x} + 24$ correctly defines $g$ for all three values in the table.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from omitting the constant term. Substituting $0$ for $x$ in $g(x) = 3^{x}$ yields $g(0) = 1$, which doesn't match the table value of $25$.",
+  "source": "https://cooksat.com/practice?questionId=758f93e8&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/758f93e8/1-1e8222a1d25d41f3.png"
+    }
+  ]
+}

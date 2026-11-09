@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "74d7ad81",
+  "capturedAt": "2026-11-09T21:11:37.751Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The table shows several values of the function g. If g is a polynomial function of degree at most 3, what is the value of g(6)?",
+  "choices": {
+    "A": "216",
+    "B": "246",
+    "C": "252",
+    "D": "288"
+  },
+  "correctAnswer": "C",
+  "explanation": "The pattern in the table can be modeled by $g(x) = x^3 + x^2$. Substituting each value: $g(1) = 1 + 1 = 2$, $g(2) = 8 + 4 = 12$, $g(3) = 27 + 9 = 36$, $g(4) = 64 + 16 = 80$, and $g(5) = 125 + 25 = 150$. All values match. Therefore, $g(6) = 6^3 + 6^2 = 216 + 36 = 252$.\n\nWhy B is incorrect:\n\nThis may result from calculating $6^3 + 6^2 - 6 = 246$, incorrectly subtracting an extra linear term.",
+  "source": "https://cooksat.com/practice?questionId=74d7ad81&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/74d7ad81/1-2bb286fcdaafec5d.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "7a647b17",
+  "capturedAt": "2026-11-09T21:11:54.440Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g(t)=800(0.5)14t​ gives the predicted sound level g(t), in acoustic units, at a distance of t meters from a certain speaker. What is the best interpretation of g(14)=400?",
+  "choices": {
+    "A": "At the speaker, the predicted sound level is 14 acoustic units.",
+    "B": "At the speaker, the predicted sound level is 400 acoustic units.",
+    "C": "At a distance of 14 meters from the speaker, the predicted sound level is 400 acoustic units.",
+    "D": "At a distance of 400 meters from the speaker, the predicted sound level is 800 acoustic units."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the function $g(t) = 800(0.5)^{\\frac{t}{14}}$ gives the predicted sound level $g(t)$, in acoustic units, at a distance of $t$ meters from a certain speaker. It follows that in the equation $g(14) = 400$, $14$ is the value of $t$, or the distance from the speaker in meters, and $400$ is the predicted sound level $g(t)$, in acoustic units, at that distance. Therefore, the best interpretation of $g(14) = 400$ is that at a distance of $14$ meters from the speaker, the predicted sound level is $400$ acoustic units.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from correctly identifying $400$ as the predicted sound level but incorrectly identifying the location as the speaker. A location at the speaker corresponds to $t = 0$, not $t = 14$, and has a predicted sound level of $g(0) = 800$ acoustic units.",
+  "source": "https://cooksat.com/practice?questionId=7a647b17&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

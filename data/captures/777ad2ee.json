@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "777ad2ee",
+  "capturedAt": "2026-11-09T21:11:45.277Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(x)=8,500(0.82)x",
+  "choices": {
+    "A": "The estimated percent decrease in the fish population in the lake every 6 years after 2012",
+    "B": "The estimated percent decrease in the fish population in the lake each year after 2012",
+    "C": "The estimated fish population in the lake 6 years after 2012",
+    "D": "The estimated initial fish population in the lake in 2012"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Substituting $0$ for $x$ in the given equation yields $g \\left( 0 \\right) = 8{,}500 \\left( 0.82 \\right)^{0}$, which is equivalent to $g \\left( 0 \\right) = 8{,}500 \\left( 1 \\right)$, or $g \\left( 0 \\right) = 8{,}500$. It's given that the function estimates the fish population $x$ years after $2012$, so it follows that the estimated fish population is $8{,}500$ in $2012$. Therefore, the best interpretation of $8{,}500$ in this context is the estimated initial fish population in the lake in $2012$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from conceptual errors.",
+  "source": "https://cooksat.com/practice?questionId=777ad2ee&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
