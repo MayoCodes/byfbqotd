@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "c3867e50",
+  "capturedAt": "2026-11-09T21:16:04.683Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "g(x)=(x−4)(x+19)",
+  "choices": {},
+  "correctAnswer": "−15/2,−7.5,−7.50",
+  "explanation": "The correct answer is $-\\frac{15}{2}$. The value of $x$ at which $g(x)$ reaches its minimum is the $x$-coordinate of the vertex of the parabola $y = g(x)$, which is the midpoint of the two $x$-intercepts. Since $g(x) = (x - 4)(x + 19)$, the $x$-intercepts occur at $x = 4$ and $x = -19$. The midpoint of these values is $\\frac{4 + (-19)}{2} = -\\frac{15}{2}$. Therefore, $g(x)$ reaches its minimum when $x = -\\frac{15}{2}$. Alternate approach: Expanding gives $g(x) = x^{2} + 15x - 76$. Completing the square yields $g(x) = \\left(x + \\frac{15}{2}\\right)^{2} - \\frac{225}{4} - 76 = \\left(x - \\left(-\\frac{15}{2}\\right)\\right)^{2} - \\frac{529}{4}$, so the minimum occurs at $x = -\\frac{15}{2}$. Note that -15/2, -7.5, and -7.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=c3867e50&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

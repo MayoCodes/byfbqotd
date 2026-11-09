@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "bdd3798c",
+  "capturedAt": "2026-11-09T21:15:48.995Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A scientist is growing two bacteria cultures. Culture A begins with 200 bacteria and increases by 15% each hour. Culture B begins with 150 bacteria and increases by 20% each hour. What is the minimum number of hours after which Culture B will contain more bacteria than Culture A?",
+  "choices": {
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9"
+  },
+  "correctAnswer": "B",
+  "explanation": "After $t$ hours, Culture A contains $200(1.15)^t$ bacteria and Culture B contains $150(1.20)^t$ bacteria. At $t = 6$: Culture A has $200(1.15)^6 \\approx 462.6$ and Culture B has $150(1.20)^6 \\approx 447.9$, so Culture A still has more. At $t = 7$: Culture A has $200(1.15)^7 \\approx 532.0$ and Culture B has $150(1.20)^7 \\approx 537.5$, so Culture B first exceeds Culture A after $7$ hours.",
+  "source": "https://cooksat.com/practice?questionId=bdd3798c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

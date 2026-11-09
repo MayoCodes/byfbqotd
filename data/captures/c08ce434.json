@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c08ce434",
+  "capturedAt": "2026-11-09T21:16:01.715Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "B(v)=240×(0.85)v",
+  "choices": {
+    "A": "For every increase in volume by 1 liter, the number of bacteria colonies decreases by 15%.",
+    "B": "For every increase in volume by 1 liter, the number of bacteria colonies decreases by 240.",
+    "C": "For every increase in volume by 1,000 liters, the number of bacteria colonies decreases by 240.",
+    "D": "For every increase in volume by 1,000 liters, the number of bacteria colonies decreases by 15%."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The function $B$ is exponential, so $B(v)$ changes by a fixed percentage for each increase in $v$ by $1$. Since $v$ is measured in thousands of liters, the number of bacteria colonies changes by a fixed percentage for each increase in volume by $1{,}000$ liters. Because the base of the exponent is $0.85$, which is less than $1$, the number of colonies decreases as the volume increases. Specifically, the number of bacteria colonies at a volume of $v + 1{,}000$ liters is $85\\%$ of the number at a volume of $v$ liters. This means that for each increase in volume by $1{,}000$ liters, the number of bacteria colonies decreases by $15\\%$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This describes a situation where the number of bacteria colonies is decreasing linearly rather than exponentially, and also misinterprets the unit of $v$.",
+  "source": "https://cooksat.com/practice?questionId=c08ce434&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "bf6b37cd",
+  "capturedAt": "2026-11-09T21:15:55.461Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g is defined by g(x)=∣x−6x∣. What value of a satisfies g(3)−g(a)=−20?",
+  "choices": {
+    "A": "−14",
+    "B": "3",
+    "C": "7",
+    "D": "35"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The function $g$ is defined by $g(x) = |x - 6x|$. Substituting $3$ for $x$ yields $g(3) = |3 - 6(3)| = |-15| = 15$. Substituting $a$ for $x$ yields $g(a) = |a - 6a| = |-5a|$. Substituting these into $g(3) - g(a) = -20$ gives $15 - |-5a| = -20$. Subtracting $15$ from both sides yields $-|-5a| = -35$, so $|-5a| = 35$. By the definition of absolute value, $-5a = 35$ or $-5a = -35$, giving $a = -7$ or $a = 7$. Of the given choices, $7$ satisfies the equation.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from stopping after finding $|-5a| = 35$ without dividing by $5$ to solve for $a$.",
+  "source": "https://cooksat.com/practice?questionId=bf6b37cd&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

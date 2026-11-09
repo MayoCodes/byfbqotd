@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c59abbc6",
+  "capturedAt": "2026-11-09T21:16:17.532Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the function f, f(t)=t2+4t+8. What is the value of f(−6)?",
+  "choices": {
+    "A": "8",
+    "B": "12",
+    "C": "20",
+    "D": "44"
+  },
+  "correctAnswer": "C",
+  "explanation": "Substituting $-6$ for $t$ in the given function yields $f(-6)=(-6)^2+4(-6)+8=36-24+8=20$. Therefore, the value of $f(-6)$ is $20$.\n\nWhy D is incorrect:\n\nThis results from a sign error, calculating $(-6)^2-4(-6)+8=36+24+8=68$, then making an arithmetic error in the final sum.",
+  "source": "https://cooksat.com/practice?questionId=c59abbc6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
