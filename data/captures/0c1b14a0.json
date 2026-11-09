@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0c1b14a0",
+  "capturedAt": "2026-11-09T21:04:50.670Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "y=250(4)3x",
+  "choices": {
+    "A": "The estimated number of members of the community gardening club at the end of the first three-month period was 250.",
+    "B": "The estimated number of members of the community gardening club at the end of March 2005 was 250.",
+    "C": "The estimated number of members of the community gardening club at the end of March 2005 was 1,000.",
+    "D": "The estimated number of members of the community gardening club at the end of March 2006 was 1,000."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The $y$-intercept of the graph of an equation occurs where $x = 0$. Substituting $0$ for $x$ in the given equation yields $y = 250(4)^{3(0)}$, which is equivalent to $y = 250(4)^{0}$, or $y = 250(1)$, or $y = 250$. It's given that $x$ represents the number of three-month periods starting from the end of March $2005$. Therefore, $x = 0$ corresponds to the end of March $2005$, which is the starting point. It follows that the $y$-intercept represents the estimated number of members of the community gardening club at the end of March $2005$, which is $250$.",
+  "source": "https://cooksat.com/practice?questionId=0c1b14a0&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

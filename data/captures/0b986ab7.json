@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0b986ab7",
+  "capturedAt": "2026-11-09T21:04:47.842Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A biologist observed that 15 zebra mussels were introduced to a lake in 1995. Over the following decades, the population grew, and this growth can be modeled as an 8.4% increase, on average, in the population each year. Which of the following functions best models the population q(t) of zebra mussels t years after 1995?",
+  "choices": {
+    "A": "q(t)=1.084×15t",
+    "B": "q(t)=15×21.084t",
+    "C": "q(t)=15×1.084t",
+    "D": "q(t)=(15×1.084)t"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. An exponential growth model has the form $q(t) = A \\times (1 + r)^{t}$, where $A$ is the initial population and $r$ is the yearly growth rate written as a decimal. Since there were $15$ zebra mussels in the lake in $1995$, $A = 15$. Since the population increased by an average of $8.4\\%$ per year, $r = 0.084$ and $1 + r = 1.084$. Therefore, the function that best models this situation is $q(t) = 15 \\times 1.084^{t}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and results from incorrectly placing the initial population inside the base being raised to $t$, so at $t = 0$ the value is $1$ rather than the initial population of $15$.",
+  "source": "https://cooksat.com/practice?questionId=0b986ab7&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

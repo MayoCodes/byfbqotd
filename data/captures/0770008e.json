@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0770008e",
+  "capturedAt": "2026-11-09T21:04:31.738Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "y=0.5x2−10x+95",
+  "choices": {
+    "A": "The company's estimated stock price increased $77 every 2 days after the company went public.",
+    "B": "The company's estimated stock price increased $2 every 77 days after the company went public.",
+    "C": "2 days after the company went public, the company's estimated stock price is $77.",
+    "D": "77 days after the company went public, the company's estimated stock price is $2."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. In the given equation, $x$ represents the number of days after the company went public, where $0 \\leq x < 15$, and $y$ represents the estimated stock price, in dollars. Therefore, the best interpretation of $(x, y) = (2, 77)$ in this context is that $2$ days after the company went public, the company's estimated stock price is $$77$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from reversing the roles of the variables. This choice incorrectly interprets $x = 2$ as $$2$ and $y = 77$ as $77$ days, when $x$ represents days and $y$ represents the price in dollars.",
+  "source": "https://cooksat.com/practice?questionId=0770008e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

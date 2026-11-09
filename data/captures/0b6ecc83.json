@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "0b6ecc83",
+  "capturedAt": "2026-11-09T21:04:44.313Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "h(x)=4(k(x))−3\n\nk(x)=∣11x−7∣",
+  "choices": {
+    "A": "−35",
+    "B": "95",
+    "C": "368",
+    "D": "377"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The value of $h(-8)$ can be found by first evaluating $k(-8)$ and then substituting that result into the function $h$. Substituting $-8$ for $x$ in the given equation $k(x) = |11x - 7|$ yields $k(-8) = |11(-8) - 7|$, which is equivalent to $k(-8) = |-88 - 7|$, or $k(-8) = |-95|$. By the definition of absolute value, $|-95| = 95$, so $k(-8) = 95$. Substituting $95$ for $k(x)$ in the equation $h(x) = 4(k(x)) - 3$ yields $h(-8) = 4(95) - 3$, which is equivalent to $h(-8) = 380 - 3$, or $h(-8) = 377$. Therefore, the value of $h(-8)$ is $377$.",
+  "source": "https://cooksat.com/practice?questionId=0b6ecc83&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

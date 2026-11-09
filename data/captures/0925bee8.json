@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "0925bee8",
+  "capturedAt": "2026-11-09T21:04:35.465Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Three values of x and corresponding values of g(x) are shown in the table, where g(x)=x+6f(x)​ and f is a linear function. What is the y-intercept of the graph of y=f(x) in the xy-plane?",
+  "choices": {
+    "A": "(0,24)",
+    "B": "(0,12)",
+    "C": "(0,4)",
+    "D": "(0,−6)"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that $g(x)=\\frac{f(x)}{x+6}$ and that $f$ is a linear function. Since $g(x)=\\frac{f(x)}{x+6}$, it follows that $f(x)=g(x)(x+6)$. Using the values from the table: when $x=-18$, $f(-18)=1(-18+6)=1(-12)=-12$. When $x=6$, $f(6)=3(6+6)=3(12)=36$. The slope of $f(x)$ is $m=\\frac{36-(-12)}{6-(-18)}=\\frac{48}{24}=2$. Using the point $(6,36)$ and $f(x)=2x+b$: $36=2(6)+b=12+b$, so $b=24$. Therefore, $f(x)=2x+24$ and the $y$-intercept is $(0,24)$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from using the constant in the denominator of $g(x)$ as the $y$-intercept of $f(x)$.",
+  "source": "https://cooksat.com/practice?questionId=0925bee8&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/0925bee8/1-ad6b97d7e3370561.png"
+    }
+  ]
+}
