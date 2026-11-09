@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "38f9d676",
+  "capturedAt": "2026-11-09T21:07:55.356Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The relationship between the variables w and z is defined by an exponential equation. When w=0, the value of z is 40, and for every increase in the value of w by 1, the corresponding value of z increases by 80% of its previous value. Which equation represents this relationship?",
+  "choices": {
+    "A": "z=80(1.04)w",
+    "B": "z=80(1.40)w",
+    "C": "z=40(1.08)w",
+    "D": "z=40(1.80)w"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. An exponential relationship between $w$ and $z$ can be modeled by an equation of the form $z = a \\cdot b^{w}$, where $a$ is the initial value when $w = 0$ and $b$ is the growth factor. It's given that when $w = 0$, the value of $z$ is $40$, so $a = 40$. It's also given that for every increase in the value of $w$ by $1$, the corresponding value of $z$ increases by $80\\%$ of its previous value. An increase of $80\\%$ means the new value equals the previous value plus $80\\%$ of the previous value, which is equivalent to multiplying the previous value by $1 + 0.80 = 1.80$. Therefore, the growth factor $b = 1.80$. Substituting $40$ for $a$ and $1.80$ for $b$ in the equation $z = a \\cdot b^{w}$ yields $z = 40(1.80)^{w}$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from misinterpreting $80\\%$ as $0.08$ rather than $0.80$, leading to a growth factor of $1.08$ instead of $1.80$.",
+  "source": "https://cooksat.com/practice?questionId=38f9d676&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

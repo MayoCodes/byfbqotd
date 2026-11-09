@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "365572ed",
+  "capturedAt": "2026-11-09T21:07:26.258Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The given function g(t)=4,500(1.004)3t models the balance of an investment account, in dollars, t years after it is opened. Which statement is the best interpretation of (1.004)3t?",
+  "choices": {
+    "A": "Every 4 months, the balance increases by about $18.",
+    "B": "Every 3 years, the balance increases by about $18.",
+    "C": "At the end of every 4-month interval, the balance increases by about 0.4% of the balance at the beginning of the 4-month interval.",
+    "D": "At the end of every 3-year interval, the balance increases by about 0.4% of the balance at the beginning of the 3-year interval."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The given function can be rewritten as $g(t) = 4{,}500\\left[(1.004)^{3}\\right]^{t}$. Since $t$ is the number of years after the account is opened, when $t$ increases by $\\frac{1}{3}$ (representing a $4$-month interval), the exponent $3t$ increases by $1$. Therefore, the factor $(1.004)^{3t}$ is multiplied by $1.004$ every $4$ months. Since $1.004 = 1 + 0.004$, multiplying by $1.004$ represents an increase of $0.004$, or $0.4\\%$, of the previous value. It follows that at the end of every $4$-month interval, the balance increases by about $0.4\\%$ of the balance at the beginning of the $4$-month interval.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from both confusing the percent increase with a fixed dollar amount and misinterpreting the coefficient $3$ in the exponent $3t$ as a $3$-year interval rather than recognizing it indicates compounding three times per year.",
+  "source": "https://cooksat.com/practice?questionId=365572ed&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

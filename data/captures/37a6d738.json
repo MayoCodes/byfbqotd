@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "37a6d738",
+  "capturedAt": "2026-11-09T21:07:37.769Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph of the rational function g is shown, where y=g(x) and x≥0. Which of the following is the graph of y=g(x)+4, where x≥0?",
+  "choices": {
+    "A": "[Figure 2]",
+    "B": "[Figure 3]",
+    "C": "[Figure 4]",
+    "D": "[Figure 5]"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the graph of the rational function $g$ is shown, where $y = g(x)$ and $x \\geq 0$. The graph shown passes through the point $(3, 4)$. It follows that when $x = 3$, the value of $g(x)$ is $4$. When $g(x) = 4$, the value of $g(x) + 4$ is $4 + 4$, or $8$. Therefore, the graph of $y = g(x) + 4$ passes through the point $(3, 8)$. Of the given choices, choice D is the only graph that passes through the point $(3, 8)$ and is therefore the graph of $y = g(x) + 4$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This is the graph of $y = \\frac{g(x)}{4}$, rather than $y = g(x) + 4$.",
+  "source": "https://cooksat.com/practice?questionId=37a6d738&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/37a6d738/1-179b365340930039.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/37a6d738/2-0ae3abf8696ba656.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/37a6d738/3-2275df1f774d28f6.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/37a6d738/4-10de55844df61a14.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/37a6d738/5-e40d69f56db5ff10.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "381a91d2",
+  "capturedAt": "2026-11-09T21:07:45.794Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "On March 1, a podcast episode had been downloaded 412 times. Every 3 days after March 1, the number of downloads of the episode had increased by 45% of the number of downloads 3 days earlier. The function g gives the predicted number of downloads x days after March 1. Which equation defines g?",
+  "choices": {
+    "A": "g(x)=412(0.45)3",
+    "B": "g(x)=412(0.45)3x",
+    "C": "g(x)=412(1.45)3x",
+    "D": "g(x)=412(1.45)3x​"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since the number of downloads increases by a fixed percentage every $3$ days, the function $g$ is an exponential growth function of the form $g(x) = a(b)^{\\text{(number of growth periods)}}$, where $a$ is the initial value and $b$ is the growth factor per period. On March 1 (when $x = 0$), there were $412$ downloads, so $a = 412$. A $45\\%$ increase means the new number of downloads is $100\\% + 45\\% = 145\\% = 1.45$ times the previous number, so $b = 1.45$. Since the growth occurs every $3$ days, the number of growth periods in $x$ days is $\\frac{x}{3}$. Substituting $412$ for $a$, $1.45$ for $b$, and $\\frac{x}{3}$ for the number of growth periods yields $g(x) = 412(1.45)^{\\frac{x}{3}}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from interpreting the $45\\%$ increase as a $45\\%$ retention (multiplication by $0.45$), which would represent exponential decay rather than growth. Additionally, the exponent $3x$ would represent growth compounding three times per day, rather than once every $3$ days.",
+  "source": "https://cooksat.com/practice?questionId=381a91d2&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

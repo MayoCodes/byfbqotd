@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "366bfa7b",
+  "capturedAt": "2026-11-09T21:07:29.681Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangle has a length of x units and a width of (x−12) units. If the rectangle has an area of 85 square units, what is the value of x?",
+  "choices": {
+    "A": "5",
+    "B": "17",
+    "C": "21",
+    "D": "85"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The area of a rectangle is equal to its length multiplied by its width. Multiplying the given length, $x$ units, by the given width, $\\left( x - 12 \\right)$ units, yields $x \\left( x - 12 \\right)$ square units. Since the rectangle has an area of $85$ square units, it follows that $x \\left( x - 12 \\right) = 85$, or $x^{2} - 12 x = 85$. Subtracting $85$ from both sides of this equation yields $x^{2} - 12 x - 85 = 0$. Factoring the left-hand side of this equation yields $\\left( x - 17 \\right) \\left( x + 5 \\right) = 0$. Applying the zero product property to this equation yields two solutions: $x = 17$ and $x = -5$. Since $x$ is the rectangle's length, in units, which must be positive, the value of $x$ is $17$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This is the width, in units, of the rectangle, not the value of $x$.",
+  "source": "https://cooksat.com/practice?questionId=366bfa7b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

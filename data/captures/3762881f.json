@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "3762881f",
+  "capturedAt": "2026-11-09T21:07:33.671Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "I. f(x)=45(0.5)x+2\n\nII. g(x)=45(0.25)(0.5)x−2",
+  "choices": {
+    "A": "I only",
+    "B": "II only",
+    "C": "I and II",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Both functions are decreasing exponentials with base $0.5<1$, so their maximum values occur at $x=0$. For $f$: $f(0)=45(0.5)^{0+2}=45(0.25)=11.25$, which is not displayed in equation I. For $g$: $g(0)=45(0.25)(0.5)^{0-2}=45(0.25)(4)=45$, which is displayed as the coefficient in equation II. Therefore, only equation II displays its maximum value.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The maximum value of $f$ is $f(0)=45(0.5)^2=11.25$, not $45$, so equation I does not display its maximum value.",
+  "source": "https://cooksat.com/practice?questionId=3762881f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
