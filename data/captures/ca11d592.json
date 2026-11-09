@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ca11d592",
+  "capturedAt": "2026-11-09T21:16:32.289Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2−6x+5. What is the value of f(4)?",
+  "choices": {
+    "A": "−3",
+    "B": "3",
+    "C": "5",
+    "D": "13"
+  },
+  "correctAnswer": "A",
+  "explanation": "Substituting $4$ for $x$ in $f(x) = x^2 - 6x + 5$ yields $f(4) = 4^2 - 6(4) + 5 = 16 - 24 + 5 = -3$.",
+  "source": "https://cooksat.com/practice?questionId=ca11d592&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

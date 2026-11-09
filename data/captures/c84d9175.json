@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "c84d9175",
+  "capturedAt": "2026-11-09T21:16:26.580Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The height of a rectangle is 48 inches greater than its width. Which equation gives the area A, in square inches, of the rectangle in terms of the width w, in inches, of the rectangle?",
+  "choices": {
+    "A": "A=(w)(48w​)",
+    "B": "A=(w)(w−48)",
+    "C": "A=(w)(w+48)",
+    "D": "A=(w)(48w)"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the height of the rectangle is $48$ inches greater than its width $w$, so the height is $w + 48$ inches. The area of a rectangle is the product of its height and width. Therefore, the area $A$ is given by $A = (w)(w + 48)$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from misinterpreting 'the height is $48$ inches greater than the width' as 'the height is the width divided by $48$' and writing the area as $(w)\\left(\\frac{w}{48}\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=c84d9175&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

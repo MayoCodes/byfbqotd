@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "c758f7e6",
+  "capturedAt": "2026-11-09T21:16:23.602Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A quadratic function gives the estimated water temperature h(t), in degrees Fahrenheit, of a lake t weeks after April 1, where 0<t≤9. According to the function, the estimated water temperature is 90.9 degrees Fahrenheit 7 weeks after April 1 and the maximum estimated water temperature is 92.4 degrees Fahrenheit 4.5 weeks after April 1. Based on this function, what is the estimated water temperature, in degrees Fahrenheit, on April 1?",
+  "choices": {},
+  "correctAnswer": "87.54",
+  "explanation": "The correct answer is $87.54$. The quadratic function $h$ gives the estimated water temperature, $h(t)$, in degrees Fahrenheit, $t$ weeks after April $1$. It's given that the maximum estimated water temperature is $92.4$ degrees Fahrenheit $4.5$ weeks after April $1$. Therefore, function $h$ can be expressed in vertex form as $h(t) = a(t - 4.5)^{2} + 92.4$, where $a$ is a constant. Since it's also given that the estimated water temperature is $90.9$ degrees Fahrenheit $7$ weeks after April $1$, $h(7) = 90.9$. Substituting $7$ for $t$ and $90.9$ for $h(t)$ in $h(t) = a(t - 4.5)^{2} + 92.4$ yields $90.9 = a(7 - 4.5)^{2} + 92.4$, or $90.9 = 6.25a + 92.4$. Subtracting $92.4$ from both sides gives $6.25a = -1.5$. Dividing both sides by $6.25$ gives $a = -0.24$. Substituting $-0.24$ for $a$ in $h(t) = a(t - 4.5)^{2} + 92.4$ gives $h(t) = -0.24(t - 4.5)^{2} + 92.4$. The estimated water temperature on April $1$ corresponds to $t = 0$. Substituting $0$ for $t$ gives $h(0) = -0.24(0 - 4.5)^{2} + 92.4 = -0.24(20.25) + 92.4 = -4.86 + 92.4 = 87.54$. Therefore, the estimated water temperature on April $1$ is $87.54$ degrees Fahrenheit.",
+  "source": "https://cooksat.com/practice?questionId=c758f7e6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
