@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "a6a7af56",
+  "capturedAt": "2026-11-09T21:14:32.167Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The table shown includes some values of x and their corresponding values of y. Which of the following graphs in the xy-plane could represent the relationship between x and y?",
+  "choices": {
+    "A": "[Figure 2]",
+    "B": "[Figure 3]",
+    "C": "[Figure 4]",
+    "D": "[Figure 5]"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Each pair of values shown in the table gives the ordered pair of coordinates for a point that lies on the graph representing the relationship between $x$ and $y$ in the $xy$-plane: $(-2, 4)$, $(-1, 1)$, $(0, 0)$, $(1, 1)$, and $(2, 4)$. Only the graph in choice B passes through all of these points.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This graph does not pass through the point $(1, 1)$; it passes through $(1, 2)$ instead.",
+  "source": "https://cooksat.com/practice?questionId=a6a7af56&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/a6a7af56/1-23eb064124f1281f.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/a6a7af56/2-044cb7ee59193e98.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/a6a7af56/3-7a2ffecac92c0f29.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/a6a7af56/4-eeca595931491131.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/a6a7af56/5-0d3205fad9a14dfa.png"
+    }
+  ]
+}

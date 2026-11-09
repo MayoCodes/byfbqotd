@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "9c56fb4f",
+  "capturedAt": "2026-11-09T21:14:04.632Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph of a quadratic function is shown. What is the vertex of this graph?",
+  "choices": {
+    "A": "(−7,1)",
+    "B": "(−3,−3)",
+    "C": "(1,−7)",
+    "D": "(7,1)"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The graph shows a parabola that opens upward. The vertex of a parabola is the point where the parabola changes direction - for an upward-opening parabola, this is the lowest point on the graph. From the graph, the lowest point of the parabola is at the coordinates $(-3,-3)$, which is the vertex.",
+  "source": "https://cooksat.com/practice?questionId=9c56fb4f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/9c56fb4f/1-59e6d9f7b878f989.png"
+    }
+  ]
+}

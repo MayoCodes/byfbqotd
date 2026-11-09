@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "9ca69186",
+  "capturedAt": "2026-11-09T21:14:08.716Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Marisol is selling stamps from her stamp collection. When she started selling the stamps, there were 4,500 stamps in the collection. At the end of each month for 3 months after Marisol started selling the stamps, the number of stamps in the collection had decreased by 32​ of the stamps in the collection at the end of the previous month. Which equation gives the number of stamps, s, in the collection m months after Marisol started selling the stamps, where 0≤m<3?",
+  "choices": {
+    "A": "s=m31​",
+    "B": "s=1,500(31​)m",
+    "C": "s=4,500m",
+    "D": "s=4,500(31​)m"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The collection starts with $4{,}500$ stamps, and at the end of each month, the number of stamps decreases by $\\frac{2}{3}$ of the previous month's count. This means $\\frac{1}{3}$ of the stamps remain each month, so the number of stamps is multiplied by $\\frac{1}{3}$ each month. This situation is modeled by an exponential equation of the form $s = a(b)^m$, where $a$ is the initial number of stamps and $b$ is the multiplicative factor per month. Since $a = 4{,}500$ and $b = \\frac{1}{3}$, the equation is $s = 4{,}500\\left(\\frac{1}{3}\\right)^m$. This can be verified: when $m = 1$, the equation gives $s = 4{,}500\\left(\\frac{1}{3}\\right) = 1{,}500$, which correctly represents the collection after one month.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This equation represents a power function where $s$ equals $m$ raised to the power $\\frac{1}{3}$, which has no relationship to the initial collection size or the monthly decrease described in the problem.",
+  "source": "https://cooksat.com/practice?questionId=9ca69186&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
