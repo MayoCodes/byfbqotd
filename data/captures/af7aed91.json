@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "af7aed91",
+  "capturedAt": "2026-11-09T21:14:52.213Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2+1. What is the value of f(−3)?",
+  "choices": {
+    "A": "−10",
+    "B": "−8",
+    "C": "8",
+    "D": "10"
+  },
+  "correctAnswer": "D",
+  "explanation": "Substituting $-3$ for $x$ in the equation $f(x) = x^2 + 1$ yields $f(-3) = (-3)^2 + 1 = 9 + 1 = 10$.",
+  "source": "https://cooksat.com/practice?questionId=af7aed91&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

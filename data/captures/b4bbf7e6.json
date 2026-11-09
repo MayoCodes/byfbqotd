@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b4bbf7e6",
+  "capturedAt": "2026-11-09T21:15:07.779Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g is defined by g(x)=ax3+bx2+cx+d, where a, b, c, and d are constants and a=2. In the xy-plane, the graph of y=g(x) passes through the points (0,5), (1,14), and (−1,2). What is the value of b?",
+  "choices": {
+    "A": "1",
+    "B": "3",
+    "C": "5",
+    "D": "7"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substituting $(0,5)$ into $g(x)=2x^3+bx^2+cx+d$ gives $d=5$. Substituting $(1,14)$ gives $2+b+c+5=14$, so $b+c=7$. Substituting $(-1,2)$ gives $-2+b-c+5=2$, so $b-c=-1$. Adding these two equations yields $2b=6$, therefore $b=3$.",
+  "source": "https://cooksat.com/practice?questionId=b4bbf7e6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

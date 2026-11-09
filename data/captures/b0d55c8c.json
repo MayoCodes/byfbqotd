@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b0d55c8c",
+  "capturedAt": "2026-11-09T21:14:55.763Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "For the exponential function g, the table shown gives several values of x and their corresponding values of g(x), where c is a constant greater than 1. If n is a constant and g(n)=c23, what is the value of n?",
+  "choices": {},
+  "correctAnswer": "8",
+  "explanation": "The correct answer is $8$. The values of $g(x)$ for the exponential function $g$ shown in the table increase by a factor of $c^{3}$ for each increase of $1$ in $x$. This relationship can be represented by the equation $g(x) = c^{3x + d}$, where $d$ is a constant. It's given that when $x = 1$, $g(x) = c^{2}$. Substituting $1$ for $x$ and $c^{2}$ for $g(x)$ into $g(x) = c^{3x + d}$ yields $c^{2} = c^{3 \\times 1 + d}$. Since $3 \\times 1 + d = 2$, it follows that $d = -1$. Thus, an equation that defines the function $g$ is $g(x) = c^{3x - 1}$. It follows that the value of $n$ such that $g(n) = c^{23}$ can be found by solving the equation $3n - 1 = 23$, which yields $n = 8$.",
+  "source": "https://cooksat.com/practice?questionId=b0d55c8c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b0d55c8c/1-16024d8311253ca2.png"
+    }
+  ]
+}

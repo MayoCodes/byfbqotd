@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b53e13e4",
+  "capturedAt": "2026-11-09T21:15:12.069Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Square M has a side length of w centimeters. Square N has a perimeter that is 48 centimeters greater than the perimeter of square M. The function g gives the area of square N, in square centimeters. Which of the following defines g?",
+  "choices": {
+    "A": "g(w)=(w+12)2",
+    "B": "g(w)=(w+48)2",
+    "C": "g(w)=(48w+12)2",
+    "D": "g(w)=(48w+48)2"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that square M has a side length of $w$ centimeters. The perimeter of a square is $4$ times its side length, so the perimeter of square M is $4w$ centimeters. It's also given that square N has a perimeter that is $48$ centimeters greater than the perimeter of square M. Therefore, the perimeter of square N is $4w + 48$ centimeters. Since square N is a square, all four sides have equal length, so each side of square N has length $\\frac{4w + 48}{4} = w + 12$ centimeters. The area of a square is the square of its side length. Therefore, the area of square N is $(w + 12)^{2}$ square centimeters, and the function that gives the area of square N is $g(w) = (w + 12)^{2}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from multiplying $w$ by $48$ and then adding $48$, which does not correctly represent the relationship between the perimeters of the two squares.",
+  "source": "https://cooksat.com/practice?questionId=b53e13e4&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

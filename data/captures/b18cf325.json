@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "b18cf325",
+  "capturedAt": "2026-11-09T21:15:04.015Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2+4x−3. If g(x)=f(x+1)+f(x−1), what is the value of g(3)?",
+  "choices": {
+    "A": "20",
+    "B": "29",
+    "C": "32",
+    "D": "38"
+  },
+  "correctAnswer": "D",
+  "explanation": "First find $f(4) = 4^2 + 4(4) - 3 = 16 + 16 - 3 = 29$ and $f(2) = 2^2 + 4(2) - 3 = 4 + 8 - 3 = 9$. Then $g(3) = f(3+1) + f(3-1) = f(4) + f(2) = 29 + 9 = 38$.",
+  "source": "https://cooksat.com/practice?questionId=b18cf325&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

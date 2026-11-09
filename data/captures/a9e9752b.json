@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "a9e9752b",
+  "capturedAt": "2026-11-09T21:14:43.142Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "h(t)=−0.0318(12t​)2+8.4125(12t​)+92.418",
+  "choices": {
+    "A": "The predicted height of the tree was approximately 240 cm\n\n248 months after it was planted.",
+    "B": "The predicted height of the tree was approximately 12240​ cm\n\n248 months after it was planted.",
+    "C": "The predicted height of the tree was approximately 248 cm\n\n12240​ months after it was planted.",
+    "D": "The predicted height of the tree was approximately 248 cm\n\n240 months after it was planted."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In the function $h$, the input $t$ is the number of months after the tree was planted and the output $h(t)$ is the predicted height, in centimeters. Therefore $h(240) \\approx 248$ means that $240$ months after it was planted, the tree's predicted height was approximately $248$ centimeters.\n\nWhy B is incorrect:\n\nChoice B is incorrect. It both interchanges the input and output and converts the input to years; $\\frac{240}{12}$ is not a height in centimeters.",
+  "source": "https://cooksat.com/practice?questionId=a9e9752b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "acd7d9df",
+  "capturedAt": "2026-11-09T21:14:46.175Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g(h)=12,000(2)345h​ gives the number of yeast cells in a culture h hours after an initial observation. How much time, in hours, does it take for the number of yeast cells in the culture to double?",
+  "choices": {
+    "A": "2",
+    "B": "345",
+    "C": "690",
+    "D": "12,000"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. An exponential function modeling growth can be written in the form $g(h) = a(b)^{\\frac{h}{k}}$, where $a$ is the initial quantity, $b$ is the growth factor, and $k$ is the time it takes for the quantity to be multiplied by $b$. In the given function $g(h) = 12{,}000(2)^{\\frac{h}{345}}$, the base is $2$, so the number of yeast cells is multiplied by $2$ (doubles) every $k$ hours. When $h = k$, the exponent becomes $\\frac{k}{k} = 1$, giving $g(k) = 12{,}000(2)^{1} = 24{,}000$, which is double the initial value of $12{,}000$. Comparing $g(h) = 12{,}000(2)^{\\frac{h}{345}}$ with the general form shows that $k = 345$. Therefore, it takes $345$ hours for the number of yeast cells in the culture to double.",
+  "source": "https://cooksat.com/practice?questionId=acd7d9df&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
