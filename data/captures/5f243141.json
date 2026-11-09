@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5f243141",
+  "capturedAt": "2026-11-09T21:10:18.184Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A ball is launched upward from ground level. Its height h in meters after t seconds is given by h=−5t2+20t+c, where c is a constant representing an initial boost. For what value of c will the ball reach its maximum height exactly when h=25 meters?",
+  "choices": {
+    "A": "5",
+    "B": "10",
+    "C": "15",
+    "D": "20"
+  },
+  "correctAnswer": "A",
+  "explanation": "The ball reaches maximum height when $-5t^2 + 20t + c = 25$ has exactly one solution, which occurs when the discriminant equals zero. Rewriting as $-5t^2 + 20t + (c-25) = 0$, we have $a=-5$, $b=20$, $c-25$ as constant term. The discriminant is $b^2 - 4a(c-25) = 400 - 4(-5)(c-25) = 400 + 20(c-25) = 400 + 20c - 500 = 20c - 100$. Setting this equal to zero: $20c - 100 = 0$, so $c = 5$.\n\nWhy D is incorrect:\n\nThis results from incorrectly using the vertex formula $t = -b/2a = 2$ and setting $h(2) = 25$, which gives $c = 5$, but then confusing this with the coefficient $b = 20$.",
+  "source": "https://cooksat.com/practice?questionId=5f243141&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

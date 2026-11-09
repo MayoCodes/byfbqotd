@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "id": "547e9a6f",
+  "capturedAt": "2026-11-09T21:09:52.853Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Intercept from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph of the function g is shown, where y=g(x). What is the value of g(0)?",
+  "choices": {
+    "A": "−2",
+    "B": "4",
+    "C": "7",
+    "D": "9"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The notation $g(0)$ represents the value of the function $g$ when $x = 0$. In the $xy$-plane, this is the $y$-coordinate of the point where the graph intersects the $y$-axis. The graph shown passes through the point $(0, 4)$. Therefore, $g(0) = 4$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from misreading the graph and identifying the $y$-coordinate at $x = 2$ instead of $x = 0$.",
+  "source": "https://cooksat.com/practice?questionId=547e9a6f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/547e9a6f/1-213cfb5e0e87b02b.png"
+    }
+  ]
+}

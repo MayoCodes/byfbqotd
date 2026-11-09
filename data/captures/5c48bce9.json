@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5c48bce9",
+  "capturedAt": "2026-11-09T21:10:06.001Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g is defined by g(x)=(x−2)(x−8). The graph of g in the xy-plane is a parabola. Which of the following intervals contains the x-coordinate of the vertex of the graph of g?",
+  "choices": {
+    "A": "1<x<2",
+    "B": "3<x<7",
+    "C": "7<x<8",
+    "D": "8<x<9"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The graph of a quadratic function in the $xy$-plane is a parabola whose axis of symmetry passes through its vertex. Therefore, the $x$-coordinate of the vertex is the midpoint of the two $x$-intercepts of the graph. Since $g(2) = 0$ and $g(8) = 0$, the $x$-coordinate of the vertex is $\\frac{2 + 8}{2} = 5$. Of the given intervals, only $3 < x < 7$ contains $5$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This interval lies to the right of both $x$-intercepts and cannot contain the vertex of a parabola whose vertex lies between its $x$-intercepts.",
+  "source": "https://cooksat.com/practice?questionId=5c48bce9&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

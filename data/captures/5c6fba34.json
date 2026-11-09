@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "5c6fba34",
+  "capturedAt": "2026-11-09T21:10:09.072Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g gives the product of a number, x, and a number that is 67 more than x. Which equation defines g?",
+  "choices": {
+    "A": "g(x)=x2+67",
+    "B": "g(x)=x2+x+67",
+    "C": "g(x)=x2+67x",
+    "D": "g(x)=x2+67x+67"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A number that is $67$ more than $x$ can be represented by the expression $x + 67$. The function $g$ gives the product of $x$ and this quantity, so $g(x) = x(x + 67)$. Distributing yields $g(x) = x^{2} + 67x$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This expression results from adding $x$ and $67$ separately to $x^{2}$ instead of multiplying $x$ by the quantity $(x + 67)$.",
+  "source": "https://cooksat.com/practice?questionId=5c6fba34&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
