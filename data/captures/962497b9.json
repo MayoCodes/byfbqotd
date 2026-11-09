@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "962497b9",
+  "capturedAt": "2026-11-09T21:13:13.866Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The table shows three values of x and their corresponding values of y, where y=g(x)+3 and g is a quadratic function. What is the y-coordinate of the y-intercept of the graph of y=g(x) in the xy-plane?",
+  "choices": {},
+  "correctAnswer": "−1613",
+  "explanation": "The correct answer is $-1613$. Since $g$ is a quadratic function, it can be written as $g(x) = a(x - h)^{2} + k$, where $a$, $h$, and $k$ are constants. Substituting into $y = g(x) + 3$ gives $y = a(x - h)^{2} + k + 3$. The maximum or minimum value of $y$ occurs at the x-value halfway between any two x-values with the same corresponding y-value. The table shows $x = 16$ and $x = 20$ both give $y = -10$, so the axis of symmetry is at $x = 18$. The table shows that when $x = 18$, $y = 10$, so $h = 18$ and $k + 3 = 10$, which gives $k = 7$. Thus $y = a(x - 18)^{2} + 10$. Substituting $x = 20$ and $y = -10$: $-10 = a(20 - 18)^{2} + 10$, so $-20 = 4a$, giving $a = -5$. Therefore $g(x) = -5(x - 18)^{2} + 7$. The y-intercept of $y = g(x)$ occurs at $x = 0$: $g(0) = -5(0 - 18)^{2} + 7 = -5(324) + 7 = -1620 + 7 = -1613$.",
+  "source": "https://cooksat.com/practice?questionId=962497b9&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/962497b9/1-dc5c6cdc28024aa2.png"
+    }
+  ]
+}

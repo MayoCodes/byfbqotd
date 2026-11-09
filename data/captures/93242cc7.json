@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "93242cc7",
+  "capturedAt": "2026-11-09T21:13:03.387Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "h(x)=xb−22​+7",
+  "choices": {
+    "A": "p(x)=x−5b−26​+7",
+    "B": "p(x)=x+5b−26​+3",
+    "C": "p(x)=x−5b−22​+3",
+    "D": "p(x)=x+5b−22​+3"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the graph of $y = h(x)$ is translated $4$ units down and $5$ units to the left to produce the graph of $y = p(x)$. Translating a graph $c$ units to the left is equivalent to replacing $x$ with $x + c$ in the function equation. Therefore, translating the graph of $y = h(x)$ by $5$ units to the left yields $y = h(x + 5)$. Substituting $x + 5$ for $x$ in the given equation $h(x) = \\frac{b - 22}{x} + 7$ gives $h(x + 5) = \\frac{b - 22}{x + 5} + 7$. Translating a graph $k$ units down is equivalent to subtracting $k$ from the function value. Therefore, translating the graph of $y = h(x + 5)$ by $4$ units down yields $y = h(x + 5) - 4$. Substituting $\\frac{b - 22}{x + 5} + 7$ for $h(x + 5)$ gives $p(x) = \\frac{b - 22}{x + 5} + 7 - 4$, which simplifies to $p(x) = \\frac{b - 22}{x + 5} + 3$.",
+  "source": "https://cooksat.com/practice?questionId=93242cc7&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

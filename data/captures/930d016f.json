@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "930d016f",
+  "capturedAt": "2026-11-09T21:13:00.308Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=(x+4)2−10. What is the value of f(2)?",
+  "choices": {
+    "A": "16",
+    "B": "22",
+    "C": "26",
+    "D": "30"
+  },
+  "correctAnswer": "C",
+  "explanation": "Substituting $2$ for $x$ in the function yields $f(2) = (2+4)^2 - 10 = (6)^2 - 10 = 36 - 10 = 26$.\n\nWhy B is incorrect:\n\nThis results from a computational error in the final subtraction step, such as computing $36 - 14 = 22$ instead of $36 - 10$.",
+  "source": "https://cooksat.com/practice?questionId=930d016f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

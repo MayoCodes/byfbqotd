@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "946a9fd1",
+  "capturedAt": "2026-11-09T21:13:10.206Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The product of two numbers is y. If one of the numbers is x and the other number is 67 less than x, which of the following equations represents the relationship between y and x?",
+  "choices": {
+    "A": "y=x(x)−67",
+    "B": "y=x(x)+67",
+    "C": "y=x(x−67)",
+    "D": "y=x(x+67)"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that one number is $x$ and the other number is $67$ less than $x$. The phrase \"$67$ less than $x$\" can be expressed as $x - 67$. Since the product of the two numbers is $y$, it follows that $y = x(x - 67)$.",
+  "source": "https://cooksat.com/practice?questionId=946a9fd1&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
