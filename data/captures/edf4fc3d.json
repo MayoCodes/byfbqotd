@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "edf4fc3d",
+  "capturedAt": "2026-11-09T21:18:29.818Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "M(t)=480(1.05)(34​)t",
+  "choices": {
+    "A": "9",
+    "B": "12",
+    "C": "16",
+    "D": "48"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The function $M(t) = 480(1.05)^{\\left(\\frac{4}{3}\\right)t}$ models the population of the city $t$ years after $2010$. The base $1.05$ corresponds to a $5\\%$ increase for every increase of $1$ in the exponent $\\left(\\frac{4}{3}\\right)t$. Setting $\\left(\\frac{4}{3}\\right)t = 1$ and multiplying both sides by $\\frac{3}{4}$ yields $t = \\frac{3}{4}$. Therefore, the population is predicted to increase by $5\\%$ every $\\frac{3}{4}$ of a year. Since there are $12$ months in a year, $\\frac{3}{4}$ of a year is equivalent to $\\left(\\frac{3}{4}\\right)(12) = 9$ months. Therefore, the value of $n$ is $9$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This is the number of months in which the population is predicted to increase by $5\\%$ according to the model $M(t) = 480(1.05)^{t}$, not $M(t) = 480(1.05)^{\\left(\\frac{4}{3}\\right)t}$.",
+  "source": "https://cooksat.com/practice?questionId=edf4fc3d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

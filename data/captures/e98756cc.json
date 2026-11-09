@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "e98756cc",
+  "capturedAt": "2026-11-09T21:18:17.391Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function B(x)=825(1.014)x models the membership of a certain club each year from 1968 through 1983, where x is the number of years after 1968. Which of the following is the best interpretation of \"B(7) is approximately equal to 909\" in this context?",
+  "choices": {
+    "A": "The membership of the club is estimated to be approximately 7 greater in 1975 than in 1968.",
+    "B": "The membership of the club is estimated to be approximately 7 times greater in 1975 than in 1968.",
+    "C": "The membership of the club is estimated to be approximately 909 in 1975.",
+    "D": "The membership of the club is estimated to increase by approximately 909 every 7 years between 1968 and 1983."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $B(x) = 825(1.014)^{x}$ models the membership of the club, where $x$ is the number of years after $1968$. When $x = 7$, this represents $7$ years after $1968$, which is the year $1975$. The statement \"$B(7)$ is approximately equal to $909$\" means that the value of the function when $x = 7$ is approximately $909$. Since $B(x)$ represents the membership of the club, this means the membership of the club is estimated to be approximately $909$ in $1975$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from misinterpreting the output value $909$ as a rate of change rather than as the membership at a specific time, and incorrectly treating the input value $7$ as defining a repeating interval.",
+  "source": "https://cooksat.com/practice?questionId=e98756cc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

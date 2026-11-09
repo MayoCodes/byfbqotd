@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "ef15bcff",
+  "capturedAt": "2026-11-09T21:18:32.948Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2+3x+1. What is the value of f(−2)?",
+  "choices": {
+    "A": "−9",
+    "B": "−1",
+    "C": "3",
+    "D": "11"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substitute $x=-2$ into $f(x)=x^{2}+3x+1$: $f(-2)=(-2)^{2}+3(-2)+1=4+(-6)+1=-1$.\n\nWhy C is incorrect:\n\nResults from computing $(-2)^{2}=4$ and $3(-2)=-6$ but forgetting to include the constant term $+1$, then making a sign error: $4-6=-2$, recorded as $3$.",
+  "source": "https://cooksat.com/practice?questionId=ef15bcff&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
