@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "120c66cb",
+  "capturedAt": "2026-11-09T21:05:21.291Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "g(x)=(x+5)×(x−2)×(3x−7)",
+  "choices": {
+    "A": "(−5,0)",
+    "B": "(−37​,0)",
+    "C": "(2,0)",
+    "D": "(37​,0)"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The graph of $g$ in the $xy$-plane has $x$-intercepts at points $(x, y)$ where $y = g(x) = 0$. Substituting $0$ for $g(x)$ in the given equation yields $0 = (x + 5) \\times (x - 2) \\times (3x - 7)$. By the zero product property, $x + 5 = 0$, $x - 2 = 0$, or $3x - 7 = 0$. Solving each linear equation gives $x = -5$, $x = 2$, and $x = \\frac{7}{3}$, respectively. Therefore, the graph of $g$ has three $x$-intercepts: $(-5, 0)$, $(2, 0)$, and $\\left(\\frac{7}{3}, 0\\right)$. The point $\\left(-\\frac{7}{3}, 0\\right)$ is not an $x$-intercept of the graph.\n\nAlternate approach: Substituting $-\\frac{7}{3}$ for $x$ and $0$ for $g(x)$ yields $0 = \\left(-\\frac{7}{3} + 5\\right) \\times \\left(-\\frac{7}{3} - 2\\right) \\times \\left(3 \\times \\left(-\\frac{7}{3}\\right) - 7\\right)$, or $0 = \\frac{1456}{9}$. Since this statement is false, $\\left(-\\frac{7}{3}, 0\\right)$ does not lie on the graph and is not an $x$-intercept.\n\nWhy D is incorrect:\n\nChoice D is incorrect because $\\left(\\frac{7}{3}, 0\\right)$ is an $x$-intercept of the graph of $g$. Substituting $\\frac{7}{3}$ for $x$ and $0$ for $g(x)$ yields $0 = \\left(\\frac{7}{3} + 5\\right) \\times \\left(\\frac{7}{3} - 2\\right) \\times \\left(3 \\times \\frac{7}{3} - 7\\right)$, or $0 = 0$. Since this is true, $\\left(\\frac{7}{3}, 0\\right)$ lies on the graph and is an $x$-intercept.",
+  "source": "https://cooksat.com/practice?questionId=120c66cb&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

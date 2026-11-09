@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "11c7121b",
+  "capturedAt": "2026-11-09T21:05:18.074Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function h is defined by h(x)=x2+24. What is the value of h(0)?",
+  "choices": {
+    "A": "0",
+    "B": "12",
+    "C": "24",
+    "D": "48"
+  },
+  "correctAnswer": "C",
+  "explanation": "Substituting $0$ for $x$ in the function $h(x) = x^2 + 24$ yields $h(0) = 0^2 + 24$, which simplifies to $h(0) = 0 + 24 = 24$.\n\nWhy B is incorrect:\n\nThis results from misreading the function as $h(x) = x^2 + 12$ instead of $h(x) = x^2 + 24$.",
+  "source": "https://cooksat.com/practice?questionId=11c7121b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
