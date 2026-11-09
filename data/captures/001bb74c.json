@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "001bb74c",
+  "capturedAt": "2026-11-09T20:58:51.757Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function g is defined by g(x)=ba​(x−2)2+c, where a, b, and c are positive integers. In the xy-plane, the graph of y=g(x) passes through the points (0,11) and (6,29). If a and b have no common factors and b>1, what is the value of c?",
+  "choices": {
+    "A": "3",
+    "B": "5",
+    "C": "7",
+    "D": "9"
+  },
+  "correctAnswer": "B",
+  "explanation": "Using the point $(0,11)$: $\\frac{4a}{b}+c=11$. Using the point $(6,29)$: $\\frac{16a}{b}+c=29$. Subtracting the first equation from the second gives $\\frac{12a}{b}=18$, so $\\frac{a}{b}=\\frac{3}{2}$. Since $a$ and $b$ have no common factors, $a=3$ and $b=2$. Substituting into the first equation: $\\frac{12}{2}+c=11$, which gives $c=5$.\n\nWhy A is incorrect:\n\nThis results from an error in solving the system, possibly subtracting the equations incorrectly or making an arithmetic mistake when calculating $11-6$.",
+  "source": "https://cooksat.com/practice?questionId=001bb74c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

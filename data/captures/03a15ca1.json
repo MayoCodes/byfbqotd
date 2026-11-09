@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "03a15ca1",
+  "capturedAt": "2026-11-09T21:04:16.355Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An investment account is opened with an initial deposit of $4,500. The amount of money in the account t years after the initial deposit is given by the function g(t)=4,500(1.02)2t.",
+  "choices": {
+    "A": "5 years after the initial deposit, the amount of money, in dollars, in the account is 5,485.47.",
+    "B": "Every 5 years, the amount of money, in dollars, in the account increases by 5,485.47.",
+    "C": "5 years after the initial deposit, the amount of money, in dollars, in the account has increased by 5,485.47.",
+    "D": "Every 5 years, the amount of money, in dollars, in the account decreases by 5,485.47."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the function $g(t) = 4{,}500(1.02)^{2t}$ gives the amount of money in the account $t$ years after the initial deposit. Since the value of $g(5)$ is the value of $g(t)$ when $t = 5$, it follows that \"$g(5)$ is approximately equal to $5{,}485.47$\" means that the value of $g(t)$ is approximately equal to $5{,}485.47$ when $t = 5$. Therefore, the best interpretation of the statement \"$g(5)$ is approximately equal to $5{,}485.47$\" is that $5$ years after the initial deposit, the amount of money, in dollars, in the account is $5{,}485.47$.",
+  "source": "https://cooksat.com/practice?questionId=03a15ca1&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

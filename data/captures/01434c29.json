@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "01434c29",
+  "capturedAt": "2026-11-09T21:03:56.341Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "N(t)=450(1.03)(83​)t",
+  "choices": {
+    "A": "0.28",
+    "B": "1.03",
+    "C": "3",
+    "D": "8"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the function $N$ models the population of the town $t$ years after $2010$. Since there are $12$ months in a year, $32$ months is equivalent to $\\frac{32}{12}$ years. Therefore, the expression $\\frac{32}{12} x$ can represent the number of years in $x$ $32$-month periods. Substituting $\\frac{32}{12} x$ for $t$ in the given equation yields $N \\left( \\frac{32}{12} x \\right) = 450 \\left( 1.03 \\right)^{\\left( \\frac{3}{8} \\right) \\left( \\frac{32}{12} x \\right)}$, which is equivalent to $N \\left( \\frac{32}{12} x \\right) = 450 \\left( 1.03 \\right)^{x}$. Therefore, for each $32$-month period, the predicted population of the town is $1.03$ times, or $103\\%$ of, the previous population. This means that the population is predicted to increase by $3\\%$ every $32$ months.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from conceptual or calculation errors.",
+  "source": "https://cooksat.com/practice?questionId=01434c29&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

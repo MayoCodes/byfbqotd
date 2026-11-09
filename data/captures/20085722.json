@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "id": "20085722",
+  "capturedAt": "2026-11-09T21:06:00.866Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A biologist initially counts 8,500 yeast cells in a culture. 6 hours later, the biologist counts 17,000 yeast cells. Assuming exponential growth, the formula N=A(2)kh gives the number of yeast cells in the culture, where k and A are constants and N is the number of yeast cells h hours after the initial count. What is the value of k?",
+  "choices": {
+    "A": "8,5001​",
+    "B": "61​",
+    "C": "6",
+    "D": "8,500"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The formula $N = A\\left(2\\right)^{kh}$ gives the number of yeast cells $h$ hours after the initial count. Since the initial count of $8{,}500$ occurs at $h = 0$, substituting $h = 0$ and $N = 8{,}500$ yields $8{,}500 = A\\left(2\\right)^{0}$, so $A = 8{,}500$. Since $6$ hours later the count is $17{,}000$, substituting $h = 6$, $N = 17{,}000$, and $A = 8{,}500$ yields $17{,}000 = 8{,}500\\left(2\\right)^{6k}$. Dividing both sides by $8{,}500$ gives $2 = 2^{6k}$, or $2^{1} = 2^{6k}$, so $6k = 1$. Therefore, $k = \\frac{1}{6}$.",
+  "source": "https://cooksat.com/practice?questionId=20085722&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

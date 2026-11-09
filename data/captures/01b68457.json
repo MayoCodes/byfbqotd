@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "01b68457",
+  "capturedAt": "2026-11-09T21:04:00.911Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function f is defined by f(x)=x2−kx+10, where k is a constant. If f(3)=4, what is the value of k?",
+  "choices": {},
+  "correctAnswer": "5",
+  "explanation": "The correct answer is $5$. It's given that the function $f$ is defined by $f(x) = x^2 - kx + 10$ and that $f(3) = 4$. To find the value of $k$, substitute $3$ for $x$ in the function definition: $f(3) = 3^2 - k(3) + 10$. Simplifying the right side yields $f(3) = 9 - 3k + 10$, or $f(3) = 19 - 3k$. Since it's given that $f(3) = 4$, it follows that $19 - 3k = 4$. Subtracting $19$ from both sides gives $-3k = -15$. Dividing both sides by $-3$ yields $k = 5$. Therefore, the value of $k$ is $5$.",
+  "source": "https://cooksat.com/practice?questionId=01b68457&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}

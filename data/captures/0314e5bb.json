@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "id": "0314e5bb",
+  "capturedAt": "2026-11-09T21:04:13.055Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "f(t)=t2−36t+1296",
+  "choices": {},
+  "correctAnswer": "972",
+  "explanation": "The correct answer is $972$. The given function can be rewritten in vertex form $f(t)=a(t-h)^{2}+k$, where $a$ is a positive constant and the minimum value, $k$, of the function occurs when the value of $t$ is $h$. By completing the square, $f(t)=t^{2}-36t+1296$ can be written as $f(t)=t^{2}-36t+\\left(\\frac{36}{2}\\right)^{2}+1296-\\left(\\frac{36}{2}\\right)^{2}$. Calculating $\\left(\\frac{36}{2}\\right)^{2}=(18)^{2}=324$, this becomes $f(t)=t^{2}-36t+324+1296-324$, which simplifies to $f(t)=(t-18)^{2}+972$. This equation is in the form $f(t)=a(t-h)^{2}+k$, where $a=1$, $h=18$, and $k=972$. Since $a=1$ is positive, the parabola opens upward, and the vertex represents the minimum point. Therefore, the minimum value of the given function is $972$.",
+  "source": "https://cooksat.com/practice?questionId=0314e5bb&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
+  "images": []
+}
