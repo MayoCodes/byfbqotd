@@ -97,3 +97,9 @@ Google sign-in, one-use activation, teacher classrooms, assignments, cloud pract
 The fries outline mark is a local SVG. The daily focus calendar replaces the decorative countdown graphic; students and teachers can label individual days. Teachers can build assignments directly from question-bank selection mode, with full question previews and a classroom publish form. Publish the updated Firestore rules to enable private planner syncing.
 
 Classroom assignments open at `/assignment`, with the supplied split-pane test layout, an optional fixed deadline, and private teacher activity reports. Publish the latest complete Firestore rules before deploying the assignment update.
+
+### Desmos calculator
+
+The question bank and assignment screen share a Desmos panel. It docks beside the page on desktop and below it on smaller screens. Use **Float** or drag the title bar to move it, and drag the edge or corner to resize it. Arrow keys also work on the labeled move and resize controls. Closing and reopening the panel retains the graph for the current page.
+
+Set `DESMOS_API_KEY` in the deployment environment before building. For local builds, put `DESMOS_API_KEY=your_key_here` in the ignored `.env.desmos` file. The build writes the key to the public browser configuration because the [Desmos embed](https://www.desmos.com/api/v1.12/docs/index.html#api-keys) loads with a browser API key. Use a key appropriate for the deployment; trial keys show a Desmos trial banner. The calculator is loaded only when opened.

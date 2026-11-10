@@ -13,6 +13,10 @@ require('./lib/visual-layout.cjs').addVisualLayout(bank,captures,relative=>fs.re
 fs.mkdirSync(output,{recursive:true});
 fs.copyFileSync(path.join(__dirname,'index.html'),path.join(output,'index.html'));
 fs.cpSync(path.join(__dirname,'assets'),path.join(output,'assets'),{recursive:true});
+const localDesmos=path.join(__dirname,'.env.desmos');
+const desmosKey=process.env.DESMOS_API_KEY || (fs.existsSync(localDesmos)?require('node:util').parseEnv(fs.readFileSync(localDesmos,'utf8')).DESMOS_API_KEY:'') || '';
+fs.writeFileSync(path.join(output,'assets/desmos-config.js'),'export const apiKey = '+JSON.stringify(desmosKey)+';\n');
+
 const mathAssets=path.join(output,'assets/katex');
 fs.mkdirSync(mathAssets,{recursive:true});
 fs.copyFileSync(require.resolve('katex/dist/katex.min.css'),path.join(mathAssets,'katex.min.css'));
@@ -34,7 +38,7 @@ const pages={
 };
 for(const [filename,source] of Object.entries(pages)){
  let page=source.replace('/assets/account-app.js','/assets/'+accountEntry).replace('/assets/assignment-run.js','/assets/'+runEntry);
- for(const name of ['heroui.css','question-bank.css','account.css','assignment.css','katex/katex.min.css']){
+ for(const name of ['heroui.css','question-bank.css','account.css','assignment.css','desmos-panel.css','katex/katex.min.css']){
   const bytes=fs.readFileSync(path.join(output,'assets',name));
   const hash=require('node:crypto').createHash('sha256').update(bytes).digest('hex').slice(0,12);
   const versioned=name.replace('.css','-'+hash+'.css');

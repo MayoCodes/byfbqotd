@@ -1,0 +1,27 @@
+.desmos-launch,.desmos-panel-bar button{display:inline-flex;align-items:center;justify-content:center;gap:6px;border:1px solid #cbd5e1;border-radius:9px;background:#fff;color:#26364d;padding:7px 10px;white-space:nowrap;cursor:pointer;font:600 12px/1.2 system-ui,sans-serif}
+.desmos-launch[aria-expanded=true]{background:#e9efff;border-color:#6380d7;color:#294a9e}
+.desmos-launch svg{flex:none}
+.desmos-panel{position:fixed;z-index:1000;display:flex;flex-direction:column;box-sizing:border-box;min-width:0;background:#fff;color:#26364d;border:1px solid #cbd5e1;box-shadow:0 8px 28px #172c4526;overflow:hidden;font:14px system-ui,sans-serif}
+.desmos-panel[hidden],.desmos-message[hidden]{display:none}
+.desmos-panel[data-placement=floating]{border-radius:12px}
+.desmos-panel-bar{display:flex;align-items:center;gap:6px;min-height:40px;padding:4px 8px;background:#eef3f9;border-bottom:1px solid #d5deeb;flex:none}
+.desmos-panel-bar .desmos-grab{margin-right:auto;background:none;border:0;cursor:grab;touch-action:none;user-select:none}
+.desmos-panel-bar .desmos-grab:active{cursor:grabbing}
+.desmos-panel-bar [data-close]{font-size:20px;padding:2px 8px}
+.desmos-stage{flex:1;min-height:0;min-width:0}
+.desmos-message{position:absolute;inset:41px 0 0;display:grid;place-content:center;justify-items:center;gap:10px;padding:24px;text-align:center;background:#fff;line-height:1.5}
+.desmos-resize{position:absolute;z-index:2;right:0;bottom:0;width:24px;height:24px;border:0;background:linear-gradient(135deg,transparent 56%,#9aacc2 57% 61%,transparent 62% 71%,#9aacc2 72% 77%,transparent 78%) #f8fafc;cursor:nwse-resize;touch-action:none}
+.desmos-panel[data-placement=right] .desmos-resize{right:auto;left:0;top:41px;bottom:0;width:7px;height:auto;background:#e2e8f0;cursor:ew-resize}
+.desmos-panel[data-placement=bottom] .desmos-resize{top:0;bottom:auto;left:0;right:0;height:7px;width:auto;background:#a8b8ca;cursor:ns-resize}
+.desmos-panel[data-placement=bottom] .desmos-panel-bar{padding-top:9px}
+body.desmos-docked-right{box-sizing:border-box;padding-right:var(--desmos-space)}
+.desmos-docked-right .bank-layout{grid-template-columns:180px minmax(0,1fr);gap:16px}
+.desmos-docked-right .test-header-right{flex-wrap:wrap}
+.desmos-docked-bottom #assignment-app,.desmos-docked-bottom #bank-workspace{height:calc(100dvh - var(--desmos-space))}
+.desmos-docked-bottom #bank-workspace{overflow:auto}
+.desmos-docked-bottom .test-content{overflow:auto}
+@media(max-width:768px){
+  .test-header-right .desmos-launch{padding:5px 7px;font-size:10px}
+  .test-header-right .desmos-launch svg{width:14px;height:14px}
+  .desmos-docked-bottom .test-header{padding-block:7px;min-height:52px}
+}

@@ -1,3 +1,4 @@
+import './desmos-panel.js';
 import {formatQuestionContent} from './content-format.js';
 import {updateFilterControls} from './filter-controls.js';
 import {DEFAULT_FILTERS,metadata,filterQuestions} from './bank-model.js';
