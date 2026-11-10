@@ -80,12 +80,12 @@ The question bank bundles KaTeX and its fonts locally during the build. Captured
 
 ### Professional math typography and diagrams
 
-Math question text uses a textbook serif face. KaTeX supplies the italic variable alphabet, upright operators/numerals, stacked fractions, superscripts/subscripts, radicals, sums, and matrices. Equations remain structured and accessible via MathML. Graphs remain full-size diagram images, with a direct original-image link for zooming. Inline math images are presented within the sentence without figure cards or captions. The graph data and original image bytes are not changed.
+Math question text uses a textbook serif face. KaTeX supplies the italic variable alphabet, upright operators/numerals, stacked fractions, superscripts/subscripts, radicals, sums, and matrices. Equations remain structured and accessible via MathML. Graphs remain full-size diagram images, with a direct original-image link for zooming. The graph data and original image bytes are not changed.
 
-## Inline math repair (Capture 2.5.0)
+## Text-based equation capture (Capture 2.5.1)
 
-The renderer distinguishes equations from actual figures. New captures read MathQuill's selectable TeX or reconstruct its supported fraction, power, subscript, and root structure from the displayed DOM. Unsupported math carries explicit math/inline metadata so it cannot become a diagram card. Actual graph images remain diagrams.
+New captures store equations as TeX text, rendered with local KaTeX. MathQuill selectable TeX, supported MathQuill fraction/power/subscript/root DOM, and MathML are read directly from the displayed question. Only actual diagrams, graphs, and tables are screenshots. If an equation has no readable semantic source, capture pauses without replacing the saved question; there is no equation screenshot fallback.
 
-Existing math image captures are repaired at build/render time using image dimensions, foreground bounds, and sentence placement. The original PNGs are not edited, recompressed, or replaced, and the source question/answer IDs do not change. Single newlines injected around inline placeholders are removed; paragraph breaks and display equations remain. This layout repair does not require recapturing the existing question bank. Unknown or large diagram assets retain figure layout.
+Reload the existing unpacked extension (do not remove it), then auto-capture the math set again. Extraction revision 6 refreshes earlier math captures instead of skipping them as already published. The same question IDs replace previous records, so this does not create duplicates. Publish all when the capture finishes and create one manual deployment from main. The stored GitHub token and existing queue are retained.
 
-The build now installs the small `pngjs` dependency through the lockfile and emits presentation metadata with the static bank. Manually deploy `main` after publishing the code changes; automatic Vercel deployments remain disabled.
+Legacy captures that contain only equation PNGs keep their existing display until replaced by a text capture. Image pixels cannot restore the original TeX reliably. English captures remain deduplicated and do not need recapturing.
