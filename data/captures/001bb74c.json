@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "001bb74c",
-  "capturedAt": "2026-11-09T20:58:51.757Z",
+  "capturedAt": "2026-11-09T23:19:35.458Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,80 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g is defined by g(x)=ba​(x−2)2+c, where a, b, and c are positive integers. In the xy-plane, the graph of y=g(x) passes through the points (0,11) and (6,29). If a and b have no common factors and b>1, what is the value of c?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\n,\n[Figure 4]\n, and\n[Figure 5]\nare positive integers. In the xy-plane, the graph of\n[Figure 6]\npasses through the points\n[Figure 7]\nand\n[Figure 8]\n. If\n[Figure 9]\nand\n[Figure 10]\nhave no common factors and\n[Figure 11]\n, what is the value of\n[Figure 12]\n?",
   "choices": {
-    "A": "3",
-    "B": "5",
-    "C": "7",
-    "D": "9"
+    "A": "[Figure 13]",
+    "B": "[Figure 14]",
+    "C": "[Figure 15]",
+    "D": "[Figure 16]"
   },
   "correctAnswer": "B",
-  "explanation": "Using the point $(0,11)$: $\\frac{4a}{b}+c=11$. Using the point $(6,29)$: $\\frac{16a}{b}+c=29$. Subtracting the first equation from the second gives $\\frac{12a}{b}=18$, so $\\frac{a}{b}=\\frac{3}{2}$. Since $a$ and $b$ have no common factors, $a=3$ and $b=2$. Substituting into the first equation: $\\frac{12}{2}+c=11$, which gives $c=5$.\n\nWhy A is incorrect:\n\nThis results from an error in solving the system, possibly subtracting the equations incorrectly or making an arithmetic mistake when calculating $11-6$.",
+  "explanation": "Using the point $(0,11)$: $\\frac{4a}{b}+c=11$. Using the point $(6,29)$: $\\frac{16a}{b}+c=29$. Subtracting the first equation from the second gives $\\frac{12a}{b}=18$, so $\\frac{a}{b}=\\frac{3}{2}$. Since $a$ and $b$ have no common factors, $a=3$ and $b=2$. Substituting into the first equation: $\\frac{12}{2}+c=11$, which gives $c=5$.\n\nWhy C is incorrect:\n\nThis results from confusing which equation to use for the final substitution, or from incorrectly calculating $\\frac{12a}{b}$ when $a=3$ and $b=2$.",
   "source": "https://cooksat.com/practice?questionId=001bb74c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/001bb74c/1-ec07f01261df48fd.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/001bb74c/2-424153632c3cf8c6.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/001bb74c/3-93b864be0270f7c2.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/001bb74c/4-08f80739a95e4686.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/001bb74c/5-2508463c4434043c.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/001bb74c/6-0d90196d29627d13.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/001bb74c/7-14ccc70e84eec6c5.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/001bb74c/8-483e2413026314e1.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/001bb74c/9-93b864be0270f7c2.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/001bb74c/10-08f80739a95e4686.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/001bb74c/11-fa40b2d972c600ab.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/001bb74c/12-fa4e73aef0bcf693.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/001bb74c/13-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 14",
+      "path": "data/capture-assets/001bb74c/14-8fc3cfb4a4e6f37e.png"
+    },
+    {
+      "label": "Figure 15",
+      "path": "data/capture-assets/001bb74c/15-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 16",
+      "path": "data/capture-assets/001bb74c/16-42e42729df9aea5a.png"
+    }
+  ]
 }
