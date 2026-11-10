@@ -9,6 +9,7 @@ let bank=buildQuestionBank(fs.readFileSync(path.join(__dirname,'data/questions.c
 const captureDirectory=path.join(__dirname,'data/captures');
 const captures=fs.existsSync(captureDirectory)?fs.readdirSync(captureDirectory).filter(name=>name.endsWith('.json')).sort().map(name=>JSON.parse(fs.readFileSync(path.join(captureDirectory,name),'utf8'))):[];
 bank=mergeCaptures(bank,captures);
+require('./lib/visual-layout.cjs').addVisualLayout(bank,captures,relative=>fs.readFileSync(path.join(__dirname,relative)));
 fs.mkdirSync(output,{recursive:true});
 fs.copyFileSync(path.join(__dirname,'index.html'),path.join(output,'index.html'));
 fs.cpSync(path.join(__dirname,'assets'),path.join(output,'assets'),{recursive:true});

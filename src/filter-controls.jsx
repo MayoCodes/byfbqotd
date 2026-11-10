@@ -1,4 +1,4 @@
-import React,{useState} from 'react';
+import React,{useState,useEffect} from 'react';
 import {createRoot} from 'react-dom/client';
 import {Select,Label,ListBox} from '@heroui/react';
 import {ALL,DEFAULT_FILTERS,facetOptions,changeFilter} from '../assets/bank-model.js';
@@ -14,6 +14,7 @@ function Field({label,value,options,onChange,placeholder}){
 }
 function Filters(){
   const [expanded,setExpanded]=useState(()=>!window.matchMedia('(max-width:760px)').matches);
+  useEffect(()=>{const media=window.matchMedia('(max-width:760px)'),sync=()=>setExpanded(!media.matches);media.addEventListener('change',sync);return ()=>media.removeEventListener('change',sync);},[]);
   const [view,update]=useState({questions:[],filters:DEFAULT_FILTERS,progress:{},matched:0});setView=update;
   const {questions,filters,progress,matched}=view;
   const change=(key,value)=>window.dispatchEvent(new CustomEvent('bank-filter-change',{detail:changeFilter(filters,key,value)}));

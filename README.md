@@ -80,4 +80,12 @@ The question bank bundles KaTeX and its fonts locally during the build. Captured
 
 ### Professional math typography and diagrams
 
-Math question text uses a textbook serif face. KaTeX supplies the italic variable alphabet, upright operators/numerals, stacked fractions, superscripts/subscripts, radicals, sums, and matrices. Equations remain structured and accessible via MathML. Question figures include a full-size dialog with original-image access and native pan/scroll for large graphs. This viewer displays captured graph images; it does not reconstruct plot data or change the source geometry. Older flattened captures must be refreshed with Capture 2.3.0 to recover their source structure.
+Math question text uses a textbook serif face. KaTeX supplies the italic variable alphabet, upright operators/numerals, stacked fractions, superscripts/subscripts, radicals, sums, and matrices. Equations remain structured and accessible via MathML. Graphs remain full-size diagram images, with a direct original-image link for zooming. Inline math images are presented within the sentence without figure cards or captions. The graph data and original image bytes are not changed.
+
+## Inline math repair (Capture 2.5.0)
+
+The renderer distinguishes equations from actual figures. New captures read MathQuill's selectable TeX or reconstruct its supported fraction, power, subscript, and root structure from the displayed DOM. Unsupported math carries explicit math/inline metadata so it cannot become a diagram card. Actual graph images remain diagrams.
+
+Existing math image captures are repaired at build/render time using image dimensions, foreground bounds, and sentence placement. The original PNGs are not edited, recompressed, or replaced, and the source question/answer IDs do not change. Single newlines injected around inline placeholders are removed; paragraph breaks and display equations remain. This layout repair does not require recapturing the existing question bank. Unknown or large diagram assets retain figure layout.
+
+The build now installs the small `pngjs` dependency through the lockfile and emits presentation metadata with the static bank. Manually deploy `main` after publishing the code changes; automatic Vercel deployments remain disabled.
