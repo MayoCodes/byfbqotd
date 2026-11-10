@@ -10,7 +10,8 @@
   "scripts": {
     "build": "node build.cjs",
     "test": "node --test tests/*.test.cjs",
-    "preview": "node scripts/preview.cjs"
+    "preview": "node scripts/preview.cjs",
+    "test:rules": "firebase emulators:exec --only firestore --project demo-friprep \"node --test tests/assignment-rules.emulator.cjs\""
   },
   "repository": {
     "type": "git",
@@ -32,8 +33,10 @@
     "react-dom": "^19.3.1"
   },
   "devDependencies": {
+    "@firebase/rules-unit-testing": "^5.0.2",
     "@tailwindcss/cli": "^4.3.5",
     "esbuild": "^0.28.2",
+    "firebase": "^12.19.0",
     "tailwindcss": "^4.3.5"
   },
   "private": true,

@@ -172,12 +172,73 @@ service cloud.firestore {
       match /assignments/{assignmentId} {
         allow read: if teacher() || member(classId);
         allow create, update: if teacher()
-          && request.resource.data.keys().hasOnly(['title','category','dueDate','questionIds','createdAt'])
+          && request.resource.data.keys().hasOnly(['title','category','dueDate','questionIds','createdAt','timingMode','timeLimitSeconds'])
           && request.resource.data.title is string && request.resource.data.title.size() > 0 && request.resource.data.title.size() <= 120
           && request.resource.data.category is string && request.resource.data.category.size() <= 120
           && request.resource.data.dueDate is string && request.resource.data.dueDate.size() <= 10
-          && request.resource.data.questionIds is list && request.resource.data.questionIds.size() > 0 && request.resource.data.questionIds.size() <= 100;
+          && request.resource.data.questionIds is list && request.resource.data.questionIds.size() > 0 && request.resource.data.questionIds.size() <= 100
+          && request.resource.data.get('timingMode','untimed') in ['timed','untimed']
+          && request.resource.data.get('timeLimitSeconds',0) is int
+          && (request.resource.data.get('timingMode','untimed') == 'timed'
+            ? request.resource.data.timeLimitSeconds >= 60 && request.resource.data.timeLimitSeconds <= 14400
+            : request.resource.data.get('timeLimitSeconds',0) == 0);
         allow delete: if teacher();
+
+        match /sessions/{uid} {
+          function ownSession() { return member(classId) && request.auth.uid == uid; }
+          function task() {
+            return get(/databases/$(database)/documents/friprepClassrooms/$(classId)/assignments/$(assignmentId)).data;
+          }
+          function submissionPath() {
+            let id = assignmentId + '_' + uid;
+            return /databases/$(database)/documents/friprepClassrooms/$(classId)/submissions/$(id);
+          }
+          function expired() {
+            return resource.data.durationSeconds > 0
+              && request.time >= resource.data.startedAt + duration.value(resource.data.durationSeconds, 's');
+          }
+          function checkpoint() {
+            let next = request.resource.data;
+            return next.answers is map && next.answers.keys().hasOnly(resource.data.questionIds)
+              && next.stats is map && next.stats.keys().hasOnly(resource.data.questionIds)
+              && next.marked is list && next.marked.size() <= 100 && next.marked.hasOnly(resource.data.questionIds)
+              && next.eliminated is map && next.eliminated.keys().hasOnly(resource.data.questionIds)
+              && next.events is list && next.events.size() <= 200
+              && next.awayCount is int && next.awayCount >= resource.data.awayCount
+              && next.awayCount <= 1000000
+              && next.lastQuestionId in resource.data.questionIds
+              && next.revision == resource.data.revision + 1 && next.clockAt == request.time;
+          }
+          allow get: if teacher() || ownSession();
+          allow list: if teacher();
+          allow create: if ownSession() && !exists(submissionPath())
+            && request.resource.data.keys().hasOnly(['status','startedAt','clockAt','durationSeconds','questionIds','answers','stats','marked','eliminated','events','awayCount','lastQuestionId','revision'])
+            && request.resource.data.status == 'active'
+            && request.resource.data.startedAt == request.time && request.resource.data.clockAt == request.time
+            && request.resource.data.durationSeconds == task().get('timeLimitSeconds',0)
+            && request.resource.data.questionIds == task().questionIds
+            && request.resource.data.lastQuestionId == task().questionIds[0]
+            && request.resource.data.answers is map && request.resource.data.answers.size() == 0
+            && request.resource.data.stats is map && request.resource.data.stats.size() == 0
+            && request.resource.data.marked == [] && request.resource.data.events == []
+            && request.resource.data.eliminated is map && request.resource.data.eliminated.size() == 0
+            && request.resource.data.awayCount == 0 && request.resource.data.revision == 0;
+          allow update: if ownSession() && resource.data.status == 'active' && (
+            (request.resource.data.diff(resource.data).affectedKeys().hasOnly(['clockAt'])
+              && request.resource.data.clockAt == request.time)
+            || (!expired() && checkpoint()
+              && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['answers','stats','marked','eliminated','events','awayCount','lastQuestionId','revision','clockAt']))
+            || (checkpoint()
+              && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['answers','stats','marked','eliminated','events','awayCount','lastQuestionId','revision','clockAt','status','submitReason','submittedAt'])
+              && request.resource.data.status == 'submitted' && request.resource.data.submittedAt == request.time
+              && getAfter(submissionPath()).data.submittedAt == request.time
+              && ((!expired() && request.resource.data.submitReason == 'manual')
+                || (expired() && request.resource.data.submitReason == 'time-expired'
+                  && request.resource.data.answers == resource.data.answers)))
+          );
+          allow delete: if false;
+        }
+
       }
       match /grades/{gradeId} {
         allow read: if teacher() || (member(classId) && resource.data.studentId == request.auth.uid);
@@ -193,6 +254,7 @@ service cloud.firestore {
         allow delete: if teacher();
       }
       match /submissions/{submissionId} {
+        allow get: if member(classId) && !exists(/databases/$(database)/documents/friprepClassrooms/$(classId)/submissions/$(submissionId));
         allow read: if teacher() || (member(classId) && resource.data.studentId == request.auth.uid);
         allow create: if member(classId)
           && request.resource.data.keys().hasOnly(['studentId','assignmentId','submittedAt'])
@@ -200,7 +262,9 @@ service cloud.firestore {
           && request.resource.data.assignmentId is string
           && submissionId == request.resource.data.assignmentId + '_' + request.auth.uid
           && exists(/databases/$(database)/documents/friprepClassrooms/$(classId)/assignments/$(request.resource.data.assignmentId))
-          && request.resource.data.submittedAt == request.time;
+          && request.resource.data.submittedAt == request.time
+          && getAfter(/databases/$(database)/documents/friprepClassrooms/$(classId)/assignments/$(request.resource.data.assignmentId)/sessions/$(request.auth.uid)).data.status == 'submitted'
+          && getAfter(/databases/$(database)/documents/friprepClassrooms/$(classId)/assignments/$(request.resource.data.assignmentId)/sessions/$(request.auth.uid)).data.submittedAt == request.time;
         allow update, delete: if false;
       }
     }

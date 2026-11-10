@@ -10,7 +10,7 @@ let questions=[],activeId=null,page=0,busy=false,lastFetched=null;
 const states=new Map(),PAGE_SIZE=24;
 let selectionMode=false,selectedQuestions=new Set();
 function emitBank(){window.dispatchEvent(new CustomEvent('friprep-bank-loaded',{detail:{questions,visibleIds:filtered().slice(page*PAGE_SIZE,(page+1)*PAGE_SIZE).map(q=>q.id)}}));}
-let filters={...DEFAULT_FILTERS},progress={},accountUid=null,assignmentIds=null;
+let filters={...DEFAULT_FILTERS},progress={},accountUid=null;
 const progressKey=()=>accountUid?'friprep-bank-progress:'+accountUid:'friprep-bank-progress';
 try{progress=JSON.parse(localStorage.getItem('friprep-bank-progress')||'{}');if(!progress||typeof progress!=='object'||Array.isArray(progress))progress={};}catch{}
 function saveProgress(){try{localStorage.setItem(progressKey(),JSON.stringify(progress));}catch{}}
@@ -19,7 +19,7 @@ function refreshControls(){updateFilterControls({questions,filters,progress,matc
 const fingerprint=q=>JSON.stringify([q.prompt,q.passage,q.options,q.correctAnswer,q.explanation,(q.images||[]).map(image=>[image.label,image.url])]);
 function content(value,q){return formatQuestionContent(value,q);}
 
-function filtered(){return filterQuestions(assignmentIds?questions.filter(q=>assignmentIds.has(q.id)):questions,filters,progress,$('#search').value);}
+function filtered(){return filterQuestions(questions,filters,progress,$('#search').value);}
 function tags(q){const m=metadata(q);return [m.domain,m.skill,m.difficulty].filter(Boolean).map(t=>`<span class="tag">${escape(t)}</span>`).join('');}
 function renderChips(){
  const labels={subject:'Section',domain:'Domain',skill:'Skill',difficulty:'Difficulty',status:'Status',format:'Format',sort:'Order'};
@@ -103,18 +103,8 @@ window.addEventListener('friprep-account-progress',event=>{
  if(uid){for(const [id,row] of Object.entries(cloud||{})){progress[id]=row;if(row.checked)states.delete(id);}saveProgress();}
  if(questions.length)renderList(true);
 });
-const assignmentParams=new URLSearchParams(location.search);
-function requestAssignment(){if(assignmentParams.has('assignment')&&assignmentParams.has('classroom'))window.dispatchEvent(new CustomEvent('friprep-assignment-request',{detail:{assignmentId:assignmentParams.get('assignment'),classroomId:assignmentParams.get('classroom')}}));}
-window.addEventListener('friprep-account-store-ready',requestAssignment);
-window.addEventListener('friprep-assignment-loaded',event=>{
- const banner=document.getElementById('assignment-context');if(!banner)return;banner.hidden=false;
- banner.replaceChildren();
- const text=document.createElement('span');text.textContent=event.detail.error||('Assignment: '+event.detail.title+' · '+event.detail.questionIds.length+' questions. ');banner.append(text);
- const link=document.createElement('a');link.href='/dashboard';link.textContent='Return to your classroom';banner.append(link);
- assignmentIds=new Set(event.detail.error?[]:event.detail.questionIds);page=0;if(questions.length)renderList(true);
-});
-if(assignmentParams.has('assignment'))assignmentIds=new Set();
-requestAssignment();
+const oldAssignmentLink=new URLSearchParams(location.search);
+if(oldAssignmentLink.has('assignment')&&oldAssignmentLink.has('classroom'))location.replace('/assignment?'+oldAssignmentLink);
 
 window.addEventListener('friprep-bank-request',emitBank);
 window.addEventListener('friprep-selection-state',event=>{selectionMode=!!event.detail.enabled;selectedQuestions=new Set(event.detail.ids);if(questions.length)renderList(true);});

@@ -11,13 +11,13 @@ The website code uses the existing Firebase project `broyourefriedbro`. It does 
 5. Manually create a Vercel deployment from `main`. Automatic deployments stay disabled.
 6. Open `/dashboard` and sign in with **ray.r.hossain@gmail.com**. Teacher access requires Google's verified email, checked in both the client and Firestore rules. No student can assign themselves a teacher role.
 
-The Codex machine's existing Firebase CLI login did not have this project in its accessible projects, so no live Firebase rules were published by Codex. Rules also could not be tested with the Firestore emulator because Java is not installed. Firebase Console validates the rules before publishing; test the two-account checklist below before distributing access.
+The Codex machine's existing Firebase CLI login did not have this project in its accessible projects, so no live Firebase rules were published by Codex. The assignment rules were verified locally with the Firestore emulator. Firebase Console also validates the rules before publishing; use the two-account checklist below before distributing access.
 
 ## Teacher workflow
 
 - Generate an activation code under **Student activation**, and copy it immediately. Only its SHA-256 hash is saved, not the original code. It expires in 30 days and can only activate one Google account.
 - Create a classroom and copy its separate classroom join code. This code can be shared with the group; students must activate their own accounts first. You can generate another join code later. Existing join codes remain active until disabled in Firestore.
-- Publish assignments using question IDs from the question bank. An assignment link opens only those questions. Students can submit after checking each question in their saved practice.
+- Publish assignments using question IDs from the question bank. An assignment link opens a separate test screen with only those questions. Students submit their work from the test’s review screen.
 - Post a grade by selecting the student and assignment. Posting again for that pair updates the existing grade instead of creating a duplicate. Only the teacher writes classroom grades.
 - Classroom and category averages are points-weighted across teacher-posted grades. Practice accuracy is shown separately and is self-reported practice, not a protected exam score.
 
@@ -47,3 +47,13 @@ The next-SAT countdown uses the confirmed calendar in `assets/account-model.js`,
 Publish the latest complete `firestore.rules` again to enable `/friprepUsers/{uid}/planner/{date}`. Daily labels are private to that account and limited to 140 characters. Device storage keeps a dated local copy if cloud syncing fails.
 
 In the teacher dashboard, choose a classroom and click **Choose questions**. In the question bank, **Select questions** switches on checkboxes and previews. Select up to 100 questions across filters and pages; **Select this page** adds the current page. The selection tray keeps every chosen question visible. **Review & assign** lets you expand the full questions and answers, remove any, choose the classroom, title, category and due date, then publish the assignment. Selections are kept in session storage until cleared or published.
+
+## Timed assignments and teacher activity
+
+Choose **Timed** or **Untimed** in **Review & assign**. Timed assignments have a total limit from 1 to 240 minutes. Students open a dedicated split-pane assignment screen with answer selection, short answers, review marks, an answer eliminator, and a question navigator. Old assignment links redirect to the new screen; previously submitted work is retained.
+
+A timed attempt uses the server-stamped start and original limit. Reloading, navigating questions, or leaving the tab does not extend it. Late answers are denied by Firestore. At expiry, the open page submits the last saved answers; a closed page finalizes when the student reopens and resumes it. The teacher report indicates expired attempts awaiting final submission.
+
+In **Teacher dashboard → Assignment activity**, select the assignment and student. The report shows answers, visible time up to the latest answer change, total time with each question visible, time away, and the most recent tab-visibility events. Leaving the tab does not show a pop-up or invalidate the attempt. Before starting, students are told that their teacher can see this activity. The data is browser-reported and may be incomplete if the device is offline or closed. No other tab's URL, title, or content is collected.
+
+Publish the latest **complete** Firestore rules before manually deploying `main`. For local rule checks, run `npm run test:rules` with the Firebase CLI and Java 21 installed. This command uses an isolated demo project.
