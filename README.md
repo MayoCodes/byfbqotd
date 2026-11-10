@@ -93,3 +93,5 @@ Legacy captures that contain only equation PNGs keep their existing display unti
 ## Accounts and classroom dashboard
 
 Google sign-in, one-use activation, teacher classrooms, assignments, cloud practice, and grades are implemented. Follow [the account setup guide](docs/ACCOUNTS-SETUP.md) before distributing student access. The new Firestore rules must be published in your Firebase project; Vercel deployment alone does not publish them.
+
+The fries outline mark is a local SVG. The daily focus calendar replaces the decorative countdown graphic; students and teachers can label individual days. Teachers can build assignments directly from question-bank selection mode, with full question previews and a classroom publish form. Publish the updated Firestore rules to enable private planner syncing.

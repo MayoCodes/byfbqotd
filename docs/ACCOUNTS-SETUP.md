@@ -41,3 +41,9 @@ Students see only their own grades and submissions. The teacher can see the clas
 The public Firebase web configuration now lives in `assets/firebase-config.js` and is shared by the daily challenge and accounts. It contains public application settings, never a service-account key or activation code. Teacher email must be updated in both `assets/account-model.js` and `firestore.rules` if ownership changes.
 
 The next-SAT countdown uses the confirmed calendar in `assets/account-model.js`, sourced from [College Board](https://satsuite.collegeboard.org/sat/dates-deadlines). It stops showing a date when the confirmed calendar is exhausted; add future confirmed dates there rather than inventing a schedule.
+
+## Daily focus planner and question selection
+
+Publish the latest complete `firestore.rules` again to enable `/friprepUsers/{uid}/planner/{date}`. Daily labels are private to that account and limited to 140 characters. Device storage keeps a dated local copy if cloud syncing fails.
+
+In the teacher dashboard, choose a classroom and click **Choose questions**. In the question bank, **Select questions** switches on checkboxes and previews. Select up to 100 questions across filters and pages; **Select this page** adds the current page. The selection tray keeps every chosen question visible. **Review & assign** lets you expand the full questions and answers, remove any, choose the classroom, title, category and due date, then publish the assignment. Selections are kept in session storage until cleared or published.

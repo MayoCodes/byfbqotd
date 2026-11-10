@@ -86,6 +86,15 @@ service cloud.firestore {
             && existsAfter(/databases/$(database)/documents/friprepClassrooms/$(request.resource.data.classroomId)/members/$(uid))))
         && (request.resource.data.mode != 'classroom' || request.resource.data.classroomId != null);
       allow delete: if false;
+      match /planner/{date} {
+        allow read: if activated() && request.auth.uid == uid;
+        allow create, update: if activated() && request.auth.uid == uid
+          && date.matches('^[0-9]{4}-[0-9]{2}-[0-9]{2}$')
+          && request.resource.data.keys().hasOnly(['label','updatedAt'])
+          && request.resource.data.label is string && request.resource.data.label.size() <= 140
+          && request.resource.data.updatedAt == request.time;
+        allow delete: if activated() && request.auth.uid == uid;
+      }
       match /progress/{questionId} {
         allow read: if activated() && (request.auth.uid == uid || teacher());
         allow create, update: if activated() && request.auth.uid == uid

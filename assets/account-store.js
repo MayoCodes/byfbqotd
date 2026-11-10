@@ -1,7 +1,7 @@
 import {firebaseConfig} from './firebase-config.js';
 import {codeHash,newCode,isTeacher,friendlyAccountError} from './account-model.js';
-let sdk,auth,db,boot,version=0,unsubProfile,unsubProgress;
-let state={loading:true,user:null,profile:null,progress:{},error:''};const listeners=new Set();
+let sdk,auth,db,boot,version=0,unsubProfile,unsubProgress,unsubPlanner;
+let state={loading:true,user:null,profile:null,progress:{},planner:{},error:''};const listeners=new Set();
 const emit=patch=>{state={...state,...patch};for(const listener of listeners)listener(state);};
 export const subscribeAccount=listener=>{listeners.add(listener);listener(state);return ()=>listeners.delete(listener);};
 export const getAccount=()=>state;
@@ -12,14 +12,14 @@ export function startAccount(){return boot??=(async()=>{try{
  sdk={...authSDK,...firestore};const instance=app.getApps().find(a=>a.name==='[DEFAULT]')||app.initializeApp(firebaseConfig);auth=sdk.getAuth(instance);db=sdk.getFirestore(instance);
  await sdk.setPersistence(auth,sdk.browserLocalPersistence);
  sdk.onAuthStateChanged(auth,async user=>{
-  const ticket=++version;unsubProfile?.();unsubProgress?.();unsubProfile=null;unsubProgress=null;emit({user,profile:null,progress:{},loading:!!user,error:''});
+  const ticket=++version;unsubProfile?.();unsubProgress?.();unsubPlanner?.();unsubProfile=null;unsubProgress=null;unsubPlanner=null;emit({user,profile:null,progress:{},planner:{},loading:!!user,error:''});
   window.dispatchEvent(new CustomEvent('friprep-account-progress',{detail:{uid:user?.uid||null,progress:{}}}));
   if(!user)return;
   try{
    const profile=ref('friprepUsers',user.uid),snapshot=await sdk.getDoc(profile);if(ticket!==version)return;
    if(!snapshot.exists())await sdk.setDoc(profile,{name:user.displayName||'Student',email:user.email||'',mode:null,classroomId:null,createdAt:now()});
    if(ticket!==version)return;
-   unsubProfile=sdk.onSnapshot(profile,doc=>{if(ticket!==version)return;emit({profile:doc.data(),loading:false});if(!unsubProgress&&(isTeacher(user)||state.profile?.activated))unsubProgress=sdk.onSnapshot(sdk.collection(db,'friprepUsers',user.uid,'progress'),snap=>{if(ticket!==version)return;const progress=Object.fromEntries(snap.docs.map(doc=>[doc.id,doc.data()]));emit({progress});window.dispatchEvent(new CustomEvent('friprep-account-progress',{detail:{uid:user.uid,progress}}));},error=>emit({error:friendlyAccountError(error)}));},error=>emit({loading:false,error:friendlyAccountError(error)}));
+   unsubProfile=sdk.onSnapshot(profile,doc=>{if(ticket!==version)return;emit({profile:doc.data(),loading:false});if(!unsubProgress&&(isTeacher(user)||state.profile?.activated))unsubProgress=sdk.onSnapshot(sdk.collection(db,'friprepUsers',user.uid,'progress'),snap=>{if(ticket!==version)return;const progress=Object.fromEntries(snap.docs.map(doc=>[doc.id,doc.data()]));emit({progress});window.dispatchEvent(new CustomEvent('friprep-account-progress',{detail:{uid:user.uid,progress}}));},error=>emit({error:friendlyAccountError(error)}));if(!unsubPlanner&&(isTeacher(user)||state.profile?.activated))unsubPlanner=sdk.onSnapshot(sdk.collection(db,'friprepUsers',user.uid,'planner'),snap=>{if(ticket!==version)return;emit({planner:Object.fromEntries(snap.docs.map(doc=>[doc.id,{...doc.data(),updatedAtMs:doc.data().updatedAt?.toMillis?.()||0}]))});},error=>emit({error:'Your daily focus couldn’t sync. Device-saved focus labels are still available.'}));},error=>emit({loading:false,error:friendlyAccountError(error)}));
   }catch(error){if(ticket===version)emit({loading:false,error:friendlyAccountError(error)});}
  },error=>emit({loading:false,error:friendlyAccountError(error)}));
  }catch(error){emit({loading:false,error:friendlyAccountError(error)});throw error;}})();}
@@ -50,3 +50,9 @@ window.addEventListener('friprep-assignment-request',async event=>{
  catch(error){window.dispatchEvent(new CustomEvent('friprep-assignment-loaded',{detail:{error:friendlyAccountError(error)}}));}
 });
 window.dispatchEvent(new Event('friprep-account-store-ready'));
+
+export async function saveFocusNote(date,label){
+ if(!state.user||(!state.profile?.activated&&!isTeacher(state.user)))throw Error('Activate your account to save focus labels.');
+ if(!/^\d{4}-\d{2}-\d{2}$/.test(date)||typeof label!=='string'||label.length>140)throw Error('Choose a valid day and a focus label of up to 140 characters.');
+ await sdk.setDoc(ref('friprepUsers',state.user.uid,'planner',date),{label:label.trim(),updatedAt:now()});
+}
