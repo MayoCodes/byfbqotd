@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "beb22b51",
+  "capturedAt": "2026-11-10T03:19:53.048Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$63x^{2}+(63q+p)x+pq=0$$\n\nIn the equation above, $p$ and $q$ are positive constants. The product of the solutions to the given equation is $mpq$, where $m$ is a constant. What is the value of $m$?",
+  "choices": {
+    "A": "$\\frac{1}{(63)}$",
+    "B": "$\\frac{1}{(21)}$",
+    "C": "$1$",
+    "D": "$63$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The equation $63x^{2}+(63q+p)x+pq=0$ can be factored by grouping: $63x^{2}+63qx+px+pq=63x(x+q)+p(x+q)=(x+q)(63x+p)=0$. By the zero product property, $x=-q$ or $x=-\\frac{p}{63}$. The product of the solutions is $(-q)\\left(-\\frac{p}{63}\\right)=\\frac{pq}{63}$. Since this equals $mpq$, it follows that $m=\\frac{1}{63}$.",
+  "source": "https://cooksat.com/practice?questionId=beb22b51&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

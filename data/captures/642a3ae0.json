@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "642a3ae0",
+  "capturedAt": "2026-11-10T03:17:39.645Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$z - 34 = k w$$\n\nThe given equation relates the positive numbers $k$, $w$, and $z$. Which equation correctly expresses $z$ in terms of $k$ and $w$?",
+  "choices": {
+    "A": "$z = \\frac{(k w)}{(34)}$",
+    "B": "$z = 34 k w$",
+    "C": "$z = k w + 34$",
+    "D": "$z = 34 w + k$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Adding $34$ to each side of the given equation yields $z = kw + 34$. Therefore, the equation $z = kw + 34$ correctly expresses $z$ in terms of $k$ and $w$.",
+  "source": "https://cooksat.com/practice?questionId=642a3ae0&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

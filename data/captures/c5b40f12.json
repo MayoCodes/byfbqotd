@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c5b40f12",
+  "capturedAt": "2026-11-10T03:20:03.562Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For a polynomial function $g$, the graph of $g$ in the $xy$-plane contains the points $(-3, 0)$, $(5, 0)$, $(0, 0)$, and $(8, 0)$. Which of the following must be a factor of $g(x)$?",
+  "choices": {
+    "A": "$x^{2} - 13x - 40$",
+    "B": "$x^{2} - 8x$",
+    "C": "$x^{2} + 2x - 15$",
+    "D": "$x^{2} - x + 20$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. If the graph of a polynomial function $g$ contains the point $(a, 0)$, then $a$ is a zero of $g$, and $(x - a)$ is a factor of $g(x)$. It's given that the graph contains the points $(-3, 0)$, $(5, 0)$, $(0, 0)$, and $(8, 0)$. Therefore, $(x + 3)$, $(x - 5)$, $x$, and $(x - 8)$ are all factors of $g(x)$. Any product of these factors must also be a factor of $g(x)$. The expression in choice B can be factored as $x^{2} - 8x = x(x - 8)$. Since both $x$ and $(x - 8)$ are factors of $g(x)$, their product $x(x - 8)$ must be a factor of $g(x)$.",
+  "source": "https://cooksat.com/practice?questionId=c5b40f12&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "89fd983f",
+  "capturedAt": "2026-11-10T03:18:23.272Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Consider the system of equations $x^{2} + y^{2} = 25$ and $y = -\\frac{x}{2} + k$, where $k$ is a positive constant. For what value of $k$ does this system have exactly one solution?",
+  "choices": {
+    "A": "$\\frac{5}{2}$",
+    "B": "$(5sqrt(5))/2$",
+    "C": "$5$",
+    "D": "$10$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The system has exactly one solution when the line is tangent to the circle. This occurs when the distance from the center $(0,0)$ to the line equals the radius $5$. Rewriting $y = -\\frac{x}{2} + k$ as $x + 2y - 2k = 0$, the distance is $\\frac{|2k|}{\\sqrt{1^2 + 2^2}} = \\frac{2k}{\\sqrt{5}}$. Setting this equal to $5$ gives $\\frac{2k}{\\sqrt{5}} = 5$, so $k = \\frac{5\\sqrt{5}}{2}$.",
+  "source": "https://cooksat.com/practice?questionId=89fd983f&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

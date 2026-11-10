@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "60336fb1",
+  "capturedAt": "2026-11-10T03:17:29.581Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Complete the Square",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{(6x^{2})}{(x^{2} - 25)} - \\frac{(3x)}{(x + 5)} = \\frac{1}{(x - 5)}$$\n\nWhat value of $x$ satisfies the equation above?",
+  "choices": {
+    "A": "$-5$",
+    "B": "$-\\frac{1}{3}$",
+    "C": "$\\frac{1}{3}$",
+    "D": "$5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Each fraction in the given equation can be expressed with the common denominator $x^{2} - 25$. Multiplying $\\frac{3x}{x + 5}$ by $\\frac{x - 5}{x - 5}$ yields $\\frac{3x^{2} - 15x}{x^{2} - 25}$, and multiplying $\\frac{1}{x - 5}$ by $\\frac{x + 5}{x + 5}$ yields $\\frac{x + 5}{x^{2} - 25}$. Therefore, the given equation can be written as $\\frac{6x^{2}}{x^{2} - 25} - \\frac{3x^{2} - 15x}{x^{2} - 25} = \\frac{x + 5}{x^{2} - 25}$. Equating numerators gives $6x^{2} - (3x^{2} - 15x) = x + 5$, or $3x^{2} + 15x = x + 5$. Subtracting $x + 5$ from both sides yields $3x^{2} + 14x - 5 = 0$. Factoring gives $(3x - 1)(x + 5) = 0$. By the zero product property, $3x - 1 = 0$ or $x + 5 = 0$, giving $x = \\frac{1}{3}$ or $x = -5$. However, $x = -5$ would make the denominator $x + 5$ equal to $0$, so it is extraneous. Thus, the only value of $x$ that satisfies the given equation is $x = \\frac{1}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=60336fb1&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

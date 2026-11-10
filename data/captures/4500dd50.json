@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4500dd50",
+  "capturedAt": "2026-11-10T03:17:00.858Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} - 6x - 2 = 0$$\n\nOne solution to the given equation can be written as $3 + sqrt(k)$, where $k$ is a constant. What is the value of $k$?",
+  "choices": {
+    "A": "$10$",
+    "B": "$11$",
+    "C": "$22$",
+    "D": "$44$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The solutions to a quadratic equation of the form $ax^{2} + bx + c = 0$ can be found using the quadratic formula: $x = \\frac{-b \\pm \\sqrt{b^{2} - 4ac}}{2a}$. The given equation has $a = 1$, $b = -6$, and $c = -2$. Substituting these values gives $x = \\frac{-(-6) \\pm \\sqrt{(-6)^{2} - 4(1)(-2)}}{2(1)}$, which simplifies to $x = \\frac{6 \\pm \\sqrt{36 + 8}}{2}$, or $x = \\frac{6 \\pm \\sqrt{44}}{2}$. Since $\\sqrt{44} = \\sqrt{4 \\cdot 11} = 2\\sqrt{11}$, this becomes $x = \\frac{6 \\pm 2\\sqrt{11}}{2}$, or $x = 3 \\pm \\sqrt{11}$. The solution $3 + \\sqrt{11}$ matches the form $3 + \\sqrt{k}$, so the value of $k$ is $11$.",
+  "source": "https://cooksat.com/practice?questionId=4500dd50&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

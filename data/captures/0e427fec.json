@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0e427fec",
+  "capturedAt": "2026-11-10T03:11:53.107Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y=2x+k$$\n\n$$y=-x^{2}+8x$$\n\nFor what value of $k$ does the system of equations above have exactly one solution?",
+  "choices": {
+    "A": "$-9$",
+    "B": "$0$",
+    "C": "$6$",
+    "D": "$9$"
+  },
+  "correctAnswer": "D",
+  "explanation": "For exactly one solution, the discriminant must equal zero. Setting $2x+k=-x^2+8x$ and rearranging gives $x^2-6x+k=0$. The discriminant is $(-6)^2-4(1)(k)=36-4k$. Setting $36-4k=0$ yields $k=9$.",
+  "source": "https://cooksat.com/practice?questionId=0e427fec&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

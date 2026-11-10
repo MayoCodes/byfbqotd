@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "65ff042f",
+  "capturedAt": "2026-11-10T03:17:43.036Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{1}{(4n)} = \\frac{(9x)}{m}$$\n\nThe given equation relates the positive numbers $n$, $x$, and $m$. Which equation correctly expresses $x$ in terms of $n$ and $m$?",
+  "choices": {
+    "A": "$x = \\frac{m}{(36n)}$",
+    "B": "$x = \\frac{(4nm)}{9}$",
+    "C": "$x = m - 36n$",
+    "D": "$x = 36nm$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Multiplying each side of the given equation by $m$ yields the equivalent equation $\\frac{m}{4n} = 9x$. Dividing each side of this equation by $9$ yields $\\frac{m}{36n} = x$, or $x = \\frac{m}{36n}$.",
+  "source": "https://cooksat.com/practice?questionId=65ff042f&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

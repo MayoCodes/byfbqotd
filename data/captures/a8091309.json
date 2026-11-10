@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a8091309",
+  "capturedAt": "2026-11-10T03:19:07.228Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the given equation $5x^{2} - 11x + k = 3$, $k$ is a constant. A solution to the equation is $(11 - sqrt(421))/(10)$. What is the value of $k$?\n\n$$0$$\n\n$$-12$$",
+  "choices": {},
+  "correctAnswer": "$-12$",
+  "explanation": "The correct answer is $-12$. Subtracting $3$ from both sides of the given equation yields $5x^{2} - 11x + k - 3 = 0$. This equation is in the form $ax^{2} + bx + d = 0$, where $a = 5$, $b = -11$, and $d = k - 3$. The solutions can be found using the quadratic formula: $x = \\frac{-b \\pm \\sqrt{b^{2} - 4ad}}{2a}$. Substituting yields $x = \\frac{11 \\pm \\sqrt{(-11)^{2} - 4(5)(k - 3)}}{2(5)}$, which simplifies to $x = \\frac{11 \\pm \\sqrt{121 - 20k + 60}}{10}$, or $x = \\frac{11 \\pm \\sqrt{181 - 20k}}{10}$. Since one solution is $\\frac{11 - \\sqrt{421}}{10}$, matching to $\\frac{11 - \\sqrt{181 - 20k}}{10}$ gives $181 - 20k = 421$. Subtracting $181$ from both sides yields $-20k = 240$. Dividing both sides by $-20$ gives $k = -12$.",
+  "source": "https://cooksat.com/practice?questionId=a8091309&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

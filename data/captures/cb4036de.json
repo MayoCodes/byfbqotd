@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cb4036de",
+  "capturedAt": "2026-11-10T03:20:15.166Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$7|x| = 56$$\n\nWhat is the positive solution to the given equation?\n\n$$0$$\n\n$$8$$",
+  "choices": {},
+  "correctAnswer": "$8$",
+  "explanation": "The correct answer is $8$. Dividing both sides of the given equation by $7$ yields $|x| = 8$. By the definition of absolute value, if $|x| = 8$, then $x = 8$ or $x = -8$. Therefore, the two solutions to the equation $7\\left|x\\right| = 56$ are $8$ and $-8$. It follows that the positive solution to the given equation is $8$.",
+  "source": "https://cooksat.com/practice?questionId=cb4036de&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5cb66ced",
+  "capturedAt": "2026-11-10T03:17:24.776Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$aligned xy + x^{2} &= 10 \\\\ 2x - y &= 3 aligned$$\n\nThe positive solution to the system of equations below can be written in the form $(a + sqrt(b))/c$, where $a$, $b$, and $c$ are positive integers and the fraction is in lowest terms. What is the value of $a + b + c$?\n\n$$0$$\n\n$$138$$",
+  "choices": {},
+  "correctAnswer": "$138$",
+  "explanation": "The correct answer is $138$. To solve the system, first solve the second equation for $y$: $2x - y = 3$ gives $y = 2x - 3$. Substitute into the first equation: $x(2x - 3) + x^2 = 10$. Expanding: $2x^2 - 3x + x^2 = 10$. Simplifying: $3x^2 - 3x - 10 = 0$. Apply the quadratic formula with $a = 3$, $b = -3$, $c = -10$: $x = \\frac{-(-3) \\pm \\sqrt{(-3)^2 - 4(3)(-10)}}{2(3)} = \\frac{3 \\pm \\sqrt{9 + 120}}{6} = \\frac{3 \\pm \\sqrt{129}}{6}$. The positive solution is $x = \\frac{3 + \\sqrt{129}}{6}$. This is already in lowest terms since $\\gcd(3, 6) = 3$ but $\\sqrt{129}$ cannot be simplified (129 = 3 × 43, no perfect square factors), and the fraction $\\frac{3 + \\sqrt{129}}{6}$ cannot be reduced further as a complete expression. From the form $\\frac{a + \\sqrt{b}}{c}$, we have $a = 3$, $b = 129$, and $c = 6$. Therefore, $a + b + c = 3 + 129 + 6 = 138$.",
+  "source": "https://cooksat.com/practice?questionId=5cb66ced&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

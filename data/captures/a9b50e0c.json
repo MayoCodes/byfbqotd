@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a9b50e0c",
+  "capturedAt": "2026-11-10T03:19:13.443Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{(20)}{p} - \\frac{5}{r} = -\\frac{5}{s}$$\n\nThe given equation relates the variables $p$, $r$, and $s$, where $p > 0$, $r > 0$, and $s > r$. Which expression is equivalent to $p$?",
+  "choices": {
+    "A": "$\\frac{(s - r)}{(4 r s)}$",
+    "B": "$4 ( r - s )$",
+    "C": "$20 r s$",
+    "D": "$\\frac{(4 r s)}{(s - r)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Adding $\\frac{5}{r}$ to each side of the given equation yields $\\frac{20}{p} = \\frac{5}{r} - \\frac{5}{s}$. The fractions on the right side of this equation have a common denominator of $r s$; therefore, the equation can be written as $\\frac{20}{p} = \\frac{5 s}{r s} - \\frac{5 r}{r s}$, or $\\frac{20}{p} = \\frac{5 s - 5 r}{r s}$, which is equivalent to $\\frac{20}{p} = \\frac{5 \\left( s - r \\right)}{r s}$. Dividing each side of this equation by $5$ yields $\\frac{4}{p} = \\frac{s - r}{r s}$. Since $p$, $r$, $s$, and $s - r$ are all positive quantities, taking the reciprocal of each side yields $\\frac{p}{4} = \\frac{r s}{s - r}$. Multiplying each side by $4$ yields $p = \\frac{4 r s}{s - r}$.",
+  "source": "https://cooksat.com/practice?questionId=a9b50e0c&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

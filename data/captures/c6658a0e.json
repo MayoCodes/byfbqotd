@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c6658a0e",
+  "capturedAt": "2026-11-10T03:20:07.255Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$-12t^{2}-6t+k=0$$\n\nIn the equation above, $k$ is a constant. If the equation has exactly one solution, what is the value of $k$?\n\n$$0$$\n\n$$-\\frac{3}{4},-.75,-0.75$$",
+  "choices": {},
+  "correctAnswer": "$-\\frac{3}{4},-.75,-0.75$",
+  "explanation": "The correct answer is $-\\frac{3}{4}$. A quadratic equation in the form $at^2+bt+c=0$, where $a$, $b$, and $c$ are constants, has exactly one solution when its discriminant, $b^2-4ac$, is equal to $0$. In the given equation, $-12t^2-6t+k=0$, $a=-12$, $b=-6$, and $c=k$. Substituting $-12$ for $a$, $-6$ for $b$, and $k$ for $c$ in $b^2-4ac$ yields $(-6)^2-4(-12)(k)$, which simplifies to $36-(-48k)$, or $36+48k$. Since the given equation has exactly one solution, $36+48k=0$. Subtracting $36$ from both sides of this equation yields $48k=-36$. Dividing both sides of this equation by $48$ yields $k=-\\frac{36}{48}$, which simplifies to $k=-\\frac{3}{4}$. Therefore, the value of $k$ is $-\\frac{3}{4}$. Note that -3/4, -.75, and -0.75 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=c6658a0e&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

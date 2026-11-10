@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9486d697",
+  "capturedAt": "2026-11-10T03:18:35.185Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Complete the Square",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $\\frac{(45)}{x} = 9x$, what is the value of $9x^{2}$?",
+  "choices": {
+    "A": "$5$",
+    "B": "$9$",
+    "C": "$45$",
+    "D": "$405$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Multiplying both sides of the given equation by $x$ yields $45 = 9x^{2}$. Therefore, the value of $9x^{2}$ is $45$.",
+  "source": "https://cooksat.com/practice?questionId=9486d697&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

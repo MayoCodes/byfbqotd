@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "58c756a4",
+  "capturedAt": "2026-11-10T03:17:17.435Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$w - 12 = 18n + m$$\n\nThe given equation relates the positive numbers $w$, $n$, and $m$. Which equation correctly expresses $w$ in terms of $n$ and $m$?",
+  "choices": {
+    "A": "$w = \\frac{(18n + m)}{(12)}$",
+    "B": "$w = 18n + m - 12$",
+    "C": "$w = 18n + m + 12$",
+    "D": "$w = 12(18n + m)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Adding $12$ to each side of the given equation yields $w = 18n + m + 12$.",
+  "source": "https://cooksat.com/practice?questionId=58c756a4&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

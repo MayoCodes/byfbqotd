@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a92cccd9",
+  "capturedAt": "2026-11-10T03:19:11.664Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$((x-9)(x-13))/(x-7) = 0$$\n\nWhat is the sum of the solutions to the given equation?",
+  "choices": {
+    "A": "$7$",
+    "B": "$13$",
+    "C": "$22$",
+    "D": "$29$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A fraction equals $0$ if and only if its numerator equals $0$ and its denominator doesn't equal $0$. The numerator of the given equation, $(x-9)(x-13)$, equals $0$ when $x-9=0$ or $x-13=0$, which gives $x=9$ or $x=13$. The denominator $x-7$ is not equal to $0$ for either of these values. Therefore, the solutions to the given equation are $9$ and $13$, and their sum is $9+13$, or $22$.",
+  "source": "https://cooksat.com/practice?questionId=a92cccd9&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

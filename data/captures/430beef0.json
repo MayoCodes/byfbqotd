@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "430beef0",
+  "capturedAt": "2026-11-10T03:16:52.649Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $3x^{2}=48$ and $x>0$, what is the value of $x$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$4$",
+    "C": "$8$",
+    "D": "$16$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Dividing both sides of the equation by 3 yields $x^2=16$. Taking the square root of both sides yields $x=\\pm 4$. Since $x>0$, the value of $x$ is $4$.",
+  "source": "https://cooksat.com/practice?questionId=430beef0&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

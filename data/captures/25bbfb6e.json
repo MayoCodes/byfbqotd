@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "25bbfb6e",
+  "capturedAt": "2026-11-10T03:13:04.982Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x = 4$$\n\n$$y = x^{2} - 12$$\n\nThe graphs of the given equations intersect at the point $(x, y)$ in the xy-plane. What is the value of $y$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$8$",
+    "C": "$12$",
+    "D": "$16$"
+  },
+  "correctAnswer": "A",
+  "explanation": "It's given that the graphs of the equations intersect at point $(x,y)$, so this point satisfies both equations. The first equation states $x=4$. Substituting $4$ for $x$ in the second equation yields $y=4^2-12=16-12=4$. Therefore, the value of $y$ is $4$.",
+  "source": "https://cooksat.com/practice?questionId=25bbfb6e&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f47393ed",
+  "capturedAt": "2026-11-10T03:21:20.499Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$aligned x^{2} + y^{2} &= 25 \\\\ x - y &= 1 aligned$$\n\nWhat is the positive value of $x$ in the solution to the system of equations?\n\n$$0$$\n\n$$4$$",
+  "choices": {},
+  "correctAnswer": "$4$",
+  "explanation": "The correct answer is $4$. From the linear equation $x - y = 1$, we obtain $x = y + 1$. Substituting into $x^2 + y^2 = 25$ gives $(y + 1)^2 + y^2 = 25$, which expands to $y^2 + 2y + 1 + y^2 = 25$. Combining terms yields $2y^2 + 2y - 24 = 0$, or equivalently $y^2 + y - 12 = 0$. This factors as $(y + 4)(y - 3) = 0$, giving $y = -4$ or $y = 3$. The corresponding $x$-values are $x = -3$ (when $y = -4$) and $x = 4$ (when $y = 3$). Both solutions satisfy the original system: $(-3)^2 + (-4)^2 = 25$ and $-3 - (-4) = 1$; similarly, $4^2 + 3^2 = 25$ and $4 - 3 = 1$. The positive value of $x$ is $4$.",
+  "source": "https://cooksat.com/practice?questionId=f47393ed&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

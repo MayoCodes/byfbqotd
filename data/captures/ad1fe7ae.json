@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ad1fe7ae",
+  "capturedAt": "2026-11-10T03:19:17.737Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Radical Equation",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$sqrt(m-x)=50-x$$\n\nIn the equation above, $m$ is a constant. The equation has exactly one real solution. What is the least possible value of $4m$?\n\n$$0$$\n\n$$199$$",
+  "choices": {},
+  "correctAnswer": "$199$",
+  "explanation": "The correct answer is $199$. Squaring both sides of $\\sqrt{m-x}=50-x$ yields $m-x=(50-x)^2$, which is equivalent to the given equation if $50-x \\geq 0$. Expanding gives $m-x=2500-100x+x^2$. Adding $x$ to both sides yields $m=x^2-99x+2500$, or $0=x^2-99x+(2500-m)$. For exactly one real solution, the discriminant must equal zero: $(-99)^2-4(1)(2500-m)=0$, which gives $9801-10000+4m=0$, or $4m-199=0$. Therefore $4m=199$. When $m=49.75$, the equation becomes $0=(x-49.5)^2$, giving $x=49.5$. Since $50-49.5=0.5>0$, this solution is valid. If $4m<199$, the discriminant is negative and the equation has no solutions. Therefore, the least possible value of $4m$ is $199$.",
+  "source": "https://cooksat.com/practice?questionId=ad1fe7ae&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

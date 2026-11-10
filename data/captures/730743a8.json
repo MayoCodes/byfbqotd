@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "730743a8",
+  "capturedAt": "2026-11-10T03:17:52.740Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} - 5x - 36 = 0$$\n\nWhat is the positive solution to the given equation?",
+  "choices": {
+    "A": "$4$",
+    "B": "$6$",
+    "C": "$9$",
+    "D": "$12$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Factoring $x^2 - 5x - 36 = 0$ gives $(x - 9)(x + 4) = 0$. By the zero product property, $x = 9$ or $x = -4$. Since the question asks for the positive solution, the answer is $9$.",
+  "source": "https://cooksat.com/practice?questionId=730743a8&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

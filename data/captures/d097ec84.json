@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d097ec84",
+  "capturedAt": "2026-11-10T03:20:23.761Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Rational Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph above shows the system of equations $y=(x+4)^{2}$ and $y=-x+8$. At which of the following points do the graphs of the equations intersect?",
+  "choices": {
+    "A": "$(-8,16)$ and $(-1,9)$",
+    "B": "$(-4,0)$ and $(0,8)$",
+    "C": "$(-4,0)$ and $(8,0)$",
+    "D": "$(0,16)$ and $(8,0)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The graph shows two intersection points marked with dots. Reading from the graph, these points are located at $(-8, 16)$ and $(-1, 9)$.",
+  "source": "https://cooksat.com/practice?questionId=d097ec84&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d097ec84/1-9d6d1c16c12b4231.png",
+      "kind": "diagram"
+    }
+  ]
+}

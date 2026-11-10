@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "414261b8",
+  "capturedAt": "2026-11-10T03:16:49.384Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$m - 45 = \\frac{p}{q}$$\n\nThe given equation relates the positive numbers $m$, $p$, and $q$. Which equation correctly expresses $p$ in terms of $m$ and $q$?",
+  "choices": {
+    "A": "$p = \\frac{(m - 45)}{q}$",
+    "B": "$p = m q - 45$",
+    "C": "$p = \\frac{(m q - 45)}{q}$",
+    "D": "$p = m q - 45 q$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Multiplying both sides of the given equation by $q$ yields $q(m - 45) = p$. Distributing on the left-hand side of this equation yields $mq - 45q = p$, or $p = mq - 45q$. Therefore, the equation $p = mq - 45q$ correctly expresses $p$ in terms of $m$ and $q$.",
+  "source": "https://cooksat.com/practice?questionId=414261b8&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

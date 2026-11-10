@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "89e378b3",
+  "capturedAt": "2026-11-10T03:18:21.264Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$4x^{2} + 7x - 3 = 0$$\n\nWhat are the solutions to the given equation?",
+  "choices": {
+    "A": "$(-7 \\pm sqrt(16 + 48))/8$",
+    "B": "$(-7 \\pm sqrt(49 + 48))/8$",
+    "C": "$(-4 \\pm sqrt(16 + 48))/8$",
+    "D": "$(-4 \\pm sqrt(49 + 48))/8$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The quadratic formula, $x = \\frac{-b \\pm \\sqrt{b^{2} - 4ac}}{2a}$, can be used to find the solutions to an equation in the form $ax^{2} + bx + c = 0$. In the given equation, $a = 4$, $b = 7$, and $c = -3$. Substituting these values into the quadratic formula gives $\\frac{-7 \\pm \\sqrt{7^{2} - 4 \\times 4 \\times (-3)}}{2 \\times 4}$, or $\\frac{-7 \\pm \\sqrt{49 + 48}}{8}$.",
+  "source": "https://cooksat.com/practice?questionId=89e378b3&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

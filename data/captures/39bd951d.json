@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "39bd951d",
+  "capturedAt": "2026-11-10T03:16:42.179Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x = 7$$\n\n$$y = x^{2} - 5$$\n\nThe graphs of the given equations intersect at the point $(x, y)$ in the xy-plane. What is the value of $y$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$44$",
+    "C": "$49$",
+    "D": "$54$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since the graphs intersect at point $(x, y)$, this point satisfies both equations. The first equation states $x = 7$. Substituting $7$ for $x$ in the second equation yields $y = 7^2 - 5 = 49 - 5 = 44$. Therefore, the value of $y$ is $44$.",
+  "source": "https://cooksat.com/practice?questionId=39bd951d&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f8de152a",
+  "capturedAt": "2026-11-10T03:21:28.953Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$w+m=x+32$$\n\n$$w-m=x^{2}-7x$$\n\nIn the given system of equations, $m$ is a constant. The system has exactly one distinct real solution. What is the value of $m$?\n\n$$0$$\n\n$$24$$",
+  "choices": {},
+  "correctAnswer": "$24$",
+  "explanation": "The correct answer is $24$. Subtracting the second equation from the first yields $(w+m)-(w-m)=(x+32)-(x^{2}-7x)$, or $2m=-x^{2}+8x+32$. This is equivalent to $x^{2}-8x+(2m-32)=0$. For exactly one distinct real solution, the discriminant must equal zero. For the equation $x^{2}-8x+(2m-32)=0$, the discriminant is $(-8)^{2}-4(1)(2m-32)=64-8m+128=192-8m$. Setting this equal to zero: $192-8m=0$. Solving for $m$ gives $8m=192$, so $m=24$.",
+  "source": "https://cooksat.com/practice?questionId=f8de152a&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

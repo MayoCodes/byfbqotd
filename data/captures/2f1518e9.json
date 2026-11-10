@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2f1518e9",
+  "capturedAt": "2026-11-10T03:16:30.066Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$-4(x-5)^{2}+12=12$$\n\nWhat is the solution to the given equation?",
+  "choices": {
+    "A": "$-5$",
+    "B": "$0$",
+    "C": "$5$",
+    "D": "$12$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Subtracting $12$ from both sides of the given equation yields $-4(x-5)^{2}=0$. Dividing both sides by $-4$ yields $(x-5)^{2}=0$. Taking the square root of both sides yields $x-5=0$. Adding $5$ to both sides yields $x=5$.",
+  "source": "https://cooksat.com/practice?questionId=2f1518e9&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

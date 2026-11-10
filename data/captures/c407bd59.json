@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c407bd59",
+  "capturedAt": "2026-11-10T03:19:59.660Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$m^{2} + 5n = 9p$$\n\nThe given equation relates the real numbers $m$, $n$, and $p$, where $p > \\frac{5}{9}n$.\n\nWhich equation correctly expresses $m$ in terms of $n$ and $p$?",
+  "choices": {
+    "A": "$m = \\frac{(9p + 5n)}{2}$",
+    "B": "$m = \\frac{(9p - 5n)}{2}$",
+    "C": "$m = \\pm sqrt(9p + 5n)$",
+    "D": "$m = \\pm sqrt(9p - 5n)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Subtracting $5n$ from both sides of the given equation yields $m^{2} = 9p - 5n$. Taking the square root of both sides yields $m = \\pm\\sqrt{9p - 5n}$. The $\\pm$ symbol is necessary because both positive and negative values of $m$ satisfy the equation $m^{2} = 9p - 5n$. The given constraint $p > \\frac{5}{9}n$ ensures that $9p - 5n > 0$, so the expression under the radical is positive.",
+  "source": "https://cooksat.com/practice?questionId=c407bd59&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

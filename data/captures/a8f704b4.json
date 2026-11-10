@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a8f704b4",
+  "capturedAt": "2026-11-10T03:19:09.560Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$m^{2} + 7n = 4p$$\n\nThe given equation relates the real numbers $m$, $n$, and $p$, where $p > \\frac{7}{4}n$. Which equation correctly expresses $m$ in terms of $n$ and $p$?",
+  "choices": {
+    "A": "$m = \\frac{(4p - 7n)}{2}$",
+    "B": "$m = \\frac{(4p + 7n)}{2}$",
+    "C": "$m = \\pm sqrt(4p - 7n)$",
+    "D": "$m = \\pm sqrt(4p + 7n)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Subtracting $7n$ from both sides of the given equation yields $m^{2} = 4p - 7n$. Taking the square root of both sides of this equation gives $m = \\pm\\sqrt{4p - 7n}$. Note that the constraint $p > \\frac{7}{4}n$ ensures that $4p - 7n > 0$, so the square root is defined for real numbers.",
+  "source": "https://cooksat.com/practice?questionId=a8f704b4&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ad8a211e",
+  "capturedAt": "2026-11-10T03:19:20.052Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$pr = \\frac{q}{(15)}(6 + w)$$\n\nThe given equation relates the positive variables $p$, $q$, $r$, and $w$. Which equation correctly expresses $w$ in terms of $p$, $q$, and $r$?",
+  "choices": {
+    "A": "$w = pr - \\frac{(6q)}{(15)}$",
+    "B": "$w = pr - 6 - \\frac{q}{(15)}$",
+    "C": "$w = (15(pr - 6))/q$",
+    "D": "$w = \\frac{(15pr)}{q} - 6$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To express $w$ in terms of $p$, $q$, and $r$, the given equation can be rearranged to isolate $w$. Multiplying both sides of the equation $pr = \\frac{q}{15}(6 + w)$ by $\\frac{15}{q}$ yields $\\frac{15pr}{q} = 6 + w$. Subtracting $6$ from both sides of this equation yields $\\frac{15pr}{q} - 6 = w$. Therefore, $w = \\frac{15pr}{q} - 6$.",
+  "source": "https://cooksat.com/practice?questionId=ad8a211e&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99d84d48",
+  "capturedAt": "2026-11-10T03:18:42.922Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2}-8x+k=0$$\n\nIn the given equation, $k$ is a constant. For what value of $k$ does the equation have exactly one real solution?",
+  "choices": {
+    "A": "$-16$",
+    "B": "$8$",
+    "C": "$16$",
+    "D": "$32$"
+  },
+  "correctAnswer": "C",
+  "explanation": "A quadratic equation $ax^{2}+bx+c=0$ has exactly one real solution when its discriminant $b^{2}-4ac$ equals zero. For the given equation, $a=1$, $b=-8$, and $c=k$. Setting the discriminant to zero: $(-8)^{2}-4(1)(k)=0$, which gives $64-4k=0$. Solving yields $k=16$.",
+  "source": "https://cooksat.com/practice?questionId=99d84d48&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

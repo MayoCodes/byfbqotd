@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "af4b3569",
+  "capturedAt": "2026-11-10T03:19:25.016Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$p = -\\frac{q}{(84r)}$$\n\nThe given equation relates the distinct nonzero numbers $p$, $q$, and $r$. Which equation correctly expresses $q$ in terms of $p$ and $r$?",
+  "choices": {
+    "A": "$q = -84pr$",
+    "B": "$q = -\\frac{(84p)}{r}$",
+    "C": "$q = -\\frac{r}{(84p)}$",
+    "D": "$q = p + 84r$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Multiplying both sides of $p = -\\frac{q}{84r}$ by $84r$ gives $84pr = -q$. Multiplying both sides of this equation by $-1$ yields $q = -84pr$.",
+  "source": "https://cooksat.com/practice?questionId=af4b3569&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

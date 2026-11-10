@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5029835a",
+  "capturedAt": "2026-11-10T03:17:08.312Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} = 8x + y$$\n\n$$y = -8x + 64$$\n\nA solution to the given system of equations is the ordered pair $(x, y)$. Which of the following is a possible value of $xy$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$8$",
+    "C": "$16$",
+    "D": "$64$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Solutions to the given system of equations are ordered pairs $(x, y)$ that satisfy both equations in the system. Adding the left-hand and right-hand sides of the equations in the system yields $x^{2} + y = 8x + (-8x) + y + 64$, or $x^{2} + y = y + 64$. Subtracting $y$ from both sides of this equation yields $x^{2} = 64$. Taking the square root of both sides of this equation yields $x = 8$ and $x = -8$. Therefore, there are two solutions to this system of equations, one with an $x$-coordinate of $8$ and the other with an $x$-coordinate of $-8$. Substituting $8$ for $x$ in the second equation yields $y = -8 \\times 8 + 64$, or $y = 0$; therefore, one solution is the ordered pair $(8, 0)$. Similarly, substituting $-8$ for $x$ in the second equation yields $y = -8 \\times (-8) + 64$, or $y = 128$; therefore, the other solution is the ordered pair $(-8, 128)$. It follows then that if the ordered pair $(x, y)$ is a solution to the system, then possible values of $xy$ are $8 \\times 0 = 0$ and $-8 \\times 128 = -1{,}024$. Only $0$ is among the given choices.",
+  "source": "https://cooksat.com/practice?questionId=5029835a&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

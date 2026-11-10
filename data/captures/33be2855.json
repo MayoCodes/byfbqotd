@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "33be2855",
+  "capturedAt": "2026-11-10T03:16:36.315Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$x^{2} + y^{2} = 50$$\n\n$$y = 3x - 10$$\n\nWhat is the value of $x$ where both $x$ and $y$ are positive?\n\n$$0$$\n\n$$5$$",
+  "choices": {},
+  "correctAnswer": "$5$",
+  "explanation": "Substituting $y = 3x - 10$ into $x^2 + y^2 = 50$ gives $x^2 + (3x - 10)^2 = 50$. Expanding: $x^2 + 9x^2 - 60x + 100 = 50$, so $10x^2 - 60x + 50 = 0$. Dividing by 10: $x^2 - 6x + 5 = 0$. Factoring: $(x - 1)(x - 5) = 0$, giving $x = 1$ or $x = 5$. When $x = 1$, $y = 3(1) - 10 = -7$ (negative). When $x = 5$, $y = 3(5) - 10 = 5$ (positive). Since both $x$ and $y$ must be positive, $x = 5$.",
+  "source": "https://cooksat.com/practice?questionId=33be2855&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

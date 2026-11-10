@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a7dbe246",
+  "capturedAt": "2026-11-10T03:19:05.487Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$x^{2} = 25$ What is the positive solution to the given equation?",
+  "choices": {
+    "A": "$-5$",
+    "B": "$5$",
+    "C": "$10$",
+    "D": "$25$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Taking the square root of both sides of $x^2 = 25$ gives $x = \\pm 5$. The positive solution is $x = 5$.",
+  "source": "https://cooksat.com/practice?questionId=a7dbe246&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

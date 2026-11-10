@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9e044db7",
+  "capturedAt": "2026-11-10T03:18:54.203Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = x^{2} - 4x + 2$$\n\n$$y = 4x - 10$$\n\nIf $(a, b)$ is a solution to the system of equations above, what is a possible value of $a$?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$4$",
+    "D": "$8$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Setting the equations equal: $x^2 - 4x + 2 = 4x - 10$. Subtracting $4x - 10$ from both sides: $x^2 - 8x + 12 = 0$. Factoring: $(x - 2)(x - 6) = 0$, so $x = 2$ or $x = 6$. Since the question asks for a possible value of $a$, and $2$ appears in the choices, $a = 2$ is correct.",
+  "source": "https://cooksat.com/practice?questionId=9e044db7&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

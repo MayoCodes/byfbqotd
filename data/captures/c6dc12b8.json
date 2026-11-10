@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c6dc12b8",
+  "capturedAt": "2026-11-10T03:20:09.232Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2}-12x+27=0$$\n\nHow many distinct real solutions does the given equation have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "C",
+  "explanation": "The number of real solutions of a quadratic equation $ax^{2}+bx+c=0$ is determined by the discriminant $b^{2}-4ac$. For the given equation, $a=1$, $b=-12$, and $c=27$. The discriminant is $(-12)^{2}-4(1)(27)=144-108=36$. Since the discriminant is positive, the equation has exactly two distinct real solutions.",
+  "source": "https://cooksat.com/practice?questionId=c6dc12b8&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

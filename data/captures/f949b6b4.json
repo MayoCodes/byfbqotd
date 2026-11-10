@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f949b6b4",
+  "capturedAt": "2026-11-10T03:21:31.236Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which equation is equivalent to $x^{2}+3x=4x+6$?",
+  "choices": {
+    "A": "$(x-3)(x+2)=0$",
+    "B": "$(x-3)(x-2)=0$",
+    "C": "$(x+3)(x+2)=0$",
+    "D": "$(x+3)(x-2)=0$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Subtracting $4x$ and $6$ from both sides gives $x^2+3x-4x-6=0$, which simplifies to $x^2-x-6=0$. To factor, find two numbers that multiply to $-6$ and add to $-1$: these are $-3$ and $2$, giving $(x-3)(x+2)=0$.",
+  "source": "https://cooksat.com/practice?questionId=f949b6b4&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

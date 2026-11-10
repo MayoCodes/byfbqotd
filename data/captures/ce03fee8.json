@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ce03fee8",
+  "capturedAt": "2026-11-10T03:20:18.533Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The distance traveled by an object moving at a constant rate can be calculated using the formula $D = R H$, where $D$ is the distance traveled, $R$ is the rate of travel, and $H$ is the time spent traveling. Which of the following equations gives the time spent traveling in terms of $D$ and $R$?",
+  "choices": {
+    "A": "$H = D - R$",
+    "B": "$H = \\frac{D}{R}$",
+    "C": "$H = \\frac{R}{D}$",
+    "D": "$H = D R$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Solving the given equation for $H$ gives the time spent traveling in terms of $D$ and $R$. Dividing both sides of the given equation by $R$ yields $\\frac{D}{R} = H$, or $H = \\frac{D}{R}$. Therefore, $H = \\frac{D}{R}$ gives the time spent traveling in terms of $D$ and $R$.",
+  "source": "https://cooksat.com/practice?questionId=ce03fee8&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1e7ffc74",
+  "capturedAt": "2026-11-10T03:12:10.428Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$-3x^{2}+24x+k=0$$\n\nIn the equation above, $k$ is a constant. The equation has exactly one solution. What is the value of $k$?",
+  "choices": {
+    "A": "$-64$",
+    "B": "$-48$",
+    "C": "$-32$",
+    "D": "$0$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. A quadratic equation has exactly one solution when its discriminant equals zero. For $-3x^{2}+24x+k=0$, the discriminant is $(24)^{2}-4(-3)(k)=576+12k$. Setting this equal to zero: $576+12k=0$. Solving gives $12k=-576$, so $k=-48$.",
+  "source": "https://cooksat.com/practice?questionId=1e7ffc74&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

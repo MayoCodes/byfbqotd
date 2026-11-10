@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e5fa1994",
+  "capturedAt": "2026-11-10T03:21:04.458Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Consider the system of equations: $x^{2} + y = 21$ and $2x + y = 11$. What is the value of $x$ when $x > 0$?",
+  "choices": {
+    "A": "$1 + sqrt(11)$",
+    "B": "$2 + sqrt(11)$",
+    "C": "$1 - sqrt(11)$",
+    "D": "$sqrt(11)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "From the second equation, $y = 11 - 2x$. Substituting into the first equation: $x^2 + (11 - 2x) = 21$, which simplifies to $x^2 - 2x - 10 = 0$. Using the quadratic formula: $x = \\frac{2 ± \\sqrt{4 + 40}}{2} = \\frac{2 ± \\sqrt{44}}{2} = \\frac{2 ± 2\\sqrt{11}}{2} = 1 ± \\sqrt{11}$. Since $\\sqrt{11} > 1$, the value $1 - \\sqrt{11}$ is negative. Therefore, with the constraint $x > 0$, we have $x = 1 + \\sqrt{11}$.",
+  "source": "https://cooksat.com/practice?questionId=e5fa1994&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

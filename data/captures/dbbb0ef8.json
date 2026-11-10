@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dbbb0ef8",
+  "capturedAt": "2026-11-10T03:20:43.283Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$20x + 15y < 35$$\n\nWhich of the following inequalities is equivalent to the given inequality?",
+  "choices": {
+    "A": "$3x + 4y < 7$",
+    "B": "$4x + 3y < 7$",
+    "C": "$4x + 3y < 35$",
+    "D": "$5x + 3y < 7$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Dividing both sides of the given inequality by $5$ yields $4x + 3y < 7$.",
+  "source": "https://cooksat.com/practice?questionId=dbbb0ef8&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

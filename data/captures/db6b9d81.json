@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db6b9d81",
+  "capturedAt": "2026-11-10T03:20:41.473Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the positive solution to the equation $x^{2} - x - 6 = 0$?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$6$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Factoring the equation gives $(x-3)(x+2) = 0$. By the zero product property, $x=3$ or $x=-2$. Since the question asks for the positive solution, the answer is $3$.",
+  "source": "https://cooksat.com/practice?questionId=db6b9d81&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

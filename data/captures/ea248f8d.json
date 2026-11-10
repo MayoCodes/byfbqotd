@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ea248f8d",
+  "capturedAt": "2026-11-10T03:21:08.478Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The first equation in a system of two equations is $y=x^{2}-6x+33$. The second equation is $y=24$. Which ordered pair $(x,y)$ is a solution to the system?",
+  "choices": {
+    "A": "$(0, 24)$",
+    "B": "$(2, 24)$",
+    "C": "$(3, 24)$",
+    "D": "$(6, 24)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Substitute $y = 24$ from the second equation into the first equation: $24 = x^2 - 6x + 33$. Subtract $24$ from both sides: $0 = x^2 - 6x + 9$. Factor as a perfect square: $0 = (x - 3)^2$. Therefore, $x = 3$. The solution is $(3, 24)$.",
+  "source": "https://cooksat.com/practice?questionId=ea248f8d&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

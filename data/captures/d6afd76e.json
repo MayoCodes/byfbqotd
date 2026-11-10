@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d6afd76e",
+  "capturedAt": "2026-11-10T03:20:32.308Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The exponential function $g$ is defined by $g(x) = pq^x$, where $p$ and $q$ are positive constants. If $g(m) = n$ and $g(m+1) = n - 0.76n$, where $m$ and $n$ are constants, what is the value of $q$?",
+  "choices": {
+    "A": "$0.24$",
+    "B": "$0.76$",
+    "C": "$1.24$",
+    "D": "$1.76$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The function $g$ is defined by $g(x) = pq^{x}$. It's given that $g(m) = n$, so substituting $m$ for $x$ in the equation $g(x) = pq^{x}$ yields $pq^{m} = n$. It's also given that $g(m+1) = n - 0.76n$. Simplifying the right-hand side yields $g(m+1) = 0.24n$. Substituting $m+1$ for $x$ in the equation $g(x) = pq^{x}$ yields $pq^{m+1} = 0.24n$. This can be rewritten as $pq^{m} \\cdot q = 0.24n$. Since $pq^{m} = n$, substituting $n$ for $pq^{m}$ yields $nq = 0.24n$. Since $n$ is a positive constant (as $p$ and $q$ are positive), dividing both sides by $n$ yields $q = 0.24$.",
+  "source": "https://cooksat.com/practice?questionId=d6afd76e&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

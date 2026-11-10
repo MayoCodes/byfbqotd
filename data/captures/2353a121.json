@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2353a121",
+  "capturedAt": "2026-11-10T03:13:00.713Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$-4x(x + 7) = 20$$\n\nOne solution to the given equation can be written as $x = (-s + sqrt(t))/2$, where $s$ and $t$ are positive integers. What is the value of $\\frac{s}{t}$?",
+  "choices": {
+    "A": "$\\frac{7}{(69)}$",
+    "B": "$\\frac{7}{(29)}$",
+    "C": "$\\frac{(14)}{(29)}$",
+    "D": "$\\frac{(14)}{(129)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Applying the distributive property to the left-hand side of the given equation yields $-4x^{2} - 28x = 20$. Subtracting $20$ from both sides of this equation yields $-4x^{2} - 28x - 20 = 0$. Dividing both sides of this equation by $-4$ yields $x^{2} + 7x + 5 = 0$. The solutions to a quadratic equation of the form $ax^{2} + bx + c = 0$ are given by $x = \\frac{-b \\pm \\sqrt{b^{2} - 4ac}}{2a}$. For the equation $x^{2} + 7x + 5 = 0$, $a = 1$, $b = 7$, and $c = 5$. Substituting these values into the quadratic formula yields $x = \\frac{-7 \\pm \\sqrt{7^{2} - 4(1)(5)}}{2(1)}$, which is equivalent to $x = \\frac{-7 \\pm \\sqrt{29}}{2}$. It's given that one solution can be written as $x = \\frac{-s + \\sqrt{t}}{2}$. The solution $x = \\frac{-7 + \\sqrt{29}}{2}$ is in this form, where $s = 7$ and $t = 29$. Therefore, $\\frac{s}{t} = \\frac{7}{29}$.",
+  "source": "https://cooksat.com/practice?questionId=2353a121&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

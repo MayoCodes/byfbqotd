@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d6fd06b8",
+  "capturedAt": "2026-11-10T03:20:34.175Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$q = 15 + \\frac{(24)}{m}$$\n\nThe given equation relates the numbers $q$ and $m$, where $m$ is not equal to $0$ and $q > 15$. Which equation correctly expresses $m$ in terms of $q$?",
+  "choices": {
+    "A": "$m = \\frac{(q - 15)}{(24)}$",
+    "B": "$m = \\frac{q}{(24)} - 15$",
+    "C": "$m = \\frac{q}{(24)} + 15$",
+    "D": "$m = \\frac{(24)}{(q - 15)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To express $m$ in terms of $q$, the given equation must be solved for $m$. Subtracting $15$ from both sides of the given equation yields $q - 15 = \\frac{24}{m}$. Since $m$ is not equal to $0$, multiplying both sides of this equation by $m$ yields $\\left( q - 15 \\right) \\left( m \\right) = 24$. It's given that $q > 15$, which means $q - 15$ is not equal to $0$. Therefore, dividing both sides of $\\left( q - 15 \\right) \\left( m \\right) = 24$ by $\\left( q - 15 \\right)$ yields $m = \\frac{24}{q - 15}$.",
+  "source": "https://cooksat.com/practice?questionId=d6fd06b8&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

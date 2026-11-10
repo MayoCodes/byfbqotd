@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "853dfb55",
+  "capturedAt": "2026-11-10T03:18:14.669Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$h(x) = x^{3} + px^{2} + qx + r$$\n\nThe function $h$ is defined by the given equation, where $p$, $q$, and $r$ are integer constants. The zeros of the function are $-4$, $-3$, and $9$. What is the value of $p$?",
+  "choices": {
+    "A": "$-108$",
+    "B": "$-2$",
+    "C": "$2$",
+    "D": "$108$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. If the zeros of $h(x) = x^{3} + px^{2} + qx + r$ are $-4$, $-3$, and $9$, then $h(x)$ can be written in factored form as $h(x) = (x - (-4))(x - (-3))(x - 9)$, or $h(x) = (x + 4)(x + 3)(x - 9)$. Multiplying the first two factors yields $(x + 4)(x + 3) = x^{2} + 7x + 12$. Multiplying this result by the third factor gives $(x^{2} + 7x + 12)(x - 9) = x^{3} - 9x^{2} + 7x^{2} - 63x + 12x - 108$, which simplifies to $x^{3} - 2x^{2} - 51x - 108$. Comparing this to $x^{3} + px^{2} + qx + r$, the coefficient of $x^{2}$ is $p = -2$.",
+  "source": "https://cooksat.com/practice?questionId=853dfb55&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

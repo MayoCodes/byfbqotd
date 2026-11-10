@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "360b0777",
+  "capturedAt": "2026-11-10T03:16:38.651Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is defined by $f(x) = |2x - 3|$. What value of $x$ satisfies $f(x) = 7$?",
+  "choices": {
+    "A": "$-5$",
+    "B": "$-1$",
+    "C": "$2$",
+    "D": "$5$"
+  },
+  "correctAnswer": "D",
+  "explanation": "To find $x$ when $f(x) = 7$, substitute into the function: $|2x - 3| = 7$. This absolute value equation means $2x - 3 = 7$ or $2x - 3 = -7$. Solving the first equation: $2x = 10$, so $x = 5$. Solving the second: $2x = -4$, so $x = -2$. Of the given choices, only $x = 5$ appears.",
+  "source": "https://cooksat.com/practice?questionId=360b0777&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "98428782",
+  "capturedAt": "2026-11-10T03:18:41.159Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$|x - 4| = 7$$\n\nWhat is one possible solution to the given equation?\n\n$$0$$\n\n$$-3,11$$",
+  "choices": {},
+  "correctAnswer": "$-3,11$",
+  "explanation": "The correct answer is $-3$ or $11$. By the definition of absolute value, if $|x-4|=7$, then $x-4=7$ or $x-4=-7$. Solving the first equation $x-4=7$: adding $4$ to both sides yields $x=11$. Solving the second equation $x-4=-7$: adding $4$ to both sides yields $x=-3$. Therefore, the given equation has two solutions: $-3$ and $11$. Either answer is acceptable. Note that -3 and 11 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=98428782&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

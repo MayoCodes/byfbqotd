@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9b25ec0f",
+  "capturedAt": "2026-11-10T03:18:50.604Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$y = x^{2} - 8x + 10$$\n\n$$y = -2x + k$$\n\nIn the system of equations above, $k$ is a constant. If the system has exactly one solution, what is the value of $k$?\n\n$$0$$\n\n$$1$$",
+  "choices": {},
+  "correctAnswer": "$1$",
+  "explanation": "The correct answer is $1$. For the system to have exactly one solution, the line must be tangent to the parabola, meaning the discriminant of the resulting quadratic equals zero. Setting the equations equal: $x^2 - 8x + 10 = -2x + k$. Rearranging: $x^2 - 6x + (10 - k) = 0$. For exactly one solution, the discriminant must equal zero: $b^2 - 4ac = 0$. Substituting $a = 1$, $b = -6$, and $c = 10 - k$: $(-6)^2 - 4(1)(10 - k) = 0$. This gives $36 - 40 + 4k = 0$, so $-4 + 4k = 0$, and $k = 1$.",
+  "source": "https://cooksat.com/practice?questionId=9b25ec0f&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

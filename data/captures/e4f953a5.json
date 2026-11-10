@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e4f953a5",
+  "capturedAt": "2026-11-10T03:21:02.283Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{(18 p)}{(9 q)} = 2 sqrt(n + 23)$$\n\nThe given equation relates the distinct positive real numbers $n$, $p$, and $q$. Which equation correctly expresses $n$ in terms of $p$ and $q$?",
+  "choices": {
+    "A": "$n = sqrt(\\frac{p}{q}) - 23$",
+    "B": "$n = sqrt(\\frac{(18 p)}{(9 q)}) - 23$",
+    "C": "$n = ( \\frac{p}{q} )^{2} - 23$",
+    "D": "$n = ( \\frac{(18 p)}{(9 q)} )^{2} - 23$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Simplifying the left side of the given equation yields $\\frac{2p}{q} = 2\\sqrt{n + 23}$. Dividing each side by $2$ yields $\\frac{p}{q} = \\sqrt{n + 23}$. Because it's given that each of the variables is positive, squaring each side of this equation yields the equivalent equation $\\left(\\frac{p}{q}\\right)^{2} = n + 23$. Subtracting $23$ from each side yields $\\left(\\frac{p}{q}\\right)^{2} - 23 = n$, or $n = \\left(\\frac{p}{q}\\right)^{2} - 23$.",
+  "source": "https://cooksat.com/practice?questionId=e4f953a5&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

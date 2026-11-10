@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8726825b",
+  "capturedAt": "2026-11-10T03:18:17.231Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$5x^{2} - 27 = 2x^{2}$$\n\nWhich of the following is a solution to the equation $5x^{2} - 27 = 2x^{2}$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$9$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Subtracting $2x^{2}$ from both sides of the given equation yields $3x^{2} - 27 = 0$. Adding $27$ to both sides gives $3x^{2} = 27$. Dividing both sides by $3$ yields $x^{2} = 9$. Taking the square root of both sides gives $x = 3$ or $x = -3$. Therefore, $x = 3$ is one solution to the equation.",
+  "source": "https://cooksat.com/practice?questionId=8726825b&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

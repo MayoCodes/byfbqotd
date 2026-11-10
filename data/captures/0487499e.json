@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0487499e",
+  "capturedAt": "2026-11-10T03:11:43.168Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$(7x + 3)(4x - 9) = 0$$\n\nWhich of the following is a solution to the given equation?",
+  "choices": {
+    "A": "$-\\frac{7}{3}$",
+    "B": "$-\\frac{4}{9}$",
+    "C": "$-\\frac{3}{7}$",
+    "D": "$-\\frac{3}{4}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since a product of two factors equals $0$ if and only if at least one of the factors is $0$, either $7x + 3 = 0$ or $4x - 9 = 0$. Subtracting $3$ from each side of $7x + 3 = 0$ yields $7x = -3$, and dividing by $7$ gives $x = -\\frac{3}{7}$. Adding $9$ to each side of $4x - 9 = 0$ yields $4x = 9$, and dividing by $4$ gives $x = \\frac{9}{4}$. The solutions to the given equation are $-\\frac{3}{7}$ and $\\frac{9}{4}$. Therefore, $-\\frac{3}{7}$ is a solution to the given equation.",
+  "source": "https://cooksat.com/practice?questionId=0487499e&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

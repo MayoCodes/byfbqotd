@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d9209d7f",
+  "capturedAt": "2026-11-10T03:20:36.167Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A rectangle has a width of $w$ meters and a length of $(w + 7)$ meters. If the rectangle has an area of $144$ square meters, what is the value of $w$?\n\n$$0$$\n\n$$9$$",
+  "choices": {},
+  "correctAnswer": "$9$",
+  "explanation": "The correct answer is $9$. The area of a rectangle is the product of its width and length. It's given that the width is $w$ meters, the length is $(w + 7)$ meters, and the area is $144$ square meters. Therefore, $w(w + 7) = 144$. Applying the distributive property yields $w^{2} + 7w = 144$, or $w^{2} + 7w - 144 = 0$. The left-hand side of this equation can be factored as $(w - 9)(w + 16) = 0$. By the zero product property, either $w - 9 = 0$ or $w + 16 = 0$. Adding $9$ to both sides of the equation $w - 9 = 0$ yields $w = 9$. Subtracting $16$ from both sides of the equation $w + 16 = 0$ yields $w = -16$. Since $w$ represents the width of a rectangle, it must be positive. Therefore, the value of $w$ is $9$.",
+  "source": "https://cooksat.com/practice?questionId=d9209d7f&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9a690f25",
+  "capturedAt": "2026-11-10T03:18:46.810Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$|-3x+17|=61$$\n\nWhat is the sum of the solutions to the given equation?",
+  "choices": {
+    "A": "$-\\frac{(1144)}{3}$",
+    "B": "$-\\frac{(44)}{3}$",
+    "C": "$0$",
+    "D": "$\\frac{(34)}{3}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. By the definition of absolute value, if $|-3x+17|=61$, then $-3x+17=61$ or $-3x+17=-61$. Solving $-3x+17=61$: subtracting $17$ from both sides gives $-3x=44$, and dividing by $-3$ gives $x=-\\frac{44}{3}$. Solving $-3x+17=-61$: subtracting $17$ from both sides gives $-3x=-78$, and dividing by $-3$ gives $x=26$. The sum of the solutions is $-\\frac{44}{3}+26=-\\frac{44}{3}+\\frac{78}{3}=\\frac{34}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=9a690f25&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

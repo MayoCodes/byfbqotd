@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b85dc443",
+  "capturedAt": "2026-11-10T03:19:36.439Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Rational Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = x^{2} + 2.3$$\n\n$$y = 2.3 - x$$\n\nWhich graph represents the given system of equations?",
+  "choices": {
+    "A": "[Figure 1]",
+    "B": "[Figure 2]",
+    "C": "[Figure 3]",
+    "D": "[Figure 4]"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The graph of a quadratic equation in the form $y = x^{2} + c$ has its vertex at $(0, c)$. The first equation in the given system is $y = x^{2} + 2.3$, so its graph has its vertex at $(0, 2.3)$. The graph of a linear equation of the form $y = b - x$ has a slope of $-1$ and a $y$-intercept at $(0, b)$. The second equation is $y = 2.3 - x$, so its graph has a slope of $-1$ and a $y$-intercept at $(0, 2.3)$. Of the choices, only choice A shows a parabola with vertex at $(0, 2.3)$ together with a line having slope $-1$ and $y$-intercept $(0, 2.3)$.",
+  "source": "https://cooksat.com/practice?questionId=b85dc443&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b85dc443/1-e49bae4de71ce906.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/b85dc443/2-85470c67a8335027.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/b85dc443/3-038cb6692e467688.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/b85dc443/4-a3980a4e8722a6cd.png",
+      "kind": "diagram"
+    }
+  ]
+}

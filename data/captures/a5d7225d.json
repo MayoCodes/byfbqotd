@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a5d7225d",
+  "capturedAt": "2026-11-10T03:18:59.794Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$W = C - \\frac{7}{(20)} \\times (80 - P)$$\n\nThe formula shown can be used to approximate the apparent temperature $W$, in degrees Celsius, given the actual air temperature $C$, in degrees Celsius, and the cloud cover of $P$ percent, where $P > 40$. Which of the following expresses the cloud cover in terms of the actual air temperature and the apparent temperature?",
+  "choices": {
+    "A": "$P = \\frac{(20)}{7} \\times (W + C) - 80$",
+    "B": "$P = \\frac{(20)}{7} \\times (W + C) + 80$",
+    "C": "$P = \\frac{(20)}{7} \\times (W - C) - 80$",
+    "D": "$P = \\frac{(20)}{7} \\times (W - C) + 80$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $W = C - \\frac{7}{20} \\times (80 - P)$. Solving this formula for $P$ expresses the cloud cover in terms of the actual air temperature and the apparent temperature. Subtracting $C$ from both sides yields $W - C = -\\frac{7}{20} \\times (80 - P)$. Multiplying both sides by $-\\frac{20}{7}$ yields $-\\frac{20}{7} \\times (W - C) = 80 - P$. Subtracting $80$ from both sides yields $-\\frac{20}{7} \\times (W - C) - 80 = -P$. Multiplying both sides by $-1$ results in the formula $P = \\frac{20}{7} \\times (W - C) + 80$.",
+  "source": "https://cooksat.com/practice?questionId=a5d7225d&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

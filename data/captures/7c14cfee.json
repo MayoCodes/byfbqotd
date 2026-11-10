@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7c14cfee",
+  "capturedAt": "2026-11-10T03:18:03.706Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the larger value of $x$ if $x^{2} - 3x + 2 = 0$?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Factor the quadratic: $x^2 - 3x + 2 = (x - 1)(x - 2) = 0$. This gives $x = 1$ or $x = 2$. The question asks for the larger value, so the answer is $x = 2$.",
+  "source": "https://cooksat.com/practice?questionId=7c14cfee&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

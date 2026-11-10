@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b3c25c0",
+  "capturedAt": "2026-11-10T03:16:23.555Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Rational Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe functions $f$ and $g$ are defined by the equations $y=f(x)$ and $y=g(x)$, respectively. The graphs of $y=f(x)$ and $y=g(x)$ are shown. How many solutions does the equation $f(x)=g(x)$ have?",
+  "choices": {
+    "A": "$0$",
+    "B": "$1$",
+    "C": "$2$",
+    "D": "$3$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The solutions to the equation $f(x)=g(x)$ are the $x$-coordinates of the points of intersection of the graphs of the two functions. Setting the functions equal: $(x+4)(x+2)/8 + 1 = -(x+3)(x)/3 + 3$. Expanding: $(x^2+6x+8)/8 + 1 = -(x^2+3x)/3 + 3$. Multiplying by 24: $3(x^2+6x+8) + 24 = -8(x^2+3x) + 72$, which simplifies to $3x^2+18x+24 = -8x^2-24x+72$, then $11x^2+42x-24 = 0$. The discriminant is $42^2-4(11)(-24) = 1764+1056 = 2820 > 0$, so there are $2$ real solutions. The graphs of $y=f(x)$ and $y=g(x)$ intersect at two points.",
+  "source": "https://cooksat.com/practice?questionId=2b3c25c0&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2b3c25c0/1-5f70751bdfcaded9.png",
+      "kind": "diagram"
+    }
+  ]
+}

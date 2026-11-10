@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f6fb4d4b",
+  "capturedAt": "2026-11-10T03:21:24.468Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$x(mx-48)=-18$$\n\nIn the equation above, $m$ is a positive integer. If the equation has no real solutions, what is the smallest possible value of $m$?\n\n$$0$$\n\n$$33$$",
+  "choices": {},
+  "correctAnswer": "$33$",
+  "explanation": "The correct answer is $33$. An equation of the form $ax^2+bx+c=0$, where $a$, $b$, and $c$ are constants, has no real solutions if and only if its discriminant, $b^2-4ac$, is negative. Applying the distributive property to the left-hand side of the equation $x(mx-48)=-18$ yields $mx^2-48x=-18$. Adding $18$ to both sides of this equation yields $mx^2-48x+18=0$. In this quadratic equation, $a=m$, $b=-48$, and $c=18$. Substituting these values into the discriminant formula $b^2-4ac$ yields $(-48)^2-4(m)(18)$, which simplifies to $2304-72m$. If the given equation has no real solutions, the discriminant must be negative, so $2304-72m<0$. Adding $72m$ to both sides of this inequality yields $2304<72m$. Dividing both sides by $72$ yields $32<m$, or equivalently, $m>32$. Since $m$ is a positive integer, the smallest possible value of $m$ is $33$.",
+  "source": "https://cooksat.com/practice?questionId=f6fb4d4b&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

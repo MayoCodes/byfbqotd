@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4cd85d0a",
+  "capturedAt": "2026-11-10T03:17:06.025Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$(x - p)^{2} = (p - 5b)(x - p)$$\n\nIn the given equation, $b$ and $p$ are constants, where $p > 5b$. The sum of the solutions to the equation is $3p + 28$. What is the value of $b$?\n\n$$0$$\n\n$$-\\frac{28}{5},-5.6,-5.60$$",
+  "choices": {},
+  "correctAnswer": "$-\\frac{28}{5},-5.6,-5.60$",
+  "explanation": "The correct answer is $-\\frac{28}{5}$. Subtracting $(p - 5b)(x - p)$ from both sides of the given equation yields $(x - p)^{2} - (p - 5b)(x - p) = 0$. Factoring out the common factor $(x - p)$ yields $(x - p)[(x - p) - (p - 5b)] = 0$, which simplifies to $(x - p)(x - p - p + 5b) = 0$, or $(x - p)(x - 2p + 5b) = 0$. By the zero product property, either $x - p = 0$ or $x - 2p + 5b = 0$. Solving these equations yields $x = p$ or $x = 2p - 5b$. Therefore, the solutions to the given equation are $p$ and $2p - 5b$. The sum of these solutions is $p + (2p - 5b) = 3p - 5b$. It's given that the sum of the solutions is $3p + 28$, so $3p - 5b = 3p + 28$. Subtracting $3p$ from both sides of this equation yields $-5b = 28$. Dividing both sides by $-5$ yields $b = -\\frac{28}{5}$. Note that -28/5, -5.6, and -5.60 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=4cd85d0a&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

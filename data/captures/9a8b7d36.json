@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9a8b7d36",
+  "capturedAt": "2026-11-10T03:18:48.634Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = x + 5$$\n\n$$y = x^{2} + 12 x + 35$$\n\nA solution to the given system of equations is $(x, y)$. What is the greatest possible value of $x$?",
+  "choices": {
+    "A": "$-5$",
+    "B": "$5$",
+    "C": "$7$",
+    "D": "$35$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $y = x + 5$ and $y = x^{2} + 12x + 35$, it follows that $x + 5 = x^{2} + 12x + 35$. The right side factors as $(x + 5)(x + 7)$, so $x + 5 = (x + 5)(x + 7)$. Subtracting $(x + 5)$ from both sides yields $0 = (x + 5)(x + 7) - (x + 5)$, which can be rewritten as $0 = (x + 5)\\left((x + 7) - 1\\right)$, or $0 = (x + 5)(x + 6)$. By the zero product property, $x + 5 = 0$ or $x + 6 = 0$, giving $x = -5$ or $x = -6$. Since $-5$ is greater than $-6$, the greatest possible value of $x$ is $-5$.",
+  "source": "https://cooksat.com/practice?questionId=9a8b7d36&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

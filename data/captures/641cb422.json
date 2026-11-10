@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "641cb422",
+  "capturedAt": "2026-11-10T03:17:36.419Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Rational Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of a linear and a quadratic equation is shown. What system is represented by the graph?",
+  "choices": {
+    "A": "$y = -\\frac{(11)}{(25)}x^{2}$, $y = -\\frac{(11)}{5}x$",
+    "B": "$y = -\\frac{(11)}{(25)}x^{2}$, $y = \\frac{(11)}{5}x$",
+    "C": "$y = \\frac{(11)}{(25)}x^{2}$, $y = -\\frac{(11)}{5}x$",
+    "D": "$y = \\frac{(11)}{(25)}x^{2}$, $y = \\frac{(11)}{5}x$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The graph of a quadratic equation in the form $y = ax^{2}$ is a parabola with its vertex at the origin. If $a$ is positive, the parabola opens upward; if $a$ is negative, it opens downward. The parabola shown opens upward and has its vertex at the origin, so the quadratic equation has the form $y = ax^{2}$, where $a$ is positive. The parabola passes through the point $(5, 11)$. Substituting $5$ for $x$ and $11$ for $y$ in $y = ax^{2}$ yields $11 = a(5)^{2}$, or $11 = 25a$. Dividing both sides by $25$ yields $a = \\frac{11}{25}$. Therefore, the equation of the parabola is $y = \\frac{11}{25}x^{2}$. The graph of a linear equation in the form $y = mx$ passes through the origin and has slope $m$. If $m$ is positive, the line slants upward from left to right; if $m$ is negative, it slants downward. The line shown passes through the origin and slants upward from left to right, so its equation has the form $y = mx$, where $m$ is positive. The line passes through $(5, 11)$. Substituting $5$ for $x$ and $11$ for $y$ in $y = mx$ yields $11 = 5m$, or $m = \\frac{11}{5}$. Therefore, the equation of the line is $y = \\frac{11}{5}x$. Of the choices, only choice D has both $y = \\frac{11}{25}x^{2}$ and $y = \\frac{11}{5}x$.",
+  "source": "https://cooksat.com/practice?questionId=641cb422&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/641cb422/1-d93b55b5d34bf33d.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cc17fa08",
+  "capturedAt": "2026-11-10T03:20:16.869Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$| x - 12 | + 37 = 58$$\n\nWhat is the sum of the solutions to the given equation?\n\n$$0$$\n\n$$24$$",
+  "choices": {},
+  "correctAnswer": "$24$",
+  "explanation": "The correct answer is $24$. Subtracting $37$ from each side of the given equation yields $\\left| x - 12 \\right| = 21$. By the definition of absolute value, if $\\left| x - 12 \\right| = 21$, then $x - 12 = 21$ or $x - 12 = -21$. Adding $12$ to each side of the equation $x - 12 = 21$ yields $x = 33$. Adding $12$ to each side of the equation $x - 12 = -21$ yields $x = -9$. Therefore, the solutions to the given equation are $33$ and $-9$, and it follows that the sum of the solutions to the given equation is $33 + \\left( -9 \\right)$, or $24$.",
+  "source": "https://cooksat.com/practice?questionId=cc17fa08&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

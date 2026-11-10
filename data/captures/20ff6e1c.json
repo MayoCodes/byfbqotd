@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "20ff6e1c",
+  "capturedAt": "2026-11-10T03:12:58.624Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 9$$\n\n$$x^{2} - y = 0$$\n\nWhat is the positive solution for $x$ in the given system of equations?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$9$"
+  },
+  "correctAnswer": "C",
+  "explanation": "From the first equation, $y = 9$. Substituting this into the second equation gives $x^{2} - 9 = 0$, so $x^{2} = 9$. Taking the square root of both sides yields $x = \\pm 3$. Since the question asks for the positive solution, $x = 3$.",
+  "source": "https://cooksat.com/practice?questionId=20ff6e1c&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

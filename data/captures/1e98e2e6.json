@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1e98e2e6",
+  "capturedAt": "2026-11-10T03:12:53.952Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Complete the Square",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What value of $x$ satisfies the equation $\\frac{(12)}{(x-7)}-\\frac{6}{(x-7)}=\\frac{2}{3}$?",
+  "choices": {
+    "A": "$8$",
+    "B": "$10$",
+    "C": "$13$",
+    "D": "$16$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Combining the fractions on the left side yields $\\frac{12-6}{x-7}=\\frac{2}{3}$, which simplifies to $\\frac{6}{x-7}=\\frac{2}{3}$. Cross-multiplying gives $6 \\cdot 3 = 2(x-7)$, so $18=2x-14$. Adding $14$ to both sides gives $32=2x$, and dividing by $2$ yields $x=16$.",
+  "source": "https://cooksat.com/practice?questionId=1e98e2e6&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

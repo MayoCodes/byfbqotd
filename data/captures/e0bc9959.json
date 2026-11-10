@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e0bc9959",
+  "capturedAt": "2026-11-10T03:20:53.765Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $2x^{2}-7x-4=0$ and $x>0$, what is the value of $4x-1$?",
+  "choices": {
+    "A": "$6$",
+    "B": "$7$",
+    "C": "$14$",
+    "D": "$15$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Using the quadratic formula on $2x^2-7x-4=0$: $x=\\frac{7\\pm\\sqrt{49+32}}{4}=\\frac{7\\pm9}{4}$. This gives $x=4$ or $x=-\\frac{1}{2}$. Since $x>0$, we have $x=4$. Therefore, $4x-1=4(4)-1=16-1=15$.",
+  "source": "https://cooksat.com/practice?questionId=e0bc9959&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

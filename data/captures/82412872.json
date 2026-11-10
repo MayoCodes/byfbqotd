@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "82412872",
+  "capturedAt": "2026-11-10T03:18:08.848Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$9 h = 4 ( r + k )$$\n\nThe given equation relates the positive numbers $h$, $r$, and $k$. Which equation correctly gives $r$ in terms of $h$ and $k$?",
+  "choices": {
+    "A": "$r = \\frac{(4 k)}{(9 h)}$",
+    "B": "$r = \\frac{(9 h)}{4} - k$",
+    "C": "$r = 4 ( 9 h ) + k$",
+    "D": "$r = 9 h - 4 - k$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the equation $9 h = 4 \\left( r + k \\right)$ relates the positive numbers $h$, $r$, and $k$. Dividing both sides of the given equation by $4$ yields $\\frac{9 h}{4} = r + k$. Subtracting $k$ from both sides of this equation yields $\\frac{9 h}{4} - k = r$, or $r = \\frac{9 h}{4} - k$. It follows that the equation $r = \\frac{9 h}{4} - k$ correctly gives $r$ in terms of $h$ and $k$.",
+  "source": "https://cooksat.com/practice?questionId=82412872&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

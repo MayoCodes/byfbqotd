@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff1670ec",
+  "capturedAt": "2026-11-10T03:21:36.933Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $h=-16(t-1)^{2}+64$ represents the height $h$, in feet, of a ball $t$ seconds after it is thrown into the air. How many seconds after the ball is thrown will it hit the ground?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "When the ball hits the ground, $h=0$. Setting the equation equal to zero: $0=-16(t-1)^2+64$. Adding $16(t-1)^2$ to both sides gives $16(t-1)^2=64$. Dividing by $16$ gives $(t-1)^2=4$. Taking the square root gives $t-1=\\pm 2$, so $t=3$ or $t=-1$. Since time must be positive, $t=3$ seconds.",
+  "source": "https://cooksat.com/practice?questionId=ff1670ec&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

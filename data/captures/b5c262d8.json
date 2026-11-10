@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b5c262d8",
+  "capturedAt": "2026-11-10T03:19:32.330Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$-3x^{2} - 13x = -30$$\n\nWhat is the positive solution to the given equation?",
+  "choices": {
+    "A": "$\\frac{5}{6}$",
+    "B": "$\\frac{5}{3}$",
+    "C": "$5$",
+    "D": "$6$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Adding $3x^{2}$ and $13x$ to each side of the given equation yields $0 = 3x^{2} + 13x - 30$. The right-hand side can be rewritten as $3x^{2} + 18x - 5x - 30$. Factoring $3x$ from the first two terms and $-5$ from the last two terms yields $3x(x + 6) - 5(x + 6)$. Factoring out the common factor $(x + 6)$ gives $(3x - 5)(x + 6) = 0$. By the zero product property, either $3x - 5 = 0$ or $x + 6 = 0$. Solving the first equation yields $x = \\frac{5}{3}$, and solving the second yields $x = -6$. Therefore, the given equation has two solutions, $\\frac{5}{3}$ and $-6$. Since $\\frac{5}{3}$ is positive, it is the positive solution to the given equation.",
+  "source": "https://cooksat.com/practice?questionId=b5c262d8&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

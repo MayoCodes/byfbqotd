@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fc5981f2",
+  "capturedAt": "2026-11-10T03:21:33.115Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$R = M ( 26 - K )$$\n\nThe given equation relates the positive numbers $R$, $M$, and $K$. Which equation correctly expresses $K$ in terms of $R$ and $M$?",
+  "choices": {
+    "A": "$K = \\frac{(26 + R)}{M}$",
+    "B": "$K = \\frac{(26 - R)}{M}$",
+    "C": "$K = 26 + \\frac{R}{M}$",
+    "D": "$K = 26 - \\frac{R}{M}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the values of $R$, $M$, and $K$ are positive. Therefore, dividing each side of the given equation by $M$ yields $\\frac{R}{M} = 26 - K$. Subtracting $26$ from each side of this equation yields $\\frac{R}{M} - 26 = -K$. Dividing each side of this equation by $-1$ yields $26 - \\frac{R}{M} = K$, or $K = 26 - \\frac{R}{M}$.",
+  "source": "https://cooksat.com/practice?questionId=fc5981f2&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

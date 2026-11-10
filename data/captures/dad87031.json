@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dad87031",
+  "capturedAt": "2026-11-10T03:20:37.919Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $s$ is the sum of the solutions to the equation $x^{2}+14x-1=0$, what is the value of $2s+5$?",
+  "choices": {
+    "A": "$-33$",
+    "B": "$-23$",
+    "C": "$-3$",
+    "D": "$33$"
+  },
+  "correctAnswer": "B",
+  "explanation": "For a quadratic equation of the form $ax^{2}+bx+c=0$, the sum of the solutions is $-\\frac{b}{a}$. For the given equation, $a=1$ and $b=14$, so $s=-\\frac{14}{1}=-14$. Therefore, $2s+5=2(-14)+5=-28+5=-23$.",
+  "source": "https://cooksat.com/practice?questionId=dad87031&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

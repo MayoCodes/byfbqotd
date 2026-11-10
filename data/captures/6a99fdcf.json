@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6a99fdcf",
+  "capturedAt": "2026-11-10T03:17:47.252Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$w^{2} + 8w - 24 = 0$$\n\nWhich of the following is a solution to the given equation?",
+  "choices": {
+    "A": "$-4 - 2sqrt(6)$",
+    "B": "$sqrt(10)$",
+    "C": "$2sqrt(10)$",
+    "D": "$-4 + 2sqrt(10)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Applying the quadratic formula to $w^{2} + 8w - 24 = 0$ gives $w = \\frac{-8 \\pm \\sqrt{8^{2} - 4(1)(-24)}}{2(1)} = \\frac{-8 \\pm \\sqrt{160}}{2} = \\frac{-8 \\pm 4\\sqrt{10}}{2} = -4 \\pm 2\\sqrt{10}$. Therefore $-4 + 2\\sqrt{10}$ is a solution to the given equation.",
+  "source": "https://cooksat.com/practice?questionId=6a99fdcf&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

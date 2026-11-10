@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b796ef60",
+  "capturedAt": "2026-11-10T03:19:34.098Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Consider the system of equations $y = x^{2} + 6x + k$ and $y = 2x + 5$, where $k$ is a constant. For what value of $k$ does this system have exactly one solution?",
+  "choices": {
+    "A": "$1$",
+    "B": "$5$",
+    "C": "$9$",
+    "D": "$13$"
+  },
+  "correctAnswer": "C",
+  "explanation": "For the system to have exactly one solution, the line must be tangent to the parabola, meaning the discriminant of the resulting quadratic equation must equal zero. Setting $y = y$ gives $x^2 + 6x + k = 2x + 5$, which simplifies to $x^2 + 4x + (k-5) = 0$. The discriminant is $b^2 - 4ac = 16 - 4(1)(k-5) = 16 - 4k + 20 = 36 - 4k$. Setting this equal to zero: $36 - 4k = 0$, so $4k = 36$, giving $k = 9$.",
+  "source": "https://cooksat.com/practice?questionId=b796ef60&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

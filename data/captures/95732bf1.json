@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "95732bf1",
+  "capturedAt": "2026-11-10T03:18:37.353Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$( x - 63 )^{2} = 4$$\n\nWhat is the sum of the solutions to the given equation?\n\n$$0$$\n\n$$126$$",
+  "choices": {},
+  "correctAnswer": "$126$",
+  "explanation": "The correct answer is $126$. Taking the square root of each side of the given equation yields $x - 63 = 2$ or $x - 63 = -2$. Adding $63$ to both sides of the equation $x - 63 = 2$ yields $x = 65$. Adding $63$ to both sides of the equation $x - 63 = -2$ yields $x = 61$. Therefore, the sum of the solutions to the given equation is $65 + 61$, or $126$.",
+  "source": "https://cooksat.com/practice?questionId=95732bf1&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dcfac7e3",
+  "capturedAt": "2026-11-10T03:20:47.152Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Rational Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of an absolute value function and a linear function is shown. What is the solution $(x, y)$ to this system of two equations?",
+  "choices": {
+    "A": "$(0, 2)$",
+    "B": "$(2, 4)$",
+    "C": "$(4, 2)$",
+    "D": "$(5, 1)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The solution to the system of two equations corresponds to the point where the graphs of the equations intersect. The graphs of the linear function and the absolute value function shown intersect at the point $\\left(2, 4\\right)$. Thus, the solution to the system is $\\left(2, 4\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=dcfac7e3&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/dcfac7e3/1-11500c9ffef031f1.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e73efbc2",
+  "capturedAt": "2026-11-10T03:21:06.822Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$9r = 4(s + t)$$\n\nThe given equation relates the positive numbers $r$, $s$, and $t$. Which equation correctly gives $r$ in terms of $s$ and $t$?",
+  "choices": {
+    "A": "$r = 4 - s - t - 9$",
+    "B": "$r = 4(s + t) - 9$",
+    "C": "$r = 4(s + t)$",
+    "D": "$r = (4(s + t))/9$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Dividing each side of the given equation by $9$ yields $r = \\frac{4\\left(s + t\\right)}{9}$.",
+  "source": "https://cooksat.com/practice?questionId=e73efbc2&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "786d58fb",
+  "capturedAt": "2026-11-10T03:18:01.925Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3x^{2} - 5 = 3x + 4$$\n\nWhich of the following is a solution to the given equation?",
+  "choices": {
+    "A": "$1 - sqrt(13)$",
+    "B": "$3$",
+    "C": "$(1 + sqrt(13))/2$",
+    "D": "$\\frac{1}{2} + sqrt(13)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A quadratic equation in the form $ax^{2} + bx + c = 0$, where $a$, $b$, and $c$ are constants, can be solved using the quadratic formula: $x = \\frac{-b \\pm \\sqrt{b^{2} - 4ac}}{2a}$. Subtracting $3x + 4$ from both sides of the given equation yields $3x^{2} - 3x - 9 = 0$. Applying the quadratic formula with $a = 3$, $b = -3$, and $c = -9$ gives $x = \\frac{-(-3) \\pm \\sqrt{(-3)^{2} - 4(3)(-9)}}{2(3)}$, which simplifies to $x = \\frac{3 \\pm \\sqrt{117}}{6}$. Since $\\sqrt{117} = \\sqrt{9 \\times 13} = 3\\sqrt{13}$, the expression becomes $x = \\frac{3 \\pm 3\\sqrt{13}}{6}$. Dividing the numerator and denominator by $3$ yields $x = \\frac{1 \\pm \\sqrt{13}}{2}$. Of these two solutions, only $\\frac{1 + \\sqrt{13}}{2}$ appears among the choices.",
+  "source": "https://cooksat.com/practice?questionId=786d58fb&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

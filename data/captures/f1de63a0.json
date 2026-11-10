@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f1de63a0",
+  "capturedAt": "2026-11-10T03:21:18.634Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Radical Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $4sqrt(3x)=24$, what is the value of $12x$?",
+  "choices": {
+    "A": "$36$",
+    "B": "$48$",
+    "C": "$72$",
+    "D": "$144$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Dividing both sides of the given equation by 4 yields $\\sqrt{3x}=6$. Squaring both sides of this equation yields $3x=36$. Multiplying both sides by 4 yields $12x=144$. Therefore, the value of $12x$ is $144$.",
+  "source": "https://cooksat.com/practice?questionId=f1de63a0&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

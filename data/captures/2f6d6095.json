@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2f6d6095",
+  "capturedAt": "2026-11-10T03:16:31.971Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$36x^{2}+kx+49=0$$\n\nIn the equation above, $k$ is a constant. For which of the following values of $k$ will the equation have more than one real solution?",
+  "choices": {
+    "A": "$-95$",
+    "B": "$-84$",
+    "C": "$7$",
+    "D": "$84$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A quadratic equation has more than one real solution when its discriminant is positive. For $36x^{2}+kx+49=0$, the discriminant is $k^{2}-4(36)(49)=k^{2}-7056$. Setting $k^{2}-7056>0$ gives $k^{2}>7056$, so $|k|>84$. This means $k<-84$ or $k>84$. Of the choices, only $-95<-84$ satisfies this condition.",
+  "source": "https://cooksat.com/practice?questionId=2f6d6095&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ada8a099",
+  "capturedAt": "2026-11-10T03:19:22.297Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y=2x^{2}-20x+46$$\n\n$$y=3x+k$$\n\nIn the given system of equations, $k$ is a constant. The system has exactly one solution. What is the value of $x$?",
+  "choices": {
+    "A": "$-7$",
+    "B": "$3$",
+    "C": "$5$",
+    "D": "$\\frac{(23)}{4}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Setting the two expressions for $y$ equal gives $2x^{2}-20x+46=3x+k$, which simplifies to $2x^{2}-23x+(46-k)=0$. For exactly one solution, the discriminant must equal zero: $(-23)^{2}-4(2)(46-k)=0$. This gives $529-368+8k=0$, so $8k=-161$ and $k=-\\frac{161}{8}$. When the discriminant equals zero, the solution is $x=\\frac{-b}{2a}=\\frac{23}{2(2)}=\\frac{23}{4}$.",
+  "source": "https://cooksat.com/practice?questionId=ada8a099&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

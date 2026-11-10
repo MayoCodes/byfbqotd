@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "270337b3",
+  "capturedAt": "2026-11-10T03:13:07.048Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$w^{2} + pw = 5w - 77$$\n\nIn the given equation, $p$ is an integer constant. The given equation has no real solutions. What is the largest possible value of $p$?\n\n$$0$$\n\n$$22$$",
+  "choices": {},
+  "correctAnswer": "$22$",
+  "explanation": "The correct answer is $22$. A quadratic equation of the form $ax^{2} + bx + c = 0$, where $a$, $b$, and $c$ are constants, has no real solutions if and only if its discriminant, $b^{2} - 4ac$, is negative. The given equation $w^{2} + pw = 5w - 77$ can be rewritten in standard form by subtracting $5w$ from both sides and adding $77$ to both sides, yielding $w^{2} + pw - 5w + 77 = 0$, or $w^{2} + (p - 5)w + 77 = 0$. For this equation, $a = 1$, $b = p - 5$, and $c = 77$. Substituting these values into $b^{2} - 4ac$ yields $(p - 5)^{2} - 4(1)(77)$, or $(p - 5)^{2} - 308$. Since the equation has no real solutions, $(p - 5)^{2} - 308 < 0$, which is equivalent to $(p - 5)^{2} < 308$. Taking the positive square root of both sides of this inequality yields $|p - 5| < \\sqrt{308}$, which means $-\\sqrt{308} < p - 5 < \\sqrt{308}$. Adding $5$ to all parts of this compound inequality yields $5 - \\sqrt{308} < p < 5 + \\sqrt{308}$. Since $\\sqrt{308} \\approx 17.55$, it follows that $p < 22.55$. Since $p$ is an integer, the largest possible value of $p$ is $22$.",
+  "source": "https://cooksat.com/practice?questionId=270337b3&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

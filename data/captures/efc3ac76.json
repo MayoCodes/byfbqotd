@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "efc3ac76",
+  "capturedAt": "2026-11-10T03:21:13.532Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Rational Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of a linear equation and a nonlinear equation is shown. What is the solution $(x, y)$ to this system?",
+  "choices": {
+    "A": "$(0, 0)$",
+    "B": "$(0, 4)$",
+    "C": "$(3, 5)$",
+    "D": "$(5, 0)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The solution to a system of two equations corresponds to the point where the graphs of the equations intersect. The graphs of the linear equation and the nonlinear equation shown intersect at the point $(3, 5)$. Thus, the solution to the system is $(3, 5)$.",
+  "source": "https://cooksat.com/practice?questionId=efc3ac76&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/efc3ac76/1-028afe39d7ead116.png",
+      "kind": "diagram"
+    }
+  ]
+}

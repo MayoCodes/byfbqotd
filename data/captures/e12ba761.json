@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e12ba761",
+  "capturedAt": "2026-11-10T03:20:55.909Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$9p + 8q = r$$\n\nThe given equation relates the numbers $p$, $q$, and $r$. Which equation correctly expresses $q$ in terms of $p$ and $r$?",
+  "choices": {
+    "A": "$q = \\frac{(9p - r)}{8}$",
+    "B": "$q = \\frac{1}{8}r - 9p$",
+    "C": "$q = \\frac{(r - 9p)}{8}$",
+    "D": "$q = 8r - 9p$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Subtracting $9p$ from each side of the given equation results in $8q = r - 9p$. Dividing each side of this equation by $8$ results in $q = \\frac{r - 9p}{8}$.",
+  "source": "https://cooksat.com/practice?questionId=e12ba761&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

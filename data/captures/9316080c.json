@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9316080c",
+  "capturedAt": "2026-11-10T03:18:33.432Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$aligned x + y &= 8 \\\\ xy &= 15 aligned$$\n\nWhat is the greater value of $x$ in the solution to the system of equations?\n\n$$0$$\n\n$$5$$",
+  "choices": {},
+  "correctAnswer": "$5$",
+  "explanation": "The correct answer is $5$. To solve the system, solve the first equation for $y$: $y = 8 - x$. Substitute into the second equation: $x(8 - x) = 15$. Expand: $8x - x^2 = 15$. Rearrange to standard form: $x^2 - 8x + 15 = 0$. Factor the quadratic: $(x - 3)(x - 5) = 0$. This gives $x = 3$ or $x = 5$. For $x = 3$: $y = 8 - 3 = 5$. For $x = 5$: $y = 8 - 5 = 3$. Verification: $(3, 5)$: $3 + 5 = 8$ and $3 \\cdot 5 = 15$ ; $(5, 3)$: $5 + 3 = 8$ and $5 \\cdot 3 = 15$. Both solution pairs satisfy the system. The greater value of $x$ is $5$.",
+  "source": "https://cooksat.com/practice?questionId=9316080c&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

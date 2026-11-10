@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1457eae6",
+  "capturedAt": "2026-11-10T03:12:03.745Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$aligned 2x^{2} + 3y &= 15 \\\\ x + y &= 5 aligned$$\n\nWhat is the positive value of $x$ in the solution to the system?\n\n$$0$$\n\n$$\\frac{3}{2},1.5,1.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{3}{2},1.5,1.50$",
+  "explanation": "The correct answer is $\\frac{3}{2}$. To solve the system of equations, use the substitution method. From the linear equation $x + y = 5$, express $y$ in terms of $x$: $y = 5 - x$. Substitute this into the first equation: $2x^2 + 3(5 - x) = 15$. Expanding gives $2x^2 + 15 - 3x = 15$, which simplifies to $2x^2 - 3x = 0$. Factoring yields $x(2x - 3) = 0$, giving solutions $x = 0$ or $x = \\frac{3}{2}$. The positive value of $x$ is $\\frac{3}{2}$, which equals $1.5$. Note that 3/2, 1.5, and 1.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=1457eae6&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

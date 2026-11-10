@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e3f27a93",
+  "capturedAt": "2026-11-10T03:20:59.743Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{(15p)}{(5q)} = 3sqrt(w+17)$$\n\nThe given equation relates the distinct positive real numbers $p$, $q$, and $w$. Which equation correctly expresses $w$ in terms of $p$ and $q$?",
+  "choices": {
+    "A": "$w = sqrt(\\frac{p}{q}) - 17$",
+    "B": "$w = sqrt(\\frac{(15p)}{(5q)}) - 17$",
+    "C": "$w = (\\frac{p}{q})^{2} - 17$",
+    "D": "$w = (\\frac{(15p)}{(5q)})^{2} - 17$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The left-hand side of the given equation can be simplified: $\\frac{15p}{5q} = \\frac{3p}{q}$. Substituting this into the given equation yields $\\frac{3p}{q} = 3\\sqrt{w+17}$. Dividing each side of this equation by $3$ yields $\\frac{p}{q} = \\sqrt{w+17}$. Because it's given that each of the variables is positive, squaring each side of this equation yields the equivalent equation $\\left(\\frac{p}{q}\\right)^{2} = w + 17$. Subtracting $17$ from each side of this equation yields $\\left(\\frac{p}{q}\\right)^{2} - 17 = w$, or $w = \\left(\\frac{p}{q}\\right)^{2} - 17$.",
+  "source": "https://cooksat.com/practice?questionId=e3f27a93&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

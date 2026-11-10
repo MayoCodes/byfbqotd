@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "574c3678",
+  "capturedAt": "2026-11-10T03:17:15.741Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Complete the Square",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For what value of $k$ does the equation $\\frac{3}{(x-2)} + \\frac{k}{(x+1)} = (4x+5)/((x-2)(x+1))$ have no solution?",
+  "choices": {
+    "A": "$-1$",
+    "B": "$1$",
+    "C": "$2$",
+    "D": "$4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Multiplying both sides by $(x-2)(x+1)$ gives $3(x+1) + k(x-2) = 4x + 5$. Expanding yields $3x + 3 + kx - 2k = 4x + 5$, which simplifies to $(3+k)x + (3-2k) = 4x + 5$. For no solution, the coefficients of $x$ must be equal while the constant terms differ: $3+k = 4$ and $3-2k \\neq 5$. Solving $3+k = 4$ gives $k = 1$. Checking: $3-2(1) = 1 \\neq 5$ confirms no solution exists when $k = 1$.",
+  "source": "https://cooksat.com/practice?questionId=574c3678&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

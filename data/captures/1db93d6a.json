@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1db93d6a",
+  "capturedAt": "2026-11-10T03:12:08.357Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x=4$$\n\n$$y=x^{2}-13$$\n\nThe graphs of the given equations intersect at the point $(x,y)$ in the xy-plane. What is the value of $y$?",
+  "choices": {
+    "A": "$1$",
+    "B": "$3$",
+    "C": "$5$",
+    "D": "$7$"
+  },
+  "correctAnswer": "B",
+  "explanation": "It's given that the graphs of the given equations intersect at the point $(x,y)$ in the xy-plane, so $(x,y)$ represents a solution to the system. The first equation is $x=4$. Substituting $4$ for $x$ in the second equation $y=x^{2}-13$ yields $y=4^{2}-13$, which simplifies to $y=16-13$, or $y=3$.",
+  "source": "https://cooksat.com/practice?questionId=1db93d6a&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

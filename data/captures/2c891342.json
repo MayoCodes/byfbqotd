@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2c891342",
+  "capturedAt": "2026-11-10T03:16:27.103Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$81 x^{2} - ( 27 p + 9 q ) x + p q = 0$$\n\nIn the given equation, $p$ and $q$ are positive constants. The sum of the solutions to the given equation is $n ( 3 p + q )$, where $n$ is a constant. What is the value of $n$?\n\n$$0$$\n\n$$\\frac{1}{9},.1111,0.111$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{1}{9},.1111,0.111$",
+  "explanation": "The correct answer is $\\frac{1}{9}$. Let $r$ and $s$ represent the solutions to the given equation. Then the given equation can be rewritten as $81(x - r)(x - s) = 0$, which expands to $81 x^{2} - 81(r + s)x + 81 r s = 0$. Since this equation is equivalent to the given equation, it follows that $-(27 p + 9 q) = -81(r + s)$. Dividing both sides by $-81$ yields $r + s = \\frac{27 p + 9 q}{81} = \\frac{9(3 p + q)}{81} = \\frac{1}{9}(3 p + q)$. Therefore, the sum of the solutions is $\\frac{1}{9}(3 p + q)$. Alternate approach: For a quadratic equation $A x^{2} + B x + C = 0$, the sum of the solutions equals $-\\frac{B}{A}$. Here $A = 81$ and $B = -(27 p + 9 q)$, so the sum of the solutions is $-\\frac{-(27 p + 9 q)}{81} = \\frac{27 p + 9 q}{81} = \\frac{1}{9}(3 p + q)$. Since the sum of the solutions is given as $n(3 p + q)$, it follows that $n = \\frac{1}{9}$. Note that 1/9, .1111, and 0.111 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=2c891342&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

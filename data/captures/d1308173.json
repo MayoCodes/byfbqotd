@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d1308173",
+  "capturedAt": "2026-11-10T03:20:26.509Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$|x-3|=4$ What is the positive value of $x$ that satisfies the given equation?",
+  "choices": {
+    "A": "$-7$",
+    "B": "$-1$",
+    "C": "$1$",
+    "D": "$7$"
+  },
+  "correctAnswer": "D",
+  "explanation": "By the definition of absolute value, $|x-3|=4$ means $x-3=4$ or $x-3=-4$. Solving $x-3=4$ gives $x=7$. Solving $x-3=-4$ gives $x=-1$. The positive value is $x=7$.",
+  "source": "https://cooksat.com/practice?questionId=d1308173&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

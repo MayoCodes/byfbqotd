@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "904b100c",
+  "capturedAt": "2026-11-10T03:18:30.994Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{(12)}{a} = \\frac{(12)}{n} - \\frac{(12)}{b} - \\frac{(12)}{c}$$\n\nThe given equation relates the positive variables $a$, $b$, $c$, and $n$. Which of the following is equivalent to $n$?",
+  "choices": {
+    "A": "$a + b + c$",
+    "B": "$\\frac{(abc)}{(12a + 12b + 12c)}$",
+    "C": "$\\frac{(abc)}{(ab + ac + bc)}$",
+    "D": "$12(a + b + c)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Multiplying each side of the given equation by $\\frac{1}{12}$ yields $\\frac{1}{a} = \\frac{1}{n} - \\frac{1}{b} - \\frac{1}{c}$. Adding $\\frac{1}{b} + \\frac{1}{c}$ to each side gives $\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} = \\frac{1}{n}$. Writing the left side with common denominator $abc$ yields $\\frac{bc}{abc} + \\frac{ac}{abc} + \\frac{ab}{abc} = \\frac{1}{n}$, or $\\frac{ab + ac + bc}{abc} = \\frac{1}{n}$. Since $a$, $b$, $c$, and $n$ are positive, the reciprocals of each side are also equal, so $n = \\frac{abc}{ab + ac + bc}$. Therefore, $\\frac{abc}{ab + ac + bc}$ is equivalent to $n$.",
+  "source": "https://cooksat.com/practice?questionId=904b100c&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

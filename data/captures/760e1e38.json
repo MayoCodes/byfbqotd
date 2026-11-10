@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "760e1e38",
+  "capturedAt": "2026-11-10T03:17:56.130Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$46x^{2} + (46q + p)x + pq = 0$$\n\nIn the given equation, $p$ and $q$ are positive constants. The product of the solutions to the given equation is $kpq$, where $k$ is a constant. What is the value of $k$?\n\n$$0$$\n\n$$\\frac{1}{46},.0217,0.021,0.022$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{1}{46},.0217,0.021,0.022$",
+  "explanation": "The correct answer is $\\frac{1}{46}$. For a quadratic equation of the form $ax^{2} + bx + c = 0$, the product of the solutions is $\\frac{c}{a}$. The given equation $46x^{2} + (46q + p)x + pq = 0$ has $a = 46$, $b = 46q + p$, and $c = pq$. Therefore, the product of the solutions is $\\frac{pq}{46}$. Since the product of the solutions is also given as $kpq$, it follows that $kpq = \\frac{pq}{46}$. Dividing both sides by $pq$ yields $k = \\frac{1}{46}$. Note that 1/46, .0217, 0.021, and 0.022 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=760e1e38&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

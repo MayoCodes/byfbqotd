@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c05a8aa7",
+  "capturedAt": "2026-11-10T03:19:57.489Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x + y = 7$$\n\n$$(x - 2)^{2} + 3y = k$$\n\nIn the given system of equations, $k$ is a constant. If $x = 4$ is a solution to this system, what is the value of $k$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$13$",
+    "C": "$25$",
+    "D": "$31$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since $x = 4$ is a solution to the system, it must satisfy both equations. From the first equation: $4 + y = 7$, so $y = 3$. Substituting $x = 4$ and $y = 3$ into the second equation: $(4-2)^2 + 3(3) = k$, which gives $4 + 9 = k$, so $k = 13$.",
+  "source": "https://cooksat.com/practice?questionId=c05a8aa7&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

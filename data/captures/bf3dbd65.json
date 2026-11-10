@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bf3dbd65",
+  "capturedAt": "2026-11-10T03:19:54.958Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Rational Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of an absolute value function and a linear function is shown. What is the solution $(x, y)$ to this system of two equations?",
+  "choices": {
+    "A": "$(-\\frac{5}{2}, \\frac{7}{2})$",
+    "B": "$(2, 3)$",
+    "C": "$(\\frac{5}{2}, \\frac{7}{2})$",
+    "D": "$(0, 6)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The solution to a system of equations is the coordinates of the intersection point of the graphs of the equations in the $xy$-plane. According to the graph, the absolute value function and the linear function intersect at the point $\\left(\\frac{5}{2}, \\frac{7}{2}\\right)$. Therefore, the solution to the system is $\\left(\\frac{5}{2}, \\frac{7}{2}\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=bf3dbd65&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/bf3dbd65/1-d17d459219d13aee.png",
+      "kind": "diagram"
+    }
+  ]
+}

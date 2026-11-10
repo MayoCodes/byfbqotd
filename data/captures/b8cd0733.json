@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b8cd0733",
+  "capturedAt": "2026-11-10T03:19:41.443Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 6 p ( q + 11 )$$\n\nThe given equation relates the positive numbers $p$, $q$, and $y$. Which equation correctly expresses $p$ in terms of $q$ and $y$?",
+  "choices": {
+    "A": "$p = (6(q + 11))/y$",
+    "B": "$p = y/(6(q + 11))$",
+    "C": "$p = \\frac{y}{6} - (q + 11)$",
+    "D": "$p = 6 y (q + 11)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To express $p$ in terms of $q$ and $y$, the given equation can be rewritten so that $p$ is isolated on one side. Since $q$ is positive, $q + 11$ is not equal to zero. Dividing both sides of the given equation by $6\\left(q + 11\\right)$ yields $\\frac{y}{6\\left(q + 11\\right)} = p$, or $p = \\frac{y}{6\\left(q + 11\\right)}$.",
+  "source": "https://cooksat.com/practice?questionId=b8cd0733&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

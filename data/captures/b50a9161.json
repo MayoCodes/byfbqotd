@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b50a9161",
+  "capturedAt": "2026-11-10T03:19:30.383Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $| 5x - 15 | = 95$, what is the positive value of $x - 3$?\n\n$$0$$\n\n$$19$$",
+  "choices": {},
+  "correctAnswer": "$19$",
+  "explanation": "The correct answer is $19$. The given absolute value equation can be rewritten as two linear equations: $5x - 15 = 95$ and $-\\left(5x - 15\\right) = 95$, or $5x - 15 = -95$. Adding $15$ to both sides of $5x - 15 = 95$ gives $5x = 110$, so $x = 22$. Adding $15$ to both sides of $5x - 15 = -95$ gives $5x = -80$, so $x = -16$. Therefore, the two values of $x - 3$ are $22 - 3 = 19$ and $-16 - 3 = -19$. Thus, the positive value of $x - 3$ is $19$. Alternate approach: The given equation can be rewritten as $\\left| 5\\left(x - 3\\right) \\right| = 95$, which is equivalent to $5\\left| x - 3 \\right| = 95$. Dividing both sides by $5$ yields $\\left| x - 3 \\right| = 19$, so the positive value of $x - 3$ is $19$.",
+  "source": "https://cooksat.com/practice?questionId=b50a9161&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

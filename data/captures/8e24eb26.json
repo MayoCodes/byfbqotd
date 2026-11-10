@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8e24eb26",
+  "capturedAt": "2026-11-10T03:18:27.329Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What are the solutions to the equation $(x+5)^{2}=81$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$-14$",
+    "C": "$4$ and $-14$",
+    "D": "$9$ and $-9$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Taking the square root of both sides yields $x+5=\\pm 9$. Solving $x+5=9$ gives $x=4$, and solving $x+5=-9$ gives $x=-14$. Therefore, the solutions are $4$ and $-14$.",
+  "source": "https://cooksat.com/practice?questionId=8e24eb26&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

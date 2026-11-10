@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7d0c865a",
+  "capturedAt": "2026-11-10T03:18:05.518Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Consider the system of equations:\n\n$$y = x^{2} + 2$$\n\n$$y = 2x + k$$\n\nwhere $k$ is a constant. For what value of $k$ does this system have exactly one solution?",
+  "choices": {
+    "A": "$0$",
+    "B": "$1$",
+    "C": "$2$",
+    "D": "$3$"
+  },
+  "correctAnswer": "B",
+  "explanation": "For the system to have exactly one solution, the line must be tangent to the parabola. Setting the equations equal: $x^2 + 2 = 2x + k$, which gives $x^2 - 2x + (2 - k) = 0$. For exactly one solution, the discriminant must equal zero: $(-2)^2 - 4(1)(2-k) = 0$, which simplifies to $4 - 8 + 4k = 0$, giving $k = 1$.",
+  "source": "https://cooksat.com/practice?questionId=7d0c865a&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f7b07ed2",
+  "capturedAt": "2026-11-10T03:21:26.623Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$w^{2} = \\frac{(P R)}{k}$$\n\nThe formula shown relates the square of a quantity $w$ to pressure $P$, radius $R$, and a constant $k$. Which of the following expresses $P$ in terms of $k$, $w$, and $R$?",
+  "choices": {
+    "A": "$P = \\frac{R}{(k w^{2})}$",
+    "B": "$P = \\frac{k}{(w^{2} R)}$",
+    "C": "$P = \\frac{(k R)}{(w^{2})}$",
+    "D": "$P = \\frac{(k w^{2})}{R}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To express $P$ in terms of $k$, $w$, and $R$, isolate $P$ on one side of the equation. Multiplying both sides of $w^{2} = \\frac{P R}{k}$ by $k$ gives $k w^{2} = P R$. Dividing both sides by $R$ gives $P = \\frac{k w^{2}}{R}$.",
+  "source": "https://cooksat.com/practice?questionId=f7b07ed2&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

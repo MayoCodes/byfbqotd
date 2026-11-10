@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fce31526",
+  "capturedAt": "2026-11-10T03:21:35.123Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$| x - 7 | = 12$$\n\nWhat is one possible solution to the given equation?\n\n$$0$$\n\n$$19,-5$$",
+  "choices": {},
+  "correctAnswer": "$19,-5$",
+  "explanation": "The correct answer is either $19$ or $-5$. By the definition of absolute value, if $\\left| x - 7 \\right| = 12$, then $x - 7 = 12$ or $x - 7 = -12$. Adding $7$ to both sides of the first equation yields $x = 19$. Adding $7$ to both sides of the second equation yields $x = -5$. Thus, the given equation has two possible solutions, $19$ and $-5$. Note that 19 and -5 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=fce31526&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

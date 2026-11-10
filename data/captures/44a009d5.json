@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "44a009d5",
+  "capturedAt": "2026-11-10T03:16:56.504Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$-3x^{2} + 24x + k = 0$$\n\nIn the given equation, $k$ is a constant. The equation has exactly one solution. What is the value of $k$?",
+  "choices": {
+    "A": "$-72$",
+    "B": "$-48$",
+    "C": "$-24$",
+    "D": "$0$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. A quadratic equation of the form $ax^{2} + bx + c = 0$ has exactly one solution if and only if its discriminant, $b^{2} - 4ac$, equals zero. For the given equation, $a = -3$, $b = 24$, and the constant term is $k$. Substituting into $b^{2} - 4ac$ yields $24^{2} - 4(-3)(k)$, or $576 + 12k$. Setting this equal to zero gives $576 + 12k = 0$. Subtracting $576$ from both sides yields $12k = -576$. Dividing both sides by $12$ yields $k = -48$.",
+  "source": "https://cooksat.com/practice?questionId=44a009d5&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

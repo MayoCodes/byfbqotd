@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "def92d86",
+  "capturedAt": "2026-11-10T03:20:49.290Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $w - 5 = \\frac{(10)}{(n - 4)}$, what is $n$ in terms of $w$?",
+  "choices": {
+    "A": "$n = \\frac{1}{w}$",
+    "B": "$n = \\frac{1}{(w - 5)}$",
+    "C": "$n = \\frac{(4w - 10)}{(w - 5)}$",
+    "D": "$n = \\frac{(4w + 30)}{w}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Multiplying both sides of the given equation by $n - 4$ yields $(n - 4)(w - 5) = 10$. Dividing both sides by $w - 5$ yields $n - 4 = \\frac{10}{w - 5}$. Adding $4$ to both sides yields $n = \\frac{10}{w - 5} + 4$, which can be rewritten as $n = \\frac{10}{w - 5} + \\frac{4(w - 5)}{w - 5}$. Since the fractions on the right-hand side have a common denominator, combining them yields $n = \\frac{10 + 4(w - 5)}{w - 5}$. Applying the distributive property in the numerator yields $n = \\frac{10 + 4w - 20}{w - 5}$, which is equivalent to $n = \\frac{4w - 10}{w - 5}$.",
+  "source": "https://cooksat.com/practice?questionId=def92d86&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

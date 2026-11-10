@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b0a26896",
+  "capturedAt": "2026-11-10T03:19:27.316Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Radical Equation",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$sqrt(p-x) = 35 - x$. In the given equation, $p$ is a constant. The equation has exactly one real solution. What is the minimum possible value of $4p$?\n\n$$0$$\n\n$$139$$",
+  "choices": {},
+  "correctAnswer": "$139$",
+  "explanation": "The correct answer is $139$. Squaring both sides of the given equation yields $p - x = (35 - x)^{2}$, which is equivalent to the given equation if $35 - x \\geq 0$. It follows that if a solution to $p - x = (35 - x)^{2}$ satisfies $35 - x \\geq 0$, then it is also a solution to the given equation; otherwise, it is extraneous. The equation $p - x = (35 - x)^{2}$ can be rewritten as $p - x = 1{,}225 - 70x + x^{2}$. Adding $x$ to both sides yields $p = x^{2} - 69x + 1{,}225$. Subtracting $p$ from both sides yields $0 = x^{2} - 69x + (1{,}225 - p)$. The number of solutions to a quadratic equation $0 = ax^{2} + bx + c$ is determined by the discriminant $b^{2} - 4ac$. Substituting $a = 1$, $b = -69$, and $c = 1{,}225 - p$ yields $(-69)^{2} - 4(1)(1{,}225 - p) = 4{,}761 - 4{,}900 + 4p = 4p - 139$. The quadratic has exactly one real solution when the discriminant equals zero, so $4p - 139 = 0$, giving $4p = 139$ and $p = 34.75$. Substituting $p = 34.75$ into $0 = x^{2} - 69x + (1{,}225 - p)$ yields $0 = x^{2} - 69x + 1{,}190.25$, which is equivalent to $0 = (x - 34.5)^{2}$, so $x = 34.5$. Checking: $35 - 34.5 = 0.5 \\geq 0$, so this solution is valid. If $4p < 139$, the discriminant is negative and the equation has no real solutions. Therefore, the minimum possible value of $4p$ is $139$.",
+  "source": "https://cooksat.com/practice?questionId=b0a26896&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

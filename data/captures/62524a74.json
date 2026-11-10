@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "62524a74",
+  "capturedAt": "2026-11-10T03:17:32.194Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "During an $8$-second time interval, the average acceleration $r$, in meters per second squared, of an object with an initial velocity of $15$ meters per second is defined by the equation $r = \\frac{(v_t - 15)}{8}$, where $v_t$ is the final velocity of the object in meters per second. If the equation is rewritten in the form $v_t = pr + q$, where $p$ and $q$ are constants, what is the value of $p$?\n\n$$0$$\n\n$$8$$",
+  "choices": {},
+  "correctAnswer": "$8$",
+  "explanation": "The correct answer is $8$. The given equation can be rewritten in the form $v_t = pr + q$, like so:\n\n$$r = \\frac{v_t - 15}{8}$$\n\n$$v_t - 15 = 8r$$\n\n$$v_t = 8r + 15$$\n\nIt follows that the value of $p$ is $8$ and the value of $q$ is $15$.",
+  "source": "https://cooksat.com/practice?questionId=62524a74&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

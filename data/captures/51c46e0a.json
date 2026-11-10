@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "51c46e0a",
+  "capturedAt": "2026-11-10T03:17:10.503Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Rational Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of a linear and a quadratic equation is shown. What is the solution $(x, y)$ to this system?",
+  "choices": {
+    "A": "$(-6, 3)$",
+    "B": "$(0, 0)$",
+    "C": "$(3, 6)$",
+    "D": "$(6, 3)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The solution to the system corresponds to the point where the graphs of the two equations intersect. The graphs of the linear equation and the quadratic equation shown intersect at the point $(6, 3)$. Therefore, $(6, 3)$ is the solution to this system.",
+  "source": "https://cooksat.com/practice?questionId=51c46e0a&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/51c46e0a/1-83d30b21d2fc0998.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8bed9e6e",
+  "capturedAt": "2026-11-10T03:18:25.597Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$y = x^{2} - 4x - 5$$\n\n$$y = x + 1$$\n\nIf $(x, y)$ is a solution to the system of equations above and $x > 0$, what is the value of $x$?\n\n$$0$$\n\n$$6$$",
+  "choices": {},
+  "correctAnswer": "$6$",
+  "explanation": "The correct answer is $6$. Substituting $y = x + 1$ into the first equation gives $x + 1 = x^2 - 4x - 5$. Subtracting $x + 1$ from both sides yields $0 = x^2 - 5x - 6$. Factoring gives $(x - 6)(x + 1) = 0$, so $x = 6$ or $x = -1$. Since $x > 0$, the value of $x$ is $6$.",
+  "source": "https://cooksat.com/practice?questionId=8bed9e6e&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

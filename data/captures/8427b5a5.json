@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8427b5a5",
+  "capturedAt": "2026-11-10T03:18:10.911Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$r = \\frac{m}{(7 n + 5)}$$\n\nThe given equation relates the distinct positive numbers $r$, $m$, and $n$. Which equation correctly expresses $7 n + 5$ in terms of $r$ and $m$?",
+  "choices": {
+    "A": "$7 n + 5 = m - r$",
+    "B": "$7 n + 5 = \\frac{m}{r}$",
+    "C": "$7 n + 5 = \\frac{r}{m}$",
+    "D": "$7 n + 5 = m r$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To express $7 n + 5$ in terms of $r$ and $m$, the given equation must be solved for $7 n + 5$. Since it's given that $n$ is a positive number, $7 n + 5$ is not equal to zero. Therefore, multiplying both sides of the given equation by $7 n + 5$ yields the equivalent equation $r \\left( 7 n + 5 \\right) = m$. Since it's given that $r$ is a positive number, $r$ is not equal to zero. Therefore, dividing each side of the equation $r \\left( 7 n + 5 \\right) = m$ by $r$ yields the equivalent equation $7 n + 5 = \\frac{m}{r}$.",
+  "source": "https://cooksat.com/practice?questionId=8427b5a5&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

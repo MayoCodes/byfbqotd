@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4281d648",
+  "capturedAt": "2026-11-10T03:16:51.062Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$| w | + 42 = 48$$\n\nWhich value is a solution to the given equation?",
+  "choices": {
+    "A": "$\\frac{8}{7}$",
+    "B": "$6$",
+    "C": "$90$",
+    "D": "$96$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Subtracting $42$ from each side of the given equation yields $\\left| w \\right| = 6$. By the definition of absolute value, if $\\left| w \\right| = 6$, then $w = 6$ or $w = -6$. Of the given choices, $6$ is a solution to the given equation.",
+  "source": "https://cooksat.com/practice?questionId=4281d648&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

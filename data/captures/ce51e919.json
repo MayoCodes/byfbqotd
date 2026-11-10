@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ce51e919",
+  "capturedAt": "2026-11-10T03:20:20.061Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the positive solution to the equation $9x^{2} - 25 = 0$?",
+  "choices": {
+    "A": "$\\frac{5}{9}$",
+    "B": "$\\frac{3}{5}$",
+    "C": "$\\frac{5}{3}$",
+    "D": "$\\frac{(25)}{9}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Add $25$ to both sides to get $9x^2 = 25$. Divide both sides by $9$ to get $x^2 = \\frac{25}{9}$. Take the square root of both sides: $x = \\pm\\frac{5}{3}$. The positive solution is $\\frac{5}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=ce51e919&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

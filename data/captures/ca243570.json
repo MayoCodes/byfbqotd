@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ca243570",
+  "capturedAt": "2026-11-10T03:20:13.487Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The equation $px^{2}-6x+p=0$, where $p$ is a positive constant, has exactly one real solution. What is the value of $p$?\n\n$$0$$\n\n$$3$$",
+  "choices": {},
+  "correctAnswer": "$3$",
+  "explanation": "The correct answer is $3$. A quadratic equation has exactly one real solution when its discriminant equals zero. For the equation $px^{2}-6x+p=0$, which is in the form $ax^{2}+bx+c=0$ where $a=p$, $b=-6$, and $c=p$, the discriminant is $b^{2}-4ac$. Setting the discriminant equal to zero yields $(-6)^{2}-4(p)(p)=0$, which simplifies to $36-4p^{2}=0$. Adding $4p^{2}$ to both sides gives $36=4p^{2}$. Dividing both sides by $4$ yields $p^{2}=9$. Taking the square root of both sides gives $p=\\pm 3$. Since it's given that $p$ is a positive constant, $p=3$. To verify: when $p=3$, the equation becomes $3x^{2}-6x+3=0$, or $x^{2}-2x+1=0$, which factors as $(x-1)^{2}=0$, confirming exactly one solution at $x=1$. Therefore, the value of $p$ is $3$.",
+  "source": "https://cooksat.com/practice?questionId=ca243570&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

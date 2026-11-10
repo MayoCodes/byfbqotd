@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0241709b",
+  "capturedAt": "2026-11-10T03:11:41.110Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3x^{2}-6x=k$$\n\nIn the equation above, $k$ is a constant. If the equation has no real solutions, which of the following could be the value of $k$?",
+  "choices": {
+    "A": "$-5$",
+    "B": "$-2$",
+    "C": "$2$",
+    "D": "$4$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Rewriting the equation as $3x^2-6x-k=0$, a quadratic has no real solutions when its discriminant is negative. The discriminant is $(-6)^2-4(3)(-k)=36+12k$. Setting $36+12k<0$ gives $k<-3$. Of the choices, only $-5<-3$.",
+  "source": "https://cooksat.com/practice?questionId=0241709b&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

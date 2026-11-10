@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "36788012",
+  "capturedAt": "2026-11-10T03:16:40.503Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$|x - 5| = 12$$\n\nWhat is the positive solution to the given equation?\n\n$$0$$\n\n$$17$$",
+  "choices": {},
+  "correctAnswer": "$17$",
+  "explanation": "The correct answer is $17$. By the definition of absolute value, if $|x - 5| = 12$, then $x - 5 = 12$ or $x - 5 = -12$. Solving the first equation: $x - 5 = 12$ gives $x = 17$. Solving the second equation: $x - 5 = -12$ gives $x = -7$. Since the question asks for the positive solution, the answer is $17$.",
+  "source": "https://cooksat.com/practice?questionId=36788012&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

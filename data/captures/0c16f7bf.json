@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0c16f7bf",
+  "capturedAt": "2026-11-10T03:11:49.303Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The kinetic energy $E$, in joules, of a moving body is given by the formula $E = \\frac{1}{2}pw^{2}$, where $p$ is the mass of the body, in kilograms, and $w$ is the velocity of the body, in meters per second. If the kinetic energy of a particular body can be found by using the formula $E = 48w^{2}$, what is the mass of the body, in kilograms?",
+  "choices": {
+    "A": "$24$",
+    "B": "$48$",
+    "C": "$96$",
+    "D": "$2,304$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the kinetic energy can be found using the formula $E = 48w^{2}$. It's also given that the kinetic energy can be found using the formula $E = \\frac{1}{2}pw^{2}$. Since both expressions are equal to $E$, it follows that $48w^{2} = \\frac{1}{2}pw^{2}$. Dividing both sides of this equation by $w^{2}$ yields $48 = \\frac{1}{2}p$. Multiplying both sides of this equation by $2$ yields $96 = p$. Therefore, the mass of the body is $96$ kilograms.",
+  "source": "https://cooksat.com/practice?questionId=0c16f7bf&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

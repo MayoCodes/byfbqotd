@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5d55a80e",
+  "capturedAt": "2026-11-10T03:17:27.440Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Complete the Square",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For how many integer values of $k$ where $0 \\le k \\le 6$ does the equation $\\frac{(x+k)}{(x-2)} = \\frac{x}{(x-2)} + 3$ have exactly one real solution?",
+  "choices": {
+    "A": "Three",
+    "B": "Four",
+    "C": "Five",
+    "D": "Six"
+  },
+  "correctAnswer": "D",
+  "explanation": "Multiplying both sides by $(x-2)$ yields $x+k = x + 3(x-2)$, which simplifies to $x+k = 4x - 6$, then $k = 3x - 6$, giving $x = \\frac{k+6}{3}$. This solution is valid when $x \\neq 2$, requiring $\\frac{k+6}{3} \\neq 2$, or $k \\neq 0$. In the range $0 \\leq k \\leq 6$, there are $7$ integers: $\\{0, 1, 2, 3, 4, 5, 6\\}$. Of these, $k \\in \\{1, 2, 3, 4, 5, 6\\}$ all give exactly one real solution, while $k=0$ makes $x=2$, which is extraneous. Therefore, six integer values of $k$ work.",
+  "source": "https://cooksat.com/practice?questionId=5d55a80e&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "752d624c",
+  "capturedAt": "2026-11-10T03:17:54.288Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$x^{2} - 8x + 15 = 0$$\n\nWhat is one possible solution to the given equation?\n\n$$0$$\n\n$$3,5$$",
+  "choices": {},
+  "correctAnswer": "$3,5$",
+  "explanation": "The correct answer is $3$ or $5$. The left-hand side of the given equation can be factored as $(x-3)(x-5)$. Therefore, the given equation, $x^{2}-8x+15=0$, can be written as $(x-3)(x-5)=0$. Applying the zero product property to this equation yields $x-3=0$ and $x-5=0$. Adding $3$ to both sides of the equation $x-3=0$ yields $x=3$. Adding $5$ to both sides of the equation $x-5=0$ yields $x=5$. Therefore, the two solutions to the given equation are $3$ and $5$. It follows that one possible solution is either $3$ or $5$. Note that 3 and 5 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=752d624c&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

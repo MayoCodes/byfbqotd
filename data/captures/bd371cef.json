@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bd371cef",
+  "capturedAt": "2026-11-10T03:19:49.030Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x - b = (x - b)(x - 18)$$\n\nWhich of the following are solutions to the given equation, where $b$ is a constant and $b > 19$?\n\nI. $b$\nII. $18$\nIII. $19$",
+  "choices": {
+    "A": "I and II only",
+    "B": "I and III only",
+    "C": "II and III only",
+    "D": "I, II, and III"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Subtracting the expression $(x - b)$ from both sides of the given equation yields $0 = (x - b)(x - 18) - (x - b)$, which can be rewritten as $0 = (x - b)(x - 18) + (-1)(x - b)$. Since the two terms on the right-hand side of this equation have a common factor of $(x - b)$, it can be rewritten as $0 = (x - b)(x - 18 + (-1))$, or $0 = (x - b)(x - 19)$. By the zero product property, it follows that $x - b = 0$ or $x - 19 = 0$. Adding $b$ to both sides of the equation $x - b = 0$ yields $x = b$. Adding $19$ to both sides of the equation $x - 19 = 0$ yields $x = 19$. Therefore, the two solutions to the given equation are $b$ and $19$. Thus, only $b$ and $19$, not $18$, are solutions to the given equation.",
+  "source": "https://cooksat.com/practice?questionId=bd371cef&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

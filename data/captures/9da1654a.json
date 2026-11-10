@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9da1654a",
+  "capturedAt": "2026-11-10T03:18:52.438Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A botanist uses the equation $d = \\frac{7}{4} h$ to model the diameter $d$, in centimeters, of a tree trunk, where $h$ represents the height of the tree, in meters. Which of the following represents the height of the tree in terms of the diameter of the tree trunk?",
+  "choices": {
+    "A": "$h = \\frac{4}{7} + d$",
+    "B": "$h = \\frac{4}{7} d$",
+    "C": "$h = \\frac{7}{4} + d$",
+    "D": "$h = \\frac{7}{4} d$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since $h$ represents the height of the tree, the equation $d = \\frac{7}{4} h$ can be solved for $h$ to represent the height in terms of the diameter. Multiplying both sides of the equation by the reciprocal of $\\frac{7}{4}$ isolates $h$. This yields $\\frac{4}{7} d = \\frac{4}{7} \\cdot \\frac{7}{4} h$, which simplifies to $\\frac{4}{7} d = h$. Therefore, $h = \\frac{4}{7} d$.",
+  "source": "https://cooksat.com/practice?questionId=9da1654a&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

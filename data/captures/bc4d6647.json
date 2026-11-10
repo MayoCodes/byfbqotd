@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bc4d6647",
+  "capturedAt": "2026-11-10T03:19:47.437Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$(x + 7)^{2} = -25$$\n\nHow many distinct real solutions does the given equation have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For any real value of $x$, the expression $\\left(x + 7\\right)^{2}$ is nonnegative, since squaring a real number cannot yield a negative result. The right-hand side of the given equation is $-25$, which is negative. Therefore, there is no real value of $x$ that satisfies the equation, and the number of distinct real solutions is zero.",
+  "source": "https://cooksat.com/practice?questionId=bc4d6647&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

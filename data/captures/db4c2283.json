@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db4c2283",
+  "capturedAt": "2026-11-10T03:20:39.768Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$4x^{2} - 12x + c = 0$ In the given equation, $c$ is a constant. For what value of $c$ does the equation have exactly one real solution?",
+  "choices": {
+    "A": "$-9$",
+    "B": "$8$",
+    "C": "$9$",
+    "D": "$12$"
+  },
+  "correctAnswer": "C",
+  "explanation": "A quadratic equation $ax^{2} + bx + c = 0$ has exactly one real solution when its discriminant equals zero. For the given equation $4x^{2} - 12x + c = 0$, we have $a = 4$, $b = -12$, and the discriminant is $b^{2} - 4ac = (-12)^{2} - 4(4)(c) = 144 - 16c$. Setting the discriminant equal to zero: $144 - 16c = 0$, which gives $16c = 144$, so $c = 9$.",
+  "source": "https://cooksat.com/practice?questionId=db4c2283&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "58e17172",
+  "capturedAt": "2026-11-10T03:17:19.163Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$|x - 2| = 9$$\n\nWhat is one possible solution to the given equation?\n\n$$0$$\n\n$$11,-7$$",
+  "choices": {},
+  "correctAnswer": "$11,-7$",
+  "explanation": "The correct answer is $11$ or $-7$. By the definition of absolute value, if $|x - 2| = 9$, then $x - 2 = 9$ or $x - 2 = -9$. Adding $2$ to both sides of the equation $x - 2 = 9$ yields $x = 11$. Adding $2$ to both sides of the equation $x - 2 = -9$ yields $x = -7$. Thus, the given equation, $|x - 2| = 9$, has two possible solutions, $11$ and $-7$. Note that 11 and -7 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=58e17172&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

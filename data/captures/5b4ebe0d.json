@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5b4ebe0d",
+  "capturedAt": "2026-11-10T03:17:22.813Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = x^{2} + 4x + 10$$\n\n$$y = 2x + 1$$\n\nHow many real solutions does the given system of equations have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "A",
+  "explanation": "Setting the equations equal: $x^2 + 4x + 10 = 2x + 1$. Rearranging to standard form: $x^2 + 2x + 9 = 0$. The discriminant is $b^2 - 4ac = (2)^2 - 4(1)(9) = 4 - 36 = -32$. Since the discriminant is negative, there are no real solutions to this equation, and therefore no real solutions to the system.",
+  "source": "https://cooksat.com/practice?questionId=5b4ebe0d&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f488a126",
+  "capturedAt": "2026-11-10T03:21:22.574Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$aligned x + y &= 7 \\\\ xy &= 10 aligned$$\n\nWhat is the product of all values of $x$ that satisfy the system of equations below?\n\n$$0$$\n\n$$10$$",
+  "choices": {},
+  "correctAnswer": "$10$",
+  "explanation": "The correct answer is $10$. To solve the system, solve the first equation for $y$: $y = 7 - x$. Substitute into the second equation: $x(7 - x) = 10$. Expand: $7x - x^2 = 10$. Rearrange to standard form: $x^2 - 7x + 10 = 0$. Factor the quadratic: $(x - 2)(x - 5) = 0$. This gives $x = 2$ or $x = 5$. Verification: For $x = 2$: $y = 7 - 2 = 5$. Check: $2 + 5 = 7$ and $2 \\cdot 5 = 10$. For $x = 5$: $y = 7 - 5 = 2$. Check: $5 + 2 = 7$ and $5 \\cdot 2 = 10$. The product of all $x$ values is $2 \\times 5 = 10$. Alternative method using Vieta's formulas: For the quadratic $x^2 - 7x + 10 = 0$, the product of roots equals $\\frac{c}{a} = \\frac{10}{1} = 10$.",
+  "source": "https://cooksat.com/practice?questionId=f488a126&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

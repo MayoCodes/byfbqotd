@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bb2f37cd",
+  "capturedAt": "2026-11-10T03:19:43.313Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$4x^{2}+y^{2}=25$$\n\n$$y=3x-1$$\n\nHow many solutions does the given system of equations have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "C",
+  "explanation": "Substituting $y=3x-1$ into the first equation yields $4x^2+(3x-1)^2=25$. Expanding $(3x-1)^2=9x^2-6x+1$ gives $4x^2+9x^2-6x+1=25$, which simplifies to $13x^2-6x-24=0$. The discriminant is $(-6)^2-4(13)(-24)=36+1248=1284>0$. Since the discriminant is positive, there are exactly two distinct real solutions for $x$, and each corresponds to exactly one $y$-value.",
+  "source": "https://cooksat.com/practice?questionId=bb2f37cd&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0d688403",
+  "capturedAt": "2026-11-10T03:11:51.302Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 3x + 7$$\n\n$$y = 3x^{2} + 7$$\n\nWhich ordered pair $(x, y)$ is a solution to the given system of equations?",
+  "choices": {
+    "A": "$(0, 0)$",
+    "B": "$(0, 7)$",
+    "C": "$(6, 25)$",
+    "D": "$(6, 115)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Substituting $3x^{2} + 7$ for $y$ in the first equation yields $3x^{2} + 7 = 3x + 7$. Subtracting $7$ from both sides gives $3x^{2} = 3x$. Subtracting $3x$ from both sides gives $3x^{2} - 3x = 0$. Factoring out $3x$ yields $3x(x - 1) = 0$, so $x = 0$ or $x = 1$. Substituting $x = 0$ into $y = 3x + 7$ gives $y = 7$. Therefore, $(0, 7)$ is a solution to the given system.",
+  "source": "https://cooksat.com/practice?questionId=0d688403&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

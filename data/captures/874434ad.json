@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "874434ad",
+  "capturedAt": "2026-11-10T03:18:19.383Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2}-7=9$$\n\nWhat is the positive value of $x$ in the equation above?",
+  "choices": {
+    "A": "$-4$",
+    "B": "$2$",
+    "C": "$4$",
+    "D": "$16$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Adding $7$ to both sides of the equation yields $x^{2}=16$. Taking the square root of both sides yields $x=\\pm 4$. Since the question asks for the positive value, $x=4$.",
+  "source": "https://cooksat.com/practice?questionId=874434ad&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "44bfd4d9",
+  "capturedAt": "2026-11-10T03:16:58.412Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} + kx + k = 0$$\n\nIn the equation above, $k$ is a constant. For how many different values of $k$ does the equation have exactly one real solution?",
+  "choices": {
+    "A": "Zero",
+    "B": "One",
+    "C": "Two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "C",
+  "explanation": "A quadratic equation has exactly one real solution when its discriminant equals zero. For $x^{2} + kx + k = 0$, the discriminant is $k^{2} - 4(1)(k) = k^{2} - 4k$. Setting this equal to zero: $k^{2} - 4k = 0$, which factors as $k(k-4) = 0$. This gives $k = 0$ or $k = 4$, so there are exactly two values of $k$ for which the equation has exactly one real solution.",
+  "source": "https://cooksat.com/practice?questionId=44bfd4d9&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

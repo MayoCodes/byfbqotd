@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c4b3efd7",
+  "capturedAt": "2026-11-10T03:20:01.429Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Complete the Square",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The average height of the water in a tank $t$ minutes after a drain starts emptying the tank is given by the function $h(t)=\\frac{(400)}{(t+1)}$. After how many minutes will the average height of the water in the tank be $50$ centimeters?",
+  "choices": {
+    "A": "$6$",
+    "B": "$7$",
+    "C": "$8$",
+    "D": "$350$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Set $h(t)=50$ and solve: $\\frac{400}{t+1}=50$. Multiply both sides by $(t+1)$: $400=50(t+1)$. Divide both sides by $50$: $8=t+1$. Subtract $1$ from both sides: $t=7$.",
+  "source": "https://cooksat.com/practice?questionId=c4b3efd7&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

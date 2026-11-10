@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1ead3d62",
+  "capturedAt": "2026-11-10T03:12:56.452Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$-x^{2}+mx-529=0$$\n\nIn the equation above, $m$ is a positive integer. The equation has no real solutions. What is the largest possible value of $m$?\n\n$$0$$\n\n$$45$$",
+  "choices": {},
+  "correctAnswer": "$45$",
+  "explanation": "The correct answer is $45$. A quadratic equation of the form $ax^2+bx+c=0$ has no real solutions when its discriminant, $b^2-4ac$, is negative. For the given equation $-x^2+mx-529=0$, the coefficients are $a=-1$, $b=m$, and $c=-529$. The discriminant is $m^2-4(-1)(-529)=m^2-2116$. For no real solutions, $m^2-2116<0$, so $m^2<2116$. Since $46^2=2116$, we have $m<46$. The largest positive integer less than $46$ is $45$.",
+  "source": "https://cooksat.com/practice?questionId=1ead3d62&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

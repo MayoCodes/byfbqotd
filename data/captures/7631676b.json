@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7631676b",
+  "capturedAt": "2026-11-10T03:18:00.153Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $f(x) = 2x^{2} - 3x - 2$, what is the positive value of $x$ for which $f(x) = 0$?",
+  "choices": {
+    "A": "$\\frac{1}{2}$",
+    "B": "$1$",
+    "C": "$\\frac{3}{2}$",
+    "D": "$2$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Setting $f(x) = 0$ gives $2x^2 - 3x - 2 = 0$. Factoring yields $(2x + 1)(x - 2) = 0$, so $x = -\\frac{1}{2}$ or $x = 2$. The positive value is $2$.",
+  "source": "https://cooksat.com/practice?questionId=7631676b&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

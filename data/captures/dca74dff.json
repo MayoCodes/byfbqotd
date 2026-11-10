@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dca74dff",
+  "capturedAt": "2026-11-10T03:20:44.932Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $4x^{2} - 12x + 5 = 0$, what is the sum of all possible values of $2x - 3$?",
+  "choices": {
+    "A": "$-4$",
+    "B": "$0$",
+    "C": "$2$",
+    "D": "$3$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Solving $4x^2 - 12x + 5 = 0$ using the quadratic formula gives $x = \\frac{12 \\pm \\sqrt{144-80}}{8} = \\frac{12 \\pm 8}{8}$, so $x = \\frac{5}{2}$ or $x = \\frac{1}{2}$. For these values, $2x - 3$ equals $2(\\frac{5}{2}) - 3 = 2$ or $2(\\frac{1}{2}) - 3 = -2$. The sum of all possible values is $2 + (-2) = 0$.",
+  "source": "https://cooksat.com/practice?questionId=dca74dff&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

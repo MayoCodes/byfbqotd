@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c8b1e5c2",
+  "capturedAt": "2026-11-10T03:20:11.014Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Radical Equation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$(x^{2})/(sqrt(x^{2} - k^{2})) = (k^{2})/(sqrt(x^{2} - k^{2})) + 28$$\n\nIn the given equation, $k$ is a positive constant. Which of the following is one of the solutions to the given equation?",
+  "choices": {
+    "A": "$-sqrt(k^{2} + 28^{2})$",
+    "B": "$-sqrt(28^{2} - k^{2})$",
+    "C": "$-k^{2} - 28^{2}$",
+    "D": "$-k$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. If $x^{2} - k^{2} \\leq 0$, then neither side of the given equation is defined and there can be no solution. Therefore, $x^{2} - k^{2} > 0$. Subtracting $\\frac{k^{2}}{\\sqrt{x^{2} - k^{2}}}$ from both sides of the given equation yields $\\frac{x^{2} - k^{2}}{\\sqrt{x^{2} - k^{2}}} = 28$. Since $x^{2} - k^{2} > 0$, the left-hand side simplifies to $\\sqrt{x^{2} - k^{2}}$, giving $\\sqrt{x^{2} - k^{2}} = 28$. Squaring both sides yields $x^{2} - k^{2} = 28^{2}$. Adding $k^{2}$ to both sides gives $x^{2} = k^{2} + 28^{2}$. Taking the square root of both sides yields two solutions: $x = \\sqrt{k^{2} + 28^{2}}$ and $x = -\\sqrt{k^{2} + 28^{2}}$. Therefore, of the given choices, $-\\sqrt{k^{2} + 28^{2}}$ is one of the solutions.",
+  "source": "https://cooksat.com/practice?questionId=c8b1e5c2&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

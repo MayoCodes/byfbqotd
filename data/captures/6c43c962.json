@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6c43c962",
+  "capturedAt": "2026-11-10T03:17:49.092Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Rational Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of two equations is shown. What is the x-coordinate of one of the solutions to the system?",
+  "choices": {
+    "A": "$-2$",
+    "B": "$-1$",
+    "C": "$2$",
+    "D": "$3$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The solutions to the system are the intersection points of the graphs. From the graph, the parabola and line intersect at $(-1, 2)$ and $(1, 0)$. Among the answer choices, $-1$ is the x-coordinate of one intersection point.",
+  "source": "https://cooksat.com/practice?questionId=6c43c962&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6c43c962/1-74542f3a79442223.png",
+      "kind": "diagram"
+    }
+  ]
+}

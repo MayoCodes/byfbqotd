@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "df6702d6",
+  "capturedAt": "2026-11-10T03:20:51.464Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2}=36$$\n\n$$y=x^{3}+x^{2}$$\n\nFor the system of equations above, if $x>0$, what is the value of $y$?",
+  "choices": {
+    "A": "$-180$",
+    "B": "$180$",
+    "C": "$216$",
+    "D": "$252$"
+  },
+  "correctAnswer": "D",
+  "explanation": "From the first equation, $x^2=36$. Since $x>0$, it follows that $x=6$. Substituting $6$ for $x$ in the second equation yields $y=6^3+6^2=216+36=252$.",
+  "source": "https://cooksat.com/practice?questionId=df6702d6&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

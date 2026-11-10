@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9f3aabdb",
+  "capturedAt": "2026-11-10T03:18:56.023Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 2x + 3$$\n\n$$y = x^{2} - 4x + 1$$\n\nHow many points of intersection do the graphs of the given equations have in the xy-plane?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "C",
+  "explanation": "To find intersection points, substitute $y = 2x + 3$ into the second equation: $2x + 3 = x^2 - 4x + 1$. Rearranging gives $x^2 - 6x - 2 = 0$. The discriminant is $b^2 - 4ac = (-6)^2 - 4(1)(-2) = 36 + 8 = 44$, which is positive. Since the discriminant is positive, the quadratic equation has exactly two distinct real solutions, meaning the graphs intersect at exactly two points.",
+  "source": "https://cooksat.com/practice?questionId=9f3aabdb&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

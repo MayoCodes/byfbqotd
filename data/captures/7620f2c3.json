@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7620f2c3",
+  "capturedAt": "2026-11-10T03:17:58.078Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Complete the Square",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is defined by $f(x)=\\frac{(x^{2}+5x)}{(x+2)}$ for $x\\ne -2$. For what value of $x$ does $f(x)=6$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$6$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Setting $f(x)=6$ gives $\\frac{x^2+5x}{x+2}=6$. Cross-multiplying yields $x^2+5x=6(x+2)=6x+12$. Rearranging gives $x^2-x-12=0$. Factoring yields $(x-4)(x+3)=0$, so $x=4$ or $x=-3$. Of the choices given, $x=4$ is correct.",
+  "source": "https://cooksat.com/practice?questionId=7620f2c3&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

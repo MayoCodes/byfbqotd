@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f0ce8e29",
+  "capturedAt": "2026-11-10T03:21:16.586Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$y=x^{2}-x-2$$\n\n$$y=x+1$$\n\nThe graphs of the given equations intersect at the points $(a,b)$ and $(c,d)$. What is the value of $ab+cd$?\n\n$$0$$\n\n$$12$$",
+  "choices": {},
+  "correctAnswer": "$12$",
+  "explanation": "The correct answer is $12$. Setting the two equations equal gives $x^2-x-2=x+1$, which simplifies to $x^2-2x-3=0$. Factoring yields $(x-3)(x+1)=0$, so $x=3$ or $x=-1$. Substituting $x=3$ into $y=x+1$ gives $y=4$, so one intersection point is $(3,4)$. Substituting $x=-1$ into $y=x+1$ gives $y=0$, so the other intersection point is $(-1,0)$. Therefore, $ab+cd=(3)(4)+(-1)(0)=12+0=12$.",
+  "source": "https://cooksat.com/practice?questionId=f0ce8e29&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

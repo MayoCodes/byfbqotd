@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6f89a575",
+  "capturedAt": "2026-11-10T03:17:51.087Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "What is one possible solution to the equation $3x^{2} - 12 = 0$?\n\n$$0$$\n\n$$2,-2$$",
+  "choices": {},
+  "correctAnswer": "$2,-2$",
+  "explanation": "The correct answer is $2$ or $-2$. To solve the equation $3x^2 - 12 = 0$, first add $12$ to both sides to isolate the quadratic term: $3x^2 = 12$. Next, divide both sides by $3$ to get $x^2 = 4$. Taking the square root of both sides yields $x = \\pm\\sqrt{4}$, which simplifies to $x = \\pm 2$. Thus, the solutions are $x = 2$ and $x = -2$. Verification: For $x = 2$: $3(2)^2 - 12 = 12 - 12 = 0$. For $x = -2$: $3(-2)^2 - 12 = 12 - 12 = 0$. Both solutions satisfy the equation. Note that 2 and -2 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=6f89a575&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

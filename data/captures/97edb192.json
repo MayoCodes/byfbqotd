@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "97edb192",
+  "capturedAt": "2026-11-10T03:18:39.491Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$x + y = 15$$\n\n$$xy = 54$$\n\nIf one solution to the system of equations above is the ordered pair $(x, y)$, what is one possible value of $x$?\n\n$$0$$\n\n$$6,9$$",
+  "choices": {},
+  "correctAnswer": "$6,9$",
+  "explanation": "The correct answer is either $6$ or $9$. The first equation can be rewritten as $y = 15 - x$. Substituting $15 - x$ for $y$ in the second equation gives $x(15 - x) = 54$. Applying the distributive property yields $15x - x^{2} = 54$. Subtracting $54$ from both sides gives $x^{2} - 15x + 54 = 0$. Factoring the left-hand side yields $(x - 6)(x - 9) = 0$. By the Zero Product Property, $x - 6 = 0$ or $x - 9 = 0$, so $x = 6$ or $x = 9$. Note that 6 and 9 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=97edb192&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

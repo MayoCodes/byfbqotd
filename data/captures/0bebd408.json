@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0bebd408",
+  "capturedAt": "2026-11-10T03:11:46.938Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} - 6x - 6 = 0$$\n\nOne solution to the given equation can be written as $3 + sqrt(k)$, where $k$ is a constant. What is the value of $k$?",
+  "choices": {
+    "A": "$12$",
+    "B": "$15$",
+    "C": "$30$",
+    "D": "$60$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Adding $6$ to each side of the given equation yields $x^{2} - 6x = 6$. To complete the square, adding $9$ to each side of this equation yields $x^{2} - 6x + 9 = 6 + 9$, or $(x - 3)^{2} = 15$. Taking the square root of each side of this equation yields $x - 3 = \\pm\\sqrt{15}$. Adding $3$ to each side yields $x = 3 \\pm \\sqrt{15}$. Since it's given that one of the solutions to the equation can be written as $3 + \\sqrt{k}$, the value of $k$ must be $15$. Alternate approach: Substituting $3 + \\sqrt{k}$ for $x$ in the given equation yields $(3 + \\sqrt{k})^{2} - 6(3 + \\sqrt{k}) - 6 = 0$. Expanding yields $9 + 6\\sqrt{k} + k - 18 - 6\\sqrt{k} - 6 = 0$, or $k - 15 = 0$. Adding $15$ to each side yields $k = 15$.",
+  "source": "https://cooksat.com/practice?questionId=0bebd408&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

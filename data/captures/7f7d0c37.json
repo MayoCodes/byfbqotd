@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7f7d0c37",
+  "capturedAt": "2026-11-10T03:18:07.219Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = x^{2} - 6x + 2$$\n\n$$y = kx - 2$$\n\nIn the system of equations above, $k$ is a constant. If the system has exactly one real solution, what is a possible value of $k$?",
+  "choices": {
+    "A": "$-10$",
+    "B": "$-6$",
+    "C": "$2$",
+    "D": "$10$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Setting the equations equal: $x^2 - 6x + 2 = kx - 2$. Rearranging: $x^2 - (6+k)x + 4 = 0$. For exactly one solution, the discriminant equals zero: $(6+k)^2 - 4(1)(4) = 0$. This gives $(6+k)^2 = 16$, so $6+k = \\pm 4$. Thus $k = -2$ or $k = -10$. Of the answer choices, $k = -10$ is the valid solution.",
+  "source": "https://cooksat.com/practice?questionId=7f7d0c37&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

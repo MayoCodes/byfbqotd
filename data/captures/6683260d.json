@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6683260d",
+  "capturedAt": "2026-11-10T03:17:45.074Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Consider the system of equations given by $y = x^{2} - 4x + 3$ and $y = 2x - 1$. What is the sum of all values of $x$ that satisfy both equations?\n\n$$0$$\n\n$$6$$",
+  "choices": {},
+  "correctAnswer": "$6$",
+  "explanation": "The correct answer is $6$. To find the values of $x$ that satisfy both equations, we set them equal to each other since both equal $y$:\n\n$$x^2 - 4x + 3 = 2x - 1$$\n\nRearranging all terms to one side:\n\n$x^2 - 4x + 3 - 2x + 1 = 0$\n$x^2 - 6x + 4 = 0$\n\nUsing the quadratic formula with $a = 1$, $b = -6$, and $c = 4$:\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nCalculate the discriminant:\n\n$$b^2 - 4ac = (-6)^2 - 4(1)(4) = 36 - 16 = 20$$\n\nSubstitute into the quadratic formula:\n\n$$x = \\frac{6 \\pm \\sqrt{20}}{2} = \\frac{6 \\pm 2\\sqrt{5}}{2} = 3 \\pm \\sqrt{5}$$\n\nThe two solutions are $x = 3 + \\sqrt{5}$ and $x = 3 - \\sqrt{5}$.\n\nVerification for $x = 3 + \\sqrt{5}$:\n\nEquation 1: $y = (3 + \\sqrt{5})^2 - 4(3 + \\sqrt{5}) + 3 = 5 + 2\\sqrt{5}$\n\nEquation 2: $y = 2(3 + \\sqrt{5}) - 1 = 5 + 2\\sqrt{5}$\n\nVerification for $x = 3 - \\sqrt{5}$:\n\nEquation 1: $y = (3 - \\sqrt{5})^2 - 4(3 - \\sqrt{5}) + 3 = 5 - 2\\sqrt{5}$\n\nEquation 2: $y = 2(3 - \\sqrt{5}) - 1 = 5 - 2\\sqrt{5}$\n\nThe sum of all $x$ values is:\n\n$$(3 + \\sqrt{5}) + (3 - \\sqrt{5}) = 6$$\n\nAlternatively, by Vieta's formulas for $x^2 - 6x + 4 = 0$, the sum of roots equals $-\\frac{b}{a} = 6$.",
+  "source": "https://cooksat.com/practice?questionId=6683260d&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

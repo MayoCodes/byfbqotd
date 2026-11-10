@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "121caf6e",
+  "capturedAt": "2026-11-10T03:11:58.747Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$cases x^{2} + y^{2} = 25 \\\\ x - y = 1 cases$$\n\nWhat is the value of $x$ in the solution where both $x$ and $y$ are positive?\n\n$$0$$\n\n$$4$$",
+  "choices": {},
+  "correctAnswer": "$4$",
+  "explanation": "The correct answer is $4$. To solve the given system of equations, begin with the second equation $x - y = 1$ and solve for $x$ to get $x = y + 1$. Substituting $y + 1$ for $x$ in the first equation $x^2 + y^2 = 25$ yields $(y + 1)^2 + y^2 = 25$. Expanding $(y + 1)^2$ gives $y^2 + 2y + 1 + y^2 = 25$, which simplifies to $2y^2 + 2y + 1 = 25$. Subtracting 25 from both sides yields $2y^2 + 2y - 24 = 0$. Dividing both sides by 2 gives $y^2 + y - 12 = 0$. Factoring the left side yields $(y + 4)(y - 3) = 0$, so $y = -4$ or $y = 3$. Using $x = y + 1$, when $y = -4$, $x = -3$, and when $y = 3$, $x = 4$. Both solutions can be verified: for $(-3, -4)$, $(-3)^2 + (-4)^2 = 9 + 16 = 25$ and $-3 - (-4) = 1$; for $(4, 3)$, $4^2 + 3^2 = 16 + 9 = 25$ and $4 - 3 = 1$. Since the question asks for the solution where both $x$ and $y$ are positive, the answer is $x = 4$ from the solution $(4, 3)$.",
+  "source": "https://cooksat.com/practice?questionId=121caf6e&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

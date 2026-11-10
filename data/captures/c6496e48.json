@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c6496e48",
+  "capturedAt": "2026-11-10T03:20:05.435Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The product of a positive number $x$ and the number that is $4$ less than $x$ is equal to $96$. What is the value of $x$?",
+  "choices": {
+    "A": "$12$",
+    "B": "$14$",
+    "C": "$24$",
+    "D": "$100$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The phrase \"the number that is $4$ less than $x$\" can be represented by the expression $x - 4$. It's given that the product of $x$ and $x - 4$ is equal to $96$, which can be written as $x(x - 4) = 96$. Applying the distributive property yields $x^{2} - 4x = 96$. Subtracting $96$ from both sides of this equation yields $x^{2} - 4x - 96 = 0$. The left-hand side of this equation can be factored as $(x - 12)(x + 8)$. Setting each factor equal to $0$ yields $x - 12 = 0$ or $x + 8 = 0$. Adding $12$ to both sides of the equation $x - 12 = 0$ yields $x = 12$. Subtracting $8$ from both sides of the equation $x + 8 = 0$ yields $x = -8$. Since it's given that $x$ is a positive number, $x = 12$.",
+  "source": "https://cooksat.com/practice?questionId=c6496e48&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

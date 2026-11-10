@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ed58f89e",
+  "capturedAt": "2026-11-10T03:21:11.835Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = ( x - 3 ) ( x + 5 )$$\n\n$$y = 8x - 24$$\n\nWhich ordered pair $( x, y )$ is the solution to the given system of equations?",
+  "choices": {
+    "A": "$( -5, 3 )$",
+    "B": "$( 0, 3 )$",
+    "C": "$( 3, -5 )$",
+    "D": "$( 3, 0 )$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The second equation is $y = 8x - 24$. Substituting $8x - 24$ for $y$ in the first equation yields $8x - 24 = \\left( x - 3 \\right)\\left( x + 5 \\right)$. Factoring $8$ from the left-hand side gives $8\\left( x - 3 \\right) = \\left( x - 3 \\right)\\left( x + 5 \\right)$. Each side has a factor of $\\left( x - 3 \\right)$, so each side equals $0$ when $x = 3$. Dividing both sides of the equation by $\\left( x - 3 \\right)$ yields $8 = x + 5$, which also gives $x = 3$. Substituting $3$ for $x$ into $y = 8x - 24$ yields $y = 8(3) - 24$, or $y = 0$. Therefore, the solution to the system of equations is the ordered pair $\\left( 3, 0 \\right)$.",
+  "source": "https://cooksat.com/practice?questionId=ed58f89e&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

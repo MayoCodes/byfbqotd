@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8eccf301",
+  "capturedAt": "2026-11-10T03:18:29.036Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$m - 46 n = p$$\n\nThe given equation relates the positive numbers $m$, $n$, and $p$. Which equation correctly expresses $m$ in terms of $n$ and $p$?",
+  "choices": {
+    "A": "$m = -\\frac{p}{(46 n)}$",
+    "B": "$m = p - 46 n$",
+    "C": "$m = p + 46 n$",
+    "D": "$m = 46 n p$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Adding $46n$ to each side of the given equation yields $m = p + 46n$. Therefore, the equation $m = p + 46n$ correctly expresses $m$ in terms of $n$ and $p$.",
+  "source": "https://cooksat.com/practice?questionId=8eccf301&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

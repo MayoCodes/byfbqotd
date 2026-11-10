@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a62ebf4f",
+  "capturedAt": "2026-11-10T03:19:01.841Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graphs of $y = x^{2} + 6x + k$ and $y = 3$ intersect at exactly one point in the $xy$-plane. What is the value of $k$?",
+  "choices": {
+    "A": "$-6$",
+    "B": "$0$",
+    "C": "$6$",
+    "D": "$12$"
+  },
+  "correctAnswer": "D",
+  "explanation": "For the graphs to intersect at exactly one point, the equation $x^2 + 6x + k = 3$ must have exactly one solution. Rearranging gives $x^2 + 6x + (k-3) = 0$. For exactly one solution, the discriminant must equal zero: $6^2 - 4(1)(k-3) = 0$. This simplifies to $36 - 4k + 12 = 0$, or $48 - 4k = 0$. Solving gives $k = 12$.",
+  "source": "https://cooksat.com/practice?questionId=a62ebf4f&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

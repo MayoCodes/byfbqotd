@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "06ab3367",
+  "capturedAt": "2026-11-10T03:11:45.068Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} - 9x + 20 = 0$$\n\nHow many distinct real solutions does the given equation have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "C",
+  "explanation": "The number of solutions of a quadratic equation of the form $ax^{2} + bx + c = 0$ can be determined by the discriminant $b^{2} - 4ac$. For the given equation $x^{2} - 9x + 20 = 0$, we have $a = 1$, $b = -9$, and $c = 20$. The discriminant is $(-9)^{2} - 4(1)(20) = 81 - 80 = 1$. Since the discriminant is positive, the equation has exactly two distinct real solutions.",
+  "source": "https://cooksat.com/practice?questionId=06ab3367&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

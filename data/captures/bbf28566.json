@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bbf28566",
+  "capturedAt": "2026-11-10T03:19:45.209Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$cases x^{2} + y^{2} = 13 \\\\ xy = 6 cases$$\n\nWhat is one possible value of $x$ when both $x$ and $y$ are positive?\n\n$$0$$\n\n$$2,3$$",
+  "choices": {},
+  "correctAnswer": "$2,3$",
+  "explanation": "The correct answer is $2$ or $3$. To solve the system of equations where $x^{2}+y^{2}=13$ and $xy=6$, we can use the identity $(x+y)^{2}=x^{2}+2xy+y^{2}$. Substituting the given values: $(x+y)^{2}=13+2(6)=25$. Taking the square root of both sides yields $x+y=5$ or $x+y=-5$. Since we want both $x$ and $y$ to be positive, we use $x+y=5$. Now we have $x+y=5$ and $xy=6$, which means $x$ and $y$ are the roots of the quadratic equation $t^{2}-5t+6=0$. Factoring gives $(t-2)(t-3)=0$, so $t=2$ or $t=3$. Therefore, when both $x$ and $y$ are positive, the possible ordered pairs are $(x,y)=(2,3)$ or $(3,2)$, meaning $x$ can be either $2$ or $3$. To verify: For $(2,3)$: $2^{2}+3^{2}=4+9=13$ and $2 \\times 3=6$. For $(3,2)$: $3^{2}+2^{2}=9+4=13$ and $3 \\times 2=6$. Note that 2 and 3 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=bbf28566&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

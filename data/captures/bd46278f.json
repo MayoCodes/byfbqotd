@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bd46278f",
+  "capturedAt": "2026-11-10T03:19:51.028Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = x^{2} - 4x + 6$$\n\n$$y = x + 2$$\n\nWhat are the solutions $(x, y)$ to the given system of equations?",
+  "choices": {
+    "A": "$(4, 6)$ only",
+    "B": "$(4, 6)$ and $(-1, 1)$",
+    "C": "$(4, 6)$ and $(1, 3)$",
+    "D": "$(1, 3)$ only"
+  },
+  "correctAnswer": "C",
+  "explanation": "Set the equations equal: $x^2 - 4x + 6 = x + 2$. Simplifying: $x^2 - 5x + 4 = 0$. Factoring: $(x - 4)(x - 1) = 0$, giving $x = 4$ or $x = 1$. When $x = 4$: $y = 4 + 2 = 6$. When $x = 1$: $y = 1 + 2 = 3$. The solutions are $(4, 6)$ and $(1, 3)$.",
+  "source": "https://cooksat.com/practice?questionId=bd46278f&subject=math&domain=advanced-math&skills=nonlinear_equations_in_one_variable_and_systems_of_equations_in_two_variables&bank=cooksat",
+  "images": []
+}
