@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "9b31a48b",
-  "capturedAt": "2026-11-09T21:13:52.351Z",
+  "capturedAt": "2026-11-09T23:58:17.253Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,60 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A scientist models the efficiency of a biological process using the function f(x)=−2x2+kx+5, where x represents temperature in degrees Celsius, f(x) represents efficiency (in percent), and k is a positive constant. The model shows that the process has the same efficiency at temperatures of 3°C and 7°C. What is the value of k?",
+  "prompt": "A scientist models the efficiency of a biological process using the function\n[Figure 1]\n, where\n[Figure 2]\nrepresents temperature in degrees Celsius,\n[Figure 3]\nrepresents efficiency (in percent), and\n[Figure 4]\nis a positive constant. The model shows that the process has the same efficiency at temperatures of\n[Figure 5]\nand\n[Figure 6]\n. What is the value of\n[Figure 7]\n?",
   "choices": {
-    "A": "10",
-    "B": "15",
-    "C": "20",
-    "D": "25"
+    "A": "[Figure 8]",
+    "B": "[Figure 9]",
+    "C": "[Figure 10]",
+    "D": "[Figure 11]"
   },
   "correctAnswer": "C",
   "explanation": "Since $f(3) = f(7)$, the temperatures $3$ and $7$ are symmetric about the axis of symmetry of the parabola. The axis of symmetry is at $x = \\frac{3+7}{2} = 5$. For a quadratic function $f(x) = ax^2 + bx + c$, the axis of symmetry is at $x = -\\frac{b}{2a}$. Here, $-\\frac{k}{2(-2)} = 5$, which simplifies to $\\frac{k}{4} = 5$, giving $k = 20$.",
   "source": "https://cooksat.com/practice?questionId=9b31a48b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/9b31a48b/1-0506e1dc887c4a63.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/9b31a48b/2-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/9b31a48b/3-301fefb43a2fb7eb.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/9b31a48b/4-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/9b31a48b/5-d02e4110e519f6e1.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/9b31a48b/6-ba97b5e7275c54b1.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/9b31a48b/7-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/9b31a48b/8-5dbe0cb8cacd5d34.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/9b31a48b/9-c395eb4f102fcf49.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/9b31a48b/10-12028fd4d7919682.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/9b31a48b/11-0ee7c34afd857757.png"
+    }
+  ]
 }

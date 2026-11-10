@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "ef15bcff",
-  "capturedAt": "2026-11-09T21:18:32.948Z",
+  "capturedAt": "2026-11-10T00:07:51.753Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=x2+3x+1. What is the value of f(−2)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
   "choices": {
-    "A": "−9",
-    "B": "−1",
-    "C": "3",
-    "D": "11"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "B",
-  "explanation": "Substitute $x=-2$ into $f(x)=x^{2}+3x+1$: $f(-2)=(-2)^{2}+3(-2)+1=4+(-6)+1=-1$.\n\nWhy C is incorrect:\n\nResults from computing $(-2)^{2}=4$ and $3(-2)=-6$ but forgetting to include the constant term $+1$, then making a sign error: $4-6=-2$, recorded as $3$.",
+  "explanation": "Substitute $x=-2$ into $f(x)=x^{2}+3x+1$: $f(-2)=(-2)^{2}+3(-2)+1=4+(-6)+1=-1$.\n\nWhy D is incorrect:\n\nResults from correctly computing $(-2)^{2}=4$ but treating $3(-2)$ as $3(2)=6$: $f(-2)=4+6+1=11$.",
   "source": "https://cooksat.com/practice?questionId=ef15bcff&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ef15bcff/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/ef15bcff/2-3c7002c910cebe0f.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/ef15bcff/3-9e4d7ae9247f3983.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/ef15bcff/4-436e0821f74cd9b6.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/ef15bcff/5-0f25fb33c5851a04.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/ef15bcff/6-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/ef15bcff/7-56fefb6176fe7daf.png"
+    }
+  ]
 }

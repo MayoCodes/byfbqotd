@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "4a09c949",
-  "capturedAt": "2026-11-09T21:08:51.427Z",
+  "capturedAt": "2026-11-09T23:48:50.924Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "g(t)=−0.45×(t−18)2+1240",
+  "prompt": "[Figure 1]\n\nA technician installed a solar panel and wanted to determine the tilt angle that produces the greatest energy output. The technician found that the function above models the energy output\n[Figure 2]\n, in watt-hours per day, as a function of the tilt angle of the panel\n[Figure 3]\n, in degrees. According to the model, what tilt angle, in degrees, gives the greatest energy output?",
   "choices": {
-    "A": "−0.45",
-    "B": "0.45",
-    "C": "18",
-    "D": "1,240"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. The function $g$ is quadratic, so it attains either a maximum or a minimum at the vertex of its graph. Since the coefficient of the quadratic term, $-0.45$, is negative, the vertex is a maximum. The equation $g(t) = -0.45(t - 18)^{2} + 1{,}240$ is written in vertex form, so the vertex occurs at $t = 18$. Therefore, a tilt angle of $18$ degrees gives the greatest energy output.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This is the maximum value of $g(t)$, in watt-hours per day, rather than the tilt angle $t$, in degrees, at which the maximum occurs.",
+  "explanation": "Choice C is correct. The function $g$ is quadratic, so it attains either a maximum or a minimum at the vertex of its graph. Since the coefficient of the quadratic term, $-0.45$, is negative, the vertex is a maximum. The equation $g(t) = -0.45(t - 18)^{2} + 1{,}240$ is written in vertex form, so the vertex occurs at $t = 18$. Therefore, a tilt angle of $18$ degrees gives the greatest energy output.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from taking the absolute value of the leading coefficient and misidentifying it as the vertex.",
   "source": "https://cooksat.com/practice?questionId=4a09c949&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4a09c949/1-fa4f0c59ec41c0b2.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/4a09c949/2-73e4725672a6abc0.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/4a09c949/3-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/4a09c949/4-3c521697d20efe1b.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/4a09c949/5-6840d4f48f8a9e03.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/4a09c949/6-d126f8f5b8501d4f.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/4a09c949/7-7238b094586665e2.png"
+    }
+  ]
 }

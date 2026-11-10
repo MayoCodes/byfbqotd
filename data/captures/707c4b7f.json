@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "707c4b7f",
-  "capturedAt": "2026-11-09T21:11:13.810Z",
+  "capturedAt": "2026-11-09T23:53:37.264Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,39 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The y-intercept of the graph of y=x2+47 in the xy-plane is (0,y). What is the value of y?",
+  "prompt": "The\n[Figure 1]\n-intercept of the graph of\n[Figure 2]\nin the xy-plane is\n[Figure 3]\n. What is the value of\n[Figure 4]\n?\n\n[Figure 5]\n\n[Figure 6]",
   "choices": {},
-  "correctAnswer": "47",
+  "correctAnswer": "[Figure 7]",
   "explanation": "The correct answer is $47$. It's given that the $y$-intercept of the graph of $y = x^{2} + 47$ in the xy-plane is $\\left(0, y\\right)$. Substituting $0$ for $x$ in the given equation yields $y = \\left(0\\right)^{2} + 47$, or $y = 47$. Thus, the value of $y$ is $47$.",
   "source": "https://cooksat.com/practice?questionId=707c4b7f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/707c4b7f/1-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/707c4b7f/2-c7221d9bbc90e0a8.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/707c4b7f/3-2669e0f92c054192.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/707c4b7f/4-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/707c4b7f/5-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/707c4b7f/6-969497c035ae9084.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/707c4b7f/7-b77090e077079448.png"
+    }
+  ]
 }

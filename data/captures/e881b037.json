@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "e881b037",
-  "capturedAt": "2026-11-09T21:18:14.411Z",
+  "capturedAt": "2026-11-10T00:07:08.206Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The number of views on an online video doubles every hour. There are 25,000 views on the video at the start of a tracking period. Which of the following represents the number of views, y, on the video h hours after the start of the tracking period?",
+  "prompt": "The number of views on an online video doubles every hour. There are\n[Figure 1]\nviews on the video at the start of a tracking period. Which of the following represents the number of views,\n[Figure 2]\n, on the video\n[Figure 3]\nhours after the start of the tracking period?",
   "choices": {
-    "A": "y=21​(25,000)h",
-    "B": "y=2(25,000)h",
-    "C": "y=25,000(21​)h",
-    "D": "y=25,000(2)h"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. Since the number of views doubles every hour, the relationship between $h$ and $y$ can be represented by an exponential equation of the form $y = a(b)^{h}$, where $a$ is the number of views at the start of the tracking period and the number of views increases by a factor of $b$ every hour. It's given that there are $25{,}000$ views at the start of the tracking period, so $a = 25{,}000$. It's also given that the number of views doubles, or increases by a factor of $2$, every hour, so $b = 2$. Substituting $25{,}000$ for $a$ and $2$ for $b$ in the equation $y = a(b)^{h}$ yields $y = 25{,}000(2)^{h}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from incorrectly placing the initial number of views as the base of the exponential expression and using $\\frac{1}{2}$ as the coefficient, rather than using $25{,}000$ as the coefficient and $2$ as the base.",
+  "explanation": "Choice D is correct. Since the number of views doubles every hour, the relationship between $h$ and $y$ can be represented by an exponential equation of the form $y = a(b)^{h}$, where $a$ is the number of views at the start of the tracking period and the number of views increases by a factor of $b$ every hour. It's given that there are $25{,}000$ views at the start of the tracking period, so $a = 25{,}000$. It's also given that the number of views doubles, or increases by a factor of $2$, every hour, so $b = 2$. Substituting $25{,}000$ for $a$ and $2$ for $b$ in the equation $y = a(b)^{h}$ yields $y = 25{,}000(2)^{h}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from incorrectly placing the initial number of views as the base of the exponential expression, rather than as the coefficient.",
   "source": "https://cooksat.com/practice?questionId=e881b037&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e881b037/1-7cf2ad8f061b694b.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/e881b037/2-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/e881b037/3-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/e881b037/4-7b714c47fc2df600.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/e881b037/5-8fb500a4b6ddaa6e.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/e881b037/6-0eb2c3e4312996f0.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/e881b037/7-85e19e5580e0e912.png"
+    }
+  ]
 }

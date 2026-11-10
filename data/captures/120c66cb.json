@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "120c66cb",
-  "capturedAt": "2026-11-09T21:05:21.291Z",
+  "capturedAt": "2026-11-09T23:24:35.734Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,48 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "g(x)=(x+5)×(x−2)×(3x−7)",
+  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nis defined above. Which of the following is NOT an\n[Figure 3]\n-intercept of the graph of the function in the\n[Figure 4]\n-plane?",
   "choices": {
-    "A": "(−5,0)",
-    "B": "(−37​,0)",
-    "C": "(2,0)",
-    "D": "(37​,0)"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. The graph of $g$ in the $xy$-plane has $x$-intercepts at points $(x, y)$ where $y = g(x) = 0$. Substituting $0$ for $g(x)$ in the given equation yields $0 = (x + 5) \\times (x - 2) \\times (3x - 7)$. By the zero product property, $x + 5 = 0$, $x - 2 = 0$, or $3x - 7 = 0$. Solving each linear equation gives $x = -5$, $x = 2$, and $x = \\frac{7}{3}$, respectively. Therefore, the graph of $g$ has three $x$-intercepts: $(-5, 0)$, $(2, 0)$, and $\\left(\\frac{7}{3}, 0\\right)$. The point $\\left(-\\frac{7}{3}, 0\\right)$ is not an $x$-intercept of the graph.\n\nAlternate approach: Substituting $-\\frac{7}{3}$ for $x$ and $0$ for $g(x)$ yields $0 = \\left(-\\frac{7}{3} + 5\\right) \\times \\left(-\\frac{7}{3} - 2\\right) \\times \\left(3 \\times \\left(-\\frac{7}{3}\\right) - 7\\right)$, or $0 = \\frac{1456}{9}$. Since this statement is false, $\\left(-\\frac{7}{3}, 0\\right)$ does not lie on the graph and is not an $x$-intercept.\n\nWhy D is incorrect:\n\nChoice D is incorrect because $\\left(\\frac{7}{3}, 0\\right)$ is an $x$-intercept of the graph of $g$. Substituting $\\frac{7}{3}$ for $x$ and $0$ for $g(x)$ yields $0 = \\left(\\frac{7}{3} + 5\\right) \\times \\left(\\frac{7}{3} - 2\\right) \\times \\left(3 \\times \\frac{7}{3} - 7\\right)$, or $0 = 0$. Since this is true, $\\left(\\frac{7}{3}, 0\\right)$ lies on the graph and is an $x$-intercept.",
+  "explanation": "Choice B is correct. The graph of $g$ in the $xy$-plane has $x$-intercepts at points $(x, y)$ where $y = g(x) = 0$. Substituting $0$ for $g(x)$ in the given equation yields $0 = (x + 5) \\times (x - 2) \\times (3x - 7)$. By the zero product property, $x + 5 = 0$, $x - 2 = 0$, or $3x - 7 = 0$. Solving each linear equation gives $x = -5$, $x = 2$, and $x = \\frac{7}{3}$, respectively. Therefore, the graph of $g$ has three $x$-intercepts: $(-5, 0)$, $(2, 0)$, and $\\left(\\frac{7}{3}, 0\\right)$. The point $\\left(-\\frac{7}{3}, 0\\right)$ is not an $x$-intercept of the graph.\n\nAlternate approach: Substituting $-\\frac{7}{3}$ for $x$ and $0$ for $g(x)$ yields $0 = \\left(-\\frac{7}{3} + 5\\right) \\times \\left(-\\frac{7}{3} - 2\\right) \\times \\left(3 \\times \\left(-\\frac{7}{3}\\right) - 7\\right)$, or $0 = \\frac{1456}{9}$. Since this statement is false, $\\left(-\\frac{7}{3}, 0\\right)$ does not lie on the graph and is not an $x$-intercept.\n\nWhy C is incorrect:\n\nChoice C is incorrect because $(2, 0)$ is an $x$-intercept of the graph of $g$. Substituting $2$ for $x$ and $0$ for $g(x)$ yields $0 = (2 + 5) \\times (2 - 2) \\times (3 \\times 2 - 7)$, or $0 = 0$. Since this is true, $(2, 0)$ lies on the graph and is an $x$-intercept.",
   "source": "https://cooksat.com/practice?questionId=120c66cb&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/120c66cb/1-00dff83722e30879.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/120c66cb/2-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/120c66cb/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/120c66cb/4-df1c87962ee41243.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/120c66cb/5-d327ae08af4e43b2.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/120c66cb/6-ca6966e0e9b7591b.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/120c66cb/7-edbde2768ae9da6f.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/120c66cb/8-3050b4e4f7e7cd16.png"
+    }
+  ]
 }

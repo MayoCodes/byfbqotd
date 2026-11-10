@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "d102d6c6",
-  "capturedAt": "2026-11-09T21:16:52.613Z",
+  "capturedAt": "2026-11-10T00:04:18.300Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,60 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "g(x)=12,000(0.82)x",
+  "prompt": "[Figure 1]\n\nA biologist is tracking a declining population of a certain bird species in a forest region. The given function estimates this bird species' population\n[Figure 2]\nyears after\n[Figure 3]\n, where\n[Figure 4]\n. Which of the following is the best interpretation of\n[Figure 5]\nin this context?",
   "choices": {
-    "A": "The estimated initial bird population for this species and region in 2015",
-    "B": "The estimated bird population for this species and region 6 years after 2015",
-    "C": "The estimated percent decrease in the bird population for this species and region each year after 2015",
-    "D": "The estimated percent decrease in the bird population for this species and region every 6 years after 2015"
+    "A": "The estimated initial bird population for this species and region in\n[Figure 6]",
+    "B": "The estimated bird population for this species and region\n[Figure 7]\nyears after\n[Figure 8]",
+    "C": "The estimated percent decrease in the bird population for this species and region each year after\n[Figure 9]",
+    "D": "The estimated percent decrease in the bird population for this species and region every\n[Figure 10]\nyears after\n[Figure 11]"
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. For an exponential function in the form $g(x) = a(b)^{x}$, where $a$ and $b$ are positive constants and $b < 1$, the initial value of $g(x)$, or the value of $g(x)$ when $x = 0$, is $a$, and the value of $g(x)$ decreases by $100(1 - b)\\%$ each time $x$ increases by $1$. Therefore, the initial value of the function $g(x) = 12{,}000(0.82)^{x}$, or the value of $g(x)$ when $x = 0$, is $12{,}000$. Thus, the best interpretation of $12{,}000$ in this context is the estimated initial bird population for this species and region in $2015$.",
   "source": "https://cooksat.com/practice?questionId=d102d6c6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d102d6c6/1-864bfc4da8dc99c7.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/d102d6c6/2-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/d102d6c6/3-04765d4440c7f060.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/d102d6c6/4-aab3e1c6c92d80cc.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/d102d6c6/5-8e629efd9cc6ab34.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/d102d6c6/6-26ee943126f96a9d.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/d102d6c6/7-29603e33b822ff16.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/d102d6c6/8-26ee943126f96a9d.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/d102d6c6/9-26ee943126f96a9d.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/d102d6c6/10-29603e33b822ff16.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/d102d6c6/11-26ee943126f96a9d.png"
+    }
+  ]
 }

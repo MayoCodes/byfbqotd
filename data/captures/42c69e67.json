@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "42c69e67",
-  "capturedAt": "2026-11-09T21:08:34.915Z",
+  "capturedAt": "2026-11-09T23:48:24.061Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,72 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A sum of $7,500 was invested in a savings bond that earns interest, and no other deposits or withdrawals were made afterward. The function g(x)=7,500(1+0.03)x gives the value of the bond, in dollars, x years after the investment was initially made, where x≤8. Which of the following is the best interpretation of the statement \"g(4) is approximately equal to 8,441.32\" in this context?",
+  "prompt": "A sum of $\n[Figure 1]\nwas invested in a savings bond that earns interest, and no other deposits or withdrawals were made afterward. The function\n[Figure 2]\ngives the value of the bond, in dollars,\n[Figure 3]\nyears after the investment was initially made, where\n[Figure 4]\n. Which of the following is the best interpretation of the statement \"\n[Figure 5]\nis approximately equal to\n[Figure 6]\n\" in this context?",
   "choices": {
-    "A": "The value of the bond would be approximately $8,441.32 if invested at 3% interest.",
-    "B": "8,441.32 months after the investment was made, the value of the bond was approximately 4 times its initial value.",
-    "C": "4 years after the investment was made, the value of the bond was approximately $8,441.32 greater than its initial value.",
-    "D": "4 years after the investment was made, the value of the bond was approximately $8,441.32."
+    "A": "The value of the bond would be approximately $\n[Figure 7]\nif invested at\n[Figure 8]\ninterest.",
+    "B": "[Figure 9]\nmonths after the investment was made, the value of the bond was approximately\n[Figure 10]\ntimes its initial value.",
+    "C": "[Figure 11]\nyears after the investment was made, the value of the bond was approximately $\n[Figure 12]\ngreater than its initial value.",
+    "D": "[Figure 13]\nyears after the investment was made, the value of the bond was approximately $\n[Figure 14]\n."
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. The function $g(x) = 7{,}500(1 + 0.03)^{x}$ gives the value of the bond, in dollars, $x$ years after the investment was initially made. The value of $g(4)$ is the value of $g(x)$ when $x = 4$. Therefore, \"$g(4)$ is approximately equal to $8{,}441.32$\" means that when $x = 4$, the value of $g(x)$ is approximately $8{,}441.32$. Since $x$ represents the number of years after the investment was made, $x = 4$ corresponds to $4$ years after the investment was made. Thus, the best interpretation is that $4$ years after the investment was made, the value of the bond was approximately $$8{,}441.32$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from interpreting $8{,}441.32$ as the increase in value rather than the total value. Since the initial investment was $$7{,}500$, the bond increased by approximately $$941.32$ after $4$ years (the difference between $8{,}441.32$ and $7{,}500$), not by $$8{,}441.32$.",
+  "explanation": "Choice D is correct. The function $g(x) = 7{,}500(1 + 0.03)^{x}$ gives the value of the bond, in dollars, $x$ years after the investment was initially made. The value of $g(4)$ is the value of $g(x)$ when $x = 4$. Therefore, \"$g(4)$ is approximately equal to $8{,}441.32$\" means that when $x = 4$, the value of $g(x)$ is approximately $8{,}441.32$. Since $x$ represents the number of years after the investment was made, $x = 4$ corresponds to $4$ years after the investment was made. Thus, the best interpretation is that $4$ years after the investment was made, the value of the bond was approximately $$8{,}441.32$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from multiple errors: confusing the unit of time (the function uses years, not months), swapping the roles of input and output (treating $4$ as an output multiplier rather than the input time), and misinterpreting what $g(4) = 8{,}441.32$ represents. The value $8{,}441.32$ is the total value of the bond, not a time measurement.",
   "source": "https://cooksat.com/practice?questionId=42c69e67&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/42c69e67/1-76e1e55d446f2b77.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/42c69e67/2-01edcde002a81495.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/42c69e67/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/42c69e67/4-69f497a10d8a4dd3.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/42c69e67/5-3f4089d0e4152118.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/42c69e67/6-ad7ed1c2d8fce646.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/42c69e67/7-e1b32964eb914df1.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/42c69e67/8-b2bdf3d926b8c65f.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/42c69e67/9-e1b32964eb914df1.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/42c69e67/10-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/42c69e67/11-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/42c69e67/12-e1b32964eb914df1.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/42c69e67/13-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 14",
+      "path": "data/capture-assets/42c69e67/14-e1b32964eb914df1.png"
+    }
+  ]
 }

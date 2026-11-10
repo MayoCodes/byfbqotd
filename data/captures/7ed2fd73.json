@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "7ed2fd73",
-  "capturedAt": "2026-11-09T21:12:12.252Z",
+  "capturedAt": "2026-11-09T23:55:17.262Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,47 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The graph of the polynomial function g, where y=g(x), is shown. The y-intercept of the graph is (0,y). What is the value of y?",
+  "prompt": "[Figure 1]\n\nThe graph of the polynomial function\n[Figure 2]\n, where\n[Figure 3]\n, is shown. The\n[Figure 4]\n-intercept of the graph is\n[Figure 5]\n. What is the value of\n[Figure 6]\n?\n\n[Figure 7]\n\n[Figure 8]",
   "choices": {},
-  "correctAnswer": "3",
+  "correctAnswer": "[Figure 9]",
   "explanation": "The correct answer is $3$. The $y$-intercept of a graph in the xy-plane is the point where the graph crosses the $y$-axis. The graph of the polynomial function shown crosses the $y$-axis at the point $(0, 3)$. It's given that the $y$-intercept of the graph is $(0, y)$. Thus, the value of $y$ is $3$.",
   "source": "https://cooksat.com/practice?questionId=7ed2fd73&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/7ed2fd73/1-f4a5609df46c222b.png"
+      "path": "data/capture-assets/7ed2fd73/1-40d1028443ce6024.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/7ed2fd73/2-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/7ed2fd73/3-a370960d94a8b7e2.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/7ed2fd73/4-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/7ed2fd73/5-2669e0f92c054192.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/7ed2fd73/6-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/7ed2fd73/7-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/7ed2fd73/8-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/7ed2fd73/9-801acd2baccfa8c7.png"
     }
   ]
 }

@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "537305fd",
-  "capturedAt": "2026-11-09T21:09:37.668Z",
+  "capturedAt": "2026-11-09T23:50:26.702Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,47 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The graph of the exponential function g is shown, where y=g(x). The y-intercept of the graph is (0,y). What is the value of y?",
+  "prompt": "[Figure 1]\n\nThe graph of the exponential function\n[Figure 2]\nis shown, where\n[Figure 3]\n. The\n[Figure 4]\n-intercept of the graph is\n[Figure 5]\n. What is the value of\n[Figure 6]\n?\n\n[Figure 7]\n\n[Figure 8]",
   "choices": {},
-  "correctAnswer": "7",
+  "correctAnswer": "[Figure 9]",
   "explanation": "The correct answer is $7$. The $y$-intercept of the graph of a function in the xy-plane is the point where the graph crosses the $y$-axis, which occurs where $x = 0$. The graph of the exponential function shown crosses the $y$-axis at the point $(0, 7)$. It's given that the $y$-intercept of the graph is $(0, y)$. Thus, the value of $y$ is $7$.",
   "source": "https://cooksat.com/practice?questionId=537305fd&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/537305fd/1-381a14f852b9d250.png"
+      "path": "data/capture-assets/537305fd/1-9e50625600a8a7ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/537305fd/2-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/537305fd/3-a370960d94a8b7e2.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/537305fd/4-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/537305fd/5-2669e0f92c054192.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/537305fd/6-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/537305fd/7-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/537305fd/8-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/537305fd/9-c9aa07dd312e4934.png"
     }
   ]
 }

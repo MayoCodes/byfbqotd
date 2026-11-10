@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "648302b0",
-  "capturedAt": "2026-11-09T21:10:39.826Z",
+  "capturedAt": "2026-11-09T23:52:31.465Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,60 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The height, in feet, of a ball t seconds after it is launched straight up in the air can be modeled by the function g(t)=−16t2+24t+6. Based on the model, which of the following statements best interprets the equation g(0.5)=14?",
+  "prompt": "The height, in feet, of a ball\n[Figure 1]\nseconds after it is launched straight up in the air can be modeled by the function\n[Figure 2]\n. Based on the model, which of the following statements best interprets the equation\n[Figure 3]\n?",
   "choices": {
-    "A": "The height of the ball 0.5 seconds after being launched straight up in the air is 14 feet.",
-    "B": "The height of the ball 14 seconds after being launched straight up in the air is 0.5 feet.",
-    "C": "The height of the ball 14 seconds after being launched straight up in the air is approximately 0.5 times as great as its initial height.",
-    "D": "The speed of the ball 0.5 seconds after being launched straight up in the air is approximately 14 feet per second."
+    "A": "The height of the ball\n[Figure 4]\nseconds after being launched straight up in the air is\n[Figure 5]\nfeet.",
+    "B": "The height of the ball\n[Figure 6]\nseconds after being launched straight up in the air is\n[Figure 7]\nfeet.",
+    "C": "The height of the ball\n[Figure 8]\nseconds after being launched straight up in the air is approximately\n[Figure 9]\ntimes as great as its initial height.",
+    "D": "The speed of the ball\n[Figure 10]\nseconds after being launched straight up in the air is approximately\n[Figure 11]\nfeet per second."
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. The value $0.5$ is the value of $t$, which represents the number of seconds after the ball was launched straight up in the air. When the function $g$ is evaluated for $t = 0.5$, the function has a value of $14$, which is the height, in feet, of the ball.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from misidentifying height as speed.",
+  "explanation": "Choice A is correct. The value $0.5$ is the value of $t$, which represents the number of seconds after the ball was launched straight up in the air. When the function $g$ is evaluated for $t = 0.5$, the function has a value of $14$, which is the height, in feet, of the ball.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from misidentifying seconds as feet and feet as seconds.",
   "source": "https://cooksat.com/practice?questionId=648302b0&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/648302b0/1-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/648302b0/2-1544c15d078689c3.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/648302b0/3-f03b4410630cd69f.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/648302b0/4-984080f6e07a128a.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/648302b0/5-9888925528800215.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/648302b0/6-9888925528800215.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/648302b0/7-984080f6e07a128a.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/648302b0/8-9888925528800215.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/648302b0/9-984080f6e07a128a.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/648302b0/10-984080f6e07a128a.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/648302b0/11-9888925528800215.png"
+    }
+  ]
 }

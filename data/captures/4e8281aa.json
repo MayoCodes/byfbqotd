@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "4e8281aa",
-  "capturedAt": "2026-11-09T21:09:07.339Z",
+  "capturedAt": "2026-11-09T23:49:22.494Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,68 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "h(x)=xb−23​+8",
+  "prompt": "[Figure 1]\n\nIn the given function\n[Figure 2]\n,\n[Figure 3]\nis a constant. The graph of function\n[Figure 4]\nin the xy-plane, where\n[Figure 5]\n, is translated\n[Figure 6]\nunits down and\n[Figure 7]\nunits to the right to produce the graph of\n[Figure 8]\n. Which equation defines function\n[Figure 9]\n?",
   "choices": {
-    "A": "r(x)=x+6b−23​+3",
-    "B": "r(x)=x−6b−23​+3",
-    "C": "r(x)=x+6b−28​+8",
-    "D": "r(x)=x−6b−28​+8"
+    "A": "[Figure 10]",
+    "B": "[Figure 11]",
+    "C": "[Figure 12]",
+    "D": "[Figure 13]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. It's given that the graph of $y = r(x)$ is produced by translating the graph of $y = h(x)$ $5$ units down and $6$ units to the right in the xy-plane. Therefore, function $r$ can be defined by $r(x) = h(x - 6) - 5$. Function $h$ is defined by $h(x) = \\frac{b - 23}{x} + 8$, where $b$ is a constant. Substituting $x - 6$ for $x$ yields $h(x - 6) = \\frac{b - 23}{x - 6} + 8$. Substituting this into $r(x) = h(x - 6) - 5$ gives $r(x) = \\frac{b - 23}{x - 6} + 8 - 5$, or $r(x) = \\frac{b - 23}{x - 6} + 3$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This equation defines a function whose graph is produced by translating the graph of $y = h(x)$ $5$ units down and $6$ units to the left, not $5$ units down and $6$ units to the right.",
+  "explanation": "Choice B is correct. It's given that the graph of $y = r(x)$ is produced by translating the graph of $y = h(x)$ $5$ units down and $6$ units to the right in the xy-plane. Therefore, function $r$ can be defined by $r(x) = h(x - 6) - 5$. Function $h$ is defined by $h(x) = \\frac{b - 23}{x} + 8$, where $b$ is a constant. Substituting $x - 6$ for $x$ yields $h(x - 6) = \\frac{b - 23}{x - 6} + 8$. Substituting this into $r(x) = h(x - 6) - 5$ gives $r(x) = \\frac{b - 23}{x - 6} + 8 - 5$, or $r(x) = \\frac{b - 23}{x - 6} + 3$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This equation applies the vertical shift to the numerator instead of to the additive constant. The numerator $b - 23$ is unchanged by translation; only the constant $8$ should decrease by $5$ to become $3$.",
   "source": "https://cooksat.com/practice?questionId=4e8281aa&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4e8281aa/1-4967394045ef81cb.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/4e8281aa/2-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/4e8281aa/3-4be9145fc6402fea.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/4e8281aa/4-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/4e8281aa/5-d7529629e07e1131.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/4e8281aa/6-eac95c34531acecd.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/4e8281aa/7-73f0663bf1846604.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/4e8281aa/8-987e09aa9a156e99.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/4e8281aa/9-adab81c4e24d47ac.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/4e8281aa/10-a1195bf508b5c2a3.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/4e8281aa/11-e1f02373f01175ad.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/4e8281aa/12-893e3712ecf97de0.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/4e8281aa/13-a1c24552b271407e.png"
+    }
+  ]
 }

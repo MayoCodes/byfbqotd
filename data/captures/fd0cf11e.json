@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "fd0cf11e",
-  "capturedAt": "2026-11-09T21:19:22.072Z",
+  "capturedAt": "2026-11-10T00:09:18.168Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "What is the y-intercept of y=−(7)x−56 in the xy-plane?",
+  "prompt": "What is the\n[Figure 1]\n-intercept of\n[Figure 2]\nin the\n[Figure 3]\n-plane?",
   "choices": {
-    "A": "(0,−63)",
-    "B": "(0,−57)",
-    "C": "(0,−56)",
-    "D": "(0,−55)"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. The $y$-intercept of a graph in the $xy$-plane is the point where the graph crosses the $y$-axis, which occurs when $x = 0$. Substituting $0$ for $x$ in the equation $y = -(7)^x - 56$ yields $y = -(7)^{0} - 56 = -1 - 56 = -57$. Therefore, the $y$-intercept is $(0, -57)$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from incorrectly evaluating $-(7)^{0}$ as $-7$ instead of $-1$, which would give $-7 - 56 = -63$.",
+  "explanation": "Choice B is correct. The $y$-intercept of a graph in the $xy$-plane is the point where the graph crosses the $y$-axis, which occurs when $x = 0$. Substituting $0$ for $x$ in the equation $y = -(7)^x - 56$ yields $y = -(7)^{0} - 56 = -1 - 56 = -57$. Therefore, the $y$-intercept is $(0, -57)$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from treating the entire expression $-(7)^{x}$ as $0$ when $x = 0$, leaving only the constant term $-56$.",
   "source": "https://cooksat.com/practice?questionId=fd0cf11e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/fd0cf11e/1-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/fd0cf11e/2-995774f0d2588692.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/fd0cf11e/3-df1c87962ee41243.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/fd0cf11e/4-9cbaf0e8072bb3c7.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/fd0cf11e/5-67fd27734099c12c.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/fd0cf11e/6-1a908bb57c5bf4d5.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/fd0cf11e/7-b8602f090821b78b.png"
+    }
+  ]
 }

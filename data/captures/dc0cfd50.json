@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "dc0cfd50",
-  "capturedAt": "2026-11-09T21:17:29.136Z",
+  "capturedAt": "2026-11-10T00:05:46.247Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,64 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=ax2−k, where a and k are constants. The graph of y=f(x) in the xy-plane has its vertex at (0,−8) and passes through the point (2,−32). What is the value of a?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nand\n[Figure 4]\nare constants. The graph of\n[Figure 5]\nin the xy-plane has its vertex at\n[Figure 6]\nand passes through the point\n[Figure 7]\n. What is the value of\n[Figure 8]\n?",
   "choices": {
-    "A": "−10",
-    "B": "−6",
-    "C": "−4",
-    "D": "10"
+    "A": "[Figure 9]",
+    "B": "[Figure 10]",
+    "C": "[Figure 11]",
+    "D": "[Figure 12]"
   },
   "correctAnswer": "B",
-  "explanation": "Since the vertex is at $(0,-8)$, we have $f(0) = -8$. Substituting into $f(x) = ax^2 - k$ gives $-k = -8$, so $k = 8$. Thus $f(x) = ax^2 - 8$. Since the graph passes through $(2,-32)$, we have $4a - 8 = -32$, so $4a = -24$, giving $a = -6$.\n\nWhy D is incorrect:\n\nResults from a sign error with the point's y-coordinate. Using $4a - 8 = 32$ instead of $4a - 8 = -32$ gives $4a = 40$, leading to $a = 10$.",
+  "explanation": "Since the vertex is at $(0,-8)$, we have $f(0) = -8$. Substituting into $f(x) = ax^2 - k$ gives $-k = -8$, so $k = 8$. Thus $f(x) = ax^2 - 8$. Since the graph passes through $(2,-32)$, we have $4a - 8 = -32$, so $4a = -24$, giving $a = -6$.\n\nWhy C is incorrect:\n\nResults from an arithmetic error when solving $4a - 8 = -32$. Incorrectly calculating $-32 + 8 = -16$ instead of $-24$ gives $4a = -16$, leading to $a = -4$.",
   "source": "https://cooksat.com/practice?questionId=dc0cfd50&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/dc0cfd50/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/dc0cfd50/2-23bd2185fea68f7a.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/dc0cfd50/3-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/dc0cfd50/4-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/dc0cfd50/5-8dfb98eeaa92843f.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/dc0cfd50/6-77ac97007a6df356.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/dc0cfd50/7-900c1df656d0026a.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/dc0cfd50/8-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/dc0cfd50/9-12ca838a1867652e.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/dc0cfd50/10-a0aadc6b8036f016.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/dc0cfd50/11-75cefb79be0e251b.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/dc0cfd50/12-5dbe0cb8cacd5d34.png"
+    }
+  ]
 }

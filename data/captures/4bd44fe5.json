@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "4bd44fe5",
-  "capturedAt": "2026-11-09T21:08:54.248Z",
+  "capturedAt": "2026-11-09T23:48:56.077Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=x2−3x. What is the value of f(5)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
   "choices": {
-    "A": "−10",
-    "B": "10",
-    "C": "20",
-    "D": "40"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "B",
-  "explanation": "Substituting $5$ for $x$ in the equation $f(x) = x^2 - 3x$ yields $f(5) = 5^2 - 3(5) = 25 - 15 = 10$.\n\nWhy A is incorrect:\n\nThis results from calculating $3(5) - 5^2 = 15 - 25 = -10$, reversing the order of the subtraction.",
+  "explanation": "Substituting $5$ for $x$ in the equation $f(x) = x^2 - 3x$ yields $f(5) = 5^2 - 3(5) = 25 - 15 = 10$.",
   "source": "https://cooksat.com/practice?questionId=4bd44fe5&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4bd44fe5/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/4bd44fe5/2-6cc4d4bf1626bfae.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/4bd44fe5/3-6d93cc1ec8a0c194.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/4bd44fe5/4-12ca838a1867652e.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/4bd44fe5/5-5dbe0cb8cacd5d34.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/4bd44fe5/6-12028fd4d7919682.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/4bd44fe5/7-fd892454bef6f9f0.png"
+    }
+  ]
 }

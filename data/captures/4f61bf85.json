@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "4f61bf85",
-  "capturedAt": "2026-11-09T21:09:16.540Z",
+  "capturedAt": "2026-11-09T23:49:46.472Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,48 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A theater sells monthly subscriptions. The theater's monthly revenue from subscription sales can be modeled by the equation y=−50x2+900x+5,000, where x represents the increase in subscription price, in dollars, and y represents the revenue, in dollars, from subscription sales. If this equation is graphed in the xy-plane, at what value of x is the maximum of the graph?",
+  "prompt": "A theater sells monthly subscriptions. The theater's monthly revenue from subscription sales can be modeled by the equation\n[Figure 1]\n, where\n[Figure 2]\nrepresents the increase in subscription price, in dollars, and\n[Figure 3]\nrepresents the revenue, in dollars, from subscription sales. If this equation is graphed in the xy-plane, at what value of\n[Figure 4]\nis the maximum of the graph?",
   "choices": {
-    "A": "5",
-    "B": "9",
-    "C": "18",
-    "D": "50"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. The graph of $y = -50x^{2} + 900x + 5{,}000$ is a downward-opening parabola, so its maximum occurs at the vertex. The $x$-coordinate of the vertex is $x = -\\frac{b}{2a} = -\\frac{900}{2(-50)} = 9$. Therefore the maximum of the graph occurs at $x = 9$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is $-\\frac{b}{a} = \\frac{900}{50}$, which omits the factor of $2$ in the vertex formula. It is the $x$-intercept-style value $2 \\times 9$, not the location of the maximum.",
+  "explanation": "Choice B is correct. The graph of $y = -50x^{2} + 900x + 5{,}000$ is a downward-opening parabola, so its maximum occurs at the vertex. The $x$-coordinate of the vertex is $x = -\\frac{b}{2a} = -\\frac{900}{2(-50)} = 9$. Therefore the maximum of the graph occurs at $x = 9$.",
   "source": "https://cooksat.com/practice?questionId=4f61bf85&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4f61bf85/1-766db2bd32cfbf36.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/4f61bf85/2-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/4f61bf85/3-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/4f61bf85/4-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/4f61bf85/5-8fc3cfb4a4e6f37e.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/4f61bf85/6-42e42729df9aea5a.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/4f61bf85/7-d126f8f5b8501d4f.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/4f61bf85/8-66f6b3799ed27ad5.png"
+    }
+  ]
 }

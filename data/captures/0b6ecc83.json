@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "0b6ecc83",
-  "capturedAt": "2026-11-09T21:04:44.313Z",
+  "capturedAt": "2026-11-09T23:22:35.510Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "h(x)=4(k(x))−3\n\nk(x)=∣11x−7∣",
+  "prompt": "[Figure 1]\n\n[Figure 2]\n\nThe functions\n[Figure 3]\nand\n[Figure 4]\nare defined by the given equations. What is the value of\n[Figure 5]\n?",
   "choices": {
-    "A": "−35",
-    "B": "95",
-    "C": "368",
-    "D": "377"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. The value of $h(-8)$ can be found by first evaluating $k(-8)$ and then substituting that result into the function $h$. Substituting $-8$ for $x$ in the given equation $k(x) = |11x - 7|$ yields $k(-8) = |11(-8) - 7|$, which is equivalent to $k(-8) = |-88 - 7|$, or $k(-8) = |-95|$. By the definition of absolute value, $|-95| = 95$, so $k(-8) = 95$. Substituting $95$ for $k(x)$ in the equation $h(x) = 4(k(x)) - 3$ yields $h(-8) = 4(95) - 3$, which is equivalent to $h(-8) = 380 - 3$, or $h(-8) = 377$. Therefore, the value of $h(-8)$ is $377$.",
   "source": "https://cooksat.com/practice?questionId=0b6ecc83&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0b6ecc83/1-1d23a6d2d3bf1ef0.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/0b6ecc83/2-81bd82aca1fa224e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/0b6ecc83/3-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/0b6ecc83/4-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/0b6ecc83/5-c72e440a53b05c53.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/0b6ecc83/6-9e08260b06c8bd26.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/0b6ecc83/7-12e134cfbb185aea.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/0b6ecc83/8-1c817bc03e63da06.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/0b6ecc83/9-b2b267892be82170.png"
+    }
+  ]
 }

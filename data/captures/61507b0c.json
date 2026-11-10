@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "61507b0c",
-  "capturedAt": "2026-11-09T21:10:30.393Z",
+  "capturedAt": "2026-11-09T23:52:13.070Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,68 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A podcast began in March 2020 with 2,400 listeners. For each of the next 18 months after March 2020, the total number of listeners to the podcast was 4% greater than the total number of listeners in the previous month. Which equation gives the total number of listeners, n, to the podcast w months after March 2020, where w≤18?",
+  "prompt": "A podcast began in March\n[Figure 1]\nwith\n[Figure 2]\nlisteners. For each of the next\n[Figure 3]\nmonths after March\n[Figure 4]\n, the total number of listeners to the podcast was\n[Figure 5]\ngreater than the total number of listeners in the previous month. Which equation gives the total number of listeners,\n[Figure 6]\n, to the podcast\n[Figure 7]\nmonths after March\n[Figure 8]\n, where\n[Figure 9]\n?",
   "choices": {
-    "A": "n=2,400(0.04)w",
-    "B": "n=2,400(1.04)w",
-    "C": "n=2,400(1.4)w",
-    "D": "n=2,400(4)w"
+    "A": "[Figure 10]",
+    "B": "[Figure 11]",
+    "C": "[Figure 12]",
+    "D": "[Figure 13]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. It's given that in March $2020$, there were $2{,}400$ listeners to a podcast and for each of the next $18$ months after March $2020$, the total number of listeners each month was $4\\%$ greater than the total number of listeners in the previous month. This situation can be represented by the equation $n = a\\left(1 + \\frac{r}{100}\\right)^{w}$, where $n$ is the total number of listeners $w$ months after March $2020$, $a$ is the number of listeners in March $2020$, and the total number of listeners each month was $r\\%$ greater than the total number of listeners in the previous month. Substituting $2{,}400$ for $a$ and $4$ for $r$ in this equation yields $n = 2{,}400\\left(1 + \\frac{4}{100}\\right)^{w}$, or $n = 2{,}400\\left(1.04\\right)^{w}$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This equation represents a situation where the total number of listeners each month was $40\\%$, not $4\\%$, greater than the total number of listeners in the previous month.",
+  "explanation": "Choice B is correct. It's given that in March $2020$, there were $2{,}400$ listeners to a podcast and for each of the next $18$ months after March $2020$, the total number of listeners each month was $4\\%$ greater than the total number of listeners in the previous month. This situation can be represented by the equation $n = a\\left(1 + \\frac{r}{100}\\right)^{w}$, where $n$ is the total number of listeners $w$ months after March $2020$, $a$ is the number of listeners in March $2020$, and the total number of listeners each month was $r\\%$ greater than the total number of listeners in the previous month. Substituting $2{,}400$ for $a$ and $4$ for $r$ in this equation yields $n = 2{,}400\\left(1 + \\frac{4}{100}\\right)^{w}$, or $n = 2{,}400\\left(1.04\\right)^{w}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This equation represents a situation where the total number of listeners each month was $96\\%$ less, not $4\\%$ greater, than the total number of listeners in the previous month.",
   "source": "https://cooksat.com/practice?questionId=61507b0c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/61507b0c/1-44ca1b6304959ad1.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/61507b0c/2-e46c4d9627b559e0.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/61507b0c/3-d9903bbb7f08759f.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/61507b0c/4-44ca1b6304959ad1.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/61507b0c/5-f9f7f94cc860a596.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/61507b0c/6-0b8fcb4e6453fcf0.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/61507b0c/7-5be1746c6339c76d.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/61507b0c/8-44ca1b6304959ad1.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/61507b0c/9-531c299508cb9d4d.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/61507b0c/10-0921a9143b0ba54a.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/61507b0c/11-0ced02f271610327.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/61507b0c/12-b8a4d8a6717597da.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/61507b0c/13-8fc71e1401bf9a9a.png"
+    }
+  ]
 }

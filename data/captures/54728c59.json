@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "54728c59",
-  "capturedAt": "2026-11-09T21:09:48.684Z",
+  "capturedAt": "2026-11-09T23:50:48.790Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,60 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=ax3+bx, where a and b are constants. If f(2)=16 and f(3)=54, what is the value of a?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nand\n[Figure 4]\nare constants. If\n[Figure 5]\nand\n[Figure 6]\n, what is the value of\n[Figure 7]\n?",
   "choices": {
-    "A": "1",
-    "B": "2",
-    "C": "3",
-    "D": "4"
+    "A": "[Figure 8]",
+    "B": "[Figure 9]",
+    "C": "[Figure 10]",
+    "D": "[Figure 11]"
   },
   "correctAnswer": "B",
-  "explanation": "Since $f(x)=ax^3+bx$, we have $f(2)=8a+2b=16$ and $f(3)=27a+3b=54$. Simplifying the first equation by dividing by 2 gives $4a+b=8$. Simplifying the second by dividing by 3 gives $9a+b=18$. Subtracting the first from the second: $(9a+b)-(4a+b)=18-8$, which gives $5a=10$, so $a=2$.\n\nWhy D is incorrect:\n\nThis results from confusing the coefficient $4$ in the simplified equation $4a+b=8$ with the value of $a$ itself.",
+  "explanation": "Since $f(x)=ax^3+bx$, we have $f(2)=8a+2b=16$ and $f(3)=27a+3b=54$. Simplifying the first equation by dividing by 2 gives $4a+b=8$. Simplifying the second by dividing by 3 gives $9a+b=18$. Subtracting the first from the second: $(9a+b)-(4a+b)=18-8$, which gives $5a=10$, so $a=2$.\n\nWhy A is incorrect:\n\nThis results from using only one condition and making an incorrect assumption about the value of $b$, then solving incompletely.",
   "source": "https://cooksat.com/practice?questionId=54728c59&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/54728c59/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/54728c59/2-05998d5eeca5068c.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/54728c59/3-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/54728c59/4-4be9145fc6402fea.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/54728c59/5-43baf64a09031d6d.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/54728c59/6-d165b195ed3ae26d.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/54728c59/7-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/54728c59/8-0c32e2bcf21ebd61.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/54728c59/9-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/54728c59/10-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/54728c59/11-fcf7d75cfc7ff09c.png"
+    }
+  ]
 }

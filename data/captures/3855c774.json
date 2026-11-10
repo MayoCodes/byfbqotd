@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "3855c774",
-  "capturedAt": "2026-11-09T21:07:52.097Z",
+  "capturedAt": "2026-11-09T23:47:01.840Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,48 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "f(x)=3x2+24x+55",
+  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nis defined by\n[Figure 3]\n. What is the minimum value of\n[Figure 4]\n?",
   "choices": {
-    "A": "−9",
-    "B": "−4",
-    "C": "7",
-    "D": "19"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. The function $f(x) = 3x^{2} + 24x + 55$ is a quadratic with a positive leading coefficient, so it has a minimum value at its vertex. The $x$-coordinate of the vertex of a quadratic in the form $ax^{2} + bx + c$ is $-\\frac{b}{2a}$, which gives $x = -\\frac{24}{2(3)} = -4$. The minimum value of $f$ is therefore $f(-4) = 3(-4)^{2} + 24(-4) + 55 = 48 - 96 + 55 = 7$. It's given that $h(x) = f(x + 5)$, which represents a horizontal shift of the graph of $f$ to the left by $5$ units. Horizontal shifts do not change the minimum or maximum values of a function; they only change the $x$-coordinate where these values occur. Therefore, the minimum value of $h(x)$ is the same as the minimum value of $f(x)$, which is $7$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from finding the $x$-coordinate at which $f(x)$ achieves its minimum value instead of finding the minimum value of $h(x)$. The function $f(x)$ has its minimum at $x = -4$, but this is not the minimum value of either function.",
+  "explanation": "Choice C is correct. The function $f(x) = 3x^{2} + 24x + 55$ is a quadratic with a positive leading coefficient, so it has a minimum value at its vertex. The $x$-coordinate of the vertex of a quadratic in the form $ax^{2} + bx + c$ is $-\\frac{b}{2a}$, which gives $x = -\\frac{24}{2(3)} = -4$. The minimum value of $f$ is therefore $f(-4) = 3(-4)^{2} + 24(-4) + 55 = 48 - 96 + 55 = 7$. It's given that $h(x) = f(x + 5)$, which represents a horizontal shift of the graph of $f$ to the left by $5$ units. Horizontal shifts do not change the minimum or maximum values of a function; they only change the $x$-coordinate where these values occur. Therefore, the minimum value of $h(x)$ is the same as the minimum value of $f(x)$, which is $7$.",
   "source": "https://cooksat.com/practice?questionId=3855c774&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3855c774/1-7e0e71325e5fff7a.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/3855c774/2-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/3855c774/3-d54927782a28a408.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/3855c774/4-0eb1b7dfc7aa423d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/3855c774/5-436e0821f74cd9b6.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/3855c774/6-75cefb79be0e251b.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/3855c774/7-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/3855c774/8-0e70a23407b1aa5d.png"
+    }
+  ]
 }

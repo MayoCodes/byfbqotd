@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "a0a71bb4",
-  "capturedAt": "2026-11-09T21:14:18.111Z",
+  "capturedAt": "2026-11-09T23:59:09.759Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,7 +10,7 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=a(4x+4b), where a and b are integer constants and 0<a<b. The functions g and h, shown below, are equivalent to f, where c and d are constants.\n\nI. g(x)=a(4x+c)\n\nII. h(x)=a(4)x+d\n\nWhich function displays the y-coordinate of the y-intercept of f as a constant or coefficient?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nand\n[Figure 4]\nare integer constants and\n[Figure 5]\n. The functions\n[Figure 6]\nand\n[Figure 7]\n, shown below, are equivalent to\n[Figure 8]\n, where\n[Figure 9]\nand\n[Figure 10]\nare constants.\n\n[Figure 11]\n\n[Figure 12]\n\nWhich function displays the\n[Figure 13]\n-coordinate of the\n[Figure 14]\n-intercept of\n[Figure 15]\nas a constant or coefficient?",
   "choices": {
     "A": "I only",
     "B": "II only",
@@ -17,7 +18,68 @@
     "D": "Neither I nor II"
   },
   "correctAnswer": "D",
-  "explanation": "The $y$-coordinate of the $y$-intercept of $f$ is $f(0) = a(4^0 + 4^b) = a(1 + 4^b) = a + a \\cdot 4^b$. For $g$, equivalence requires $c = 4^b$. The constants in $g$ are $a$ and $c = 4^b$, neither of which equals $a + a \\cdot 4^b$. For $h$, equivalence requires $d = a \\cdot 4^b$. The constants in $h$ are $a$ and $d = a \\cdot 4^b$, neither of which equals $a + a \\cdot 4^b$. Neither function displays the $y$-coordinate of the $y$-intercept as a constant or coefficient.\n\nWhy C is incorrect:\n\nThis results from incorrectly identifying both $c$ and $d$ as the $y$-coordinate of the $y$-intercept.",
+  "explanation": "The $y$-coordinate of the $y$-intercept of $f$ is $f(0) = a(4^0 + 4^b) = a(1 + 4^b) = a + a \\cdot 4^b$. For $g$, equivalence requires $c = 4^b$. The constants in $g$ are $a$ and $c = 4^b$, neither of which equals $a + a \\cdot 4^b$. For $h$, equivalence requires $d = a \\cdot 4^b$. The constants in $h$ are $a$ and $d = a \\cdot 4^b$, neither of which equals $a + a \\cdot 4^b$. Neither function displays the $y$-coordinate of the $y$-intercept as a constant or coefficient.",
   "source": "https://cooksat.com/practice?questionId=a0a71bb4&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a0a71bb4/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/a0a71bb4/2-deed9e19bdf30f47.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/a0a71bb4/3-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/a0a71bb4/4-4be9145fc6402fea.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/a0a71bb4/5-ece108f3b9314d31.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/a0a71bb4/6-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/a0a71bb4/7-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/a0a71bb4/8-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/a0a71bb4/9-fa4e73aef0bcf693.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/a0a71bb4/10-90c6e0d8feb16ceb.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/a0a71bb4/11-4e244adb6edb38f7.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/a0a71bb4/12-b93d1f79f9f1ec33.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/a0a71bb4/13-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 14",
+      "path": "data/capture-assets/a0a71bb4/14-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 15",
+      "path": "data/capture-assets/a0a71bb4/15-320b93d96905ffb3.png"
+    }
+  ]
 }

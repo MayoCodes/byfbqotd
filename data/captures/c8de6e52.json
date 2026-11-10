@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "c8de6e52",
-  "capturedAt": "2026-11-09T21:16:29.363Z",
+  "capturedAt": "2026-11-10T00:03:30.509Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,40 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "An object's kinetic energy, in joules, is equal to the product of one-half the object's mass, in kilograms, and the square of the object's speed, in meters per second. What is the speed, in meters per second, of an object with a mass of 8 kilograms and kinetic energy of 100 joules?",
+  "prompt": "An object's kinetic energy, in joules, is equal to the product of one-half the object's mass, in kilograms, and the square of the object's speed, in meters per second. What is the speed, in meters per second, of an object with a mass of\n[Figure 1]\nkilograms and kinetic energy of\n[Figure 2]\njoules?",
   "choices": {
-    "A": "5",
-    "B": "10",
-    "C": "25",
-    "D": "100"
+    "A": "[Figure 3]",
+    "B": "[Figure 4]",
+    "C": "[Figure 5]",
+    "D": "[Figure 6]"
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. It's given that an object's kinetic energy, in joules, is equal to the product of one-half the object's mass, in kilograms, and the square of the object's speed, in meters per second. This relationship can be represented by the equation $K = \\frac{1}{2} m v^{2}$, where $K$ is the kinetic energy, $m$ is the mass, and $v$ is the speed. Substituting a mass of $8$ kilograms for $m$ and a kinetic energy of $100$ joules for $K$ results in the equation $100 = \\frac{1}{2} \\times 8 \\times v^{2}$, or $100 = 4 v^{2}$. Dividing both sides of this equation by $4$ yields $25 = v^{2}$. Taking the square root of both sides yields $v = -5$ and $v = 5$. Since speed can't be expressed as a negative number, the speed of the object is $5$ meters per second.",
   "source": "https://cooksat.com/practice?questionId=c8de6e52&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c8de6e52/1-7a88e37fc6073da8.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/c8de6e52/2-5606839cc08894f7.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/c8de6e52/3-8fc3cfb4a4e6f37e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/c8de6e52/4-5dbe0cb8cacd5d34.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/c8de6e52/5-0ee7c34afd857757.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/c8de6e52/6-c6a20fba4419104d.png"
+    }
+  ]
 }

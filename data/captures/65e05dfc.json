@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "65e05dfc",
-  "capturedAt": "2026-11-09T21:10:42.773Z",
+  "capturedAt": "2026-11-09T23:52:38.783Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,47 @@
   "difficulty": "Medium",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The population of the town of Ashford doubled every 40 years from 1820 to 1980. The population of this town was 192,000 in 1980. What was the population of this town in 1820?",
+  "prompt": "The population of the town of Ashford doubled every\n[Figure 1]\nyears from\n[Figure 2]\nto\n[Figure 3]\n. The population of this town was\n[Figure 4]\nin\n[Figure 5]\n. What was the population of this town in\n[Figure 6]\n?\n\n[Figure 7]\n\n[Figure 8]",
   "choices": {},
-  "correctAnswer": "12000",
+  "correctAnswer": "[Figure 9]",
   "explanation": "The correct answer is $12000$. Let $y$ represent the population of Ashford $x$ years after $1820$. Since the population doubled every $40$ years, the relationship between $x$ and $y$ can be represented by an exponential equation of the form $y = a(b)^{\\frac{x}{k}}$, where $a$ is the population in $1820$ and the population increases by a factor of $b$ every $k$ years. Since the population doubled (increased by a factor of $2$) every $40$ years, $b = 2$ and $k = 40$. Substituting these values gives $y = a(2)^{\\frac{x}{40}}$. The number of years from $1820$ to $1980$ is $1980 - 1820 = 160$. Therefore, when $x = 160$, $y = 192{,}000$. Substituting yields $192{,}000 = a(2)^{\\frac{160}{40}} = a(2)^{4} = 16a$. Dividing both sides by $16$ gives $a = 12{,}000$. Therefore, the population of this town in $1820$ was $12{,}000$.",
   "source": "https://cooksat.com/practice?questionId=65e05dfc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/65e05dfc/1-29f30851f3230b13.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/65e05dfc/2-b59945eccf54b9b6.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/65e05dfc/3-7d4cb4e7676d581d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/65e05dfc/4-1fada573b1321571.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/65e05dfc/5-7d4cb4e7676d581d.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/65e05dfc/6-b59945eccf54b9b6.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/65e05dfc/7-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/65e05dfc/8-1982e59e40d6789a.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/65e05dfc/9-83a51966773f8aff.png"
+    }
+  ]
 }

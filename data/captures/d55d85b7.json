@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "d55d85b7",
-  "capturedAt": "2026-11-09T21:17:06.558Z",
+  "capturedAt": "2026-11-10T00:04:49.799Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,47 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function h is defined by h(x)=x(x−4)(x+7)2. The value of h(9−t) is 0, where t is a constant. What is the sum of all possible values of t?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. The value of\n[Figure 3]\nis\n[Figure 4]\n, where\n[Figure 5]\nis a constant. What is the sum of all possible values of\n[Figure 6]\n?\n\n[Figure 7]\n\n[Figure 8]",
   "choices": {},
-  "correctAnswer": "30",
+  "correctAnswer": "[Figure 9]",
   "explanation": "The correct answer is $30$. Substituting $9 - t$ for $x$ in the given equation yields $h(9 - t) = (9 - t)(9 - t - 4)(9 - t + 7)^{2}$, which is equivalent to $h(9 - t) = (9 - t)(5 - t)(16 - t)^{2}$. Since $h(9 - t) = 0$, it follows that $(9 - t)(5 - t)(16 - t)^{2} = 0$. At least one of the three factors must equal $0$. Setting the first factor equal to $0$ yields $9 - t = 0$, so $t = 9$. Setting the second factor equal to $0$ yields $5 - t = 0$, so $t = 5$. Setting the third factor equal to $0$ yields $(16 - t)^{2} = 0$, so $16 - t = 0$ and $t = 16$. The sum of all possible values of $t$ is $9 + 5 + 16$, which equals $30$.",
   "source": "https://cooksat.com/practice?questionId=d55d85b7&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d55d85b7/1-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/d55d85b7/2-ad430507be02fd16.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/d55d85b7/3-8a7724c8c8e9fc32.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/d55d85b7/4-42c70be2137965f9.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/d55d85b7/5-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/d55d85b7/6-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/d55d85b7/7-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/d55d85b7/8-0b1ace5da056d8de.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/d55d85b7/9-b4deced98e34e1f0.png"
+    }
+  ]
 }

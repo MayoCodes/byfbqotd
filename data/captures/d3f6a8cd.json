@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "d3f6a8cd",
-  "capturedAt": "2026-11-09T21:16:55.547Z",
+  "capturedAt": "2026-11-10T00:04:26.255Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,48 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The graph shows the predicted value y, in dollars, of a certain motorcycle x years after it is first purchased. Which of the following is closest to the predicted value of the motorcycle 4 years after it is first purchased?",
+  "prompt": "[Figure 1]\n\nThe graph shows the predicted value\n[Figure 2]\n, in dollars, of a certain motorcycle\n[Figure 3]\nyears after it is first purchased. Which of the following is closest to the predicted value of the motorcycle\n[Figure 4]\nyears after it is first purchased?",
   "choices": {
-    "A": "$7,373",
-    "B": "$11,520",
-    "C": "$14,400",
-    "D": "$18,000"
+    "A": "$\n[Figure 5]",
+    "B": "$\n[Figure 6]",
+    "C": "$\n[Figure 7]",
+    "D": "$\n[Figure 8]"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. For the graph shown, the horizontal axis represents the number of years after a certain motorcycle is first purchased, and the vertical axis represents the predicted value, in dollars, of the motorcycle. According to the graph, $4$ years after the motorcycle is purchased, the predicted value of the motorcycle is between $$4{,}000$ and $$8{,}000$. Of the given choices, only $$7{,}373$ is in that interval. Therefore, $$7{,}373$ is closest to the predicted value of the motorcycle $4$ years after it is first purchased.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is closest to the predicted value of the motorcycle $1$ year after it is first purchased, not $4$ years after.",
+  "explanation": "Choice A is correct. For the graph shown, the horizontal axis represents the number of years after a certain motorcycle is first purchased, and the vertical axis represents the predicted value, in dollars, of the motorcycle. According to the graph, $4$ years after the motorcycle is purchased, the predicted value of the motorcycle is between $$4{,}000$ and $$8{,}000$. Of the given choices, only $$7{,}373$ is in that interval. Therefore, $$7{,}373$ is closest to the predicted value of the motorcycle $4$ years after it is first purchased.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This is closest to the predicted value of the motorcycle $2$ years after it is first purchased, not $4$ years after.",
   "source": "https://cooksat.com/practice?questionId=d3f6a8cd&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/d3f6a8cd/1-82b930315338373e.png"
+      "path": "data/capture-assets/d3f6a8cd/1-a4945146afbd8a65.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/d3f6a8cd/2-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/d3f6a8cd/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/d3f6a8cd/4-17e692bc2178579f.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/d3f6a8cd/5-6f6a253e6f9a68c2.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/d3f6a8cd/6-1f0ddebdc7215556.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/d3f6a8cd/7-71d938ddf2d87151.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/d3f6a8cd/8-55ff97c760953a19.png"
     }
   ]
 }

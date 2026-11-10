@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "b5d73865",
-  "capturedAt": "2026-11-09T21:15:15.116Z",
+  "capturedAt": "2026-11-10T00:01:05.628Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,35 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=2x2−4x+1. What is the value of f(3)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?\n\n[Figure 4]\n\n[Figure 5]",
   "choices": {},
-  "correctAnswer": "7",
+  "correctAnswer": "[Figure 6]",
   "explanation": "The correct answer is $7$. It's given that the function $f$ is defined by $f(x)=2x^{2}-4x+1$. To find the value of $f(3)$, substitute $3$ for $x$ in the given equation. This yields $f(3)=2(3)^{2}-4(3)+1$. Evaluating this expression: $f(3)=2(9)-12+1$, which simplifies to $f(3)=18-12+1$, or $f(3)=7$. Therefore, the value of $f(3)$ is $7$.",
   "source": "https://cooksat.com/practice?questionId=b5d73865&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b5d73865/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/b5d73865/2-cea15e7f1bd557c1.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/b5d73865/3-4f668a1264f35651.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/b5d73865/4-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/b5d73865/5-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/b5d73865/6-c9aa07dd312e4934.png"
+    }
+  ]
 }

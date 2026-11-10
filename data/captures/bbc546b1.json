@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "bbc546b1",
-  "capturedAt": "2026-11-09T21:15:43.042Z",
+  "capturedAt": "2026-11-10T00:01:52.165Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A vendor developed a plan to set the selling price of an item. The vendor determined that for a selling price of $80.00, zero items would be sold. For each $2.00 decrease in the selling price, the number of items sold would increase by one.",
+  "prompt": "A vendor developed a plan to set the selling price of an item. The vendor determined that for a selling price of $\n[Figure 1]\n, zero items would be sold. For each $\n[Figure 2]\ndecrease in the selling price, the number of items sold would increase by one.\n\nFor a revenue of exactly $\n[Figure 3]\n, which of the following could be the number of items sold? (revenue\n[Figure 4]\nprice\n[Figure 5]\nnumber of items sold)",
   "choices": {
-    "A": "18",
-    "B": "19",
-    "C": "396",
-    "D": "794"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. Let $n$ represent the number of items sold. It's given that for a selling price of $$80.00$, zero items would be sold, and for each $$2.00$ decrease in the selling price, the number of items sold would increase by one. Therefore, the selling price can be represented by $P = 80 - 2n$. It's also given that revenue $=$ price $\\times$ number of items sold. Substituting $80 - 2n$ for the price and $n$ for the number of items sold yields revenue $= (80 - 2n)(n)$, or revenue $= 80n - 2n^{2}$. The question asks for the number of items sold when the revenue is exactly $$792.00$. Substituting $792$ for the revenue yields $792 = 80n - 2n^{2}$. This equation can be rewritten as $2n^{2} - 80n + 792 = 0$, or $n^{2} - 40n + 396 = 0$. Factoring the left-hand side of this equation yields $(n - 18)(n - 22) = 0$. By the zero product property, $n = 18$ or $n = 22$. Of these two values, only $18$ appears among the answer choices. Therefore, for a revenue of exactly $$792.00$, the number of items sold could be $18$.",
   "source": "https://cooksat.com/practice?questionId=bbc546b1&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/bbc546b1/1-c39a195d506dbc55.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/bbc546b1/2-9a9924cbc61c7eb7.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/bbc546b1/3-e0564d2d7d58069c.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/bbc546b1/4-a7ef76dd27879ead.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/bbc546b1/5-c67a9d1efc0c0bf0.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/bbc546b1/6-d126f8f5b8501d4f.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/bbc546b1/7-0e70a23407b1aa5d.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/bbc546b1/8-b6b71392012f8191.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/bbc546b1/9-26b76056c8fbf31b.png"
+    }
+  ]
 }

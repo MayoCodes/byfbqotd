@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "7cbbeb84",
-  "capturedAt": "2026-11-09T21:12:09.290Z",
+  "capturedAt": "2026-11-09T23:55:09.894Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,56 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "For the exponential function g, the value of g(0) is p, where p is a constant. Of the following equations that define the function g, which equation shows the value of p as the coefficient or the base?",
+  "prompt": "For the exponential function\n[Figure 1]\n, the value of\n[Figure 2]\nis\n[Figure 3]\n, where\n[Figure 4]\nis a constant. Of the following equations that define the function\n[Figure 5]\n, which equation shows the value of\n[Figure 6]\nas the coefficient or the base?",
   "choices": {
-    "A": "g(x)=20(2)x+1",
-    "B": "g(x)=40(2)x",
-    "C": "g(x)=80(2)x−1",
-    "D": "g(x)=160(2)x−2"
+    "A": "[Figure 7]",
+    "B": "[Figure 8]",
+    "C": "[Figure 9]",
+    "D": "[Figure 10]"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. Each of the given choices has the form $g(x) = a(b)^{x-k}$, where $a$, $b$, and $k$ are constants. In this form, the coefficient $a$ equals the value of the function when the exponent is $0$, that is, when $x = k$. In the equation $g(x) = 40(2)^{x}$, the exponent equals $0$ when $x = 0$, so substituting $0$ for $x$ gives $g(0) = 40(2)^{0} = 40(1) = 40$. Thus, the value of $p$ is $40$, and this equation shows the value of $p$ as the coefficient.",
   "source": "https://cooksat.com/practice?questionId=7cbbeb84&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7cbbeb84/1-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/7cbbeb84/2-fa0a1e68d2934994.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/7cbbeb84/3-f07e748cf82e0762.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/7cbbeb84/4-f07e748cf82e0762.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/7cbbeb84/5-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/7cbbeb84/6-f07e748cf82e0762.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/7cbbeb84/7-28bf1b8a77a5c36f.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/7cbbeb84/8-05420c79dbad2bbd.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/7cbbeb84/9-3ac16cfdd450fd43.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/7cbbeb84/10-2aee69bdb31f2a97.png"
+    }
+  ]
 }

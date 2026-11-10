@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "7f33ff7a",
-  "capturedAt": "2026-11-09T21:12:15.778Z",
+  "capturedAt": "2026-11-09T23:55:24.289Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,7 +10,7 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "y=2x−2−7",
+  "prompt": "[Figure 5]\n\nFor which of the following tables are all the values of\n[Figure 6]\nand their corresponding values of\n[Figure 7]\nsolutions to the given equation?",
   "choices": {
     "A": "[Table 1]",
     "B": "[Table 2]",
@@ -17,24 +18,36 @@
     "D": "[Table 4]"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. To determine which table contains values that are solutions to the given equation, each pair of $x$ and $y$ values must be substituted into the equation $y = 2^{x-2} - 7$ to verify whether the equation is satisfied. For the first row of the table in choice A, substituting $0$ for $x$ gives $y = 2^{0-2} - 7 = 2^{-2} - 7 = \\frac{1}{4} - 7 = -\\frac{27}{4}$, which matches the $y$-value in the table. For the second row, substituting $1$ for $x$ gives $y = 2^{1-2} - 7 = 2^{-1} - 7 = \\frac{1}{2} - 7 = -\\frac{13}{2}$, which matches the $y$-value in the table. For the third row, substituting $2$ for $x$ gives $y = 2^{2-2} - 7 = 2^{0} - 7 = 1 - 7 = -6$, which matches the $y$-value in the table. Since all three pairs satisfy the equation, choice A is correct.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from omitting the $-2$ in the exponent. For example, using $y = 2^{x} - 7$ instead of $y = 2^{x-2} - 7$ when $x = 0$ gives $y = 1 - 7 = -6$, matching the table's first row, but this does not match the given equation.",
+  "explanation": "Choice A is correct. To determine which table contains values that are solutions to the given equation, each pair of $x$ and $y$ values must be substituted into the equation $y = 2^{x-2} - 7$ to verify whether the equation is satisfied. For the first row of the table in choice A, substituting $0$ for $x$ gives $y = 2^{0-2} - 7 = 2^{-2} - 7 = \\frac{1}{4} - 7 = -\\frac{27}{4}$, which matches the $y$-value in the table. For the second row, substituting $1$ for $x$ gives $y = 2^{1-2} - 7 = 2^{-1} - 7 = \\frac{1}{2} - 7 = -\\frac{13}{2}$, which matches the $y$-value in the table. For the third row, substituting $2$ for $x$ gives $y = 2^{2-2} - 7 = 2^{0} - 7 = 1 - 7 = -6$, which matches the $y$-value in the table. Since all three pairs satisfy the equation, choice A is correct.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from computing only the exponential term without subtracting $7$. For example, when $x = 0$, evaluating $2^{0-2} = \\frac{1}{4}$ matches the first row of the table, but this omits the $-7$ from the given equation.",
   "source": "https://cooksat.com/practice?questionId=7f33ff7a&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/7f33ff7a/1-e34bedc2570b226b.png"
+      "path": "data/capture-assets/7f33ff7a/1-fee813cc4c755a8f.png"
     },
     {
       "label": "Table 2",
-      "path": "data/capture-assets/7f33ff7a/2-27a9e7c1b3777814.png"
+      "path": "data/capture-assets/7f33ff7a/2-8b64faa6cc5280ad.png"
     },
     {
       "label": "Table 3",
-      "path": "data/capture-assets/7f33ff7a/3-c817a300b312ff1d.png"
+      "path": "data/capture-assets/7f33ff7a/3-5c8b3d6733ba3423.png"
     },
     {
       "label": "Table 4",
-      "path": "data/capture-assets/7f33ff7a/4-fd992e7fafb4276e.png"
+      "path": "data/capture-assets/7f33ff7a/4-e669c13b5fb57bd6.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/7f33ff7a/5-c224a34d53c02c22.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/7f33ff7a/6-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/7f33ff7a/7-74fafedc39f29bd4.png"
     }
   ]
 }

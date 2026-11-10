@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "9d6f2811",
-  "capturedAt": "2026-11-09T21:14:11.735Z",
+  "capturedAt": "2026-11-09T23:58:57.041Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f(x)=3x2−18x+29 has a minimum value of c. What is the value of c?",
+  "prompt": "The function\n[Figure 1]\nhas a minimum value of\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
   "choices": {
-    "A": "−2",
-    "B": "2",
-    "C": "11",
-    "D": "29"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "B",
-  "explanation": "To find the minimum value, complete the square. Factor out the leading coefficient: $f(x) = 3(x^2 - 6x) + 29$. Complete the square by adding and subtracting $9$ inside the parentheses: $f(x) = 3(x^2 - 6x + 9 - 9) + 29 = 3(x - 3)^2 - 27 + 29 = 3(x - 3)^2 + 2$. Since $(x-3)^2 \\geq 0$ for all real $x$, the minimum value occurs when $(x-3)^2 = 0$, giving $c = 2$.\n\nWhy C is incorrect:\n\nThis results from factoring out $3$ and completing the square but forgetting to multiply $9$ by $3$ when subtracting from the constant, incorrectly computing $29 - 18 = 11$ instead of $29 - 27 = 2$.",
+  "explanation": "To find the minimum value, complete the square. Factor out the leading coefficient: $f(x) = 3(x^2 - 6x) + 29$. Complete the square by adding and subtracting $9$ inside the parentheses: $f(x) = 3(x^2 - 6x + 9 - 9) + 29 = 3(x - 3)^2 - 27 + 29 = 3(x - 3)^2 + 2$. Since $(x-3)^2 \\geq 0$ for all real $x$, the minimum value occurs when $(x-3)^2 = 0$, giving $c = 2$.\n\nWhy D is incorrect:\n\nThis results from confusing the minimum value of the function with the constant term in the original equation without performing any algebraic manipulation.",
   "source": "https://cooksat.com/practice?questionId=9d6f2811&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/9d6f2811/1-e1821027435b051b.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/9d6f2811/2-fa4e73aef0bcf693.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/9d6f2811/3-fa4e73aef0bcf693.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/9d6f2811/4-c3f6ce48a3837614.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/9d6f2811/5-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/9d6f2811/6-56fefb6176fe7daf.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/9d6f2811/7-89207f550d896bea.png"
+    }
+  ]
 }

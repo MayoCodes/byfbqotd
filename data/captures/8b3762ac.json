@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "8b3762ac",
-  "capturedAt": "2026-11-09T21:12:56.751Z",
+  "capturedAt": "2026-11-09T23:56:39.938Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,12 +10,12 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "What is the y-intercept of the graph shown?",
+  "prompt": "[Figure 1]\n\nWhat is the y-intercept of the graph shown?",
   "choices": {
-    "A": "(0,4)",
-    "B": "(0,7)",
-    "C": "(4,4)",
-    "D": "(7,0)"
+    "A": "[Figure 2]",
+    "B": "[Figure 3]",
+    "C": "[Figure 4]",
+    "D": "[Figure 5]"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. The y-intercept of a graph in the xy-plane is the point $\\left(x, y\\right)$ on the graph where $x = 0$. For the graph shown, at $x = 0$, the corresponding value of $y$ is $7$. Therefore, the y-intercept of the graph shown is $\\left(0, 7\\right)$.",
@@ -22,7 +23,23 @@
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/8b3762ac/1-e0b11ad4051b9b98.png"
+      "path": "data/capture-assets/8b3762ac/1-d437a9a4678e48f7.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/8b3762ac/2-dede5835da502dbe.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/8b3762ac/3-0efee0eef0634c5d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/8b3762ac/4-2e6f39275bbc03d5.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/8b3762ac/5-69a71880069221e6.png"
     }
   ]
 }

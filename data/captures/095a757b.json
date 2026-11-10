@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "095a757b",
-  "capturedAt": "2026-11-09T21:04:41.144Z",
+  "capturedAt": "2026-11-09T23:22:19.134Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,68 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A sample of a radioactive substance takes 18 years to decay to half its original mass. The function m(t)=400(0.5)18t​ gives the approximate mass of this substance, in grams, that remains t years after a 400-gram sample starts to decay.",
+  "prompt": "A sample of a radioactive substance takes\n[Figure 1]\nyears to decay to half its original mass. The function\n[Figure 2]\ngives the approximate mass of this substance, in grams, that remains\n[Figure 3]\nyears after a\n[Figure 4]\n-gram sample starts to decay.\n\nWhich statement is the best interpretation of\n[Figure 5]\nin this context?",
   "choices": {
-    "A": "Approximately 50 grams of the sample remains 54 years after the sample starts to decay.",
-    "B": "The mass of the sample has decreased by approximately 50 grams 54 years after the sample starts to decay.",
-    "C": "The mass of the sample has decreased by approximately 54 grams 50 years after the sample starts to decay.",
-    "D": "Approximately 54 grams of the sample remains 50 years after the sample starts to decay."
+    "A": "Approximately\n[Figure 6]\ngrams of the sample remains\n[Figure 7]\nyears after the sample starts to decay.",
+    "B": "The mass of the sample has decreased by approximately\n[Figure 8]\ngrams\n[Figure 9]\nyears after the sample starts to decay.",
+    "C": "The mass of the sample has decreased by approximately\n[Figure 10]\ngrams\n[Figure 11]\nyears after the sample starts to decay.",
+    "D": "Approximately\n[Figure 12]\ngrams of the sample remains\n[Figure 13]\nyears after the sample starts to decay."
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. It's given that the function $m(t) = 400(0.5)^{\\frac{t}{18}}$ gives the approximate mass of this substance, in grams, that remains $t$ years after a $400$-gram sample starts to decay. Since the value of $m(54)$ is the value of $m(t)$ when $t = 54$, it follows that $m(54) = 50$ means that the value of $m(t)$ is $50$ when $t = 54$. Therefore, the best interpretation of $m(54) = 50$ in this context is approximately $50$ grams of the sample remains $54$ years after the sample starts to decay.",
   "source": "https://cooksat.com/practice?questionId=095a757b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/095a757b/1-d9903bbb7f08759f.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/095a757b/2-3c0a529c99ed319c.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/095a757b/3-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/095a757b/4-15bf75dc0bb3485b.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/095a757b/5-3d69756ef2971aae.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/095a757b/6-66f6b3799ed27ad5.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/095a757b/7-b7839c5aaaf4e5dc.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/095a757b/8-66f6b3799ed27ad5.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/095a757b/9-b7839c5aaaf4e5dc.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/095a757b/10-b7839c5aaaf4e5dc.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/095a757b/11-66f6b3799ed27ad5.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/095a757b/12-b7839c5aaaf4e5dc.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/095a757b/13-66f6b3799ed27ad5.png"
+    }
+  ]
 }

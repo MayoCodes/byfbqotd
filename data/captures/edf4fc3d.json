@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "edf4fc3d",
-  "capturedAt": "2026-11-09T21:18:29.818Z",
+  "capturedAt": "2026-11-10T00:07:44.291Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,60 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "M(t)=480(1.05)(34​)t",
+  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nmodels the population, in thousands, of a certain city\n[Figure 3]\nyears after\n[Figure 4]\n. According to the model, the population is predicted to increase by\n[Figure 5]\nevery\n[Figure 6]\nmonths. What is the value of\n[Figure 7]\n?",
   "choices": {
-    "A": "9",
-    "B": "12",
-    "C": "16",
-    "D": "48"
+    "A": "[Figure 8]",
+    "B": "[Figure 9]",
+    "C": "[Figure 10]",
+    "D": "[Figure 11]"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. The function $M(t) = 480(1.05)^{\\left(\\frac{4}{3}\\right)t}$ models the population of the city $t$ years after $2010$. The base $1.05$ corresponds to a $5\\%$ increase for every increase of $1$ in the exponent $\\left(\\frac{4}{3}\\right)t$. Setting $\\left(\\frac{4}{3}\\right)t = 1$ and multiplying both sides by $\\frac{3}{4}$ yields $t = \\frac{3}{4}$. Therefore, the population is predicted to increase by $5\\%$ every $\\frac{3}{4}$ of a year. Since there are $12$ months in a year, $\\frac{3}{4}$ of a year is equivalent to $\\left(\\frac{3}{4}\\right)(12) = 9$ months. Therefore, the value of $n$ is $9$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This is the number of months in which the population is predicted to increase by $5\\%$ according to the model $M(t) = 480(1.05)^{t}$, not $M(t) = 480(1.05)^{\\left(\\frac{4}{3}\\right)t}$.",
+  "explanation": "Choice A is correct. The function $M(t) = 480(1.05)^{\\left(\\frac{4}{3}\\right)t}$ models the population of the city $t$ years after $2010$. The base $1.05$ corresponds to a $5\\%$ increase for every increase of $1$ in the exponent $\\left(\\frac{4}{3}\\right)t$. Setting $\\left(\\frac{4}{3}\\right)t = 1$ and multiplying both sides by $\\frac{3}{4}$ yields $t = \\frac{3}{4}$. Therefore, the population is predicted to increase by $5\\%$ every $\\frac{3}{4}$ of a year. Since there are $12$ months in a year, $\\frac{3}{4}$ of a year is equivalent to $\\left(\\frac{3}{4}\\right)(12) = 9$ months. Therefore, the value of $n$ is $9$.",
   "source": "https://cooksat.com/practice?questionId=edf4fc3d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/edf4fc3d/1-265ce0f4d393b1dc.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/edf4fc3d/2-81c8d05ff15e601f.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/edf4fc3d/3-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/edf4fc3d/4-f43218e5653d728a.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/edf4fc3d/5-0bfcb8e717367de3.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/edf4fc3d/6-0b8fcb4e6453fcf0.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/edf4fc3d/7-0b8fcb4e6453fcf0.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/edf4fc3d/8-42e42729df9aea5a.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/edf4fc3d/9-ebb9a53a87ff177d.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/edf4fc3d/10-1158988890b56c17.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/edf4fc3d/11-be793a5fd3bc5e5b.png"
+    }
+  ]
 }

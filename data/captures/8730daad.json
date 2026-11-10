@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "8730daad",
-  "capturedAt": "2026-11-09T21:12:50.358Z",
+  "capturedAt": "2026-11-09T23:56:28.911Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A function f is defined by f(x)=x2+3x. What is f(−2)?",
+  "prompt": "A function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is\n[Figure 3]\n?",
   "choices": {
-    "A": "−4",
-    "B": "−2",
-    "C": "2",
-    "D": "10"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. Substituting $-2$ for $x$ in $f(x)=x^2+3x$ yields $f(-2)=(-2)^2+3(-2)=4+(-6)=-2$.",
   "source": "https://cooksat.com/practice?questionId=8730daad&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8730daad/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/8730daad/2-8a75e5bf1686306a.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/8730daad/3-9e4d7ae9247f3983.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/8730daad/4-75cefb79be0e251b.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/8730daad/5-c3f6ce48a3837614.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/8730daad/6-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/8730daad/7-5dbe0cb8cacd5d34.png"
+    }
+  ]
 }

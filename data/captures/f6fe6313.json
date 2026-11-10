@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "f6fe6313",
-  "capturedAt": "2026-11-09T21:19:01.118Z",
+  "capturedAt": "2026-11-10T00:08:43.740Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,60 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g(n)=5(15.28)6n​ gives each term of a sequence as a function of the term's position, n, in the sequence, where n is a whole number. The value of the term in position 15 is p% more than the value of the term in position 9. What is the value of p?",
+  "prompt": "The function\n[Figure 1]\ngives each term of a sequence as a function of the term's position,\n[Figure 2]\n, in the sequence, where\n[Figure 3]\nis a whole number. The value of the term in position\n[Figure 4]\nis\n[Figure 5]\nmore than the value of the term in position\n[Figure 6]\n. What is the value of\n[Figure 7]\n?",
   "choices": {
-    "A": "15.28",
-    "B": "28",
-    "C": "1,428",
-    "D": "1,528"
+    "A": "[Figure 8]",
+    "B": "[Figure 9]",
+    "C": "[Figure 10]",
+    "D": "[Figure 11]"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. Substituting $9$ for $n$ gives $g(9) = 5(15.28)^{\\frac{9}{6}} = 5(15.28)^{1.5}$. Substituting $15$ for $n$ gives $g(15) = 5(15.28)^{\\frac{15}{6}} = 5(15.28)^{2.5}$. The ratio $\\frac{g(15)}{g(9)} = \\frac{5(15.28)^{2.5}}{5(15.28)^{1.5}}$. Dividing numerator and denominator by $5$ yields $\\frac{(15.28)^{2.5}}{(15.28)^{1.5}}$. Using the property $\\frac{a^m}{a^n} = a^{m-n}$, this becomes $(15.28)^{2.5-1.5} = (15.28)^{1} = 15.28$. Therefore $g(15) = 15.28 \\times g(9)$, an increase by a factor of $15.28$. The percent increase is $\\frac{g(15) - g(9)}{g(9)} \\times 100 = (15.28 - 1) \\times 100 = 14.28 \\times 100 = 1{,}428$. Therefore $p = 1{,}428$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from rounding the base $15.28$ down to $15$, computing $15.28 - 15 = 0.28$, and then incorrectly converting this to $28\\%$.",
   "source": "https://cooksat.com/practice?questionId=f6fe6313&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f6fe6313/1-90cda9f835f190e8.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/f6fe6313/2-0b8fcb4e6453fcf0.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/f6fe6313/3-0b8fcb4e6453fcf0.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/f6fe6313/4-7c844502ae5963ab.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/f6fe6313/5-987dee03e4eac733.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/f6fe6313/6-35a1dda5b246354d.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/f6fe6313/7-f07e748cf82e0762.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/f6fe6313/8-a5720cddb3c548f9.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/f6fe6313/9-00c9430f44168c9f.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/f6fe6313/10-dd43333a3989e407.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/f6fe6313/11-a1e2a733313acbbe.png"
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "b6b6d9b9",
-  "capturedAt": "2026-11-09T21:15:24.415Z",
+  "capturedAt": "2026-11-10T00:01:21.241Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,60 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A drone was launched upward from a platform. The graph shown models the height above ground, y, in meters, of the drone x seconds after it was launched. For which of the following intervals of time was the height of the drone increasing for the entire interval?",
+  "prompt": "[Figure 1]\n\nA drone was launched upward from a platform. The graph shown models the height above ground,\n[Figure 2]\n, in meters, of the drone\n[Figure 3]\nseconds after it was launched. For which of the following intervals of time was the height of the drone increasing for the entire interval?",
   "choices": {
-    "A": "From x=0 to x=3",
-    "B": "From x=0 to x=6",
-    "C": "From x=3 to x=5",
-    "D": "From x=5 to x=6"
+    "A": "From\n[Figure 4]\nto\n[Figure 5]",
+    "B": "From\n[Figure 6]\nto\n[Figure 7]",
+    "C": "From\n[Figure 8]\nto\n[Figure 9]",
+    "D": "From\n[Figure 10]\nto\n[Figure 11]"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. The variable $y$ represents the height, in meters, of the drone above the ground. The graph shows that the height of the drone was increasing from $x = 0$ to $x = 3$, and decreasing from $x = 3$ onward. Therefore, the height of the drone was increasing for the entire interval of time from $x = 0$ to $x = 3$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The height of the drone was decreasing, not increasing, for this entire interval of time.",
+  "explanation": "Choice A is correct. The variable $y$ represents the height, in meters, of the drone above the ground. The graph shows that the height of the drone was increasing from $x = 0$ to $x = 3$, and decreasing from $x = 3$ onward. Therefore, the height of the drone was increasing for the entire interval of time from $x = 0$ to $x = 3$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The height of the drone was decreasing, not increasing, for this entire interval of time.",
   "source": "https://cooksat.com/practice?questionId=b6b6d9b9&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/b6b6d9b9/1-b94ec34778113687.png"
+      "path": "data/capture-assets/b6b6d9b9/1-b104451aaa47240b.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/b6b6d9b9/2-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/b6b6d9b9/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/b6b6d9b9/4-cb8e3d15415810a2.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/b6b6d9b9/5-ea93a67f6f2a3014.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/b6b6d9b9/6-cb8e3d15415810a2.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/b6b6d9b9/7-707e1e849d915245.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/b6b6d9b9/8-ea93a67f6f2a3014.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/b6b6d9b9/9-595c95019c6e9775.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/b6b6d9b9/10-595c95019c6e9775.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/b6b6d9b9/11-707e1e849d915245.png"
     }
   ]
 }

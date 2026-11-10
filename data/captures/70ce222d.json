@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "70ce222d",
-  "capturedAt": "2026-11-09T21:11:20.187Z",
+  "capturedAt": "2026-11-09T23:53:47.539Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The area A, in square feet, of a rectangular garden plot can be represented by the expression x(x+14), where x is the width, in feet, of the garden plot. Which expression represents the length, in feet, of the garden plot?",
+  "prompt": "The area\n[Figure 1]\n, in square feet, of a rectangular garden plot can be represented by the expression\n[Figure 2]\n, where\n[Figure 3]\nis the width, in feet, of the garden plot. Which expression represents the length, in feet, of the garden plot?",
   "choices": {
-    "A": "14",
-    "B": "x",
-    "C": "(x+14)",
-    "D": "x(x+14)"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. It's given that the expression $x(x + 14)$ represents the area, in square feet, of a rectangular garden plot, where $x$ is the width, in feet, of the garden plot. The area of a rectangle can be calculated by multiplying its length by its width. It follows that the length, in feet, of the garden plot is represented by the expression $(x + 14)$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This expression represents the width, in feet, of the garden plot, not its length.",
   "source": "https://cooksat.com/practice?questionId=70ce222d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/70ce222d/1-539769c58f1c37fa.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/70ce222d/2-91e0accf487c39b3.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/70ce222d/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/70ce222d/4-9888925528800215.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/70ce222d/5-bdb8a8399846a625.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/70ce222d/6-6dbac2e45cba4cfa.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/70ce222d/7-c170f97155827f74.png"
+    }
+  ]
 }

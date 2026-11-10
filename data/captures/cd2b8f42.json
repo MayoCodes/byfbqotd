@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "cd2b8f42",
-  "capturedAt": "2026-11-09T21:16:38.593Z",
+  "capturedAt": "2026-11-10T00:03:48.280Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,72 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The graph gives the estimated number of printed newsletters y, in hundreds, a nonprofit organization mailed to its members at the end of each year, where x represents the number of years since the end of 2005, where 0≤x≤12. Which statement is the best interpretation of the y-intercept in this context?",
+  "prompt": "[Figure 1]\n\nThe graph gives the estimated number of printed newsletters\n[Figure 2]\n, in hundreds, a nonprofit organization mailed to its members at the end of each year, where\n[Figure 3]\nrepresents the number of years since the end of\n[Figure 4]\n, where\n[Figure 5]\n. Which statement is the best interpretation of the y-intercept in this context?",
   "choices": {
-    "A": "The estimated total number of printed newsletters the organization mailed to its members from the end of 2005 to the end of 2017 was 70.",
-    "B": "The estimated number of printed newsletters the organization mailed to its members at the end of 2005 was 7.",
-    "C": "The estimated total number of printed newsletters the organization mailed to its members during the first 12 years was 700.",
-    "D": "The estimated number of printed newsletters the organization mailed to its members at the end of 2005 was 700."
+    "A": "The estimated total number of printed newsletters the organization mailed to its members from the end of\n[Figure 6]\nto the end of\n[Figure 7]\nwas\n[Figure 8]\n.",
+    "B": "The estimated number of printed newsletters the organization mailed to its members at the end of\n[Figure 9]\nwas\n[Figure 10]\n.",
+    "C": "The estimated total number of printed newsletters the organization mailed to its members during the first\n[Figure 11]\nyears was\n[Figure 12]\n.",
+    "D": "The estimated number of printed newsletters the organization mailed to its members at the end of\n[Figure 13]\nwas\n[Figure 14]\n."
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. The y-intercept of the graph is the point at which the graph crosses the y-axis, or the point for which the value of $x$ is $0$. Therefore, the y-intercept of the given graph is the point $\\left(0, 7\\right)$. It's given that $x$ represents the number of years since the end of $2005$. Therefore, $x = 0$ represents $0$ years since the end of $2005$, which is the same as the end of $2005$. It's also given that $y$ represents the estimated number of printed newsletters, in hundreds, that the organization mailed to its members at the end of the year. Therefore, $y = 7$ represents $700$ newsletters. It follows that the y-intercept $\\left(0, 7\\right)$ means that the estimated number of printed newsletters the organization mailed to its members at the end of $2005$ was $700$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from misinterpreting the y-intercept as representing a total over the entire $12$-year period instead of the value at a single point in time.",
+  "explanation": "Choice D is correct. The y-intercept of the graph is the point at which the graph crosses the y-axis, or the point for which the value of $x$ is $0$. Therefore, the y-intercept of the given graph is the point $\\left(0, 7\\right)$. It's given that $x$ represents the number of years since the end of $2005$. Therefore, $x = 0$ represents $0$ years since the end of $2005$, which is the same as the end of $2005$. It's also given that $y$ represents the estimated number of printed newsletters, in hundreds, that the organization mailed to its members at the end of the year. Therefore, $y = 7$ represents $700$ newsletters. It follows that the y-intercept $\\left(0, 7\\right)$ means that the estimated number of printed newsletters the organization mailed to its members at the end of $2005$ was $700$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from forgetting to convert from hundreds to individual newsletters, reading the y-value of $7$ directly as $7$ newsletters instead of recognizing that it represents $700$ newsletters.",
   "source": "https://cooksat.com/practice?questionId=cd2b8f42&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/cd2b8f42/1-a5f6b6926425d329.png"
+      "path": "data/capture-assets/cd2b8f42/1-9b70187ff517750e.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/cd2b8f42/2-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/cd2b8f42/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/cd2b8f42/4-820e65779d7b5d7a.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/cd2b8f42/5-523949dadf4d9d56.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/cd2b8f42/6-5f3437339c93e05f.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/cd2b8f42/7-b9be68c432aa1703.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/cd2b8f42/8-a2f3c244ede8331f.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/cd2b8f42/9-5f3437339c93e05f.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/cd2b8f42/10-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/cd2b8f42/11-ebb9a53a87ff177d.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/cd2b8f42/12-be019720ae3420dc.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/cd2b8f42/13-5f3437339c93e05f.png"
+    },
+    {
+      "label": "Figure 14",
+      "path": "data/capture-assets/cd2b8f42/14-be019720ae3420dc.png"
     }
   ]
 }

@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "ca11d592",
-  "capturedAt": "2026-11-09T21:16:32.289Z",
+  "capturedAt": "2026-11-10T00:03:34.903Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=x2−6x+5. What is the value of f(4)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
   "choices": {
-    "A": "−3",
-    "B": "3",
-    "C": "5",
-    "D": "13"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "A",
   "explanation": "Substituting $4$ for $x$ in $f(x) = x^2 - 6x + 5$ yields $f(4) = 4^2 - 6(4) + 5 = 16 - 24 + 5 = -3$.",
   "source": "https://cooksat.com/practice?questionId=ca11d592&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ca11d592/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/ca11d592/2-53b6c957e52555e3.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/ca11d592/3-ba4bdcdc69086153.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/ca11d592/4-876db5cce429efeb.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/ca11d592/5-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/ca11d592/6-8fc3cfb4a4e6f37e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/ca11d592/7-dbd2fb5bdaedd1fa.png"
+    }
+  ]
 }

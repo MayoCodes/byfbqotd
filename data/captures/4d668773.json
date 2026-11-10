@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "4d668773",
-  "capturedAt": "2026-11-09T21:08:57.396Z",
+  "capturedAt": "2026-11-09T23:49:01.201Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,48 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g is defined by g(x)=x−2x+3​, where x=2. What is the value of g(4)−g(1)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\n. What is the value of\n[Figure 4]\n?",
   "choices": {
-    "A": "−21​",
-    "B": "29​",
-    "C": "211​",
-    "D": "215​"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "D",
-  "explanation": "First find $g(4) = \\frac{4+3}{4-2} = \\frac{7}{2}$ and $g(1) = \\frac{1+3}{1-2} = \\frac{4}{-1} = -4$. Then $g(4) - g(1) = \\frac{7}{2} - (-4) = \\frac{7}{2} + 4 = \\frac{7}{2} + \\frac{8}{2} = \\frac{15}{2}$.\n\nWhy C is incorrect:\n\nResults from correctly finding $g(4) = \\frac{7}{2}$ and $g(1) = -4$, but making an arithmetic error when adding: $\\frac{7}{2} + 4 = \\frac{7}{2} + \\frac{8}{2}$, incorrectly computing as $\\frac{11}{2}$ instead of $\\frac{15}{2}$.",
+  "explanation": "First find $g(4) = \\frac{4+3}{4-2} = \\frac{7}{2}$ and $g(1) = \\frac{1+3}{1-2} = \\frac{4}{-1} = -4$. Then $g(4) - g(1) = \\frac{7}{2} - (-4) = \\frac{7}{2} + 4 = \\frac{7}{2} + \\frac{8}{2} = \\frac{15}{2}$.\n\nWhy A is incorrect:\n\nResults from a sign error, computing $g(4) - g(1)$ as $\\frac{7}{2} - 4$ instead of $\\frac{7}{2} - (-4)$, giving $\\frac{7}{2} - \\frac{8}{2} = -\\frac{1}{2}$.",
   "source": "https://cooksat.com/practice?questionId=4d668773&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4d668773/1-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/4d668773/2-537c5af7c8e13ce2.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/4d668773/3-fffbda1e271899f7.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/4d668773/4-a61b73c33202a44f.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/4d668773/5-75a0bd4fd887fae3.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/4d668773/6-31794f4690fe6670.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/4d668773/7-38acfefabcefbf82.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/4d668773/8-5cf1115001340e1f.png"
+    }
+  ]
 }

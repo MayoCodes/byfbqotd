@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "e6592bcc",
-  "capturedAt": "2026-11-09T21:18:10.735Z",
+  "capturedAt": "2026-11-10T00:07:00.434Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,60 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g is defined by g(x)=x2−6x+k, where k is a constant. If the function has two distinct zeros r and s such that r2+s2=20, what is the value of k?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nis a constant. If the function has two distinct zeros\n[Figure 4]\nand\n[Figure 5]\nsuch that\n[Figure 6]\n, what is the value of\n[Figure 7]\n?",
   "choices": {
-    "A": "4",
-    "B": "6",
-    "C": "8",
-    "D": "10"
+    "A": "[Figure 8]",
+    "B": "[Figure 9]",
+    "C": "[Figure 10]",
+    "D": "[Figure 11]"
   },
   "correctAnswer": "C",
   "explanation": "Since $r$ and $s$ are zeros of $g(x)=x^2-6x+k$, they satisfy $x^2-6x+k=0$. By Vieta's formulas, $r+s=6$ and $rs=k$. We're given that $r^2+s^2=20$. Using the identity $r^2+s^2=(r+s)^2-2rs$, we have $20=6^2-2k$, which gives $20=36-2k$. Solving for $k$: $2k=16$, so $k=8$.\n\nWhy A is incorrect:\n\nResults from incorrectly computing $rs$ from $r^2+s^2=20$ by assuming $rs=\\frac{20}{5}=4$, confusing the relationship between sum of squares and product.",
   "source": "https://cooksat.com/practice?questionId=e6592bcc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e6592bcc/1-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/e6592bcc/2-80e08b716d04a5a4.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/e6592bcc/3-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/e6592bcc/4-adab81c4e24d47ac.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/e6592bcc/5-f566ac546561428f.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/e6592bcc/6-b76a9f1d8a84641e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/e6592bcc/7-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/e6592bcc/8-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/e6592bcc/9-29603e33b822ff16.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/e6592bcc/10-f4f34a91ada02fa5.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/e6592bcc/11-5dbe0cb8cacd5d34.png"
+    }
+  ]
 }

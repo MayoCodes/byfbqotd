@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "278ad68e",
-  "capturedAt": "2026-11-09T21:06:23.453Z",
+  "capturedAt": "2026-11-09T23:44:18.984Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,27 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "f(x)=2x2+12x+1",
+  "prompt": "[Figure 1]\n\nWhat is the minimum value of the given function?\n\n[Figure 2]\n\n[Figure 3]",
   "choices": {},
-  "correctAnswer": "−17",
+  "correctAnswer": "[Figure 4]",
   "explanation": "The correct answer is $-17$. The minimum value of a quadratic function in the form $f(x) = ax^2 + bx + c$ where $a > 0$ can be found by rewriting the function in vertex form $f(x) = a(x-h)^2 + k$, where the minimum value is $k$.\n\nTo convert $f(x) = 2x^2 + 12x + 1$ to vertex form, first factor out the coefficient of $x^2$ from the first two terms:\n\n$f(x) = 2(x^2 + 6x) + 1$\n\nNext, complete the square inside the parentheses. Take half of the coefficient of $x$ (which is $6$), square it to get $(\\frac{6}{2})^2 = 9$, and add and subtract this value:\n\n$f(x) = 2(x^2 + 6x + 9 - 9) + 1$\n$f(x) = 2((x+3)^2 - 9) + 1$\n\nDistribute the $2$:\n\n$f(x) = 2(x+3)^2 - 18 + 1$\n$f(x) = 2(x+3)^2 - 17$\n\nThis is now in vertex form $f(x) = a(x-h)^2 + k$ where $a = 2$, $h = -3$, and $k = -17$. Since $a = 2 > 0$, the parabola opens upward and the minimum value occurs at the vertex. Therefore, the minimum value of the function is $-17$.",
   "source": "https://cooksat.com/practice?questionId=278ad68e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/278ad68e/1-ee1a5ca31865afed.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/278ad68e/2-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/278ad68e/3-37aefba4a859b718.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/278ad68e/4-c51b7f7964dcd77d.png"
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "3f004201",
-  "capturedAt": "2026-11-09T21:08:18.448Z",
+  "capturedAt": "2026-11-09T23:47:51.071Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "In a sequence, the first term is 6. Each term after the first is 5 times the preceding term. Which equation gives the nth term, a, of the sequence in terms of n?",
+  "prompt": "In a sequence, the first term is\n[Figure 1]\n. Each term after the first is\n[Figure 2]\ntimes the preceding term. Which equation gives the\n[Figure 3]\nth term,\n[Figure 4]\n, of the sequence in terms of\n[Figure 5]\n?",
   "choices": {
-    "A": "a=5(6n)",
-    "B": "a=5(6n−1)",
-    "C": "a=6(5n)",
-    "D": "a=6(5n−1)"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. It's given that the first term of a sequence is $6$ and each term after the first is $5$ times the preceding term. This is a geometric sequence with first term $6$ and common ratio $5$. The $n$th term of a geometric sequence is given by $a=a_1 \\cdot r^{n-1}$, where $a_1$ is the first term and $r$ is the common ratio. Substituting $6$ for $a_1$ and $5$ for $r$ gives $a=6(5^{n-1})$.",
   "source": "https://cooksat.com/practice?questionId=3f004201&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3f004201/1-73f0663bf1846604.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/3f004201/2-eac95c34531acecd.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/3f004201/3-0b8fcb4e6453fcf0.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/3f004201/4-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/3f004201/5-0b8fcb4e6453fcf0.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/3f004201/6-6101d79ac3d4bf77.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/3f004201/7-967ebc49f53304ef.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/3f004201/8-649e3c9c332712b3.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/3f004201/9-a6c82f50e61c52b1.png"
+    }
+  ]
 }

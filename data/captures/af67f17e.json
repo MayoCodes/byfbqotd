@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "af67f17e",
-  "capturedAt": "2026-11-09T21:14:49.213Z",
+  "capturedAt": "2026-11-10T00:00:07.478Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,68 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A function h estimates that there were 5,400 bees in a colony in 2005. Each year from 2005 to 2018, the function estimates that the number of bees in this colony increased by 4% of the number of bees in the colony the previous year. Which equation defines this function, where h(x) is the estimated number of bees in the colony x years after 2005?",
+  "prompt": "A function\n[Figure 1]\nestimates that there were\n[Figure 2]\nbees in a colony in\n[Figure 3]\n. Each year from\n[Figure 4]\nto\n[Figure 5]\n, the function estimates that the number of bees in this colony increased by\n[Figure 6]\nof the number of bees in the colony the previous year. Which equation defines this function, where\n[Figure 7]\nis the estimated number of bees in the colony\n[Figure 8]\nyears after\n[Figure 9]\n?",
   "choices": {
-    "A": "h(x)=5,400(0.96)x",
-    "B": "h(x)=5,400(1.04)x",
-    "C": "h(x)=5,400(1.96)x",
-    "D": "h(x)=5,400(4)x"
+    "A": "[Figure 10]",
+    "B": "[Figure 11]",
+    "C": "[Figure 12]",
+    "D": "[Figure 13]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. It's given that a function $h$ estimates that there were $5{,}400$ bees in a colony in $2005$ and that each year from $2005$ to $2018$, the number of bees in this colony increased by $4\\%$ of the number of bees in the colony the previous year. This situation can be represented by $h(x) = a\\left(1 + \\frac{r}{100}\\right)^{x}$, where $h(x)$ is the estimated number of bees $x$ years after $2005$, $a$ is the estimated number of bees in $2005$, and each year the estimated number of bees increased by $r\\%$. Substituting $5{,}400$ for $a$ and $4$ for $r$ yields $h(x) = 5{,}400\\left(1 + \\frac{4}{100}\\right)^{x}$, or $h(x) = 5{,}400(1.04)^{x}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This function represents a population in which each year the number of bees increased by $300\\%$, not $4\\%$, of the number of bees in the colony the previous year.",
+  "explanation": "Choice B is correct. It's given that a function $h$ estimates that there were $5{,}400$ bees in a colony in $2005$ and that each year from $2005$ to $2018$, the number of bees in this colony increased by $4\\%$ of the number of bees in the colony the previous year. This situation can be represented by $h(x) = a\\left(1 + \\frac{r}{100}\\right)^{x}$, where $h(x)$ is the estimated number of bees $x$ years after $2005$, $a$ is the estimated number of bees in $2005$, and each year the estimated number of bees increased by $r\\%$. Substituting $5{,}400$ for $a$ and $4$ for $r$ yields $h(x) = 5{,}400\\left(1 + \\frac{4}{100}\\right)^{x}$, or $h(x) = 5{,}400(1.04)^{x}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This function represents a population in which each year the number of bees decreased, rather than increased, by $4\\%$ of the number of bees in the colony the previous year.",
   "source": "https://cooksat.com/practice?questionId=af67f17e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/af67f17e/1-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/af67f17e/2-bcc334c424248f96.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/af67f17e/3-820e65779d7b5d7a.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/af67f17e/4-820e65779d7b5d7a.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/af67f17e/5-1ae31b9c528308e8.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/af67f17e/6-f9f7f94cc860a596.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/af67f17e/7-0eb1b7dfc7aa423d.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/af67f17e/8-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/af67f17e/9-820e65779d7b5d7a.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/af67f17e/10-02e70cc9ba662ff2.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/af67f17e/11-7b22ac4645518af8.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/af67f17e/12-0aa383362d7fc99e.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/af67f17e/13-b2e568399ec505f1.png"
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "028d6c1c",
-  "capturedAt": "2026-11-09T21:04:09.620Z",
+  "capturedAt": "2026-11-09T23:20:48.153Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function h is defined by h(x)=5x+4​. What is the value of h(9)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
   "choices": {
-    "A": "57​",
-    "B": "549​",
-    "C": "7",
-    "D": "49"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. It's given that the function $h$ is defined by $h(x) = \\sqrt{5x + 4}$. Substituting $9$ for $x$ in the given function yields $h(9) = \\sqrt{5(9) + 4}$, which is equivalent to $h(9) = \\sqrt{49}$, or $h(9) = 7$. Therefore, the value of $h(9)$ is $7$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from conceptual or calculation errors.",
+  "explanation": "Choice C is correct. It's given that the function $h$ is defined by $h(x) = \\sqrt{5x + 4}$. Substituting $9$ for $x$ in the given function yields $h(9) = \\sqrt{5(9) + 4}$, which is equivalent to $h(9) = \\sqrt{49}$, or $h(9) = 7$. Therefore, the value of $h(9)$ is $7$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from conceptual or calculation errors.",
   "source": "https://cooksat.com/practice?questionId=028d6c1c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/028d6c1c/1-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/028d6c1c/2-6a01c5e97bb08810.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/028d6c1c/3-70a88ff2cae409f3.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/028d6c1c/4-e246e43f4dd76972.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/028d6c1c/5-624ae33ca1258d62.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/028d6c1c/6-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/028d6c1c/7-8d2718f3734ba2d7.png"
+    }
+  ]
 }

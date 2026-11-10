@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "383734a6",
-  "capturedAt": "2026-11-09T21:07:48.905Z",
+  "capturedAt": "2026-11-09T23:46:56.766Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,35 @@
   "difficulty": "Medium",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "A company's monthly revenue, in thousands of dollars, can be modeled by the function R(x)=−2x3+15x2+50x+100, where x represents the number of units sold, in hundreds. What is the company's revenue, in thousands of dollars, when 300 units are sold?",
+  "prompt": "A company's monthly revenue, in thousands of dollars, can be modeled by the function\n[Figure 1]\n, where\n[Figure 2]\nrepresents the number of units sold, in hundreds. What is the company's revenue, in thousands of dollars, when\n[Figure 3]\nunits are sold?\n\n[Figure 4]\n\n[Figure 5]",
   "choices": {},
-  "correctAnswer": "331",
+  "correctAnswer": "[Figure 6]",
   "explanation": "The correct answer is $331$. The function $R(x) = -2x^3 + 15x^2 + 50x + 100$ gives the monthly revenue in thousands of dollars, where $x$ represents the number of units sold in hundreds. Since $300$ units are sold, and $x$ represents hundreds of units, $x = \\frac{300}{100} = 3$. Substituting $x = 3$ into the function yields:\n\n$R(3) = -2(3)^3 + 15(3)^2 + 50(3) + 100$\n\nEvaluating each term:\n\n$-2(3)^3 = -2(27) = -54$\n\n$15(3)^2 = 15(9) = 135$\n\n$50(3) = 150$\n\nConstant term: $100$\n\nCombining these terms:\n$R(3) = -54 + 135 + 150 + 100 = 331$\n\nTherefore, the company's revenue is $$331{,}000$ when $300$ units are sold.",
   "source": "https://cooksat.com/practice?questionId=383734a6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/383734a6/1-93ecb080b330f5dc.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/383734a6/2-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/383734a6/3-3118f3e328d38e99.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/383734a6/4-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/383734a6/5-76d6c3ceb9a0b9a6.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/383734a6/6-64f3de0886d835d6.png"
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "bf6b37cd",
-  "capturedAt": "2026-11-09T21:15:55.461Z",
+  "capturedAt": "2026-11-10T00:02:19.990Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,48 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g is defined by g(x)=∣x−6x∣. What value of a satisfies g(3)−g(a)=−20?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What value of\n[Figure 3]\nsatisfies\n[Figure 4]\n?",
   "choices": {
-    "A": "−14",
-    "B": "3",
-    "C": "7",
-    "D": "35"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. The function $g$ is defined by $g(x) = |x - 6x|$. Substituting $3$ for $x$ yields $g(3) = |3 - 6(3)| = |-15| = 15$. Substituting $a$ for $x$ yields $g(a) = |a - 6a| = |-5a|$. Substituting these into $g(3) - g(a) = -20$ gives $15 - |-5a| = -20$. Subtracting $15$ from both sides yields $-|-5a| = -35$, so $|-5a| = 35$. By the definition of absolute value, $-5a = 35$ or $-5a = -35$, giving $a = -7$ or $a = 7$. Of the given choices, $7$ satisfies the equation.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from stopping after finding $|-5a| = 35$ without dividing by $5$ to solve for $a$.",
+  "explanation": "Choice C is correct. The function $g$ is defined by $g(x) = |x - 6x|$. Substituting $3$ for $x$ yields $g(3) = |3 - 6(3)| = |-15| = 15$. Substituting $a$ for $x$ yields $g(a) = |a - 6a| = |-5a|$. Substituting these into $g(3) - g(a) = -20$ gives $15 - |-5a| = -20$. Subtracting $15$ from both sides yields $-|-5a| = -35$, so $|-5a| = 35$. By the definition of absolute value, $-5a = 35$ or $-5a = -35$, giving $a = -7$ or $a = 7$. Of the given choices, $7$ satisfies the equation.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This is the value substituted into $g(3)$, not a value of $a$ that satisfies the equation $g(3) - g(a) = -20$.",
   "source": "https://cooksat.com/practice?questionId=bf6b37cd&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/bf6b37cd/1-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/bf6b37cd/2-b464e1153c84b3f1.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/bf6b37cd/3-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/bf6b37cd/4-46ca5575bd076cae.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/bf6b37cd/5-df97dbdaa12feb44.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/bf6b37cd/6-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/bf6b37cd/7-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/bf6b37cd/8-bf52d099c8658154.png"
+    }
+  ]
 }

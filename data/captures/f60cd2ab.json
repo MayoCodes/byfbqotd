@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "f60cd2ab",
-  "capturedAt": "2026-11-09T21:18:57.910Z",
+  "capturedAt": "2026-11-10T00:08:35.285Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,68 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "y=0.5x2−6x+48.5",
+  "prompt": "[Figure 1]\n\nThe equation gives the estimated temperature\n[Figure 2]\n, in degrees Celsius, of a cooling liquid\n[Figure 3]\nhours after an experiment began, where\n[Figure 4]\n. Which statement is the best interpretation of\n[Figure 5]\nin this context?",
   "choices": {
-    "A": "The estimated temperature of the cooling liquid increased by 2 degrees Celsius every 38.5 hours after the experiment began.",
-    "B": "The estimated temperature of the cooling liquid increased by 38.5 degrees Celsius every 2 hours after the experiment began.",
-    "C": "38.5 hours after the experiment began, the estimated temperature of the cooling liquid is 2 degrees Celsius.",
-    "D": "2 hours after the experiment began, the estimated temperature of the cooling liquid is 38.5 degrees Celsius."
+    "A": "The estimated temperature of the cooling liquid increased by\n[Figure 6]\ndegrees Celsius every\n[Figure 7]\nhours after the experiment began.",
+    "B": "The estimated temperature of the cooling liquid increased by\n[Figure 8]\ndegrees Celsius every\n[Figure 9]\nhours after the experiment began.",
+    "C": "[Figure 10]\nhours after the experiment began, the estimated temperature of the cooling liquid is\n[Figure 11]\ndegrees Celsius.",
+    "D": "[Figure 12]\nhours after the experiment began, the estimated temperature of the cooling liquid is\n[Figure 13]\ndegrees Celsius."
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. In the given equation, $x$ represents the number of hours after the experiment began, where $0 \\leq x \\leq 15$, and $y$ represents the estimated temperature, in degrees Celsius, of the cooling liquid. Therefore, the best interpretation of $(x, y) = (2, 38.5)$ in this context is that $2$ hours after the experiment began, the estimated temperature of the cooling liquid is $38.5$ degrees Celsius.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from reversing the values in the ordered pair. The point $(2, 38.5)$ indicates that when $x = 2$, $y = 38.5$, not that when $x = 38.5$, $y = 2$.",
+  "explanation": "Choice D is correct. In the given equation, $x$ represents the number of hours after the experiment began, where $0 \\leq x \\leq 15$, and $y$ represents the estimated temperature, in degrees Celsius, of the cooling liquid. Therefore, the best interpretation of $(x, y) = (2, 38.5)$ in this context is that $2$ hours after the experiment began, the estimated temperature of the cooling liquid is $38.5$ degrees Celsius.",
   "source": "https://cooksat.com/practice?questionId=f60cd2ab&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f60cd2ab/1-ecdaace766cb09eb.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/f60cd2ab/2-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/f60cd2ab/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/f60cd2ab/4-061c01a5d36075c1.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/f60cd2ab/5-7fe8cd241b02615a.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/f60cd2ab/6-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/f60cd2ab/7-ce4fcd69dbb7544d.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/f60cd2ab/8-ce4fcd69dbb7544d.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/f60cd2ab/9-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/f60cd2ab/10-ce4fcd69dbb7544d.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/f60cd2ab/11-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/f60cd2ab/12-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/f60cd2ab/13-ce4fcd69dbb7544d.png"
+    }
+  ]
 }

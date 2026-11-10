@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "0fa32b25",
-  "capturedAt": "2026-11-09T21:05:02.442Z",
+  "capturedAt": "2026-11-09T23:23:43.461Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g is defined by g(x)=(−4)(5)x+30. What is the y-intercept of the graph of y=g(x) in the xy-plane?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the\n[Figure 3]\n-intercept of the graph of\n[Figure 4]\nin the\n[Figure 5]\n-plane?",
   "choices": {
-    "A": "(0,−4)",
-    "B": "(0,5)",
-    "C": "(0,26)",
-    "D": "(0,30)"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. The $y$-intercept of the graph of $y = g(x)$ in the $xy$-plane is the point where the graph crosses the $y$-axis, which occurs when $x = 0$. Substituting $0$ for $x$ in the given function yields $g(0) = (-4)(5)^{0} + 30$. Since any nonzero number raised to the power of $0$ equals $1$, this gives $g(0) = (-4)(1) + 30 = -4 + 30 = 26$. Therefore, the $y$-intercept is $(0, 26)$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from identifying the base $5$ of the exponential expression and incorrectly assuming this is the $y$-intercept without evaluating the entire function at $x = 0$.",
   "source": "https://cooksat.com/practice?questionId=0fa32b25&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0fa32b25/1-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/0fa32b25/2-2c0540d2773e231c.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/0fa32b25/3-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/0fa32b25/4-a370960d94a8b7e2.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/0fa32b25/5-df1c87962ee41243.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/0fa32b25/6-9edea1e71e2a6c0e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/0fa32b25/7-c12cf42d24d02c62.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/0fa32b25/8-90eb111e47ea5e18.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/0fa32b25/9-54ed513ac0025aeb.png"
+    }
+  ]
 }

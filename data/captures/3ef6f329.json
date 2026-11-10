@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "3ef6f329",
-  "capturedAt": "2026-11-09T21:08:12.350Z",
+  "capturedAt": "2026-11-09T23:47:40.901Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The graph of y=f(x) is shown. What is the value of f(0)?",
+  "prompt": "[Figure 1]\n\nThe graph of\n[Figure 2]\nis shown. What is the value of\n[Figure 3]\n?",
   "choices": {
-    "A": "2",
-    "B": "3",
-    "C": "4",
-    "D": "8"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. The graph of $y=f(x)$ is shown. The graph passes through the point $(0,2)$. Therefore, $f(0)=2$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from conceptual or calculation errors.",
+  "explanation": "Choice A is correct. The graph of $y=f(x)$ is shown. The graph passes through the point $(0,2)$. Therefore, $f(0)=2$.",
   "source": "https://cooksat.com/practice?questionId=3ef6f329&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/3ef6f329/1-36290caf24a80e8e.png"
+      "path": "data/capture-assets/3ef6f329/1-63eb5350819a5e44.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/3ef6f329/2-8dfb98eeaa92843f.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/3ef6f329/3-5429f188c46706a7.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/3ef6f329/4-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/3ef6f329/5-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/3ef6f329/6-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/3ef6f329/7-f4f34a91ada02fa5.png"
     }
   ]
 }

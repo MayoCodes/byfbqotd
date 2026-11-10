@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "0d348ffc",
-  "capturedAt": "2026-11-09T21:04:59.075Z",
+  "capturedAt": "2026-11-09T23:23:33.707Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,48 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function h(x)=12,500(0.35)x/12 gives the value, in dollars, of a certain vehicle after x months of ownership. If the value of the vehicle decreases each year by p% of its value the preceding year, what is the value of p?",
+  "prompt": "The function\n[Figure 1]\ngives the value, in dollars, of a certain vehicle after\n[Figure 2]\nmonths of ownership. If the value of the vehicle decreases each year by\n[Figure 3]\nof its value the preceding year, what is the value of\n[Figure 4]\n?",
   "choices": {
-    "A": "5",
-    "B": "15",
-    "C": "35",
-    "D": "65"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. It's given that the value of the vehicle decreases each year by $p\\%$ of its value the preceding year. This means that after one year, the value is $\\left(1 - \\frac{p}{100}\\right)$ times the value at the start of the year. Since $x$ represents the number of months after the vehicle is first owned, one year corresponds to $x = 12$. Substituting $12$ for $x$ in the given equation yields $h(12) = 12{,}500(0.35)^{\\frac{12}{12}}$, which is equivalent to $h(12) = 12{,}500(0.35)$. This shows that after one year (or $12$ months), the value of the vehicle is $0.35$ times its initial value of $$12{,}500$. Therefore, $1 - \\frac{p}{100} = 0.35$. Subtracting $1$ from both sides gives $-\\frac{p}{100} = -0.65$, so $\\frac{p}{100} = 0.65$. Multiplying both sides by $100$ yields $p = 65$.",
   "source": "https://cooksat.com/practice?questionId=0d348ffc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0d348ffc/1-57c4a2532982fd08.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/0d348ffc/2-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/0d348ffc/3-987dee03e4eac733.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/0d348ffc/4-f07e748cf82e0762.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/0d348ffc/5-8fc3cfb4a4e6f37e.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/0d348ffc/6-c395eb4f102fcf49.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/0d348ffc/7-bf52d099c8658154.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/0d348ffc/8-42473ea632e52e1d.png"
+    }
+  ]
 }

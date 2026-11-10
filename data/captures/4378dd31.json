@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "4378dd31",
-  "capturedAt": "2026-11-09T21:08:37.855Z",
+  "capturedAt": "2026-11-09T23:48:33.296Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=51​(x−13)2+7. What is the minimum value of f(x)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the minimum value of\n[Figure 3]\n?",
   "choices": {
-    "A": "−7",
-    "B": "7",
-    "C": "13",
-    "D": "20"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "B",
-  "explanation": "The function $f(x) = \\frac{1}{5}(x-13)^2 + 7$ is in vertex form $f(x) = a(x-h)^2 + k$ where $a = \\frac{1}{5} > 0$, $h = 13$, and $k = 7$. Since $a > 0$, the parabola opens upward and has a minimum value at the vertex. The minimum value is $k = 7$, occurring when $x = 13$.\n\nWhy D is incorrect:\n\nResults from adding the vertex coordinates: $h + k = 13 + 7 = 20$, rather than recognizing that the minimum value is just the $k$-coordinate.",
+  "explanation": "The function $f(x) = \\frac{1}{5}(x-13)^2 + 7$ is in vertex form $f(x) = a(x-h)^2 + k$ where $a = \\frac{1}{5} > 0$, $h = 13$, and $k = 7$. Since $a > 0$, the parabola opens upward and has a minimum value at the vertex. The minimum value is $k = 7$, occurring when $x = 13$.\n\nWhy C is incorrect:\n\nThis is the $x$-coordinate of the vertex ($h = 13$), not the minimum value of the function. The minimum value occurs at $x = 13$ but equals $f(13) = 7$.",
   "source": "https://cooksat.com/practice?questionId=4378dd31&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4378dd31/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/4378dd31/2-51be7baa1b71faea.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/4378dd31/3-301fefb43a2fb7eb.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/4378dd31/4-f6782859b4f5a6e8.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/4378dd31/5-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/4378dd31/6-dbd2fb5bdaedd1fa.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/4378dd31/7-12028fd4d7919682.png"
+    }
+  ]
 }

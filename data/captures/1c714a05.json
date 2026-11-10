@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "1c714a05",
-  "capturedAt": "2026-11-09T21:05:46.166Z",
+  "capturedAt": "2026-11-09T23:26:03.996Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,56 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "For a certain function f, the graph in the xy-plane of y=f(x) is a parabola with a vertex at (4,16). If f(0)=128, what is the value of f(8)?",
+  "prompt": "For a certain function\n[Figure 1]\n, the graph in the\n[Figure 2]\n-plane of\n[Figure 3]\nis a parabola with a vertex at\n[Figure 4]\n. If\n[Figure 5]\n, what is the value of\n[Figure 6]\n?",
   "choices": {
-    "A": "32",
-    "B": "64",
-    "C": "128",
-    "D": "256"
+    "A": "[Figure 7]",
+    "B": "[Figure 8]",
+    "C": "[Figure 9]",
+    "D": "[Figure 10]"
   },
   "correctAnswer": "C",
   "explanation": "Since the parabola has vertex $(4,16)$, it can be written as $f(x)=a(x-4)^2+16$ for some constant $a$. Using $f(0)=128$: $128=a(0-4)^2+16=16a+16$. Solving gives $a=7$, so $f(x)=7(x-4)^2+16$. Therefore $f(8)=7(8-4)^2+16=7(16)+16=128$.",
   "source": "https://cooksat.com/practice?questionId=1c714a05&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1c714a05/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/1c714a05/2-df1c87962ee41243.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/1c714a05/3-8dfb98eeaa92843f.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/1c714a05/4-556b10d1b13c1e33.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/1c714a05/5-f5c9cbc9faf8a1eb.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/1c714a05/6-5bf847dcdc1a56c2.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/1c714a05/7-7220c8275b4af488.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/1c714a05/8-e5e188ba98cebaef.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/1c714a05/9-13010198dc51ce72.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/1c714a05/10-4c9a43257cecdb9f.png"
+    }
+  ]
 }

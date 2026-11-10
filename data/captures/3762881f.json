@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "3762881f",
-  "capturedAt": "2026-11-09T21:07:33.671Z",
+  "capturedAt": "2026-11-09T23:46:35.204Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,7 +10,7 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "I. f(x)=45(0.5)x+2\n\nII. g(x)=45(0.25)(0.5)x−2",
+  "prompt": "I.\n[Figure 1]\n\nII.\n[Figure 2]\n\nThe functions\n[Figure 3]\nand\n[Figure 4]\nare defined by the given equations, where\n[Figure 5]\n. Which of the following equations displays, as a constant or coefficient, the maximum value of the function it defines, where\n[Figure 6]\n?",
   "choices": {
     "A": "I only",
     "B": "II only",
@@ -17,7 +18,32 @@
     "D": "Neither I nor II"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. Both functions are decreasing exponentials with base $0.5<1$, so their maximum values occur at $x=0$. For $f$: $f(0)=45(0.5)^{0+2}=45(0.25)=11.25$, which is not displayed in equation I. For $g$: $g(0)=45(0.25)(0.5)^{0-2}=45(0.25)(4)=45$, which is displayed as the coefficient in equation II. Therefore, only equation II displays its maximum value.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The maximum value of $f$ is $f(0)=45(0.5)^2=11.25$, not $45$, so equation I does not display its maximum value.",
+  "explanation": "Choice B is correct. Both functions are decreasing exponentials with base $0.5<1$, so their maximum values occur at $x=0$. For $f$: $f(0)=45(0.5)^{0+2}=45(0.25)=11.25$, which is not displayed in equation I. For $g$: $g(0)=45(0.25)(0.5)^{0-2}=45(0.25)(4)=45$, which is displayed as the coefficient in equation II. Therefore, only equation II displays its maximum value.\n\nWhy C is incorrect:\n\nChoice C is incorrect. While equation II displays its maximum value of $45$, equation I does not display its maximum value of $11.25$.",
   "source": "https://cooksat.com/practice?questionId=3762881f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3762881f/1-aa916914a54722b5.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/3762881f/2-0fa8ce7bbadedb7f.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/3762881f/3-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/3762881f/4-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/3762881f/5-6024564f419d560f.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/3762881f/6-6024564f419d560f.png"
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "309f9822",
-  "capturedAt": "2026-11-09T21:07:04.044Z",
+  "capturedAt": "2026-11-09T23:45:41.508Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,12 +10,12 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "What is the y-intercept of the graph shown?",
+  "prompt": "[Figure 1]\n\nWhat is the y-intercept of the graph shown?",
   "choices": {
-    "A": "(−5,0)",
-    "B": "(−4,0)",
-    "C": "(0,4)",
-    "D": "(0,5)"
+    "A": "[Figure 2]",
+    "B": "[Figure 3]",
+    "C": "[Figure 4]",
+    "D": "[Figure 5]"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. The y-intercept of a graph in the xy-plane is the point at which the graph crosses the y-axis. The graph shown crosses the y-axis at the point $(0, 5)$. Therefore, the y-intercept of the graph shown is $(0, 5)$.",
@@ -22,7 +23,23 @@
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/309f9822/1-7bfb3c147564454b.png"
+      "path": "data/capture-assets/309f9822/1-b115b738909a46ab.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/309f9822/2-d327ae08af4e43b2.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/309f9822/3-ad6ea7e64bea4dd9.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/309f9822/4-dede5835da502dbe.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/309f9822/5-c12cf42d24d02c62.png"
     }
   ]
 }

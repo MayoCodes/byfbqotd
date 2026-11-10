@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "e49e037f",
-  "capturedAt": "2026-11-09T21:17:57.320Z",
+  "capturedAt": "2026-11-10T00:06:39.938Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,64 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A biologist estimates that the number of bacteria in a culture was 12,000 at the start of 2015. The model also estimates that for each of the next 8 years, the number of bacteria N increased by 7% of the previous year's count. Which equation best represents this model, where t is the number of years after 2015, for t≤8?",
+  "prompt": "A biologist estimates that the number of bacteria in a culture was\n[Figure 1]\nat the start of\n[Figure 2]\n. The model also estimates that for each of the next\n[Figure 3]\nyears, the number of bacteria\n[Figure 4]\nincreased by\n[Figure 5]\nof the previous year's count. Which equation best represents this model, where\n[Figure 6]\nis the number of years after\n[Figure 7]\n, for\n[Figure 8]\n?",
   "choices": {
-    "A": "N=0.93(12,000)t",
-    "B": "N=1.07(12,000)t",
-    "C": "N=12,000(0.93)t",
-    "D": "N=12,000(1.07)t"
+    "A": "[Figure 9]",
+    "B": "[Figure 10]",
+    "C": "[Figure 11]",
+    "D": "[Figure 12]"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. An exponential growth model can be written as $N = a(1 + r)^{t}$, where $N$ is the quantity after $t$ years, $a$ is the initial quantity, and $r$ is the growth rate expressed as a decimal. Since the initial number of bacteria was $12{,}000$, $a = 12{,}000$. Since the count increased by $7\\%$ each year, $r = 0.07$. Substituting these values yields $N = 12{,}000(1 + 0.07)^{t}$, which is equivalent to $N = 12{,}000(1.07)^{t}$.",
   "source": "https://cooksat.com/practice?questionId=e49e037f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e49e037f/1-8e629efd9cc6ab34.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/e49e037f/2-04765d4440c7f060.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/e49e037f/3-7a88e37fc6073da8.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/e49e037f/4-6001ca56a4f2724b.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/e49e037f/5-b949e1e7844e27fe.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/e49e037f/6-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/e49e037f/7-04765d4440c7f060.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/e49e037f/8-f8e8bfe535e67866.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/e49e037f/9-829df6a7b78ebf46.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/e49e037f/10-b4ade19d3fd11cd3.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/e49e037f/11-e59fe87ae0643937.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/e49e037f/12-e7c2a52b7a76060c.png"
+    }
+  ]
 }

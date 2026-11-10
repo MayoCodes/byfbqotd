@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "629bd078",
-  "capturedAt": "2026-11-09T21:10:36.680Z",
+  "capturedAt": "2026-11-09T23:52:25.859Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A function f is defined by f(x)=x2+3x−4. Which of the following statements is true about the graph of y=f(x)?",
+  "prompt": "A function\n[Figure 1]\nis defined by\n[Figure 2]\n. Which of the following statements is true about the graph of\n[Figure 3]\n?",
   "choices": {
-    "A": "The graph has a maximum at (−23​,−425​).",
-    "B": "The graph has a minimum at (0,−4).",
-    "C": "The graph has a maximum at (23​,45​).",
-    "D": "The graph has a minimum at (−23​,−425​)."
+    "A": "The graph has a maximum at\n[Figure 4]\n.",
+    "B": "The graph has a minimum at\n[Figure 5]\n.",
+    "C": "The graph has a maximum at\n[Figure 6]\n.",
+    "D": "The graph has a minimum at\n[Figure 7]\n."
   },
   "correctAnswer": "D",
   "explanation": "Since $f(x) = x^2 + 3x - 4$ has a positive coefficient for $x^2$, the parabola opens upward and has a minimum at its vertex. Using the vertex formula $x = -\\frac{b}{2a}$ with $a=1$ and $b=3$: $x = -\\frac{3}{2}$. Substituting: $f(-\\frac{3}{2}) = (-\\frac{3}{2})^2 + 3(-\\frac{3}{2}) - 4 = \\frac{9}{4} - \\frac{9}{2} - 4 = \\frac{9-18-16}{4} = -\\frac{25}{4}$.\n\nWhy B is incorrect:\n\nResults from incorrectly assuming the vertex is at $(0, -4)$ by evaluating $f(0) = -4$ without using the vertex formula to find the actual minimum location.",
   "source": "https://cooksat.com/practice?questionId=629bd078&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/629bd078/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/629bd078/2-7676435eeaafb95d.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/629bd078/3-8dfb98eeaa92843f.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/629bd078/4-c139ca75bfa51e8d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/629bd078/5-9edea1e71e2a6c0e.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/629bd078/6-9fad25cd2aa1a6cc.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/629bd078/7-c139ca75bfa51e8d.png"
+    }
+  ]
 }

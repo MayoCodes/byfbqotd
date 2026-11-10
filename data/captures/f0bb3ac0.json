@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "f0bb3ac0",
-  "capturedAt": "2026-11-09T21:18:36.107Z",
+  "capturedAt": "2026-11-10T00:07:56.877Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,52 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "For the exponential function h, the table shows four values of x and their corresponding values of h(x). Which equation defines h?",
+  "prompt": "[Table 1]\n\nFor the exponential function\n[Figure 2]\n, the table shows four values of\n[Figure 3]\nand their corresponding values of\n[Figure 4]\n. Which equation defines\n[Figure 5]\n?",
   "choices": {
-    "A": "h(x)=−16x",
-    "B": "h(x)=−(161​)x",
-    "C": "h(x)=(161​)x",
-    "D": "h(x)=16x"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. Since $h$ is exponential, an equation defining $h$ can be written in the form $h(x) = a(b)^{x}$, where $a$ and $b$ are constants. The table shows that when $x = 0$, $h(x) = 1$. Substituting $0$ for $x$ and $1$ for $h(x)$ yields $1 = a(b)^{0}$, which is equivalent to $1 = a$. Substituting $1$ for $a$ yields $h(x) = (b)^{x}$. The table also shows that when $x = 1$, $h(x) = 16$. Substituting $1$ for $x$ and $16$ for $h(x)$ yields $16 = (b)^{1}$, so $b = 16$. Therefore, $h(x) = 16^{x}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. For this function, $h(1)$ is equal to $-\\frac{1}{16}$, not $16$.",
+  "explanation": "Choice D is correct. Since $h$ is exponential, an equation defining $h$ can be written in the form $h(x) = a(b)^{x}$, where $a$ and $b$ are constants. The table shows that when $x = 0$, $h(x) = 1$. Substituting $0$ for $x$ and $1$ for $h(x)$ yields $1 = a(b)^{0}$, which is equivalent to $1 = a$. Substituting $1$ for $a$ yields $h(x) = (b)^{x}$. The table also shows that when $x = 1$, $h(x) = 16$. Substituting $1$ for $x$ and $16$ for $h(x)$ yields $16 = (b)^{1}$, so $b = 16$. Therefore, $h(x) = 16^{x}$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. For this function, $h(1)$ is equal to $\\frac{1}{16}$, not $16$.",
   "source": "https://cooksat.com/practice?questionId=f0bb3ac0&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/f0bb3ac0/1-8e499f11ef9ea59c.png"
+      "path": "data/capture-assets/f0bb3ac0/1-bc039fece644d93d.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/f0bb3ac0/2-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/f0bb3ac0/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/f0bb3ac0/4-0eb1b7dfc7aa423d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/f0bb3ac0/5-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/f0bb3ac0/6-ffdaced2cdfaf726.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/f0bb3ac0/7-7d5ef3df1d6a3978.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/f0bb3ac0/8-763d9c395ec0b03d.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/f0bb3ac0/9-eb4375ed4730d4d4.png"
     }
   ]
 }

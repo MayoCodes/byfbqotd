@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "ed6813d7",
-  "capturedAt": "2026-11-09T21:18:23.792Z",
+  "capturedAt": "2026-11-10T00:07:31.080Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,51 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=x3−6x2+11x−6. If r, s, and t are the three zeros of f, what is the value of r+s+t?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. If\n[Figure 3]\n,\n[Figure 4]\n, and\n[Figure 5]\nare the three zeros of\n[Figure 6]\n, what is the value of\n[Figure 7]\n?\n\n[Figure 8]\n\n[Figure 9]",
   "choices": {},
-  "correctAnswer": "6",
+  "correctAnswer": "[Figure 10]",
   "explanation": "The correct answer is $6$. For a polynomial function of the form $f(x) = x^3 + bx^2 + cx + d$, where the coefficient of $x^3$ is $1$, the sum of the zeros equals $-b$ by Vieta's formulas. The given function $f(x) = x^3 - 6x^2 + 11x - 6$ can be written as $f(x) = x^3 + (-6)x^2 + 11x + (-6)$, so $b = -6$. Therefore, the sum of the three zeros is $r + s + t = -(-6) = 6$.\n\nAlternatively, the function can be factored as $f(x) = (x-1)(x-2)(x-3)$, giving zeros $r = 1$, $s = 2$, and $t = 3$. Thus $r + s + t = 1 + 2 + 3 = 6$, confirming the answer.",
   "source": "https://cooksat.com/practice?questionId=ed6813d7&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ed6813d7/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/ed6813d7/2-bb8af7868b079047.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/ed6813d7/3-adab81c4e24d47ac.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/ed6813d7/4-f566ac546561428f.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/ed6813d7/5-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/ed6813d7/6-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/ed6813d7/7-a0a85137aa8988a7.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/ed6813d7/8-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/ed6813d7/9-29603e33b822ff16.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/ed6813d7/10-58ff7c7c4e99ac0a.png"
+    }
+  ]
 }

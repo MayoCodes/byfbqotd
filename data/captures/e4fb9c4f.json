@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "e4fb9c4f",
-  "capturedAt": "2026-11-09T21:18:00.325Z",
+  "capturedAt": "2026-11-10T00:06:47.804Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,56 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "For the exponential function g, the value of g(2) is k, where k is a constant. Which of the following equivalent forms of the function g shows the value of k as the coefficient or the base?",
+  "prompt": "For the exponential function\n[Figure 1]\n, the value of\n[Figure 2]\nis\n[Figure 3]\n, where\n[Figure 4]\nis a constant. Which of the following equivalent forms of the function\n[Figure 5]\nshows the value of\n[Figure 6]\nas the coefficient or the base?",
   "choices": {
-    "A": "g(x)=2(3)x+1",
-    "B": "g(x)=6(3)x",
-    "C": "g(x)=54(3)x−2",
-    "D": "g(x)=162(3)x−3"
+    "A": "[Figure 7]",
+    "B": "[Figure 8]",
+    "C": "[Figure 9]",
+    "D": "[Figure 10]"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. For the form $g(x) = 54(3)^{x - 2}$, evaluating at $x = 2$ gives $g(2) = 54(3)^{2 - 2} = 54(3)^{0} = 54$. Therefore $k = 54$, which is displayed as the coefficient in $g(x) = 54(3)^{x - 2}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. For $g(x) = 162(3)^{x - 3}$, the coefficient $162$ equals $g(3)$, not $g(2)$. Although this form is equivalent to the correct function, $k = 54$ is not displayed as a visible coefficient or base.",
   "source": "https://cooksat.com/practice?questionId=e4fb9c4f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e4fb9c4f/1-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/e4fb9c4f/2-e81aec88f07f7a00.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/e4fb9c4f/3-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/e4fb9c4f/4-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/e4fb9c4f/5-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/e4fb9c4f/6-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/e4fb9c4f/7-14a4614a8d5dba30.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/e4fb9c4f/8-6f036ab4fb0625e8.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/e4fb9c4f/9-b4ea5dcbcb955e3a.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/e4fb9c4f/10-260524a92000c6e2.png"
+    }
+  ]
 }

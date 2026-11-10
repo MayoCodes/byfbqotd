@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "547e9a6f",
-  "capturedAt": "2026-11-09T21:09:52.853Z",
+  "capturedAt": "2026-11-09T23:50:59.838Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,48 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The graph of the function g is shown, where y=g(x). What is the value of g(0)?",
+  "prompt": "[Figure 1]\n\nThe graph of the function\n[Figure 2]\nis shown, where\n[Figure 3]\n. What is the value of\n[Figure 4]\n?",
   "choices": {
-    "A": "−2",
-    "B": "4",
-    "C": "7",
-    "D": "9"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. The notation $g(0)$ represents the value of the function $g$ when $x = 0$. In the $xy$-plane, this is the $y$-coordinate of the point where the graph intersects the $y$-axis. The graph shown passes through the point $(0, 4)$. Therefore, $g(0) = 4$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from misreading the graph and identifying the $y$-coordinate at $x = 2$ instead of $x = 0$.",
+  "explanation": "Choice B is correct. The notation $g(0)$ represents the value of the function $g$ when $x = 0$. In the $xy$-plane, this is the $y$-coordinate of the point where the graph intersects the $y$-axis. The graph shown passes through the point $(0, 4)$. Therefore, $g(0) = 4$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from misreading the graph and identifying the $y$-coordinate at $x = 4$ instead of $x = 0$.",
   "source": "https://cooksat.com/practice?questionId=547e9a6f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/547e9a6f/1-213cfb5e0e87b02b.png"
+      "path": "data/capture-assets/547e9a6f/1-2db6dd1e3af90e77.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/547e9a6f/2-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/547e9a6f/3-a370960d94a8b7e2.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/547e9a6f/4-fa0a1e68d2934994.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/547e9a6f/5-c3f6ce48a3837614.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/547e9a6f/6-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/547e9a6f/7-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/547e9a6f/8-42e42729df9aea5a.png"
     }
   ]
 }

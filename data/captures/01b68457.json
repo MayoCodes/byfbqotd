@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "01b68457",
-  "capturedAt": "2026-11-09T21:04:00.911Z",
+  "capturedAt": "2026-11-09T23:20:28.292Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,43 @@
   "difficulty": "Medium",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=x2−kx+10, where k is a constant. If f(3)=4, what is the value of k?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nis a constant. If\n[Figure 4]\n, what is the value of\n[Figure 5]\n?\n\n[Figure 6]\n\n[Figure 7]",
   "choices": {},
-  "correctAnswer": "5",
+  "correctAnswer": "[Figure 8]",
   "explanation": "The correct answer is $5$. It's given that the function $f$ is defined by $f(x) = x^2 - kx + 10$ and that $f(3) = 4$. To find the value of $k$, substitute $3$ for $x$ in the function definition: $f(3) = 3^2 - k(3) + 10$. Simplifying the right side yields $f(3) = 9 - 3k + 10$, or $f(3) = 19 - 3k$. Since it's given that $f(3) = 4$, it follows that $19 - 3k = 4$. Subtracting $19$ from both sides gives $-3k = -15$. Dividing both sides by $-3$ yields $k = 5$. Therefore, the value of $k$ is $5$.",
   "source": "https://cooksat.com/practice?questionId=01b68457&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/01b68457/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/01b68457/2-07d8a7ce5dfbf221.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/01b68457/3-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/01b68457/4-edb372d6df49e8b7.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/01b68457/5-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/01b68457/6-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/01b68457/7-8fc3cfb4a4e6f37e.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/01b68457/8-4ba1164649b6fcb7.png"
+    }
+  ]
 }

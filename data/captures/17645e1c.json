@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "17645e1c",
-  "capturedAt": "2026-11-09T21:05:38.838Z",
+  "capturedAt": "2026-11-09T23:25:35.190Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,35 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "A rectangular garden plot has an area of 138 square feet. The length of the garden plot is 7 feet less than 5 times the width of the garden plot. What is the width of the garden plot, in feet?",
+  "prompt": "A rectangular garden plot has an area of\n[Figure 1]\nsquare feet. The length of the garden plot is\n[Figure 2]\nfeet less than\n[Figure 3]\ntimes the width of the garden plot. What is the width of the garden plot, in feet?\n\n[Figure 4]\n\n[Figure 5]",
   "choices": {},
-  "correctAnswer": "6",
+  "correctAnswer": "[Figure 6]",
   "explanation": "The correct answer is $6$. Let $x$ represent the width, in feet, of the garden plot. It's given that the length of the garden plot is $7$ feet less than $5$ times its width, or $5x - 7$ feet. The area of a rectangle is equal to its width multiplied by its length. Multiplying the width, $x$ feet, by the length, $5x - 7$ feet, yields $x(5x - 7)$ square feet. It's given that the garden plot has an area of $138$ square feet, so it follows that $x(5x - 7) = 138$, or $5x^{2} - 7x = 138$. Subtracting $138$ from both sides of this equation yields $5x^{2} - 7x - 138 = 0$. Factoring the left-hand side of this equation yields $(5x + 23)(x - 6) = 0$. Applying the zero product property to this equation yields two solutions: $x = -\\frac{23}{5}$ and $x = 6$. Since $x$ is the garden plot's width, in feet, which must be positive, the value of $x$ is $6$. Therefore, the width of the garden plot, in feet, is $6$.",
   "source": "https://cooksat.com/practice?questionId=17645e1c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/17645e1c/1-c0dbfb1fb76981db.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/17645e1c/2-0f673374db83edc0.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/17645e1c/3-eac95c34531acecd.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/17645e1c/4-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/17645e1c/5-29603e33b822ff16.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/17645e1c/6-58ff7c7c4e99ac0a.png"
+    }
+  ]
 }

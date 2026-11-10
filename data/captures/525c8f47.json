@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "525c8f47",
-  "capturedAt": "2026-11-09T21:09:30.797Z",
+  "capturedAt": "2026-11-09T23:50:09.721Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=2x2−3. The function g is defined by g(x)=f(x+1)−4. What is the value of g(2)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. The function\n[Figure 3]\nis defined by\n[Figure 4]\n. What is the value of\n[Figure 5]\n?",
   "choices": {
-    "A": "7",
-    "B": "11",
-    "C": "15",
-    "D": "23"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "B",
   "explanation": "To find $g(2)$, substitute $2$ for $x$ in $g(x) = f(x+1) - 4$, giving $g(2) = f(3) - 4$. Since $f(x) = 2x^2 - 3$, evaluating $f(3)$ yields $f(3) = 2(9) - 3 = 15$. Therefore, $g(2) = 15 - 4 = 11$.",
   "source": "https://cooksat.com/practice?questionId=525c8f47&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/525c8f47/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/525c8f47/2-d472ffc11d29b5b5.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/525c8f47/3-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/525c8f47/4-03ad546d3edc6abe.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/525c8f47/5-e81aec88f07f7a00.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/525c8f47/6-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/525c8f47/7-56fefb6176fe7daf.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/525c8f47/8-c395eb4f102fcf49.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/525c8f47/9-e5ca10a0a72fe6d4.png"
+    }
+  ]
 }

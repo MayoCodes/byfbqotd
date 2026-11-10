@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "2007c511",
-  "capturedAt": "2026-11-09T21:05:57.243Z",
+  "capturedAt": "2026-11-09T23:43:19.975Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,80 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "h(x)=k(1.27)x",
+  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nis defined by the given equation, where\n[Figure 3]\nis a constant. The value of\n[Figure 4]\nincreases by\n[Figure 5]\nfor every increase of\n[Figure 6]\nby\n[Figure 7]\n. For which of the following functions, where\n[Figure 8]\nis a constant, does the value of\n[Figure 9]\nincrease by\n[Figure 10]\nfor every increase of\n[Figure 11]\nby\n[Figure 12]\n?",
   "choices": {
-    "A": "m(x)=k(1.27)x−51​",
-    "B": "m(x)=k(1.27)x+51​",
-    "C": "m(x)=k(1.27x)51​",
-    "D": "m(x)=k(1.27x)5"
+    "A": "[Figure 13]",
+    "B": "[Figure 14]",
+    "C": "[Figure 15]",
+    "D": "[Figure 16]"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. Since $h(x) = k(1.27)^x$ increases by $p\\%$ for every increase of $x$ by $1$, it follows that $1.27 = 1 + \\frac{p}{100}$. For $m(x)$ to increase by $p\\%$ for every increase of $x$ by $\\frac{1}{5}$, an increase of $x$ by $1$ (which is five increases of $\\frac{1}{5}$) multiplies $m(x)$ by $(1.27)^5$. Therefore $m(x)$ must have the form $k \\cdot (\\text{base})^x$ with base equal to $(1.27)^5$. The expression in choice D can be rewritten as $m(x) = k(1.27^x)^5 = k(1.27)^{5x} = k\\left[(1.27)^5\\right]^x$, which has base $(1.27)^5$, as required.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from inverting the relationship between the interval length and the exponent. The expression $m(x) = k(1.27^x)^{\\frac{1}{5}} = k(1.27)^{\\frac{x}{5}} = k\\left[(1.27)^{\\frac{1}{5}}\\right]^x$ has base $(1.27)^{\\frac{1}{5}}$, which would give a growth rate of $p\\%$ for every increase of $x$ by $5$, not $\\frac{1}{5}$.",
+  "explanation": "Choice D is correct. Since $h(x) = k(1.27)^x$ increases by $p\\%$ for every increase of $x$ by $1$, it follows that $1.27 = 1 + \\frac{p}{100}$. For $m(x)$ to increase by $p\\%$ for every increase of $x$ by $\\frac{1}{5}$, an increase of $x$ by $1$ (which is five increases of $\\frac{1}{5}$) multiplies $m(x)$ by $(1.27)^5$. Therefore $m(x)$ must have the form $k \\cdot (\\text{base})^x$ with base equal to $(1.27)^5$. The expression in choice D can be rewritten as $m(x) = k(1.27^x)^5 = k(1.27)^{5x} = k\\left[(1.27)^5\\right]^x$, which has base $(1.27)^5$, as required.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from confusing a horizontal shift with a change in the growth interval. The expression $m(x) = k(1.27)^{x - \\frac{1}{5}}$ still has base $1.27$, so $m(x)$ increases by $p\\%$ for every increase of $x$ by $1$, not by $\\frac{1}{5}$.",
   "source": "https://cooksat.com/practice?questionId=2007c511&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2007c511/1-7ddb85e058941511.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/2007c511/2-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/2007c511/3-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/2007c511/4-0eb1b7dfc7aa423d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/2007c511/5-987dee03e4eac733.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/2007c511/6-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/2007c511/7-9de044b2f5fd2973.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/2007c511/8-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/2007c511/9-fef7dedcd57c548b.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/2007c511/10-987dee03e4eac733.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/2007c511/11-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/2007c511/12-4009703958718eec.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/2007c511/13-00759fcd720fe75b.png"
+    },
+    {
+      "label": "Figure 14",
+      "path": "data/capture-assets/2007c511/14-00ed7406c4700465.png"
+    },
+    {
+      "label": "Figure 15",
+      "path": "data/capture-assets/2007c511/15-7b18ce0ee0843465.png"
+    },
+    {
+      "label": "Figure 16",
+      "path": "data/capture-assets/2007c511/16-3165011f90d137d4.png"
+    }
+  ]
 }

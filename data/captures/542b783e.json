@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "542b783e",
-  "capturedAt": "2026-11-09T21:09:44.346Z",
+  "capturedAt": "2026-11-09T23:50:41.298Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=x+25x3​. Which equation defines a function whose graph is the graph of y=f(x) translated to the right 4 units and then translated down 6 units?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. Which equation defines a function whose graph is the graph of\n[Figure 3]\ntranslated to the right\n[Figure 4]\nunits and then translated down\n[Figure 5]\nunits?",
   "choices": {
-    "A": "g(x)=x−25(x−4)3​−6",
-    "B": "g(x)=x+65x3​−6",
-    "C": "g(x)=x+65(x+4)3​−6",
-    "D": "g(x)=x−25x3​−6"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. To translate a function to the right $4$ units and down $6$ units, apply the transformation $g(x)=f(x-4)-6$. Substituting $(x-4)$ for $x$ in $f(x)=\\frac{5x^3}{x+2}$ gives $f(x-4)=\\frac{5(x-4)^3}{(x-4)+2}=\\frac{5(x-4)^3}{x-2}$. Subtracting $6$ yields $g(x)=\\frac{5(x-4)^3}{x-2}-6$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This may result from correctly simplifying the denominator to $x-2$ but failing to apply the horizontal translation to the numerator. The transformation requires $5(x-4)^3$, not $5x^3$.",
   "source": "https://cooksat.com/practice?questionId=542b783e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/542b783e/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/542b783e/2-221fe2dc5c47e294.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/542b783e/3-8dfb98eeaa92843f.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/542b783e/4-17e692bc2178579f.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/542b783e/5-73f0663bf1846604.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/542b783e/6-c6adf4a900e53918.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/542b783e/7-02c1e6cbaca66034.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/542b783e/8-afd6a6605da634e0.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/542b783e/9-02f7db1befdfeb8d.png"
+    }
+  ]
 }

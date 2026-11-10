@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "8573b49d",
-  "capturedAt": "2026-11-09T21:12:40.857Z",
+  "capturedAt": "2026-11-09T23:56:09.087Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A parabola in the xy-plane has vertex (7,4) and passes through the point (9,16). The equation of this parabola can be written in the form y=a(x−7)2+4, where a is a constant. What is the value of a?",
+  "prompt": "A parabola in the xy-plane has vertex\n[Figure 1]\nand passes through the point\n[Figure 2]\n. The equation of this parabola can be written in the form\n[Figure 3]\n, where\n[Figure 4]\nis a constant. What is the value of\n[Figure 5]\n?",
   "choices": {
-    "A": "2",
-    "B": "3",
-    "C": "4",
-    "D": "6"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "B",
-  "explanation": "Since the parabola passes through $(9, 16)$ and has the form $y = a(x-7)^2 + 4$, substitute $x=9$ and $y=16$: $16 = a(9-7)^2 + 4$. This simplifies to $16 = 4a + 4$, so $12 = 4a$, giving $a = 3$.\n\nWhy A is incorrect:\n\nThis may result from incorrectly calculating $(9-7)^2$ as $2$ instead of $4$, or from other computational errors in the solving process.",
+  "explanation": "Since the parabola passes through $(9, 16)$ and has the form $y = a(x-7)^2 + 4$, substitute $x=9$ and $y=16$: $16 = a(9-7)^2 + 4$. This simplifies to $16 = 4a + 4$, so $12 = 4a$, giving $a = 3$.\n\nWhy D is incorrect:\n\nThis results from forgetting to square the difference in the vertex form, treating the equation as $16 = a(9-7) + 4$ instead of $16 = a(9-7)^2 + 4$.",
   "source": "https://cooksat.com/practice?questionId=8573b49d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8573b49d/1-04116280119485db.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/8573b49d/2-9b39a7776624ad55.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/8573b49d/3-9ea8f327e8be4f57.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/8573b49d/4-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/8573b49d/5-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/8573b49d/6-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/8573b49d/7-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/8573b49d/8-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/8573b49d/9-29603e33b822ff16.png"
+    }
+  ]
 }

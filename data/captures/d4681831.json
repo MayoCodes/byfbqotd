@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "d4681831",
-  "capturedAt": "2026-11-09T21:16:58.883Z",
+  "capturedAt": "2026-11-10T00:04:31.957Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "y=625(2x+2)",
+  "prompt": "[Figure 1]\n\nThe graph of the given equation in the\n[Figure 2]\n-plane has a\n[Figure 3]\n-intercept of\n[Figure 4]\n. Which of the following equivalent equations displays the value of\n[Figure 5]\nas a constant, a coefficient, or the base?",
   "choices": {
-    "A": "y=390,625x+1",
-    "B": "y=254x+4",
-    "C": "y=251​⋅254x+5",
-    "D": "y=6251​⋅6252x+3"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. The $y$-intercept of a graph in the $xy$-plane is the point where $x=0$. Substituting $0$ for $x$ in the given equation, $y=625^{(2x+2)}$, yields $y=625^{(2 \\cdot 0+2)}$, which is equivalent to $y=625^{2}$, or $y=390{,}625$. Therefore, the graph of the given equation in the $xy$-plane has a $y$-intercept of $(0, 390{,}625)$. It follows that $r=0$ and $s=390{,}625$. Thus, the equivalent equation $y=390{,}625^{(x+1)}$ displays the value of $s$ as the base. This can be verified by rewriting: $390{,}625^{(x+1)}=(625^2)^{(x+1)}=625^{(2x+2)}$, confirming the equivalence to the original equation.",
   "source": "https://cooksat.com/practice?questionId=d4681831&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d4681831/1-5556db48ed218329.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/d4681831/2-df1c87962ee41243.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/d4681831/3-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/d4681831/4-23f5dd02151836c7.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/d4681831/5-f566ac546561428f.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/d4681831/6-b1ba03c3bf42a5d7.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/d4681831/7-34a85453a74a57a8.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/d4681831/8-826013b8336336ee.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/d4681831/9-6769666295ab554c.png"
+    }
+  ]
 }

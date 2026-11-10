@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "da2fc7fb",
-  "capturedAt": "2026-11-09T21:17:19.093Z",
+  "capturedAt": "2026-11-10T00:05:28.592Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "When a new podcast episode was released, a podcast had 78 listeners. Each week for four weeks after the episode was released, the number of listeners doubled from the number the previous week. Which equation gives the total number of listeners, p, to the podcast w weeks after the episode was released?",
+  "prompt": "When a new podcast episode was released, a podcast had\n[Figure 1]\nlisteners. Each week for four weeks after the episode was released, the number of listeners doubled from the number the previous week. Which equation gives the total number of listeners,\n[Figure 2]\n, to the podcast\n[Figure 3]\nweeks after the episode was released?",
   "choices": {
-    "A": "p=78(21​)w",
-    "B": "p=78(2)w",
-    "C": "p=(78)w",
-    "D": "p=(78)2+w"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. Since the number of listeners doubled each week, the relationship between $p$ and $w$ can be represented by an exponential equation of the form $p = ab^{w}$, where $a$ is the number of listeners at the time the episode was released and the number of listeners increases by a factor of $b$ each week. It's given that when the episode was released, the podcast had $78$ listeners, so $a = 78$. Since the number of listeners doubled, or increased by a factor of $2$, each week, $b = 2$. Substituting $78$ for $a$ and $2$ for $b$ in $p = ab^{w}$ yields $p = 78(2)^{w}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This equation gives the total number of listeners to a podcast for which the number of listeners each week was half the number from the previous week, rather than double the number.",
+  "explanation": "Choice B is correct. Since the number of listeners doubled each week, the relationship between $p$ and $w$ can be represented by an exponential equation of the form $p = ab^{w}$, where $a$ is the number of listeners at the time the episode was released and the number of listeners increases by a factor of $b$ each week. It's given that when the episode was released, the podcast had $78$ listeners, so $a = 78$. Since the number of listeners doubled, or increased by a factor of $2$, each week, $b = 2$. Substituting $78$ for $a$ and $2$ for $b$ in $p = ab^{w}$ yields $p = 78(2)^{w}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from conceptual errors in modeling exponential growth.",
   "source": "https://cooksat.com/practice?questionId=da2fc7fb&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/da2fc7fb/1-f5d3b19141c6479f.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/da2fc7fb/2-f07e748cf82e0762.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/da2fc7fb/3-5be1746c6339c76d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/da2fc7fb/4-fad780bb7c704dbe.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/da2fc7fb/5-88122ad343747e1d.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/da2fc7fb/6-68c202317278b141.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/da2fc7fb/7-2fce1424d9e31654.png"
+    }
+  ]
 }

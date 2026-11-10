@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "12f97b61",
-  "capturedAt": "2026-11-09T21:05:25.296Z",
+  "capturedAt": "2026-11-09T23:24:46.278Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,39 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The area of a triangle is equal to x2 square meters. The length of the base of the triangle is 2x+30 meters, and the height of the triangle is x−14 meters. What is the value of x?",
+  "prompt": "The area of a triangle is equal to\n[Figure 1]\nsquare meters. The length of the base of the triangle is\n[Figure 2]\nmeters, and the height of the triangle is\n[Figure 3]\nmeters. What is the value of\n[Figure 4]\n?\n\n[Figure 5]\n\n[Figure 6]",
   "choices": {},
-  "correctAnswer": "210",
+  "correctAnswer": "[Figure 7]",
   "explanation": "The correct answer is $210$. The area of a triangle equals one half the product of its base and height. Since the base is $2x + 30$ meters and the height is $x - 14$ meters, the area is $\\frac{1}{2}(2x + 30)(x - 14)$ square meters. This area equals $x^{2}$, so $\\frac{1}{2}(2x + 30)(x - 14) = x^{2}$. Rewriting gives $(x + 15)(x - 14) = x^{2}$, which expands to $x^{2} + x - 210 = x^{2}$. Subtracting $x^{2}$ from both sides yields $x - 210 = 0$, so $x = 210$.",
   "source": "https://cooksat.com/practice?questionId=12f97b61&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/12f97b61/1-2a4f8cfa4bf58dbf.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/12f97b61/2-554b29d8301a1641.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/12f97b61/3-bbf09c33f5c801f8.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/12f97b61/4-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/12f97b61/5-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/12f97b61/6-b9e8478b4aef3649.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/12f97b61/7-413d33790fdff512.png"
+    }
+  ]
 }

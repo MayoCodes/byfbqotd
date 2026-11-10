@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "27ce4020",
-  "capturedAt": "2026-11-09T21:06:26.470Z",
+  "capturedAt": "2026-11-09T23:44:22.704Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,56 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g(t)=41​(t−6)2+3 gives a drone's height above the ground g(t), in feet, t seconds after it began a guided flight, where 0≤t≤12. Which of the following is the best interpretation of the vertex of the graph of y=g(t) in the ty-plane?",
+  "prompt": "The function\n[Figure 1]\ngives a drone's height above the ground\n[Figure 2]\n, in feet,\n[Figure 3]\nseconds after it began a guided flight, where\n[Figure 4]\n. Which of the following is the best interpretation of the vertex of the graph of\n[Figure 5]\nin the\n[Figure 6]\n-plane?",
   "choices": {
-    "A": "The drone's minimum height was 3 feet above the ground.",
-    "B": "The drone's minimum height was 6 feet above the ground.",
-    "C": "The drone's height was 3 feet above the ground when it began its flight.",
-    "D": "The drone's height was 6 feet above the ground when it began its flight."
+    "A": "The drone's minimum height was\n[Figure 7]\nfeet above the ground.",
+    "B": "The drone's minimum height was\n[Figure 8]\nfeet above the ground.",
+    "C": "The drone's height was\n[Figure 9]\nfeet above the ground when it began its flight.",
+    "D": "The drone's height was\n[Figure 10]\nfeet above the ground when it began its flight."
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. The function $g(t) = \\frac{1}{4}(t - 6)^{2} + 3$ is in vertex form, so the vertex of the graph of $y = g(t)$ is $(6, 3)$. Because the coefficient $\\frac{1}{4}$ is positive, the parabola opens upward and the vertex is the minimum point. Since $t$ represents the time in seconds after the drone began its flight and $g(t)$ represents the height in feet, the vertex $(6, 3)$ indicates that the drone's minimum height was $3$ feet above the ground, occurring $6$ seconds after it began its flight.",
   "source": "https://cooksat.com/practice?questionId=27ce4020&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/27ce4020/1-6f1f039cc135398f.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/27ce4020/2-73e4725672a6abc0.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/27ce4020/3-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/27ce4020/4-76310edb954bec24.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/27ce4020/5-50bcf1e8dfa06d17.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/27ce4020/6-3c1a901feee4546c.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/27ce4020/7-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/27ce4020/8-29603e33b822ff16.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/27ce4020/9-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/27ce4020/10-29603e33b822ff16.png"
+    }
+  ]
 }

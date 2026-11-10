@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "238bb473",
-  "capturedAt": "2026-11-09T21:06:10.517Z",
+  "capturedAt": "2026-11-09T23:43:54.624Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,48 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "N=8,420×(1.15)t",
+  "prompt": "[Figure 1]\n\nThe given equation estimates the number of registered electric vehicles\n[Figure 2]\nin a certain city for the year that is\n[Figure 3]\nyears after\n[Figure 4]\n. What is the best interpretation of the number\n[Figure 5]\nin this context?",
   "choices": {
-    "A": "The estimated number of registered electric vehicles in 2005",
-    "B": "The estimated number of registered electric vehicles for the year that is t years after 2005",
+    "A": "The estimated number of registered electric vehicles in\n[Figure 6]",
+    "B": "The estimated number of registered electric vehicles for the year that is\n[Figure 7]\nyears after\n[Figure 8]",
     "C": "The estimated percent increase in the number of registered electric vehicles each year",
     "D": "The estimated amount of increase in the number of registered electric vehicles each year"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. Since $t$ represents the number of years after $2005$, the estimated number of registered electric vehicles in $2005$ corresponds to $t = 0$. Substituting $0$ for $t$ in the given equation yields $N = 8{,}420 \\times (1.15)^{0} = 8{,}420 \\times 1 = 8{,}420$. Therefore, $8{,}420$ represents the estimated number of registered electric vehicles in $2005$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. Because the equation is exponential, the amount of increase in the number of registered electric vehicles each year is not constant.",
+  "explanation": "Choice A is correct. Since $t$ represents the number of years after $2005$, the estimated number of registered electric vehicles in $2005$ corresponds to $t = 0$. Substituting $0$ for $t$ in the given equation yields $N = 8{,}420 \\times (1.15)^{0} = 8{,}420 \\times 1 = 8{,}420$. Therefore, $8{,}420$ represents the estimated number of registered electric vehicles in $2005$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The estimated number of registered electric vehicles for the year that is $t$ years after $2005$ is represented by $N$, not by the constant $8{,}420$.",
   "source": "https://cooksat.com/practice?questionId=238bb473&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/238bb473/1-bfd66645a2b88081.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/238bb473/2-6001ca56a4f2724b.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/238bb473/3-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/238bb473/4-820e65779d7b5d7a.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/238bb473/5-40544aa1e71102ac.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/238bb473/6-5f3437339c93e05f.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/238bb473/7-706d97571d84bd05.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/238bb473/8-5f3437339c93e05f.png"
+    }
+  ]
 }

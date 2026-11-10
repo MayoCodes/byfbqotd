@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "1f8cdc0e",
-  "capturedAt": "2026-11-09T21:05:53.787Z",
+  "capturedAt": "2026-11-09T23:43:11.344Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,12 +10,12 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The graph shows a drone's altitude above the ground y, in feet, x seconds after it began a short descent-and-climb maneuver. Which of the following is the best interpretation of the y-intercept of the graph?",
+  "prompt": "[Figure 1]\n\nThe graph shows a drone's altitude above the ground\n[Figure 2]\n, in feet,\n[Figure 3]\nseconds after it began a short descent-and-climb maneuver. Which of the following is the best interpretation of the\n[Figure 4]\n-intercept of the graph?",
   "choices": {
-    "A": "The drone's altitude was 0 feet above the ground 7 seconds after it began the maneuver.",
-    "B": "The drone's altitude was 7 feet above the ground when it began the maneuver.",
-    "C": "The drone's minimum altitude was 0 feet above the ground.",
-    "D": "The drone's minimum altitude was 7 feet above the ground."
+    "A": "The drone's altitude was\n[Figure 5]\nfeet above the ground\n[Figure 6]\nseconds after it began the maneuver.",
+    "B": "The drone's altitude was\n[Figure 7]\nfeet above the ground when it began the maneuver.",
+    "C": "The drone's minimum altitude was\n[Figure 8]\nfeet above the ground.",
+    "D": "The drone's minimum altitude was\n[Figure 9]\nfeet above the ground."
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. The $y$-intercept of a graph is the point where the graph crosses the $y$-axis. The graph crosses the $y$-axis at the point $(0, 7)$. Since $y$ represents the drone's altitude above the ground, in feet, and $x$ represents the number of seconds after the drone began the maneuver, the point $(0, 7)$ means the drone's altitude was $7$ feet above the ground when it began the maneuver.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from confusing the $y$-intercept with the vertex, and further misreading the vertex's $y$-value as $0$. The graph's minimum is at the vertex $(5, 3)$, not at the $y$-intercept.",
@@ -22,7 +23,39 @@
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/1f8cdc0e/1-ac32c0ff39f92936.png"
+      "path": "data/capture-assets/1f8cdc0e/1-d5284b62c80f7ea9.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/1f8cdc0e/2-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/1f8cdc0e/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/1f8cdc0e/4-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/1f8cdc0e/5-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/1f8cdc0e/6-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/1f8cdc0e/7-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/1f8cdc0e/8-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/1f8cdc0e/9-16e568e0f0916744.png"
     }
   ]
 }

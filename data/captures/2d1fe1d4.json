@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "2d1fe1d4",
-  "capturedAt": "2026-11-09T21:06:41.721Z",
+  "capturedAt": "2026-11-09T23:44:54.195Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,92 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g(x)=450(1.025)x models the price, in dollars, of a certain annual membership at the end of each year from 1985 through 2005, where x is the number of years after 1985. Which of the following is the best interpretation of “g(8) is approximately equal to 548” in this context?",
+  "prompt": "The function\n[Figure 1]\nmodels the price, in dollars, of a certain annual membership at the end of each year from\n[Figure 2]\nthrough\n[Figure 3]\n, where\n[Figure 4]\nis the number of years after\n[Figure 5]\n. Which of the following is the best interpretation of “\n[Figure 6]\nis approximately equal to\n[Figure 7]\n” in this context?",
   "choices": {
-    "A": "The price of the membership is estimated to be approximately 8 dollars greater in 1993 than in 1985.",
-    "B": "The price of the membership is estimated to be approximately 548 dollars in 1993.",
-    "C": "The price, in dollars, of the membership is estimated to be approximately 8 times greater in 1993 than in 1985.",
-    "D": "The price of the membership is estimated to increase by approximately 548 dollars every 8 years between 1985 and 2005."
+    "A": "The price of the membership is estimated to be approximately\n[Figure 8]\ndollars greater in\n[Figure 9]\nthan in\n[Figure 10]\n.",
+    "B": "The price of the membership is estimated to be approximately\n[Figure 11]\ndollars in\n[Figure 12]\n.",
+    "C": "The price, in dollars, of the membership is estimated to be approximately\n[Figure 13]\ntimes greater in\n[Figure 14]\nthan in\n[Figure 15]\n.",
+    "D": "The price of the membership is estimated to increase by approximately\n[Figure 16]\ndollars every\n[Figure 17]\nyears between\n[Figure 18]\nand\n[Figure 19]\n."
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. The function $g(x) = 450(1.025)^{x}$ gives the estimated price, in dollars, of the membership $x$ years after $1985$. Since $g(8)$ is the value of $g(x)$ when $x = 8$, the statement “$g(8)$ is approximately equal to $548$” means that $g(x)$ is approximately $548$ when $x = 8$. In the given context, this means the price of the membership is estimated to be approximately $548$ dollars $8$ years after $1985$, which is $1993$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This interpretation misreads the input $8$ as a multiplicative factor relating the $1993$ price to the $1985$ price, but $8$ is the number of years elapsed, not a ratio of prices.",
   "source": "https://cooksat.com/practice?questionId=2d1fe1d4&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2d1fe1d4/1-4d05cdad6fed0751.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/2d1fe1d4/2-9508ed63594c86a2.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/2d1fe1d4/3-820e65779d7b5d7a.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/2d1fe1d4/4-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/2d1fe1d4/5-9508ed63594c86a2.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/2d1fe1d4/6-3e7af9938bd16c37.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/2d1fe1d4/7-c373f4b713e0ae98.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/2d1fe1d4/8-f4f34a91ada02fa5.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/2d1fe1d4/9-4dcf1bf1542774db.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/2d1fe1d4/10-2365679212b5a5ac.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/2d1fe1d4/11-360905363e5bcb9a.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/2d1fe1d4/12-4dcf1bf1542774db.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/2d1fe1d4/13-f4f34a91ada02fa5.png"
+    },
+    {
+      "label": "Figure 14",
+      "path": "data/capture-assets/2d1fe1d4/14-4dcf1bf1542774db.png"
+    },
+    {
+      "label": "Figure 15",
+      "path": "data/capture-assets/2d1fe1d4/15-2365679212b5a5ac.png"
+    },
+    {
+      "label": "Figure 16",
+      "path": "data/capture-assets/2d1fe1d4/16-360905363e5bcb9a.png"
+    },
+    {
+      "label": "Figure 17",
+      "path": "data/capture-assets/2d1fe1d4/17-f4f34a91ada02fa5.png"
+    },
+    {
+      "label": "Figure 18",
+      "path": "data/capture-assets/2d1fe1d4/18-2365679212b5a5ac.png"
+    },
+    {
+      "label": "Figure 19",
+      "path": "data/capture-assets/2d1fe1d4/19-5f3437339c93e05f.png"
+    }
+  ]
 }

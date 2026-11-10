@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "0ff229ea",
-  "capturedAt": "2026-11-09T21:05:05.496Z",
+  "capturedAt": "2026-11-09T23:23:53.725Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,48 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The value of a collectible coin was $585 on the day it was purchased. Every year, the value of the coin increases by 3% of its value the previous year. Which function M gives the value, in dollars, of the coin w years after the day it was purchased?",
+  "prompt": "The value of a collectible coin was $\n[Figure 1]\non the day it was purchased. Every year, the value of the coin increases by\n[Figure 2]\nof its value the previous year. Which function\n[Figure 3]\ngives the value, in dollars, of the coin\n[Figure 4]\nyears after the day it was purchased?",
   "choices": {
-    "A": "M(w)=585(1.03w)",
-    "B": "M(w)=585(1.03)w",
-    "C": "M(w)=585(1.3w)",
-    "D": "M(w)=585(1.3)w"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. An exponential growth model can be written in the form $M(w) = a(1 + r)^{w}$, where $M(w)$ is the value after $w$ time periods, $a$ is the initial value, and $r$ is the growth rate expressed as a decimal. It's given that the initial value of the coin was $$585$, so $a = 585$. It's also given that the value increases by $3\\%$ each year, so $r = 0.03$. Substituting these values into the exponential growth model yields $M(w) = 585(1 + 0.03)^{w}$, which is equivalent to $M(w) = 585(1.03)^{w}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from interpreting the $3\\%$ increase as a $30\\%$ increase, leading to a growth factor of $1.3$ instead of $1.03$.",
+  "explanation": "Choice B is correct. An exponential growth model can be written in the form $M(w) = a(1 + r)^{w}$, where $M(w)$ is the value after $w$ time periods, $a$ is the initial value, and $r$ is the growth rate expressed as a decimal. It's given that the initial value of the coin was $$585$, so $a = 585$. It's also given that the value increases by $3\\%$ each year, so $r = 0.03$. Substituting these values into the exponential growth model yields $M(w) = 585(1 + 0.03)^{w}$, which is equivalent to $M(w) = 585(1.03)^{w}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from using a linear model instead of an exponential model. This function represents a situation where the value increases by a fixed amount each year rather than by $3\\%$ of the previous year's value.",
   "source": "https://cooksat.com/practice?questionId=0ff229ea&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0ff229ea/1-bab9af0b4d63c13a.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/0ff229ea/2-87bed4f6415ccd8c.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/0ff229ea/3-81c8d05ff15e601f.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/0ff229ea/4-5be1746c6339c76d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/0ff229ea/5-7537db80ef34292a.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/0ff229ea/6-182d98afa3b6d1ef.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/0ff229ea/7-d00026dd19ab5b00.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/0ff229ea/8-3c1ba910a212ae24.png"
+    }
+  ]
 }

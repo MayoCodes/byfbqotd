@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "f35c1e9b",
-  "capturedAt": "2026-11-09T21:18:46.977Z",
+  "capturedAt": "2026-11-10T00:08:19.215Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,7 +10,7 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "During the first trial of a test, a toy rocket was launched from a 9-foot-tall platform. The graph shows the height y, in feet, of the rocket x seconds after it was launched during the first trial.",
+  "prompt": "[Figure 1]\n\nDuring the first trial of a test, a toy rocket was launched from a\n[Figure 6]\n-foot-tall platform. The graph shows the height\n[Figure 7]\n, in feet, of the rocket\n[Figure 8]\nseconds after it was launched during the first trial.\n\nDuring the second trial of the test, the toy rocket was launched the same way, but from a platform that is\n[Figure 9]\nfeet shorter than the first platform. Which of the following graphs could represent the height\n[Figure 10]\n, in feet, of the rocket\n[Figure 11]\nseconds after it was launched during the second trial?",
   "choices": {
     "A": "[Figure 2]",
     "B": "[Figure 3]",
@@ -17,28 +18,52 @@
     "D": "[Figure 5]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. It's given that $y$ represents the height, in feet, of the rocket $x$ seconds after it was launched. It's also given that during the first trial, the rocket was launched from a $9$-foot-tall platform. Therefore, the y-coordinate of the y-intercept of the given graph, $9$, represents the platform height, in feet. During the second trial, the platform the rocket was launched from was $3$ feet shorter than the platform in the first trial. It follows that the height of the platform in the second trial was $9 - 3$ feet, or $6$ feet. Therefore, the y-coordinate of the y-intercept of the graph representing the second trial must be $6$. Additionally, the maximum height in the original graph is approximately $10$ feet. Since the entire trajectory is shifted down by $3$ feet, the new maximum height should be approximately $10 - 3$, or $7$ feet. Only choice B satisfies both conditions.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This graph shows a y-intercept of $7$ and a maximum height of approximately $8$ feet, which would result from shifting the original graph down by only $2$ feet rather than $3$ feet.",
+  "explanation": "Choice B is correct. It's given that $y$ represents the height, in feet, of the rocket $x$ seconds after it was launched. It's also given that during the first trial, the rocket was launched from a $9$-foot-tall platform. Therefore, the y-coordinate of the y-intercept of the given graph, $9$, represents the platform height, in feet. During the second trial, the platform the rocket was launched from was $3$ feet shorter than the platform in the first trial. It follows that the height of the platform in the second trial was $9 - 3$ feet, or $6$ feet. Therefore, the y-coordinate of the y-intercept of the graph representing the second trial must be $6$. Additionally, the maximum height in the original graph is approximately $10$ feet. Since the entire trajectory is shifted down by $3$ feet, the new maximum height should be approximately $10 - 3$, or $7$ feet. Only choice B satisfies both conditions.",
   "source": "https://cooksat.com/practice?questionId=f35c1e9b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/f35c1e9b/1-ff07e9aac3a5d4ac.png"
+      "path": "data/capture-assets/f35c1e9b/1-81ff8712961d9ed7.png"
     },
     {
       "label": "Figure 2",
-      "path": "data/capture-assets/f35c1e9b/2-f6fa450044e8eda9.png"
+      "path": "data/capture-assets/f35c1e9b/2-8a5c3c37d1faf49a.png"
     },
     {
       "label": "Figure 3",
-      "path": "data/capture-assets/f35c1e9b/3-35d011e3f01c498e.png"
+      "path": "data/capture-assets/f35c1e9b/3-a8e06f21d64e9b2c.png"
     },
     {
       "label": "Figure 4",
-      "path": "data/capture-assets/f35c1e9b/4-f2fd5110146564b0.png"
+      "path": "data/capture-assets/f35c1e9b/4-77c9a7ea8527ddc3.png"
     },
     {
       "label": "Figure 5",
-      "path": "data/capture-assets/f35c1e9b/5-499e55e3aeb4982c.png"
+      "path": "data/capture-assets/f35c1e9b/5-3052f71ef89a4a2e.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/f35c1e9b/6-35a1dda5b246354d.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/f35c1e9b/7-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/f35c1e9b/8-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/f35c1e9b/9-fa19f106d3a0914a.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/f35c1e9b/10-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/f35c1e9b/11-f63344b6a91c736e.png"
     }
   ]
 }

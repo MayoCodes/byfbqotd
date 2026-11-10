@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "7b5f3848",
-  "capturedAt": "2026-11-09T21:11:57.852Z",
+  "capturedAt": "2026-11-09T23:54:52.337Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,12 +10,12 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "Which of the following is an equation of the quadratic function shown?",
+  "prompt": "[Figure 1]\n\nWhich of the following is an equation of the quadratic function shown?",
   "choices": {
-    "A": "y=x2−2x+1",
-    "B": "y=−x2−2x−1",
-    "C": "y=−x2+2x−1",
-    "D": "y=x2+2x+1"
+    "A": "[Figure 2]",
+    "B": "[Figure 3]",
+    "C": "[Figure 4]",
+    "D": "[Figure 5]"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. The graph of a quadratic function can be represented by an equation of the form $y=a(x-h)^2+k$, where $(h,k)$ is the vertex of the parabola and the value of $a$ determines whether the parabola opens up or down. The parabola shown opens down and has a vertex at $(1,0)$. Therefore, $a<0$, $h=1$, and $k=0$. Substituting these values into the vertex form yields $y=a(x-1)^2$. Expanding this equation: $y=a(x^2-2x+1)$, which simplifies to $y=ax^2-2ax+a$. The parabola passes through the point $(0,-1)$. Substituting these coordinates into the equation: $-1=a(0)^2-2a(0)+a$, which simplifies to $-1=a$. Therefore, $a=-1$. Substituting $a=-1$ into $y=ax^2-2ax+a$ yields $y=(-1)x^2-2(-1)x+(-1)$, which simplifies to $y=-x^2+2x-1$. This can be verified by checking that the parabola also passes through $(2,-1)$: $y=-(2)^2+2(2)-1=-4+4-1=-1$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This equation, $y=x^2+2x+1=(x+1)^2$, represents a parabola that opens upward with vertex at $(-1,0)$. The graph shown opens downward and has its vertex at $(1,0)$, so this equation is incorrect in both the direction of opening and the location of the vertex.",
@@ -22,7 +23,23 @@
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/7b5f3848/1-807340e89e1c093c.png"
+      "path": "data/capture-assets/7b5f3848/1-eec23e5474a3700a.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/7b5f3848/2-f06290126264cf90.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/7b5f3848/3-5cabf4a236c0ea28.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/7b5f3848/4-64b50e6d772ddce0.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/7b5f3848/5-49304bb652dc1f11.png"
     }
   ]
 }

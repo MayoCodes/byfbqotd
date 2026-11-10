@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "309ee4b3",
-  "capturedAt": "2026-11-09T21:07:00.834Z",
+  "capturedAt": "2026-11-09T23:45:38.106Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,27 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "What is the x-coordinate of the x-intercept of the graph shown?",
+  "prompt": "[Figure 1]\n\nWhat is the x-coordinate of the x-intercept of the graph shown?\n\n[Figure 2]\n\n[Figure 3]",
   "choices": {},
-  "correctAnswer": "5",
+  "correctAnswer": "[Figure 4]",
   "explanation": "The correct answer is $5$. An x-intercept of a graph is a point on the graph where it intersects the x-axis, or where the value of $y$ is $0$. The graph shown intersects the x-axis at the point $\\left( 5 , 0 \\right)$. Therefore, the x-coordinate of the x-intercept of the graph shown is $5$.",
   "source": "https://cooksat.com/practice?questionId=309ee4b3&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/309ee4b3/1-1620a80043cab647.png"
+      "path": "data/capture-assets/309ee4b3/1-f2f10d0e76148a32.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/309ee4b3/2-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/309ee4b3/3-8fc3cfb4a4e6f37e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/309ee4b3/4-4ba1164649b6fcb7.png"
     }
   ]
 }

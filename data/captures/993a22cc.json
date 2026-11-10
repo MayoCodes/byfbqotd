@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "993a22cc",
-  "capturedAt": "2026-11-09T21:13:34.935Z",
+  "capturedAt": "2026-11-09T23:57:45.534Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,64 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A quadratic function f is defined by f(x)=a(x−3)2+12, where a is a constant. The graph of y=f(x) in the xy-plane has an x-intercept at (6,0). What is the value of a?",
+  "prompt": "A quadratic function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nis a constant. The graph of\n[Figure 4]\nin the\n[Figure 5]\n-plane has an\n[Figure 6]\n-intercept at\n[Figure 7]\n. What is the value of\n[Figure 8]\n?",
   "choices": {
-    "A": "−34​",
-    "B": "−43​",
-    "C": "43​",
-    "D": "34​"
+    "A": "[Figure 9]",
+    "B": "[Figure 10]",
+    "C": "[Figure 11]",
+    "D": "[Figure 12]"
   },
   "correctAnswer": "A",
   "explanation": "Since the graph has an $x$-intercept at $(6,0)$, substituting these coordinates into the function gives $0 = a(6-3)^2 + 12$. This simplifies to $0 = a(3)^2 + 12$, or $0 = 9a + 12$. Solving for $a$ gives $9a = -12$, so $a = -\\frac{12}{9} = -\\frac{4}{3}$.\n\nWhy B is incorrect:\n\nThis results from incorrectly inverting the fraction, computing $a = -\\frac{9}{12}$ instead of $-\\frac{12}{9}$.",
   "source": "https://cooksat.com/practice?questionId=993a22cc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/993a22cc/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/993a22cc/2-d3080e460e154728.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/993a22cc/3-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/993a22cc/4-8dfb98eeaa92843f.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/993a22cc/5-df1c87962ee41243.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/993a22cc/6-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/993a22cc/7-91b6e340ae9f22e7.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/993a22cc/8-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/993a22cc/9-e4320a8380e7ef96.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/993a22cc/10-c85ea68eb202cdfe.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/993a22cc/11-306383d1e8571614.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/993a22cc/12-50d39ede033d614a.png"
+    }
+  ]
 }

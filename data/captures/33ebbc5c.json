@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "33ebbc5c",
-  "capturedAt": "2026-11-09T21:07:14.208Z",
+  "capturedAt": "2026-11-09T23:45:54.970Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,12 +10,12 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The table shows values of x and corresponding values of f(x) and g(x). For what value of x does f(x)=g(x)?",
+  "prompt": "[Table 1]\n\nThe table shows values of\n[Figure 2]\nand corresponding values of\n[Figure 3]\nand\n[Figure 4]\n. For what value of\n[Figure 5]\ndoes\n[Figure 6]\n?",
   "choices": {
-    "A": "−1",
-    "B": "0",
-    "C": "1",
-    "D": "2"
+    "A": "[Figure 7]",
+    "B": "[Figure 8]",
+    "C": "[Figure 9]",
+    "D": "[Figure 10]"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. From the table, when $x=0$, $f(0)=3$ and $g(0)=3$. Since $f(0)=g(0)=3$, the value of $x$ for which $f(x)=g(x)$ is $0$.",
@@ -22,7 +23,43 @@
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/33ebbc5c/1-425b1e9fe99bdc50.png"
+      "path": "data/capture-assets/33ebbc5c/1-cdcdfeeecc4a2891.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/33ebbc5c/2-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/33ebbc5c/3-301fefb43a2fb7eb.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/33ebbc5c/4-d3f8243cb1e3bf96.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/33ebbc5c/5-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/33ebbc5c/6-441bccb37043641d.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/33ebbc5c/7-0f25fb33c5851a04.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/33ebbc5c/8-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/33ebbc5c/9-0c32e2bcf21ebd61.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/33ebbc5c/10-eecad86a2b305c5e.png"
     }
   ]
 }

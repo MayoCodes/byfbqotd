@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "b7cac6f0",
-  "capturedAt": "2026-11-09T21:15:27.543Z",
+  "capturedAt": "2026-11-10T00:01:28.529Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,7 +10,7 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "k(t)=−4.9t2+38t+6",
+  "prompt": "[Figure 1]\n\nThe quadratic function shown models the height above the ground\n[Figure 2]\n, in meters, of a model rocket\n[Figure 3]\nseconds after it was launched vertically upward. If\n[Figure 4]\nis graphed in the\n[Figure 5]\n-plane, which of the following represents the real-life meaning of the positive\n[Figure 6]\n-intercept of the graph?",
   "choices": {
     "A": "The initial height of the rocket",
     "B": "The maximum height of the rocket",
@@ -19,5 +20,30 @@
   "correctAnswer": "D",
   "explanation": "Choice D is correct. The positive $t$-intercept of the graph of $y = k(t)$ is a point $(t, y)$ for which $y = 0$. Since $y = k(t)$ models the height above the ground, in meters, of the rocket, a $y$-value of $0$ corresponds to the rocket being $0$ meters above the ground—that is, when the rocket is on the ground. Since $t$ represents the time since the rocket was launched, the positive $t$-intercept, $(t, 0)$, represents the time at which the rocket hits the ground.",
   "source": "https://cooksat.com/practice?questionId=b7cac6f0&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b7cac6f0/1-90e7bfb4b5da6e0c.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/b7cac6f0/2-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/b7cac6f0/3-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/b7cac6f0/4-043e4d79745c691d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/b7cac6f0/5-3c1a901feee4546c.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/b7cac6f0/6-5c84431898a2e2e5.png"
+    }
+  ]
 }

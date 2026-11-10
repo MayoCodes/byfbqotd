@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "15e37116",
-  "capturedAt": "2026-11-09T21:05:34.992Z",
+  "capturedAt": "2026-11-09T23:25:10.726Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,72 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "On March 1, a newsletter had 418 subscribers. Every 4 days after March 1, the number of subscribers had increased by 45% of the number of subscribers 4 days earlier. The function g gives the predicted number of subscribers x days after March 1. Which equation defines g?",
+  "prompt": "On March\n[Figure 1]\n, a newsletter had\n[Figure 2]\nsubscribers. Every\n[Figure 3]\ndays after March\n[Figure 4]\n, the number of subscribers had increased by\n[Figure 5]\nof the number of subscribers\n[Figure 6]\ndays earlier. The function\n[Figure 7]\ngives the predicted number of subscribers\n[Figure 8]\ndays after March\n[Figure 9]\n. Which equation defines\n[Figure 10]\n?",
   "choices": {
-    "A": "g(x)=418(0.45)4x​",
-    "B": "g(x)=418(0.45)4x",
-    "C": "g(x)=418(1.45)4x​",
-    "D": "g(x)=418(1.45)4x"
+    "A": "[Figure 11]",
+    "B": "[Figure 12]",
+    "C": "[Figure 13]",
+    "D": "[Figure 14]"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. Since the number of subscribers increases by a constant percentage, $45\\%$, every $4$ days, the function $g$ is an exponential growth function. It's given that on March $1$, there were $418$ subscribers, so when $x = 0$, $g(x) = 418$. An increase of $45\\%$ means the new value is $100\\% + 45\\% = 145\\%$ of the previous value, or $1.45$ times the previous value. Therefore, every $4$ days, the number of subscribers is multiplied by $1.45$. After $4$ days ($x = 4$), the number of subscribers is $418(1.45)^{1}$. After $8$ days ($x = 8$), the number of subscribers is $418(1.45)^{2}$. More generally, after $x$ days, the exponent represents the number of $4$-day periods that have passed, which is $\\frac{x}{4}$. Therefore, $g(x) = 418(1.45)^{\\frac{x}{4}}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from correctly identifying $1.45$ as the growth factor but incorrectly writing the exponent as $4x$ instead of $\\frac{x}{4}$. This equation would model growth occurring four times per day rather than once every four days.",
+  "explanation": "Choice C is correct. Since the number of subscribers increases by a constant percentage, $45\\%$, every $4$ days, the function $g$ is an exponential growth function. It's given that on March $1$, there were $418$ subscribers, so when $x = 0$, $g(x) = 418$. An increase of $45\\%$ means the new value is $100\\% + 45\\% = 145\\%$ of the previous value, or $1.45$ times the previous value. Therefore, every $4$ days, the number of subscribers is multiplied by $1.45$. After $4$ days ($x = 4$), the number of subscribers is $418(1.45)^{1}$. After $8$ days ($x = 8$), the number of subscribers is $418(1.45)^{2}$. More generally, after $x$ days, the exponent represents the number of $4$-day periods that have passed, which is $\\frac{x}{4}$. Therefore, $g(x) = 418(1.45)^{\\frac{x}{4}}$.",
   "source": "https://cooksat.com/practice?questionId=15e37116&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/15e37116/1-9de044b2f5fd2973.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/15e37116/2-447d03ba93b88582.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/15e37116/3-17e692bc2178579f.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/15e37116/4-3151e2bd09d274f2.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/15e37116/5-df7bae9e57210ab2.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/15e37116/6-d7071d37093ba87e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/15e37116/7-ec07f01261df48fd.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/15e37116/8-e44fba77347152e1.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/15e37116/9-3151e2bd09d274f2.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/15e37116/10-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/15e37116/11-9d3fb60c19bf688b.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/15e37116/12-1011ff1d246b2158.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/15e37116/13-2ee848f35a59e0c0.png"
+    },
+    {
+      "label": "Figure 14",
+      "path": "data/capture-assets/15e37116/14-be3e71fe5b59c655.png"
+    }
+  ]
 }

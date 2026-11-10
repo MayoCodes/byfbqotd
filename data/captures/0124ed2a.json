@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "0124ed2a",
-  "capturedAt": "2026-11-09T21:03:52.652Z",
+  "capturedAt": "2026-11-09T23:20:04.922Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,7 +10,7 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The length of a rectangle is 12 times its width. The function A=(12x)(x) represents this situation, where A is the area, in square meters, of the rectangle and A>0. Which of the following is the best interpretation of 12x in this context?",
+  "prompt": "The length of a rectangle is\n[Figure 1]\ntimes its width. The function\n[Figure 2]\nrepresents this situation, where\n[Figure 3]\nis the area, in square meters, of the rectangle and\n[Figure 4]\n. Which of the following is the best interpretation of\n[Figure 5]\nin this context?",
   "choices": {
     "A": "The length of the rectangle, in meters",
     "B": "The area of the rectangle, in square meters",
@@ -17,7 +18,28 @@
     "D": "The width of the rectangle, in meters"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. It's given that the length of a rectangle is $12$ times its width. If $x$ represents the width of the rectangle, in meters, then the length of the rectangle, in meters, is $12x$. The area of a rectangle is found by multiplying length times width, so the function $A=(12x)(x)$ represents the area where $12x$ is the length and $x$ is the width. Therefore, $12x$ represents the length of the rectangle, in meters.\n\nWhy C is incorrect:\n\nChoice C is incorrect. The difference between the length and width would be $12x-x=11x$, not $12x$.",
+  "explanation": "Choice A is correct. It's given that the length of a rectangle is $12$ times its width. If $x$ represents the width of the rectangle, in meters, then the length of the rectangle, in meters, is $12x$. The area of a rectangle is found by multiplying length times width, so the function $A=(12x)(x)$ represents the area where $12x$ is the length and $x$ is the width. Therefore, $12x$ represents the length of the rectangle, in meters.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The width of the rectangle is represented by $x$, not $12x$.",
   "source": "https://cooksat.com/practice?questionId=0124ed2a&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0124ed2a/1-f8b7ac329ceccfb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/0124ed2a/2-01874377871b5437.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/0124ed2a/3-539769c58f1c37fa.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/0124ed2a/4-c535280154a8dfb2.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/0124ed2a/5-7ce54d02b9801771.png"
+    }
+  ]
 }

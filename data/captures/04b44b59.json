@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "04b44b59",
-  "capturedAt": "2026-11-09T21:04:20.167Z",
+  "capturedAt": "2026-11-09T23:21:18.942Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,43 @@
   "difficulty": "Medium",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=4(x−3)2+k, where k is a constant. If f(6)=43, what is the minimum value of f(x)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nis a constant. If\n[Figure 4]\n, what is the minimum value of\n[Figure 5]\n?\n\n[Figure 6]\n\n[Figure 7]",
   "choices": {},
-  "correctAnswer": "7",
+  "correctAnswer": "[Figure 8]",
   "explanation": "The correct answer is $7$. It's given that $f(x)=4(x-3)^2+k$ and $f(6)=43$. Substituting $6$ for $x$ yields $f(6)=4(6-3)^2+k=4(3)^2+k=4(9)+k=36+k$. Since $f(6)=43$, it follows that $36+k=43$. Subtracting $36$ from both sides gives $k=7$. The function $f(x)=4(x-3)^2+7$ is in vertex form $f(x)=a(x-h)^2+k$, where $a=4>0$. Since $a>0$, the parabola opens upward and has a minimum value at the vertex. The minimum value occurs when $(x-3)^2=0$, which gives $f(3)=4(0)+7=7$. Therefore, the minimum value of $f(x)$ is $7$.",
   "source": "https://cooksat.com/practice?questionId=04b44b59&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/04b44b59/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/04b44b59/2-3c1e32c5302a2628.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/04b44b59/3-f6ba4414c242606d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/04b44b59/4-86a2976402d6c715.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/04b44b59/5-301fefb43a2fb7eb.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/04b44b59/6-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/04b44b59/7-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/04b44b59/8-c9aa07dd312e4934.png"
+    }
+  ]
 }

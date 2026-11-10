@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "0925bee8",
-  "capturedAt": "2026-11-09T21:04:35.465Z",
+  "capturedAt": "2026-11-09T23:22:00.174Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,64 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "Three values of x and corresponding values of g(x) are shown in the table, where g(x)=x+6f(x)​ and f is a linear function. What is the y-intercept of the graph of y=f(x) in the xy-plane?",
+  "prompt": "[Table 1]\n\nThree values of\n[Figure 2]\nand corresponding values of\n[Figure 3]\nare shown in the table, where\n[Figure 4]\nand\n[Figure 5]\nis a linear function. What is the\n[Figure 6]\n-intercept of the graph of\n[Figure 7]\nin the\n[Figure 8]\n-plane?",
   "choices": {
-    "A": "(0,24)",
-    "B": "(0,12)",
-    "C": "(0,4)",
-    "D": "(0,−6)"
+    "A": "[Figure 9]",
+    "B": "[Figure 10]",
+    "C": "[Figure 11]",
+    "D": "[Figure 12]"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. It's given that $g(x)=\\frac{f(x)}{x+6}$ and that $f$ is a linear function. Since $g(x)=\\frac{f(x)}{x+6}$, it follows that $f(x)=g(x)(x+6)$. Using the values from the table: when $x=-18$, $f(-18)=1(-18+6)=1(-12)=-12$. When $x=6$, $f(6)=3(6+6)=3(12)=36$. The slope of $f(x)$ is $m=\\frac{36-(-12)}{6-(-18)}=\\frac{48}{24}=2$. Using the point $(6,36)$ and $f(x)=2x+b$: $36=2(6)+b=12+b$, so $b=24$. Therefore, $f(x)=2x+24$ and the $y$-intercept is $(0,24)$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from using the constant in the denominator of $g(x)$ as the $y$-intercept of $f(x)$.",
+  "explanation": "Choice A is correct. It's given that $g(x)=\\frac{f(x)}{x+6}$ and that $f$ is a linear function. Since $g(x)=\\frac{f(x)}{x+6}$, it follows that $f(x)=g(x)(x+6)$. Using the values from the table: when $x=-18$, $f(-18)=1(-18+6)=1(-12)=-12$. When $x=6$, $f(6)=3(6+6)=3(12)=36$. The slope of $f(x)$ is $m=\\frac{36-(-12)}{6-(-18)}=\\frac{48}{24}=2$. Using the point $(6,36)$ and $f(x)=2x+b$: $36=2(6)+b=12+b$, so $b=24$. Therefore, $f(x)=2x+24$ and the $y$-intercept is $(0,24)$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is the value of $g(0)$, not the $y$-intercept of $f(x)$.",
   "source": "https://cooksat.com/practice?questionId=0925bee8&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/0925bee8/1-ad6b97d7e3370561.png"
+      "path": "data/capture-assets/0925bee8/1-60cfc4739a467b2c.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/0925bee8/2-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/0925bee8/3-d3f8243cb1e3bf96.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/0925bee8/4-574564b69603e1f9.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/0925bee8/5-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/0925bee8/6-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/0925bee8/7-8dfb98eeaa92843f.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/0925bee8/8-df1c87962ee41243.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/0925bee8/9-f980fd106c1e41d9.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/0925bee8/10-170e741c15915acb.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/0925bee8/11-dede5835da502dbe.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/0925bee8/12-318e8faa8e967b59.png"
     }
   ]
 }

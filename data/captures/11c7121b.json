@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "11c7121b",
-  "capturedAt": "2026-11-09T21:05:18.074Z",
+  "capturedAt": "2026-11-09T23:24:27.247Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function h is defined by h(x)=x2+24. What is the value of h(0)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
   "choices": {
-    "A": "0",
-    "B": "12",
-    "C": "24",
-    "D": "48"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "C",
-  "explanation": "Substituting $0$ for $x$ in the function $h(x) = x^2 + 24$ yields $h(0) = 0^2 + 24$, which simplifies to $h(0) = 0 + 24 = 24$.\n\nWhy B is incorrect:\n\nThis results from misreading the function as $h(x) = x^2 + 12$ instead of $h(x) = x^2 + 24$.",
+  "explanation": "Substituting $0$ for $x$ in the function $h(x) = x^2 + 24$ yields $h(0) = 0^2 + 24$, which simplifies to $h(0) = 0 + 24 = 24$.\n\nWhy D is incorrect:\n\nThis results from incorrectly doubling the constant term: $2 \\times 24 = 48$.",
   "source": "https://cooksat.com/practice?questionId=11c7121b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/11c7121b/1-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/11c7121b/2-db2bc4c38c81b883.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/11c7121b/3-de58b1d33526e02f.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/11c7121b/4-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/11c7121b/5-ebb9a53a87ff177d.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/11c7121b/6-9e679b37536fb68d.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/11c7121b/7-be793a5fd3bc5e5b.png"
+    }
+  ]
 }

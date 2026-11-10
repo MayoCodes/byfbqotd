@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "2b04908d",
-  "capturedAt": "2026-11-09T21:06:35.687Z",
+  "capturedAt": "2026-11-09T23:44:41.620Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,60 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "At a regional science fair, students launch a model rocket. The equation y=−16(x−4.5)2+395 gives the estimated height y, in feet, of the rocket x seconds after it is launched. Which of the following is the best interpretation of the vertex of the graph of the equation in the xy-plane?",
+  "prompt": "At a regional science fair, students launch a model rocket. The equation\n[Figure 1]\ngives the estimated height\n[Figure 2]\n, in feet, of the rocket\n[Figure 3]\nseconds after it is launched. Which of the following is the best interpretation of the vertex of the graph of the equation in the xy-plane?",
   "choices": {
-    "A": "The rocket reaches an estimated maximum height of 4.5 feet 395 seconds after it is launched.",
-    "B": "The rocket reaches an estimated maximum height of 16 feet 395 seconds after it is launched.",
-    "C": "The rocket reaches an estimated maximum height of 395 feet 4.5 seconds after it is launched.",
-    "D": "The rocket reaches an estimated maximum height of 395 feet 16 seconds after it is launched."
+    "A": "The rocket reaches an estimated maximum height of\n[Figure 4]\nfeet\n[Figure 5]\nseconds after it is launched.",
+    "B": "The rocket reaches an estimated maximum height of\n[Figure 6]\nfeet\n[Figure 7]\nseconds after it is launched.",
+    "C": "The rocket reaches an estimated maximum height of\n[Figure 8]\nfeet\n[Figure 9]\nseconds after it is launched.",
+    "D": "The rocket reaches an estimated maximum height of\n[Figure 10]\nfeet\n[Figure 11]\nseconds after it is launched."
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. The given equation $y = -16(x-4.5)^{2} + 395$ is in vertex form, $y = a(x-h)^{2} + k$, where the vertex of the parabola is at the point $(h, k)$. In this equation, $h = 4.5$ and $k = 395$, so the vertex is at $(4.5, 395)$. Since the coefficient $a = -16$ is negative, the parabola opens downward, which means the vertex represents the maximum point of the graph. It's given that $y$ represents the height in feet and $x$ represents the time in seconds after launch. Therefore, the vertex $(4.5, 395)$ means that $4.5$ seconds after the rocket is launched, it reaches its maximum estimated height of $395$ feet.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from confusing the magnitude of the leading coefficient, $16$, with the $x$-coordinate of the vertex. The vertex is at $(4.5, 395)$, not $(16, 395)$.",
+  "explanation": "Choice C is correct. The given equation $y = -16(x-4.5)^{2} + 395$ is in vertex form, $y = a(x-h)^{2} + k$, where the vertex of the parabola is at the point $(h, k)$. In this equation, $h = 4.5$ and $k = 395$, so the vertex is at $(4.5, 395)$. Since the coefficient $a = -16$ is negative, the parabola opens downward, which means the vertex represents the maximum point of the graph. It's given that $y$ represents the height in feet and $x$ represents the time in seconds after launch. Therefore, the vertex $(4.5, 395)$ means that $4.5$ seconds after the rocket is launched, it reaches its maximum estimated height of $395$ feet.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from reversing the coordinates of the vertex. The vertex $(4.5, 395)$ indicates a maximum height of $395$ feet at $4.5$ seconds, not a maximum height of $4.5$ feet at $395$ seconds.",
   "source": "https://cooksat.com/practice?questionId=2b04908d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2b04908d/1-ba2bea92faf054b4.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/2b04908d/2-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/2b04908d/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/2b04908d/4-fb86959fee1edc6f.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/2b04908d/5-fc009232ae1298cd.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/2b04908d/6-1158988890b56c17.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/2b04908d/7-fc009232ae1298cd.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/2b04908d/8-fc009232ae1298cd.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/2b04908d/9-fb86959fee1edc6f.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/2b04908d/10-fc009232ae1298cd.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/2b04908d/11-1158988890b56c17.png"
+    }
+  ]
 }

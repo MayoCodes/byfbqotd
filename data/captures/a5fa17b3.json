@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "a5fa17b3",
-  "capturedAt": "2026-11-09T21:14:28.413Z",
+  "capturedAt": "2026-11-09T23:59:32.041Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,48 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "Square M has a side length of w centimeters. Square N has a perimeter that is 132 centimeters greater than the perimeter of square M. The function g gives the area of square N, in square centimeters. Which of the following defines g?",
+  "prompt": "Square M has a side length of\n[Figure 1]\ncentimeters. Square N has a perimeter that is\n[Figure 2]\ncentimeters greater than the perimeter of square M. The function\n[Figure 3]\ngives the area of square N, in square centimeters. Which of the following defines\n[Figure 4]\n?",
   "choices": {
-    "A": "g(w)=(w+33)2",
-    "B": "g(w)=(w+132)2",
-    "C": "g(w)=(132w+33)2",
-    "D": "g(w)=(132w+132)2"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. Let $w$ represent the side length, in centimeters, of square M. It follows that the perimeter of square M is $4w$ centimeters. Since square N has a perimeter that is $132$ centimeters greater than the perimeter of square M, the perimeter of square N is $4w + 132$ centimeters. Because the perimeter of a square is $4$ times its side length, each side length of square N is $\\frac{4w + 132}{4}$, or $w + 33$ centimeters. The area of a square is the square of its side length, so the area of square N is $(w + 33)^{2}$ square centimeters. Therefore, $g(w) = (w + 33)^{2}$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This function represents a square with side length $(132w + 33)$ centimeters, which does not correctly represent the side length of square N.",
+  "explanation": "Choice A is correct. Let $w$ represent the side length, in centimeters, of square M. It follows that the perimeter of square M is $4w$ centimeters. Since square N has a perimeter that is $132$ centimeters greater than the perimeter of square M, the perimeter of square N is $4w + 132$ centimeters. Because the perimeter of a square is $4$ times its side length, each side length of square N is $\\frac{4w + 132}{4}$, or $w + 33$ centimeters. The area of a square is the square of its side length, so the area of square N is $(w + 33)^{2}$ square centimeters. Therefore, $g(w) = (w + 33)^{2}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This function represents a square with side length $(w + 132)$ centimeters, which would result from adding the perimeter offset directly to the side length without dividing by $4$.",
   "source": "https://cooksat.com/practice?questionId=a5fa17b3&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a5fa17b3/1-5be1746c6339c76d.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/a5fa17b3/2-4352786bb323f263.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/a5fa17b3/3-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/a5fa17b3/4-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/a5fa17b3/5-8e0f12413cf0f464.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/a5fa17b3/6-92399e029f3c7974.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/a5fa17b3/7-284804b0c323ffd3.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/a5fa17b3/8-ffaab06889f6eabc.png"
+    }
+  ]
 }

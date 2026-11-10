@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "80b34e3e",
-  "capturedAt": "2026-11-09T21:12:22.495Z",
+  "capturedAt": "2026-11-09T23:55:30.316Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,59 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "h(x)=(x−2)(x+4)(x−5)",
+  "prompt": "[Figure 1]\n\nIn the xy-plane, when the graph of the function\n[Figure 2]\n, where\n[Figure 3]\n, is shifted up\n[Figure 4]\nunits, the resulting graph is defined by the function\n[Figure 5]\n. If the graph of\n[Figure 6]\npasses through the point\n[Figure 7]\n, where\n[Figure 8]\nis a constant, what is the value of\n[Figure 9]\n?\n\n[Figure 10]\n\n[Figure 11]",
   "choices": {},
-  "correctAnswer": "47",
+  "correctAnswer": "[Figure 12]",
   "explanation": "The correct answer is $47$. Since the graph of $h$ is shifted up $7$ units to produce the graph of $g$, function $g$ can be defined by $g(x) = h(x) + 7$. Substituting $(x - 2)(x + 4)(x - 5)$ for $h(x)$ yields $g(x) = (x - 2)(x + 4)(x - 5) + 7$. For the point $(6, c)$, the value of $x$ is $6$. Substituting $6$ for $x$ gives $g(6) = (6 - 2)(6 + 4)(6 - 5) + 7$, which simplifies to $g(6) = (4)(10)(1) + 7 = 40 + 7 = 47$. Therefore, the value of $c$ is $47$.",
   "source": "https://cooksat.com/practice?questionId=80b34e3e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/80b34e3e/1-858067292fa74659.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/80b34e3e/2-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/80b34e3e/3-d7529629e07e1131.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/80b34e3e/4-0f673374db83edc0.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/80b34e3e/5-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/80b34e3e/6-a370960d94a8b7e2.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/80b34e3e/7-2906ff6099804579.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/80b34e3e/8-fa4e73aef0bcf693.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/80b34e3e/9-fa4e73aef0bcf693.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/80b34e3e/10-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/80b34e3e/11-969497c035ae9084.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/80b34e3e/12-b77090e077079448.png"
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "11c6b893",
-  "capturedAt": "2026-11-09T21:05:13.297Z",
+  "capturedAt": "2026-11-09T23:24:12.668Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,56 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=x2+8x+15. The function g is defined as g(x)=f(x−1). What is the value of g(x) when x=−2?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. The function\n[Figure 3]\nis defined as\n[Figure 4]\n. What is the value of\n[Figure 5]\nwhen\n[Figure 6]\n?",
   "choices": {
-    "A": "0",
-    "B": "3",
-    "C": "8",
-    "D": "15"
+    "A": "[Figure 7]",
+    "B": "[Figure 8]",
+    "C": "[Figure 9]",
+    "D": "[Figure 10]"
   },
   "correctAnswer": "A",
   "explanation": "Since $g(x) = f(x-1)$ and $f(x) = x^2 + 8x + 15$, we have $g(x) = (x-1)^2 + 8(x-1) + 15$. Expanding yields $g(x) = x^2 - 2x + 1 + 8x - 8 + 15 = x^2 + 6x + 8$. Substituting $x = -2$ gives $g(-2) = (-2)^2 + 6(-2) + 8 = 4 - 12 + 8 = 0$.",
   "source": "https://cooksat.com/practice?questionId=11c6b893&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/11c6b893/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/11c6b893/2-f80765ba8d0d9a6f.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/11c6b893/3-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/11c6b893/4-3ceb85080ccbd454.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/11c6b893/5-d3f8243cb1e3bf96.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/11c6b893/6-50df7c4e12ac3e9e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/11c6b893/7-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/11c6b893/8-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/11c6b893/9-f4f34a91ada02fa5.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/11c6b893/10-c395eb4f102fcf49.png"
+    }
+  ]
 }

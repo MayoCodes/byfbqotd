@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "a9e9752b",
-  "capturedAt": "2026-11-09T21:14:43.142Z",
+  "capturedAt": "2026-11-09T23:59:53.027Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,76 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "h(t)=−0.0318(12t​)2+8.4125(12t​)+92.418",
+  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\ngives the predicted height\n[Figure 3]\n, in centimeters (cm), of a certain tree\n[Figure 4]\nmonths after it was planted in a botanical garden, where\n[Figure 5]\n. Which of the following is the best interpretation of the statement “\n[Figure 6]\nis approximately equal to\n[Figure 7]\n” in this context?",
   "choices": {
-    "A": "The predicted height of the tree was approximately 240 cm\n\n248 months after it was planted.",
-    "B": "The predicted height of the tree was approximately 12240​ cm\n\n248 months after it was planted.",
-    "C": "The predicted height of the tree was approximately 248 cm\n\n12240​ months after it was planted.",
-    "D": "The predicted height of the tree was approximately 248 cm\n\n240 months after it was planted."
+    "A": "The predicted height of the tree was approximately\n[Figure 8]\ncm\n\n[Figure 9]\nmonths after it was planted.",
+    "B": "The predicted height of the tree was approximately\n[Figure 10]\ncm\n\n[Figure 11]\nmonths after it was planted.",
+    "C": "The predicted height of the tree was approximately\n[Figure 12]\ncm\n\n[Figure 13]\nmonths after it was planted.",
+    "D": "The predicted height of the tree was approximately\n[Figure 14]\ncm\n\n[Figure 15]\nmonths after it was planted."
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. In the function $h$, the input $t$ is the number of months after the tree was planted and the output $h(t)$ is the predicted height, in centimeters. Therefore $h(240) \\approx 248$ means that $240$ months after it was planted, the tree's predicted height was approximately $248$ centimeters.\n\nWhy B is incorrect:\n\nChoice B is incorrect. It both interchanges the input and output and converts the input to years; $\\frac{240}{12}$ is not a height in centimeters.",
   "source": "https://cooksat.com/practice?questionId=a9e9752b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a9e9752b/1-c222c4ea32da0148.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/a9e9752b/2-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/a9e9752b/3-4b7d754f6bcc019d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/a9e9752b/4-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/a9e9752b/5-115e093e234038cd.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/a9e9752b/6-6ff13f2e43ef5b74.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/a9e9752b/7-88da03adeacd6f3c.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/a9e9752b/8-f6a099c4f4144909.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/a9e9752b/9-4bb09a16a332a861.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/a9e9752b/10-2531e580ba78c6a3.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/a9e9752b/11-4bb09a16a332a861.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/a9e9752b/12-4bb09a16a332a861.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/a9e9752b/13-2531e580ba78c6a3.png"
+    },
+    {
+      "label": "Figure 14",
+      "path": "data/capture-assets/a9e9752b/14-4bb09a16a332a861.png"
+    },
+    {
+      "label": "Figure 15",
+      "path": "data/capture-assets/a9e9752b/15-f6a099c4f4144909.png"
+    }
+  ]
 }

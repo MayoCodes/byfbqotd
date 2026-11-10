@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "5290336c",
-  "capturedAt": "2026-11-09T21:09:34.402Z",
+  "capturedAt": "2026-11-09T23:50:16.895Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,68 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function M(t)=48(Q)6t​ gives the predicted mass M(t), in grams, of an algae culture t minutes after an initial measurement, where Q is a constant greater than 1. The predicted mass increases by p% every 180 seconds. What is the value of p in terms of Q?",
+  "prompt": "The function\n[Figure 1]\ngives the predicted mass\n[Figure 2]\n, in grams, of an algae culture\n[Figure 3]\nminutes after an initial measurement, where\n[Figure 4]\nis a constant greater than\n[Figure 5]\n. The predicted mass increases by\n[Figure 6]\nevery\n[Figure 7]\nseconds. What is the value of\n[Figure 8]\nin terms of\n[Figure 9]\n?",
   "choices": {
-    "A": "100(Q21​−1)",
-    "B": "100(Q21​+1)",
-    "C": "100(Q30−1)",
-    "D": "100(Q30+1)"
+    "A": "[Figure 10]",
+    "B": "[Figure 11]",
+    "C": "[Figure 12]",
+    "D": "[Figure 13]"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. It's given that the predicted mass increases by $p\\%$ every $180$ seconds. Since there are $60$ seconds in $1$ minute, $180$ seconds is equivalent to $\\frac{180}{60}$, or $3$, minutes. To find $p$, the mass at time $t$ can be compared to the mass at time $t + 3$. Substituting $t + 3$ for $t$ in the given equation yields $M(t + 3) = 48(Q)^{\\frac{t + 3}{6}}$, which is equivalent to $M(t + 3) = 48(Q)^{\\frac{t}{6} + \\frac{1}{2}}$, or $M(t + 3) = 48(Q)^{\\frac{t}{6}}(Q)^{\\frac{1}{2}}$. The ratio of the mass at time $t + 3$ to the mass at time $t$ is $\\frac{M(t + 3)}{M(t)} = \\frac{48(Q)^{\\frac{t}{6}}(Q)^{\\frac{1}{2}}}{48(Q)^{\\frac{t}{6}}}$, which is equivalent to $Q^{\\frac{1}{2}}$. A $p\\%$ increase means the new mass is $\\left(1 + \\frac{p}{100}\\right)$ times the original mass. Therefore, $1 + \\frac{p}{100} = Q^{\\frac{1}{2}}$. Subtracting $1$ from both sides of this equation yields $\\frac{p}{100} = Q^{\\frac{1}{2}} - 1$. Multiplying both sides of this equation by $100$ yields $p = 100(Q^{\\frac{1}{2}} - 1)$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from using addition instead of subtraction when isolating $p$ from the equation $1 + \\frac{p}{100} = Q^{\\frac{1}{2}}$.",
+  "explanation": "Choice A is correct. It's given that the predicted mass increases by $p\\%$ every $180$ seconds. Since there are $60$ seconds in $1$ minute, $180$ seconds is equivalent to $\\frac{180}{60}$, or $3$, minutes. To find $p$, the mass at time $t$ can be compared to the mass at time $t + 3$. Substituting $t + 3$ for $t$ in the given equation yields $M(t + 3) = 48(Q)^{\\frac{t + 3}{6}}$, which is equivalent to $M(t + 3) = 48(Q)^{\\frac{t}{6} + \\frac{1}{2}}$, or $M(t + 3) = 48(Q)^{\\frac{t}{6}}(Q)^{\\frac{1}{2}}$. The ratio of the mass at time $t + 3$ to the mass at time $t$ is $\\frac{M(t + 3)}{M(t)} = \\frac{48(Q)^{\\frac{t}{6}}(Q)^{\\frac{1}{2}}}{48(Q)^{\\frac{t}{6}}}$, which is equivalent to $Q^{\\frac{1}{2}}$. A $p\\%$ increase means the new mass is $\\left(1 + \\frac{p}{100}\\right)$ times the original mass. Therefore, $1 + \\frac{p}{100} = Q^{\\frac{1}{2}}$. Subtracting $1$ from both sides of this equation yields $\\frac{p}{100} = Q^{\\frac{1}{2}} - 1$. Multiplying both sides of this equation by $100$ yields $p = 100(Q^{\\frac{1}{2}} - 1)$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from both incorrectly converting $180$ seconds to minutes (yielding an exponent of $30$ instead of $\\frac{1}{2}$) and using addition instead of subtraction when isolating $p$.",
   "source": "https://cooksat.com/practice?questionId=5290336c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5290336c/1-dfbc055ccf570dfd.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/5290336c/2-e827d2c0a49b35b0.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/5290336c/3-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/5290336c/4-46d93237b5e83952.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/5290336c/5-9de044b2f5fd2973.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/5290336c/6-987dee03e4eac733.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/5290336c/7-832cb0a4c65a7463.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/5290336c/8-f07e748cf82e0762.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/5290336c/9-46d93237b5e83952.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/5290336c/10-57c21c72920511ae.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/5290336c/11-1bbeadd29eaa53e7.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/5290336c/12-40f8155b6f10b27e.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/5290336c/13-493e46c07a8d8e9a.png"
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "9a4e3d4a",
-  "capturedAt": "2026-11-09T21:13:38.702Z",
+  "capturedAt": "2026-11-09T23:57:55.137Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,40 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "If g(x)=21​(x−7)2, which of the following describes the graph of y=g(x) in the xy-plane?",
+  "prompt": "If\n[Figure 1]\n, which of the following describes the graph of\n[Figure 2]\nin the xy-plane?",
   "choices": {
-    "A": "A parabola that opens downward with vertex (7,249​)",
-    "B": "A parabola that opens downward with vertex (27​,0)",
-    "C": "A parabola that opens upward with vertex (7,0)",
-    "D": "A parabola that opens upward with vertex (27​,0)"
+    "A": "A parabola that opens downward with vertex\n[Figure 3]",
+    "B": "A parabola that opens downward with vertex\n[Figure 4]",
+    "C": "A parabola that opens upward with vertex\n[Figure 5]",
+    "D": "A parabola that opens upward with vertex\n[Figure 6]"
   },
   "correctAnswer": "C",
-  "explanation": "The function $g(x)=\\frac{1}{2}(x-7)^{2}$ is in vertex form $g(x)=a(x-h)^{2}+k$ where $a=\\frac{1}{2}>0$, $h=7$, and $k=0$. Since $a>0$, the parabola opens upward. The vertex is at $(h,k)=(7,0)$.\n\nWhy A is incorrect:\n\nResults from correctly identifying the x-coordinate of the vertex as $7$, but incorrectly thinking the parabola opens downward and miscalculating the y-coordinate as $\\frac{49}{2}$ instead of $0$.",
+  "explanation": "The function $g(x)=\\frac{1}{2}(x-7)^{2}$ is in vertex form $g(x)=a(x-h)^{2}+k$ where $a=\\frac{1}{2}>0$, $h=7$, and $k=0$. Since $a>0$, the parabola opens upward. The vertex is at $(h,k)=(7,0)$.\n\nWhy D is incorrect:\n\nResults from correctly identifying that the parabola opens upward, but confusing the vertex x-coordinate as $\\frac{7}{2}$ instead of $7$ from the factor $(x-7)$.",
   "source": "https://cooksat.com/practice?questionId=9a4e3d4a&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/9a4e3d4a/1-045a321a56ea58e4.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/9a4e3d4a/2-a370960d94a8b7e2.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/9a4e3d4a/3-e900958607ee801d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/9a4e3d4a/4-6f0bf5bb83586a4c.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/9a4e3d4a/5-69a71880069221e6.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/9a4e3d4a/6-6f0bf5bb83586a4c.png"
+    }
+  ]
 }

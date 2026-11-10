@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "604b9563",
-  "capturedAt": "2026-11-09T21:10:21.329Z",
+  "capturedAt": "2026-11-09T23:51:56.328Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,35 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=x2+4x+4. What is the value of f(−3)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?\n\n[Figure 4]\n\n[Figure 5]",
   "choices": {},
-  "correctAnswer": "1",
+  "correctAnswer": "[Figure 6]",
   "explanation": "The correct answer is $1$. It's given that the function $f$ is defined by $f(x) = x^2 + 4x + 4$. The value of $f(-3)$ is found by substituting $-3$ for $x$ in the given equation. Substituting $-3$ for $x$ yields $f(-3) = (-3)^2 + 4(-3) + 4$. Evaluating the exponent gives $f(-3) = 9 + 4(-3) + 4$. Multiplying gives $f(-3) = 9 - 12 + 4$. Adding the terms from left to right gives $f(-3) = -3 + 4 = 1$. Therefore, the value of $f(-3)$ is $1$.",
   "source": "https://cooksat.com/practice?questionId=604b9563&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/604b9563/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/604b9563/2-360b3c067dd4fb3e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/604b9563/3-059bc47881bd3109.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/604b9563/4-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/604b9563/5-0c32e2bcf21ebd61.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/604b9563/6-b4df088554256620.png"
+    }
+  ]
 }

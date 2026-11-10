@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "daf18c75",
-  "capturedAt": "2026-11-09T21:17:25.240Z",
+  "capturedAt": "2026-11-10T00:05:40.149Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,12 +10,12 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The graph shown models the number of members of a community club x years after 2005. How many members does this model estimate the club had in 2005?",
+  "prompt": "[Figure 1]\n\nThe graph shown models the number of members of a community club\n[Figure 2]\nyears after\n[Figure 3]\n. How many members does this model estimate the club had in\n[Figure 4]\n?",
   "choices": {
-    "A": "0",
-    "B": "800",
-    "C": "8,000",
-    "D": "11,842"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. Since $x$ represents years after $2005$, the year $2005$ corresponds to $x = 0$. On the graph shown, the point with an x-coordinate of $0$ has a y-coordinate of $8{,}000$. Thus, the model estimates that in $2005$, the club had $8{,}000$ members.",
@@ -22,7 +23,35 @@
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/daf18c75/1-ba2bfb420157e4e7.png"
+      "path": "data/capture-assets/daf18c75/1-f4a038560dbd53df.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/daf18c75/2-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/daf18c75/3-820e65779d7b5d7a.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/daf18c75/4-820e65779d7b5d7a.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/daf18c75/5-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/daf18c75/6-cac4fcf305081669.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/daf18c75/7-5ad1b2d1ecc8162d.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/daf18c75/8-8fbc82987b3a0cf2.png"
     }
   ]
 }

@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "676da45e",
-  "capturedAt": "2026-11-09T21:10:49.743Z",
+  "capturedAt": "2026-11-09T23:52:53.096Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=3x2−4x+2. What is the value of f(5)−f(2)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
   "choices": {
-    "A": "27",
-    "B": "35",
-    "C": "45",
-    "D": "51"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "D",
-  "explanation": "To find $f(5) - f(2)$, first evaluate $f(5) = 3(5)^2 - 4(5) + 2 = 3(25) - 20 + 2 = 75 - 20 + 2 = 57$. Then evaluate $f(2) = 3(2)^2 - 4(2) + 2 = 3(4) - 8 + 2 = 12 - 8 + 2 = 6$. Therefore, $f(5) - f(2) = 57 - 6 = 51$.\n\nWhy C is incorrect:\n\nResults from correctly calculating both $f(5) = 57$ and $f(2) = 6$ but making an arithmetic error in the final subtraction: $57 - 6 = 45$.",
+  "explanation": "To find $f(5) - f(2)$, first evaluate $f(5) = 3(5)^2 - 4(5) + 2 = 3(25) - 20 + 2 = 75 - 20 + 2 = 57$. Then evaluate $f(2) = 3(2)^2 - 4(2) + 2 = 3(4) - 8 + 2 = 12 - 8 + 2 = 6$. Therefore, $f(5) - f(2) = 57 - 6 = 51$.",
   "source": "https://cooksat.com/practice?questionId=676da45e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/676da45e/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/676da45e/2-6971b2ecb8b4e9b1.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/676da45e/3-82f26504c927ed33.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/676da45e/4-f703058d8cd334c8.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/676da45e/5-bf52d099c8658154.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/676da45e/6-3dee0fc004fd4a67.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/676da45e/7-6aa250b59a7aba5a.png"
+    }
+  ]
 }

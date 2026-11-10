@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "fd87af7b",
-  "capturedAt": "2026-11-09T21:19:24.856Z",
+  "capturedAt": "2026-11-10T00:09:23.232Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The product of a positive number w and the number that is 6 more than w is 135. What is the value of w?",
+  "prompt": "The product of a positive number\n[Figure 1]\nand the number that is\n[Figure 2]\nmore than\n[Figure 3]\nis\n[Figure 4]\n. What is the value of\n[Figure 5]\n?",
   "choices": {
-    "A": "4",
-    "B": "9",
-    "C": "15",
-    "D": "27"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. The number that is $6$ more than $w$ can be represented as $w + 6$. It's given that the product of $w$ and $w + 6$ is $135$, so $w(w + 6) = 135$, or $w^{2} + 6w = 135$. Subtracting $135$ from both sides yields $w^{2} + 6w - 135 = 0$. Factoring gives $(w - 9)(w + 15) = 0$. By the zero product property, $w = 9$ or $w = -15$. Since $w$ is positive, $w = 9$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is the value of the number that is $6$ more than $w$, not the value of $w$.",
   "source": "https://cooksat.com/practice?questionId=fd87af7b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/fd87af7b/1-5be1746c6339c76d.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/fd87af7b/2-73f0663bf1846604.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/fd87af7b/3-5be1746c6339c76d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/fd87af7b/4-1f4c014d426a52ab.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/fd87af7b/5-5be1746c6339c76d.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/fd87af7b/6-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/fd87af7b/7-42e42729df9aea5a.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/fd87af7b/8-c395eb4f102fcf49.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/fd87af7b/9-f703058d8cd334c8.png"
+    }
+  ]
 }

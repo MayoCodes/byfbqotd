@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "da0aa760",
-  "capturedAt": "2026-11-09T21:17:16.112Z",
+  "capturedAt": "2026-11-10T00:05:21.650Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g is defined by g(x)=(−9)(5)x+47. What is the y-intercept of the graph of y=g(x) in the xy-plane?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the\n[Figure 3]\n-intercept of the graph of\n[Figure 4]\nin the\n[Figure 5]\n-plane?",
   "choices": {
-    "A": "(0,−9)",
-    "B": "(0,5)",
-    "C": "(0,38)",
-    "D": "(0,47)"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. The $y$-intercept of a graph in the $xy$-plane is the point where the graph crosses the $y$-axis, which occurs when $x = 0$. Substituting $0$ for $x$ in the given equation yields $g(0) = (-9)(5)^{0} + 47$. Since $(5)^{0} = 1$, this is equivalent to $g(0) = (-9)(1) + 47 = -9 + 47 = 38$. Therefore, the $y$-intercept of the graph of $y = g(x)$ is $(0, 38)$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from ignoring the term $(-9)(5)^{x}$ and identifying only the constant term $47$ as the $y$-coordinate of the $y$-intercept.",
+  "explanation": "Choice C is correct. The $y$-intercept of a graph in the $xy$-plane is the point where the graph crosses the $y$-axis, which occurs when $x = 0$. Substituting $0$ for $x$ in the given equation yields $g(0) = (-9)(5)^{0} + 47$. Since $(5)^{0} = 1$, this is equivalent to $g(0) = (-9)(1) + 47 = -9 + 47 = 38$. Therefore, the $y$-intercept of the graph of $y = g(x)$ is $(0, 38)$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from identifying the coefficient $-9$ as the $y$-coordinate of the $y$-intercept, or from evaluating $(-9)(5)^{0}$ as $-9$ and then neglecting to add $47$.",
   "source": "https://cooksat.com/practice?questionId=da0aa760&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/da0aa760/1-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/da0aa760/2-752f82ca99916bed.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/da0aa760/3-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/da0aa760/4-a370960d94a8b7e2.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/da0aa760/5-df1c87962ee41243.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/da0aa760/6-d45dd92ddf83d913.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/da0aa760/7-c12cf42d24d02c62.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/da0aa760/8-e314fc7bcdee177d.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/da0aa760/9-663f91e8e9995739.png"
+    }
+  ]
 }

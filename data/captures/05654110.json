@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "05654110",
-  "capturedAt": "2026-11-09T21:04:25.391Z",
+  "capturedAt": "2026-11-09T23:21:32.059Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,52 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "For the quadratic function h, the table shows three values of x and their corresponding values of h(x). Which equation defines h?",
+  "prompt": "[Table 1]\n\nFor the quadratic function\n[Figure 2]\n, the table shows three values of\n[Figure 3]\nand their corresponding values of\n[Figure 4]\n. Which equation defines\n[Figure 5]\n?",
   "choices": {
-    "A": "h(x)=(x−6)(x−23)+23",
-    "B": "h(x)=(x−6)(x−23)−23",
-    "C": "h(x)=(x−15)(x−21)−6",
-    "D": "h(x)=(x−15)(x−21)+3"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. According to the table, $h(15) = -6$, $h(21) = -6$, and $h(23) = 10$. Let the quadratic function $p$ be defined by $p(x) = h(x) + 6$. Then $p(15) = h(15) + 6 = -6 + 6 = 0$, $p(21) = h(21) + 6 = -6 + 6 = 0$, and $p(23) = h(23) + 6 = 10 + 6 = 16$. By the factor theorem, since $p(15) = 0$ and $p(21) = 0$, $p(x) = k(x-15)(x-21)$ for some constant $k$. Substituting $x = 23$ and $p(23) = 16$ yields $16 = k(23-15)(23-21) = k(8)(2) = 16k$, so $k = 1$. Therefore $p(x) = (x-15)(x-21)$. Since $p(x) = h(x) + 6$, it follows that $h(x) = p(x) - 6 = (x-15)(x-21) - 6$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. If this equation defined $h$, then when $x = 15$, the value of $h(x)$ would be $(15-15)(15-21) + 3 = 0 + 3 = 3$, not $-6$.",
+  "explanation": "Choice C is correct. According to the table, $h(15) = -6$, $h(21) = -6$, and $h(23) = 10$. Let the quadratic function $p$ be defined by $p(x) = h(x) + 6$. Then $p(15) = h(15) + 6 = -6 + 6 = 0$, $p(21) = h(21) + 6 = -6 + 6 = 0$, and $p(23) = h(23) + 6 = 10 + 6 = 16$. By the factor theorem, since $p(15) = 0$ and $p(21) = 0$, $p(x) = k(x-15)(x-21)$ for some constant $k$. Substituting $x = 23$ and $p(23) = 16$ yields $16 = k(23-15)(23-21) = k(8)(2) = 16k$, so $k = 1$. Therefore $p(x) = (x-15)(x-21)$. Since $p(x) = h(x) + 6$, it follows that $h(x) = p(x) - 6 = (x-15)(x-21) - 6$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. If this equation defined $h$, then when $x = 15$, the value of $h(x)$ would be $(15-6)(15-23) + 23 = (9)(-8) + 23 = -49$, not $-6$.",
   "source": "https://cooksat.com/practice?questionId=05654110&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/05654110/1-0bf47299e063f384.png"
+      "path": "data/capture-assets/05654110/1-ea98e34a7011903e.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/05654110/2-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/05654110/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/05654110/4-0eb1b7dfc7aa423d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/05654110/5-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/05654110/6-aa709572b34041ad.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/05654110/7-d4eb73a28f1196ab.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/05654110/8-8f6824b007a87ca6.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/05654110/9-f48c35532148255e.png"
     }
   ]
 }

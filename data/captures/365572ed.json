@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "365572ed",
-  "capturedAt": "2026-11-09T21:07:26.258Z",
+  "capturedAt": "2026-11-09T23:46:20.094Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,68 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The given function g(t)=4,500(1.004)3t models the balance of an investment account, in dollars, t years after it is opened. Which statement is the best interpretation of (1.004)3t?",
+  "prompt": "The given function\n[Figure 1]\nmodels the balance of an investment account, in dollars,\n[Figure 2]\nyears after it is opened. Which statement is the best interpretation of\n[Figure 3]\n?",
   "choices": {
-    "A": "Every 4 months, the balance increases by about $18.",
-    "B": "Every 3 years, the balance increases by about $18.",
-    "C": "At the end of every 4-month interval, the balance increases by about 0.4% of the balance at the beginning of the 4-month interval.",
-    "D": "At the end of every 3-year interval, the balance increases by about 0.4% of the balance at the beginning of the 3-year interval."
+    "A": "Every\n[Figure 4]\nmonths, the balance increases by about $\n[Figure 5]\n.",
+    "B": "Every\n[Figure 6]\nyears, the balance increases by about $\n[Figure 7]\n.",
+    "C": "At the end of every\n[Figure 8]\n-month interval, the balance increases by about\n[Figure 9]\nof the balance at the beginning of the\n[Figure 10]\n-month interval.",
+    "D": "At the end of every\n[Figure 11]\n-year interval, the balance increases by about\n[Figure 12]\nof the balance at the beginning of the\n[Figure 13]\n-year interval."
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. The given function can be rewritten as $g(t) = 4{,}500\\left[(1.004)^{3}\\right]^{t}$. Since $t$ is the number of years after the account is opened, when $t$ increases by $\\frac{1}{3}$ (representing a $4$-month interval), the exponent $3t$ increases by $1$. Therefore, the factor $(1.004)^{3t}$ is multiplied by $1.004$ every $4$ months. Since $1.004 = 1 + 0.004$, multiplying by $1.004$ represents an increase of $0.004$, or $0.4\\%$, of the previous value. It follows that at the end of every $4$-month interval, the balance increases by about $0.4\\%$ of the balance at the beginning of the $4$-month interval.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from both confusing the percent increase with a fixed dollar amount and misinterpreting the coefficient $3$ in the exponent $3t$ as a $3$-year interval rather than recognizing it indicates compounding three times per year.",
+  "explanation": "Choice C is correct. The given function can be rewritten as $g(t) = 4{,}500\\left[(1.004)^{3}\\right]^{t}$. Since $t$ is the number of years after the account is opened, when $t$ increases by $\\frac{1}{3}$ (representing a $4$-month interval), the exponent $3t$ increases by $1$. Therefore, the factor $(1.004)^{3t}$ is multiplied by $1.004$ every $4$ months. Since $1.004 = 1 + 0.004$, multiplying by $1.004$ represents an increase of $0.004$, or $0.4\\%$, of the previous value. It follows that at the end of every $4$-month interval, the balance increases by about $0.4\\%$ of the balance at the beginning of the $4$-month interval.",
   "source": "https://cooksat.com/practice?questionId=365572ed&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/365572ed/1-e6f4ba56a06b1641.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/365572ed/2-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/365572ed/3-dac6802e06de4579.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/365572ed/4-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/365572ed/5-d126f8f5b8501d4f.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/365572ed/6-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/365572ed/7-d126f8f5b8501d4f.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/365572ed/8-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/365572ed/9-4d2ffa487936b374.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/365572ed/10-fcf7d75cfc7ff09c.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/365572ed/11-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/365572ed/12-4d2ffa487936b374.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/365572ed/13-f4ee39ba9ef6e452.png"
+    }
+  ]
 }

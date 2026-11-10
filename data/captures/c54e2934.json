@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "c54e2934",
-  "capturedAt": "2026-11-09T21:16:14.613Z",
+  "capturedAt": "2026-11-10T00:02:59.675Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,43 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The y-intercept of the graph of y=3x2−7x+26 in the xy-plane is (0,y). What is the value of y?",
+  "prompt": "The\n[Figure 1]\n-intercept of the graph of\n[Figure 2]\nin the\n[Figure 3]\n-plane is\n[Figure 4]\n. What is the value of\n[Figure 5]\n?\n\n[Figure 6]\n\n[Figure 7]",
   "choices": {},
-  "correctAnswer": "26",
+  "correctAnswer": "[Figure 8]",
   "explanation": "The correct answer is $26$. It's given that the $y$-intercept of the graph of $y = 3x^2 - 7x + 26$ in the $xy$-plane is $(0, y)$. Substituting $0$ for $x$ in the given equation yields $y = 3(0)^2 - 7(0) + 26$, or $y = 26$. Thus, the value of $y$ is $26$.",
   "source": "https://cooksat.com/practice?questionId=c54e2934&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c54e2934/1-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/c54e2934/2-f39cdcb5a0c241a6.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/c54e2934/3-df1c87962ee41243.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/c54e2934/4-2669e0f92c054192.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/c54e2934/5-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/c54e2934/6-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/c54e2934/7-9bb67bfe1bda455a.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/c54e2934/8-68e8a27fcf06fd63.png"
+    }
+  ]
 }

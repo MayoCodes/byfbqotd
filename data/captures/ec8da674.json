@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "ec8da674",
-  "capturedAt": "2026-11-09T21:18:20.551Z",
+  "capturedAt": "2026-11-10T00:07:24.636Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function f is defined by f(x)=x2+10x+24. If g(x)=f(x−2) and h(x)=g(x)−f(x), what is the value of h(0)?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. If\n[Figure 3]\nand\n[Figure 4]\n, what is the value of\n[Figure 5]\n?",
   "choices": {
-    "A": "−25",
-    "B": "−16",
-    "C": "−1",
-    "D": "1"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "B",
   "explanation": "First, find $g(x) = f(x-2) = (x-2)^2 + 10(x-2) + 24$. Expanding gives $g(x) = x^2 - 4x + 4 + 10x - 20 + 24 = x^2 + 6x + 8$. Then $h(x) = g(x) - f(x) = (x^2 + 6x + 8) - (x^2 + 10x + 24) = -4x - 16$. Therefore, $h(0) = -4(0) - 16 = -16$.",
   "source": "https://cooksat.com/practice?questionId=ec8da674&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ec8da674/1-320b93d96905ffb3.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/ec8da674/2-b762afb7ccb61e9e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/ec8da674/3-d3072ffbcd4956c6.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/ec8da674/4-0ad623e7d1007830.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/ec8da674/5-de58b1d33526e02f.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/ec8da674/6-b793592128a66d6e.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/ec8da674/7-db5967eb90a67272.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/ec8da674/8-0f25fb33c5851a04.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/ec8da674/9-0c32e2bcf21ebd61.png"
+    }
+  ]
 }

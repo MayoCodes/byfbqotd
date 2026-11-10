@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "0c520870",
-  "capturedAt": "2026-11-09T21:04:53.901Z",
+  "capturedAt": "2026-11-09T23:23:14.595Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,10 +10,43 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "A ball is thrown upward from ground level. The height of the ball above the ground, in feet, t seconds after it is thrown is given by the function h(t)=−16t2+vt, where v is the initial upward velocity in feet per second. If the ball reaches its maximum height of 64 feet, what is the value of v?",
+  "prompt": "A ball is thrown upward from ground level. The height of the ball above the ground, in feet,\n[Figure 1]\nseconds after it is thrown is given by the function\n[Figure 2]\n, where\n[Figure 3]\nis the initial upward velocity in feet per second. If the ball reaches its maximum height of\n[Figure 4]\nfeet, what is the value of\n[Figure 5]\n?\n\n[Figure 6]\n\n[Figure 7]",
   "choices": {},
-  "correctAnswer": "64",
+  "correctAnswer": "[Figure 8]",
   "explanation": "The correct answer is $64$. For a quadratic function of the form $h(t) = at^2 + bt + c$, the maximum (or minimum) occurs at $t = -\\frac{b}{2a}$. For the given function $h(t) = -16t^2 + vt$, we have $a = -16$ and $b = v$. Since $a < 0$, the parabola opens downward and has a maximum. The time at which the maximum height occurs is $t = -\\frac{v}{2(-16)} = \\frac{v}{32}$. To find the maximum height, substitute this value of $t$ into the height function: $h\\left(\\frac{v}{32}\\right) = -16\\left(\\frac{v}{32}\\right)^2 + v\\left(\\frac{v}{32}\\right)$. Simplifying: $h\\left(\\frac{v}{32}\\right) = -16 \\cdot \\frac{v^2}{1024} + \\frac{v^2}{32} = -\\frac{v^2}{64} + \\frac{v^2}{32}$. Finding a common denominator: $-\\frac{v^2}{64} + \\frac{2v^2}{64} = \\frac{v^2}{64}$. It is given that the maximum height is $64$ feet, so $\\frac{v^2}{64} = 64$. Multiplying both sides by $64$ yields $v^2 = 4096$. Taking the positive square root (since velocity is positive for upward motion): $v = 64$. Therefore, the initial upward velocity is $64$ feet per second.",
   "source": "https://cooksat.com/practice?questionId=0c520870&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0c520870/1-5c84431898a2e2e5.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/0c520870/2-5f5599bea887fb53.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/0c520870/3-6f21cf857080f918.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/0c520870/4-7c8327741fbef5b6.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/0c520870/5-6f21cf857080f918.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/0c520870/6-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/0c520870/7-e5e188ba98cebaef.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/0c520870/8-405424864a11507e.png"
+    }
+  ]
 }

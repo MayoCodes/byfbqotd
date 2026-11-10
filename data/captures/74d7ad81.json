@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "74d7ad81",
-  "capturedAt": "2026-11-09T21:11:37.751Z",
+  "capturedAt": "2026-11-09T23:54:12.735Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,48 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The table shows several values of the function g. If g is a polynomial function of degree at most 3, what is the value of g(6)?",
+  "prompt": "[Table 1]\n\nThe table shows several values of the function\n[Figure 2]\n. If\n[Figure 3]\nis a polynomial function of degree at most 3, what is the value of\n[Figure 4]\n?",
   "choices": {
-    "A": "216",
-    "B": "246",
-    "C": "252",
-    "D": "288"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "C",
-  "explanation": "The pattern in the table can be modeled by $g(x) = x^3 + x^2$. Substituting each value: $g(1) = 1 + 1 = 2$, $g(2) = 8 + 4 = 12$, $g(3) = 27 + 9 = 36$, $g(4) = 64 + 16 = 80$, and $g(5) = 125 + 25 = 150$. All values match. Therefore, $g(6) = 6^3 + 6^2 = 216 + 36 = 252$.\n\nWhy B is incorrect:\n\nThis may result from calculating $6^3 + 6^2 - 6 = 246$, incorrectly subtracting an extra linear term.",
+  "explanation": "The pattern in the table can be modeled by $g(x) = x^3 + x^2$. Substituting each value: $g(1) = 1 + 1 = 2$, $g(2) = 8 + 4 = 12$, $g(3) = 27 + 9 = 36$, $g(4) = 64 + 16 = 80$, and $g(5) = 125 + 25 = 150$. All values match. Therefore, $g(6) = 6^3 + 6^2 = 216 + 36 = 252$.\n\nWhy A is incorrect:\n\nThis is the value of $6^3$ alone, which results from omitting the $x^2$ term in the function.",
   "source": "https://cooksat.com/practice?questionId=74d7ad81&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/74d7ad81/1-2bb286fcdaafec5d.png"
+      "path": "data/capture-assets/74d7ad81/1-fe0110273a7f0ba2.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/74d7ad81/2-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/74d7ad81/3-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/74d7ad81/4-c846e2ab773a24ca.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/74d7ad81/5-674b98c72ba9527d.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/74d7ad81/6-fc73b8cdbc8addf0.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/74d7ad81/7-52e6a1b00f905239.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/74d7ad81/8-304dadf8992efd78.png"
     }
   ]
 }

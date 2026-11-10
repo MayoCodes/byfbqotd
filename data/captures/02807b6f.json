@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "02807b6f",
-  "capturedAt": "2026-11-09T21:04:05.313Z",
+  "capturedAt": "2026-11-09T23:20:40.546Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,36 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "Which function models the graph shown?",
+  "prompt": "[Figure 1]\n\nWhich function models the graph shown?",
   "choices": {
-    "A": "y=3x2+6",
-    "B": "y=3(x−1)(x−2)",
-    "C": "y=3(x+1)2",
-    "D": "y=3(x+1)(x+2)"
+    "A": "[Figure 2]",
+    "B": "[Figure 3]",
+    "C": "[Figure 4]",
+    "D": "[Figure 5]"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. The graph of a quadratic function is a parabola. The graph shown is a parabola that opens upward. The $x$-intercepts of the parabola are $-2$ and $-1$. The quadratic function in factored form is $y=a(x-r_{1})(x-r_{2})$, where $a$ is a constant and $r_{1}$ and $r_{2}$ are the $x$-intercepts of the parabola. Since the $x$-intercepts are $-2$ and $-1$, the equation can be written as $y=a(x-(-2))(x-(-1))$, or $y=a(x+2)(x+1)$. To find the value of $a$, we can use another point on the parabola. The $y$-intercept is $(0, 6)$. Substituting $0$ for $x$ and $6$ for $y$ in the equation yields $6=a(0+2)(0+1)$, or $6=2a$. Dividing both sides by $2$ yields $a=3$. Therefore, the quadratic function that models the graph shown is $y=3(x+1)(x+2)$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. Expanding this equation gives $y=3x^{2}+6$, which has a $y$-intercept of $6$. However, this parabola has no real $x$-intercepts (the discriminant of $3x^{2}+6=0$ is negative), whereas the graph shows $x$-intercepts at $-2$ and $-1$.",
+  "explanation": "Choice D is correct. The graph of a quadratic function is a parabola. The graph shown is a parabola that opens upward. The $x$-intercepts of the parabola are $-2$ and $-1$. The quadratic function in factored form is $y=a(x-r_{1})(x-r_{2})$, where $a$ is a constant and $r_{1}$ and $r_{2}$ are the $x$-intercepts of the parabola. Since the $x$-intercepts are $-2$ and $-1$, the equation can be written as $y=a(x-(-2))(x-(-1))$, or $y=a(x+2)(x+1)$. To find the value of $a$, we can use another point on the parabola. The $y$-intercept is $(0, 6)$. Substituting $0$ for $x$ and $6$ for $y$ in the equation yields $6=a(0+2)(0+1)$, or $6=2a$. Dividing both sides by $2$ yields $a=3$. Therefore, the quadratic function that models the graph shown is $y=3(x+1)(x+2)$.",
   "source": "https://cooksat.com/practice?questionId=02807b6f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/02807b6f/1-d97d1cd8bb673d65.png"
+      "path": "data/capture-assets/02807b6f/1-24bd8a031416fe10.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/02807b6f/2-649accbbfcc7351c.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/02807b6f/3-ee639b4b6e6edba2.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/02807b6f/4-33ca6f75614d9e46.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/02807b6f/5-9a03764cac0092da.png"
     }
   ]
 }

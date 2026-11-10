@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "dabb99e6",
-  "capturedAt": "2026-11-09T21:17:22.262Z",
+  "capturedAt": "2026-11-10T00:05:34.480Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,48 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function h is defined by h(x)=x2+14. For which value of x is h(x)=63?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. For which value of\n[Figure 3]\nis\n[Figure 4]\n?",
   "choices": {
-    "A": "5",
-    "B": "7",
-    "C": "14",
-    "D": "49"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. It's given that $h(x) = x^{2} + 14$. Substituting $63$ for $h(x)$ in this equation yields $63 = x^{2} + 14$. Subtracting $14$ from both sides of this equation yields $49 = x^{2}$. Taking the square root of each side of this equation yields $x = \\pm 7$. It follows that $h(x) = 63$ when the value of $x$ is $7$ or $-7$. Only $7$ is listed among the choices.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from conceptual or calculation errors.",
+  "explanation": "Choice B is correct. It's given that $h(x) = x^{2} + 14$. Substituting $63$ for $h(x)$ in this equation yields $63 = x^{2} + 14$. Subtracting $14$ from both sides of this equation yields $49 = x^{2}$. Taking the square root of each side of this equation yields $x = \\pm 7$. It follows that $h(x) = 63$ when the value of $x$ is $7$ or $-7$. Only $7$ is listed among the choices.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is the constant term in the function definition, not the value of $x$ for which $h(x) = 63$.",
   "source": "https://cooksat.com/practice?questionId=dabb99e6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/dabb99e6/1-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/dabb99e6/2-f5350fb153b9f4c4.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/dabb99e6/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/dabb99e6/4-7e0c929977881850.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/dabb99e6/5-8fc3cfb4a4e6f37e.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/dabb99e6/6-16e568e0f0916744.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/dabb99e6/7-9888925528800215.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/dabb99e6/8-8d2718f3734ba2d7.png"
+    }
+  ]
 }

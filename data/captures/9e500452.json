@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "9e500452",
-  "capturedAt": "2026-11-09T21:14:14.657Z",
+  "capturedAt": "2026-11-09T23:59:02.538Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,56 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "For the exponential function g, the value of g(1) is m, where m is a constant. Which of the following equivalent forms of the function g shows the value of m as the coefficient or the base?",
+  "prompt": "For the exponential function\n[Figure 1]\n, the value of\n[Figure 2]\nis\n[Figure 3]\n, where\n[Figure 4]\nis a constant. Which of the following equivalent forms of the function\n[Figure 5]\nshows the value of\n[Figure 6]\nas the coefficient or the base?",
   "choices": {
-    "A": "g(x)=288⋅3x−1",
-    "B": "g(x)=96⋅3x",
-    "C": "g(x)=32⋅3x+1",
-    "D": "g(x)=864⋅3x−2"
+    "A": "[Figure 7]",
+    "B": "[Figure 8]",
+    "C": "[Figure 9]",
+    "D": "[Figure 10]"
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. For $g(x)=288 \\cdot 3^{x-1}$, substituting $x=1$ gives $g(1)=288 \\cdot 3^{0}=288 \\cdot 1=288$. Therefore $m=288$, which is displayed as the coefficient. All four choices are equivalent forms, but only choice A shows $m$ explicitly.\n\nWhy C is incorrect:\n\nChoice C is incorrect. Evaluating $g(1)=32 \\cdot 3^{2}=288$ confirms $m=288$, but the coefficient shown is $32$, not $m$.",
   "source": "https://cooksat.com/practice?questionId=9e500452&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/9e500452/1-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/9e500452/2-086e27394d1256db.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/9e500452/3-cb1160aa3a503d7d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/9e500452/4-cb1160aa3a503d7d.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/9e500452/5-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/9e500452/6-cb1160aa3a503d7d.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/9e500452/7-05dacd1d77219ab9.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/9e500452/8-f3b0b265d1b6410b.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/9e500452/9-272883a90b027eb4.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/9e500452/10-5fa7354e8a2f313a.png"
+    }
+  ]
 }

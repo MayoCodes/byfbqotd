@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "0770008e",
-  "capturedAt": "2026-11-09T21:04:31.738Z",
+  "capturedAt": "2026-11-09T23:21:46.196Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,68 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "y=0.5x2−10x+95",
+  "prompt": "[Figure 1]\n\nThe equation gives the estimated stock price\n[Figure 2]\n, in dollars, for a certain company\n[Figure 3]\ndays after the company went public, where\n[Figure 4]\n. Which statement is the best interpretation of\n[Figure 5]\nin this context?",
   "choices": {
-    "A": "The company's estimated stock price increased $77 every 2 days after the company went public.",
-    "B": "The company's estimated stock price increased $2 every 77 days after the company went public.",
-    "C": "2 days after the company went public, the company's estimated stock price is $77.",
-    "D": "77 days after the company went public, the company's estimated stock price is $2."
+    "A": "The company's estimated stock price increased $\n[Figure 6]\nevery\n[Figure 7]\ndays after the company went public.",
+    "B": "The company's estimated stock price increased $\n[Figure 8]\nevery\n[Figure 9]\ndays after the company went public.",
+    "C": "[Figure 10]\ndays after the company went public, the company's estimated stock price is $\n[Figure 11]\n.",
+    "D": "[Figure 12]\ndays after the company went public, the company's estimated stock price is $\n[Figure 13]\n."
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. In the given equation, $x$ represents the number of days after the company went public, where $0 \\leq x < 15$, and $y$ represents the estimated stock price, in dollars. Therefore, the best interpretation of $(x, y) = (2, 77)$ in this context is that $2$ days after the company went public, the company's estimated stock price is $$77$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from reversing the roles of the variables. This choice incorrectly interprets $x = 2$ as $$2$ and $y = 77$ as $77$ days, when $x$ represents days and $y$ represents the price in dollars.",
   "source": "https://cooksat.com/practice?questionId=0770008e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0770008e/1-1ebd75469bfbca9d.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/0770008e/2-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/0770008e/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/0770008e/4-05f7888df744612a.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/0770008e/5-52925e03951fe9b5.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/0770008e/6-d86626524fe2accd.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/0770008e/7-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/0770008e/8-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/0770008e/9-d86626524fe2accd.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/0770008e/10-eecad86a2b305c5e.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/0770008e/11-d86626524fe2accd.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/0770008e/12-d86626524fe2accd.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/0770008e/13-eecad86a2b305c5e.png"
+    }
+  ]
 }

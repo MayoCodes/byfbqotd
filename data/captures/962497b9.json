@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "962497b9",
-  "capturedAt": "2026-11-09T21:13:13.866Z",
+  "capturedAt": "2026-11-09T23:57:13.362Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,47 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The table shows three values of x and their corresponding values of y, where y=g(x)+3 and g is a quadratic function. What is the y-coordinate of the y-intercept of the graph of y=g(x) in the xy-plane?",
+  "prompt": "[Table 1]\n\nThe table shows three values of\n[Figure 2]\nand their corresponding values of\n[Figure 3]\n, where\n[Figure 4]\nand\n[Figure 5]\nis a quadratic function. What is the y-coordinate of the y-intercept of the graph of\n[Figure 6]\nin the xy-plane?\n\n[Figure 7]\n\n[Figure 8]",
   "choices": {},
-  "correctAnswer": "−1613",
+  "correctAnswer": "[Figure 9]",
   "explanation": "The correct answer is $-1613$. Since $g$ is a quadratic function, it can be written as $g(x) = a(x - h)^{2} + k$, where $a$, $h$, and $k$ are constants. Substituting into $y = g(x) + 3$ gives $y = a(x - h)^{2} + k + 3$. The maximum or minimum value of $y$ occurs at the x-value halfway between any two x-values with the same corresponding y-value. The table shows $x = 16$ and $x = 20$ both give $y = -10$, so the axis of symmetry is at $x = 18$. The table shows that when $x = 18$, $y = 10$, so $h = 18$ and $k + 3 = 10$, which gives $k = 7$. Thus $y = a(x - 18)^{2} + 10$. Substituting $x = 20$ and $y = -10$: $-10 = a(20 - 18)^{2} + 10$, so $-20 = 4a$, giving $a = -5$. Therefore $g(x) = -5(x - 18)^{2} + 7$. The y-intercept of $y = g(x)$ occurs at $x = 0$: $g(0) = -5(0 - 18)^{2} + 7 = -5(324) + 7 = -1620 + 7 = -1613$.",
   "source": "https://cooksat.com/practice?questionId=962497b9&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/962497b9/1-dc5c6cdc28024aa2.png"
+      "path": "data/capture-assets/962497b9/1-cb4d5a5712025700.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/962497b9/2-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/962497b9/3-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/962497b9/4-a145366f43cd351b.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/962497b9/5-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/962497b9/6-a370960d94a8b7e2.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/962497b9/7-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/962497b9/8-2137a3f81a53415b.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/962497b9/9-12574527f1dd8e39.png"
     }
   ]
 }

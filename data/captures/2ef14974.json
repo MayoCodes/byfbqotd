@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "2ef14974",
-  "capturedAt": "2026-11-09T21:06:44.839Z",
+  "capturedAt": "2026-11-09T23:45:06.981Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,48 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The table shown gives the values of the function g for some values of x. Which of the following equations could define g?",
+  "prompt": "[Table 1]\n\nThe table shown gives the values of the function\n[Figure 2]\nfor some values of\n[Figure 3]\n. Which of the following equations could define\n[Figure 4]\n?",
   "choices": {
-    "A": "g(x)=7(3x+1)",
-    "B": "g(x)=7(3x)",
-    "C": "g(x)=7(3−(x+1))",
-    "D": "g(x)=7(3−x)"
+    "A": "[Figure 5]",
+    "B": "[Figure 6]",
+    "C": "[Figure 7]",
+    "D": "[Figure 8]"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. Each choice has a function with coefficient $7$ and base $3$, so the exponents must be analyzed. When the input value of $x$ increases, the output value of $g(x)$ decreases, so the exponent must be negative. An exponent of $-x$ yields the values in the table: $7 = 7(3^{0})$, $\\frac{7}{3} = 7(3^{-1})$, $\\frac{7}{9} = 7(3^{-2})$, and $\\frac{7}{27} = 7(3^{-3})$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from choosing an equation that yields an increasing, rather than decreasing, output value of $g(x)$ when the input value of $x$ increases.",
+  "explanation": "Choice D is correct. Each choice has a function with coefficient $7$ and base $3$, so the exponents must be analyzed. When the input value of $x$ increases, the output value of $g(x)$ decreases, so the exponent must be negative. An exponent of $-x$ yields the values in the table: $7 = 7(3^{0})$, $\\frac{7}{3} = 7(3^{-1})$, $\\frac{7}{9} = 7(3^{-2})$, and $\\frac{7}{27} = 7(3^{-3})$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from choosing an equation that doesn't yield the values in the table. Substituting $x = 0$ gives $7(3^{-1}) = \\frac{7}{3}$, not $7$.",
   "source": "https://cooksat.com/practice?questionId=2ef14974&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/2ef14974/1-2f955bdff5163d65.png"
+      "path": "data/capture-assets/2ef14974/1-75b127fcbe21953e.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/2ef14974/2-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/2ef14974/3-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/2ef14974/4-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/2ef14974/5-8b7557eb3619ab38.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/2ef14974/6-9f5edc09058f0dea.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/2ef14974/7-47791870fd9caac8.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/2ef14974/8-12eec707ad4520fe.png"
     }
   ]
 }

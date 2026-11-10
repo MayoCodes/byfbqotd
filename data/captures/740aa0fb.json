@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "740aa0fb",
-  "capturedAt": "2026-11-09T21:11:33.530Z",
+  "capturedAt": "2026-11-09T23:54:06.831Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,20 +10,44 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The table above shows selected values of the function h. Which of the following is a zero of h(x) ?",
+  "prompt": "[Table 1]\n\nThe table above shows selected values of the function\n[Figure 2]\n. Which of the following is a zero of\n[Figure 3]\n?",
   "choices": {
-    "A": "−2",
-    "B": "0",
-    "C": "1",
-    "D": "3"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. A zero of a function is a value of $x$ for which $h(x) = 0$. From the table, we can check each value: $h(-2) = -4$, $h(-1) = -1$, $h(0) = 0$, $h(1) = -1$, and $h(2) = -4$. The only value for which $h(x) = 0$ is $x = 0$. Therefore, $x = 0$ is a zero of the function $h$.\n\nWhy D is incorrect:\n\nChoice D is incorrect because $x = 3$ is not shown in the table. While there may be a zero between $x = 2$ and some larger value (since $h(2) = -4 < 0$ and the function appears to be continuous), we cannot determine from the given data that $h(3) = 0$. This choice may result from incorrectly extrapolating beyond the table data.",
+  "explanation": "Choice B is correct. A zero of a function is a value of $x$ for which $h(x) = 0$. From the table, we can check each value: $h(-2) = -4$, $h(-1) = -1$, $h(0) = 0$, $h(1) = -1$, and $h(2) = -4$. The only value for which $h(x) = 0$ is $x = 0$. Therefore, $x = 0$ is a zero of the function $h$.\n\nWhy A is incorrect:\n\nChoice A is incorrect because the table shows that $h(-2) = -4$, not $0$. Therefore, $x = -2$ is not a zero of $h(x)$. This choice may result from confusing a minimum value with a zero.",
   "source": "https://cooksat.com/practice?questionId=740aa0fb&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/740aa0fb/1-4c23515efe504853.png"
+      "path": "data/capture-assets/740aa0fb/1-f61280e43c3aff6d.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/740aa0fb/2-3ab7f85bcf8aa223.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/740aa0fb/3-0eb1b7dfc7aa423d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/740aa0fb/4-c3f6ce48a3837614.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/740aa0fb/5-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/740aa0fb/6-0c32e2bcf21ebd61.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/740aa0fb/7-f4ee39ba9ef6e452.png"
     }
   ]
 }

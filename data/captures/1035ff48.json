@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "1035ff48",
-  "capturedAt": "2026-11-09T21:05:09.029Z",
+  "capturedAt": "2026-11-09T23:24:02.961Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,44 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The product of two positive integers is 306. If the first integer is 7 greater than 3 times the second integer, what is the smaller of the two integers?",
+  "prompt": "The product of two positive integers is\n[Figure 1]\n. If the first integer is\n[Figure 2]\ngreater than\n[Figure 3]\ntimes the second integer, what is the smaller of the two integers?",
   "choices": {
-    "A": "3",
-    "B": "9",
-    "C": "34",
-    "D": "68"
+    "A": "[Figure 4]",
+    "B": "[Figure 5]",
+    "C": "[Figure 6]",
+    "D": "[Figure 7]"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. Let $x$ be the first integer and let $y$ be the second integer. Since the first integer is $7$ greater than $3$ times the second integer, $x = 3y + 7$. Since the product of the two integers is $306$, $xy = 306$. Substituting $3y + 7$ for $x$ gives $(3y + 7)y = 306$, or $3y^{2} + 7y = 306$. Subtracting $306$ from both sides yields $3y^{2} + 7y - 306 = 0$. To factor, find two numbers whose product is $3(-306) = -918$ and whose sum is $7$: these are $34$ and $-27$. Rewriting gives $3y^{2} + 34y - 27y - 306 = 0$, which factors as $y(3y + 34) - 9(3y + 34) = 0$, or $(y - 9)(3y + 34) = 0$. By the zero product property, $y = 9$ or $y = -\\frac{34}{3}$. Since $y$ is a positive integer, $y = 9$. Then $x = 3(9) + 7 = 34$. The two integers are $9$ and $34$, so the smaller of the two integers is $9$.",
   "source": "https://cooksat.com/practice?questionId=1035ff48&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1035ff48/1-7d87abd848313971.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/1035ff48/2-0f673374db83edc0.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/1035ff48/3-fa19f106d3a0914a.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/1035ff48/4-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/1035ff48/5-42e42729df9aea5a.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/1035ff48/6-739dc8c81ba2d33c.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/1035ff48/7-a0896d57f2af8a3c.png"
+    }
+  ]
 }

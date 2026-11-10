@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "52084a9e",
-  "capturedAt": "2026-11-09T21:09:27.319Z",
+  "capturedAt": "2026-11-09T23:50:04.912Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,35 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The parabola shown intersects the y-axis at the point (x,y). What is the value of y?",
+  "prompt": "[Figure 1]\n\nThe parabola shown intersects the y-axis at the point\n[Figure 2]\n. What is the value of\n[Figure 3]\n?\n\n[Figure 4]\n\n[Figure 5]",
   "choices": {},
-  "correctAnswer": "5",
+  "correctAnswer": "[Figure 6]",
   "explanation": "The correct answer is $5$. It's given that the parabola intersects the y-axis at the point $\\left( x, y \\right)$. The graph shows that the parabola intersects the y-axis at the point $\\left( 0, 5 \\right)$. Therefore, the value of $y$ is $5$.",
   "source": "https://cooksat.com/practice?questionId=52084a9e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/52084a9e/1-81de1a950a76730b.png"
+      "path": "data/capture-assets/52084a9e/1-c4b8b742b78b2c1c.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/52084a9e/2-160353a4364e486a.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/52084a9e/3-74fafedc39f29bd4.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/52084a9e/4-2ca5dc40f09d879c.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/52084a9e/5-8fc3cfb4a4e6f37e.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/52084a9e/6-4ba1164649b6fcb7.png"
     }
   ]
 }

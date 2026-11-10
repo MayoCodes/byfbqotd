@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "b4bbf7e6",
-  "capturedAt": "2026-11-09T21:15:07.779Z",
+  "capturedAt": "2026-11-10T00:00:45.462Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,80 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g is defined by g(x)=ax3+bx2+cx+d, where a, b, c, and d are constants and a=2. In the xy-plane, the graph of y=g(x) passes through the points (0,5), (1,14), and (−1,2). What is the value of b?",
+  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\n,\n[Figure 4]\n,\n[Figure 5]\n, and\n[Figure 6]\nare constants and\n[Figure 7]\n. In the xy-plane, the graph of\n[Figure 8]\npasses through the points\n[Figure 9]\n,\n[Figure 10]\n, and\n[Figure 11]\n. What is the value of\n[Figure 12]\n?",
   "choices": {
-    "A": "1",
-    "B": "3",
-    "C": "5",
-    "D": "7"
+    "A": "[Figure 13]",
+    "B": "[Figure 14]",
+    "C": "[Figure 15]",
+    "D": "[Figure 16]"
   },
   "correctAnswer": "B",
   "explanation": "Substituting $(0,5)$ into $g(x)=2x^3+bx^2+cx+d$ gives $d=5$. Substituting $(1,14)$ gives $2+b+c+5=14$, so $b+c=7$. Substituting $(-1,2)$ gives $-2+b-c+5=2$, so $b-c=-1$. Adding these two equations yields $2b=6$, therefore $b=3$.",
   "source": "https://cooksat.com/practice?questionId=b4bbf7e6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b4bbf7e6/1-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/b4bbf7e6/2-f986153203438ae1.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/b4bbf7e6/3-23564e26b3edd50d.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/b4bbf7e6/4-4be9145fc6402fea.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/b4bbf7e6/5-fa4e73aef0bcf693.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/b4bbf7e6/6-90c6e0d8feb16ceb.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/b4bbf7e6/7-a9b046e7d73c1f52.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/b4bbf7e6/8-a370960d94a8b7e2.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/b4bbf7e6/9-5cb9f844bb08bce4.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/b4bbf7e6/10-e9ad025a37cbd12d.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/b4bbf7e6/11-b1921c1ce0b8de4a.png"
+    },
+    {
+      "label": "Figure 12",
+      "path": "data/capture-assets/b4bbf7e6/12-4be9145fc6402fea.png"
+    },
+    {
+      "label": "Figure 13",
+      "path": "data/capture-assets/b4bbf7e6/13-0c32e2bcf21ebd61.png"
+    },
+    {
+      "label": "Figure 14",
+      "path": "data/capture-assets/b4bbf7e6/14-f4ee39ba9ef6e452.png"
+    },
+    {
+      "label": "Figure 15",
+      "path": "data/capture-assets/b4bbf7e6/15-8fc3cfb4a4e6f37e.png"
+    },
+    {
+      "label": "Figure 16",
+      "path": "data/capture-assets/b4bbf7e6/16-16e568e0f0916744.png"
+    }
+  ]
 }

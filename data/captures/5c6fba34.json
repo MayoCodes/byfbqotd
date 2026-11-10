@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "5c6fba34",
-  "capturedAt": "2026-11-09T21:10:09.072Z",
+  "capturedAt": "2026-11-09T23:51:30.854Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,52 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function g gives the product of a number, x, and a number that is 67 more than x. Which equation defines g?",
+  "prompt": "The function\n[Figure 1]\ngives the product of a number,\n[Figure 2]\n, and a number that is\n[Figure 3]\nmore than\n[Figure 4]\n. Which equation defines\n[Figure 5]\n?",
   "choices": {
-    "A": "g(x)=x2+67",
-    "B": "g(x)=x2+x+67",
-    "C": "g(x)=x2+67x",
-    "D": "g(x)=x2+67x+67"
+    "A": "[Figure 6]",
+    "B": "[Figure 7]",
+    "C": "[Figure 8]",
+    "D": "[Figure 9]"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. A number that is $67$ more than $x$ can be represented by the expression $x + 67$. The function $g$ gives the product of $x$ and this quantity, so $g(x) = x(x + 67)$. Distributing yields $g(x) = x^{2} + 67x$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This expression results from adding $x$ and $67$ separately to $x^{2}$ instead of multiplying $x$ by the quantity $(x + 67)$.",
+  "explanation": "Choice C is correct. A number that is $67$ more than $x$ can be represented by the expression $x + 67$. The function $g$ gives the product of $x$ and this quantity, so $g(x) = x(x + 67)$. Distributing yields $g(x) = x^{2} + 67x$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This expression results from adding $67$ as a constant rather than distributing $x$ through $(x + 67)$; the correct product $x \\cdot 67$ is $67x$, not $67$.",
   "source": "https://cooksat.com/practice?questionId=5c6fba34&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5c6fba34/1-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/5c6fba34/2-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/5c6fba34/3-c17c3686e07e9a04.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/5c6fba34/4-f63344b6a91c736e.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/5c6fba34/5-61714b14e9e111ce.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/5c6fba34/6-df6033e11ff87eeb.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/5c6fba34/7-b9873a969e5d62a4.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/5c6fba34/8-01913d30991667fa.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/5c6fba34/9-17dd27fceac34f13.png"
+    }
+  ]
 }

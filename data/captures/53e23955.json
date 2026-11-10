@@ -1,7 +1,8 @@
 {
   "version": 1,
+  "extractionVersion": 4,
   "id": "53e23955",
-  "capturedAt": "2026-11-09T21:09:40.994Z",
+  "capturedAt": "2026-11-09T23:50:33.423Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -9,15 +10,60 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A biologist tracked the number of bacteria in a culture throughout an experiment. An exponential model gives the estimated number of bacteria, M, in the culture w hours after the experiment began, where w≤2. Based on the model, 60 bacteria were estimated to be in the culture when the experiment began, and every 20 minutes the estimated number of bacteria increased by 175% of the estimated number of bacteria 20 minutes earlier. Which of the following equations best represents this model?",
+  "prompt": "A biologist tracked the number of bacteria in a culture throughout an experiment. An exponential model gives the estimated number of bacteria,\n[Figure 1]\n, in the culture\n[Figure 2]\nhours after the experiment began, where\n[Figure 3]\n. Based on the model,\n[Figure 4]\nbacteria were estimated to be in the culture when the experiment began, and every\n[Figure 5]\nminutes the estimated number of bacteria increased by\n[Figure 6]\nof the estimated number of bacteria\n[Figure 7]\nminutes earlier. Which of the following equations best represents this model?",
   "choices": {
-    "A": "M=60(1.75)20w​",
-    "B": "M=60(1.75)3w",
-    "C": "M=60(2.75)20w​",
-    "D": "M=60(2.75)3w"
+    "A": "[Figure 8]",
+    "B": "[Figure 9]",
+    "C": "[Figure 10]",
+    "D": "[Figure 11]"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. Since the model describes a fixed percent increase every $20$ minutes, it can be written as $M = K \\cdot b^{n}$, where $K$ is the initial count, $b$ is the growth factor per $20$-minute period, and $n$ is the number of $20$-minute periods after the experiment began. It's given that $60$ bacteria were in the culture when the experiment began, so $K = 60$. An increase by $175\\%$ means the new amount equals $100\\% + 175\\% = 275\\%$ of the previous amount, corresponding to a multiplicative factor of $2.75$, so $b = 2.75$. Since $w$ represents hours and growth occurs every $20$ minutes, there are $\\frac{60}{20} = 3$ twenty-minute periods per hour, so $n = 3w$. Substituting $60$ for $K$, $2.75$ for $b$, and $3w$ for $n$ yields $M = 60(2.75)^{3w}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from misinterpreting 'increased by $175\\%$' as a growth factor of $1.75$ rather than $2.75$. An increase by $175\\%$ means the new amount is $275\\%$ of the previous amount, corresponding to a factor of $2.75$.",
+  "explanation": "Choice D is correct. Since the model describes a fixed percent increase every $20$ minutes, it can be written as $M = K \\cdot b^{n}$, where $K$ is the initial count, $b$ is the growth factor per $20$-minute period, and $n$ is the number of $20$-minute periods after the experiment began. It's given that $60$ bacteria were in the culture when the experiment began, so $K = 60$. An increase by $175\\%$ means the new amount equals $100\\% + 175\\% = 275\\%$ of the previous amount, corresponding to a multiplicative factor of $2.75$, so $b = 2.75$. Since $w$ represents hours and growth occurs every $20$ minutes, there are $\\frac{60}{20} = 3$ twenty-minute periods per hour, so $n = 3w$. Substituting $60$ for $K$, $2.75$ for $b$, and $3w$ for $n$ yields $M = 60(2.75)^{3w}$.",
   "source": "https://cooksat.com/practice?questionId=53e23955&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": []
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/53e23955/1-81c8d05ff15e601f.png"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/53e23955/2-5be1746c6339c76d.png"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/53e23955/3-72ed102736aa8384.png"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/53e23955/4-2c217baedc5d4131.png"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/53e23955/5-0473d8c097cd469b.png"
+    },
+    {
+      "label": "Figure 6",
+      "path": "data/capture-assets/53e23955/6-575fc05a8d8da402.png"
+    },
+    {
+      "label": "Figure 7",
+      "path": "data/capture-assets/53e23955/7-0473d8c097cd469b.png"
+    },
+    {
+      "label": "Figure 8",
+      "path": "data/capture-assets/53e23955/8-f41fc7f76476910a.png"
+    },
+    {
+      "label": "Figure 9",
+      "path": "data/capture-assets/53e23955/9-a65bc86f874a0830.png"
+    },
+    {
+      "label": "Figure 10",
+      "path": "data/capture-assets/53e23955/10-95966576cc8fe080.png"
+    },
+    {
+      "label": "Figure 11",
+      "path": "data/capture-assets/53e23955/11-a1ab84c9e865892c.png"
+    }
+  ]
 }
