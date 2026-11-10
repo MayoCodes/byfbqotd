@@ -27,7 +27,7 @@ The page checks the deployed JSON every five minutes while open. Updating the CS
 
 ## Firebase timed challenge
 
-Keep the public firebaseConfig block in index.html set to your project. Enable Google sign-in, authorize your Pages hostname, and publish the included firestore.rules in Firebase Console. No Cloud Functions or Blaze plan is needed. Existing internal collection names and attempt keys are preserved so the Friprep rename does not reset attempts or erase results.
+Keep the public firebaseConfig object in assets/firebase-config.js set to your project. Enable Google sign-in, authorize your Pages hostname, and publish the included firestore.rules in Firebase Console. No Cloud Functions or Blaze plan is needed. Existing internal collection names and attempt keys are preserved so the Friprep rename does not reset attempts or erase results.
 
 Rules enforce the fixed 70-second deadline and leaderboard timestamps. Browser tab/screenshot enforcement remains best effort; websites cannot reliably prevent screenshots or prove a participant stayed on the page. A different Google account can obtain another attempt.
 
@@ -89,3 +89,7 @@ New captures store equations as TeX text, rendered with local KaTeX. MathQuill s
 Reload the existing unpacked extension (do not remove it), then auto-capture the math set again. Extraction revision 6 refreshes earlier math captures instead of skipping them as already published. The same question IDs replace previous records, so this does not create duplicates. Publish all when the capture finishes and create one manual deployment from main. The stored GitHub token and existing queue are retained.
 
 Legacy captures that contain only equation PNGs keep their existing display until replaced by a text capture. Image pixels cannot restore the original TeX reliably. English captures remain deduplicated and do not need recapturing.
+
+## Accounts and classroom dashboard
+
+Google sign-in, one-use activation, teacher classrooms, assignments, cloud practice, and grades are implemented. Follow [the account setup guide](docs/ACCOUNTS-SETUP.md) before distributing student access. The new Firestore rules must be published in your Firebase project; Vercel deployment alone does not publish them.

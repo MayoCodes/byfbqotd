@@ -22,14 +22,24 @@ fs.cpSync(path.join(path.dirname(require.resolve('katex/dist/katex.min.css')),'f
 const bundle=await require('esbuild').build({entryPoints:[path.join(__dirname,'assets/question-bank.js')],bundle:true,minify:true,format:'esm',entryNames:'question-bank-[hash]',outdir:path.join(output,'assets'),metafile:true});
 const entry=Object.entries(bundle.metafile.outputs).find(([,info])=>info.entryPoint)[0];
 let html=fs.readFileSync(path.join(__dirname,'question-bank.html'),'utf8').replace('/assets/question-bank.js','/assets/'+path.basename(entry));
-for(const name of ['heroui.css','question-bank.css','katex/katex.min.css']){
+const accountBundle=await require('esbuild').build({entryPoints:[path.join(__dirname,'src/account-app.jsx')],bundle:true,minify:true,format:'esm',entryNames:'account-app-[hash]',outdir:path.join(output,'assets'),metafile:true});
+const accountEntry=path.basename(Object.entries(accountBundle.metafile.outputs).find(([,info])=>info.entryPoint)[0]);
+const pages={
+ 'question-bank.html':html,
+ 'dashboard.html':fs.readFileSync(path.join(__dirname,'dashboard.html'),'utf8'),
+ 'index.html':fs.readFileSync(path.join(__dirname,'index.html'),'utf8')
+};
+for(const [filename,source] of Object.entries(pages)){
+ let page=source.replace('/assets/account-app.js','/assets/'+accountEntry);
+ for(const name of ['heroui.css','question-bank.css','account.css','katex/katex.min.css']){
   const bytes=fs.readFileSync(path.join(output,'assets',name));
   const hash=require('node:crypto').createHash('sha256').update(bytes).digest('hex').slice(0,12);
   const versioned=name.replace('.css','-'+hash+'.css');
   fs.writeFileSync(path.join(output,'assets',versioned),bytes);
-  html=html.replace('/assets/'+name,'/assets/'+versioned);
+  page=page.replace('/assets/'+name,'/assets/'+versioned);
+ }
+ fs.writeFileSync(path.join(output,filename),page);
 }
-fs.writeFileSync(path.join(output,'question-bank.html'),html);
 
 for(const capture of captures){
   if(capture.published===false)continue;

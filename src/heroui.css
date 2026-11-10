@@ -1,3 +1,5 @@
 @import "tailwindcss" source(none);
 @import "@heroui/styles";
 @source "./filter-controls.jsx";
+
+@source "./account-app.jsx";

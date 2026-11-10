@@ -57,6 +57,144 @@ service cloud.firestore {
         && request.resource.data.elapsed <= 70000;
       allow update, delete: if false;
     }
+    // Friprep accounts: roles and activation are enforced here, never by UI alone.
+    function accountUser() { return google() && request.auth.token.email_verified == true; }
+    function teacher() { return accountUser() && request.auth.token.email.lower() == 'ray.r.hossain@gmail.com'; }
+    function activated() {
+      return accountUser() && (teacher() || get(/databases/$(database)/documents/friprepUsers/$(request.auth.uid)).data.activated == true);
+    }
+    function member(classId) {
+      return activated() && exists(/databases/$(database)/documents/friprepClassrooms/$(classId)/members/$(request.auth.uid));
+    }
+    match /friprepUsers/{uid} {
+      allow get: if accountUser() && (request.auth.uid == uid || teacher());
+      allow list: if teacher();
+      allow create: if accountUser() && request.auth.uid == uid
+        && request.resource.data.keys().hasOnly(['name','email','mode','classroomId','createdAt'])
+        && request.resource.data.name is string && request.resource.data.name.size() <= 200
+        && request.resource.data.email == request.auth.token.email
+        && request.resource.data.mode == null && request.resource.data.classroomId == null
+        && request.resource.data.createdAt == request.time;
+      allow update: if accountUser() && request.auth.uid == uid
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['activated','mode','classroomId'])
+        && (!request.resource.data.diff(resource.data).affectedKeys().hasAny(['activated'])
+          || (request.resource.data.activated == true && existsAfter(/databases/$(database)/documents/friprepActivationClaims/$(uid))))
+        && (teacher() || request.resource.data.activated == true)
+        && request.resource.data.mode in [null,'self-study','classroom']
+        && (request.resource.data.classroomId == null
+          || (request.resource.data.classroomId is string
+            && existsAfter(/databases/$(database)/documents/friprepClassrooms/$(request.resource.data.classroomId)/members/$(uid))))
+        && (request.resource.data.mode != 'classroom' || request.resource.data.classroomId != null);
+      allow delete: if false;
+      match /progress/{questionId} {
+        allow read: if activated() && (request.auth.uid == uid || teacher());
+        allow create, update: if activated() && request.auth.uid == uid
+          && questionId.matches('^[A-Za-z0-9_-]{1,100}$')
+          && request.resource.data.keys().hasOnly(['selected','checked','correct','bookmarked','subject','domain','skill','updatedAt'])
+          && request.resource.data.selected is string && request.resource.data.selected.size() <= 200
+          && request.resource.data.checked is bool && request.resource.data.correct is bool && request.resource.data.bookmarked is bool
+          && request.resource.data.subject is string && request.resource.data.subject.size() <= 120
+          && request.resource.data.domain is string && request.resource.data.domain.size() <= 200
+          && request.resource.data.skill is string && request.resource.data.skill.size() <= 200
+          && request.resource.data.updatedAt == request.time;
+        allow delete: if false;
+      }
+    }
+    match /friprepActivationCodes/{hash} {
+      allow get: if accountUser();
+      allow list: if teacher();
+      allow create: if teacher() && hash.matches('^[a-f0-9]{64}$')
+        && request.resource.data.keys().hasOnly(['label','createdBy','createdAt','expiresAt','usedBy','enabled'])
+        && request.resource.data.createdBy == request.auth.uid && request.resource.data.createdAt == request.time
+        && request.resource.data.expiresAt is timestamp && request.resource.data.expiresAt > request.time
+        && request.resource.data.label is string && request.resource.data.label.size() <= 100
+        && request.resource.data.usedBy == null && request.resource.data.enabled == true;
+      allow update: if teacher()
+        ? request.resource.data.diff(resource.data).affectedKeys().hasOnly(['enabled']) && request.resource.data.enabled is bool
+        : accountUser() && resource.data.enabled == true && resource.data.usedBy == null && resource.data.expiresAt > request.time
+          && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['usedBy'])
+          && request.resource.data.usedBy == request.auth.uid
+          && getAfter(/databases/$(database)/documents/friprepActivationClaims/$(request.auth.uid)).data.codeHash == hash;
+      allow delete: if teacher();
+    }
+    match /friprepActivationClaims/{uid} {
+      allow get: if accountUser() && (request.auth.uid == uid || teacher());
+      allow list: if teacher();
+      allow create: if accountUser() && request.auth.uid == uid
+        && request.resource.data.keys().hasOnly(['codeHash','activatedAt'])
+        && request.resource.data.activatedAt == request.time
+        && request.resource.data.codeHash is string && request.resource.data.codeHash.matches('^[a-f0-9]{64}$')
+        && get(/databases/$(database)/documents/friprepActivationCodes/$(request.resource.data.codeHash)).data.enabled == true
+        && get(/databases/$(database)/documents/friprepActivationCodes/$(request.resource.data.codeHash)).data.usedBy == null
+        && get(/databases/$(database)/documents/friprepActivationCodes/$(request.resource.data.codeHash)).data.expiresAt > request.time
+        && getAfter(/databases/$(database)/documents/friprepActivationCodes/$(request.resource.data.codeHash)).data.usedBy == uid;
+      allow update, delete: if false;
+    }
+    match /friprepClassInvites/{hash} {
+      allow get: if activated();
+      allow list: if teacher();
+      allow create, update: if teacher() && hash.matches('^[a-f0-9]{64}$')
+        && request.resource.data.keys().hasOnly(['classroomId','enabled','createdAt'])
+        && request.resource.data.classroomId is string && request.resource.data.enabled is bool
+        && existsAfter(/databases/$(database)/documents/friprepClassrooms/$(request.resource.data.classroomId));
+      allow delete: if teacher();
+    }
+    match /friprepClassrooms/{classId} {
+      allow get: if teacher() || member(classId);
+      allow list: if teacher();
+      allow create: if teacher() && request.resource.data.keys().hasOnly(['title','teacherId','createdAt'])
+        && request.resource.data.title is string && request.resource.data.title.size() > 0 && request.resource.data.title.size() <= 100
+        && request.resource.data.teacherId == request.auth.uid && request.resource.data.createdAt == request.time;
+      allow update: if teacher() && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['title'])
+        && request.resource.data.title is string && request.resource.data.title.size() > 0 && request.resource.data.title.size() <= 100;
+      allow delete: if false;
+      match /members/{uid} {
+        allow get: if teacher() || (activated() && request.auth.uid == uid);
+        allow list: if teacher();
+        allow create: if activated() && request.auth.uid == uid
+          && request.resource.data.keys().hasOnly(['name','email','joinedAt','inviteHash'])
+          && request.resource.data.name is string && request.resource.data.name.size() <= 200
+          && request.resource.data.email == request.auth.token.email && request.resource.data.joinedAt == request.time
+          && request.resource.data.inviteHash is string
+          && get(/databases/$(database)/documents/friprepClassInvites/$(request.resource.data.inviteHash)).data.enabled == true
+          && get(/databases/$(database)/documents/friprepClassInvites/$(request.resource.data.inviteHash)).data.classroomId == classId;
+        allow update, delete: if false;
+      }
+      match /assignments/{assignmentId} {
+        allow read: if teacher() || member(classId);
+        allow create, update: if teacher()
+          && request.resource.data.keys().hasOnly(['title','category','dueDate','questionIds','createdAt'])
+          && request.resource.data.title is string && request.resource.data.title.size() > 0 && request.resource.data.title.size() <= 120
+          && request.resource.data.category is string && request.resource.data.category.size() <= 120
+          && request.resource.data.dueDate is string && request.resource.data.dueDate.size() <= 10
+          && request.resource.data.questionIds is list && request.resource.data.questionIds.size() > 0 && request.resource.data.questionIds.size() <= 100;
+        allow delete: if teacher();
+      }
+      match /grades/{gradeId} {
+        allow read: if teacher() || (member(classId) && resource.data.studentId == request.auth.uid);
+        allow create, update: if teacher()
+          && request.resource.data.keys().hasOnly(['studentId','assignmentId','score','total','category','feedback','gradedAt'])
+          && request.resource.data.studentId is string && exists(/databases/$(database)/documents/friprepClassrooms/$(classId)/members/$(request.resource.data.studentId))
+          && request.resource.data.assignmentId is string && exists(/databases/$(database)/documents/friprepClassrooms/$(classId)/assignments/$(request.resource.data.assignmentId))
+          && request.resource.data.category == get(/databases/$(database)/documents/friprepClassrooms/$(classId)/assignments/$(request.resource.data.assignmentId)).data.category
+          && request.resource.data.score is number && request.resource.data.total is number
+          && request.resource.data.total > 0 && request.resource.data.score >= 0 && request.resource.data.score <= request.resource.data.total
+          && request.resource.data.feedback is string && request.resource.data.feedback.size() <= 2000
+          && request.resource.data.gradedAt == request.time;
+        allow delete: if teacher();
+      }
+      match /submissions/{submissionId} {
+        allow read: if teacher() || (member(classId) && resource.data.studentId == request.auth.uid);
+        allow create: if member(classId)
+          && request.resource.data.keys().hasOnly(['studentId','assignmentId','submittedAt'])
+          && request.resource.data.studentId == request.auth.uid
+          && request.resource.data.assignmentId is string
+          && submissionId == request.resource.data.assignmentId + '_' + request.auth.uid
+          && exists(/databases/$(database)/documents/friprepClassrooms/$(classId)/assignments/$(request.resource.data.assignmentId))
+          && request.resource.data.submittedAt == request.time;
+        allow update, delete: if false;
+      }
+    }
     match /{document=**} { allow read, write: if false; }
   }
 }

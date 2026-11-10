@@ -8,15 +8,16 @@ const sparkle='<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="current
 const arrow='<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6"/></svg>';
 let questions=[],activeId=null,page=0,busy=false,lastFetched=null;
 const states=new Map(),PAGE_SIZE=24;
-let filters={...DEFAULT_FILTERS},progress={};
+let filters={...DEFAULT_FILTERS},progress={},accountUid=null,assignmentIds=null;
+const progressKey=()=>accountUid?'friprep-bank-progress:'+accountUid:'friprep-bank-progress';
 try{progress=JSON.parse(localStorage.getItem('friprep-bank-progress')||'{}');if(!progress||typeof progress!=='object'||Array.isArray(progress))progress={};}catch{}
-function saveProgress(){try{localStorage.setItem('friprep-bank-progress',JSON.stringify(progress));}catch{}}
+function saveProgress(){try{localStorage.setItem(progressKey(),JSON.stringify(progress));}catch{}}
 function refreshControls(){updateFilterControls({questions,filters,progress,matched:filtered().length});}
 
 const fingerprint=q=>JSON.stringify([q.prompt,q.passage,q.options,q.correctAnswer,q.explanation,(q.images||[]).map(image=>[image.label,image.url])]);
 function content(value,q){return formatQuestionContent(value,q);}
 
-function filtered(){return filterQuestions(questions,filters,progress,$('#search').value);}
+function filtered(){return filterQuestions(assignmentIds?questions.filter(q=>assignmentIds.has(q.id)):questions,filters,progress,$('#search').value);}
 function tags(q){const m=metadata(q);return [m.domain,m.skill,m.difficulty].filter(Boolean).map(t=>`<span class="tag">${escape(t)}</span>`).join('');}
 function renderChips(){
  const labels={subject:'Section',domain:'Domain',skill:'Skill',difficulty:'Difficulty',status:'Status',format:'Format',sort:'Order'};
@@ -50,9 +51,9 @@ function renderDetail(){
     button.onclick=()=>{state.selected=button.dataset.choice;buttons.forEach(b=>{b.classList.toggle('selected',b===button);b.setAttribute('aria-checked',String(b===button));});$('#check').disabled=!q.correctAnswer;};
     button.onkeydown=event=>{if(['ArrowDown','ArrowUp','ArrowLeft','ArrowRight'].includes(event.key)&&!state.checked){event.preventDefault();const next=(i+(['ArrowDown','ArrowRight'].includes(event.key)?1:-1)+4)%4;buttons[next].focus();buttons[next].click();}};
   });}
-  if($('#check'))$('#check').onclick=()=>{if(state.selected&&q.correctAnswer){state.checked=true;progress[q.id]={...progress[q.id],selected:state.selected,checked:true,correct:typed?responseMatches(state.selected,q.correctAnswer):state.selected===q.correctAnswer};saveProgress();renderList(true);}};
+  if($('#check'))$('#check').onclick=()=>{if(state.selected&&q.correctAnswer){state.checked=true;progress[q.id]={...progress[q.id],selected:state.selected,checked:true,correct:typed?responseMatches(state.selected,q.correctAnswer):state.selected===q.correctAnswer};saveProgress();window.dispatchEvent(new CustomEvent('friprep-practice-save',{detail:{question:q,progress:progress[q.id]}}));renderList(true);}};
   if($('#retry-question'))$('#retry-question').onclick=()=>{state.checked=false;state.selected=null;renderDetail();};
-  $('#bookmark').onclick=()=>{progress[q.id]={...progress[q.id],bookmarked:!progress[q.id]?.bookmarked};saveProgress();renderList(true);};
+  $('#bookmark').onclick=()=>{progress[q.id]={...progress[q.id],bookmarked:!progress[q.id]?.bookmarked};saveProgress();window.dispatchEvent(new CustomEvent('friprep-practice-save',{detail:{question:q,progress:progress[q.id]}}));renderList(true);};
   const rows=filtered(),index=rows.findIndex(row=>row.id===q.id);
   $('#back-question').disabled=index<=0;$('#next-question').disabled=index>=rows.length-1;
   for(const [id,offset] of [['#back-question',-1],['#next-question',1]])$(id).onclick=()=>{const target=rows[index+offset];if(target){activeId=target.id;page=Math.floor((index+offset)/PAGE_SIZE);renderList();$('#detail').scrollIntoView({block:'start',behavior:'instant'});}};
@@ -88,3 +89,22 @@ $('#previous').onclick=()=>{page--;renderList();};$('#next').onclick=()=>{page++
 setInterval(()=>{if(!document.hidden)void load();},300000);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&(!lastFetched||Date.now()-Date.parse(lastFetched)>300000))void load();});
 void load();
+
+window.addEventListener('friprep-account-progress',event=>{
+ const {uid,progress:cloud}=event.detail;
+ if(accountUid!==uid){accountUid=uid;states.clear();try{progress=JSON.parse(localStorage.getItem(progressKey())||'{}');if(!progress||typeof progress!=='object'||Array.isArray(progress))progress={};}catch{progress={};}}
+ if(uid){for(const [id,row] of Object.entries(cloud||{})){progress[id]=row;if(row.checked)states.delete(id);}saveProgress();}
+ if(questions.length)renderList(true);
+});
+const assignmentParams=new URLSearchParams(location.search);
+function requestAssignment(){if(assignmentParams.has('assignment')&&assignmentParams.has('classroom'))window.dispatchEvent(new CustomEvent('friprep-assignment-request',{detail:{assignmentId:assignmentParams.get('assignment'),classroomId:assignmentParams.get('classroom')}}));}
+window.addEventListener('friprep-account-store-ready',requestAssignment);
+window.addEventListener('friprep-assignment-loaded',event=>{
+ const banner=document.getElementById('assignment-context');if(!banner)return;banner.hidden=false;
+ banner.replaceChildren();
+ const text=document.createElement('span');text.textContent=event.detail.error||('Assignment: '+event.detail.title+' · '+event.detail.questionIds.length+' questions. ');banner.append(text);
+ const link=document.createElement('a');link.href='/dashboard';link.textContent='Return to your classroom';banner.append(link);
+ assignmentIds=new Set(event.detail.error?[]:event.detail.questionIds);page=0;if(questions.length)renderList(true);
+});
+if(assignmentParams.has('assignment'))assignmentIds=new Set();
+requestAssignment();

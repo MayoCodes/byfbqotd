@@ -1,0 +1,15 @@
+export const TEACHER_EMAIL='ray.r.hossain@gmail.com';
+// Confirmed dates: https://satsuite.collegeboard.org/sat/dates-deadlines
+export const SAT_DATES=['2026-12-05','2027-03-06','2027-05-01','2027-06-05'];
+export function nextSAT(now=new Date(),dates=SAT_DATES){
+ const today=Date.UTC(now.getFullYear(),now.getMonth(),now.getDate());
+ const date=dates.find(value=>Date.parse(value+'T00:00:00Z')>=today);
+ return date?{date,days:Math.round((Date.parse(date+'T00:00:00Z')-today)/86400000)}:null;
+}
+export const isTeacher=user=>!!user?.emailVerified&&user.email?.toLowerCase()===TEACHER_EMAIL&&user.providerData?.some(p=>p.providerId==='google.com');
+export function normalizedCode(value){return String(value||'').toUpperCase().replace(/[\s-]/g,'');}
+export async function codeHash(value){const code=normalizedCode(value);if(!/^[A-Z0-9]{16,64}$/.test(code))throw Error('Enter the full code your teacher shared with you.');return [...new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(code)))].map(n=>n.toString(16).padStart(2,'0')).join('');}
+export function newCode(){const bytes=crypto.getRandomValues(new Uint8Array(16));return [...bytes].map(n=>n.toString(16).padStart(2,'0')).join('').toUpperCase().match(/.{1,4}/g).join('-');}
+export function gradeSummary(grades){const valid=grades.filter(g=>Number.isFinite(g.score)&&Number.isFinite(g.total)&&g.total>0&&g.score>=0&&g.score<=g.total);const categories={};let score=0,total=0;for(const grade of valid){score+=grade.score;total+=grade.total;const key=grade.category||'General';categories[key]??={score:0,total:0};categories[key].score+=grade.score;categories[key].total+=grade.total;}return {average:total?Math.round(100*score/total):null,count:valid.length,categories:Object.entries(categories).map(([name,value])=>({name,average:Math.round(100*value.score/value.total),...value}))};}
+export function practiceSummary(progress){const rows=Object.values(progress).filter(p=>p.checked),categories={};for(const row of rows){const key=row.domain||row.subject||'General';categories[key]??={total:0,correct:0};categories[key].total++;if(row.correct)categories[key].correct++;}return {attempted:rows.length,accuracy:rows.length?Math.round(rows.filter(p=>p.correct).length/rows.length*100):null,categories:Object.entries(categories).map(([name,value])=>({name,average:Math.round(100*value.correct/value.total)}))};}
+export function friendlyAccountError(error){const code=String(error?.code||'');if(code.includes('permission-denied'))return 'Account access could not be verified. Your teacher may need to publish the updated Firebase rules.';if(code.includes('unauthorized-domain'))return 'This website address needs to be added to Firebase Authentication’s authorized domains.';if(code.includes('popup-closed'))return 'Sign-in was closed. You can try again.';if(code.includes('popup-blocked'))return 'Allow the Google sign-in popup, then try again.';if(code.includes('network')||code.includes('unavailable'))return 'Could not connect. Check your connection and try again.';return error?.message||'Something went wrong. Please try again.';}
