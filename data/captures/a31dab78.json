@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "a31dab78",
-  "capturedAt": "2026-11-09T23:59:21.285Z",
+  "capturedAt": "2026-11-10T02:56:16.390Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "What is the value of\n[Figure 1]\nfor the function\n[Figure 2]\ndefined by\n[Figure 3]\n?",
+  "prompt": "What is the value of $f(2)$ for the function $f$ defined by $f(x)=x^{2}+0.5x-1$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$5$"
   },
   "correctAnswer": "C",
-  "explanation": "Substituting $x=2$ into $f(x)=x^2+0.5x-1$ gives $f(2)=(2)^2+0.5(2)-1=4+1-1=4$.\n\nWhy D is incorrect:\n\nResults from a sign error, forgetting to subtract $1$ at the end: $f(2)=(2)^2+0.5(2)=4+1=5$.",
+  "explanation": "Substituting $x=2$ into $f(x)=x^2+0.5x-1$ gives $f(2)=(2)^2+0.5(2)-1=4+1-1=4$.\n\nWhy A is incorrect:\n\nResults from an arithmetic error in calculating $0.5(2)$ or in the final addition and subtraction.",
   "source": "https://cooksat.com/practice?questionId=a31dab78&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/a31dab78/1-eb345f267470f60c.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/a31dab78/2-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/a31dab78/3-8cc2750eecc1bf74.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/a31dab78/4-eecad86a2b305c5e.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/a31dab78/5-f4ee39ba9ef6e452.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/a31dab78/6-fcf7d75cfc7ff09c.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/a31dab78/7-8fc3cfb4a4e6f37e.png"
-    }
-  ]
+  "images": []
 }

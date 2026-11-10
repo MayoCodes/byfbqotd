@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "b8e00b8c",
-  "capturedAt": "2026-11-10T00:01:38.566Z",
+  "capturedAt": "2026-11-10T02:56:54.743Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -12,34 +12,19 @@
   "passage": "",
   "prompt": "[Figure 1]\n\nThe quadratic function graphed above models a measure of fish population density as a function of the water temperature, in degrees Celsius, of a lake. According to the model, which of the following is closest to the water temperature, in degrees Celsius, at which fish population density is greatest?",
   "choices": {
-    "A": "[Figure 2]",
-    "B": "[Figure 3]",
-    "C": "[Figure 4]",
-    "D": "[Figure 5]"
+    "A": "$5$",
+    "B": "$18$",
+    "C": "$45$",
+    "D": "$850$"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. Each point $(x, y)$ on the graph represents a water temperature $x$, in degrees Celsius, and the corresponding measure of fish population density $y$ in the lake. Therefore, the point on the graph with the greatest $y$-coordinate represents the water temperature at which fish population density is greatest. The greatest $y$-coordinate of any point on the graph is approximately $850$, and the $x$-coordinate of that point is approximately $18$. Therefore, the closest water temperature at which fish population density is greatest is $18$ degrees Celsius.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This value is closest to the greatest $y$-coordinate of any point on the graph and therefore represents the greatest measure of fish population density, not the water temperature at which it occurs.",
+  "explanation": "Choice B is correct. Each point $(x, y)$ on the graph represents a water temperature $x$, in degrees Celsius, and the corresponding measure of fish population density $y$ in the lake. Therefore, the point on the graph with the greatest $y$-coordinate represents the water temperature at which fish population density is greatest. The greatest $y$-coordinate of any point on the graph is approximately $850$, and the $x$-coordinate of that point is approximately $18$. Therefore, the closest water temperature at which fish population density is greatest is $18$ degrees Celsius.\n\nWhy A is incorrect:\n\nChoice A is incorrect. At a water temperature of $5$ degrees Celsius, the measure of fish population density is approximately $681$. Because there are points on the graph with greater $y$-coordinates, $5$ degrees Celsius isn't the water temperature at which the greatest fish population density occurs.",
   "source": "https://cooksat.com/practice?questionId=b8e00b8c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/b8e00b8c/1-1972fc0a54534f5c.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/b8e00b8c/2-8fc3cfb4a4e6f37e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/b8e00b8c/3-d126f8f5b8501d4f.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/b8e00b8c/4-3dee0fc004fd4a67.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/b8e00b8c/5-dbf72137b2a568c0.png"
+      "path": "data/capture-assets/b8e00b8c/1-350aa9c2fad70edc.png",
+      "kind": "diagram"
     }
   ]
 }

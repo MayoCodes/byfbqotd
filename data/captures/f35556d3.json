@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "f35556d3",
-  "capturedAt": "2026-11-10T00:08:10.369Z",
+  "capturedAt": "2026-11-10T02:58:38.817Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,68 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe quadratic function\n[Figure 2]\nis defined as shown. In the\n[Figure 3]\n-plane, the graph of\n[Figure 4]\nintersects the\n[Figure 5]\n-axis at the points\n[Figure 6]\nand\n[Figure 7]\n, where\n[Figure 8]\nis a constant. What is the value of\n[Figure 9]\n?",
+  "prompt": "$$g(x) = 3(x - 6)^{2} - 108$$\n\nThe quadratic function $g$ is defined as shown. In the $xy$-plane, the graph of $y = g(x)$ intersects the $x$-axis at the points $(0, 0)$ and $(w, 0)$, where $w$ is a constant. What is the value of $w$?",
   "choices": {
-    "A": "[Figure 10]",
-    "B": "[Figure 11]",
-    "C": "[Figure 12]",
-    "D": "[Figure 13]"
+    "A": "$3$",
+    "B": "$6$",
+    "C": "$9$",
+    "D": "$12$"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. It's given that the graph of $y = g(x)$ intersects the $x$-axis at $(0, 0)$ and $(w, 0)$, where $w$ is a constant. Since this graph intersects the $x$-axis when $y = 0$, or when $g(x) = 0$, it follows that $g(0) = 0$ and $g(w) = 0$. If $g(w) = 0$, then $0 = 3(w - 6)^{2} - 108$. Adding $108$ to both sides of this equation yields $108 = 3(w - 6)^{2}$. Dividing both sides of this equation by $3$ yields $36 = (w - 6)^{2}$. Taking the square root of both sides of this equation yields $6 = w - 6$. Adding $6$ to both sides of this equation yields $12 = w$. Therefore, the value of $w$ is $12$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from calculation errors.",
+  "explanation": "Choice D is correct. It's given that the graph of $y = g(x)$ intersects the $x$-axis at $(0, 0)$ and $(w, 0)$, where $w$ is a constant. Since this graph intersects the $x$-axis when $y = 0$, or when $g(x) = 0$, it follows that $g(0) = 0$ and $g(w) = 0$. If $g(w) = 0$, then $0 = 3(w - 6)^{2} - 108$. Adding $108$ to both sides of this equation yields $108 = 3(w - 6)^{2}$. Dividing both sides of this equation by $3$ yields $36 = (w - 6)^{2}$. Taking the square root of both sides of this equation yields $6 = w - 6$. Adding $6$ to both sides of this equation yields $12 = w$. Therefore, the value of $w$ is $12$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This is the $x$-coordinate of the vertex of the parabola, not the $x$-coordinate of the other $x$-intercept.",
   "source": "https://cooksat.com/practice?questionId=f35556d3&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/f35556d3/1-fdf00e263041d080.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/f35556d3/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/f35556d3/3-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/f35556d3/4-a370960d94a8b7e2.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/f35556d3/5-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/f35556d3/6-ea368ef6a9af4645.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/f35556d3/7-e8423bbad7746265.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/f35556d3/8-5be1746c6339c76d.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/f35556d3/9-5be1746c6339c76d.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/f35556d3/10-f4ee39ba9ef6e452.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/f35556d3/11-29603e33b822ff16.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/f35556d3/12-42e42729df9aea5a.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/f35556d3/13-ebb9a53a87ff177d.png"
-    }
-  ]
+  "images": []
 }

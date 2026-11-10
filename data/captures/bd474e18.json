@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "bd474e18",
-  "capturedAt": "2026-11-10T00:01:58.655Z",
+  "capturedAt": "2026-11-10T02:57:01.436Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,68 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A sample of a certain isotope takes\n[Figure 1]\nyears to decay to half its original mass. The function\n[Figure 2]\ngives the approximate mass of this isotope, in grams, that remains\n[Figure 3]\nyears after a\n[Figure 4]\n-gram sample starts to decay. Which statement is the best interpretation of\n[Figure 5]\nin this context?",
+  "prompt": "A sample of a certain isotope takes $18$ years to decay to half its original mass. The function $m(t) = 320(0.5)^\\frac{t}{(18)}$ gives the approximate mass of this isotope, in grams, that remains $t$ years after a $320$-gram sample starts to decay. Which statement is the best interpretation of $m(72) = 20$ in this context?",
   "choices": {
-    "A": "Approximately\n[Figure 6]\ngrams of the sample remains\n[Figure 7]\nyears after the sample starts to decay.",
-    "B": "The mass of the sample has decreased by approximately\n[Figure 8]\ngrams\n[Figure 9]\nyears after the sample starts to decay.",
-    "C": "The mass of the sample has decreased by approximately\n[Figure 10]\ngrams\n[Figure 11]\nyears after the sample starts to decay.",
-    "D": "Approximately\n[Figure 12]\ngrams of the sample remains\n[Figure 13]\nyears after the sample starts to decay."
+    "A": "Approximately $20$ grams of the sample remains $72$ years after the sample starts to decay.",
+    "B": "The mass of the sample has decreased by approximately $20$ grams $72$ years after the sample starts to decay.",
+    "C": "The mass of the sample has decreased by approximately $72$ grams $20$ years after the sample starts to decay.",
+    "D": "Approximately $72$ grams of the sample remains $20$ years after the sample starts to decay."
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. In the given function, $m(t)$ represents the approximate mass, in grams, of the sample that remains $t$ years after the sample starts to decay. It follows that the best interpretation of $m(72) = 20$ is that approximately $20$ grams of the sample remains $72$ years after the sample starts to decay.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This would be the best interpretation of $m(20) = 72$, not $m(72) = 20$.",
+  "explanation": "Choice A is correct. In the given function, $m(t)$ represents the approximate mass, in grams, of the sample that remains $t$ years after the sample starts to decay. It follows that the best interpretation of $m(72) = 20$ is that approximately $20$ grams of the sample remains $72$ years after the sample starts to decay.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The mass of the sample has decreased by approximately $320 - 20$, or $300$, grams, not $20$ grams, $72$ years after the sample starts to decay.",
   "source": "https://cooksat.com/practice?questionId=bd474e18&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/bd474e18/1-d9903bbb7f08759f.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/bd474e18/2-9a46a49c8a35c43b.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/bd474e18/3-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/bd474e18/4-d3a301e89b90ba2e.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/bd474e18/5-e15e4104c8e33f81.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/bd474e18/6-12028fd4d7919682.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/bd474e18/7-a6b35b5fc241c20c.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/bd474e18/8-12028fd4d7919682.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/bd474e18/9-a6b35b5fc241c20c.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/bd474e18/10-a6b35b5fc241c20c.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/bd474e18/11-12028fd4d7919682.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/bd474e18/12-a6b35b5fc241c20c.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/bd474e18/13-12028fd4d7919682.png"
-    }
-  ]
+  "images": []
 }

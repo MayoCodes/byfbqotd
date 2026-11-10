@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "c84d9175",
-  "capturedAt": "2026-11-10T00:03:25.691Z",
+  "capturedAt": "2026-11-10T02:57:27.134Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The height of a rectangle is\n[Figure 1]\ninches greater than its width. Which equation gives the area\n[Figure 2]\n, in square inches, of the rectangle in terms of the width\n[Figure 3]\n, in inches, of the rectangle?",
+  "prompt": "The height of a rectangle is $48$ inches greater than its width. Which equation gives the area $A$, in square inches, of the rectangle in terms of the width $w$, in inches, of the rectangle?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$A = (w)(\\frac{w}{(48)})$",
+    "B": "$A = (w)(w - 48)$",
+    "C": "$A = (w)(w + 48)$",
+    "D": "$A = (w)(48w)$"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. It's given that the height of the rectangle is $48$ inches greater than its width $w$, so the height is $w + 48$ inches. The area of a rectangle is the product of its height and width. Therefore, the area $A$ is given by $A = (w)(w + 48)$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from misinterpreting 'the height is $48$ inches greater than the width' as 'the height is $48$ times the width' and writing the area as $(w)(48w)$.",
+  "explanation": "Choice C is correct. It's given that the height of the rectangle is $48$ inches greater than its width $w$, so the height is $w + 48$ inches. The area of a rectangle is the product of its height and width. Therefore, the area $A$ is given by $A = (w)(w + 48)$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from misinterpreting 'the height is $48$ inches greater than the width' as 'the height is the width divided by $48$' and writing the area as $(w)\\left(\\frac{w}{48}\\right)$.",
   "source": "https://cooksat.com/practice?questionId=c84d9175&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/c84d9175/1-3e0d9ead12f83e85.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/c84d9175/2-539769c58f1c37fa.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/c84d9175/3-5be1746c6339c76d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/c84d9175/4-ea73fc2ba7f75702.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/c84d9175/5-14851b02112b1307.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/c84d9175/6-08991cae7bec6a86.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/c84d9175/7-cd8e97b501edff29.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "4d81f3b8",
-  "capturedAt": "2026-11-09T23:49:07.829Z",
+  "capturedAt": "2026-11-10T02:53:17.493Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nmodels the intensity of a sonar pulse, in number of acoustic units in the pulse,\n[Figure 3]\nmeters below the surface of a body of water. According to the model, what is the estimated number of acoustic units in the sonar pulse when it is at the surface of the body of water?",
+  "prompt": "$$g ( d ) = 800 ( 0.5 )^\\frac{d}{8}$$\n\nThe function $g$ models the intensity of a sonar pulse, in number of acoustic units in the pulse, $d$ meters below the surface of a body of water. According to the model, what is the estimated number of acoustic units in the sonar pulse when it is at the surface of the body of water?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$\\frac{1}{2}$",
+    "B": "$8$",
+    "C": "$400$",
+    "D": "$800$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. The function $g$ models the intensity of a sonar pulse, in number of acoustic units, $d$ meters below the surface of a body of water. At the surface of the water, the pulse is $0$ meters below the surface, so $d = 0$. Substituting $0$ for $d$ in $g(d) = 800(0.5)^{\\frac{d}{8}}$ yields $g(0) = 800(0.5)^{\\frac{0}{8}} = 800(0.5)^{0}$. Since any positive number raised to the $0$ power equals $1$, $g(0) = 800(1) = 800$. Therefore, the estimated number of acoustic units in the sonar pulse at the surface is $800$.",
   "source": "https://cooksat.com/practice?questionId=4d81f3b8&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/4d81f3b8/1-9b28c7eb8a679c8d.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/4d81f3b8/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/4d81f3b8/3-90c6e0d8feb16ceb.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/4d81f3b8/4-dddd50c58d968856.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/4d81f3b8/5-f4f34a91ada02fa5.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/4d81f3b8/6-33bb5bec82dea834.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/4d81f3b8/7-cac4fcf305081669.png"
-    }
-  ]
+  "images": []
 }

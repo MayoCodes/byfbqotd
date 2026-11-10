@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "556b2b9d",
-  "capturedAt": "2026-11-09T23:51:06.117Z",
+  "capturedAt": "2026-11-10T02:53:47.417Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,21 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Table 1]\n\nThe table shows some values of the function\n[Figure 2]\n. Which of the following could define\n[Figure 3]\n?",
+  "prompt": "[Table 1]\n\nThe table shows some values of the function $f$. Which of the following could define $f$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$f(x)=2x^{2}+1$",
+    "B": "$f(x)=x^{2}+2$",
+    "C": "$f(x)=2x+1$",
+    "D": "$f(x)=x^{2}+2x+1$"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. Substituting values from the table into $f(x)=2x^2+1$: at $x=0$, $f(0)=2(0)^2+1=1$; at $x=1$, $f(1)=2(1)^2+1=3$; at $x=2$, $f(2)=2(4)+1=9$. All values match the table.\n\nWhy D is incorrect:\n\nChoice D is incorrect. At $x=1$, $f(1)=1+2+1=4$, but the table shows $f(1)=3$.",
+  "explanation": "Choice A is correct. Substituting values from the table into $f(x)=2x^2+1$: at $x=0$, $f(0)=2(0)^2+1=1$; at $x=1$, $f(1)=2(1)^2+1=3$; at $x=2$, $f(2)=2(4)+1=9$. All values match the table.",
   "source": "https://cooksat.com/practice?questionId=556b2b9d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/556b2b9d/1-d3461def669ceaaa.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/556b2b9d/2-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/556b2b9d/3-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/556b2b9d/4-41ae6b81f321ac9c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/556b2b9d/5-1f6be0c62252e8aa.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/556b2b9d/6-29d3c6c5aa16d33e.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/556b2b9d/7-ba093893a5265206.png"
+      "path": "data/capture-assets/556b2b9d/1-d3461def669ceaaa.png",
+      "kind": "diagram"
     }
   ]
 }

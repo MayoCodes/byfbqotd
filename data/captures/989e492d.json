@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "989e492d",
-  "capturedAt": "2026-11-09T23:57:22.991Z",
+  "capturedAt": "2026-11-10T02:55:41.439Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,40 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The area of a triangle is\n[Figure 1]\nsquare inches. The length of the base of the triangle is\n[Figure 2]\ninches greater than the height of the triangle. What is the height, in inches, of the triangle?",
+  "prompt": "The area of a triangle is $168$ square inches. The length of the base of the triangle is $10$ inches greater than the height of the triangle. What is the height, in inches, of the triangle?",
   "choices": {
-    "A": "[Figure 3]",
-    "B": "[Figure 4]",
-    "C": "[Figure 5]",
-    "D": "[Figure 6]"
+    "A": "$12$",
+    "B": "$14$",
+    "C": "$24$",
+    "D": "$28$"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. The area $A$ of a triangle is given by $A=\\frac{1}{2}bh$, where $b$ is the length of the base and $h$ is the height. Let $x$ represent the height, in inches, of the triangle. Then the length of the base can be expressed as $x+10$. Substituting $168$ for $A$, $x$ for $h$, and $x+10$ for $b$ gives $168=\\frac{1}{2}(x+10)(x)$. Multiplying both sides by $2$ yields $336=x(x+10)$, or $336=x^{2}+10x$. Subtracting $336$ from both sides gives $0=x^{2}+10x-336$. In factored form, this is $(x-14)(x+24)=0$. By the zero product property, $x=14$ or $x=-24$. Since the height must be positive, the height of the triangle is $14$ inches.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from conceptual or calculation errors when factoring the quadratic equation.",
+  "explanation": "Choice B is correct. The area $A$ of a triangle is given by $A=\\frac{1}{2}bh$, where $b$ is the length of the base and $h$ is the height. Let $x$ represent the height, in inches, of the triangle. Then the length of the base can be expressed as $x+10$. Substituting $168$ for $A$, $x$ for $h$, and $x+10$ for $b$ gives $168=\\frac{1}{2}(x+10)(x)$. Multiplying both sides by $2$ yields $336=x(x+10)$, or $336=x^{2}+10x$. Subtracting $336$ from both sides gives $0=x^{2}+10x-336$. In factored form, this is $(x-14)(x+24)=0$. By the zero product property, $x=14$ or $x=-24$. Since the height must be positive, the height of the triangle is $14$ inches.",
   "source": "https://cooksat.com/practice?questionId=989e492d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/989e492d/1-d2ee8d0e417be7d6.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/989e492d/2-46a154a7244283d3.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/989e492d/3-ebb9a53a87ff177d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/989e492d/4-9888925528800215.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/989e492d/5-9e679b37536fb68d.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/989e492d/6-00c9430f44168c9f.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "2f7b1d76",
-  "capturedAt": "2026-11-09T23:45:18.516Z",
+  "capturedAt": "2026-11-10T02:52:07.941Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,48 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\nwhen\n[Figure 4]\n?",
+  "prompt": "The function $h$ is defined by $h(x) = x^{3} + 85$. What is the value of $h(x)$ when $x = 3$?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$85$",
+    "B": "$91$",
+    "C": "$94$",
+    "D": "$112$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. Substituting $3$ for $x$ in the given equation yields $h(3) = 3^{3} + 85$, which is equivalent to $h(3) = 27 + 85$, or $h(3) = 112$. Therefore, the value of $h(x)$ when $x = 3$ is $112$.",
   "source": "https://cooksat.com/practice?questionId=2f7b1d76&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/2f7b1d76/1-3ab7f85bcf8aa223.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/2f7b1d76/2-5e1ccf23b1eff886.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/2f7b1d76/3-0eb1b7dfc7aa423d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/2f7b1d76/4-034245683f53393b.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/2f7b1d76/5-b01876dd5f4ed244.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/2f7b1d76/6-1b5b7f1bbaea3cba.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/2f7b1d76/7-cef924cf8f69c48f.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/2f7b1d76/8-1b4abae10c99a39f.png"
-    }
-  ]
+  "images": []
 }

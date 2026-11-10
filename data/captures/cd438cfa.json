@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "cd438cfa",
-  "capturedAt": "2026-11-10T00:03:58.024Z",
+  "capturedAt": "2026-11-10T02:57:35.671Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,35 +10,10 @@
   "difficulty": "Medium",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the minimum value of\n[Figure 3]\n?\n\n[Figure 4]\n\n[Figure 5]",
+  "prompt": "The function $f$ is defined by $f(x)=2x^{2}-12x+10$. What is the minimum value of $f(x)$?\n\n$$0$$\n\n$$-8$$",
   "choices": {},
-  "correctAnswer": "[Figure 6]",
+  "correctAnswer": "$-8$",
   "explanation": "The correct answer is $-8$. To find the minimum value of $f(x)=2x^{2}-12x+10$, the function can be rewritten in vertex form $f(x)=a(x-h)^{2}+k$, where $k$ is the minimum value when $a>0$. First, factor out the coefficient of $x^{2}$ from the first two terms: $f(x)=2(x^{2}-6x)+10$. To complete the square, take half of the coefficient of $x$ (which is $-6$), square it to get $9$, and add and subtract this value inside the parentheses: $f(x)=2(x^{2}-6x+9-9)+10=2(x^{2}-6x+9)-18+10$. This can be written as $f(x)=2(x-3)^{2}-8$. Since the coefficient of the squared term is positive ($a=2>0$), the parabola opens upward and the minimum value occurs at the vertex. In vertex form $f(x)=a(x-h)^{2}+k$, the minimum value is $k=-8$. To verify, substitute $x=3$ into the original function: $f(3)=2(3)^{2}-12(3)+10=18-36+10=-8$, confirming the minimum. Therefore, the minimum value of $f(x)$ is $-8$.",
   "source": "https://cooksat.com/practice?questionId=cd438cfa&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/cd438cfa/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/cd438cfa/2-d98ee72d2588d8a8.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/cd438cfa/3-301fefb43a2fb7eb.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/cd438cfa/4-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/cd438cfa/5-40ee30d444a60327.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/cd438cfa/6-18822b06d6863ffe.png"
-    }
-  ]
+  "images": []
 }

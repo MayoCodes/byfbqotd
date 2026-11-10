@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "9443e1b1",
-  "capturedAt": "2026-11-09T23:56:59.434Z",
+  "capturedAt": "2026-11-10T02:55:35.203Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,48 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nis defined by the equation above. If\n[Figure 3]\n, which equation defines the function\n[Figure 4]\n?",
+  "prompt": "$$f(x)=8(5)^x$$\n\nThe function $f$ is defined by the equation above. If $g(x)=f(x+3)$, which equation defines the function $g$?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$g(x) = 24(5)^x$",
+    "B": "$g(x) = 1000(5)^x$",
+    "C": "$g(x) = 133(5)^x$",
+    "D": "$g(x) = 120(15)^x$"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. It's given that $f(x)=8(5)^{x}$ and $g(x)=f(x+3)$. Substituting $x+3$ for $x$ in $f(x)=8(5)^{x}$ gives $f(x+3)=8(5)^{x+3}$. Using the exponent addition property $a^{m+n}=a^{m}\\cdot a^{n}$, this equation can be rewritten as $f(x+3)=8(5)^{x}(5)^{3}$. Evaluating $5^{3}=125$ gives $f(x+3)=8(5)^{x}(125)$, which can be rewritten as $f(x+3)=8(125)(5)^{x}$. Multiplying the constants yields $f(x+3)=1000(5)^{x}$. Since $g(x)=f(x+3)$, it follows that $g(x)=1000(5)^{x}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This may result from incorrectly multiplying the coefficient by the shift value instead of by the base raised to the shift power. The student may have calculated $8 \\cdot 3 = 24$ instead of correctly computing $8 \\cdot 5^{3} = 8 \\cdot 125 = 1000$.",
+  "explanation": "Choice B is correct. It's given that $f(x)=8(5)^{x}$ and $g(x)=f(x+3)$. Substituting $x+3$ for $x$ in $f(x)=8(5)^{x}$ gives $f(x+3)=8(5)^{x+3}$. Using the exponent addition property $a^{m+n}=a^{m}\\cdot a^{n}$, this equation can be rewritten as $f(x+3)=8(5)^{x}(5)^{3}$. Evaluating $5^{3}=125$ gives $f(x+3)=8(5)^{x}(125)$, which can be rewritten as $f(x+3)=8(125)(5)^{x}$. Multiplying the constants yields $f(x+3)=1000(5)^{x}$. Since $g(x)=f(x+3)$, it follows that $g(x)=1000(5)^{x}$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This may result from multiple errors: incorrectly computing the new coefficient as $8 \\cdot 5 \\cdot 3 = 120$ and incorrectly treating the shift as affecting the base by computing $5 \\cdot 3 = 15$. This reflects confusion about how function composition affects exponential expressions.",
   "source": "https://cooksat.com/practice?questionId=9443e1b1&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/9443e1b1/1-cdc40ad45cce4a34.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/9443e1b1/2-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/9443e1b1/3-eb6095940ea14baa.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/9443e1b1/4-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/9443e1b1/5-4a1983dc15303aa5.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/9443e1b1/6-bbec24528fa1c2e7.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/9443e1b1/7-5b7d5736095287f9.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/9443e1b1/8-a85eb94bf11ef04c.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "993a22cc",
-  "capturedAt": "2026-11-09T23:57:45.534Z",
+  "capturedAt": "2026-11-10T02:55:50.465Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,64 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A quadratic function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nis a constant. The graph of\n[Figure 4]\nin the\n[Figure 5]\n-plane has an\n[Figure 6]\n-intercept at\n[Figure 7]\n. What is the value of\n[Figure 8]\n?",
+  "prompt": "A quadratic function $f$ is defined by $f(x) = a(x-3)^{2} + 12$, where $a$ is a constant. The graph of $y=f(x)$ in the $xy$-plane has an $x$-intercept at $(6,0)$. What is the value of $a$?",
   "choices": {
-    "A": "[Figure 9]",
-    "B": "[Figure 10]",
-    "C": "[Figure 11]",
-    "D": "[Figure 12]"
+    "A": "$-\\frac{4}{3}$",
+    "B": "$-\\frac{3}{4}$",
+    "C": "$\\frac{3}{4}$",
+    "D": "$\\frac{4}{3}$"
   },
   "correctAnswer": "A",
-  "explanation": "Since the graph has an $x$-intercept at $(6,0)$, substituting these coordinates into the function gives $0 = a(6-3)^2 + 12$. This simplifies to $0 = a(3)^2 + 12$, or $0 = 9a + 12$. Solving for $a$ gives $9a = -12$, so $a = -\\frac{12}{9} = -\\frac{4}{3}$.\n\nWhy B is incorrect:\n\nThis results from incorrectly inverting the fraction, computing $a = -\\frac{9}{12}$ instead of $-\\frac{12}{9}$.",
+  "explanation": "Since the graph has an $x$-intercept at $(6,0)$, substituting these coordinates into the function gives $0 = a(6-3)^2 + 12$. This simplifies to $0 = a(3)^2 + 12$, or $0 = 9a + 12$. Solving for $a$ gives $9a = -12$, so $a = -\\frac{12}{9} = -\\frac{4}{3}$.\n\nWhy C is incorrect:\n\nThis results from a sign error, finding $a = \\frac{12}{9}$ by incorrectly solving $9a = -12$ as if it were $9a = 12$.",
   "source": "https://cooksat.com/practice?questionId=993a22cc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/993a22cc/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/993a22cc/2-d3080e460e154728.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/993a22cc/3-23564e26b3edd50d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/993a22cc/4-8dfb98eeaa92843f.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/993a22cc/5-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/993a22cc/6-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/993a22cc/7-91b6e340ae9f22e7.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/993a22cc/8-23564e26b3edd50d.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/993a22cc/9-e4320a8380e7ef96.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/993a22cc/10-c85ea68eb202cdfe.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/993a22cc/11-306383d1e8571614.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/993a22cc/12-50d39ede033d614a.png"
-    }
-  ]
+  "images": []
 }

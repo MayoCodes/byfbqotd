@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "b53e13e4",
-  "capturedAt": "2026-11-10T00:00:59.159Z",
+  "capturedAt": "2026-11-10T02:56:43.160Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,48 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "Square M has a side length of\n[Figure 1]\ncentimeters. Square N has a perimeter that is\n[Figure 2]\ncentimeters greater than the perimeter of square M. The function\n[Figure 3]\ngives the area of square N, in square centimeters. Which of the following defines\n[Figure 4]\n?",
+  "prompt": "Square M has a side length of $w$ centimeters. Square N has a perimeter that is $48$ centimeters greater than the perimeter of square M. The function $g$ gives the area of square N, in square centimeters. Which of the following defines $g$?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$g(w) = (w + 12)^{2}$",
+    "B": "$g(w) = (w + 48)^{2}$",
+    "C": "$g(w) = (48w + 12)^{2}$",
+    "D": "$g(w) = (48w + 48)^{2}$"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. It's given that square M has a side length of $w$ centimeters. The perimeter of a square is $4$ times its side length, so the perimeter of square M is $4w$ centimeters. It's also given that square N has a perimeter that is $48$ centimeters greater than the perimeter of square M. Therefore, the perimeter of square N is $4w + 48$ centimeters. Since square N is a square, all four sides have equal length, so each side of square N has length $\\frac{4w + 48}{4} = w + 12$ centimeters. The area of a square is the square of its side length. Therefore, the area of square N is $(w + 12)^{2}$ square centimeters, and the function that gives the area of square N is $g(w) = (w + 12)^{2}$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from multiplying $w$ by $48$ and then adding $12$, which does not correctly represent the relationship between the perimeters of the two squares.",
+  "explanation": "Choice A is correct. It's given that square M has a side length of $w$ centimeters. The perimeter of a square is $4$ times its side length, so the perimeter of square M is $4w$ centimeters. It's also given that square N has a perimeter that is $48$ centimeters greater than the perimeter of square M. Therefore, the perimeter of square N is $4w + 48$ centimeters. Since square N is a square, all four sides have equal length, so each side of square N has length $\\frac{4w + 48}{4} = w + 12$ centimeters. The area of a square is the square of its side length. Therefore, the area of square N is $(w + 12)^{2}$ square centimeters, and the function that gives the area of square N is $g(w) = (w + 12)^{2}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from adding $48$ directly to the side length of square M rather than to its perimeter. If the side length of square N were $w + 48$ centimeters, then the area would be $(w + 48)^{2}$ square centimeters, but the perimeter difference, not the side length difference, is $48$ centimeters.",
   "source": "https://cooksat.com/practice?questionId=b53e13e4&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/b53e13e4/1-5be1746c6339c76d.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/b53e13e4/2-3e0d9ead12f83e85.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/b53e13e4/3-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/b53e13e4/4-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/b53e13e4/5-eef63fa873221a29.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/b53e13e4/6-772f780745ffbd5f.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/b53e13e4/7-4aad68825042d1a7.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/b53e13e4/8-ef889bab129d6747.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "fddec735",
-  "capturedAt": "2026-11-10T00:09:29.784Z",
+  "capturedAt": "2026-11-10T02:59:03.059Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,76 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The quadratic function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nis a positive constant. The graph of\n[Figure 4]\nin the\n[Figure 5]\n-plane has\n[Figure 6]\n-intercepts at\n[Figure 7]\nand\n[Figure 8]\n, where\n[Figure 9]\nis a positive constant. If\n[Figure 10]\n, what is the value of\n[Figure 11]\n?",
+  "prompt": "The quadratic function $g$ is defined by $g(x) = -k(x-2)^{2} + 8$, where $k$ is a positive constant. The graph of $y = g(x)$ in the $xy$-plane has $x$-intercepts at $(2-a, 0)$ and $(2+a, 0)$, where $a$ is a positive constant. If $a = 2sqrt(3)$, what is the value of $k$?",
   "choices": {
-    "A": "[Figure 12]",
-    "B": "[Figure 13]",
-    "C": "[Figure 14]",
-    "D": "[Figure 15]"
+    "A": "$\\frac{2}{3}$",
+    "B": "$\\frac{3}{2}$",
+    "C": "$2$",
+    "D": "$3$"
   },
   "correctAnswer": "A",
   "explanation": "Since the $x$-intercepts are at $(2-a, 0)$ and $(2+a, 0)$, substituting either into $g(x) = 0$ gives $-k(x-2)^2 + 8 = 0$. Using $x = 2+a = 2+2\\sqrt{3}$: $-k((2+2\\sqrt{3})-2)^2 + 8 = 0$, which simplifies to $-k(2\\sqrt{3})^2 + 8 = 0$. This gives $-k(12) + 8 = 0$, so $k = \\frac{8}{12} = \\frac{2}{3}$.\n\nWhy C is incorrect:\n\nThis results from incorrectly simplifying $(2\\sqrt{3})^2$ as $8$ instead of $12$, leading to $k = \\frac{8}{8} = 1$, or from other computational errors in the middle steps.",
   "source": "https://cooksat.com/practice?questionId=fddec735&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/fddec735/1-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/fddec735/2-5b58e91597a6ed8d.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/fddec735/3-f6ba4414c242606d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/fddec735/4-a370960d94a8b7e2.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/fddec735/5-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/fddec735/6-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/fddec735/7-57a0f7cf2d5f2bc6.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/fddec735/8-b1f2720c462b85f4.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/fddec735/9-23564e26b3edd50d.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/fddec735/10-0d2d6d6b321b632c.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/fddec735/11-f6ba4414c242606d.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/fddec735/12-986590b8ac7aa729.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/fddec735/13-6fbae2b4abc4a4c4.png"
-    },
-    {
-      "label": "Figure 14",
-      "path": "data/capture-assets/fddec735/14-eecad86a2b305c5e.png"
-    },
-    {
-      "label": "Figure 15",
-      "path": "data/capture-assets/fddec735/15-f4ee39ba9ef6e452.png"
-    }
-  ]
+  "images": []
 }

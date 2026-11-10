@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "72f8dba3",
-  "capturedAt": "2026-11-09T23:54:01.658Z",
+  "capturedAt": "2026-11-10T02:54:38.108Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
+  "prompt": "The function $f$ is defined by $f(x)=x(x-1)$. What is the value of $f(5)$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$0$",
+    "B": "$4$",
+    "C": "$20$",
+    "D": "$25$"
   },
   "correctAnswer": "C",
   "explanation": "Substitute $x = 5$ into $f(x) = x(x-1)$: $f(5) = 5(5-1) = 5(4) = 20$.",
   "source": "https://cooksat.com/practice?questionId=72f8dba3&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/72f8dba3/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/72f8dba3/2-d0db528957cb89a4.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/72f8dba3/3-6d93cc1ec8a0c194.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/72f8dba3/4-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/72f8dba3/5-fcf7d75cfc7ff09c.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/72f8dba3/6-12028fd4d7919682.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/72f8dba3/7-0ee7c34afd857757.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "c08ce434",
-  "capturedAt": "2026-11-10T00:02:30.981Z",
+  "capturedAt": "2026-11-10T02:57:11.400Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,64 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\ndefined above can be used to model the number of bacteria colonies remaining in a water sample after being treated with various volumes of disinfectant solution\n[Figure 3]\n, where\n[Figure 4]\nis in thousands of liters. Which of the following does the model predict?",
+  "prompt": "$$B(v) = 240 \\times (0.85)^v$$\n\nThe function $B$ defined above can be used to model the number of bacteria colonies remaining in a water sample after being treated with various volumes of disinfectant solution $v$, where $v$ is in thousands of liters. Which of the following does the model predict?",
   "choices": {
-    "A": "For every increase in volume by\n[Figure 5]\nliter, the number of bacteria colonies decreases by\n[Figure 6]\n.",
-    "B": "For every increase in volume by\n[Figure 7]\nliter, the number of bacteria colonies decreases by\n[Figure 8]\n.",
-    "C": "For every increase in volume by\n[Figure 9]\nliters, the number of bacteria colonies decreases by\n[Figure 10]\n.",
-    "D": "For every increase in volume by\n[Figure 11]\nliters, the number of bacteria colonies decreases by\n[Figure 12]\n."
+    "A": "For every increase in volume by $1$ liter, the number of bacteria colonies decreases by $15%$.",
+    "B": "For every increase in volume by $1$ liter, the number of bacteria colonies decreases by $240$.",
+    "C": "For every increase in volume by $1,000$ liters, the number of bacteria colonies decreases by $240$.",
+    "D": "For every increase in volume by $1,000$ liters, the number of bacteria colonies decreases by $15%$."
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. The function $B$ is exponential, so $B(v)$ changes by a fixed percentage for each increase in $v$ by $1$. Since $v$ is measured in thousands of liters, the number of bacteria colonies changes by a fixed percentage for each increase in volume by $1{,}000$ liters. Because the base of the exponent is $0.85$, which is less than $1$, the number of colonies decreases as the volume increases. Specifically, the number of bacteria colonies at a volume of $v + 1{,}000$ liters is $85\\%$ of the number at a volume of $v$ liters. This means that for each increase in volume by $1{,}000$ liters, the number of bacteria colonies decreases by $15\\%$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This describes a situation where the number of bacteria colonies is decreasing linearly rather than exponentially.",
+  "explanation": "Choice D is correct. The function $B$ is exponential, so $B(v)$ changes by a fixed percentage for each increase in $v$ by $1$. Since $v$ is measured in thousands of liters, the number of bacteria colonies changes by a fixed percentage for each increase in volume by $1{,}000$ liters. Because the base of the exponent is $0.85$, which is less than $1$, the number of colonies decreases as the volume increases. Specifically, the number of bacteria colonies at a volume of $v + 1{,}000$ liters is $85\\%$ of the number at a volume of $v$ liters. This means that for each increase in volume by $1{,}000$ liters, the number of bacteria colonies decreases by $15\\%$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This describes a situation where the number of bacteria colonies is decreasing linearly rather than exponentially, and also misinterprets the unit of $v$.",
   "source": "https://cooksat.com/practice?questionId=c08ce434&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/c08ce434/1-b746de84353d305f.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/c08ce434/2-48d6e1f7e803a0f9.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/c08ce434/3-6f21cf857080f918.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/c08ce434/4-6f21cf857080f918.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/c08ce434/5-0c32e2bcf21ebd61.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/c08ce434/6-a55607889e6c9177.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/c08ce434/7-0c32e2bcf21ebd61.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/c08ce434/8-f6a099c4f4144909.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/c08ce434/9-5a1158fb060829f3.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/c08ce434/10-f6a099c4f4144909.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/c08ce434/11-5a1158fb060829f3.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/c08ce434/12-a55607889e6c9177.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "400f7942",
-  "capturedAt": "2026-11-09T23:47:58.150Z",
+  "capturedAt": "2026-11-10T02:52:55.868Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,60 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis a quadratic function. In the\n[Figure 2]\n-plane, the graph of\n[Figure 3]\nhas a vertex at\n[Figure 4]\nand passes through the points\n[Figure 5]\nand\n[Figure 6]\n. What is the value of\n[Figure 7]\n?",
+  "prompt": "The function $g$ is a quadratic function. In the $xy$-plane, the graph of $y = g(x)$ has a vertex at $(3, 4)$ and passes through the points $(5, 40)$ and $(6, 85)$. What is the value of $g(-1) - g(0)$?",
   "choices": {
-    "A": "[Figure 8]",
-    "B": "[Figure 9]",
-    "C": "[Figure 10]",
-    "D": "[Figure 11]"
+    "A": "$-63$",
+    "B": "$37$",
+    "C": "$63$",
+    "D": "$148$"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. A quadratic function with vertex $(h, k)$ can be written in the form $g(x) = a(x - h)^{2} + k$, where $a$ is a constant. Since the vertex is $(3, 4)$, the function can be written as $g(x) = a(x - 3)^{2} + 4$. It's given that the graph passes through the point $(5, 40)$, so $g(5) = 40$. Substituting $5$ for $x$ yields $g(5) = a(5 - 3)^{2} + 4 = 4a + 4$. Setting $4a + 4 = 40$ and subtracting $4$ from both sides gives $4a = 36$, so $a = 9$. Therefore, $g(x) = 9(x - 3)^{2} + 4$. To find $g(-1)$, substitute $-1$ for $x$: $g(-1) = 9(-1 - 3)^{2} + 4 = 9(16) + 4 = 148$. To find $g(0)$, substitute $0$ for $x$: $g(0) = 9(0 - 3)^{2} + 4 = 9(9) + 4 = 85$. Therefore, $g(-1) - g(0) = 148 - 85 = 63$.",
   "source": "https://cooksat.com/practice?questionId=400f7942&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/400f7942/1-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/400f7942/2-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/400f7942/3-a370960d94a8b7e2.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/400f7942/4-dc22392e7b884800.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/400f7942/5-04db9170805b02c5.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/400f7942/6-d6a3c85789f42e4b.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/400f7942/7-84d3fe8f948bc6cc.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/400f7942/8-c994c25a3a61dc1f.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/400f7942/9-6b36bd4abfd52dec.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/400f7942/10-b2c865025e61b87a.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/400f7942/11-8ec40eab397f2c1f.png"
-    }
-  ]
+  "images": []
 }

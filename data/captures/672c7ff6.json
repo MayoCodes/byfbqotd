@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "672c7ff6",
-  "capturedAt": "2026-11-09T23:52:45.519Z",
+  "capturedAt": "2026-11-10T02:54:14.228Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,60 +10,21 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph shows the height above ground, in meters, of a toy rocket\n[Figure 2]\nseconds after it was launched upward from a rooftop. Which statement is the best interpretation of the marked point\n[Figure 3]\nin this context?",
+  "prompt": "[Figure 1]\n\nThe graph shows the height above ground, in meters, of a toy rocket $t$ seconds after it was launched upward from a rooftop. Which statement is the best interpretation of the marked point $(1.2, 6.4)$ in this context?",
   "choices": {
-    "A": "The rocket was launched from an initial height of\n[Figure 4]\nmeters with an initial velocity of\n[Figure 5]\nmeters per second.",
-    "B": "The rocket was launched from an initial height of\n[Figure 6]\nmeters with an initial velocity of\n[Figure 7]\nmeters per second.",
-    "C": "[Figure 8]\nseconds after being launched, the rocket's height above ground is\n[Figure 9]\nmeters.",
-    "D": "[Figure 10]\nseconds after being launched, the rocket's height above ground is\n[Figure 11]\nmeters."
+    "A": "The rocket was launched from an initial height of $1.2$ meters with an initial velocity of $6.4$ meters per second.",
+    "B": "The rocket was launched from an initial height of $6.4$ meters with an initial velocity of $1.2$ meters per second.",
+    "C": "$1.2$ seconds after being launched, the rocket's height above ground is $6.4$ meters.",
+    "D": "$6.4$ seconds after being launched, the rocket's height above ground is $1.2$ meters."
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. The graph shows the height above ground, in meters, of a toy rocket $t$ seconds after it was launched upward from a rooftop. The horizontal axis represents time, in seconds, and the vertical axis represents the rocket's height above ground, in meters. For the marked point $\\left(1.2, 6.4\\right)$, the $x$-coordinate $1.2$ represents the time, in seconds, after the rocket was launched, and the $y$-coordinate $6.4$ represents the rocket's height above ground, in meters. Therefore, the best interpretation of the marked point $\\left(1.2, 6.4\\right)$ is that $1.2$ seconds after being launched, the rocket's height above ground is $6.4$ meters.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from confusing the marked point with the initial launch conditions. The point $\\left(1.2, 6.4\\right)$ represents the rocket's position at $1.2$ seconds, not the initial height or velocity.",
+  "explanation": "Choice C is correct. The graph shows the height above ground, in meters, of a toy rocket $t$ seconds after it was launched upward from a rooftop. The horizontal axis represents time, in seconds, and the vertical axis represents the rocket's height above ground, in meters. For the marked point $\\left(1.2, 6.4\\right)$, the $x$-coordinate $1.2$ represents the time, in seconds, after the rocket was launched, and the $y$-coordinate $6.4$ represents the rocket's height above ground, in meters. Therefore, the best interpretation of the marked point $\\left(1.2, 6.4\\right)$ is that $1.2$ seconds after being launched, the rocket's height above ground is $6.4$ meters.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from reversing the coordinates, interpreting the $x$-value $1.2$ as height and the $y$-value $6.4$ as time.",
   "source": "https://cooksat.com/practice?questionId=672c7ff6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/672c7ff6/1-4a6194f77818fcfd.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/672c7ff6/2-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/672c7ff6/3-8e1f7852c9d9076c.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/672c7ff6/4-2f7ed5b1eab29958.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/672c7ff6/5-1ef29e1cca2b961c.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/672c7ff6/6-1ef29e1cca2b961c.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/672c7ff6/7-2f7ed5b1eab29958.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/672c7ff6/8-2f7ed5b1eab29958.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/672c7ff6/9-1ef29e1cca2b961c.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/672c7ff6/10-1ef29e1cca2b961c.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/672c7ff6/11-2f7ed5b1eab29958.png"
+      "path": "data/capture-assets/672c7ff6/1-e1f02c0e0e2af2bc.png",
+      "kind": "diagram"
     }
   ]
 }

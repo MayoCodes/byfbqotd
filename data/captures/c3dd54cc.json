@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "c3dd54cc",
-  "capturedAt": "2026-11-10T00:02:54.011Z",
+  "capturedAt": "2026-11-10T02:57:17.066Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,39 +10,16 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph of a rational function is shown for some values of\n[Figure 2]\n. What is the\n[Figure 3]\n-coordinate of the\n[Figure 4]\n-intercept of the graph?\n\n[Figure 5]\n\n[Figure 6]",
+  "prompt": "[Figure 1]\n\nThe graph of a rational function is shown for some values of $x$. What is the $y$-coordinate of the $y$-intercept of the graph?\n\n$$0$$\n\n$$5$$",
   "choices": {},
-  "correctAnswer": "[Figure 7]",
+  "correctAnswer": "$5$",
   "explanation": "The correct answer is $5$. The y-intercept of a graph in the xy-plane is the point where the graph crosses the y-axis, which occurs when $x = 0$. The graph shown crosses the y-axis at the point $(0, 5)$. Therefore, the y-coordinate of the y-intercept of the graph is $5$.",
   "source": "https://cooksat.com/practice?questionId=c3dd54cc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/c3dd54cc/1-bf44fe86dc5d746d.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/c3dd54cc/2-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/c3dd54cc/3-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/c3dd54cc/4-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/c3dd54cc/5-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/c3dd54cc/6-8fc3cfb4a4e6f37e.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/c3dd54cc/7-4ba1164649b6fcb7.png"
+      "path": "data/capture-assets/c3dd54cc/1-76db5ff6e864f843.png",
+      "kind": "diagram"
     }
   ]
 }

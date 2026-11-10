@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "3a2c1564",
-  "capturedAt": "2026-11-09T23:47:24.134Z",
+  "capturedAt": "2026-11-10T02:52:45.504Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The area of a rectangular garden plot is\n[Figure 1]\nsquare feet. The plot's length\n[Figure 2]\n, in feet, is\n[Figure 3]\nfeet longer than its width, in feet. Which equation represents this situation?",
+  "prompt": "The area of a rectangular garden plot is $1,855$ square feet. The plot's length $x$, in feet, is $18$ feet longer than its width, in feet. Which equation represents this situation?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$0 = x^{2} - 18x - 1,855$",
+    "B": "$0 = x^{2} - 18x + 1,855$",
+    "C": "$0 = x^{2} + 18x - 1,855$",
+    "D": "$0 = x^{2} + 18x + 1,855$"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. It's given that the plot's length $x$, in feet, is $18$ feet longer than its width, in feet. It follows that the plot's width, in feet, can be represented by the expression $x - 18$. The area of a rectangle is the product of its length and its width. It's given that the area of the plot is $1{,}855$ square feet, so it follows that $1{,}855 = x\\left(x - 18\\right)$, or $1{,}855 = x^{2} - 18x$. Subtracting $1{,}855$ from each side of this equation yields $0 = x^{2} - 18x - 1{,}855$. Therefore, the equation that represents this situation is $0 = x^{2} - 18x - 1{,}855$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from conceptual or calculation errors.",
+  "explanation": "Choice A is correct. It's given that the plot's length $x$, in feet, is $18$ feet longer than its width, in feet. It follows that the plot's width, in feet, can be represented by the expression $x - 18$. The area of a rectangle is the product of its length and its width. It's given that the area of the plot is $1{,}855$ square feet, so it follows that $1{,}855 = x\\left(x - 18\\right)$, or $1{,}855 = x^{2} - 18x$. Subtracting $1{,}855$ from each side of this equation yields $0 = x^{2} - 18x - 1{,}855$. Therefore, the equation that represents this situation is $0 = x^{2} - 18x - 1{,}855$.",
   "source": "https://cooksat.com/practice?questionId=3a2c1564&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/3a2c1564/1-a4a20c243f6bcd24.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/3a2c1564/2-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/3a2c1564/3-d9903bbb7f08759f.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/3a2c1564/4-9a36857d408ce16d.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/3a2c1564/5-bfdc7a607820a10a.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/3a2c1564/6-1c1cf6f5ed3e9ab2.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/3a2c1564/7-7d169d8327d7a009.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "86ade447",
-  "capturedAt": "2026-11-09T23:56:24.041Z",
+  "capturedAt": "2026-11-10T02:55:23.966Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,35 +10,10 @@
   "difficulty": "Medium",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the minimum value of\n[Figure 3]\n?\n\n[Figure 4]\n\n[Figure 5]",
+  "prompt": "The function $f$ is defined by $f(x) = 2x^{2} - 3x + 5$. What is the minimum value of $f(x)$?\n\n$$0$$\n\n$$\\frac{31}{8},3.875$$",
   "choices": {},
-  "correctAnswer": "[Figure 6]",
+  "correctAnswer": "$\\frac{31}{8},3.875$",
   "explanation": "The correct answer is $\\frac{31}{8}$. The function $f(x) = 2x^2 - 3x + 5$ is a quadratic function in the form $f(x) = ax^2 + bx + c$, where $a = 2$, $b = -3$, and $c = 5$. Since $a = 2 > 0$, the parabola opens upward, and the function has a minimum value at its vertex. The $x$-coordinate of the vertex is given by $x = -\\frac{b}{2a} = -\\frac{-3}{2(2)} = \\frac{3}{4}$. To find the minimum value of $f(x)$, substitute $x = \\frac{3}{4}$ into the function: $f\\left(\\frac{3}{4}\\right) = 2\\left(\\frac{3}{4}\\right)^2 - 3\\left(\\frac{3}{4}\\right) + 5 = 2\\left(\\frac{9}{16}\\right) - \\frac{9}{4} + 5 = \\frac{9}{8} - \\frac{9}{4} + 5$. Converting to a common denominator of 8 yields $\\frac{9}{8} - \\frac{18}{8} + \\frac{40}{8} = \\frac{9 - 18 + 40}{8} = \\frac{31}{8}$. Therefore, the minimum value of $f(x)$ is $\\frac{31}{8}$. Note that 31/8 and 3.875 are examples of ways to enter a correct answer.",
   "source": "https://cooksat.com/practice?questionId=86ade447&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/86ade447/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/86ade447/2-66aaadd4873d0926.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/86ade447/3-301fefb43a2fb7eb.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/86ade447/4-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/86ade447/5-4fd79c3251c80b87.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/86ade447/6-e131eda2bafec09a.png"
-    }
-  ]
+  "images": []
 }

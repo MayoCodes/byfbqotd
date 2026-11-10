@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "2552c024",
-  "capturedAt": "2026-11-09T23:44:09.171Z",
+  "capturedAt": "2026-11-10T02:51:50.633Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
+  "prompt": "The function $f$ is defined by $f(x) = x^{2} - 6x + 8$. What is the value of $f(5)$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$-2$",
+    "B": "$3$",
+    "C": "$8$",
+    "D": "$13$"
   },
   "correctAnswer": "B",
-  "explanation": "Substituting $5$ for $x$ in $f(x) = x^2 - 6x + 8$ yields $f(5) = 5^2 - 6(5) + 8 = 25 - 30 + 8 = 3$.",
+  "explanation": "Substituting $5$ for $x$ in $f(x) = x^2 - 6x + 8$ yields $f(5) = 5^2 - 6(5) + 8 = 25 - 30 + 8 = 3$.\n\nWhy C is incorrect:\n\nThis is the constant term in the function, which results from evaluating only part of the expression.",
   "source": "https://cooksat.com/practice?questionId=2552c024&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/2552c024/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/2552c024/2-0532203c9760fb8e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/2552c024/3-6d93cc1ec8a0c194.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/2552c024/4-c3f6ce48a3837614.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/2552c024/5-f4ee39ba9ef6e452.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/2552c024/6-f4f34a91ada02fa5.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/2552c024/7-dbd2fb5bdaedd1fa.png"
-    }
-  ]
+  "images": []
 }

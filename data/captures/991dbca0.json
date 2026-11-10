@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "991dbca0",
-  "capturedAt": "2026-11-09T23:57:28.785Z",
+  "capturedAt": "2026-11-10T02:55:43.567Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,7 +10,7 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph of the quadratic function\n[Figure 6]\nis shown. Which of the following is the graph of\n[Figure 7]\n?",
+  "prompt": "[Figure 1]\n\nThe graph of the quadratic function $y=f(x)$ is shown. Which of the following is the graph of $y=f(x)-2$?",
   "choices": {
     "A": "[Figure 2]",
     "B": "[Figure 3]",
@@ -18,36 +18,33 @@
     "D": "[Figure 5]"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. The graph of $y=f(x)+k$ is the graph of $y=f(x)$ translated vertically by $k$ units. For the function $y=f(x)$ shown, the equation is $f(x) = -(x-2)^2 + 4$, which has a vertex at $(2, 4)$ and zeros at $x=0$ and $x=4$ (since $-(x-2)^2 + 4 = 0$ gives $(x-2)^2 = 4$, so $x-2 = \\pm 2$, yielding $x=0$ or $x=4$). The function $y=f(x)-2$ equals $-(x-2)^2 + 4 - 2 = -(x-2)^2 + 2$. This is a vertical translation of the original parabola downward by 2 units. The vertex moves from $(2, 4)$ to $(2, 2)$. Its zeros change to $x=2\\pm\\sqrt{2}$ because $-(x-2)^2+2=0$ gives $(x-2)^2=2$. Only Graph A shows the downward-opening parabola $y=-(x-2)^2+2$ with vertex $(2, 2)$.",
+  "explanation": "Choice A is correct. The graph of $y=f(x)+k$ is the graph of $y=f(x)$ translated vertically by $k$ units. For the function $y=f(x)$ shown, the equation is $f(x) = -(x-2)^2 + 4$, which has a vertex at $(2, 4)$ and zeros at $x=0$ and $x=4$ (since $-(x-2)^2 + 4 = 0$ gives $(x-2)^2 = 4$, so $x-2 = \\pm 2$, yielding $x=0$ or $x=4$). The function $y=f(x)-2$ equals $-(x-2)^2 + 4 - 2 = -(x-2)^2 + 2$. This is a vertical translation of the original parabola downward by 2 units. The vertex moves from $(2, 4)$ to $(2, 2)$. Its zeros change to $x=2\\pm\\sqrt{2}$ because $-(x-2)^2+2=0$ gives $(x-2)^2=2$. Only Graph A shows the downward-opening parabola $y=-(x-2)^2+2$ with vertex $(2, 2)$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This graph shows a parabola with vertex at $(0, 2)$ instead of $(2, 2)$. This represents a horizontal translation, not the vertical translation that $y=f(x)-2$ requires.",
   "source": "https://cooksat.com/practice?questionId=991dbca0&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/991dbca0/1-05277cf2e611e03f.png"
+      "path": "data/capture-assets/991dbca0/1-d7ad88225626b52e.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 2",
-      "path": "data/capture-assets/991dbca0/2-606605546500ed42.png"
+      "path": "data/capture-assets/991dbca0/2-1ef82105a97bcf39.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 3",
-      "path": "data/capture-assets/991dbca0/3-892926b5345617c4.png"
+      "path": "data/capture-assets/991dbca0/3-8160a3d6058474d2.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 4",
-      "path": "data/capture-assets/991dbca0/4-90f7a04484826637.png"
+      "path": "data/capture-assets/991dbca0/4-229c187fee255077.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 5",
-      "path": "data/capture-assets/991dbca0/5-471e8940f6d39ffd.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/991dbca0/6-8dfb98eeaa92843f.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/991dbca0/7-11cbfeb6e8ada88c.png"
+      "path": "data/capture-assets/991dbca0/5-3d138d56f1fc2c23.png",
+      "kind": "diagram"
     }
   ]
 }

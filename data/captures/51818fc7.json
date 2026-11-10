@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "51818fc7",
-  "capturedAt": "2026-11-09T23:49:59.177Z",
+  "capturedAt": "2026-11-10T02:53:29.427Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,12 +10,12 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nA gymnast launches upward from a trampoline. The graph shown gives the height above the ground\n[Figure 2]\n, in meters, of the gymnast\n[Figure 3]\nseconds after launching from the trampoline. What is the best interpretation of the x-intercept of the graph?",
+  "prompt": "[Figure 1]\n\nA gymnast launches upward from a trampoline. The graph shown gives the height above the ground $y$, in meters, of the gymnast $x$ seconds after launching from the trampoline. What is the best interpretation of the x-intercept of the graph?",
   "choices": {
-    "A": "The gymnast reaches a maximum height above the ground at\n[Figure 4]\nseconds.",
-    "B": "The gymnast hits the ground at\n[Figure 5]\nseconds.",
-    "C": "The gymnast reaches a maximum height above the ground at\n[Figure 6]\nseconds.",
-    "D": "The gymnast hits the ground at\n[Figure 7]\nseconds."
+    "A": "The gymnast reaches a maximum height above the ground at $0.5$ seconds.",
+    "B": "The gymnast hits the ground at $0.5$ seconds.",
+    "C": "The gymnast reaches a maximum height above the ground at $2.0$ seconds.",
+    "D": "The gymnast hits the ground at $2.0$ seconds."
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. The graph shows the height above the ground $y$, in meters, of a gymnast $x$ seconds after launching from a trampoline. The x-intercept of a graph is the point where the graph intersects the x-axis, which is where $y = 0$. The graph shown intersects the x-axis at approximately $x = 2.0$. In other words, the gymnast is $0$ meters above the ground, or hits the ground, at $2.0$ seconds after launching from the trampoline. Therefore, the best interpretation of the x-intercept is that the gymnast hits the ground at $2.0$ seconds.",
@@ -23,31 +23,8 @@
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/51818fc7/1-1f459927a44496db.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/51818fc7/2-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/51818fc7/3-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/51818fc7/4-984080f6e07a128a.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/51818fc7/5-984080f6e07a128a.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/51818fc7/6-820048211fee7dfb.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/51818fc7/7-820048211fee7dfb.png"
+      "path": "data/capture-assets/51818fc7/1-09a7c1301696c4a5.png",
+      "kind": "diagram"
     }
   ]
 }

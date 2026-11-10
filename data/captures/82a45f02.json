@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "82a45f02",
-  "capturedAt": "2026-11-09T23:55:57.925Z",
+  "capturedAt": "2026-11-10T02:55:16.714Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,43 +10,16 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph of the exponential function\n[Figure 2]\nis shown, where\n[Figure 3]\n. The y-intercept of the graph is\n[Figure 4]\n. What is the value of\n[Figure 5]\n?\n\n[Figure 6]\n\n[Figure 7]",
+  "prompt": "[Figure 1]\n\nThe graph of the exponential function $g$ is shown, where $y = g(x)$. The y-intercept of the graph is $(0, y)$. What is the value of $y$?\n\n$$0$$\n\n$$5$$",
   "choices": {},
-  "correctAnswer": "[Figure 8]",
+  "correctAnswer": "$5$",
   "explanation": "The correct answer is $5$. It's given that the y-intercept of the graph shown is $\\left(0, y\\right)$. The graph passes through the point $\\left(0, 5\\right)$. Therefore, the value of $y$ is $5$.",
   "source": "https://cooksat.com/practice?questionId=82a45f02&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/82a45f02/1-0f2df9adc8176325.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/82a45f02/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/82a45f02/3-1dbdc0024037f3d4.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/82a45f02/4-2669e0f92c054192.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/82a45f02/5-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/82a45f02/6-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/82a45f02/7-8fc3cfb4a4e6f37e.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/82a45f02/8-4ba1164649b6fcb7.png"
+      "path": "data/capture-assets/82a45f02/1-e3061de29d79f1a7.png",
+      "kind": "diagram"
     }
   ]
 }

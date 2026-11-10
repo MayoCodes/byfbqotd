@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "6f7f6614",
-  "capturedAt": "2026-11-09T23:53:32.642Z",
+  "capturedAt": "2026-11-10T02:54:27.508Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,40 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "If\n[Figure 1]\n, what is the value of\n[Figure 2]\n?",
+  "prompt": "If $f(x) = x^{2} - 4x + 3$, what is the value of $f(5)$?",
   "choices": {
-    "A": "[Figure 3]",
-    "B": "[Figure 4]",
-    "C": "[Figure 5]",
-    "D": "[Figure 6]"
+    "A": "$2$",
+    "B": "$8$",
+    "C": "$13$",
+    "D": "$18$"
   },
   "correctAnswer": "B",
-  "explanation": "Substituting $5$ for $x$ in $f(x) = x^2 - 4x + 3$ yields $f(5) = (5)^2 - 4(5) + 3 = 25 - 20 + 3 = 8$.\n\nWhy C is incorrect:\n\nThis results from an arithmetic error in the final calculation, possibly computing $25 - 20 + 3$ incorrectly.",
+  "explanation": "Substituting $5$ for $x$ in $f(x) = x^2 - 4x + 3$ yields $f(5) = (5)^2 - 4(5) + 3 = 25 - 20 + 3 = 8$.\n\nWhy D is incorrect:\n\nThis results from an intermediate calculation error, such as computing $25 - 20 + 3$ as $25 - 7 = 18$.",
   "source": "https://cooksat.com/practice?questionId=6f7f6614&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/6f7f6614/1-db2dbffd229aa4fb.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/6f7f6614/2-6d93cc1ec8a0c194.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/6f7f6614/3-eecad86a2b305c5e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/6f7f6614/4-f4f34a91ada02fa5.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/6f7f6614/5-dbd2fb5bdaedd1fa.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/6f7f6614/6-d126f8f5b8501d4f.png"
-    }
-  ]
+  "images": []
 }

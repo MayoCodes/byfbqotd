@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "fb608a8a",
-  "capturedAt": "2026-11-10T00:09:05.114Z",
+  "capturedAt": "2026-11-10T02:58:54.522Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,12 +10,12 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Table 1]\n\nThe table shows selected values of the function\n[Figure 2]\n. Which of the following defines\n[Figure 3]\n?",
+  "prompt": "[Table 1]\n\nThe table shows selected values of the function $g$. Which of the following defines $g(x)$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$g(x) = 2x$",
+    "B": "$g(x) = 2^x$",
+    "C": "$g(x) = x^{2}$",
+    "D": "$g(x) = x + 2$"
   },
   "correctAnswer": "B",
   "explanation": "Testing $g(x) = 2^x$ with each value in the table: $g(-1) = 2^{-1} = \\frac{1}{2}$, $g(0) = 2^0 = 1$, $g(1) = 2^1 = 2$, and $g(2) = 2^2 = 4$. All values match the table.",
@@ -23,31 +23,8 @@
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/fb608a8a/1-ff548264e5bbd4bc.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/fb608a8a/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/fb608a8a/3-d3f8243cb1e3bf96.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/fb608a8a/4-c778975e96b5027c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/fb608a8a/5-33d8b50ec4c05a40.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/fb608a8a/6-3912c040ece37626.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/fb608a8a/7-3dc233dbb7bb32af.png"
+      "path": "data/capture-assets/fb608a8a/1-ff548264e5bbd4bc.png",
+      "kind": "diagram"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "d8492f1f",
-  "capturedAt": "2026-11-10T00:04:56.113Z",
+  "capturedAt": "2026-11-10T02:57:49.901Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,68 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe given equation models a café's weekly customer visits, where\n[Figure 2]\nis the estimated number of customer visits\n[Figure 3]\nweeks after the end of March\n[Figure 4]\n, where\n[Figure 5]\n. Which statement is the best interpretation of the y-intercept of the graph of this equation in the xy-plane?",
+  "prompt": "$$y = -\\frac{1}{2}x^{2} + 3x + 42$$\n\nThe given equation models a café's weekly customer visits, where $y$ is the estimated number of customer visits $x$ weeks after the end of March $2015$, where $0 \\le x \\le 6$. Which statement is the best interpretation of the y-intercept of the graph of this equation in the xy-plane?",
   "choices": {
-    "A": "At the end of March\n[Figure 6]\n, the estimated number of customer visits was\n[Figure 7]\n.",
-    "B": "At the end of March\n[Figure 8]\n, the estimated number of customer visits was\n[Figure 9]\n.",
-    "C": "At the end of April\n[Figure 10]\n, the estimated number of customer visits was\n[Figure 11]\n.",
-    "D": "At the end of April\n[Figure 12]\n, the estimated number of customer visits was\n[Figure 13]\n."
+    "A": "At the end of March $2015$, the estimated number of customer visits was $0$.",
+    "B": "At the end of March $2015$, the estimated number of customer visits was $42$.",
+    "C": "At the end of April $2015$, the estimated number of customer visits was $0$.",
+    "D": "At the end of April $2015$, the estimated number of customer visits was $42$."
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. The y-intercept of a graph in the xy-plane is the point where $x = 0$. Substituting $0$ for $x$ in the given equation yields $y = -\\frac{1}{2}(0)^{2} + 3(0) + 42$, or $y = 42$. Therefore, the y-intercept of the graph is $(0, 42)$. It's given that $y$ is the estimated number of customer visits $x$ weeks after the end of March $2015$. Therefore, $x = 0$ represents $0$ weeks after the end of March $2015$, or the end of March $2015$. Thus, the best interpretation of the y-intercept of the graph of this equation in the xy-plane is that at the end of March $2015$, the estimated number of customer visits was $42$.",
   "source": "https://cooksat.com/practice?questionId=d8492f1f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/d8492f1f/1-013c491dd38c3faf.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/d8492f1f/2-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/d8492f1f/3-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/d8492f1f/4-04765d4440c7f060.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/d8492f1f/5-8aed6ae3f1308580.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/d8492f1f/6-26ee943126f96a9d.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/d8492f1f/7-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/d8492f1f/8-26ee943126f96a9d.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/d8492f1f/9-9f94af0252f3983f.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/d8492f1f/10-26ee943126f96a9d.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/d8492f1f/11-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/d8492f1f/12-26ee943126f96a9d.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/d8492f1f/13-9f94af0252f3983f.png"
-    }
-  ]
+  "images": []
 }

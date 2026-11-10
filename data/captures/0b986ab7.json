@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "0b986ab7",
-  "capturedAt": "2026-11-09T23:22:48.945Z",
+  "capturedAt": "2026-11-10T02:51:05.856Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,56 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A biologist observed that\n[Figure 1]\nzebra mussels were introduced to a lake in\n[Figure 2]\n. Over the following decades, the population grew, and this growth can be modeled as an\n[Figure 3]\nincrease, on average, in the population each year. Which of the following functions best models the population\n[Figure 4]\nof zebra mussels\n[Figure 5]\nyears after\n[Figure 6]\n?",
+  "prompt": "A biologist observed that $15$ zebra mussels were introduced to a lake in $1995$. Over the following decades, the population grew, and this growth can be modeled as an $8.4%$ increase, on average, in the population each year. Which of the following functions best models the population $q(t)$ of zebra mussels $t$ years after $1995$?",
   "choices": {
-    "A": "[Figure 7]",
-    "B": "[Figure 8]",
-    "C": "[Figure 9]",
-    "D": "[Figure 10]"
+    "A": "$q(t) = 1.084 \\times 15^t$",
+    "B": "$q(t) = 15 \\times 2^{1.084} t$",
+    "C": "$q(t) = 15 \\times 1.084^t$",
+    "D": "$q(t) = (15 \\times 1.084)^t$"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. An exponential growth model has the form $q(t) = A \\times (1 + r)^{t}$, where $A$ is the initial population and $r$ is the yearly growth rate written as a decimal. Since there were $15$ zebra mussels in the lake in $1995$, $A = 15$. Since the population increased by an average of $8.4\\%$ per year, $r = 0.084$ and $1 + r = 1.084$. Therefore, the function that best models this situation is $q(t) = 15 \\times 1.084^{t}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and results from treating $1.084$ as a factor in the exponent of base $2$, which does not represent an $8.4\\%$ yearly increase.",
   "source": "https://cooksat.com/practice?questionId=0b986ab7&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/0b986ab7/1-7c844502ae5963ab.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/0b986ab7/2-3c0f3446946f4df6.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/0b986ab7/3-cf7b3c23cbf43718.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/0b986ab7/4-3d565d6b9555cc2c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/0b986ab7/5-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/0b986ab7/6-3c0f3446946f4df6.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/0b986ab7/7-aff1e15a9f81531f.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/0b986ab7/8-6a7f57a95b57bdf5.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/0b986ab7/9-4a5b89c4f536460d.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/0b986ab7/10-9ec01f30066497de.png"
-    }
-  ]
+  "images": []
 }

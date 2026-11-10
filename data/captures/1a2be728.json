@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "1a2be728",
-  "capturedAt": "2026-11-09T23:25:51.853Z",
+  "capturedAt": "2026-11-10T02:51:31.872Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A biologist is monitoring yeast cells in a fermentation tank. At the start of the experiment, there were\n[Figure 1]\ncells per milliliter. The number of cells per milliliter doubles every\n[Figure 2]\nhours. How many cells per milliliter will there be\n[Figure 3]\nhours after the start of the experiment?",
+  "prompt": "A biologist is monitoring yeast cells in a fermentation tank. At the start of the experiment, there were $40,000$ cells per milliliter. The number of cells per milliliter doubles every $4$ hours. How many cells per milliliter will there be $24$ hours after the start of the experiment?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$240,000$",
+    "B": "$480,000$",
+    "C": "$1,920,000$",
+    "D": "$2,560,000$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. Let $y$ represent the number of cells per milliliter $x$ hours after the start of the experiment. Since the number of cells per milliliter doubles every $4$ hours, the relationship between $x$ and $y$ can be represented by an exponential equation of the form $y = a\\left(b\\right)^{\\frac{x}{k}}$, where $a$ is the initial number of cells per milliliter, the count increases by a factor of $b$, and $k$ is the number of hours for one doubling. It's given that $a = 40{,}000$, $b = 2$, and $k = 4$. Substituting these values yields $y = 40{,}000\\left(2\\right)^{\\frac{x}{4}}$. Substituting $24$ for $x$ yields $y = 40{,}000\\left(2\\right)^{\\frac{24}{4}}$, or $y = 40{,}000\\left(2\\right)^{6}$. This is equivalent to $y = 40{,}000\\left(64\\right)$, or $y = 2{,}560{,}000$. Therefore, $24$ hours after the start of the experiment, there will be $2{,}560{,}000$ cells per milliliter.",
   "source": "https://cooksat.com/practice?questionId=1a2be728&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/1a2be728/1-2e568018d81b25aa.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/1a2be728/2-17e692bc2178579f.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/1a2be728/3-e29a1c9b54ae7aa8.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/1a2be728/4-39966f7e129bdf70.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/1a2be728/5-12f553eaf586a69a.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/1a2be728/6-394e3093d10da998.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/1a2be728/7-6626c079b9f6d9b6.png"
-    }
-  ]
+  "images": []
 }

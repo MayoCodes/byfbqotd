@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "e3d192f2",
-  "capturedAt": "2026-11-10T00:06:37.537Z",
+  "capturedAt": "2026-11-10T02:58:13.100Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,7 +10,7 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\ngives the estimated number of weeds in a garden plot, where\n[Figure 2]\nis the number of weeks since the plot was first measured. Which of the following is the best interpretation of the number\n[Figure 3]\nin this context?",
+  "prompt": "The function $N(w) = 12(1.25)^w$ gives the estimated number of weeds in a garden plot, where $w$ is the number of weeks since the plot was first measured. Which of the following is the best interpretation of the number $12$ in this context?",
   "choices": {
     "A": "The estimated number of weeds when the plot was first measured",
     "B": "The increase in the estimated number of weeds each week",
@@ -18,20 +18,7 @@
     "D": "The percent increase in the estimated number of weeds each week"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. For an exponential function of the form $N(w) = a(b)^{w}$, where $a$ and $b$ are constants, the initial value of the function—the value when $w = 0$—is $a$, and the value is multiplied by $b$ each time $w$ increases by $1$. Since $N(w) = 12(1.25)^{w}$ gives the estimated number of weeds in the plot and $w$ is the number of weeks since the plot was first measured, evaluating at $w = 0$ gives $N(0) = 12(1.25)^{0} = 12$. Therefore, the best interpretation of the number $12$ is the estimated number of weeds when the plot was first measured.",
+  "explanation": "Choice A is correct. For an exponential function of the form $N(w) = a(b)^{w}$, where $a$ and $b$ are constants, the initial value of the function—the value when $w = 0$—is $a$, and the value is multiplied by $b$ each time $w$ increases by $1$. Since $N(w) = 12(1.25)^{w}$ gives the estimated number of weeds in the plot and $w$ is the number of weeks since the plot was first measured, evaluating at $w = 0$ gives $N(0) = 12(1.25)^{0} = 12$. Therefore, the best interpretation of the number $12$ is the estimated number of weeds when the plot was first measured.\n\nWhy D is incorrect:\n\nChoice D is incorrect. The percent increase each week is determined by the base $1.25$, which corresponds to a $25\\%$ increase per week. The number $12$ represents the initial number of weeds, not a percent change.",
   "source": "https://cooksat.com/practice?questionId=e3d192f2&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/e3d192f2/1-67cec0429b59f0d2.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/e3d192f2/2-5be1746c6339c76d.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/e3d192f2/3-f8b7ac329ceccfb3.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "9c56fb4f",
-  "capturedAt": "2026-11-09T23:58:45.151Z",
+  "capturedAt": "2026-11-10T02:56:06.270Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -12,10 +12,10 @@
   "passage": "",
   "prompt": "[Figure 1]\n\nThe graph of a quadratic function is shown. What is the vertex of this graph?",
   "choices": {
-    "A": "[Figure 2]",
-    "B": "[Figure 3]",
-    "C": "[Figure 4]",
-    "D": "[Figure 5]"
+    "A": "$(-7,1)$",
+    "B": "$(-3,-3)$",
+    "C": "$(1,-7)$",
+    "D": "$(7,1)$"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. The graph shows a parabola that opens upward. The vertex of a parabola is the point where the parabola changes direction - for an upward-opening parabola, this is the lowest point on the graph. From the graph, the lowest point of the parabola is at the coordinates $(-3,-3)$, which is the vertex.",
@@ -23,23 +23,8 @@
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/9c56fb4f/1-a53a6a472a566009.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/9c56fb4f/2-962d42125851f26c.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/9c56fb4f/3-2cd540a8b25b36f8.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/9c56fb4f/4-88702c9afbb33ca9.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/9c56fb4f/5-810aa4f4c9dcf536.png"
+      "path": "data/capture-assets/9c56fb4f/1-7c40e485cf8adb1e.png",
+      "kind": "diagram"
     }
   ]
 }

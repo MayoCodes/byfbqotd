@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "2ada95b3",
-  "capturedAt": "2026-11-09T23:44:35.548Z",
+  "capturedAt": "2026-11-10T02:51:58.257Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,48 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A blog post had\n[Figure 1]\ncomments when it was first published. Each hour after publication, the number of comments increased by\n[Figure 2]\nof the number of comments from the previous hour. Which equation best represents this model, where\n[Figure 3]\nis the number of comments\n[Figure 4]\nhours after publication?",
+  "prompt": "A blog post had $35$ comments when it was first published. Each hour after publication, the number of comments increased by $220%$ of the number of comments from the previous hour. Which equation best represents this model, where $N$ is the number of comments $h$ hours after publication?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$N = 35(1.22)^h$",
+    "B": "$N = 35(2.2)^h$",
+    "C": "$N = 35(2.22)^h$",
+    "D": "$N = 35(3.2)^h$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. The initial number of comments is $35$, so the model has the form $N = 35 \\cdot a^h$. An increase of $220\\%$ means the number of new comments each hour is $2.2$ times the previous total. The total after each hour is the original plus the increase: $1 + 2.2 = 3.2$ times the previous hour's comments. Therefore, the growth factor is $3.2$, and the equation is $N = 35(3.2)^h$.",
   "source": "https://cooksat.com/practice?questionId=2ada95b3&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/2ada95b3/1-b26ba5c065ba796c.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/2ada95b3/2-856519db8a19d42d.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/2ada95b3/3-6001ca56a4f2724b.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/2ada95b3/4-3ab7f85bcf8aa223.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/2ada95b3/5-7a2b148c4af42119.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/2ada95b3/6-3c02b4a49989ce1a.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/2ada95b3/7-85bdd1862fa2ef81.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/2ada95b3/8-889a329f2ae495a1.png"
-    }
-  ]
+  "images": []
 }

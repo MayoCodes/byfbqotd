@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "2f656f47",
-  "capturedAt": "2026-11-09T23:45:13.419Z",
+  "capturedAt": "2026-11-10T02:52:06.737Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,39 +10,10 @@
   "difficulty": "Medium",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nis defined by the equation above. For what value of\n[Figure 3]\ndoes\n[Figure 4]\nreach its minimum?\n\n[Figure 5]\n\n[Figure 6]",
+  "prompt": "$$g(x)=(x-3)(x+11)$$\n\nThe function $g$ is defined by the equation above. For what value of $x$ does $g(x)$ reach its minimum?\n\n$$0$$\n\n$$-4$$",
   "choices": {},
-  "correctAnswer": "[Figure 7]",
+  "correctAnswer": "$-4$",
   "explanation": "The correct answer is $-4$. The function $g(x)=(x-3)(x+11)$ is a parabola opening upward, so its minimum occurs at the vertex. The $x$-coordinate of the vertex is the midpoint of the $x$-intercepts. Since $g(x)=(x-3)(x+11)$, the $x$-intercepts are $x=3$ and $x=-11$. The midpoint is $\\frac{3+(-11)}{2}=\\frac{-8}{2}=-4$. Alternatively, expanding gives $g(x)=x^{2}+8x-33$. Completing the square: $g(x)=(x+4)^{2}-49$, showing the vertex at $x=-4$.",
   "source": "https://cooksat.com/practice?questionId=2f656f47&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/2f656f47/1-9148e744f3e88c1e.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/2f656f47/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/2f656f47/3-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/2f656f47/4-d3f8243cb1e3bf96.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/2f656f47/5-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/2f656f47/6-75cefb79be0e251b.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/2f656f47/7-0cf77cb5b3497348.png"
-    }
-  ]
+  "images": []
 }

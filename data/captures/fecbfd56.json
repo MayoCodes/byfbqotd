@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "fecbfd56",
-  "capturedAt": "2026-11-10T00:09:45.269Z",
+  "capturedAt": "2026-11-10T02:59:07.419Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,56 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nestimates a package's height, in feet, above the ground\n[Figure 3]\nseconds after the package is dropped, where\n[Figure 4]\nis a constant. The function estimates that the package is\n[Figure 5]\nfeet above the ground when it is dropped at\n[Figure 6]\n. Approximately how many seconds after being dropped does the function estimate the package will hit the ground?",
+  "prompt": "$$g(t) = -16t^{2} + c$$\n\nThe function $g$ estimates a package's height, in feet, above the ground $t$ seconds after the package is dropped, where $c$ is a constant. The function estimates that the package is $1,296$ feet above the ground when it is dropped at $t = 0$. Approximately how many seconds after being dropped does the function estimate the package will hit the ground?",
   "choices": {
-    "A": "[Figure 7]",
-    "B": "[Figure 8]",
-    "C": "[Figure 9]",
-    "D": "[Figure 10]"
+    "A": "$4.5$",
+    "B": "$9$",
+    "C": "$81$",
+    "D": "$648$"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. It's given that the function $g$ estimates that the package is $1{,}296$ feet above the ground when it's dropped at $t = 0$. Substituting $1{,}296$ for $g(t)$ and $0$ for $t$ in the function yields $1{,}296 = -16(0)^{2} + c$, or $c = 1{,}296$. Therefore, $g(t) = -16t^{2} + 1{,}296$. When the package hits the ground, its height will be $0$ feet. Substituting $0$ for $g(t)$ yields $0 = -16t^{2} + 1{,}296$. Adding $16t^{2}$ to both sides gives $16t^{2} = 1{,}296$. Dividing both sides by $16$ gives $t^{2} = 81$. Taking the positive square root yields $t = 9$. The function estimates the package will hit the ground approximately $9$ seconds after being dropped.",
   "source": "https://cooksat.com/practice?questionId=fecbfd56&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/fecbfd56/1-397a9a81619ca90f.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/fecbfd56/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/fecbfd56/3-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/fecbfd56/4-fa4e73aef0bcf693.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/fecbfd56/5-54ecc14571ce776a.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/fecbfd56/6-6789d490aa989b2a.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/fecbfd56/7-fb86959fee1edc6f.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/fecbfd56/8-42e42729df9aea5a.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/fecbfd56/9-1ac84130f91a4816.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/fecbfd56/10-0076c1932182d347.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "71a6ad5b",
-  "capturedAt": "2026-11-09T23:53:57.405Z",
+  "capturedAt": "2026-11-10T02:54:36.153Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -12,34 +12,19 @@
   "passage": "",
   "prompt": "[Figure 1]\n\nWhat is the y-intercept of the graph shown?",
   "choices": {
-    "A": "[Figure 2]",
-    "B": "[Figure 3]",
-    "C": "[Figure 4]",
-    "D": "[Figure 5]"
+    "A": "$(-4,0)$",
+    "B": "$(-2,0)$",
+    "C": "$(0,-4)$",
+    "D": "$(0,-2)$"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. The y-intercept of a graph in the xy-plane is the point $(x, y)$ on the graph where $x = 0$. The graph shown crosses the y-axis at the point $(0, -2)$. Therefore, the y-intercept of the graph shown is $(0, -2)$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This point has a y-coordinate of $0$, which would correspond to an x-intercept, not a y-intercept. Additionally, $-4$ is the value of the horizontal asymptote, not an x-intercept.",
+  "explanation": "Choice D is correct. The y-intercept of a graph in the xy-plane is the point $(x, y)$ on the graph where $x = 0$. The graph shown crosses the y-axis at the point $(0, -2)$. Therefore, the y-intercept of the graph shown is $(0, -2)$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from reversing the coordinates of the y-intercept. The y-intercept occurs where $x = 0$, so the correct form is $(0, -2)$, not $(-2, 0)$.",
   "source": "https://cooksat.com/practice?questionId=71a6ad5b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/71a6ad5b/1-8138e962211a1751.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/71a6ad5b/2-ad6ea7e64bea4dd9.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/71a6ad5b/3-6cdb25c98fb35c09.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/71a6ad5b/4-9edea1e71e2a6c0e.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/71a6ad5b/5-e9dc0ca329ba323c.png"
+      "path": "data/capture-assets/71a6ad5b/1-a3f7a59bc7fb939c.png",
+      "kind": "diagram"
     }
   ]
 }

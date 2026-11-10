@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "366bfa7b",
-  "capturedAt": "2026-11-09T23:46:28.955Z",
+  "capturedAt": "2026-11-10T02:52:28.087Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,48 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A rectangle has a length of\n[Figure 1]\nunits and a width of\n[Figure 2]\nunits. If the rectangle has an area of\n[Figure 3]\nsquare units, what is the value of\n[Figure 4]\n?",
+  "prompt": "A rectangle has a length of $x$ units and a width of $( x - 12 )$ units. If the rectangle has an area of $85$ square units, what is the value of $x$?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$5$",
+    "B": "$17$",
+    "C": "$21$",
+    "D": "$85$"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. The area of a rectangle is equal to its length multiplied by its width. Multiplying the given length, $x$ units, by the given width, $\\left( x - 12 \\right)$ units, yields $x \\left( x - 12 \\right)$ square units. Since the rectangle has an area of $85$ square units, it follows that $x \\left( x - 12 \\right) = 85$, or $x^{2} - 12 x = 85$. Subtracting $85$ from both sides of this equation yields $x^{2} - 12 x - 85 = 0$. Factoring the left-hand side of this equation yields $\\left( x - 17 \\right) \\left( x + 5 \\right) = 0$. Applying the zero product property to this equation yields two solutions: $x = 17$ and $x = -5$. Since $x$ is the rectangle's length, in units, which must be positive, the value of $x$ is $17$.",
   "source": "https://cooksat.com/practice?questionId=366bfa7b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/366bfa7b/1-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/366bfa7b/2-338d866aa039a913.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/366bfa7b/3-226eb3f1aa8fa469.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/366bfa7b/4-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/366bfa7b/5-8fc3cfb4a4e6f37e.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/366bfa7b/6-51b1cd8252761b29.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/366bfa7b/7-137d6a65d33786cf.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/366bfa7b/8-b01876dd5f4ed244.png"
-    }
-  ]
+  "images": []
 }

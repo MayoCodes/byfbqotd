@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "777ad2ee",
-  "capturedAt": "2026-11-09T23:54:26.399Z",
+  "capturedAt": "2026-11-10T02:54:46.923Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,60 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nA biologist is monitoring a fish population in a lake following a habitat disturbance. The given function estimates this fish population\n[Figure 2]\nyears after\n[Figure 3]\n, where\n[Figure 4]\n. Which of the following is the best interpretation of\n[Figure 5]\nin this context?",
+  "prompt": "$$g ( x ) = 8,500 ( 0.82 )^x$$\n\nA biologist is monitoring a fish population in a lake following a habitat disturbance. The given function estimates this fish population $x$ years after $2012$, where $x \\le 6$. Which of the following is the best interpretation of $8,500$ in this context?",
   "choices": {
-    "A": "The estimated percent decrease in the fish population in the lake every\n[Figure 6]\nyears after\n[Figure 7]",
-    "B": "The estimated percent decrease in the fish population in the lake each year after\n[Figure 8]",
-    "C": "The estimated fish population in the lake\n[Figure 9]\nyears after\n[Figure 10]",
-    "D": "The estimated initial fish population in the lake in\n[Figure 11]"
+    "A": "The estimated percent decrease in the fish population in the lake every $6$ years after $2012$",
+    "B": "The estimated percent decrease in the fish population in the lake each year after $2012$",
+    "C": "The estimated fish population in the lake $6$ years after $2012$",
+    "D": "The estimated initial fish population in the lake in $2012$"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. Substituting $0$ for $x$ in the given equation yields $g \\left( 0 \\right) = 8{,}500 \\left( 0.82 \\right)^{0}$, which is equivalent to $g \\left( 0 \\right) = 8{,}500 \\left( 1 \\right)$, or $g \\left( 0 \\right) = 8{,}500$. It's given that the function estimates the fish population $x$ years after $2012$, so it follows that the estimated fish population is $8{,}500$ in $2012$. Therefore, the best interpretation of $8{,}500$ in this context is the estimated initial fish population in the lake in $2012$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The estimated percent decrease in the fish population in the lake each year after $2012$ is $18 \\%$, not $8{,}500$.",
+  "explanation": "Choice D is correct. Substituting $0$ for $x$ in the given equation yields $g \\left( 0 \\right) = 8{,}500 \\left( 0.82 \\right)^{0}$, which is equivalent to $g \\left( 0 \\right) = 8{,}500 \\left( 1 \\right)$, or $g \\left( 0 \\right) = 8{,}500$. It's given that the function estimates the fish population $x$ years after $2012$, so it follows that the estimated fish population is $8{,}500$ in $2012$. Therefore, the best interpretation of $8{,}500$ in this context is the estimated initial fish population in the lake in $2012$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from conceptual errors.",
   "source": "https://cooksat.com/practice?questionId=777ad2ee&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/777ad2ee/1-3698acb0f536b486.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/777ad2ee/2-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/777ad2ee/3-b95ba290493ccce3.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/777ad2ee/4-aab3e1c6c92d80cc.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/777ad2ee/5-b66354767bd42025.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/777ad2ee/6-29603e33b822ff16.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/777ad2ee/7-501cac7f3131fe95.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/777ad2ee/8-501cac7f3131fe95.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/777ad2ee/9-29603e33b822ff16.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/777ad2ee/10-501cac7f3131fe95.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/777ad2ee/11-501cac7f3131fe95.png"
-    }
-  ]
+  "images": []
 }

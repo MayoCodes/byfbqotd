@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "a54ed321",
-  "capturedAt": "2026-11-09T23:59:27.028Z",
+  "capturedAt": "2026-11-10T02:56:18.026Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,35 +10,16 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe x-intercept of the graph shown is\n[Figure 2]\n. What is the value of\n[Figure 3]\n?\n\n[Figure 4]\n\n[Figure 5]",
+  "prompt": "[Figure 1]\n\nThe x-intercept of the graph shown is $( x, 0 )$. What is the value of $x$?\n\n$$0$$\n\n$$5$$",
   "choices": {},
-  "correctAnswer": "[Figure 6]",
+  "correctAnswer": "$5$",
   "explanation": "The correct answer is $5$. It's given that the x-intercept of the graph shown is $\\left( x, 0 \\right)$. The graph passes through the point $\\left( 5, 0 \\right)$. Therefore, the value of $x$ is $5$.",
   "source": "https://cooksat.com/practice?questionId=a54ed321&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/a54ed321/1-bc57e92b19e4236f.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/a54ed321/2-73abff671192b43c.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/a54ed321/3-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/a54ed321/4-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/a54ed321/5-8fc3cfb4a4e6f37e.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/a54ed321/6-4ba1164649b6fcb7.png"
+      "path": "data/capture-assets/a54ed321/1-1351137044aa8be5.png",
+      "kind": "diagram"
     }
   ]
 }

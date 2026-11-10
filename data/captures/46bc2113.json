@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "46bc2113",
-  "capturedAt": "2026-11-09T23:48:38.828Z",
+  "capturedAt": "2026-11-10T02:53:05.936Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,35 +10,10 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "A research diving bell is used for marine studies. The function\n[Figure 1]\ngives the depth below the surface of the ocean, in meters, of the diving bell\n[Figure 2]\nminutes after beginning its descent, where\n[Figure 3]\n. How many minutes after beginning its descent did the diving bell return to the surface of the ocean?\n\n[Figure 4]\n\n[Figure 5]",
+  "prompt": "A research diving bell is used for marine studies. The function $h(x) = -\\frac{1}{(70)}(x + 23)(x - 42)$ gives the depth below the surface of the ocean, in meters, of the diving bell $x$ minutes after beginning its descent, where $x > 0$. How many minutes after beginning its descent did the diving bell return to the surface of the ocean?\n\n$$0$$\n\n$$42$$",
   "choices": {},
-  "correctAnswer": "[Figure 6]",
+  "correctAnswer": "$42$",
   "explanation": "The correct answer is $42$. It's given that the function $h(x) = -\\frac{1}{70}(x + 23)(x - 42)$ gives the depth below the surface of the ocean, in meters, of the diving bell $x$ minutes after beginning its descent, where $x > 0$. When the diving bell is at the surface of the ocean, the value of $h(x)$ is $0$. Substituting $0$ for $h(x)$ yields $0 = -\\frac{1}{70}(x + 23)(x - 42)$. Multiplying both sides by $-70$ gives $0 = (x + 23)(x - 42)$. Since a product of two factors equals $0$ if and only if at least one factor is $0$, either $x + 23 = 0$ or $x - 42 = 0$, so $x = -23$ or $x = 42$. Since $x > 0$, the diving bell returned to the surface $42$ minutes after beginning its descent.",
   "source": "https://cooksat.com/practice?questionId=46bc2113&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/46bc2113/1-cec0c4c3d512141d.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/46bc2113/2-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/46bc2113/3-fef1251b45ac80f4.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/46bc2113/4-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/46bc2113/5-9f94af0252f3983f.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/46bc2113/6-f13cb022aafb0369.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "27cf0d80",
-  "capturedAt": "2026-11-09T23:44:30.030Z",
+  "capturedAt": "2026-11-10T02:51:56.821Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,12 +10,12 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph of the quadratic function\n[Figure 2]\nis shown. What is the\n[Figure 3]\n-intercept of the graph of\n[Figure 4]\n?",
+  "prompt": "[Figure 1]\n\nThe graph of the quadratic function $f$ is shown. What is the $y$-intercept of the graph of $f$?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$(-sqrt(3), 0)$",
+    "B": "$(0, -3)$",
+    "C": "$(0, 3)$",
+    "D": "$(sqrt(3), 0)$"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. The $y$-intercept is the point where the graph crosses the $y$-axis. The graph shows that the parabola crosses the $y$-axis at $(0, 3)$.",
@@ -23,35 +23,8 @@
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/27cf0d80/1-eb36435f1656d9f1.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/27cf0d80/2-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/27cf0d80/3-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/27cf0d80/4-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/27cf0d80/5-6f6f9a383d1f8866.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/27cf0d80/6-f845e6998f40da8a.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/27cf0d80/7-3f399f1518c8507c.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/27cf0d80/8-2f5a82d4fca28d53.png"
+      "path": "data/capture-assets/27cf0d80/1-f32d5907683c8dc9.png",
+      "kind": "diagram"
     }
   ]
 }

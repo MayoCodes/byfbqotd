@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "b63f0114",
-  "capturedAt": "2026-11-10T00:01:10.771Z",
+  "capturedAt": "2026-11-10T02:56:46.469Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,35 +10,10 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?\n\n[Figure 4]\n\n[Figure 5]",
+  "prompt": "The function $g$ is defined by $g(x) = x^{3} + 14$. What is the value of $g(3)$?\n\n$$0$$\n\n$$41$$",
   "choices": {},
-  "correctAnswer": "[Figure 6]",
+  "correctAnswer": "$41$",
   "explanation": "The correct answer is $41$. The value of $g(3)$ is the value of $g(x)$ when $x = 3$. Substituting $3$ for $x$ in the given equation yields $g(3) = 3^{3} + 14$, which is equivalent to $g(3) = 27 + 14$, or $g(3) = 41$. Thus, the value of $g(3)$ is $41$.",
   "source": "https://cooksat.com/practice?questionId=b63f0114&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/b63f0114/1-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/b63f0114/2-888ea01597861eea.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/b63f0114/3-c071a3816e73065d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/b63f0114/4-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/b63f0114/5-7295dad3182e2de4.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/b63f0114/6-68de516a3a6beb18.png"
-    }
-  ]
+  "images": []
 }

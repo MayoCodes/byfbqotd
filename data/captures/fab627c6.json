@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "fab627c6",
-  "capturedAt": "2026-11-10T00:09:01.339Z",
+  "capturedAt": "2026-11-10T02:58:53.296Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,7 +10,7 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A rectangle has a length that is\n[Figure 1]\ntimes its width. The function\n[Figure 2]\nrepresents this situation, where\n[Figure 3]\nis the area, in square meters, of the rectangle and\n[Figure 4]\n. Which of the following is the best interpretation of\n[Figure 5]\nin this context?",
+  "prompt": "A rectangle has a length that is $8$ times its width. The function $y = (8p)(p)$ represents this situation, where $y$ is the area, in square meters, of the rectangle and $y > 0$. Which of the following is the best interpretation of $8p$ in this context?",
   "choices": {
     "A": "The area of the rectangle, in square meters",
     "B": "The difference between the length and the width of the rectangle, in meters",
@@ -20,26 +20,5 @@
   "correctAnswer": "C",
   "explanation": "Choice C is correct. It's given that a rectangle has a length that is $8$ times its width and that the function $y = (8p)(p)$ represents this situation, where $y$ is the area, in square meters, of the rectangle. The area of a rectangle is calculated by multiplying its length by its width. Since the length is $8$ times the width, it follows that $p$ represents the width of the rectangle, in meters, and $8p$ represents the length of the rectangle, in meters. Therefore, the best interpretation of $8p$ in this context is the length of the rectangle, in meters.",
   "source": "https://cooksat.com/practice?questionId=fab627c6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/fab627c6/1-7a88e37fc6073da8.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/fab627c6/2-1f9ab951ccd5ffba.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/fab627c6/3-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/fab627c6/4-0bd7d1b527226aeb.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/fab627c6/5-2b388b99e79cb9d9.png"
-    }
-  ]
+  "images": []
 }

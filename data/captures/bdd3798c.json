@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "bdd3798c",
-  "capturedAt": "2026-11-10T00:02:06.951Z",
+  "capturedAt": "2026-11-10T02:57:02.715Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,48 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A scientist is growing two bacteria cultures. Culture A begins with\n[Figure 1]\nbacteria and increases by\n[Figure 2]\neach hour. Culture B begins with\n[Figure 3]\nbacteria and increases by\n[Figure 4]\neach hour. What is the minimum number of hours after which Culture B will contain more bacteria than Culture A?",
+  "prompt": "A scientist is growing two bacteria cultures. Culture A begins with $200$ bacteria and increases by $15%$ each hour. Culture B begins with $150$ bacteria and increases by $20%$ each hour. What is the minimum number of hours after which Culture B will contain more bacteria than Culture A?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$6$",
+    "B": "$7$",
+    "C": "$8$",
+    "D": "$9$"
   },
   "correctAnswer": "B",
   "explanation": "After $t$ hours, Culture A contains $200(1.15)^t$ bacteria and Culture B contains $150(1.20)^t$ bacteria. At $t = 6$: Culture A has $200(1.15)^6 \\approx 462.6$ and Culture B has $150(1.20)^6 \\approx 447.9$, so Culture A still has more. At $t = 7$: Culture A has $200(1.15)^7 \\approx 532.0$ and Culture B has $150(1.20)^7 \\approx 537.5$, so Culture B first exceeds Culture A after $7$ hours.",
   "source": "https://cooksat.com/practice?questionId=bdd3798c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/bdd3798c/1-1da568d408674dbb.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/bdd3798c/2-74a0e8577776ab17.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/bdd3798c/3-1f4d4cb24a66a2c7.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/bdd3798c/4-b5f8b08af6314004.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/bdd3798c/5-29603e33b822ff16.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/bdd3798c/6-16e568e0f0916744.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/bdd3798c/7-f4f34a91ada02fa5.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/bdd3798c/8-42e42729df9aea5a.png"
-    }
-  ]
+  "images": []
 }

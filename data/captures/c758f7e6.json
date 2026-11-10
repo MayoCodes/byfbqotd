@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "c758f7e6",
-  "capturedAt": "2026-11-10T00:03:16.123Z",
+  "capturedAt": "2026-11-10T02:57:25.375Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,67 +10,10 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "A quadratic function gives the estimated water temperature\n[Figure 1]\n, in degrees Fahrenheit, of a lake\n[Figure 2]\nweeks after April\n[Figure 3]\n, where\n[Figure 4]\n. According to the function, the estimated water temperature is\n[Figure 5]\ndegrees Fahrenheit\n[Figure 6]\nweeks after April\n[Figure 7]\nand the maximum estimated water temperature is\n[Figure 8]\ndegrees Fahrenheit\n[Figure 9]\nweeks after April\n[Figure 10]\n. Based on this function, what is the estimated water temperature, in degrees Fahrenheit, on April\n[Figure 11]\n?\n\n[Figure 12]\n\n[Figure 13]",
+  "prompt": "A quadratic function gives the estimated water temperature $h(t)$, in degrees Fahrenheit, of a lake $t$ weeks after April $1$, where $0 < t \\le 9$. According to the function, the estimated water temperature is $90.9$ degrees Fahrenheit $7$ weeks after April $1$ and the maximum estimated water temperature is $92.4$ degrees Fahrenheit $4.5$ weeks after April $1$. Based on this function, what is the estimated water temperature, in degrees Fahrenheit, on April $1$?\n\n$$0$$\n\n$$87.54$$",
   "choices": {},
-  "correctAnswer": "[Figure 14]",
+  "correctAnswer": "$87.54$",
   "explanation": "The correct answer is $87.54$. The quadratic function $h$ gives the estimated water temperature, $h(t)$, in degrees Fahrenheit, $t$ weeks after April $1$. It's given that the maximum estimated water temperature is $92.4$ degrees Fahrenheit $4.5$ weeks after April $1$. Therefore, function $h$ can be expressed in vertex form as $h(t) = a(t - 4.5)^{2} + 92.4$, where $a$ is a constant. Since it's also given that the estimated water temperature is $90.9$ degrees Fahrenheit $7$ weeks after April $1$, $h(7) = 90.9$. Substituting $7$ for $t$ and $90.9$ for $h(t)$ in $h(t) = a(t - 4.5)^{2} + 92.4$ yields $90.9 = a(7 - 4.5)^{2} + 92.4$, or $90.9 = 6.25a + 92.4$. Subtracting $92.4$ from both sides gives $6.25a = -1.5$. Dividing both sides by $6.25$ gives $a = -0.24$. Substituting $-0.24$ for $a$ in $h(t) = a(t - 4.5)^{2} + 92.4$ gives $h(t) = -0.24(t - 4.5)^{2} + 92.4$. The estimated water temperature on April $1$ corresponds to $t = 0$. Substituting $0$ for $t$ gives $h(0) = -0.24(0 - 4.5)^{2} + 92.4 = -0.24(20.25) + 92.4 = -4.86 + 92.4 = 87.54$. Therefore, the estimated water temperature on April $1$ is $87.54$ degrees Fahrenheit.",
   "source": "https://cooksat.com/practice?questionId=c758f7e6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/c758f7e6/1-4b7d754f6bcc019d.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/c758f7e6/2-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/c758f7e6/3-9de044b2f5fd2973.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/c758f7e6/4-e588c320f5f24814.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/c758f7e6/5-fbae5a90efccb63d.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/c758f7e6/6-0f673374db83edc0.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/c758f7e6/7-9de044b2f5fd2973.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/c758f7e6/8-fdd10ec5ec31514c.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/c758f7e6/9-4aa0a98d7a0000ba.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/c758f7e6/10-9de044b2f5fd2973.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/c758f7e6/11-9de044b2f5fd2973.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/c758f7e6/12-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/c758f7e6/13-f15df93febd7b7e0.png"
-    },
-    {
-      "label": "Figure 14",
-      "path": "data/capture-assets/c758f7e6/14-9d36cab109e4eea5.png"
-    }
-  ]
+  "images": []
 }

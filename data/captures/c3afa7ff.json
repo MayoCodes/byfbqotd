@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "c3afa7ff",
-  "capturedAt": "2026-11-10T00:02:44.976Z",
+  "capturedAt": "2026-11-10T02:57:14.870Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,59 +10,10 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nIn the\n[Figure 2]\n-plane, the graph of the function\n[Figure 3]\n, where\n[Figure 4]\n, is shifted down 4 units to produce the graph of function\n[Figure 5]\n. If the graph of\n[Figure 6]\npasses through the point\n[Figure 7]\n, where\n[Figure 8]\nis a constant, what is the value of\n[Figure 9]\n?\n\n[Figure 10]\n\n[Figure 11]",
+  "prompt": "$$f(x) = (x + 2)(x - 1)(x + 3)$$\n\nIn the $xy$-plane, the graph of the function $f$, where $y = f(x)$, is shifted down 4 units to produce the graph of function $g$. If the graph of $y = g(x)$ passes through the point $(2, b)$, where $b$ is a constant, what is the value of $b$?\n\n$$0$$\n\n$$16$$",
   "choices": {},
-  "correctAnswer": "[Figure 12]",
+  "correctAnswer": "$16$",
   "explanation": "The correct answer is $16$. Shifting the graph of $y = f(x)$ down 4 units gives $g(x) = f(x) - 4 = (x + 2)(x - 1)(x + 3) - 4$. Substituting $x = 2$: $g(2) = (2 + 2)(2 - 1)(2 + 3) - 4 = (4)(1)(5) - 4 = 20 - 4 = 16$. Therefore, the value of $b$ is $16$.",
   "source": "https://cooksat.com/practice?questionId=c3afa7ff&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/c3afa7ff/1-98b145825e82bd90.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/c3afa7ff/2-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/c3afa7ff/3-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/c3afa7ff/4-8dfb98eeaa92843f.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/c3afa7ff/5-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/c3afa7ff/6-a370960d94a8b7e2.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/c3afa7ff/7-15817cf5acf7ad4f.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/c3afa7ff/8-4be9145fc6402fea.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/c3afa7ff/9-4be9145fc6402fea.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/c3afa7ff/10-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/c3afa7ff/11-1158988890b56c17.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/c3afa7ff/12-9184a2c31175f2d3.png"
-    }
-  ]
+  "images": []
 }

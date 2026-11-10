@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "6907df50",
-  "capturedAt": "2026-11-09T23:52:57.862Z",
+  "capturedAt": "2026-11-10T02:54:17.425Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is\n[Figure 3]\n?",
+  "prompt": "The function $f$ is defined by $f(x)=x^{2}-6$. What is $f(2)$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$-6$",
+    "B": "$-2$",
+    "C": "$4$",
+    "D": "$10$"
   },
   "correctAnswer": "B",
   "explanation": "Substitute $x=2$ into the function: $f(2)=2^{2}-6=4-6=-2$.",
   "source": "https://cooksat.com/practice?questionId=6907df50&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/6907df50/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/6907df50/2-43f04d2b3a30c6fa.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/6907df50/3-eb345f267470f60c.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/6907df50/4-a0aadc6b8036f016.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/6907df50/5-c3f6ce48a3837614.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/6907df50/6-fcf7d75cfc7ff09c.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/6907df50/7-5dbe0cb8cacd5d34.png"
-    }
-  ]
+  "images": []
 }

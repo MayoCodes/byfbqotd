@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "ce36e102",
-  "capturedAt": "2026-11-10T00:04:12.846Z",
+  "capturedAt": "2026-11-10T02:57:39.631Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,39 +10,16 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph of\n[Figure 2]\nis shown in the xy-plane. The value of\n[Figure 3]\nis an integer. What is the value of\n[Figure 4]\n?\n\n[Figure 5]\n\n[Figure 6]",
+  "prompt": "[Figure 1]\n\nThe graph of $y = g(x)$ is shown in the xy-plane. The value of $g(0)$ is an integer. What is the value of $g(0)$?\n\n$$0$$\n\n$$4$$",
   "choices": {},
-  "correctAnswer": "[Figure 7]",
+  "correctAnswer": "$4$",
   "explanation": "The correct answer is $4$. The value of $g(0)$ is the value of $y$ on the graph of $y = g(x)$ that corresponds with $x = 0$. It's given that the value of $g(0)$ is an integer. For the graph of $y = g(x)$ shown, when $x = 0$, the corresponding integer value of $y$ is $4$. Therefore, the value of $g(0)$ is $4$.",
   "source": "https://cooksat.com/practice?questionId=ce36e102&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/ce36e102/1-73be4f73c8617707.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/ce36e102/2-a370960d94a8b7e2.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/ce36e102/3-fa0a1e68d2934994.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/ce36e102/4-fa0a1e68d2934994.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/ce36e102/5-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/ce36e102/6-fcf7d75cfc7ff09c.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/ce36e102/7-43b01cfcfce5e3d4.png"
+      "path": "data/capture-assets/ce36e102/1-2b8a79b5ada66773.png",
+      "kind": "diagram"
     }
   ]
 }

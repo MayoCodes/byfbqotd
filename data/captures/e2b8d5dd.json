@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "e2b8d5dd",
-  "capturedAt": "2026-11-10T00:06:18.750Z",
+  "capturedAt": "2026-11-10T02:58:08.243Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,7 +10,7 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nIn the quadratic function above,\n[Figure 2]\nand\n[Figure 3]\nare constants. In the\n[Figure 4]\n-plane, the graph of\n[Figure 5]\nis a parabola that opens upward with vertex at\n[Figure 6]\n, where\n[Figure 7]\nand\n[Figure 8]\nare constants. If\n[Figure 9]\nand\n[Figure 10]\n, which of the following must be true?\n\nI.\n[Figure 11]\n\nII.\n[Figure 12]",
+  "prompt": "$$g(x) = px^{2} + 6x + q$$\n\nIn the quadratic function above, $p$ and $q$ are constants. In the $xy$-plane, the graph of $y = g(x)$ is a parabola that opens upward with vertex at $(h, k)$, where $h$ and $k$ are constants. If $k < 0$ and $g(-8) = g(4)$, which of the following must be true?\n\nI. $p \\ge 1$\n\nII. $q < 0$",
   "choices": {
     "A": "I only",
     "B": "II only",
@@ -18,56 +18,7 @@
     "D": "Neither I nor II"
   },
   "correctAnswer": "A",
-  "explanation": "Since $g(-8) = g(4)$, the $x$-coordinate of the vertex is halfway between $-8$ and $4$: $h = \\frac{-8 + 4}{2} = -2$. For $g(x) = px^2 + 6x + q$, the axis of symmetry is $x = -\\frac{6}{2p} = -\\frac{3}{p}$. Setting $-\\frac{3}{p} = -2$ gives $p = \\frac{3}{2}$. Since $\\frac{3}{2} \\geq 1$, statement I is true. Writing $g$ in vertex form: $q = 4p + k = 6 + k$. Since $k < 0$, the value of $q$ depends on $k$. If $k = -2$, then $q = 4 > 0$. If $k = -8$, then $q = -2 < 0$. Statement II is not necessarily true. Only I must be true.\n\nWhy D is incorrect:\n\nThis may result from an arithmetic error when solving for $p$ from the axis of symmetry equation.",
+  "explanation": "Since $g(-8) = g(4)$, the $x$-coordinate of the vertex is halfway between $-8$ and $4$: $h = \\frac{-8 + 4}{2} = -2$. For $g(x) = px^2 + 6x + q$, the axis of symmetry is $x = -\\frac{6}{2p} = -\\frac{3}{p}$. Setting $-\\frac{3}{p} = -2$ gives $p = \\frac{3}{2}$. Since $\\frac{3}{2} \\geq 1$, statement I is true. Writing $g$ in vertex form: $q = 4p + k = 6 + k$. Since $k < 0$, the value of $q$ depends on $k$. If $k = -2$, then $q = 4 > 0$. If $k = -8$, then $q = -2 < 0$. Statement II is not necessarily true. Only I must be true.",
   "source": "https://cooksat.com/practice?questionId=e2b8d5dd&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/e2b8d5dd/1-16c52b44f3451a76.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/e2b8d5dd/2-f07e748cf82e0762.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/e2b8d5dd/3-31ff469ecedb1666.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/e2b8d5dd/4-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/e2b8d5dd/5-a370960d94a8b7e2.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/e2b8d5dd/6-9ba1d768ca688492.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/e2b8d5dd/7-3ab7f85bcf8aa223.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/e2b8d5dd/8-f6ba4414c242606d.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/e2b8d5dd/9-59aba33fbb756c3e.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/e2b8d5dd/10-f31beb7811b9cce8.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/e2b8d5dd/11-d47c9d18cac10065.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/e2b8d5dd/12-0e64ba2cf5943ff5.png"
-    }
-  ]
+  "images": []
 }

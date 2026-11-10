@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "858f140a",
-  "capturedAt": "2026-11-09T23:56:16.511Z",
+  "capturedAt": "2026-11-10T02:55:22.314Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,56 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nabove models the population of a town\n[Figure 3]\nyears after a census was taken, where\n[Figure 4]\nis a constant. If the population increases by\n[Figure 5]\neach year, what is the value of\n[Figure 6]\n?",
+  "prompt": "$$P(t) = 24,500 \\times b^t$$\n\nThe function $P$ above models the population of a town $t$ years after a census was taken, where $b$ is a constant. If the population increases by $7%$ each year, what is the value of $b$?",
   "choices": {
-    "A": "[Figure 7]",
-    "B": "[Figure 8]",
-    "C": "[Figure 9]",
-    "D": "[Figure 10]"
+    "A": "$0.07$",
+    "B": "$0.7$",
+    "C": "$1.07$",
+    "D": "$1.7$"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. A model for a quantity $P$ that increases by a certain percentage per time period $t$ is an exponential function of the form $P(t) = I \\times \\left(1 + \\frac{r}{100}\\right)^{t}$, where $I$ is the initial value at $t = 0$ and $r$ is the percent increase per year. It's given that the population increases by $7\\%$ each year, so $r = 7$. Substituting $0$ for $t$ in the given function yields $P(0) = 24{,}500$, so $I = 24{,}500$. Substituting these values into the form $P(t) = I \\times \\left(1 + \\frac{r}{100}\\right)^{t}$ yields $P(t) = 24{,}500 \\times \\left(1 + \\frac{7}{100}\\right)^{t}$, or $P(t) = 24{,}500 \\times (1.07)^{t}$. Therefore, the value of $b$ in the given function is $1.07$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from incorrectly converting $7\\%$ to the decimal $0.7$ instead of $0.07$ before adding $1$.",
+  "explanation": "Choice C is correct. A model for a quantity $P$ that increases by a certain percentage per time period $t$ is an exponential function of the form $P(t) = I \\times \\left(1 + \\frac{r}{100}\\right)^{t}$, where $I$ is the initial value at $t = 0$ and $r$ is the percent increase per year. It's given that the population increases by $7\\%$ each year, so $r = 7$. Substituting $0$ for $t$ in the given function yields $P(0) = 24{,}500$, so $I = 24{,}500$. Substituting these values into the form $P(t) = I \\times \\left(1 + \\frac{r}{100}\\right)^{t}$ yields $P(t) = 24{,}500 \\times \\left(1 + \\frac{7}{100}\\right)^{t}$, or $P(t) = 24{,}500 \\times (1.07)^{t}$. Therefore, the value of $b$ in the given function is $1.07$.",
   "source": "https://cooksat.com/practice?questionId=858f140a&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/858f140a/1-18fe18bf86632d0f.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/858f140a/2-fda8194cdc3bd1e4.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/858f140a/3-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/858f140a/4-4be9145fc6402fea.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/858f140a/5-b949e1e7844e27fe.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/858f140a/6-4be9145fc6402fea.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/858f140a/7-26549e76d2370405.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/858f140a/8-d9ac9bb18d1a6823.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/858f140a/9-eeb03cac04d3a591.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/858f140a/10-733fec9cb778ba72.png"
-    }
-  ]
+  "images": []
 }

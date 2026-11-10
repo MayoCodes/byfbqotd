@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "6df57c7f",
-  "capturedAt": "2026-11-09T23:53:09.908Z",
+  "capturedAt": "2026-11-10T02:54:21.309Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,64 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "When\n[Figure 1]\n, the value of\n[Figure 2]\nis\n[Figure 3]\n. When\n[Figure 4]\n, the value of\n[Figure 5]\nis\n[Figure 6]\n. Which of the following could define\n[Figure 7]\n, where\n[Figure 8]\nis a quadratic function?",
+  "prompt": "When $x=-4$, the value of $f(x)$ is $-3$. When $x=1$, the value of $f(x)$ is $-2$. Which of the following could define $f(x)$, where $f(x)$ is a quadratic function?",
   "choices": {
-    "A": "[Figure 9]",
-    "B": "[Figure 10]",
-    "C": "[Figure 11]",
-    "D": "[Figure 12]"
+    "A": "$f(x)=(x+4)(x-1)$",
+    "B": "$f(x)=\\frac{1}{5}x^{2}+\\frac{4}{5}x-3$",
+    "C": "$f(x)=(x-4)(x+1)$",
+    "D": "$f(x)=x^{2}-4$"
   },
   "correctAnswer": "B",
-  "explanation": "Substituting $x=-4$ into choice B yields $f(-4)=\\frac{1}{5}(16)+\\frac{4}{5}(-4)-3=\\frac{16}{5}-\\frac{16}{5}-3=-3$. Substituting $x=1$ yields $f(1)=\\frac{1}{5}(1)+\\frac{4}{5}(1)-3=\\frac{5}{5}-3=1-3=-2$. Both conditions are satisfied.\n\nWhy D is incorrect:\n\nTesting this function: $f(-4)=16-4=12$ and $f(1)=1-4=-3$. Neither value matches the required conditions.",
+  "explanation": "Substituting $x=-4$ into choice B yields $f(-4)=\\frac{1}{5}(16)+\\frac{4}{5}(-4)-3=\\frac{16}{5}-\\frac{16}{5}-3=-3$. Substituting $x=1$ yields $f(1)=\\frac{1}{5}(1)+\\frac{4}{5}(1)-3=\\frac{5}{5}-3=1-3=-2$. Both conditions are satisfied.\n\nWhy A is incorrect:\n\nThis function has zeros at $x=-4$ and $x=1$, meaning $f(-4)=0$ and $f(1)=0$, not the required values of $-3$ and $-2$.",
   "source": "https://cooksat.com/practice?questionId=6df57c7f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/6df57c7f/1-47f8c5577409e25b.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/6df57c7f/2-301fefb43a2fb7eb.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/6df57c7f/3-7d2c49e522dce6d8.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/6df57c7f/4-5fe7c6524afc6010.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/6df57c7f/5-301fefb43a2fb7eb.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/6df57c7f/6-a5ae2524495daa0b.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/6df57c7f/7-301fefb43a2fb7eb.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/6df57c7f/8-301fefb43a2fb7eb.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/6df57c7f/9-54afaf18db9ce997.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/6df57c7f/10-c57786548fa45e85.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/6df57c7f/11-2d44414feabbfc08.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/6df57c7f/12-d954158492d2548f.png"
-    }
-  ]
+  "images": []
 }

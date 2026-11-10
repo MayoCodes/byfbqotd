@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "cdd20223",
-  "capturedAt": "2026-11-10T00:04:03.262Z",
+  "capturedAt": "2026-11-10T02:57:37.455Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,7 +10,7 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nand\n[Figure 4]\nare integer constants and\n[Figure 5]\n. The functions\n[Figure 6]\nand\n[Figure 7]\nare equivalent to function\n[Figure 8]\n, where\n[Figure 9]\nand\n[Figure 10]\nare constants. Which of the following equations displays the y-coordinate of the y-intercept of the graph of\n[Figure 11]\nin the xy-plane as a constant or coefficient?\n\nI.\n[Figure 12]\n\nII.\n[Figure 13]",
+  "prompt": "The function $f$ is defined by $f(x) = p(3.5^x + 3.5^q)$, where $p$ and $q$ are integer constants and $0 < p < q$. The functions $u$ and $v$ are equivalent to function $f$, where $n$ and $r$ are constants. Which of the following equations displays the y-coordinate of the y-intercept of the graph of $y = f(x)$ in the xy-plane as a constant or coefficient?\n\nI. $u(x) = p(3.5^x + n)$\n\nII. $v(x) = p(3.5)^x + r$",
   "choices": {
     "A": "I only",
     "B": "II only",
@@ -18,60 +18,7 @@
     "D": "Neither I nor II"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. The y-intercept of the graph is found by substituting $x = 0$ into $f(x) = p\\left(3.5^{x} + 3.5^{q}\\right)$, giving $f(0) = p\\left(1 + 3.5^{q}\\right) = p + p(3.5)^{q}$. So the y-coordinate of the y-intercept is $p + p(3.5)^{q}$.\n\nFor function $u(x) = p\\left(3.5^{x} + n\\right)$ to be equivalent to $f$, we must have $n = 3.5^{q}$. Since $0 < p$ and $q > 0$, neither the coefficient $p$ nor the constant $n = 3.5^{q}$ equals $p + p(3.5)^{q}$ (because $p(3.5)^{q} \\neq 0$). So $u$ does not display the y-coordinate as a constant or coefficient.\n\nFor function $v(x) = p(3.5)^{x} + r$ to be equivalent to $f$, rewriting $f(x) = p(3.5)^{x} + p(3.5)^{q}$ gives $r = p(3.5)^{q}$. Neither the coefficient $p$ nor the constant $r = p(3.5)^{q}$ equals $p + p(3.5)^{q}$. So $v$ does not display the y-coordinate as a constant or coefficient.\n\nTherefore, neither I nor II displays the y-coordinate of the y-intercept as a constant or coefficient.\n\nWhy B is incorrect:\n\nChoice B is incorrect. In $v(x) = p(3.5)^{x} + r$, the constant $r$ equals $p(3.5)^{q}$, not $p + p(3.5)^{q}$, so the y-coordinate of the y-intercept is not displayed as a constant or coefficient.",
+  "explanation": "Choice D is correct. The y-intercept of the graph is found by substituting $x = 0$ into $f(x) = p\\left(3.5^{x} + 3.5^{q}\\right)$, giving $f(0) = p\\left(1 + 3.5^{q}\\right) = p + p(3.5)^{q}$. So the y-coordinate of the y-intercept is $p + p(3.5)^{q}$.\n\nFor function $u(x) = p\\left(3.5^{x} + n\\right)$ to be equivalent to $f$, we must have $n = 3.5^{q}$. Since $0 < p$ and $q > 0$, neither the coefficient $p$ nor the constant $n = 3.5^{q}$ equals $p + p(3.5)^{q}$ (because $p(3.5)^{q} \\neq 0$). So $u$ does not display the y-coordinate as a constant or coefficient.\n\nFor function $v(x) = p(3.5)^{x} + r$ to be equivalent to $f$, rewriting $f(x) = p(3.5)^{x} + p(3.5)^{q}$ gives $r = p(3.5)^{q}$. Neither the coefficient $p$ nor the constant $r = p(3.5)^{q}$ equals $p + p(3.5)^{q}$. So $v$ does not display the y-coordinate as a constant or coefficient.\n\nTherefore, neither I nor II displays the y-coordinate of the y-intercept as a constant or coefficient.\n\nWhy A is incorrect:\n\nChoice A is incorrect. In $u(x) = p\\left(3.5^{x} + n\\right)$, the constant $n$ equals $3.5^{q}$, not the y-coordinate of the y-intercept $p + p(3.5)^{q}$, and the coefficient $p$ also does not equal this y-coordinate.",
   "source": "https://cooksat.com/practice?questionId=cdd20223&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/cdd20223/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/cdd20223/2-76bbbd0bd9cccc64.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/cdd20223/3-f07e748cf82e0762.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/cdd20223/4-31ff469ecedb1666.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/cdd20223/5-bfbb7ab7cb48e26d.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/cdd20223/6-fe0dd5c093ad2d01.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/cdd20223/7-6f21cf857080f918.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/cdd20223/8-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/cdd20223/9-0b8fcb4e6453fcf0.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/cdd20223/10-adab81c4e24d47ac.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/cdd20223/11-8dfb98eeaa92843f.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/cdd20223/12-4d3311cbc1626b21.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/cdd20223/13-7bd08cfcbdd6c6b8.png"
-    }
-  ]
+  "images": []
 }

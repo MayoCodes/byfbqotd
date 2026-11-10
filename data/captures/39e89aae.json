@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "39e89aae",
-  "capturedAt": "2026-11-09T23:47:17.047Z",
+  "capturedAt": "2026-11-10T02:52:43.917Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,56 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\ngives the predicted number of particles\n[Figure 2]\ndetected from a radioactive sample\n[Figure 3]\nhours after a measurement begins. What is the best interpretation of\n[Figure 4]\n?",
+  "prompt": "The function $g(t) = 800(0.5)^\\frac{t}{8}$ gives the predicted number of particles $g(t)$ detected from a radioactive sample $t$ hours after a measurement begins. What is the best interpretation of $g(16) = 200$?",
   "choices": {
-    "A": "When the measurement begins, the predicted number of particles detected is\n[Figure 5]\n.",
-    "B": "When the measurement begins, the predicted number of particles detected is\n[Figure 6]\n.",
-    "C": "[Figure 7]\nhours after the measurement begins, the predicted number of particles detected is\n[Figure 8]\n.",
-    "D": "[Figure 9]\nhours after the measurement begins, the predicted number of particles detected is\n[Figure 10]\n."
+    "A": "When the measurement begins, the predicted number of particles detected is $16$.",
+    "B": "When the measurement begins, the predicted number of particles detected is $200$.",
+    "C": "$16$ hours after the measurement begins, the predicted number of particles detected is $200$.",
+    "D": "$200$ hours after the measurement begins, the predicted number of particles detected is $800$."
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. It's given that the function $g(t) = 800(0.5)^{\\frac{t}{8}}$ gives the predicted number of particles $g(t)$ detected from a radioactive sample $t$ hours after a measurement begins. It follows that $g(t)$ represents the predicted number of particles detected and $t$ represents the number of hours after the measurement begins. Since the value of $g(16)$ is the value of $g(t)$ when $t = 16$, it follows that $g(16) = 200$ means that the value of $g(t)$ is $200$ when $t = 16$. Since $t$ represents hours after the measurement begins, $t = 16$ means $16$ hours after the measurement begins. Since $g(t)$ represents the predicted number of particles detected, $g(16) = 200$ means the predicted number of particles detected is $200$. Therefore, the best interpretation of $g(16) = 200$ is that $16$ hours after the measurement begins, the predicted number of particles detected is $200$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from correctly identifying the output value $200$ but incorrectly associating it with the start of the measurement instead of with the time given by the input. When the measurement begins ($t = 0$), the predicted number of particles detected is $800$, not $200$.",
+  "explanation": "Choice C is correct. It's given that the function $g(t) = 800(0.5)^{\\frac{t}{8}}$ gives the predicted number of particles $g(t)$ detected from a radioactive sample $t$ hours after a measurement begins. It follows that $g(t)$ represents the predicted number of particles detected and $t$ represents the number of hours after the measurement begins. Since the value of $g(16)$ is the value of $g(t)$ when $t = 16$, it follows that $g(16) = 200$ means that the value of $g(t)$ is $200$ when $t = 16$. Since $t$ represents hours after the measurement begins, $t = 16$ means $16$ hours after the measurement begins. Since $g(t)$ represents the predicted number of particles detected, $g(16) = 200$ means the predicted number of particles detected is $200$. Therefore, the best interpretation of $g(16) = 200$ is that $16$ hours after the measurement begins, the predicted number of particles detected is $200$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from reversing the input and output values. The expression $g(200)$ would give the predicted number of particles detected $200$ hours after the measurement begins, not $16$ hours, and $800$ is the initial number of particles detected when the measurement begins, not the number detected at any specific later time in this interpretation.",
   "source": "https://cooksat.com/practice?questionId=39e89aae&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/39e89aae/1-55dc576b5d6fc53e.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/39e89aae/2-73e4725672a6abc0.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/39e89aae/3-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/39e89aae/4-f65ab541c3368190.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/39e89aae/5-1158988890b56c17.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/39e89aae/6-cdccf221af9dbc1a.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/39e89aae/7-1158988890b56c17.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/39e89aae/8-cdccf221af9dbc1a.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/39e89aae/9-cdccf221af9dbc1a.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/39e89aae/10-cac4fcf305081669.png"
-    }
-  ]
+  "images": []
 }

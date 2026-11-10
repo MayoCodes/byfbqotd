@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "4f99d067",
-  "capturedAt": "2026-11-09T23:49:52.429Z",
+  "capturedAt": "2026-11-10T02:53:27.510Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,48 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nis defined by the given equation. If\n[Figure 3]\n, which of the following equations defines the function\n[Figure 4]\n?",
+  "prompt": "$$h(x) = 7(3)^x$$\n\nThe function $h$ is defined by the given equation. If $p(x) = h(x + 2)$, which of the following equations defines the function $p$?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$p(x) = 14(3)^x$",
+    "B": "$p(x) = 14(9)^x$",
+    "C": "$p(x) = 49(9)^x$",
+    "D": "$p(x) = 63(3)^x$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. It's given that $h(x) = 7(3)^{x}$ and $p(x) = h(x + 2)$. Substituting $x + 2$ for $x$ in $h(x) = 7(3)^{x}$ gives $h(x + 2) = 7(3)^{x + 2}$. Using properties of exponents, this can be rewritten as $h(x + 2) = 7(3)^{x}(3)^{2}$, which is equivalent to $h(x + 2) = 7(3)^{x}(9)$. Multiplying $7$ and $9$ gives $h(x + 2) = 63(3)^{x}$. Since $p(x) = h(x + 2)$, it follows that $p(x) = 63(3)^{x}$.",
   "source": "https://cooksat.com/practice?questionId=4f99d067&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/4f99d067/1-cda078e0b6a48473.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/4f99d067/2-3ab7f85bcf8aa223.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/4f99d067/3-71f12df60ce54e0c.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/4f99d067/4-f07e748cf82e0762.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/4f99d067/5-a985b245cd892a0d.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/4f99d067/6-78697faf9bbd9231.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/4f99d067/7-8160eb6fef2fa7be.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/4f99d067/8-cfd4e93e8871fe3e.png"
-    }
-  ]
+  "images": []
 }

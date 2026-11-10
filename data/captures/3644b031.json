@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "3644b031",
-  "capturedAt": "2026-11-09T23:46:15.770Z",
+  "capturedAt": "2026-11-10T02:52:24.711Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,36 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A rectangular garden plot has an area of\n[Figure 1]\nsquare meters. If the length of the plot is three times the width, what is the width of the plot, in meters?",
+  "prompt": "A rectangular garden plot has an area of $192$ square meters. If the length of the plot is three times the width, what is the width of the plot, in meters?",
   "choices": {
-    "A": "[Figure 2]",
-    "B": "[Figure 3]",
-    "C": "[Figure 4]",
-    "D": "[Figure 5]"
+    "A": "$8$",
+    "B": "$24$",
+    "C": "$48$",
+    "D": "$64$"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. The area of a rectangle is $A = l w$, where $l$ is the length and $w$ is the width. Since the length is three times the width, $l = 3w$. Substituting into the area formula gives $192 = 3w \\cdot w$, or $192 = 3w^{2}$. Dividing both sides by $3$ yields $64 = w^{2}$. Taking the square root of both sides gives $w = \\pm 8$. Since the width of a rectangle must be positive, the width of the plot is $8$ meters.\n\nWhy C is incorrect:\n\nChoice C is incorrect and results from treating $192$ as a perimeter-style sum and solving $3w + w = 192$ (i.e., $4w = 192$) instead of using the area equation $3w \\cdot w = 192$.",
+  "explanation": "Choice A is correct. The area of a rectangle is $A = l w$, where $l$ is the length and $w$ is the width. Since the length is three times the width, $l = 3w$. Substituting into the area formula gives $192 = 3w \\cdot w$, or $192 = 3w^{2}$. Dividing both sides by $3$ yields $64 = w^{2}$. Taking the square root of both sides gives $w = \\pm 8$. Since the width of a rectangle must be positive, the width of the plot is $8$ meters.\n\nWhy D is incorrect:\n\nChoice D is incorrect and results from stopping at $w^{2} = 64$ and reporting $64$ as the width instead of taking the square root to find $w = 8$.",
   "source": "https://cooksat.com/practice?questionId=3644b031&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/3644b031/1-db235710049d8e41.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/3644b031/2-f4f34a91ada02fa5.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/3644b031/3-9e679b37536fb68d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/3644b031/4-be793a5fd3bc5e5b.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/3644b031/5-e5e188ba98cebaef.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "e3655751",
-  "capturedAt": "2026-11-10T00:06:27.162Z",
+  "capturedAt": "2026-11-10T02:58:10.437Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,63 +10,10 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nIn the function\n[Figure 2]\ndefined above,\n[Figure 3]\n,\n[Figure 4]\n, and\n[Figure 5]\nare integer constants. If the zeros of function\n[Figure 6]\nare\n[Figure 7]\n,\n[Figure 8]\n, and\n[Figure 9]\n, what is the value of\n[Figure 10]\n?\n\n[Figure 11]\n\n[Figure 12]",
+  "prompt": "$$f(x) = x^{3} + ax^{2} + bx + c$$\n\nIn the function $f$ defined above, $a$, $b$, and $c$ are integer constants. If the zeros of function $f$ are $-3$, $2$, and $9$, what is the value of $c$?\n\n$$0$$\n\n$$54$$",
   "choices": {},
-  "correctAnswer": "[Figure 13]",
+  "correctAnswer": "$54$",
   "explanation": "The correct answer is $54$. Since $-3$, $2$, and $9$ are zeros of function $f$, it can be written as $f(x) = (x + 3)(x - 2)(x - 9)$. Expanding: $(x + 3)(x - 2) = x^2 + x - 6$. Then $(x^2 + x - 6)(x - 9) = x^3 + x^2 - 6x - 9x^2 - 9x + 54 = x^3 - 8x^2 - 15x + 54$. Thus, $a = -8$, $b = -15$, and $c = 54$.",
   "source": "https://cooksat.com/practice?questionId=e3655751&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/e3655751/1-bbf7b38737a8a1d0.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/e3655751/2-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/e3655751/3-23564e26b3edd50d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/e3655751/4-4be9145fc6402fea.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/e3655751/5-fa4e73aef0bcf693.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/e3655751/6-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/e3655751/7-7d2c49e522dce6d8.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/e3655751/8-006f3c04160d96ee.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/e3655751/9-35a1dda5b246354d.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/e3655751/10-fa4e73aef0bcf693.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/e3655751/11-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/e3655751/12-b7839c5aaaf4e5dc.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/e3655751/13-866b1cb1cd6cb528.png"
-    }
-  ]
+  "images": []
 }

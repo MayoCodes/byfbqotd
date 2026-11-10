@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "13653c0e",
-  "capturedAt": "2026-11-09T23:25:01.287Z",
+  "capturedAt": "2026-11-10T02:51:26.540Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,21 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Table 1]\n\nThe table above gives selected values of a polynomial function\n[Figure 2]\n. Based on the values in the table, which of the following must be a factor of\n[Figure 3]\n?",
+  "prompt": "[Table 1]\n\nThe table above gives selected values of a polynomial function $q$. Based on the values in the table, which of the following must be a factor of $q$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$(x - 3)$",
+    "B": "$(x + 4)$",
+    "C": "$(x - 3)(x + 4)$",
+    "D": "$(x + 3)(x - 4)$"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. The table shows $q(-3) = 0$ and $q(4) = 0$, so by the factor theorem both $(x + 3)$ and $(x - 4)$ are factors of $q$. Because these are distinct linear factors, their product $(x + 3)(x - 4)$ must also be a factor of $q$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This product would require both $q(3) = 0$ and $q(-4) = 0$, and the table gives neither of these values.",
+  "explanation": "Choice D is correct. The table shows $q(-3) = 0$ and $q(4) = 0$, so by the factor theorem both $(x + 3)$ and $(x - 4)$ are factors of $q$. Because these are distinct linear factors, their product $(x + 3)(x - 4)$ must also be a factor of $q$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The factor $(x - 3)$ would require $q(3) = 0$, but the table does not give a value of $q$ at $x = 3$, so $(x - 3)$ need not be a factor.",
   "source": "https://cooksat.com/practice?questionId=13653c0e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/13653c0e/1-a890ef2ae518db84.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/13653c0e/2-31ff469ecedb1666.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/13653c0e/3-31ff469ecedb1666.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/13653c0e/4-9619222c8cbdc6a9.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/13653c0e/5-f2dbd60738c20cd8.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/13653c0e/6-28b34c80496559ce.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/13653c0e/7-74fc48cd5e49e514.png"
+      "path": "data/capture-assets/13653c0e/1-a890ef2ae518db84.png",
+      "kind": "diagram"
     }
   ]
 }

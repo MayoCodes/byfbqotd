@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "b0d55c8c",
-  "capturedAt": "2026-11-10T00:00:21.571Z",
+  "capturedAt": "2026-11-10T02:56:34.464Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,59 +10,16 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Table 1]\n\nFor the exponential function\n[Figure 2]\n, the table shown gives several values of\n[Figure 3]\nand their corresponding values of\n[Figure 4]\n, where\n[Figure 5]\nis a constant greater than\n[Figure 6]\n. If\n[Figure 7]\nis a constant and\n[Figure 8]\n, what is the value of\n[Figure 9]\n?\n\n[Figure 10]\n\n[Figure 11]",
+  "prompt": "[Table 1]\n\nFor the exponential function $g$, the table shown gives several values of $x$ and their corresponding values of $g(x)$, where $c$ is a constant greater than $1$. If $n$ is a constant and $g(n) = c^{23}$, what is the value of $n$?\n\n$$0$$\n\n$$8$$",
   "choices": {},
-  "correctAnswer": "[Figure 12]",
+  "correctAnswer": "$8$",
   "explanation": "The correct answer is $8$. The values of $g(x)$ for the exponential function $g$ shown in the table increase by a factor of $c^{3}$ for each increase of $1$ in $x$. This relationship can be represented by the equation $g(x) = c^{3x + d}$, where $d$ is a constant. It's given that when $x = 1$, $g(x) = c^{2}$. Substituting $1$ for $x$ and $c^{2}$ for $g(x)$ into $g(x) = c^{3x + d}$ yields $c^{2} = c^{3 \\times 1 + d}$. Since $3 \\times 1 + d = 2$, it follows that $d = -1$. Thus, an equation that defines the function $g$ is $g(x) = c^{3x - 1}$. It follows that the value of $n$ such that $g(n) = c^{23}$ can be found by solving the equation $3n - 1 = 23$, which yields $n = 8$.",
   "source": "https://cooksat.com/practice?questionId=b0d55c8c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/b0d55c8c/1-10aeb8311f69a93d.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/b0d55c8c/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/b0d55c8c/3-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/b0d55c8c/4-d3f8243cb1e3bf96.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/b0d55c8c/5-fa4e73aef0bcf693.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/b0d55c8c/6-9de044b2f5fd2973.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/b0d55c8c/7-0b8fcb4e6453fcf0.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/b0d55c8c/8-fb45067168b3be7c.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/b0d55c8c/9-0b8fcb4e6453fcf0.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/b0d55c8c/10-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/b0d55c8c/11-f4f34a91ada02fa5.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/b0d55c8c/12-85e8e2a7246ae1ff.png"
+      "path": "data/capture-assets/b0d55c8c/1-10aeb8311f69a93d.png",
+      "kind": "diagram"
     }
   ]
 }

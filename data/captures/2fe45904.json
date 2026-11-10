@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "2fe45904",
-  "capturedAt": "2026-11-09T23:45:24.962Z",
+  "capturedAt": "2026-11-10T02:52:09.758Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,12 +10,12 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Table 1]\n\nThe table shows three values of\n[Figure 2]\nand their corresponding values of\n[Figure 3]\n, where\n[Figure 4]\nand\n[Figure 5]\nis a linear function. What is the\n[Figure 6]\n-intercept of the graph of\n[Figure 7]\nin the\n[Figure 8]\n-plane?",
+  "prompt": "[Table 1]\n\nThe table shows three values of $x$ and their corresponding values of $h(x)$, where $h(x) = (p(x))/(x+6)$ and $p$ is a linear function. What is the $y$-intercept of the graph of $y = p(x)$ in the $xy$-plane?",
   "choices": {
-    "A": "[Figure 9]",
-    "B": "[Figure 10]",
-    "C": "[Figure 11]",
-    "D": "[Figure 12]"
+    "A": "$(0, -8)$",
+    "B": "$(0, 5)$",
+    "C": "$(0, 6)$",
+    "D": "$(0, 40)$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. Since $p$ is a linear function, it can be written as $p(x) = mx + b$, where $m$ is the slope and $b$ is the $y$-coordinate of the $y$-intercept $(0, b)$ of the graph of $y = p(x)$ in the $xy$-plane. Substituting the table values into $h(x) = \\frac{p(x)}{x+6}$ gives points on the graph of $y = p(x)$. Using $x = -16$ and $h(x) = 4$ yields $4 = \\frac{p(-16)}{-16+6}$, or $4 = \\frac{p(-16)}{-10}$. Multiplying both sides by $-10$ gives $p(-16) = -40$, so the point $(-16, -40)$ is on the graph of $y = p(x)$. Using $x = -8$ and $h(x) = 0$ yields $0 = \\frac{p(-8)}{-8+6}$, or $0 = \\frac{p(-8)}{-2}$. Multiplying both sides by $-2$ gives $p(-8) = 0$, so the point $(-8, 0)$ is on the graph of $y = p(x)$. The slope is $m = \\frac{0 - (-40)}{-8 - (-16)} = \\frac{40}{8} = 5$. Substituting $5$ for $m$ in $p(x) = mx + b$ yields $p(x) = 5x + b$. Since $p(-8) = 0$, substituting $-8$ for $x$ and $0$ for $p(x)$ gives $0 = 5(-8) + b$, or $0 = -40 + b$. Adding $40$ to both sides yields $b = 40$. Therefore, the $y$-intercept of the graph of $y = p(x)$ is $(0, 40)$.",
@@ -23,51 +23,8 @@
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/2fe45904/1-1c84fa7a3356d340.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/2fe45904/2-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/2fe45904/3-0eb1b7dfc7aa423d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/2fe45904/4-2521b4c09af4ee42.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/2fe45904/5-f07e748cf82e0762.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/2fe45904/6-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/2fe45904/7-c660124ed05b7e31.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/2fe45904/8-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/2fe45904/9-210a303738a2deeb.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/2fe45904/10-c12cf42d24d02c62.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/2fe45904/11-da20602e8eed4950.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/2fe45904/12-6fb58a1ecf45b7b0.png"
+      "path": "data/capture-assets/2fe45904/1-1c84fa7a3356d340.png",
+      "kind": "diagram"
     }
   ]
 }

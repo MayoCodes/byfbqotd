@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "b9bb3b0c",
-  "capturedAt": "2026-11-10T00:01:42.930Z",
+  "capturedAt": "2026-11-10T02:56:56.689Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,35 +10,10 @@
   "difficulty": "Medium",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nIf the given function\n[Figure 2]\nis graphed in the xy-plane, where\n[Figure 3]\n, what is the x-coordinate of an x-intercept of the graph?\n\n[Figure 4]\n\n[Figure 5]",
+  "prompt": "$$g(x) = (x + 9)(x - 5)$$\n\nIf the given function $g$ is graphed in the xy-plane, where $y = g(x)$, what is the x-coordinate of an x-intercept of the graph?\n\n$$0$$\n\n$$-9,5$$",
   "choices": {},
-  "correctAnswer": "[Figure 6]",
+  "correctAnswer": "$-9,5$",
   "explanation": "The correct answer is either $-9$ or $5$. The x-intercepts of a graph in the xy-plane are the points where $y = 0$. Thus, for an x-intercept of the graph of $y = g(x)$, $0 = g(x)$. Substituting $0$ for $g(x)$ in the equation $g(x) = (x + 9)(x - 5)$ yields $0 = (x + 9)(x - 5)$. By the zero product property, $x + 9 = 0$ or $x - 5 = 0$. Subtracting $9$ from both sides of $x + 9 = 0$ yields $x = -9$. Adding $5$ to both sides of $x - 5 = 0$ yields $x = 5$. Therefore, the x-coordinates of the x-intercepts of the graph of $y = g(x)$ are $-9$ and $5$. Note that -9 and 5 are examples of ways to enter a correct answer.",
   "source": "https://cooksat.com/practice?questionId=b9bb3b0c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/b9bb3b0c/1-80ce24586625a4e3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/b9bb3b0c/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/b9bb3b0c/3-a370960d94a8b7e2.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/b9bb3b0c/4-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/b9bb3b0c/5-26aec77ec92c2479.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/b9bb3b0c/6-355aec5e4b154cae.png"
-    }
-  ]
+  "images": []
 }

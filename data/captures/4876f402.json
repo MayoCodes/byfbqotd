@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "4876f402",
-  "capturedAt": "2026-11-09T23:48:44.311Z",
+  "capturedAt": "2026-11-10T02:53:07.963Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,7 +10,7 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "Researchers recorded data about the depth of a submersible below the water's surface at a certain location over a period of\n[Figure 6]\nhours. The graph shown models the data, where\n[Figure 7]\nrepresents the water's surface. Which table gives values of\n[Figure 8]\nand their corresponding values of\n[Figure 9]\nbased on the model?\n\n[Figure 1]",
+  "prompt": "Researchers recorded data about the depth of a submersible below the water's surface at a certain location over a period of $8$ hours. The graph shown models the data, where $y = 0$ represents the water's surface. Which table gives values of $x$ and their corresponding values of $y$ based on the model?\n\n[Figure 1]",
   "choices": {
     "A": "[Table 2]",
     "B": "[Table 3]",
@@ -18,44 +18,33 @@
     "D": "[Table 5]"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. Each point $(x, y)$ on the graph represents an elapsed time $x$, in hours, and the corresponding depth $y$, in feet, of the submersible below the water's surface based on the model. The graph shown passes through the points $(0, 0)$, $(4, -8)$, and $(8, 0)$. Thus, the table in choice C gives the values of $x$ and their corresponding values of $y$ based on the model.\n\nWhy A is incorrect:\n\nChoice A is incorrect. The pairs in this table do not correspond to points on the graph; the graph does not pass through $(0, -8)$, $(0, 4)$, or $(4, 8)$.",
+  "explanation": "Choice C is correct. Each point $(x, y)$ on the graph represents an elapsed time $x$, in hours, and the corresponding depth $y$, in feet, of the submersible below the water's surface based on the model. The graph shown passes through the points $(0, 0)$, $(4, -8)$, and $(8, 0)$. Thus, the table in choice C gives the values of $x$ and their corresponding values of $y$ based on the model.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from swapping the $x$- and $y$-coordinates of points on the graph. The graph passes through $(8, 0)$, not $(8, 4)$, and does not pass through $(-8, 0)$.",
   "source": "https://cooksat.com/practice?questionId=4876f402&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/4876f402/1-bd6a781cee2233e7.png"
+      "path": "data/capture-assets/4876f402/1-28a602454cdd6c95.png",
+      "kind": "diagram"
     },
     {
       "label": "Table 2",
-      "path": "data/capture-assets/4876f402/2-3fb0dd8310c27bd2.png"
+      "path": "data/capture-assets/4876f402/2-3fb0dd8310c27bd2.png",
+      "kind": "diagram"
     },
     {
       "label": "Table 3",
-      "path": "data/capture-assets/4876f402/3-f89cafede68e51d6.png"
+      "path": "data/capture-assets/4876f402/3-f89cafede68e51d6.png",
+      "kind": "diagram"
     },
     {
       "label": "Table 4",
-      "path": "data/capture-assets/4876f402/4-253cf3e5d08ff5b0.png"
+      "path": "data/capture-assets/4876f402/4-253cf3e5d08ff5b0.png",
+      "kind": "diagram"
     },
     {
       "label": "Table 5",
-      "path": "data/capture-assets/4876f402/5-9bfd5b3579a53319.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/4876f402/6-7a88e37fc6073da8.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/4876f402/7-810a282a619f46f3.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/4876f402/8-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/4876f402/9-74fafedc39f29bd4.png"
+      "path": "data/capture-assets/4876f402/5-9bfd5b3579a53319.png",
+      "kind": "diagram"
     }
   ]
 }

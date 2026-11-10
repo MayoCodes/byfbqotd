@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "e24ece10",
-  "capturedAt": "2026-11-10T00:06:11.057Z",
+  "capturedAt": "2026-11-10T02:58:06.254Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,12 +10,12 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph shows the height above ground, in meters, of a model rocket\n[Figure 2]\nseconds after it was launched upward from a rooftop. Which statement is the best interpretation of the marked point\n[Figure 3]\nin this context?",
+  "prompt": "[Figure 1]\n\nThe graph shows the height above ground, in meters, of a model rocket $t$ seconds after it was launched upward from a rooftop. Which statement is the best interpretation of the marked point $(0.5, 3.55)$ in this context?",
   "choices": {
-    "A": "[Figure 4]\nsecond after being launched, the rocket's height above ground is\n[Figure 5]\nmeters.",
-    "B": "[Figure 6]\nseconds after being launched, the rocket's height above ground is\n[Figure 7]\nmeter.",
-    "C": "The rocket was launched from an initial height of\n[Figure 8]\nmeter with an initial velocity of\n[Figure 9]\nmeters per second.",
-    "D": "The rocket was launched from an initial height of\n[Figure 10]\nmeters with an initial velocity of\n[Figure 11]\nmeter per second."
+    "A": "$0.5$ second after being launched, the rocket's height above ground is $3.55$ meters.",
+    "B": "$3.55$ seconds after being launched, the rocket's height above ground is $0.5$ meter.",
+    "C": "The rocket was launched from an initial height of $0.5$ meter with an initial velocity of $3.55$ meters per second.",
+    "D": "The rocket was launched from an initial height of $3.55$ meters with an initial velocity of $0.5$ meter per second."
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. On this graph the first coordinate of a point is the time, in seconds, after the rocket was launched, and the second coordinate is the corresponding height above ground, in meters. Therefore the marked point $(0.5, 3.55)$ means that $0.5$ second after being launched, the rocket's height above ground is $3.55$ meters.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This reverses the coordinates; $0.5$ is the time in seconds and $3.55$ is the height in meters, not the other way around.",
@@ -23,47 +23,8 @@
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/e24ece10/1-8a5a1549bd782f6a.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/e24ece10/2-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/e24ece10/3-7188ce7195419d01.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/e24ece10/4-984080f6e07a128a.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/e24ece10/5-e0bf3e923017562b.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/e24ece10/6-e0bf3e923017562b.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/e24ece10/7-984080f6e07a128a.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/e24ece10/8-984080f6e07a128a.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/e24ece10/9-e0bf3e923017562b.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/e24ece10/10-e0bf3e923017562b.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/e24ece10/11-984080f6e07a128a.png"
+      "path": "data/capture-assets/e24ece10/1-109a84fbbb74d632.png",
+      "kind": "diagram"
     }
   ]
 }

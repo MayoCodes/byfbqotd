@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "38f9d676",
-  "capturedAt": "2026-11-09T23:47:08.148Z",
+  "capturedAt": "2026-11-10T02:52:42.196Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,68 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The relationship between the variables\n[Figure 1]\nand\n[Figure 2]\nis defined by an exponential equation. When\n[Figure 3]\n, the value of\n[Figure 4]\nis\n[Figure 5]\n, and for every increase in the value of\n[Figure 6]\nby\n[Figure 7]\n, the corresponding value of\n[Figure 8]\nincreases by\n[Figure 9]\nof its previous value. Which equation represents this relationship?",
+  "prompt": "The relationship between the variables $w$ and $z$ is defined by an exponential equation. When $w = 0$, the value of $z$ is $40$, and for every increase in the value of $w$ by $1$, the corresponding value of $z$ increases by $80%$ of its previous value. Which equation represents this relationship?",
   "choices": {
-    "A": "[Figure 10]",
-    "B": "[Figure 11]",
-    "C": "[Figure 12]",
-    "D": "[Figure 13]"
+    "A": "$z = 80(1.04)^w$",
+    "B": "$z = 80(1.40)^w$",
+    "C": "$z = 40(1.08)^w$",
+    "D": "$z = 40(1.80)^w$"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. An exponential relationship between $w$ and $z$ can be modeled by an equation of the form $z = a \\cdot b^{w}$, where $a$ is the initial value when $w = 0$ and $b$ is the growth factor. It's given that when $w = 0$, the value of $z$ is $40$, so $a = 40$. It's also given that for every increase in the value of $w$ by $1$, the corresponding value of $z$ increases by $80\\%$ of its previous value. An increase of $80\\%$ means the new value equals the previous value plus $80\\%$ of the previous value, which is equivalent to multiplying the previous value by $1 + 0.80 = 1.80$. Therefore, the growth factor $b = 1.80$. Substituting $40$ for $a$ and $1.80$ for $b$ in the equation $z = a \\cdot b^{w}$ yields $z = 40(1.80)^{w}$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from confusing the initial value $40$ with the percentage increase $80$, using $80$ as the coefficient and $1.40$ as the growth factor instead of $1.80$.",
+  "explanation": "Choice D is correct. An exponential relationship between $w$ and $z$ can be modeled by an equation of the form $z = a \\cdot b^{w}$, where $a$ is the initial value when $w = 0$ and $b$ is the growth factor. It's given that when $w = 0$, the value of $z$ is $40$, so $a = 40$. It's also given that for every increase in the value of $w$ by $1$, the corresponding value of $z$ increases by $80\\%$ of its previous value. An increase of $80\\%$ means the new value equals the previous value plus $80\\%$ of the previous value, which is equivalent to multiplying the previous value by $1 + 0.80 = 1.80$. Therefore, the growth factor $b = 1.80$. Substituting $40$ for $a$ and $1.80$ for $b$ in the equation $z = a \\cdot b^{w}$ yields $z = 40(1.80)^{w}$.",
   "source": "https://cooksat.com/practice?questionId=38f9d676&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/38f9d676/1-5be1746c6339c76d.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/38f9d676/2-224da1dac7e64b2f.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/38f9d676/3-6d72a85a25e31800.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/38f9d676/4-224da1dac7e64b2f.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/38f9d676/5-29f30851f3230b13.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/38f9d676/6-5be1746c6339c76d.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/38f9d676/7-9de044b2f5fd2973.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/38f9d676/8-224da1dac7e64b2f.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/38f9d676/9-22c46c8e1559d6bb.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/38f9d676/10-6d07dbefb747f153.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/38f9d676/11-6a58df19589dbeef.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/38f9d676/12-e1cb81daa024766f.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/38f9d676/13-b84934ccdd9407ee.png"
-    }
-  ]
+  "images": []
 }

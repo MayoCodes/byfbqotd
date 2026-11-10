@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "80ed479f",
-  "capturedAt": "2026-11-09T23:55:38.763Z",
+  "capturedAt": "2026-11-10T02:55:12.100Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,68 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A patient is given an initial dose of\n[Figure 1]\nmilligrams of a medication. The function\n[Figure 2]\nestimates that each hour after the dose is administered, the amount of medication remaining in the patient's bloodstream is\n[Figure 3]\nof the amount remaining at the end of the previous hour. Which equation defines\n[Figure 4]\n, where\n[Figure 5]\nis the estimated amount of medication, in milligrams, remaining in the patient's bloodstream\n[Figure 6]\nhours after the dose is administered and\n[Figure 7]\nis a whole number greater than\n[Figure 8]\nand less than\n[Figure 9]\n?",
+  "prompt": "A patient is given an initial dose of $48$ milligrams of a medication. The function $g$ estimates that each hour after the dose is administered, the amount of medication remaining in the patient's bloodstream is $70%$ of the amount remaining at the end of the previous hour. Which equation defines $g$, where $g(n)$ is the estimated amount of medication, in milligrams, remaining in the patient's bloodstream $n$ hours after the dose is administered and $n$ is a whole number greater than $1$ and less than $12$?",
   "choices": {
-    "A": "[Figure 10]",
-    "B": "[Figure 11]",
-    "C": "[Figure 12]",
-    "D": "[Figure 13]"
+    "A": "$g(n) = 48(0.48)^n$",
+    "B": "$g(n) = 48(0.70)^n$",
+    "C": "$g(n) = 70(0.48)^n$",
+    "D": "$g(n) = 70(0.70)^n$"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. The function $g$ is a decreasing exponential function of the form $g(n) = a\\left(\\frac{p}{100}\\right)^{n}$, where $a$ is the initial amount of medication, in milligrams, and $p\\%$ is the percent of the previous hour's amount that remains after each hour. It's given that the initial dose is $48$ milligrams, so $a = 48$. Since each hour the amount remaining is $70\\%$ of the previous hour's amount, $p = 70$. Substituting $48$ for $a$ and $70$ for $p$ yields $g(n) = 48\\left(\\frac{70}{100}\\right)^{n}$, or $g(n) = 48(0.70)^{n}$.",
   "source": "https://cooksat.com/practice?questionId=80ed479f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/80ed479f/1-3e0d9ead12f83e85.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/80ed479f/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/80ed479f/3-d368f00438641c22.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/80ed479f/4-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/80ed479f/5-24403087fea97c4d.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/80ed479f/6-0b8fcb4e6453fcf0.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/80ed479f/7-0b8fcb4e6453fcf0.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/80ed479f/8-9de044b2f5fd2973.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/80ed479f/9-f8b7ac329ceccfb3.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/80ed479f/10-3c64457764ddf836.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/80ed479f/11-c1cb098512a09fe4.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/80ed479f/12-34f0ba055f3fe7b9.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/80ed479f/13-6cac726f24457882.png"
-    }
-  ]
+  "images": []
 }

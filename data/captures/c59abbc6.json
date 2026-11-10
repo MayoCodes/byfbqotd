@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "c59abbc6",
-  "capturedAt": "2026-11-10T00:03:05.504Z",
+  "capturedAt": "2026-11-10T02:57:22.105Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "For the function\n[Figure 1]\n,\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
+  "prompt": "For the function $f$, $f(t)=t^{2}+4t+8$. What is the value of $f(-6)$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$8$",
+    "B": "$12$",
+    "C": "$20$",
+    "D": "$44$"
   },
   "correctAnswer": "C",
-  "explanation": "Substituting $-6$ for $t$ in the given function yields $f(-6)=(-6)^2+4(-6)+8=36-24+8=20$. Therefore, the value of $f(-6)$ is $20$.\n\nWhy D is incorrect:\n\nThis results from a sign error, calculating $(-6)^2-4(-6)+8=36+24+8=68$, then making an arithmetic error in the final sum.",
+  "explanation": "Substituting $-6$ for $t$ in the given function yields $f(-6)=(-6)^2+4(-6)+8=36-24+8=20$. Therefore, the value of $f(-6)$ is $20$.",
   "source": "https://cooksat.com/practice?questionId=c59abbc6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/c59abbc6/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/c59abbc6/2-c56aefbefc656a6e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/c59abbc6/3-81ad63ce5b249959.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/c59abbc6/4-f4f34a91ada02fa5.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/c59abbc6/5-ebb9a53a87ff177d.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/c59abbc6/6-12028fd4d7919682.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/c59abbc6/7-9ce9e8bb4a197ba2.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "37a6d738",
-  "capturedAt": "2026-11-09T23:46:41.579Z",
+  "capturedAt": "2026-11-10T02:52:32.460Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,7 +10,7 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph of the rational function\n[Figure 6]\nis shown, where\n[Figure 7]\nand\n[Figure 8]\n. Which of the following is the graph of\n[Figure 9]\n, where\n[Figure 10]\n?",
+  "prompt": "[Figure 1]\n\nThe graph of the rational function $g$ is shown, where $y = g(x)$ and $x \\ge 0$. Which of the following is the graph of $y = g(x) + 4$, where $x \\ge 0$?",
   "choices": {
     "A": "[Figure 2]",
     "B": "[Figure 3]",
@@ -18,48 +18,33 @@
     "D": "[Figure 5]"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. It's given that the graph of the rational function $g$ is shown, where $y = g(x)$ and $x \\geq 0$. The graph shown passes through the point $(3, 4)$. It follows that when $x = 3$, the value of $g(x)$ is $4$. When $g(x) = 4$, the value of $g(x) + 4$ is $4 + 4$, or $8$. Therefore, the graph of $y = g(x) + 4$ passes through the point $(3, 8)$. Of the given choices, choice D is the only graph that passes through the point $(3, 8)$ and is therefore the graph of $y = g(x) + 4$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from conceptual or calculation errors.",
+  "explanation": "Choice D is correct. It's given that the graph of the rational function $g$ is shown, where $y = g(x)$ and $x \\geq 0$. The graph shown passes through the point $(3, 4)$. It follows that when $x = 3$, the value of $g(x)$ is $4$. When $g(x) = 4$, the value of $g(x) + 4$ is $4 + 4$, or $8$. Therefore, the graph of $y = g(x) + 4$ passes through the point $(3, 8)$. Of the given choices, choice D is the only graph that passes through the point $(3, 8)$ and is therefore the graph of $y = g(x) + 4$.",
   "source": "https://cooksat.com/practice?questionId=37a6d738&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/37a6d738/1-9646082df9f74a21.png"
+      "path": "data/capture-assets/37a6d738/1-07fe990cd42cead2.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 2",
-      "path": "data/capture-assets/37a6d738/2-ff0b3a9f49cee516.png"
+      "path": "data/capture-assets/37a6d738/2-f3260d2728f2904c.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 3",
-      "path": "data/capture-assets/37a6d738/3-bcf5a3393dbe0842.png"
+      "path": "data/capture-assets/37a6d738/3-1fd3396a395bf799.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 4",
-      "path": "data/capture-assets/37a6d738/4-adaf37465905e15f.png"
+      "path": "data/capture-assets/37a6d738/4-144bccb7208923f9.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 5",
-      "path": "data/capture-assets/37a6d738/5-56a0e468837b2dab.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/37a6d738/6-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/37a6d738/7-a370960d94a8b7e2.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/37a6d738/8-6024564f419d560f.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/37a6d738/9-ee6c5652a0cb30cf.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/37a6d738/10-6024564f419d560f.png"
+      "path": "data/capture-assets/37a6d738/5-21f7928b07184543.png",
+      "kind": "diagram"
     }
   ]
 }

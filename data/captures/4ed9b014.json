@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "4ed9b014",
-  "capturedAt": "2026-11-09T23:49:31.859Z",
+  "capturedAt": "2026-11-10T02:53:22.808Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The area\n[Figure 1]\n, in square feet, of a rectangular garden plot can be represented by the expression\n[Figure 2]\n, where\n[Figure 3]\nis the width, in feet, of the plot. Which expression represents the length, in feet, of the plot?",
+  "prompt": "The area $A$, in square feet, of a rectangular garden plot can be represented by the expression $x(x + 17)$, where $x$ is the width, in feet, of the plot. Which expression represents the length, in feet, of the plot?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$x$",
+    "B": "$17$",
+    "C": "$(x + 17)$",
+    "D": "$x(x + 17)$"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. It's given that the expression $x(x + 17)$ represents the area, in square feet, of a rectangular garden plot, where $x$ is the width, in feet, of the plot. The area of a rectangle can be calculated by multiplying its length by its width. It follows that the length, in feet, of the plot is represented by the expression $(x + 17)$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This expression represents the width, in feet, of the garden plot, not its length, in feet.",
+  "explanation": "Choice C is correct. It's given that the expression $x(x + 17)$ represents the area, in square feet, of a rectangular garden plot, where $x$ is the width, in feet, of the plot. The area of a rectangle can be calculated by multiplying its length by its width. It follows that the length, in feet, of the plot is represented by the expression $(x + 17)$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This expression represents the area, in square feet, of the garden plot, not its length, in feet.",
   "source": "https://cooksat.com/practice?questionId=4ed9b014&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/4ed9b014/1-539769c58f1c37fa.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/4ed9b014/2-b513aed5d73a7191.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/4ed9b014/3-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/4ed9b014/4-bdb8a8399846a625.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/4ed9b014/5-51b1cd8252761b29.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/4ed9b014/6-bde4958bda443223.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/4ed9b014/7-e7c6d6265dff250e.png"
-    }
-  ]
+  "images": []
 }

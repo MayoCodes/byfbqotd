@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "4bd44fe5",
-  "capturedAt": "2026-11-09T23:48:56.077Z",
+  "capturedAt": "2026-11-10T02:53:13.825Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
+  "prompt": "The function $f$ is defined by $f(x) = x^{2} - 3x$. What is the value of $f(5)$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$-10$",
+    "B": "$10$",
+    "C": "$20$",
+    "D": "$40$"
   },
   "correctAnswer": "B",
-  "explanation": "Substituting $5$ for $x$ in the equation $f(x) = x^2 - 3x$ yields $f(5) = 5^2 - 3(5) = 25 - 15 = 10$.",
+  "explanation": "Substituting $5$ for $x$ in the equation $f(x) = x^2 - 3x$ yields $f(5) = 5^2 - 3(5) = 25 - 15 = 10$.\n\nWhy C is incorrect:\n\nThis results from incorrectly calculating $5^2 - 3(5)$ as $25 - 5 = 20$, forgetting to multiply $3$ by $5$.",
   "source": "https://cooksat.com/practice?questionId=4bd44fe5&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/4bd44fe5/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/4bd44fe5/2-6cc4d4bf1626bfae.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/4bd44fe5/3-6d93cc1ec8a0c194.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/4bd44fe5/4-12ca838a1867652e.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/4bd44fe5/5-5dbe0cb8cacd5d34.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/4bd44fe5/6-12028fd4d7919682.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/4bd44fe5/7-fd892454bef6f9f0.png"
-    }
-  ]
+  "images": []
 }

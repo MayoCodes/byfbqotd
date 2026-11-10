@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "fa83c392",
-  "capturedAt": "2026-11-10T00:08:57.333Z",
+  "capturedAt": "2026-11-10T02:58:52.250Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,35 +10,10 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?\n\n[Figure 4]\n\n[Figure 5]",
+  "prompt": "The function $f$ is defined by $f(x)=2x^{2}+3x-1$. What is the value of $f(3)$?\n\n$$0$$\n\n$$26$$",
   "choices": {},
-  "correctAnswer": "[Figure 6]",
+  "correctAnswer": "$26$",
   "explanation": "The correct answer is $26$. The value of $f(3)$ is found by substituting $3$ for $x$ in the given function $f(x)=2x^{2}+3x-1$. Substituting $3$ for $x$ yields $f(3)=2(3)^{2}+3(3)-1$. Evaluating the exponent gives $f(3)=2(9)+3(3)-1$. Multiplying gives $f(3)=18+9-1$. Adding and subtracting from left to right gives $f(3)=27-1=26$. Therefore, the value of $f(3)$ is $26$.",
   "source": "https://cooksat.com/practice?questionId=fa83c392&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/fa83c392/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/fa83c392/2-2aa8d73f1c8a7244.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/fa83c392/3-4f668a1264f35651.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/fa83c392/4-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/fa83c392/5-9bb67bfe1bda455a.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/fa83c392/6-68e8a27fcf06fd63.png"
-    }
-  ]
+  "images": []
 }

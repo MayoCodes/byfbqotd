@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "6cb24752",
-  "capturedAt": "2026-11-09T23:53:03.271Z",
+  "capturedAt": "2026-11-10T02:54:19.096Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,48 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nis defined by the given equation. For which of the following values of\n[Figure 3]\ndoes\n[Figure 4]\n?",
+  "prompt": "$$g(x) = | 41 - 2x |$$\n\nThe function $g$ is defined by the given equation. For which of the following values of $n$ does $g(n) = 4n$?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$\\frac{(41)}{6}$",
+    "B": "$\\frac{(41)}{2}$",
+    "C": "$\\frac{(82)}{3}$",
+    "D": "$41$"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. The value of $n$ for which $g(n) = 4n$ can be found by substituting $n$ for $x$ and $4n$ for $g(x)$ in the given equation $g(x) = \\left|41 - 2x\\right|$, which yields $4n = \\left|41 - 2n\\right|$. For this equation to be true, either $-4n = 41 - 2n$ or $4n = 41 - 2n$. Adding $2n$ to both sides of $-4n = 41 - 2n$ yields $-2n = 41$, so $n = -\\frac{41}{2}$. Substituting $-\\frac{41}{2}$ for $n$ in $4n = \\left|41 - 2n\\right|$ gives $-82 = \\left|82\\right|$, or $-82 = 82$, which isn't a true statement, so $-\\frac{41}{2}$ isn't a valid value of $n$. Adding $2n$ to both sides of $4n = 41 - 2n$ yields $6n = 41$, so $n = \\frac{41}{6}$. Substituting $\\frac{41}{6}$ for $n$ in $4n = \\left|41 - 2n\\right|$ gives $\\frac{82}{3} = \\left|\\frac{82}{3}\\right|$, which is true. Therefore, the value of $n$ for which $g(n) = 4n$ is $\\frac{41}{6}$.",
+  "explanation": "Choice A is correct. The value of $n$ for which $g(n) = 4n$ can be found by substituting $n$ for $x$ and $4n$ for $g(x)$ in the given equation $g(x) = \\left|41 - 2x\\right|$, which yields $4n = \\left|41 - 2n\\right|$. For this equation to be true, either $-4n = 41 - 2n$ or $4n = 41 - 2n$. Adding $2n$ to both sides of $-4n = 41 - 2n$ yields $-2n = 41$, so $n = -\\frac{41}{2}$. Substituting $-\\frac{41}{2}$ for $n$ in $4n = \\left|41 - 2n\\right|$ gives $-82 = \\left|82\\right|$, or $-82 = 82$, which isn't a true statement, so $-\\frac{41}{2}$ isn't a valid value of $n$. Adding $2n$ to both sides of $4n = 41 - 2n$ yields $6n = 41$, so $n = \\frac{41}{6}$. Substituting $\\frac{41}{6}$ for $n$ in $4n = \\left|41 - 2n\\right|$ gives $\\frac{82}{3} = \\left|\\frac{82}{3}\\right|$, which is true. Therefore, the value of $n$ for which $g(n) = 4n$ is $\\frac{41}{6}$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is the value of $4n$ (that is, $g(n)$) when $n = \\frac{41}{6}$, not the value of $n$ itself.",
   "source": "https://cooksat.com/practice?questionId=6cb24752&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/6cb24752/1-f4106f87e2acd5fe.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/6cb24752/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/6cb24752/3-0b8fcb4e6453fcf0.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/6cb24752/4-8db450ce6fec4ec7.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/6cb24752/5-945cd592972c303b.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/6cb24752/6-6288cb8015cff824.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/6cb24752/7-ca22363ef7b0e6b9.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/6cb24752/8-7295dad3182e2de4.png"
-    }
-  ]
+  "images": []
 }

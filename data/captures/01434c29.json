@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "01434c29",
-  "capturedAt": "2026-11-09T23:20:12.961Z",
+  "capturedAt": "2026-11-10T02:50:43.066Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,60 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nmodels the population, in thousands, of a certain town\n[Figure 3]\nyears after\n[Figure 4]\n. According to the model, the population is predicted to increase by\n[Figure 5]\nevery\n[Figure 6]\nmonths. What is the value of\n[Figure 7]\n?",
+  "prompt": "$$N ( t ) = 450 ( 1.03 )^( \\frac{3}{8} ) t$$\n\nThe function $N$ models the population, in thousands, of a certain town $t$ years after $2010$. According to the model, the population is predicted to increase by $n%$ every $32$ months. What is the value of $n$?",
   "choices": {
-    "A": "[Figure 8]",
-    "B": "[Figure 9]",
-    "C": "[Figure 10]",
-    "D": "[Figure 11]"
+    "A": "$0.28$",
+    "B": "$1.03$",
+    "C": "$3$",
+    "D": "$8$"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. It's given that the function $N$ models the population of the town $t$ years after $2010$. Since there are $12$ months in a year, $32$ months is equivalent to $\\frac{32}{12}$ years. Therefore, the expression $\\frac{32}{12} x$ can represent the number of years in $x$ $32$-month periods. Substituting $\\frac{32}{12} x$ for $t$ in the given equation yields $N \\left( \\frac{32}{12} x \\right) = 450 \\left( 1.03 \\right)^{\\left( \\frac{3}{8} \\right) \\left( \\frac{32}{12} x \\right)}$, which is equivalent to $N \\left( \\frac{32}{12} x \\right) = 450 \\left( 1.03 \\right)^{x}$. Therefore, for each $32$-month period, the predicted population of the town is $1.03$ times, or $103\\%$ of, the previous population. This means that the population is predicted to increase by $3\\%$ every $32$ months.",
+  "explanation": "Choice C is correct. It's given that the function $N$ models the population of the town $t$ years after $2010$. Since there are $12$ months in a year, $32$ months is equivalent to $\\frac{32}{12}$ years. Therefore, the expression $\\frac{32}{12} x$ can represent the number of years in $x$ $32$-month periods. Substituting $\\frac{32}{12} x$ for $t$ in the given equation yields $N \\left( \\frac{32}{12} x \\right) = 450 \\left( 1.03 \\right)^{\\left( \\frac{3}{8} \\right) \\left( \\frac{32}{12} x \\right)}$, which is equivalent to $N \\left( \\frac{32}{12} x \\right) = 450 \\left( 1.03 \\right)^{x}$. Therefore, for each $32$-month period, the predicted population of the town is $1.03$ times, or $103\\%$ of, the previous population. This means that the population is predicted to increase by $3\\%$ every $32$ months.\n\nWhy B is incorrect:\n\nChoice B is incorrect. For each $32$-month period, the predicted population of the town is $1.03$ times the previous population, which is not the same as an increase of $1.03\\%$.",
   "source": "https://cooksat.com/practice?questionId=01434c29&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/01434c29/1-e2a3cca4ff7594f2.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/01434c29/2-6001ca56a4f2724b.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/01434c29/3-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/01434c29/4-f43218e5653d728a.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/01434c29/5-21d0369cf716658e.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/01434c29/6-b6bd7421bf6f874c.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/01434c29/7-0b8fcb4e6453fcf0.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/01434c29/8-71f94234d3674d3f.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/01434c29/9-59da442107b19ecd.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/01434c29/10-f4ee39ba9ef6e452.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/01434c29/11-f4f34a91ada02fa5.png"
-    }
-  ]
+  "images": []
 }

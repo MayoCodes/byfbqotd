@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "e98756cc",
-  "capturedAt": "2026-11-10T00:07:13.335Z",
+  "capturedAt": "2026-11-10T02:58:25.334Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,92 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nmodels the membership of a certain club each year from\n[Figure 2]\nthrough\n[Figure 3]\n, where\n[Figure 4]\nis the number of years after\n[Figure 5]\n. Which of the following is the best interpretation of \"\n[Figure 6]\nis approximately equal to\n[Figure 7]\n\" in this context?",
+  "prompt": "The function $B(x) = 825(1.014)^x$ models the membership of a certain club each year from $1968$ through $1983$, where $x$ is the number of years after $1968$. Which of the following is the best interpretation of \"$B(7)$ is approximately equal to $909$\" in this context?",
   "choices": {
-    "A": "The membership of the club is estimated to be approximately\n[Figure 8]\ngreater in\n[Figure 9]\nthan in\n[Figure 10]\n.",
-    "B": "The membership of the club is estimated to be approximately\n[Figure 11]\ntimes greater in\n[Figure 12]\nthan in\n[Figure 13]\n.",
-    "C": "The membership of the club is estimated to be approximately\n[Figure 14]\nin\n[Figure 15]\n.",
-    "D": "The membership of the club is estimated to increase by approximately\n[Figure 16]\nevery\n[Figure 17]\nyears between\n[Figure 18]\nand\n[Figure 19]\n."
+    "A": "The membership of the club is estimated to be approximately $7$ greater in $1975$ than in $1968$.",
+    "B": "The membership of the club is estimated to be approximately $7$ times greater in $1975$ than in $1968$.",
+    "C": "The membership of the club is estimated to be approximately $909$ in $1975$.",
+    "D": "The membership of the club is estimated to increase by approximately $909$ every $7$ years between $1968$ and $1983$."
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. It's given that $B(x) = 825(1.014)^{x}$ models the membership of the club, where $x$ is the number of years after $1968$. When $x = 7$, this represents $7$ years after $1968$, which is the year $1975$. The statement \"$B(7)$ is approximately equal to $909$\" means that the value of the function when $x = 7$ is approximately $909$. Since $B(x)$ represents the membership of the club, this means the membership of the club is estimated to be approximately $909$ in $1975$.",
+  "explanation": "Choice C is correct. It's given that $B(x) = 825(1.014)^{x}$ models the membership of the club, where $x$ is the number of years after $1968$. When $x = 7$, this represents $7$ years after $1968$, which is the year $1975$. The statement \"$B(7)$ is approximately equal to $909$\" means that the value of the function when $x = 7$ is approximately $909$. Since $B(x)$ represents the membership of the club, this means the membership of the club is estimated to be approximately $909$ in $1975$.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from misinterpreting the output value $909$ as a rate of change rather than as the membership at a specific time, and incorrectly treating the input value $7$ as defining a repeating interval.",
   "source": "https://cooksat.com/practice?questionId=e98756cc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/e98756cc/1-9c192c62df124df5.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/e98756cc/2-509784de51bdb9a2.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/e98756cc/3-df5bf8bee843337d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/e98756cc/4-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/e98756cc/5-509784de51bdb9a2.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/e98756cc/6-8f5afb979e2279df.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/e98756cc/7-1ae6aa1a70d03cfe.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/e98756cc/8-16e568e0f0916744.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/e98756cc/9-137d9357dea0f382.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/e98756cc/10-3c6e76ba484ee6e8.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/e98756cc/11-16e568e0f0916744.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/e98756cc/12-137d9357dea0f382.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/e98756cc/13-3c6e76ba484ee6e8.png"
-    },
-    {
-      "label": "Figure 14",
-      "path": "data/capture-assets/e98756cc/14-48a87bf0ead45696.png"
-    },
-    {
-      "label": "Figure 15",
-      "path": "data/capture-assets/e98756cc/15-137d9357dea0f382.png"
-    },
-    {
-      "label": "Figure 16",
-      "path": "data/capture-assets/e98756cc/16-48a87bf0ead45696.png"
-    },
-    {
-      "label": "Figure 17",
-      "path": "data/capture-assets/e98756cc/17-16e568e0f0916744.png"
-    },
-    {
-      "label": "Figure 18",
-      "path": "data/capture-assets/e98756cc/18-3c6e76ba484ee6e8.png"
-    },
-    {
-      "label": "Figure 19",
-      "path": "data/capture-assets/e98756cc/19-9c9b517e622aacda.png"
-    }
-  ]
+  "images": []
 }

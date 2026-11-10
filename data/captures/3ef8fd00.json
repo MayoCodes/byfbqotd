@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "3ef8fd00",
-  "capturedAt": "2026-11-09T23:47:46.292Z",
+  "capturedAt": "2026-11-10T02:52:52.678Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the value of\n[Figure 3]\n?",
+  "prompt": "The function $f$ is defined by $f(x)=x^{2}+5$. What is the value of $f(3)$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$8$",
+    "B": "$11$",
+    "C": "$14$",
+    "D": "$32$"
   },
   "correctAnswer": "C",
-  "explanation": "It's given that $f(x)=x^2+5$. Substituting $3$ for $x$ yields $f(3)=3^2+5=9+5=14$.\n\nWhy D is incorrect:\n\nThis may result from incorrectly calculating $(3+5)^2$ or making computational errors with the exponent.",
+  "explanation": "It's given that $f(x)=x^2+5$. Substituting $3$ for $x$ yields $f(3)=3^2+5=9+5=14$.",
   "source": "https://cooksat.com/practice?questionId=3ef8fd00&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/3ef8fd00/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/3ef8fd00/2-59a51790ddef6f8f.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/3ef8fd00/3-4f668a1264f35651.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/3ef8fd00/4-f4f34a91ada02fa5.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/3ef8fd00/5-56fefb6176fe7daf.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/3ef8fd00/6-9888925528800215.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/3ef8fd00/7-7220c8275b4af488.png"
-    }
-  ]
+  "images": []
 }

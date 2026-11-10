@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "f4131686",
-  "capturedAt": "2026-11-10T00:08:26.900Z",
+  "capturedAt": "2026-11-10T02:58:45.348Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,68 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The kinetic energy, in joules, of an object with mass\n[Figure 1]\nkilograms traveling at a speed of\n[Figure 2]\nmeters per second is given by the function\n[Figure 3]\n, where\n[Figure 4]\n.\n\nWhich of the following is the best interpretation of\n[Figure 5]\nin this context?",
+  "prompt": "The kinetic energy, in joules, of an object with mass $6$ kilograms traveling at a speed of $v$ meters per second is given by the function $E$, where $E(v) = 3v^{2}$.\n\nWhich of the following is the best interpretation of $E(15) = 675$ in this context?",
   "choices": {
-    "A": "The object traveling at\n[Figure 6]\nmeters per second has a kinetic energy of\n[Figure 7]\njoules.",
-    "B": "The object traveling at\n[Figure 8]\nmeters per second has a kinetic energy of\n[Figure 9]\njoules.",
-    "C": "The object traveling at\n[Figure 10]\nmeters per second has a kinetic energy of\n[Figure 11]\njoules.",
-    "D": "The object traveling at\n[Figure 12]\nmeters per second has a kinetic energy of\n[Figure 13]\njoules."
+    "A": "The object traveling at $15$ meters per second has a kinetic energy of $675$ joules.",
+    "B": "The object traveling at $150$ meters per second has a kinetic energy of $675$ joules.",
+    "C": "The object traveling at $675$ meters per second has a kinetic energy of $15$ joules.",
+    "D": "The object traveling at $6,750$ meters per second has a kinetic energy of $15$ joules."
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. It's given that the kinetic energy, in joules, of an object with mass $6$ kilograms traveling at a speed of $v$ meters per second is given by the function $E$, where $E(v) = 3v^{2}$. It follows that in the equation $E(15) = 675$, $15$ is the value of $v$, or the speed of the object in meters per second, and $675$ is the kinetic energy of the object, in joules, at that speed. Therefore, the best interpretation of $E(15) = 675$ in this context is the object traveling at $15$ meters per second has a kinetic energy of $675$ joules.\n\nWhy B is incorrect:\n\nChoice B is incorrect. The object traveling at $150$ meters per second has a kinetic energy of $67{,}500$ joules, not $675$ joules.",
+  "explanation": "Choice A is correct. It's given that the kinetic energy, in joules, of an object with mass $6$ kilograms traveling at a speed of $v$ meters per second is given by the function $E$, where $E(v) = 3v^{2}$. It follows that in the equation $E(15) = 675$, $15$ is the value of $v$, or the speed of the object in meters per second, and $675$ is the kinetic energy of the object, in joules, at that speed. Therefore, the best interpretation of $E(15) = 675$ in this context is the object traveling at $15$ meters per second has a kinetic energy of $675$ joules.",
   "source": "https://cooksat.com/practice?questionId=f4131686&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/f4131686/1-73f0663bf1846604.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/f4131686/2-6f21cf857080f918.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/f4131686/3-1c57c4b6ee8c0f89.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/f4131686/4-a1c7315a2bd08347.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/f4131686/5-d27bcddd7d965cd2.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/f4131686/6-c395eb4f102fcf49.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/f4131686/7-476faf7d625aff1a.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/f4131686/8-3cac76598569cf55.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/f4131686/9-476faf7d625aff1a.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/f4131686/10-476faf7d625aff1a.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/f4131686/11-c395eb4f102fcf49.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/f4131686/12-a0477f7053183c75.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/f4131686/13-c395eb4f102fcf49.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "3e6f05d0",
-  "capturedAt": "2026-11-09T23:47:34.005Z",
+  "capturedAt": "2026-11-10T02:52:48.769Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,12 +10,12 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Table 1]\n\nMarcus opened an investment account at a credit union. The table shows the exponential relationship between the time\n[Figure 2]\n, in years, since Marcus opened the account and the total amount\n[Figure 3]\n, in dollars, in the account. If Marcus made no additional deposits or withdrawals, which of the following equations best represents the relationship between\n[Figure 4]\nand\n[Figure 5]\n?",
+  "prompt": "[Table 1]\n\nMarcus opened an investment account at a credit union. The table shows the exponential relationship between the time $t$, in years, since Marcus opened the account and the total amount $n$, in dollars, in the account. If Marcus made no additional deposits or withdrawals, which of the following equations best represents the relationship between $t$ and $n$?",
   "choices": {
-    "A": "[Figure 6]",
-    "B": "[Figure 7]",
-    "C": "[Figure 8]",
-    "D": "[Figure 9]"
+    "A": "$n = 0.005 ( 1 + 820 )^t$",
+    "B": "$n = 820 ( 1 + 0.005 )^t$",
+    "C": "$n = ( 1 + 0.005 )^t$",
+    "D": "$n = ( 1 + 820 )^t$"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. The relationship between $t$ and $n$ is exponential, and the table shows $n$ increases as $t$ increases, so the relationship can be represented by $n = a\\left(1 + b\\right)^{t}$, where $a$ and $b$ are positive constants. When $t = 0$, $n = 820$, so $820 = a\\left(1 + b\\right)^{0} = a$. Thus $a = 820$. When $t = 1$, $n = 824.10$, so $824.10 = 820\\left(1 + b\\right)$. Dividing both sides by $820$ gives $1.005 = 1 + b$, so $b = 0.005$. Therefore $n = 820\\left(1 + 0.005\\right)^{t}$.",
@@ -23,39 +23,8 @@
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/3e6f05d0/1-2fa3735763a5d4dd.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/3e6f05d0/2-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/3e6f05d0/3-0b8fcb4e6453fcf0.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/3e6f05d0/4-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/3e6f05d0/5-0b8fcb4e6453fcf0.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/3e6f05d0/6-43cebd207a0d138b.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/3e6f05d0/7-f83cab950e98ce5c.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/3e6f05d0/8-776bd39c4749924b.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/3e6f05d0/9-956385f752f5bbe9.png"
+      "path": "data/capture-assets/3e6f05d0/1-2fa3735763a5d4dd.png",
+      "kind": "diagram"
     }
   ]
 }

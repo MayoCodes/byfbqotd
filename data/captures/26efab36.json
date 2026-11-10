@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "26efab36",
-  "capturedAt": "2026-11-09T23:44:14.880Z",
+  "capturedAt": "2026-11-10T02:51:52.412Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,27 +10,10 @@
   "difficulty": "Medium",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "What is an x-coordinate of an x-intercept of the graph of\n[Figure 1]\nin the xy-plane?\n\n[Figure 2]\n\n[Figure 3]",
+  "prompt": "What is an x-coordinate of an x-intercept of the graph of $y = 5(x - 11)(x + 7)(x + 2)$ in the xy-plane?\n\n$$0$$\n\n$$11,-7,-2$$",
   "choices": {},
-  "correctAnswer": "[Figure 4]",
+  "correctAnswer": "$11,-7,-2$",
   "explanation": "The correct answer is either $11$, $-7$, or $-2$. The x-intercepts of a graph in the xy-plane are the points at which the graph intersects the x-axis, or where $y = 0$. Substituting $0$ for $y$ in the given equation yields $0 = 5\\left(x - 11\\right)\\left(x + 7\\right)\\left(x + 2\\right)$. Dividing both sides by $5$ yields $0 = \\left(x - 11\\right)\\left(x + 7\\right)\\left(x + 2\\right)$. By the zero product property, $x - 11 = 0$, $x + 7 = 0$, or $x + 2 = 0$. Solving each equation gives $x = 11$, $x = -7$, or $x = -2$. Therefore, the x-coordinates of the x-intercepts are $11$, $-7$, and $-2$. Note that 11, -7, and -2 are examples of ways to enter a correct answer.",
   "source": "https://cooksat.com/practice?questionId=26efab36&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/26efab36/1-6cab14d78befd61e.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/26efab36/2-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/26efab36/3-b59415e218d8b591.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/26efab36/4-2f9e517d5f6c7f52.png"
-    }
-  ]
+  "images": []
 }

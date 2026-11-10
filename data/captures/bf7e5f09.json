@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "bf7e5f09",
-  "capturedAt": "2026-11-10T00:02:26.140Z",
+  "capturedAt": "2026-11-10T02:57:08.339Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,35 +10,16 @@
   "difficulty": "Easy",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe y-intercept of the graph shown is\n[Figure 2]\n. What is the value of\n[Figure 3]\n?\n\n[Figure 4]\n\n[Figure 5]",
+  "prompt": "[Figure 1]\n\nThe y-intercept of the graph shown is $( 0 , y )$. What is the value of $y$?\n\n$$0$$\n\n$$25$$",
   "choices": {},
-  "correctAnswer": "[Figure 6]",
+  "correctAnswer": "$25$",
   "explanation": "The correct answer is $25$. The y-intercept of a graph in the xy-plane is the point $\\left( 0 , y \\right)$ on the graph where $x = 0$. The y-intercept of the graph shown is $\\left( 0 , 25 \\right)$. Therefore, the value of $y$ is $25$.",
   "source": "https://cooksat.com/practice?questionId=bf7e5f09&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/bf7e5f09/1-2724d172a8cbdef6.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/bf7e5f09/2-2669e0f92c054192.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/bf7e5f09/3-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/bf7e5f09/4-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/bf7e5f09/5-0ee7c34afd857757.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/bf7e5f09/6-6a73c8218e659bec.png"
+      "path": "data/capture-assets/bf7e5f09/1-89511f18a3e64363.png",
+      "kind": "diagram"
     }
   ]
 }

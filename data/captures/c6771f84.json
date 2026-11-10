@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "c6771f84",
-  "capturedAt": "2026-11-10T00:03:10.906Z",
+  "capturedAt": "2026-11-10T02:57:23.751Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is\n[Figure 3]\n?",
+  "prompt": "The function $f$ is defined by $f(x)=x^{2}-3x$. What is $f(12)$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$108$",
+    "B": "$120$",
+    "C": "$144$",
+    "D": "$180$"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. Substituting $12$ for $x$ in the given function yields $f(12)=12^{2}-3(12)$, which is equivalent to $f(12)=144-36$, or $f(12)=108$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is the value of $12^2$ without subtracting $3(12)$.",
+  "explanation": "Choice A is correct. Substituting $12$ for $x$ in the given function yields $f(12)=12^{2}-3(12)$, which is equivalent to $f(12)=144-36$, or $f(12)=108$.",
   "source": "https://cooksat.com/practice?questionId=c6771f84&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/c6771f84/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/c6771f84/2-6cc4d4bf1626bfae.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/c6771f84/3-fca7de7e5b757d10.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/c6771f84/4-95b8233edb4535a6.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/c6771f84/5-5cec0f2228c7878c.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/c6771f84/6-fd6b741fe683d013.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/c6771f84/7-1b13ce6718e99fc1.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "5c48bce9",
-  "capturedAt": "2026-11-09T23:51:23.729Z",
+  "capturedAt": "2026-11-10T02:53:52.360Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,56 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. The graph of\n[Figure 3]\nin the\n[Figure 4]\n-plane is a parabola. Which of the following intervals contains the\n[Figure 5]\n-coordinate of the vertex of the graph of\n[Figure 6]\n?",
+  "prompt": "The function $g$ is defined by $g(x) = (x - 2)(x - 8)$. The graph of $g$ in the $xy$-plane is a parabola. Which of the following intervals contains the $x$-coordinate of the vertex of the graph of $g$?",
   "choices": {
-    "A": "[Figure 7]",
-    "B": "[Figure 8]",
-    "C": "[Figure 9]",
-    "D": "[Figure 10]"
+    "A": "$1 < x < 2$",
+    "B": "$3 < x < 7$",
+    "C": "$7 < x < 8$",
+    "D": "$8 < x < 9$"
   },
   "correctAnswer": "B",
   "explanation": "Choice B is correct. The graph of a quadratic function in the $xy$-plane is a parabola whose axis of symmetry passes through its vertex. Therefore, the $x$-coordinate of the vertex is the midpoint of the two $x$-intercepts of the graph. Since $g(2) = 0$ and $g(8) = 0$, the $x$-coordinate of the vertex is $\\frac{2 + 8}{2} = 5$. Of the given intervals, only $3 < x < 7$ contains $5$.",
   "source": "https://cooksat.com/practice?questionId=5c48bce9&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/5c48bce9/1-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/5c48bce9/2-1e7499b02f550c3f.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/5c48bce9/3-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/5c48bce9/4-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/5c48bce9/5-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/5c48bce9/6-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/5c48bce9/7-d4d2f7f8b6a1b65f.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/5c48bce9/8-fe7de0f12b8ddb66.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/5c48bce9/9-fc5b8216f16309d9.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/5c48bce9/10-3f72124be38620dd.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "79434f0c",
-  "capturedAt": "2026-11-09T23:54:38.484Z",
+  "capturedAt": "2026-11-10T02:54:49.568Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,48 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A quadratic function models a rocket's height, in meters, above the ground in terms of the time, in seconds, after it was launched. The model estimates that the rocket was launched from an initial height of\n[Figure 1]\nmeters above the ground and reached a maximum height of\n[Figure 2]\nmeters above the ground\n[Figure 3]\nseconds after the launch. How many seconds after the launch does the model estimate that the rocket will return to a height of\n[Figure 4]\nmeters?",
+  "prompt": "A quadratic function models a rocket's height, in meters, above the ground in terms of the time, in seconds, after it was launched. The model estimates that the rocket was launched from an initial height of $10$ meters above the ground and reached a maximum height of $323.6$ meters above the ground $8$ seconds after the launch. How many seconds after the launch does the model estimate that the rocket will return to a height of $10$ meters?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$8$",
+    "B": "$10$",
+    "C": "$16$",
+    "D": "$18$"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. Since a quadratic function models the rocket's height, the model can be written in the form $g(x) = a(x - h)^{2} + k$, where $g(x)$ is the rocket's estimated height, in meters, $x$ seconds after launch, and $(h, k)$ is the vertex. The maximum height of $323.6$ meters is reached $8$ seconds after launch, so $h = 8$ and $k = 323.6$, giving $g(x) = a(x - 8)^{2} + 323.6$. Since the initial height is $10$ meters, $g(0) = 10$. Substituting yields $10 = a(0 - 8)^{2} + 323.6$, or $10 = 64a + 323.6$. Subtracting $323.6$ from both sides gives $-313.6 = 64a$, so $a = -4.9$. The model is $g(x) = -4.9(x - 8)^{2} + 323.6$. The number of seconds after launch when the rocket returns to $10$ meters is the value of $x$ when $g(x) = 10$. Substituting gives $10 = -4.9(x - 8)^{2} + 323.6$, so $-313.6 = -4.9(x - 8)^{2}$, and $(x - 8)^{2} = 64$. Taking the square root of both sides yields $x - 8 = 8$ or $x - 8 = -8$, so $x = 16$ or $x = 0$. Since $x = 0$ represents the launch time, the model estimates the rocket returns to a height of $10$ meters $16$ seconds after launch. Alternate approach: Because a quadratic is symmetric about its vertex, the time to travel from the initial height up to the maximum equals the time to fall back from the maximum to that same height. Since it took $8$ seconds to reach the maximum, it takes another $8$ seconds to return to $10$ meters, for a total of $16$ seconds after launch.\n\nWhy D is incorrect:\n\nChoice D is incorrect and may result from conceptual or calculation errors when applying the symmetry of the quadratic model.",
+  "explanation": "Choice C is correct. Since a quadratic function models the rocket's height, the model can be written in the form $g(x) = a(x - h)^{2} + k$, where $g(x)$ is the rocket's estimated height, in meters, $x$ seconds after launch, and $(h, k)$ is the vertex. The maximum height of $323.6$ meters is reached $8$ seconds after launch, so $h = 8$ and $k = 323.6$, giving $g(x) = a(x - 8)^{2} + 323.6$. Since the initial height is $10$ meters, $g(0) = 10$. Substituting yields $10 = a(0 - 8)^{2} + 323.6$, or $10 = 64a + 323.6$. Subtracting $323.6$ from both sides gives $-313.6 = 64a$, so $a = -4.9$. The model is $g(x) = -4.9(x - 8)^{2} + 323.6$. The number of seconds after launch when the rocket returns to $10$ meters is the value of $x$ when $g(x) = 10$. Substituting gives $10 = -4.9(x - 8)^{2} + 323.6$, so $-313.6 = -4.9(x - 8)^{2}$, and $(x - 8)^{2} = 64$. Taking the square root of both sides yields $x - 8 = 8$ or $x - 8 = -8$, so $x = 16$ or $x = 0$. Since $x = 0$ represents the launch time, the model estimates the rocket returns to a height of $10$ meters $16$ seconds after launch. Alternate approach: Because a quadratic is symmetric about its vertex, the time to travel from the initial height up to the maximum equals the time to fall back from the maximum to that same height. Since it took $8$ seconds to reach the maximum, it takes another $8$ seconds to return to $10$ meters, for a total of $16$ seconds after launch.",
   "source": "https://cooksat.com/practice?questionId=79434f0c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/79434f0c/1-46a154a7244283d3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/79434f0c/2-17a463ebcf476fbf.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/79434f0c/3-7a88e37fc6073da8.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/79434f0c/4-46a154a7244283d3.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/79434f0c/5-f4f34a91ada02fa5.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/79434f0c/6-5dbe0cb8cacd5d34.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/79434f0c/7-1158988890b56c17.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/79434f0c/8-d126f8f5b8501d4f.png"
-    }
-  ]
+  "images": []
 }

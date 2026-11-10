@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "cc244b22",
-  "capturedAt": "2026-11-10T00:03:40.083Z",
+  "capturedAt": "2026-11-10T02:57:30.655Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,60 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A biologist recorded the number of bacteria in a petri dish at various times during an experiment. An exponential model gives the estimated number of bacteria,\n[Figure 1]\n, in the petri dish\n[Figure 2]\nhours after the experiment began, where\n[Figure 3]\n. Based on the model,\n[Figure 4]\nbacteria were estimated to be in the petri dish at the start of the experiment, and every\n[Figure 5]\nminutes the estimated number of bacteria increased by\n[Figure 6]\nof the estimated number of bacteria\n[Figure 7]\nminutes earlier. Which of the following equations best represents this model?",
+  "prompt": "A biologist recorded the number of bacteria in a petri dish at various times during an experiment. An exponential model gives the estimated number of bacteria, $B$, in the petri dish $t$ hours after the experiment began, where $t \\le 4$. Based on the model, $140$ bacteria were estimated to be in the petri dish at the start of the experiment, and every $20$ minutes the estimated number of bacteria increased by $75%$ of the estimated number of bacteria $20$ minutes earlier. Which of the following equations best represents this model?",
   "choices": {
-    "A": "[Figure 8]",
-    "B": "[Figure 9]",
-    "C": "[Figure 10]",
-    "D": "[Figure 11]"
+    "A": "$B = 140(0.75)^\\frac{t}{(20)}$",
+    "B": "$B = 140(0.75)^{3}t$",
+    "C": "$B = 140(1.75)^\\frac{t}{(20)}$",
+    "D": "$B = 140(1.75)^{3}t$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. Since the number of bacteria increases by a fixed percentage every $20$ minutes, the model can be represented by an equation of the form $B = K a^{n}$, where $B$ is the estimated number of bacteria $t$ hours after the experiment began, $K$ and $a$ are constants, and $n$ is the number of $20$-minute intervals that have passed in $t$ hours. Since $140$ bacteria were in the petri dish at the start, when $t = 0$, $B = 140$. Substituting $0$ for $n$ and $140$ for $B$ in $B = K a^{n}$ yields $140 = K a^{0}$, or $K = 140$. An increase by $75\\%$ means the new amount equals the original plus $75\\%$ of the original, which is $100\\% + 75\\% = 175\\%$ of the original, or a multiplier of $1.75$. Thus, after one $20$-minute interval, $B = 140(1.75)$. Substituting $1$ for $n$, $140(1.75)$ for $B$, and $140$ for $K$ in $B = K a^{n}$ gives $a = 1.75$. Since $20$ minutes equals $\\frac{1}{3}$ hour, the number of $20$-minute intervals in $t$ hours is $\\frac{t}{1/3} = 3t$. Substituting $140$ for $K$, $1.75$ for $a$, and $3t$ for $n$ in $B = K a^{n}$ yields $B = 140(1.75)^{3t}$.",
   "source": "https://cooksat.com/practice?questionId=cc244b22&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/cc244b22/1-48d6e1f7e803a0f9.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/cc244b22/2-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/cc244b22/3-14f1fdf1ff507f59.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/cc244b22/4-f5c9847d884350b9.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/cc244b22/5-0473d8c097cd469b.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/cc244b22/6-bab98f62c7a7ef9e.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/cc244b22/7-0473d8c097cd469b.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/cc244b22/8-2216201d44c8209c.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/cc244b22/9-b3af77193b6f1437.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/cc244b22/10-62b7988d282bb102.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/cc244b22/11-2278ae44c8d7796c.png"
-    }
-  ]
+  "images": []
 }

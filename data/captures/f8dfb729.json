@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "f8dfb729",
-  "capturedAt": "2026-11-10T00:08:51.380Z",
+  "capturedAt": "2026-11-10T02:58:50.496Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,43 +10,10 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\nis defined by the given equation, where\n[Figure 3]\nis a constant and\n[Figure 4]\n. What is the value of\n[Figure 5]\n?\n\n[Figure 6]\n\n[Figure 7]",
+  "prompt": "$$f(x)=\\frac{(|x|)}{a}-10$$\n\nThe function $f$ is defined by the given equation, where $a$ is a constant and $a<0$. What is the value of $f(12a) \\times f(8a)$?\n\n$$0$$\n\n$$396$$",
   "choices": {},
-  "correctAnswer": "[Figure 8]",
+  "correctAnswer": "$396$",
   "explanation": "The correct answer is $396$. Since $a<0$, the value $12a<0$, so $|12a|=-12a$. Substituting: $f(12a)=\\frac{-12a}{a}-10=-12-10=-22$. Since $a<0$, the value $8a<0$, so $|8a|=-8a$. Substituting: $f(8a)=\\frac{-8a}{a}-10=-8-10=-18$. Therefore, $f(12a) \\cdot f(8a)=(-22)(-18)=396$.",
   "source": "https://cooksat.com/practice?questionId=f8dfb729&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/f8dfb729/1-b707138f37757ac6.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/f8dfb729/2-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/f8dfb729/3-23564e26b3edd50d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/f8dfb729/4-393eab69e8718e67.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/f8dfb729/5-8b4adae9ad8d75e8.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/f8dfb729/6-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/f8dfb729/7-b6b71392012f8191.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/f8dfb729/8-7d1d41819e530d66.png"
-    }
-  ]
+  "images": []
 }

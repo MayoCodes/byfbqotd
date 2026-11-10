@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "dd7ac1bf",
-  "capturedAt": "2026-11-10T00:05:54.637Z",
+  "capturedAt": "2026-11-10T02:58:01.304Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,40 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "For the function\n[Figure 1]\n, what is the value of\n[Figure 2]\n?",
+  "prompt": "For the function $f(x)=x^{2}+4x-5$, what is the value of $f(1)$?",
   "choices": {
-    "A": "[Figure 3]",
-    "B": "[Figure 4]",
-    "C": "[Figure 5]",
-    "D": "[Figure 6]"
+    "A": "$-8$",
+    "B": "$0$",
+    "C": "$2$",
+    "D": "$10$"
   },
   "correctAnswer": "B",
   "explanation": "Substituting $x = 1$ into $f(x) = x^2 + 4x - 5$ gives $f(1) = 1^2 + 4(1) - 5 = 1 + 4 - 5 = 0$.",
   "source": "https://cooksat.com/practice?questionId=dd7ac1bf&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/dd7ac1bf/1-b5499f70fb7c9730.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/dd7ac1bf/2-b97b160fe9abec32.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/dd7ac1bf/3-40ee30d444a60327.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/dd7ac1bf/4-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/dd7ac1bf/5-eecad86a2b305c5e.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/dd7ac1bf/6-5dbe0cb8cacd5d34.png"
-    }
-  ]
+  "images": []
 }

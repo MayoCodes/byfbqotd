@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "3151880a",
-  "capturedAt": "2026-11-09T23:45:46.060Z",
+  "capturedAt": "2026-11-10T02:52:16.278Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -12,10 +12,10 @@
   "passage": "",
   "prompt": "[Figure 1]\n\nWhat is the y-intercept of the graph shown?",
   "choices": {
-    "A": "[Figure 2]",
-    "B": "[Figure 3]",
-    "C": "[Figure 4]",
-    "D": "[Figure 5]"
+    "A": "$(0, 3)$",
+    "B": "$(2, 0)$",
+    "C": "$(3, 0)$",
+    "D": "$(3, 3)$"
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. The y-intercept of a graph in the xy-plane is the point at which the graph crosses the y-axis, where $x = 0$. The graph shown crosses the y-axis at the point $(0, 3)$. Therefore, the y-intercept of the graph shown is $(0, 3)$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. A y-intercept must have x-coordinate $0$, so $(3, 3)$ cannot be the y-intercept of the graph.",
@@ -23,23 +23,8 @@
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/3151880a/1-db5338e470fac80b.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/3151880a/2-3f399f1518c8507c.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/3151880a/3-edbde2768ae9da6f.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/3151880a/4-51f15da9907daa84.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/3151880a/5-4801137c7c06d745.png"
+      "path": "data/capture-assets/3151880a/1-4a80aef71110dffc.png",
+      "kind": "diagram"
     }
   ]
 }

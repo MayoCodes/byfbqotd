@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "3ef6f329",
-  "capturedAt": "2026-11-09T23:47:40.901Z",
+  "capturedAt": "2026-11-10T02:52:50.898Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,21 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph of\n[Figure 2]\nis shown. What is the value of\n[Figure 3]\n?",
+  "prompt": "[Figure 1]\n\nThe graph of $y=f(x)$ is shown. What is the value of $f(0)$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$8$"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. The graph of $y=f(x)$ is shown. The graph passes through the point $(0,2)$. Therefore, $f(0)=2$.",
+  "explanation": "Choice A is correct. The graph of $y=f(x)$ is shown. The graph passes through the point $(0,2)$. Therefore, $f(0)=2$.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from misreading the graph or confusing coordinates.",
   "source": "https://cooksat.com/practice?questionId=3ef6f329&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/3ef6f329/1-63eb5350819a5e44.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/3ef6f329/2-8dfb98eeaa92843f.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/3ef6f329/3-5429f188c46706a7.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/3ef6f329/4-eecad86a2b305c5e.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/3ef6f329/5-f4ee39ba9ef6e452.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/3ef6f329/6-fcf7d75cfc7ff09c.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/3ef6f329/7-f4f34a91ada02fa5.png"
+      "path": "data/capture-assets/3ef6f329/1-d4189969c44f218f.png",
+      "kind": "diagram"
     }
   ]
 }

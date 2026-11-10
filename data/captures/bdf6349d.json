@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "bdf6349d",
-  "capturedAt": "2026-11-10T00:02:13.202Z",
+  "capturedAt": "2026-11-10T02:57:04.585Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,52 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe function\n[Figure 2]\ngives the value, in dollars, of a used vehicle after\n[Figure 3]\nmonths of ownership. If the value of the vehicle decreases each year by\n[Figure 4]\nof its value the preceding year, what is the value of\n[Figure 5]\n?",
+  "prompt": "$$g(x) = 5,200(0.20)^\\frac{x}{(12)}$$\n\nThe function $g$ gives the value, in dollars, of a used vehicle after $x$ months of ownership. If the value of the vehicle decreases each year by $r%$ of its value the preceding year, what is the value of $r$?",
   "choices": {
-    "A": "[Figure 6]",
-    "B": "[Figure 7]",
-    "C": "[Figure 8]",
-    "D": "[Figure 9]"
+    "A": "$3$",
+    "B": "$12$",
+    "C": "$20$",
+    "D": "$80$"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. The function $g$ gives the value of the vehicle after $x$ months. Since there are $12$ months in a year, substituting $12$ for $x$ in the equation $g(x) = 5{,}200(0.20)^{\\frac{x}{12}}$ yields $g(12) = 5{,}200(0.20)^{\\frac{12}{12}}$, which is equivalent to $g(12) = 5{,}200(0.20)^{1}$, or $g(12) = 5{,}200(0.20)$. Therefore, after one year the value is $0.20$ times, or $20\\%$ of, the value the preceding year. This means the value decreases by $100\\% - 20\\% = 80\\%$ each year. Therefore, the value of $r$ is $80$.",
+  "explanation": "Choice D is correct. The function $g$ gives the value of the vehicle after $x$ months. Since there are $12$ months in a year, substituting $12$ for $x$ in the equation $g(x) = 5{,}200(0.20)^{\\frac{x}{12}}$ yields $g(12) = 5{,}200(0.20)^{\\frac{12}{12}}$, which is equivalent to $g(12) = 5{,}200(0.20)^{1}$, or $g(12) = 5{,}200(0.20)$. Therefore, after one year the value is $0.20$ times, or $20\\%$ of, the value the preceding year. This means the value decreases by $100\\% - 20\\% = 80\\%$ each year. Therefore, the value of $r$ is $80$.\n\nWhy B is incorrect:\n\nChoice B is incorrect. This is the denominator of the fractional exponent (the number of months in a year), not the annual percent decrease in the vehicle's value.",
   "source": "https://cooksat.com/practice?questionId=bdf6349d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/bdf6349d/1-364bfb29751295a3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/bdf6349d/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/bdf6349d/3-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/bdf6349d/4-78d0eaf81d808af8.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/bdf6349d/5-adab81c4e24d47ac.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/bdf6349d/6-f4ee39ba9ef6e452.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/bdf6349d/7-ebb9a53a87ff177d.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/bdf6349d/8-12028fd4d7919682.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/bdf6349d/9-f126932e0aa6cf5a.png"
-    }
-  ]
+  "images": []
 }

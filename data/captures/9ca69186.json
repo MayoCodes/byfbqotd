@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "9ca69186",
-  "capturedAt": "2026-11-09T23:58:49.680Z",
+  "capturedAt": "2026-11-10T02:56:09.106Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,56 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "Marisol is selling stamps from her stamp collection. When she started selling the stamps, there were\n[Figure 1]\nstamps in the collection. At the end of each month for\n[Figure 2]\nmonths after Marisol started selling the stamps, the number of stamps in the collection had decreased by\n[Figure 3]\nof the stamps in the collection at the end of the previous month. Which equation gives the number of stamps,\n[Figure 4]\n, in the collection\n[Figure 5]\nmonths after Marisol started selling the stamps, where\n[Figure 6]\n?",
+  "prompt": "Marisol is selling stamps from her stamp collection. When she started selling the stamps, there were $4,500$ stamps in the collection. At the end of each month for $3$ months after Marisol started selling the stamps, the number of stamps in the collection had decreased by $\\frac{2}{3}$ of the stamps in the collection at the end of the previous month. Which equation gives the number of stamps, $s$, in the collection $m$ months after Marisol started selling the stamps, where $0 \\le m < 3$?",
   "choices": {
-    "A": "[Figure 7]",
-    "B": "[Figure 8]",
-    "C": "[Figure 9]",
-    "D": "[Figure 10]"
+    "A": "$s = \\frac{m^{1}}{3}$",
+    "B": "$s = 1,500(\\frac{1}{3})^m$",
+    "C": "$s = 4,500^m$",
+    "D": "$s = 4,500(\\frac{1}{3})^m$"
   },
   "correctAnswer": "D",
-  "explanation": "Choice D is correct. The collection starts with $4{,}500$ stamps, and at the end of each month, the number of stamps decreases by $\\frac{2}{3}$ of the previous month's count. This means $\\frac{1}{3}$ of the stamps remain each month, so the number of stamps is multiplied by $\\frac{1}{3}$ each month. This situation is modeled by an exponential equation of the form $s = a(b)^m$, where $a$ is the initial number of stamps and $b$ is the multiplicative factor per month. Since $a = 4{,}500$ and $b = \\frac{1}{3}$, the equation is $s = 4{,}500\\left(\\frac{1}{3}\\right)^m$. This can be verified: when $m = 1$, the equation gives $s = 4{,}500\\left(\\frac{1}{3}\\right) = 1{,}500$, which correctly represents the collection after one month.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This equation represents a situation where the initial value $4{,}500$ is raised to the power $m$, which would produce extremely large values and does not model the decreasing collection described in the problem.",
+  "explanation": "Choice D is correct. The collection starts with $4{,}500$ stamps, and at the end of each month, the number of stamps decreases by $\\frac{2}{3}$ of the previous month's count. This means $\\frac{1}{3}$ of the stamps remain each month, so the number of stamps is multiplied by $\\frac{1}{3}$ each month. This situation is modeled by an exponential equation of the form $s = a(b)^m$, where $a$ is the initial number of stamps and $b$ is the multiplicative factor per month. Since $a = 4{,}500$ and $b = \\frac{1}{3}$, the equation is $s = 4{,}500\\left(\\frac{1}{3}\\right)^m$. This can be verified: when $m = 1$, the equation gives $s = 4{,}500\\left(\\frac{1}{3}\\right) = 1{,}500$, which correctly represents the collection after one month.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This equation represents a power function where $s$ equals $m$ raised to the power $\\frac{1}{3}$, which has no relationship to the initial collection size or the monthly decrease described in the problem.",
   "source": "https://cooksat.com/practice?questionId=9ca69186&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/9ca69186/1-00d14cba6cf06394.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/9ca69186/2-fa19f106d3a0914a.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/9ca69186/3-eb02fafab13fb328.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/9ca69186/4-f566ac546561428f.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/9ca69186/5-cb1160aa3a503d7d.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/9ca69186/6-769f2674cf3bc986.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/9ca69186/7-0392cad700c14cb2.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/9ca69186/8-e480562c1264f4da.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/9ca69186/9-33e827d6aba6c900.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/9ca69186/10-bc096f9b63e209a3.png"
-    }
-  ]
+  "images": []
 }

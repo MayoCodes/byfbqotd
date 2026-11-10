@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "4e2e6822",
-  "capturedAt": "2026-11-09T23:49:13.295Z",
+  "capturedAt": "2026-11-10T02:53:19.094Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,68 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A model estimates that at the end of each year from\n[Figure 1]\nto\n[Figure 2]\n, the number of bacteria in a culture was\n[Figure 3]\nmore than the number of bacteria in the culture at the end of the previous year. The model estimates that at the end of\n[Figure 4]\n, there were\n[Figure 5]\nbacteria in the culture. Which of the following equations represents this model, where\n[Figure 6]\nis the estimated number of bacteria in the culture\n[Figure 7]\nyears after the end of\n[Figure 8]\nand\n[Figure 9]\n?",
+  "prompt": "A model estimates that at the end of each year from $2018$ to $2023$, the number of bacteria in a culture was $130%$ more than the number of bacteria in the culture at the end of the previous year. The model estimates that at the end of $2019$, there were $161$ bacteria in the culture. Which of the following equations represents this model, where $p$ is the estimated number of bacteria in the culture $t$ years after the end of $2018$ and $t \\le 5$?",
   "choices": {
-    "A": "[Figure 10]",
-    "B": "[Figure 11]",
-    "C": "[Figure 12]",
-    "D": "[Figure 13]"
+    "A": "$p = 70(1.3)^t$",
+    "B": "$p = 70(2.3)^t$",
+    "C": "$p = 161(1.3)^t$",
+    "D": "$p = 161(2.3)^t$"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. Since the number of bacteria increases by a fixed percentage each year, the relationship is exponential and can be modeled by an equation of the form $p = a(b)^t$, where $a$ is the initial population when $t = 0$ and $b$ is the growth factor. It's given that $t$ represents the number of years after the end of $2018$, so $t = 0$ corresponds to the end of $2018$ and $t = 1$ corresponds to the end of $2019$. It's also given that each year the population is $130\\%$ more than the previous year. An increase of $130\\%$ means the new population is the original plus $130\\%$ of the original, which equals $100\\% + 130\\% = 230\\%$ of the original, or $2.3$ times the original. Therefore, $b = 2.3$. Since the population at the end of $2019$ was $161$ bacteria and this corresponds to $t = 1$, substituting $1$ for $t$ and $161$ for $p$ in $p = a(2.3)^t$ gives $161 = a(2.3)^1$, or $161 = 2.3a$. Dividing both sides by $2.3$ yields $a = 70$. Therefore, the equation is $p = 70(2.3)^t$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from interpreting $130\\%$ more than the previous year's population as a growth factor of $1.3$ instead of $2.3$. An increase of $130\\%$ means the new value is $230\\%$ of the original, not $130\\%$ of the original.",
+  "explanation": "Choice B is correct. Since the number of bacteria increases by a fixed percentage each year, the relationship is exponential and can be modeled by an equation of the form $p = a(b)^t$, where $a$ is the initial population when $t = 0$ and $b$ is the growth factor. It's given that $t$ represents the number of years after the end of $2018$, so $t = 0$ corresponds to the end of $2018$ and $t = 1$ corresponds to the end of $2019$. It's also given that each year the population is $130\\%$ more than the previous year. An increase of $130\\%$ means the new population is the original plus $130\\%$ of the original, which equals $100\\% + 130\\% = 230\\%$ of the original, or $2.3$ times the original. Therefore, $b = 2.3$. Since the population at the end of $2019$ was $161$ bacteria and this corresponds to $t = 1$, substituting $1$ for $t$ and $161$ for $p$ in $p = a(2.3)^t$ gives $161 = a(2.3)^1$, or $161 = 2.3a$. Dividing both sides by $2.3$ yields $a = 70$. Therefore, the equation is $p = 70(2.3)^t$.\n\nWhy C is incorrect:\n\nChoice C is incorrect and may result from using $161$, the population at the end of $2019$ (when $t = 1$), as the initial value $a$ in the exponential model and from using $1.3$ as the growth factor instead of $2.3$.",
   "source": "https://cooksat.com/practice?questionId=4e2e6822&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/4e2e6822/1-1ae31b9c528308e8.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/4e2e6822/2-644911a07a4ec38c.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/4e2e6822/3-02b3f823ddd15717.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/4e2e6822/4-f4630ead32a9f8d0.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/4e2e6822/5-7919dddc8f251889.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/4e2e6822/6-f07e748cf82e0762.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/4e2e6822/7-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/4e2e6822/8-1ae31b9c528308e8.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/4e2e6822/9-f763c17580b65ae6.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/4e2e6822/10-91adddd19e1055c7.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/4e2e6822/11-cbfb5a062f13939f.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/4e2e6822/12-d0806af2e14b1722.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/4e2e6822/13-d40c41e1651222e1.png"
-    }
-  ]
+  "images": []
 }

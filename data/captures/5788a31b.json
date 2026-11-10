@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "5788a31b",
-  "capturedAt": "2026-11-09T23:51:11.589Z",
+  "capturedAt": "2026-11-10T02:53:49.008Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nIf the given function\n[Figure 2]\nis graphed in the xy-plane, where\n[Figure 3]\n, what is an x-intercept of the graph?",
+  "prompt": "$$g(x) = x^{2} - 11x - 350$$\n\nIf the given function $g$ is graphed in the xy-plane, where $y = g(x)$, what is an x-intercept of the graph?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$(-350, 0)$",
+    "B": "$(-25, 0)$",
+    "C": "$(-14, 0)$",
+    "D": "$(14, 0)$"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. The x-intercepts of the graph in the xy-plane are the points where $y = 0$. Substituting $0$ for $g(x)$ in the equation $g(x) = x^{2} - 11x - 350$ yields $0 = x^{2} - 11x - 350$. Factoring the right-hand side yields $0 = (x + 14)(x - 25)$. By the zero product property, $x + 14 = 0$ or $x - 25 = 0$, which gives $x = -14$ or $x = 25$. Therefore, the x-intercepts of the graph of $y = g(x)$ are $(-14, 0)$ and $(25, 0)$. Of these, only $(-14, 0)$ is given as a choice.",
   "source": "https://cooksat.com/practice?questionId=5788a31b&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/5788a31b/1-4efe03d4de618f52.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/5788a31b/2-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/5788a31b/3-a370960d94a8b7e2.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/5788a31b/4-53612952f0d0306e.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/5788a31b/5-48c9c2d1d9bd9b51.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/5788a31b/6-7a4918d297aa9297.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/5788a31b/7-6f555f105c96a89f.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "a6a7af56",
-  "capturedAt": "2026-11-09T23:59:38.777Z",
+  "capturedAt": "2026-11-10T02:56:22.250Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,7 +10,7 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Table 1]\n\nThe table shown includes some values of\n[Figure 6]\nand their corresponding values of\n[Figure 7]\n. Which of the following graphs in the\n[Figure 8]\n-plane could represent the relationship between\n[Figure 9]\nand\n[Figure 10]\n?",
+  "prompt": "[Table 1]\n\nThe table shown includes some values of $x$ and their corresponding values of $y$. Which of the following graphs in the $xy$-plane could represent the relationship between $x$ and $y$?",
   "choices": {
     "A": "[Figure 2]",
     "B": "[Figure 3]",
@@ -18,48 +18,33 @@
     "D": "[Figure 5]"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. Each pair of values shown in the table gives the ordered pair of coordinates for a point that lies on the graph representing the relationship between $x$ and $y$ in the $xy$-plane: $(-2, 4)$, $(-1, 1)$, $(0, 0)$, $(1, 1)$, and $(2, 4)$. Only the graph in choice B passes through all of these points.",
+  "explanation": "Choice B is correct. Each pair of values shown in the table gives the ordered pair of coordinates for a point that lies on the graph representing the relationship between $x$ and $y$ in the $xy$-plane: $(-2, 4)$, $(-1, 1)$, $(0, 0)$, $(1, 1)$, and $(2, 4)$. Only the graph in choice B passes through all of these points.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This graph does not pass through the point $(1, 1)$; it passes through $(1, 2)$ instead.",
   "source": "https://cooksat.com/practice?questionId=a6a7af56&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/a6a7af56/1-d2cb870aa2bcc573.png"
+      "path": "data/capture-assets/a6a7af56/1-d2cb870aa2bcc573.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 2",
-      "path": "data/capture-assets/a6a7af56/2-98785e5f46c06f41.png"
+      "path": "data/capture-assets/a6a7af56/2-f0fcbb03c2eee22b.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 3",
-      "path": "data/capture-assets/a6a7af56/3-caf1aa04bae87610.png"
+      "path": "data/capture-assets/a6a7af56/3-003581443b9b8d50.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 4",
-      "path": "data/capture-assets/a6a7af56/4-283bac311ab31c89.png"
+      "path": "data/capture-assets/a6a7af56/4-1e15e7ef169e891f.png",
+      "kind": "diagram"
     },
     {
       "label": "Figure 5",
-      "path": "data/capture-assets/a6a7af56/5-f3d909690b40ae42.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/a6a7af56/6-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/a6a7af56/7-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/a6a7af56/8-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/a6a7af56/9-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/a6a7af56/10-74fafedc39f29bd4.png"
+      "path": "data/capture-assets/a6a7af56/5-4ed1daf985f81bd5.png",
+      "kind": "diagram"
     }
   ]
 }

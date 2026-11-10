@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "4f31acb6",
-  "capturedAt": "2026-11-09T23:49:37.058Z",
+  "capturedAt": "2026-11-10T02:53:24.405Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,72 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "An exponential model for the number of rabbits in a nature reserve estimates that there were\n[Figure 1]\nrabbits in the reserve in the year\n[Figure 2]\n, and that at the end of each\n[Figure 3]\n-year period for the next\n[Figure 4]\nyears, the number of rabbits in the reserve was\n[Figure 5]\nmore than the number at the end of the previous\n[Figure 6]\n-year period. Which of the following equations represents this model, where\n[Figure 7]\nis the estimated number of rabbits in the reserve\n[Figure 8]\nyears after\n[Figure 9]\n, and\n[Figure 10]\n?",
+  "prompt": "An exponential model for the number of rabbits in a nature reserve estimates that there were $350$ rabbits in the reserve in the year $2008$, and that at the end of each $5$-year period for the next $25$ years, the number of rabbits in the reserve was $80%$ more than the number at the end of the previous $5$-year period. Which of the following equations represents this model, where $M$ is the estimated number of rabbits in the reserve $t$ years after $2008$, and $0 \\le t \\le 25$?",
   "choices": {
-    "A": "[Figure 11]",
-    "B": "[Figure 12]",
-    "C": "[Figure 13]",
-    "D": "[Figure 14]"
+    "A": "$M = 350 (0.80)^{5}t$",
+    "B": "$M = 350 (0.80)^\\frac{t}{5}$",
+    "C": "$M = 350 (1.80)^{5}t$",
+    "D": "$M = 350 (1.80)^\\frac{t}{5}$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. Since the number of rabbits increases by a fixed percentage every $5$ years, this relationship is exponential. An exponential growth model can be written in the form $M = M_{0}(b)^{\\frac{t}{p}}$, where $M_{0}$ is the initial value when $t = 0$, $b$ is the growth factor per period, $p$ is the length of each period, and $t$ is the time elapsed. It's given that there were $350$ rabbits in $2008$, which corresponds to $t = 0$, so $M_{0} = 350$. The period length is $5$ years, so $p = 5$. It's given that at the end of each $5$-year period, the number of rabbits is $80\\%$ more than the number at the end of the previous $5$-year period. An increase of $80\\%$ means the new amount is the original amount plus $80\\%$ of the original amount, which equals $100\\% + 80\\% = 180\\%$ of the original amount. This is equivalent to a growth factor of $\\frac{180}{100} = 1.80$, so $b = 1.80$. Substituting these values into $M = M_{0}(b)^{\\frac{t}{p}}$ yields $M = 350(1.80)^{\\frac{t}{5}}$.\n\nWhy A is incorrect:\n\nChoice A is incorrect and may result from two errors: misinterpreting '$80\\%$ more than' as '$80\\%$ of' (using $0.80$ instead of $1.80$) and using $5t$ as the exponent instead of $\\frac{t}{5}$.",
   "source": "https://cooksat.com/practice?questionId=4f31acb6&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/4f31acb6/1-f17f65b9c66b2908.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/4f31acb6/2-c15f11d46a015aef.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/4f31acb6/3-eac95c34531acecd.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/4f31acb6/4-5493a5bcf39dd858.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/4f31acb6/5-22c46c8e1559d6bb.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/4f31acb6/6-eac95c34531acecd.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/4f31acb6/7-81c8d05ff15e601f.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/4f31acb6/8-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/4f31acb6/9-c15f11d46a015aef.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/4f31acb6/10-122c91d6da1926fa.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/4f31acb6/11-1fb08843e7d62f63.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/4f31acb6/12-5a3c2ed57079e910.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/4f31acb6/13-f07894c2bfdbd681.png"
-    },
-    {
-      "label": "Figure 14",
-      "path": "data/capture-assets/4f31acb6/14-d4709b5ea67293dd.png"
-    }
-  ]
+  "images": []
 }

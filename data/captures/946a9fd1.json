@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "946a9fd1",
-  "capturedAt": "2026-11-09T23:57:05.855Z",
+  "capturedAt": "2026-11-10T02:55:36.675Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,56 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The product of two numbers is\n[Figure 1]\n. If one of the numbers is\n[Figure 2]\nand the other number is\n[Figure 3]\nless than\n[Figure 4]\n, which of the following equations represents the relationship between\n[Figure 5]\nand\n[Figure 6]\n?",
+  "prompt": "The product of two numbers is $y$. If one of the numbers is $x$ and the other number is $67$ less than $x$, which of the following equations represents the relationship between $y$ and $x$?",
   "choices": {
-    "A": "[Figure 7]",
-    "B": "[Figure 8]",
-    "C": "[Figure 9]",
-    "D": "[Figure 10]"
+    "A": "$y = x(x) - 67$",
+    "B": "$y = x(x) + 67$",
+    "C": "$y = x(x - 67)$",
+    "D": "$y = x(x + 67)$"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. It's given that one number is $x$ and the other number is $67$ less than $x$. The phrase \"$67$ less than $x$\" can be expressed as $x - 67$. Since the product of the two numbers is $y$, it follows that $y = x(x - 67)$.",
   "source": "https://cooksat.com/practice?questionId=946a9fd1&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/946a9fd1/1-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/946a9fd1/2-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/946a9fd1/3-c17c3686e07e9a04.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/946a9fd1/4-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/946a9fd1/5-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/946a9fd1/6-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/946a9fd1/7-e0a5e54a4d8325b7.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/946a9fd1/8-1ede6855964a49d2.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/946a9fd1/9-f6f8f834a2fe050d.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/946a9fd1/10-4d023d83cfcb9394.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "0314e5bb",
-  "capturedAt": "2026-11-09T23:20:59.001Z",
+  "capturedAt": "2026-11-10T02:50:51.842Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,27 +10,10 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "[Figure 1]\n\nWhat is the minimum value of the given function?\n\n[Figure 2]\n\n[Figure 3]",
+  "prompt": "$$f(t)=t^{2}-36t+1296$$\n\nWhat is the minimum value of the given function?\n\n$$0$$\n\n$$972$$",
   "choices": {},
-  "correctAnswer": "[Figure 4]",
+  "correctAnswer": "$972$",
   "explanation": "The correct answer is $972$. The given function can be rewritten in vertex form $f(t)=a(t-h)^{2}+k$, where $a$ is a positive constant and the minimum value, $k$, of the function occurs when the value of $t$ is $h$. By completing the square, $f(t)=t^{2}-36t+1296$ can be written as $f(t)=t^{2}-36t+\\left(\\frac{36}{2}\\right)^{2}+1296-\\left(\\frac{36}{2}\\right)^{2}$. Calculating $\\left(\\frac{36}{2}\\right)^{2}=(18)^{2}=324$, this becomes $f(t)=t^{2}-36t+324+1296-324$, which simplifies to $f(t)=(t-18)^{2}+972$. This equation is in the form $f(t)=a(t-h)^{2}+k$, where $a=1$, $h=18$, and $k=972$. Since $a=1$ is positive, the parabola opens upward, and the vertex represents the minimum point. Therefore, the minimum value of the given function is $972$.",
   "source": "https://cooksat.com/practice?questionId=0314e5bb&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/0314e5bb/1-2df0b1dfae939198.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/0314e5bb/2-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/0314e5bb/3-4e216594e15b02e9.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/0314e5bb/4-4f46da54f770f711.png"
-    }
-  ]
+  "images": []
 }

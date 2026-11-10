@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "fb9a0912",
-  "capturedAt": "2026-11-10T00:09:10.698Z",
+  "capturedAt": "2026-11-10T02:58:57.079Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,56 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nis a constant. If the graph of\n[Figure 4]\npasses through the point\n[Figure 5]\n, what is the value of\n[Figure 6]\n?",
+  "prompt": "The function $h$ is defined by $h(x) = \\frac{(a+6)}{(x-2)}$, where $a$ is a constant. If the graph of $h$ passes through the point $(4, -2)$, what is the value of $a$?",
   "choices": {
-    "A": "[Figure 7]",
-    "B": "[Figure 8]",
-    "C": "[Figure 9]",
-    "D": "[Figure 10]"
+    "A": "$-16$",
+    "B": "$-10$",
+    "C": "$-4$",
+    "D": "$4$"
   },
   "correctAnswer": "B",
-  "explanation": "Since the graph passes through $(4, -2)$, substitute $x=4$ and $h(4)=-2$ into $h(x) = \\frac{a+6}{x-2}$: $-2 = \\frac{a+6}{4-2} = \\frac{a+6}{2}$. Multiplying both sides by $2$ gives $-4 = a+6$. Subtracting $6$ from both sides yields $a = -10$.\n\nWhy C is incorrect:\n\nResults from setting up the equation correctly as $-4 = a+6$ but making a sign error, thinking $a = -4$ instead of subtracting $6$ from both sides.",
+  "explanation": "Since the graph passes through $(4, -2)$, substitute $x=4$ and $h(4)=-2$ into $h(x) = \\frac{a+6}{x-2}$: $-2 = \\frac{a+6}{4-2} = \\frac{a+6}{2}$. Multiplying both sides by $2$ gives $-4 = a+6$. Subtracting $6$ from both sides yields $a = -10$.",
   "source": "https://cooksat.com/practice?questionId=fb9a0912&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/fb9a0912/1-3ab7f85bcf8aa223.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/fb9a0912/2-669e7dbb6248a70c.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/fb9a0912/3-23564e26b3edd50d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/fb9a0912/4-3ab7f85bcf8aa223.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/fb9a0912/5-b805ad4ea53dfa92.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/fb9a0912/6-23564e26b3edd50d.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/fb9a0912/7-db5967eb90a67272.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/fb9a0912/8-12ca838a1867652e.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/fb9a0912/9-75cefb79be0e251b.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/fb9a0912/10-fcf7d75cfc7ff09c.png"
-    }
-  ]
+  "images": []
 }

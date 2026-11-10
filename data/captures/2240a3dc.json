@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "2240a3dc",
-  "capturedAt": "2026-11-09T23:43:47.913Z",
+  "capturedAt": "2026-11-10T02:51:44.445Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,52 +10,21 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph models the number of daily visitors to a museum exhibit\n[Figure 2]\nweeks after the start of March\n[Figure 3]\n, where\n[Figure 4]\n. According to the model, what is the predicted number of daily visitors to the exhibit at the start of March\n[Figure 5]\n?",
+  "prompt": "[Figure 1]\n\nThe graph models the number of daily visitors to a museum exhibit $x$ weeks after the start of March $2015$, where $0 \\le x \\le 6$. According to the model, what is the predicted number of daily visitors to the exhibit at the start of March $2015$?",
   "choices": {
-    "A": "[Figure 6]",
-    "B": "[Figure 7]",
-    "C": "[Figure 8]",
-    "D": "[Figure 9]"
+    "A": "$0$",
+    "B": "$7$",
+    "C": "$12$",
+    "D": "$16$"
   },
   "correctAnswer": "B",
-  "explanation": "Choice B is correct. The graph models the number of daily visitors to the exhibit $x$ weeks after the start of March $2015$. Therefore, the value of $x$ that corresponds to the start of March $2015$ is $0$. The point at which $x = 0$ is the y-intercept of the graph, which is the point $\\left( 0, 7 \\right)$. Therefore, according to the model, the predicted number of daily visitors at the start of March $2015$ is $7$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This is the predicted number of daily visitors $1$ week after the start of March $2015$, not at the start of March $2015$.",
+  "explanation": "Choice B is correct. The graph models the number of daily visitors to the exhibit $x$ weeks after the start of March $2015$. Therefore, the value of $x$ that corresponds to the start of March $2015$ is $0$. The point at which $x = 0$ is the y-intercept of the graph, which is the point $\\left( 0, 7 \\right)$. Therefore, according to the model, the predicted number of daily visitors at the start of March $2015$ is $7$.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This is the value of $x$ that corresponds to the start of March $2015$, not the predicted number of daily visitors at the start of March $2015$.",
   "source": "https://cooksat.com/practice?questionId=2240a3dc&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/2240a3dc/1-405bce9ce3bedb4a.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/2240a3dc/2-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/2240a3dc/3-04765d4440c7f060.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/2240a3dc/4-8aed6ae3f1308580.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/2240a3dc/5-04765d4440c7f060.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/2240a3dc/6-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/2240a3dc/7-16e568e0f0916744.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/2240a3dc/8-ebb9a53a87ff177d.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/2240a3dc/9-1158988890b56c17.png"
+      "path": "data/capture-assets/2240a3dc/1-bfb1d2356bcf581b.png",
+      "kind": "diagram"
     }
   ]
 }

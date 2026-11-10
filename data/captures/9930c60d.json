@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "9930c60d",
-  "capturedAt": "2026-11-09T23:57:35.287Z",
+  "capturedAt": "2026-11-10T02:55:47.909Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,7 +10,7 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nIn the function above,\n[Figure 2]\nand\n[Figure 3]\nare constants. The graph of\n[Figure 4]\nis a parabola that opens upward with vertex\n[Figure 5]\n, where\n[Figure 6]\nand\n[Figure 7]\nare constants. If\n[Figure 8]\nand\n[Figure 9]\n, which of the following must be true?\n\n[Figure 10]\n\n[Figure 11]",
+  "prompt": "$$g(x)=ax^{2}+5x+c$$\n\nIn the function above, $a$ and $c$ are constants. The graph of $y=g(x)$ is a parabola that opens upward with vertex $(h,k)$, where $h$ and $k$ are constants. If $g(-8)=g(3)$ and $k<0$, which of the following must be true?\n\n$$I. c<0$$\n\n$$II. a\\ge 2$$",
   "choices": {
     "A": "I only",
     "B": "II only",
@@ -20,50 +20,5 @@
   "correctAnswer": "D",
   "explanation": "Choice D is correct. Since $g(-8)=g(3)$, the axis of symmetry is at $x=\\frac{-8+3}{2}=-\\frac{5}{2}$, so $h=-\\frac{5}{2}$. In vertex form, $g(x)=a\\left(x+\\frac{5}{2}\\right)^{2}+k=ax^{2}+5ax+\\frac{25a}{4}+k$. Comparing to $g(x)=ax^{2}+5x+c$: the coefficient of $x$ gives $5a=5$, so $a=1$. Since $1<2$, statement II is false. The constant term gives $c=\\frac{25}{4}+k=6.25+k$. Since $k<0$, we have $c<6.25$, but $c$ could still be positive (for example, if $k=-3$, then $c=3.25$). Therefore, statement I is not necessarily true. Neither statement must be true.",
   "source": "https://cooksat.com/practice?questionId=9930c60d&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/9930c60d/1-c5a8061894e58840.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/9930c60d/2-23564e26b3edd50d.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/9930c60d/3-fa4e73aef0bcf693.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/9930c60d/4-a370960d94a8b7e2.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/9930c60d/5-cd2e2fa0342c9940.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/9930c60d/6-3ab7f85bcf8aa223.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/9930c60d/7-f6ba4414c242606d.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/9930c60d/8-b1725950ada5beb7.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/9930c60d/9-59aba33fbb756c3e.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/9930c60d/10-d4154af12ae73b97.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/9930c60d/11-6560d63ce7fde89a.png"
-    }
-  ]
+  "images": []
 }

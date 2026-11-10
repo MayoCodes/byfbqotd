@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "f0c6ba4f",
-  "capturedAt": "2026-11-10T00:08:02.939Z",
+  "capturedAt": "2026-11-10T02:58:37.039Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,60 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A nonprofit organization opens a savings fund with an initial balance of $\n[Figure 1]\n. The fund earns interest, and no additional deposits or withdrawals are made. The fund balance is given by an exponential function\n[Figure 2]\n, where\n[Figure 3]\nis the fund balance, in dollars,\n[Figure 4]\nyears after the fund is opened. The fund balance after\n[Figure 5]\nyears is $\n[Figure 6]\n. Which equation could define\n[Figure 7]\n?",
+  "prompt": "A nonprofit organization opens a savings fund with an initial balance of $$24,500.00$. The fund earns interest, and no additional deposits or withdrawals are made. The fund balance is given by an exponential function $V$, where $V(t)$ is the fund balance, in dollars, $t$ years after the fund is opened. The fund balance after $10$ years is $$36,265.98$. Which equation could define $V$?",
   "choices": {
-    "A": "[Figure 8]",
-    "B": "[Figure 9]",
-    "C": "[Figure 10]",
-    "D": "[Figure 11]"
+    "A": "$V(t) = 11,765.98(0.04)^t$",
+    "B": "$V(t) = 11,765.98(1.04)^t$",
+    "C": "$V(t) = 24,500.00(0.04)^t$",
+    "D": "$V(t) = 24,500.00(1.04)^t$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. Since the fund balance $V(t)$, in dollars, after $t$ years is modeled by an exponential function, $V$ can be written in the form $V(t) = N r^{t}$, where $N$ is the initial value and $r$ is a constant related to the growth of the function. The initial balance is $$24{,}500.00$, so $N = 24{,}500.00$, giving $V(t) = 24{,}500.00 \\, r^{t}$. The balance after $10$ years is $$36{,}265.98$, so $24{,}500.00 \\, r^{10} = 36{,}265.98$. Dividing both sides by $24{,}500.00$ yields $r^{10} = \\frac{36{,}265.98}{24{,}500.00}$. Taking the $10$th root of both sides yields $r \\approx 1.04$. Substituting $1.04$ for $r$ gives $V(t) = 24{,}500.00(1.04)^{t}$.",
   "source": "https://cooksat.com/practice?questionId=f0c6ba4f&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/f0c6ba4f/1-04c82123826664bc.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/f0c6ba4f/2-60f77b9f5b532df5.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/f0c6ba4f/3-e43d9904f7180f9a.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/f0c6ba4f/4-5c84431898a2e2e5.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/f0c6ba4f/5-46a154a7244283d3.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/f0c6ba4f/6-a7b9e37e08642a38.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/f0c6ba4f/7-60f77b9f5b532df5.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/f0c6ba4f/8-0fe06d3a280830e8.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/f0c6ba4f/9-18c364711784c9c6.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/f0c6ba4f/10-c5e23ec79a8c27c8.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/f0c6ba4f/11-a8f12a07e8096aa8.png"
-    }
-  ]
+  "images": []
 }

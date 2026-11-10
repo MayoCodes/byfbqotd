@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "7ba1d238",
-  "capturedAt": "2026-11-09T23:54:58.201Z",
+  "capturedAt": "2026-11-10T02:54:55.558Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,7 +10,7 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nThe graph gives the estimated crop yield, in bushels per acre, for a farm when the amount of fertilizer applied is\n[Figure 2]\npounds per acre. What does the\n[Figure 3]\n-value of the vertex of the graph represent in this context?",
+  "prompt": "[Figure 1]\n\nThe graph gives the estimated crop yield, in bushels per acre, for a farm when the amount of fertilizer applied is $x$ pounds per acre. What does the $y$-value of the vertex of the graph represent in this context?",
   "choices": {
     "A": "The amount of fertilizer, in pounds per acre, applied to the farm",
     "B": "The estimated crop yield, in bushels per acre, when no fertilizer is applied",
@@ -18,20 +18,13 @@
     "D": "The minimum estimated crop yield, in bushels per acre"
   },
   "correctAnswer": "C",
-  "explanation": "Choice C is correct. The graph shows the estimated crop yield, in bushels per acre, when the amount of fertilizer applied is $x$ pounds per acre, where the crop yield is represented by the $y$-value. The graph shows a downward-opening parabola with its vertex at approximately $(15, 180)$. Since the parabola opens downward, the vertex represents the maximum point of the function. Therefore, the $y$-value of the vertex, which is approximately $180$, represents the maximum estimated crop yield, in bushels per acre.",
+  "explanation": "Choice C is correct. The graph shows the estimated crop yield, in bushels per acre, when the amount of fertilizer applied is $x$ pounds per acre, where the crop yield is represented by the $y$-value. The graph shows a downward-opening parabola with its vertex at approximately $(15, 180)$. Since the parabola opens downward, the vertex represents the maximum point of the function. Therefore, the $y$-value of the vertex, which is approximately $180$, represents the maximum estimated crop yield, in bushels per acre.\n\nWhy A is incorrect:\n\nChoice A is incorrect. This describes what the $x$-value of the vertex represents, not the $y$-value. The amount of fertilizer is represented on the horizontal axis, while the question asks about the $y$-value, which represents crop yield.",
   "source": "https://cooksat.com/practice?questionId=7ba1d238&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
   "images": [
     {
       "label": "Figure 1",
-      "path": "data/capture-assets/7ba1d238/1-402e5dc35e71d5d0.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/7ba1d238/2-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/7ba1d238/3-74fafedc39f29bd4.png"
+      "path": "data/capture-assets/7ba1d238/1-ba181df75e69e189.png",
+      "kind": "diagram"
     }
   ]
 }

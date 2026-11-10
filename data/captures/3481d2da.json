@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "3481d2da",
-  "capturedAt": "2026-11-09T23:46:01.782Z",
+  "capturedAt": "2026-11-10T02:52:21.558Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,68 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "Priya purchased a rare vintage stamp on March 1. The function\n[Figure 1]\n, where\n[Figure 2]\n, gives the predicted value, in dollars, of the vintage stamp\n[Figure 3]\nyears after Priya purchased it. What is the best interpretation of the statement \"\n[Figure 4]\nis approximately equal to\n[Figure 5]\n\" in this context?",
+  "prompt": "Priya purchased a rare vintage stamp on March 1. The function $g(x) = 120(1.04)^x$, where $0 \\le x \\le 12$, gives the predicted value, in dollars, of the vintage stamp $x$ years after Priya purchased it. What is the best interpretation of the statement \"$g(6)$ is approximately equal to $152$\" in this context?",
   "choices": {
-    "A": "When the vintage stamp's predicted value is approximately\n[Figure 6]\ndollars, it is\n[Figure 7]\ngreater than the predicted value, in dollars, on March 1 of the previous year.",
-    "B": "When the vintage stamp's predicted value is approximately\n[Figure 8]\ndollars, it is\n[Figure 9]\ntimes the predicted value, in dollars, on March 1 of the previous year.",
-    "C": "From the day Priya purchased the vintage stamp to\n[Figure 10]\nyears after Priya purchased the stamp, its predicted value increased by a total of approximately\n[Figure 11]\ndollars.",
-    "D": "[Figure 12]\nyears after Priya purchased the vintage stamp, its predicted value is approximately\n[Figure 13]\ndollars."
+    "A": "When the vintage stamp's predicted value is approximately $152$ dollars, it is $6%$ greater than the predicted value, in dollars, on March 1 of the previous year.",
+    "B": "When the vintage stamp's predicted value is approximately $152$ dollars, it is $6$ times the predicted value, in dollars, on March 1 of the previous year.",
+    "C": "From the day Priya purchased the vintage stamp to $6$ years after Priya purchased the stamp, its predicted value increased by a total of approximately $152$ dollars.",
+    "D": "$6$ years after Priya purchased the vintage stamp, its predicted value is approximately $152$ dollars."
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. It's given that the function $g(x) = 120(1.04)^{x}$ gives the predicted value, in dollars, of a rare vintage stamp $x$ years after Priya purchased it. It follows that $g(x)$ represents the predicted value, in dollars, of the stamp $x$ years after Priya purchased it. Since the value of $g(6)$ is the value of $g(x)$ when $x = 6$, the statement \"$g(6)$ is approximately equal to $152$\" means that $g(x)$ is approximately equal to $152$ when $x = 6$. Therefore, the best interpretation is that $6$ years after Priya purchased the vintage stamp, its predicted value is approximately $152$ dollars.",
   "source": "https://cooksat.com/practice?questionId=3481d2da&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/3481d2da/1-26af3bb76f63ec09.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/3481d2da/2-523949dadf4d9d56.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/3481d2da/3-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/3481d2da/4-c846e2ab773a24ca.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/3481d2da/5-5f156beff355d074.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/3481d2da/6-a2a6a7920b8d0411.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/3481d2da/7-4ee674f22292e85b.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/3481d2da/8-a2a6a7920b8d0411.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/3481d2da/9-29603e33b822ff16.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/3481d2da/10-29603e33b822ff16.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/3481d2da/11-a2a6a7920b8d0411.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/3481d2da/12-29603e33b822ff16.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/3481d2da/13-a2a6a7920b8d0411.png"
-    }
-  ]
+  "images": []
 }

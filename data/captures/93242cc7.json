@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "93242cc7",
-  "capturedAt": "2026-11-09T23:56:49.588Z",
+  "capturedAt": "2026-11-10T02:55:33.288Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,72 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nIn the given function\n[Figure 2]\n,\n[Figure 3]\nis a constant. The graph of function\n[Figure 4]\nin the\n[Figure 5]\n-plane, where\n[Figure 6]\n, is translated\n[Figure 7]\nunits down and\n[Figure 8]\nunits to the left to produce the graph of\n[Figure 9]\n. Which equation defines function\n[Figure 10]\n?",
+  "prompt": "$$h(x) = \\frac{(b - 22)}{x} + 7$$\n\nIn the given function $h$, $b$ is a constant. The graph of function $h$ in the $xy$-plane, where $y = h(x)$, is translated $4$ units down and $5$ units to the left to produce the graph of $y = p(x)$. Which equation defines function $p$?",
   "choices": {
-    "A": "[Figure 11]",
-    "B": "[Figure 12]",
-    "C": "[Figure 13]",
-    "D": "[Figure 14]"
+    "A": "$p(x) = \\frac{(b - 26)}{(x - 5)} + 7$",
+    "B": "$p(x) = \\frac{(b - 26)}{(x + 5)} + 3$",
+    "C": "$p(x) = \\frac{(b - 22)}{(x - 5)} + 3$",
+    "D": "$p(x) = \\frac{(b - 22)}{(x + 5)} + 3$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. It's given that the graph of $y = h(x)$ is translated $4$ units down and $5$ units to the left to produce the graph of $y = p(x)$. Translating a graph $c$ units to the left is equivalent to replacing $x$ with $x + c$ in the function equation. Therefore, translating the graph of $y = h(x)$ by $5$ units to the left yields $y = h(x + 5)$. Substituting $x + 5$ for $x$ in the given equation $h(x) = \\frac{b - 22}{x} + 7$ gives $h(x + 5) = \\frac{b - 22}{x + 5} + 7$. Translating a graph $k$ units down is equivalent to subtracting $k$ from the function value. Therefore, translating the graph of $y = h(x + 5)$ by $4$ units down yields $y = h(x + 5) - 4$. Substituting $\\frac{b - 22}{x + 5} + 7$ for $h(x + 5)$ gives $p(x) = \\frac{b - 22}{x + 5} + 7 - 4$, which simplifies to $p(x) = \\frac{b - 22}{x + 5} + 3$.",
   "source": "https://cooksat.com/practice?questionId=93242cc7&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/93242cc7/1-137fbf8b2dfeecf1.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/93242cc7/2-3ab7f85bcf8aa223.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/93242cc7/3-4be9145fc6402fea.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/93242cc7/4-3ab7f85bcf8aa223.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/93242cc7/5-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/93242cc7/6-d7529629e07e1131.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/93242cc7/7-17e692bc2178579f.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/93242cc7/8-eac95c34531acecd.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/93242cc7/9-c660124ed05b7e31.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/93242cc7/10-f07e748cf82e0762.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/93242cc7/11-800f54519d30f598.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/93242cc7/12-e62204a959eafeda.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/93242cc7/13-e32e776af7c0d368.png"
-    },
-    {
-      "label": "Figure 14",
-      "path": "data/capture-assets/93242cc7/14-a03d9c08f647c966.png"
-    }
-  ]
+  "images": []
 }

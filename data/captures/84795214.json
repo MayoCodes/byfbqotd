@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "84795214",
-  "capturedAt": "2026-11-09T23:56:04.448Z",
+  "capturedAt": "2026-11-10T02:55:18.613Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,36 +10,15 @@
   "difficulty": "Easy",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "For the quadratic function\n[Figure 1]\n, what is the y-coordinate of the vertex?",
+  "prompt": "For the quadratic function $f(x) = x^{2} - 6x + 5$, what is the y-coordinate of the vertex?",
   "choices": {
-    "A": "[Figure 2]",
-    "B": "[Figure 3]",
-    "C": "[Figure 4]",
-    "D": "[Figure 5]"
+    "A": "$-5$",
+    "B": "$-4$",
+    "C": "$3$",
+    "D": "$5$"
   },
   "correctAnswer": "B",
-  "explanation": "For a quadratic function $f(x) = ax^2 + bx + c$, the x-coordinate of the vertex is $x = -\\frac{b}{2a}$. Here, $a = 1$ and $b = -6$, so $x = -\\frac{(-6)}{2(1)} = 3$. To find the y-coordinate, substitute $x = 3$ into the function: $f(3) = (3)^2 - 6(3) + 5 = 9 - 18 + 5 = -4$.\n\nWhy D is incorrect:\n\nThis is the constant term $c$ from the original equation, not the y-coordinate of the vertex.",
+  "explanation": "For a quadratic function $f(x) = ax^2 + bx + c$, the x-coordinate of the vertex is $x = -\\frac{b}{2a}$. Here, $a = 1$ and $b = -6$, so $x = -\\frac{(-6)}{2(1)} = 3$. To find the y-coordinate, substitute $x = 3$ into the function: $f(3) = (3)^2 - 6(3) + 5 = 9 - 18 + 5 = -4$.",
   "source": "https://cooksat.com/practice?questionId=84795214&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/84795214/1-53b6c957e52555e3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/84795214/2-ca0ebfa7a69ac70c.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/84795214/3-75cefb79be0e251b.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/84795214/4-f4ee39ba9ef6e452.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/84795214/5-8fc3cfb4a4e6f37e.png"
-    }
-  ]
+  "images": []
 }

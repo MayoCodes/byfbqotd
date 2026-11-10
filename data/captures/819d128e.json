@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "819d128e",
-  "capturedAt": "2026-11-09T23:55:48.162Z",
+  "capturedAt": "2026-11-10T02:55:14.119Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,52 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. If\n[Figure 3]\nand\n[Figure 4]\n, what is the value of\n[Figure 5]\n?",
+  "prompt": "The function $f$ is defined by $f(x)=9(4)^x$. If $f(a) = 576$ and $f(b) = 2304$, what is the value of $b - a$?",
   "choices": {
-    "A": "[Figure 6]",
-    "B": "[Figure 7]",
-    "C": "[Figure 8]",
-    "D": "[Figure 9]"
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$4$"
   },
   "correctAnswer": "A",
   "explanation": "Substituting into $f(a) = 9(4)^a = 576$ and dividing by $9$ yields $(4)^a = 64 = 4^3$, so $a = 3$. Similarly, from $f(b) = 9(4)^b = 2304$, dividing by $9$ gives $(4)^b = 256 = 4^4$, so $b = 4$. Therefore, $b - a = 4 - 3 = 1$.\n\nWhy B is incorrect:\n\nThis may result from an arithmetic error when solving for $a$, such as incorrectly determining that $4^2 = 64$, which would give $a = 2$ and thus $b - a = 4 - 2 = 2$.",
   "source": "https://cooksat.com/practice?questionId=819d128e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/819d128e/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/819d128e/2-7b10a96f237f7a9f.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/819d128e/3-61c4558597bc0098.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/819d128e/4-9db21b8844b3be43.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/819d128e/5-768f38a94c24c248.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/819d128e/6-0c32e2bcf21ebd61.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/819d128e/7-eecad86a2b305c5e.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/819d128e/8-f4ee39ba9ef6e452.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/819d128e/9-fcf7d75cfc7ff09c.png"
-    }
-  ]
+  "images": []
 }

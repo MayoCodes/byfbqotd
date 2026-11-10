@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "e5f82a47",
-  "capturedAt": "2026-11-10T00:06:54.397Z",
+  "capturedAt": "2026-11-10T02:58:17.777Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,12 +10,12 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Table 1]\n\nA population of algae is growing at an exponential rate, as shown in the table above. At this rate, on which day would the number of algae cells per liter reach\n[Figure 2]\n?",
+  "prompt": "[Table 1]\n\nA population of algae is growing at an exponential rate, as shown in the table above. At this rate, on which day would the number of algae cells per liter reach $5.12 \\times 10^{9}$?",
   "choices": {
-    "A": "Day\n[Figure 3]",
-    "B": "Day\n[Figure 4]",
-    "C": "Day\n[Figure 5]",
-    "D": "Day\n[Figure 6]"
+    "A": "Day $5$",
+    "B": "Day $6$",
+    "C": "Day $7$",
+    "D": "Day $8$"
   },
   "correctAnswer": "B",
   "explanation": "The number of algae cells per liter is quadrupling each day. From day 1 to day 2, the number increased from $5.0 \\times 10^6$ to $2.0 \\times 10^7$, a factor of 4. At the end of day $d$, the number of cells is $5.0 \\times 10^6 \\times 4^{d-1}$. Setting this equal to $5.12 \\times 10^9$: $5.0 \\times 10^6 \\times 4^{d-1} = 5.12 \\times 10^9$. Dividing both sides by $5.0 \\times 10^6$ gives $4^{d-1} = 1024$. Since $4^5 = 1024$, we have $d - 1 = 5$, so $d = 6$.",
@@ -23,27 +23,8 @@
   "images": [
     {
       "label": "Table 1",
-      "path": "data/capture-assets/e5f82a47/1-98e16e6b9cbf33c8.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/e5f82a47/2-f2c6c33276492b25.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/e5f82a47/3-8fc3cfb4a4e6f37e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/e5f82a47/4-29603e33b822ff16.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/e5f82a47/5-16e568e0f0916744.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/e5f82a47/6-f4f34a91ada02fa5.png"
+      "path": "data/capture-assets/e5f82a47/1-98e16e6b9cbf33c8.png",
+      "kind": "diagram"
     }
   ]
 }

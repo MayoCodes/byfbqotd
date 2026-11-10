@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "5cbfabc5",
-  "capturedAt": "2026-11-09T23:51:38.023Z",
+  "capturedAt": "2026-11-10T02:53:55.844Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "[Figure 1]\n\nIn the given equation,\n[Figure 2]\nand\n[Figure 3]\nare unique positive constants. When the equation is graphed in the xy-plane, how many distinct x-intercepts does the graph have?",
+  "prompt": "$$y = 5 ( x + m ) ( x - m ) ( x - n ) ( x + m )$$\n\nIn the given equation, $m$ and $n$ are unique positive constants. When the equation is graphed in the xy-plane, how many distinct x-intercepts does the graph have?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$4$"
   },
   "correctAnswer": "C",
   "explanation": "Choice C is correct. An x-intercept of a graph in the xy-plane is a point on the graph where the value of $y$ is $0$. Substituting $0$ for $y$ in the given equation yields $0 = 5 \\left( x + m \\right) \\left( x - m \\right) \\left( x - n \\right) \\left( x + m \\right)$. By the zero product property, the solutions to this equation are $x = -m$, $x = m$, $x = n$, and $x = -m$. However, $x = -m$ appears twice. It's given that $m$ and $n$ are unique positive constants. It follows that the equation $0 = 5 \\left( x + m \\right) \\left( x - m \\right) \\left( x - n \\right) \\left( x + m \\right)$ has $3$ unique solutions: $x = -m$, $x = m$, and $x = n$. Thus, the graph of the given equation has $3$ distinct x-intercepts.\n\nWhy B is incorrect:\n\nChoice B is incorrect and may result from incorrectly treating $(x - m)$ and $(x + m)$ as producing the same zero.",
   "source": "https://cooksat.com/practice?questionId=5cbfabc5&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/5cbfabc5/1-68d5aa273ccbc9fd.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/5cbfabc5/2-cb1160aa3a503d7d.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/5cbfabc5/3-0b8fcb4e6453fcf0.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/5cbfabc5/4-0c32e2bcf21ebd61.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/5cbfabc5/5-eecad86a2b305c5e.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/5cbfabc5/6-f4ee39ba9ef6e452.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/5cbfabc5/7-fcf7d75cfc7ff09c.png"
-    }
-  ]
+  "images": []
 }

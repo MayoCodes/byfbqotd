@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "febd4c9c",
-  "capturedAt": "2026-11-10T00:09:40.536Z",
+  "capturedAt": "2026-11-10T02:59:06.239Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,44 +10,15 @@
   "difficulty": "Medium",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n. What is the minimum value of\n[Figure 3]\n?",
+  "prompt": "The function $f$ is defined by $f(x)=x^{2}-10x+7$. What is the minimum value of $f$?",
   "choices": {
-    "A": "[Figure 4]",
-    "B": "[Figure 5]",
-    "C": "[Figure 6]",
-    "D": "[Figure 7]"
+    "A": "$-25$",
+    "B": "$-18$",
+    "C": "$5$",
+    "D": "$7$"
   },
   "correctAnswer": "B",
-  "explanation": "To find the minimum value, complete the square: $f(x)=x^2-10x+7=(x^2-10x+25)-25+7=(x-5)^2-18$. Since $(x-5)^2 \\geq 0$ for all real $x$, the minimum value is $-18$, occurring when $x=5$.\n\nWhy D is incorrect:\n\nThis is the value of $f(0)=7$, which is the constant term. The minimum value occurs at the vertex, not at $x=0$.",
+  "explanation": "To find the minimum value, complete the square: $f(x)=x^2-10x+7=(x^2-10x+25)-25+7=(x-5)^2-18$. Since $(x-5)^2 \\geq 0$ for all real $x$, the minimum value is $-18$, occurring when $x=5$.",
   "source": "https://cooksat.com/practice?questionId=febd4c9c&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/febd4c9c/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/febd4c9c/2-73c0d4600eaddf2d.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/febd4c9c/3-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/febd4c9c/4-b793592128a66d6e.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/febd4c9c/5-eccc27d58937c0c7.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/febd4c9c/6-8fc3cfb4a4e6f37e.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/febd4c9c/7-16e568e0f0916744.png"
-    }
-  ]
+  "images": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "d4df3996",
-  "capturedAt": "2026-11-10T00:04:38.917Z",
+  "capturedAt": "2026-11-10T02:57:46.265Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,67 +10,10 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "The function\n[Figure 1]\nis defined by\n[Figure 2]\n, where\n[Figure 3]\nand\n[Figure 4]\nare constants. In the\n[Figure 5]\n-plane, the graph of\n[Figure 6]\nhas an\n[Figure 7]\n-intercept at\n[Figure 8]\nand a\n[Figure 9]\n-intercept at\n[Figure 10]\n. What is the value of\n[Figure 11]\n?\n\n[Figure 12]\n\n[Figure 13]",
+  "prompt": "The function $f$ is defined by $f(x) = a^x + b$, where $a$ and $b$ are constants. In the $xy$-plane, the graph of $y = f(x)$ has an $x$-intercept at $(3, 0)$ and a $y$-intercept at $(0, -63)$. What is the value of $ab$?\n\n$$0$$\n\n$$-256$$",
   "choices": {},
-  "correctAnswer": "[Figure 14]",
+  "correctAnswer": "$-256$",
   "explanation": "The correct answer is $-256$. It's given that the function $f$ is defined by $f(x) = a^x + b$, where $a$ and $b$ are constants. Since the graph has a $y$-intercept at $(0, -63)$, substituting $0$ for $x$ gives $f(0) = a^0 + b = 1 + b = -63$. Solving yields $b = -64$. Since the graph has an $x$-intercept at $(3, 0)$, substituting $3$ for $x$ gives $f(3) = a^3 + b = a^3 - 64 = 0$. Solving yields $a^3 = 64$, so $a = 4$. Therefore, $ab = (4)(-64) = -256$.",
   "source": "https://cooksat.com/practice?questionId=d4df3996&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/d4df3996/1-320b93d96905ffb3.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/d4df3996/2-0ddec7ee679ec8f1.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/d4df3996/3-23564e26b3edd50d.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/d4df3996/4-4be9145fc6402fea.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/d4df3996/5-df1c87962ee41243.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/d4df3996/6-8dfb98eeaa92843f.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/d4df3996/7-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/d4df3996/8-66d09a7b1a3a5dae.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/d4df3996/9-74fafedc39f29bd4.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/d4df3996/10-0a8c09ffddcaf776.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/d4df3996/11-8de902b64724b8a8.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/d4df3996/12-2ca5dc40f09d879c.png"
-    },
-    {
-      "label": "Figure 13",
-      "path": "data/capture-assets/d4df3996/13-eb77ca02f49ede62.png"
-    },
-    {
-      "label": "Figure 14",
-      "path": "data/capture-assets/d4df3996/14-44f4a07ab711e97b.png"
-    }
-  ]
+  "images": []
 }

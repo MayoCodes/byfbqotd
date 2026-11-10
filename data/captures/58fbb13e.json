@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "58fbb13e",
-  "capturedAt": "2026-11-09T23:51:17.533Z",
+  "capturedAt": "2026-11-10T02:53:50.607Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,48 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "A warehouse manager ordered storage bins each in the shape of a right rectangular prism. Each bin has a height of\n[Figure 1]\ninches. The length of each bin's base is\n[Figure 2]\ninches, which is\n[Figure 3]\ninches more than the width of the bin's base. Which function\n[Figure 4]\ngives the volume of each bin, in cubic inches, in terms of the length of the bin's base?",
+  "prompt": "A warehouse manager ordered storage bins each in the shape of a right rectangular prism. Each bin has a height of $14$ inches. The length of each bin's base is $x$ inches, which is $3$ inches more than the width of the bin's base. Which function $V$ gives the volume of each bin, in cubic inches, in terms of the length of the bin's base?",
   "choices": {
-    "A": "[Figure 5]",
-    "B": "[Figure 6]",
-    "C": "[Figure 7]",
-    "D": "[Figure 8]"
+    "A": "$V(x) = 14x(x - 3)$",
+    "B": "$V(x) = 14x(x + 3)$",
+    "C": "$V(x) = x(x + 14)(x - 3)$",
+    "D": "$V(x) = x(x + 14)(x + 3)$"
   },
   "correctAnswer": "A",
-  "explanation": "Choice A is correct. The volume of a right rectangular prism equals the area of its base times its height. The length of each bin's base is $x$ inches, which is $3$ inches more than the width; therefore, the width of the base is $x - 3$ inches. The area of the rectangular base is the product of its length and width, so the area is $x(x - 3)$ square inches. Since the height of each bin is $14$ inches, the volume is $V(x) = x(x - 3)(14)$, or $V(x) = 14x(x - 3)$.\n\nWhy C is incorrect:\n\nChoice C is incorrect. This expression treats the height as a variable factor $(x + 14)$ rather than as the constant $14$. The height is $14$ inches, so it should be multiplied as a constant.",
+  "explanation": "Choice A is correct. The volume of a right rectangular prism equals the area of its base times its height. The length of each bin's base is $x$ inches, which is $3$ inches more than the width; therefore, the width of the base is $x - 3$ inches. The area of the rectangular base is the product of its length and width, so the area is $x(x - 3)$ square inches. Since the height of each bin is $14$ inches, the volume is $V(x) = x(x - 3)(14)$, or $V(x) = 14x(x - 3)$.\n\nWhy D is incorrect:\n\nChoice D is incorrect. This expression incorrectly treats the height as $(x + 14)$ and uses $x + 3$ instead of $x - 3$ for the width.",
   "source": "https://cooksat.com/practice?questionId=58fbb13e&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/58fbb13e/1-975b7484b91403be.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/58fbb13e/2-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/58fbb13e/3-fa19f106d3a0914a.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/58fbb13e/4-60f77b9f5b532df5.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/58fbb13e/5-f9ef6c0241a7f762.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/58fbb13e/6-80e777a4d12b09f8.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/58fbb13e/7-a279132d954e9ca1.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/58fbb13e/8-6fae5d045f2ede94.png"
-    }
-  ]
+  "images": []
 }

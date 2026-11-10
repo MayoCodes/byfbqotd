@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "extractionVersion": 4,
+  "extractionVersion": 6,
   "id": "9c4d5f64",
-  "capturedAt": "2026-11-09T23:58:37.188Z",
+  "capturedAt": "2026-11-10T02:56:04.857Z",
   "subject": "Math",
   "domain": "Advanced Math",
   "skill": "Nonlinear Functions",
@@ -10,64 +10,15 @@
   "difficulty": "Hard",
   "format": "Multiple choice",
   "passage": "",
-  "prompt": "For the function\n[Figure 1]\n, for every increase of\n[Figure 2]\nin the value of\n[Figure 3]\n, the value of\n[Figure 4]\nincreases by a factor of\n[Figure 5]\n, where\n[Figure 6]\nis a constant. Which of the following equivalent forms of function\n[Figure 7]\ndisplays the value of\n[Figure 8]\nas the base or the coefficient?",
+  "prompt": "For the function $g$, for every increase of $2$ in the value of $x$, the value of $g(x)$ increases by a factor of $k$, where $k$ is a constant. Which of the following equivalent forms of function $g$ displays the value of $k$ as the base or the coefficient?",
   "choices": {
-    "A": "[Figure 9]",
-    "B": "[Figure 10]",
-    "C": "[Figure 11]",
-    "D": "[Figure 12]"
+    "A": "$g(x) = 55(2)^{4}x$",
+    "B": "$g(x) = 55(4)^{2}x$",
+    "C": "$g(x) = 55(16)^x$",
+    "D": "$g(x) = 55(256)^\\frac{x}{2}$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. It's given that for every increase of $2$ in the value of $x$, the value of $g(x)$ increases by a factor of $k$. This means that $g(x + 2) = k \\cdot g(x)$. For the form $g(x) = 55(256)^{\\frac{x}{2}}$, substituting $x + 2$ for $x$ yields $g(x + 2) = 55(256)^{\\frac{x + 2}{2}}$, which is equivalent to $g(x + 2) = 55(256)^{\\frac{x}{2} + 1}$, or $g(x + 2) = 55(256)^{\\frac{x}{2}} \\cdot (256)^{1}$. This can be rewritten as $g(x + 2) = 256 \\cdot g(x)$. Therefore, $k = 256$, which is displayed as the base in the form $g(x) = 55(256)^{\\frac{x}{2}}$.",
   "source": "https://cooksat.com/practice?questionId=9c4d5f64&subject=math&domain=advanced-math&skills=nonlinear_functions&bank=cooksat",
-  "images": [
-    {
-      "label": "Figure 1",
-      "path": "data/capture-assets/9c4d5f64/1-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 2",
-      "path": "data/capture-assets/9c4d5f64/2-006f3c04160d96ee.png"
-    },
-    {
-      "label": "Figure 3",
-      "path": "data/capture-assets/9c4d5f64/3-f63344b6a91c736e.png"
-    },
-    {
-      "label": "Figure 4",
-      "path": "data/capture-assets/9c4d5f64/4-d3f8243cb1e3bf96.png"
-    },
-    {
-      "label": "Figure 5",
-      "path": "data/capture-assets/9c4d5f64/5-f6ba4414c242606d.png"
-    },
-    {
-      "label": "Figure 6",
-      "path": "data/capture-assets/9c4d5f64/6-f6ba4414c242606d.png"
-    },
-    {
-      "label": "Figure 7",
-      "path": "data/capture-assets/9c4d5f64/7-61714b14e9e111ce.png"
-    },
-    {
-      "label": "Figure 8",
-      "path": "data/capture-assets/9c4d5f64/8-f6ba4414c242606d.png"
-    },
-    {
-      "label": "Figure 9",
-      "path": "data/capture-assets/9c4d5f64/9-2da614549f3a9b39.png"
-    },
-    {
-      "label": "Figure 10",
-      "path": "data/capture-assets/9c4d5f64/10-4459fa8364f372b0.png"
-    },
-    {
-      "label": "Figure 11",
-      "path": "data/capture-assets/9c4d5f64/11-b891489c08c098eb.png"
-    },
-    {
-      "label": "Figure 12",
-      "path": "data/capture-assets/9c4d5f64/12-9633959b325f8e7a.png"
-    }
-  ]
+  "images": []
 }
