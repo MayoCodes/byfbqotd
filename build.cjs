@@ -33,6 +33,7 @@ const runEntry=path.basename(Object.entries(runBundle.metafile.outputs).find(([,
 const pages={
  'question-bank.html':html,
  'assignment.html':fs.readFileSync(path.join(__dirname,'assignment.html'),'utf8'),
+ 'daily-challenge.html':fs.readFileSync(path.join(__dirname,'daily-challenge.html'),'utf8'),
  'dashboard.html':fs.readFileSync(path.join(__dirname,'dashboard.html'),'utf8'),
  'index.html':fs.readFileSync(path.join(__dirname,'index.html'),'utf8')
 };
