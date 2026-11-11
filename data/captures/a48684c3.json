@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a48684c3",
+  "capturedAt": "2026-11-11T06:25:28.142Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = -7x + 14$. What is the $y$-coordinate of the $y$-intercept of the graph of $y = g(x)$ in the $xy$-plane?\n\n$$0$$\n\n$$14$$",
+  "choices": {},
+  "correctAnswer": "$14$",
+  "explanation": "The correct answer is $14$. The $y$-intercept of the graph of $y = g(x)$ in the $xy$-plane is the point where the graph crosses the $y$-axis, which occurs at $x = 0$. Substituting $0$ for $x$ and $y$ for $g(x)$ in the equation $g(x) = -7x + 14$ yields $y = -7(0) + 14$, or $y = 14$. Therefore, the $y$-coordinate of the $y$-intercept of the graph of $y = g(x)$ in the $xy$-plane is $14$.",
+  "source": "https://cooksat.com/practice?questionId=a48684c3&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

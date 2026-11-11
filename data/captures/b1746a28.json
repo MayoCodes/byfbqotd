@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b1746a28",
+  "capturedAt": "2026-11-11T06:25:59.142Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$d(x) = kx + 250$$\n\nA catering company's total cost $d(x)$, in dollars, to prepare $x$ meals is given by the function above, where $k$ is a constant and $x > 0$. The total cost to prepare $80$ meals is $$570$. What is the total cost, in dollars, to prepare $1,200$ meals? (Disregard the $ sign when gridding your answer.)\n\n$$0$$\n\n$$5050$$",
+  "choices": {},
+  "correctAnswer": "$5050$",
+  "explanation": "The correct answer is $5050$. Substituting $d(x) = 570$ and $x = 80$ into the given equation yields $570 = k \\times 80 + 250$. Subtracting $250$ from both sides of the equation yields $320 = k \\times 80$. Dividing both sides of this equation by $80$ yields $4 = k$. Substituting the value of $k$ into the given equation yields $d(x) = 4x + 250$. Substituting $1{,}200$ for $x$ in this equation and solving for $d(x)$ gives the cost of preparing $1{,}200$ meals: $4 \\times 1{,}200 + 250$, or $5{,}050$.",
+  "source": "https://cooksat.com/practice?questionId=b1746a28&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

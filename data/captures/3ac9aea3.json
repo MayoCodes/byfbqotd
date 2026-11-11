@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3ac9aea3",
+  "capturedAt": "2026-11-11T06:23:04.487Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the linear function $g$, $g(0) = 28$ and $g(1) = 31$. Which equation defines $g$?",
+  "choices": {
+    "A": "$g(x) = 3x$",
+    "B": "$g(x) = 3x + 28$",
+    "C": "$g(x) = 28x + 3$",
+    "D": "$g(x) = 31x + 28$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. An equation defining a linear function can be written in the form $g(x) = ax + b$, where $a$ and $b$ are constants. It's given that $g(0) = 28$. Substituting $0$ for $x$ and $28$ for $g(x)$ in the equation $g(x) = ax + b$ yields $28 = a(0) + b$, or $b = 28$. Substituting $28$ for $b$ in the equation $g(x) = ax + b$ yields $g(x) = ax + 28$. It's also given that $g(1) = 31$. Substituting $1$ for $x$ and $31$ for $g(x)$ in the equation $g(x) = ax + 28$ yields $31 = a(1) + 28$, or $31 = a + 28$. Subtracting $28$ from both sides of this equation yields $a = 3$. Substituting $3$ for $a$ in the equation $g(x) = ax + 28$ yields $g(x) = 3x + 28$.",
+  "source": "https://cooksat.com/practice?questionId=3ac9aea3&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

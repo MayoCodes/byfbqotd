@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c4821244",
+  "capturedAt": "2026-11-11T06:26:27.937Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "For the linear function $h$ defined by $h(x) = -12x + c$, where $c$ is a constant, if $h(\\frac{3}{4}) = -47$, what is the value of $c$?\n\n$$0$$\n\n$$-38$$",
+  "choices": {},
+  "correctAnswer": "$-38$",
+  "explanation": "The correct answer is $-38$. It's given that $h\\left(\\frac{3}{4}\\right) = -47$. Substituting $\\frac{3}{4}$ for $x$ and $-47$ for $h(x)$ in the given function $h(x) = -12x + c$ yields $-47 = -12\\left(\\frac{3}{4}\\right) + c$, or $-47 = -9 + c$. Adding $9$ to both sides of this equation yields $-38 = c$. Therefore, the value of $c$ is $-38$.",
+  "source": "https://cooksat.com/practice?questionId=c4821244&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "423b9d83",
+  "capturedAt": "2026-11-11T06:23:15.854Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of calories burned by a person after exercising at a constant rate for four different time periods. Which of the following equations represents the relationship between the time, $t$, spent exercising and the number of calories, $c$, burned?",
+  "choices": {
+    "A": "$c = 2t + 60$",
+    "B": "$c = 3t + 50$",
+    "C": "$c = 6t + 20$",
+    "D": "$c = 10t + 80$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The calories burned, $c$, is a linear function of time, $t$, spent exercising. To find the slope, use any two data points from the table. Using $(10, 80)$ and $(40, 140)$: slope $= \\frac{140 - 80}{40 - 10} = \\frac{60}{30} = 2$. The equation has the form $c = 2t + b$. To find $b$, substitute one data point. Using $(10, 80)$: $80 = 2(10) + b$, which gives $80 = 20 + b$, so $b = 60$. Therefore, the equation is $c = 2t + 60$. This can be verified with all data points: when $t = 25$, $c = 2(25) + 60 = 110$ ; when $t = 55$, $c = 2(55) + 60 = 170$.",
+  "source": "https://cooksat.com/practice?questionId=423b9d83&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/423b9d83/1-33851c1fd81b4275.png",
+      "kind": "diagram"
+    }
+  ]
+}

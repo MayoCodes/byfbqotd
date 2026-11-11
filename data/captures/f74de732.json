@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f74de732",
+  "capturedAt": "2026-11-11T06:27:37.111Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A newborn giraffe was $142$ centimeters tall at birth. During its first year, the giraffe grew an average of $5$ centimeters per week. Which equation models this situation, where $y$ is the estimated height of the giraffe, in centimeters, $x$ weeks after birth?",
+  "choices": {
+    "A": "$y = 5 - 142x$",
+    "B": "$y = 5 + 142x$",
+    "C": "$y = 142 - 5x$",
+    "D": "$y = 142 + 5x$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The giraffe's initial height of $142$ centimeters is represented by the constant term $142$. Since the giraffe grows an average of $5$ centimeters per week, after $x$ weeks the total growth is $5x$ centimeters. Adding the initial height to the growth gives the total estimated height: $y = 142 + 5x$.",
+  "source": "https://cooksat.com/practice?questionId=f74de732&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

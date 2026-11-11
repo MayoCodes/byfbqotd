@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9e477e8e",
+  "capturedAt": "2026-11-11T06:25:18.603Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the linear function $h$, $h(0) = 12$ and $h(4) = 12$. Which equation defines $h$?",
+  "choices": {
+    "A": "$h(x) = 0$",
+    "B": "$h(x) = 4$",
+    "C": "$h(x) = 12$",
+    "D": "$h(x) = x + 12$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A linear function can be written as $h(x) = mx + b$, where $m$ and $b$ are constants. It's given that $h(0) = 12$. Substituting $0$ for $x$ and $12$ for $h(x)$ in $h(x) = mx + b$ yields $12 = m(0) + b$, or $b = 12$. Substituting $12$ for $b$ gives $h(x) = mx + 12$. It's also given that $h(4) = 12$. Substituting $4$ for $x$ and $12$ for $h(x)$ yields $12 = m(4) + 12$, or $12 = 4m + 12$. Subtracting $12$ from both sides yields $0 = 4m$, so $m = 0$. Substituting $0$ for $m$ in $h(x) = mx + 12$ yields $h(x) = 0x + 12$, or $h(x) = 12$.",
+  "source": "https://cooksat.com/practice?questionId=9e477e8e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

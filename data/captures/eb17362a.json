@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eb17362a",
+  "capturedAt": "2026-11-11T06:27:21.791Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A laboratory technician added a chemical solution to a beaker at a constant rate. After $2$ seconds, the volume of the chemical solution in the beaker was $50$ milliliters. After $4$ seconds, the volume of the chemical solution in the beaker was $90$ milliliters. The equation $V = 20t + 10$ gives the volume $V$, in milliliters, of the chemical solution in the beaker in terms of the time $t$, in seconds, since the technician began adding the solution. What is the best interpretation of $10$ in this context?",
+  "choices": {
+    "A": "The time, in seconds, at which the volume of the chemical solution in the beaker reached $10$ milliliters",
+    "B": "The rate, in milliliters per second, at which the technician added the chemical solution to the beaker",
+    "C": "The volume, in milliliters, of the chemical solution that was in the beaker before the technician began adding the solution",
+    "D": "The total volume, in milliliters, of the chemical solution in the beaker after $10$ seconds"
+  },
+  "correctAnswer": "C",
+  "explanation": "The equation $V = 20t + 10$ is in the form $V = mt + b$, where $b$ represents the value of $V$ when $t = 0$. When $t = 0$ (before the technician began adding solution), $V = 20(0) + 10 = 10$ milliliters. Therefore, $10$ represents the initial volume of chemical solution that was already in the beaker before the technician began adding more solution.",
+  "source": "https://cooksat.com/practice?questionId=eb17362a&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

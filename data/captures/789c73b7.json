@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "789c73b7",
+  "capturedAt": "2026-11-11T06:24:40.812Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A photography studio rents space to clients for portrait sessions. For the first hour, the studio charges $$175$, which includes a $$55$ equipment setup fee and the hourly rental rate. Each additional hour after the first costs $$120$. The studio also offers a $15%$ discount on the total bill for clients who book $5$ or more hours. If $f(h)$ represents the total rental cost, in dollars, for booking the studio for $h$ hours, where $1 \\le h < 5$, which function represents this relationship?",
+  "choices": {
+    "A": "$f(h) = 102h + 55$",
+    "B": "$f(h) = 120h + 55$",
+    "C": "$f(h) = 120h + 175$",
+    "D": "$f(h) = 175h + 120$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The total cost consists of $$175$ for the first hour plus $$120$ for each additional hour. Since the first hour is already accounted for, the number of additional hours is $(h-1)$. Therefore, $f(h) = 175 + 120(h-1) = 175 + 120h - 120 = 120h + 55$. Note that the $$55$ setup fee is already included in the first-hour charge, and the $15\\%$ discount does not apply since $h < 5$.",
+  "source": "https://cooksat.com/practice?questionId=789c73b7&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

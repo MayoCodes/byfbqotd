@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c8a8ed81",
+  "capturedAt": "2026-11-11T06:26:33.344Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$V = 75 + 4m$$\n\nThe equation gives the volume $V$, in gallons, of water in a certain tank $m$ minutes after a pump was turned on. What is the volume, in gallons, of water in the tank $6$ minutes after the pump was turned on?",
+  "choices": {
+    "A": "$75$",
+    "B": "$81$",
+    "C": "$83$",
+    "D": "$99$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In the given equation, $V$ is the volume, in gallons, of water in a certain tank $m$ minutes after a pump was turned on. Therefore, the volume of water in the tank, in gallons, $6$ minutes after the pump was turned on can be found by substituting $6$ for $m$ in the given equation, which yields $V = 75 + 4(6)$, or $V = 99$. Thus, the volume of water in the tank $6$ minutes after the pump was turned on is $99$ gallons.",
+  "source": "https://cooksat.com/practice?questionId=c8a8ed81&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f6142738",
+  "capturedAt": "2026-11-11T06:27:33.592Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The relationship between two variables $x$ and $y$ can be modeled by a linear equation. When $x=0$, $y=4$, and when $x=2$, $y=10$. Which of the following best interprets the slope of this relationship?",
+  "choices": {
+    "A": "For every increase of $3$ in $x$, the value of $y$ increases by $1$.",
+    "B": "For every increase of $1$ in $x$, the value of $y$ increases by $4$.",
+    "C": "For every increase of $1$ in $x$, the value of $y$ increases by $3$.",
+    "D": "For every increase of $1$ in $x$, the value of $y$ increases by $2$."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Using the two points $(0,4)$ and $(2,10)$, the slope is $\\frac{10-4}{2-0}=\\frac{6}{2}=3$. A slope of $3$ means that for every increase of $1$ unit in $x$, the value of $y$ increases by $3$ units.",
+  "source": "https://cooksat.com/practice?questionId=f6142738&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

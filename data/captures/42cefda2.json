@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "42cefda2",
+  "capturedAt": "2026-11-11T06:23:23.735Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows the total amount of money, in dollars, that a babysitter earned for working different numbers of hours. Assuming the relationship between the number of hours worked and the total money earned is linear, how much money, in dollars, would the babysitter earn for working $40$ hours?",
+  "choices": {
+    "A": "$400$",
+    "B": "$450$",
+    "C": "$500$",
+    "D": "$600$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Let $h$ represent the number of hours worked and $d$ represent the total amount of money earned in dollars. According to the table, the babysitter earned ＄150 for working 12 hours and ＄200 for working 16 hours. The rate of change (slope) is calculated as: $\\frac{200 - 150}{16 - 12} = \\frac{50}{4} = 12.5$ dollars per hour. To verify this is a proportional relationship, check the ratios: $\\frac{150}{12} = 12.5$ and $\\frac{200}{16} = 12.5$. Since both ratios equal the rate of change, this confirms the relationship passes through the origin and can be modeled by $d = 12.5h$. Substituting $h = 40$ gives $d = 12.5(40) = 500$. Therefore, the babysitter would earn ＄500 for working 40 hours.",
+  "source": "https://cooksat.com/practice?questionId=42cefda2&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/42cefda2/1-a337044b5675ec84.png",
+      "kind": "diagram"
+    }
+  ]
+}

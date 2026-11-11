@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d94b372a",
+  "capturedAt": "2026-11-11T06:27:01.460Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 5x - \\frac{1}{6}$. What is the $y$-intercept of the graph of $y = g(x)$ in the $xy$-plane?",
+  "choices": {
+    "A": "$(0, -\\frac{1}{6})$",
+    "B": "$(0, -5)$",
+    "C": "$(0, 5)$",
+    "D": "$(0, 6)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The $y$-intercept of the graph of a function in the $xy$-plane is the point on the graph where $x = 0$. It's given that $g(x) = 5x - \\frac{1}{6}$. Substituting $0$ for $x$ in this equation yields $g(0) = 5(0) - \\frac{1}{6}$, or $g(0) = -\\frac{1}{6}$. Since $y = g(x)$, it follows that $y = -\\frac{1}{6}$ when $x = 0$. Therefore, the $y$-intercept of the graph of $y = g(x)$ in the $xy$-plane is $\\left(0, -\\frac{1}{6}\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=d94b372a&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

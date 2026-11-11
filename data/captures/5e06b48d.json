@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5e06b48d",
+  "capturedAt": "2026-11-11T06:24:00.708Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A water tank is being drained at a constant rate. The function $W$ is defined by $W(t)=-5t+72$, where $W(t)$ is the volume of water in the tank, in gallons, $t$ minutes after draining begins. What is the value of $W(5)$?",
+  "choices": {
+    "A": "$47$",
+    "B": "$52$",
+    "C": "$67$",
+    "D": "$77$"
+  },
+  "correctAnswer": "A",
+  "explanation": "To find $W(5)$, substitute $5$ for $t$ in the given function $W(t)=-5t+72$. This yields $W(5)=-5(5)+72=-25+72=47$. Therefore, the value of $W(5)$ is $47$.",
+  "source": "https://cooksat.com/practice?questionId=5e06b48d&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

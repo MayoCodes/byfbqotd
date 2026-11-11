@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "778ed3f1",
+  "capturedAt": "2026-11-11T06:24:34.806Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $P(x) = 35,000 - 4.3x1,000$ gives the estimated water temperature $P(x)$, in degrees Celsius ($^°$C), surrounding a research submersible at a depth of $x$ meters below sea level. If the estimated water temperature surrounding the submersible is $12 ^°$C, which of the following is closest to the depth, in meters, of the submersible?",
+  "choices": {
+    "A": "$35$",
+    "B": "$2,791$",
+    "C": "$5,349$",
+    "D": "$22,988$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $P(x) = \\frac{35{,}000 - 4.3x}{1{,}000}$ and that the estimated water temperature surrounding the submersible is $12 ^\\circ$C. Therefore, $P(x) = 12$. Substituting $12$ for $P(x)$ in the given function yields $12 = \\frac{35{,}000 - 4.3x}{1{,}000}$. Multiplying both sides of this equation by $1{,}000$ yields $12{,}000 = 35{,}000 - 4.3x$. Subtracting $35{,}000$ from both sides of this equation yields $-23{,}000 = -4.3x$. Dividing both sides of this equation by $-4.3$ yields $x = \\frac{23{,}000}{4.3}$, or $x \\approx 5348.84$. Of the given choices, $5{,}349$ is closest to this value. Therefore, the depth of the submersible is closest to $5{,}349$ meters.",
+  "source": "https://cooksat.com/practice?questionId=778ed3f1&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

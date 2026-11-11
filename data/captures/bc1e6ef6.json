@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bc1e6ef6",
+  "capturedAt": "2026-11-11T06:26:22.861Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is defined by $f(x)=2x+4$. What is the value of $f(5)$?",
+  "choices": {
+    "A": "$6$",
+    "B": "$10$",
+    "C": "$14$",
+    "D": "$18$"
+  },
+  "correctAnswer": "C",
+  "explanation": "To find $f(5)$, substitute $5$ for $x$ in $f(x)=2x+4$. This gives $f(5)=2(5)+4=10+4=14$.",
+  "source": "https://cooksat.com/practice?questionId=bc1e6ef6&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

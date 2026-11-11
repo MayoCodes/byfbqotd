@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1e5c7449",
+  "capturedAt": "2026-11-11T06:22:29.283Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows some values of $x$ and their corresponding values $g(x)$ for the linear function $g$. What is the $x$-intercept of the graph of $y = g(x)$ in the $xy$-plane?",
+  "choices": {
+    "A": "$(-35, 0)$",
+    "B": "$(-10, 0)$",
+    "C": "$(-7, 0)$",
+    "D": "$(-5, 0)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The equation of a linear function can be written in the form $y = mx + b$, where $y = g(x)$, $m$ is the slope of the graph of $y = g(x)$, and $b$ is the $y$-coordinate of the $y$-intercept of the graph. The value of $m$ can be found using the slope formula, $m = \\frac{y_2 - y_1}{x_2 - x_1}$. According to the table, the points $(-12, 25)$ and $(-11, 20)$ lie on the graph of $y = g(x)$. Using these two points in the slope formula yields $m = \\frac{20 - 25}{-11 - (-12)} = \\frac{-5}{1} = -5$. Substituting $-5$ for $m$ in the slope-intercept form of the equation yields $y = -5x + b$. Substituting the coordinates of the point $(-12, 25)$ into $y = -5x + b$ gives $25 = -5(-12) + b$, so $25 = 60 + b$, which yields $b = -35$. Therefore, the function can be represented by $y = -5x - 35$. The $x$-intercept of the graph of $y = g(x)$ is found by setting $y = 0$: $0 = -5x - 35$, which gives $x = -7$. This corresponds to the point $(-7, 0)$.",
+  "source": "https://cooksat.com/practice?questionId=1e5c7449&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/1e5c7449/1-c883e109114f5b41.png",
+      "kind": "diagram"
+    }
+  ]
+}

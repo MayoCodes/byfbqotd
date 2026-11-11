@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "af447e62",
+  "capturedAt": "2026-11-11T06:25:53.657Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A hiking trail with a total length of $47$ kilometers (km) is extended by adding new sections that each have a length of $12 - n$ km. Which function $g$ represents the total length, in km, of the extended hiking trail after $x$ new sections are added?",
+  "choices": {
+    "A": "$g(x) = (59 - n)x$",
+    "B": "$g(x) = 12x - n + 47$",
+    "C": "$g(x) = 12x - nx + 47$",
+    "D": "$g(x) = 47(12 - n) + x$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the hiking trail has an initial length of $47$ km and is extended by adding sections that each have a length of $12 - n$ km. The total length after $x$ sections are added is the sum of the initial length and the total length of the added sections. Since each of the $x$ added sections has length $12 - n$ km, the total length of the added sections is $x(12 - n)$ km. Therefore, the total length is $g(x) = 47 + x(12 - n)$. Applying the distributive property yields $g(x) = 47 + 12x - nx$, which can be rewritten as $g(x) = 12x - nx + 47$.",
+  "source": "https://cooksat.com/practice?questionId=af447e62&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

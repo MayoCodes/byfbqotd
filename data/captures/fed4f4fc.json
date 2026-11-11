@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fed4f4fc",
+  "capturedAt": "2026-11-11T06:27:43.369Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A market analyst modeled the attendance $N$ at a concert as a linear function of the ticket price $r$. The attendance was $12,000$ people when the ticket price was $$25$ per ticket, and the attendance was $7,000$ people when the ticket price was $$50$ per ticket. Based on the model, what is the attendance, in people, when the ticket price is $$45$ per ticket?",
+  "choices": {
+    "A": "$7,500$",
+    "B": "$8,000$",
+    "C": "$8,500$",
+    "D": "$9,000$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Let the analyst's model be the linear function $N = m r + b$, where $N$ is the attendance, $r$ is the ticket price, $m$ is the slope, and $b$ is the $N$-intercept. Using the coordinate pairs $(r, N)$, two points that satisfy the function are $(25, 12{,}000)$ and $(50, 7{,}000)$. The slope can be found using $m = \\frac{N_2 - N_1}{r_2 - r_1} = \\frac{7{,}000 - 12{,}000}{50 - 25} = \\frac{-5{,}000}{25} = -200$. Therefore, $N = -200 r + b$. Substituting the point $(25, 12{,}000)$ yields $12{,}000 = -200(25) + b$, or $12{,}000 = -5{,}000 + b$, so $b = 17{,}000$. The linear function is $N = -200 r + 17{,}000$. Substituting $45$ for $r$ yields $N = -200(45) + 17{,}000 = -9{,}000 + 17{,}000 = 8{,}000$. It follows that when the ticket price is $$45$ per ticket, the attendance is $8{,}000$ people.",
+  "source": "https://cooksat.com/practice?questionId=fed4f4fc&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

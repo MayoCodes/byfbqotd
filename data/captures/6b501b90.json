@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6b501b90",
+  "capturedAt": "2026-11-11T06:24:18.718Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$h = 75 + 3d$$\n\nThe equation gives the height $h$, in centimeters, of a certain plant $d$ days after it was first measured. What is the height, in centimeters, of the plant $6$ days after it was first measured?",
+  "choices": {
+    "A": "$75$",
+    "B": "$78$",
+    "C": "$81$",
+    "D": "$93$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In the given equation, $h$ is the height, in centimeters, of a certain plant $d$ days after it was first measured. The height of the plant $6$ days after it was first measured can be found by substituting $6$ for $d$ in the given equation, which yields $h = 75 + 3(6)$, or $h = 93$. Thus, the height of the plant $6$ days after it was first measured is $93$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=6b501b90&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

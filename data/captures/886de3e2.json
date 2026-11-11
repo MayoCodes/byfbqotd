@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "886de3e2",
+  "capturedAt": "2026-11-11T06:24:51.646Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A company's monthly utility bill, $b$, in dollars, is related to the number of square feet, $a$, of office space the company occupies by the equation $b=0.75a+400$. If the company currently occupies $800$ square feet and plans to expand to $1,200$ square feet, by how many dollars will the monthly utility bill increase?",
+  "choices": {
+    "A": "$300$",
+    "B": "$400$",
+    "C": "$900$",
+    "D": "$1,300$"
+  },
+  "correctAnswer": "A",
+  "explanation": "First, calculate the bill at $800$ square feet: $b = 0.75(800) + 400 = 600 + 400 = 1{,}000$ dollars. Next, calculate the bill at $1{,}200$ square feet: $b = 0.75(1{,}200) + 400 = 900 + 400 = 1{,}300$ dollars. The increase is $1{,}300 - 1{,}000 = 300$ dollars.",
+  "source": "https://cooksat.com/practice?questionId=886de3e2&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

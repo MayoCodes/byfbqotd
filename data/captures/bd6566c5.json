@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bd6566c5",
+  "capturedAt": "2026-11-11T06:26:24.464Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$v = 8m$$\n\nThe given equation relates the volume $v$, in liters, of water in a tank to the time $m$, in minutes, since water began flowing into the tank. What is the rate of change of the volume of water in the tank over time?",
+  "choices": {
+    "A": "$\\frac{1}{(8m)}$ liters per minute",
+    "B": "$\\frac{1}{8}$ liters per minute",
+    "C": "$8$ liters per minute",
+    "D": "$8m$ liters per minute"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $v$ represents the volume, in liters, and $m$ represents the time, in minutes, since water began flowing into the tank. In the equation $v = 8m$, the coefficient of $m$ is $8$. This means that for every increase in the value of $m$ by $1$ minute, the value of $v$ increases by $8$ liters. Therefore, the rate of change of the volume of water in the tank over time is $8$ liters per minute.",
+  "source": "https://cooksat.com/practice?questionId=bd6566c5&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

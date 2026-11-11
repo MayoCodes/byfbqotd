@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e5fa6898",
+  "capturedAt": "2026-11-11T06:27:15.280Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the amount, in dollars, that Sally has saved at the end of each month from May to September. The relationship between the number of months since May, $m$, and the total amount, in dollars, Sally has saved, $A$, can be represented by a linear equation. Which equation represents this relationship?",
+  "choices": {
+    "A": "$A = 50m$",
+    "B": "$A = 50m + 50$",
+    "C": "$A = 100m$",
+    "D": "$A = 100m + 50$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. According to the table, Sally had $50 saved at the end of May (month 0), $100 saved at the end of June (month 1), $150 saved at the end of July (month 2), $200 saved at the end of August (month 3), and $250 saved at the end of September (month 4). The relationship between the number of months since May, $m$, and the total amount, in dollars, Sally has saved, $A$, can be represented by a linear equation of the form $A = bm + c$. The initial amount of Sally's savings, $c$, is $50, and the amount of money she saves each month, $b$, is $50. Therefore, the equation that represents this relationship is $A = 50m + 50$.",
+  "source": "https://cooksat.com/practice?questionId=e5fa6898&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e5fa6898/1-a2d2b8d661ec343d.png",
+      "kind": "diagram"
+    }
+  ]
+}

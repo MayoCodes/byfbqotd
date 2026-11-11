@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ab99ca80",
+  "capturedAt": "2026-11-11T06:25:48.373Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A water tank contains $80$ liters of water. Water is removed from the tank one bucket at a time, and each bucket removes $5$ liters. Which function $g$ gives the volume of water remaining in the tank, in liters, after $x$ buckets of water have been removed?",
+  "choices": {
+    "A": "$g(x) = 75x$",
+    "B": "$g(x) = 80x - 5$",
+    "C": "$g(x) = 80 - 5x$",
+    "D": "$g(x) = 85x$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The tank starts with $80$ liters of water. Each bucket removes $5$ liters, so after $x$ buckets have been removed, the total volume removed is $5x$ liters. The volume of water remaining is the initial volume minus the volume removed, which is $80 - 5x$ liters. Therefore, the function $g(x) = 80 - 5x$ gives the volume of water remaining in the tank after $x$ buckets have been removed.",
+  "source": "https://cooksat.com/practice?questionId=ab99ca80&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

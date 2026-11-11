@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e6424c0e",
+  "capturedAt": "2026-11-11T06:27:17.517Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A swimming pool contains $18,000$ gallons of water. A pump begins draining the pool at a constant rate. After $2$ hours, the pool contains $15,600$ gallons, and after $5$ hours, it contains $12,000$ gallons. If the pump continues draining at this rate, how many hours after draining begins will the pool be completely empty?",
+  "choices": {
+    "A": "$12$",
+    "B": "$15$",
+    "C": "$18$",
+    "D": "$20$"
+  },
+  "correctAnswer": "B",
+  "explanation": "First, find the rate of draining. Using the two given points $(2, 15600)$ and $(5, 12000)$: the rate is $\\frac{12000 - 15600}{5 - 2} = \\frac{-3600}{3} = -1200$ gallons per hour. The linear function is $W(t) = 18000 - 1200t$, where $W(t)$ is the gallons remaining after $t$ hours. Setting $W(t) = 0$: $18000 - 1200t = 0$, so $t = \\frac{18000}{1200} = 15$ hours.",
+  "source": "https://cooksat.com/practice?questionId=e6424c0e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

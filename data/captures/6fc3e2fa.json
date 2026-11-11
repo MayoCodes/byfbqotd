@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6fc3e2fa",
+  "capturedAt": "2026-11-11T06:24:23.831Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the linear function $g$, the graph of $y = g(x)$ in the $xy$-plane has a slope of $-47$ and passes through the point $(0, 0)$. Which equation defines $g$?",
+  "choices": {
+    "A": "$g(x) = -47x$",
+    "B": "$g(x) = -29x$",
+    "C": "$g(x) = -7x$",
+    "D": "$g(x) = x$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The equation for a linear function $g$ can be written in the form $g(x) = mx + b$, where $m$ is the slope of the graph of $y = g(x)$ in the $xy$-plane and $b$ is the $y$-coordinate of the $y$-intercept. It's given that the graph has a slope of $-47$, so $m = -47$. It's also given that the graph passes through the point $(0, 0)$. This means the $y$-intercept is $(0, 0)$, so $b = 0$. Substituting $-47$ for $m$ and $0$ for $b$ in the equation $g(x) = mx + b$ yields $g(x) = -47x + 0$, or $g(x) = -47x$.",
+  "source": "https://cooksat.com/practice?questionId=6fc3e2fa&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

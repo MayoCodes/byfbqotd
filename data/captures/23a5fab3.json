@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "23a5fab3",
+  "capturedAt": "2026-11-11T06:22:37.610Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the function $f$ defined by $f(x)=\\frac{(x-5)}{2}$, what is the value of $f(11)-f(5)$?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$6$"
+  },
+  "correctAnswer": "C",
+  "explanation": "To find $f(11)-f(5)$, first evaluate $f(11)$ by substituting $11$ for $x$ in the given function: $f(11)=\\frac{11-5}{2}=\\frac{6}{2}=3$. Next, evaluate $f(5)$ by substituting $5$ for $x$: $f(5)=\\frac{5-5}{2}=\\frac{0}{2}=0$. Therefore, $f(11)-f(5)=3-0=3$.",
+  "source": "https://cooksat.com/practice?questionId=23a5fab3&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

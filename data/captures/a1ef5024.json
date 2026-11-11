@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a1ef5024",
+  "capturedAt": "2026-11-11T06:25:20.562Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = 7x$. For what value of $x$ is $h(x) = 84$?\n\n$$0$$\n\n$$12$$",
+  "choices": {},
+  "correctAnswer": "$12$",
+  "explanation": "The correct answer is $12$. It's given that $h(x) = 7x$. Substituting $84$ for $h(x)$ in the given function yields $84 = 7x$. Dividing both sides of this equation by $7$ yields $x = 12$. Therefore, the value of $x$ when $h(x) = 84$ is $12$.",
+  "source": "https://cooksat.com/practice?questionId=a1ef5024&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

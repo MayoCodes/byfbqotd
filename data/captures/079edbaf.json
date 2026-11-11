@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "079edbaf",
+  "capturedAt": "2026-11-11T06:21:59.297Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$h(x) = 3(11x - 7)$$\n\nWhat is the $y$-coordinate of the $y$-intercept of the graph of $y = h(x) - 6$ in the $xy$-plane?",
+  "choices": {
+    "A": "$-27$",
+    "B": "$-21$",
+    "C": "$-15$",
+    "D": "$-13$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The $y$-intercept of a graph in the $xy$-plane is the point on the graph where $x = 0$. It's given that $h(x) = 3(11x - 7)$. Applying the distributive property yields $h(x) = 33x - 21$. Therefore, the equation representing the graph of $y = h(x) - 6$ is $y = 33x - 21 - 6$, or $y = 33x - 27$. Substituting $0$ for $x$ in the equation $y = 33x - 27$ yields $y = 33(0) - 27$, or $y = -27$. Therefore, the $y$-coordinate of the $y$-intercept of the graph of $y = h(x) - 6$ in the $xy$-plane is $-27$.",
+  "source": "https://cooksat.com/practice?questionId=079edbaf&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

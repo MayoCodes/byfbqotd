@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a7dc3f24",
+  "capturedAt": "2026-11-11T06:25:38.886Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows some values of the linear function $f$. Which of the following functions could define $f$?",
+  "choices": {
+    "A": "$f(x) = -0.25x - 3.5$",
+    "B": "$f(x) = -0.25x + 3.5$",
+    "C": "$f(x) = 0.25x - 3.5$",
+    "D": "$f(x) = 0.25x + 3.5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The variables $x$ and $f(x)$ are linearly related, so the functional relationship between them can be expressed by an equation of the form $f(x) = mx + b$, where $m$ is the constant rate of change (slope) and $b$ is the $y$-intercept. The rate of change of $f(x)$ with respect to $x$ can be calculated using any two points from the table: $m = \\frac{-3 - (-3.5)}{2 - 0} = \\frac{0.5}{2} = 0.25$. This can be verified with another pair of points: $\\frac{-1.5 - (-2)}{8 - 6} = \\frac{0.5}{2} = 0.25$. Since $f(0) = -3.5$, the $y$-intercept $b = -3.5$. Therefore, the equation that defines $f$ is $f(x) = 0.25x - 3.5$. This can be verified: $f(2) = 0.25(2) - 3.5 = -3$, $f(4) = 0.25(4) - 3.5 = -2.5$, $f(6) = 0.25(6) - 3.5 = -2$, $f(8) = 0.25(8) - 3.5 = -1.5$.",
+  "source": "https://cooksat.com/practice?questionId=a7dc3f24&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/a7dc3f24/1-3b3f4abd87a43e9b.png",
+      "kind": "diagram"
+    }
+  ]
+}

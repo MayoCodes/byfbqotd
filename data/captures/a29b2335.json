@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a29b2335",
+  "capturedAt": "2026-11-11T06:25:22.204Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = \\frac{4}{7}x - \\frac{5}{7}$. What is the value of $h(21)$?",
+  "choices": {
+    "A": "$\\frac{7}{7}$",
+    "B": "$\\frac{(17)}{7}$",
+    "C": "$\\frac{(79)}{7}$",
+    "D": "$\\frac{(89)}{7}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the function $h$ is defined by $h(x) = \\frac{4}{7}x - \\frac{5}{7}$. Substituting $21$ for $x$ into the given equation yields $h(21) = \\frac{4}{7}(21) - \\frac{5}{7}$, which simplifies to $h(21) = \\frac{84}{7} - \\frac{5}{7}$, or $h(21) = \\frac{79}{7}$.",
+  "source": "https://cooksat.com/practice?questionId=a29b2335&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

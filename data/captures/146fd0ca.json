@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "146fd0ca",
+  "capturedAt": "2026-11-11T06:22:23.476Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A school band is selling concert tickets to raise money. They use the function $h(x) = 7x - 150$ to determine their profit $h(x)$, in dollars, from selling $x$ tickets. In order to earn a profit of $$1110$, how many tickets must they sell?\n\n$$0$$\n\n$$180$$",
+  "choices": {},
+  "correctAnswer": "$180$",
+  "explanation": "The correct answer is $180$. It's given that the profit function is $h(x) = 7x - 150$ and the band wants to earn a profit of $$1110$. Substituting $1110$ for $h(x)$ in the given function yields $1110 = 7x - 150$. Adding $150$ to both sides of this equation yields $1260 = 7x$. Dividing both sides of this equation by $7$ yields $180 = x$. Therefore, the band must sell $180$ tickets to earn a profit of $$1110$.",
+  "source": "https://cooksat.com/practice?questionId=146fd0ca&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

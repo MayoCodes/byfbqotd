@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b280f61b",
+  "capturedAt": "2026-11-11T06:26:00.900Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For a project on combustion, Marcus recorded the height of a candle as it burned over time. The function $P(t) = 45 - 0.18t$ gives the estimated height, in millimeters (mm), of the candle $t$ hours after it was lit. Which of the following is the best interpretation of $45$ in this context?",
+  "choices": {
+    "A": "The estimated change in the height, in mm, of the candle each hour",
+    "B": "The estimated height, in mm, of the candle when it was lit",
+    "C": "The estimated height, in mm, of the candle when it finished burning",
+    "D": "The estimated number of hours it took for the candle to burn completely"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $P(t) = 45 - 0.18t$ gives the estimated height, in millimeters (mm), of the candle $t$ hours after it was lit. For a linear function in the form $P(t) = a + bt$, where $a$ and $b$ are constants, $a$ represents the value of $P(0)$. The given function can be written as $P(t) = -0.18t + 45$. It follows that $45$ represents the value of $P(0)$, or the estimated height of the candle when $t = 0$. Therefore, the best interpretation of $45$ is the estimated height, in mm, of the candle when it was lit.",
+  "source": "https://cooksat.com/practice?questionId=b280f61b&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

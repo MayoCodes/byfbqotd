@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ddf2d682",
+  "capturedAt": "2026-11-11T06:27:06.661Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For a class project, Maya observed a candle burning. She measured the height of the candle over a period of time. The function $g(x) = 62 - 0.25x$ gives the estimated height, in centimeters (cm), of the candle $x$ hours after Maya started the observation. Which of the following is the best interpretation of $62$ in this context?",
+  "choices": {
+    "A": "The estimated height, in cm, of the candle when Maya started the observation",
+    "B": "The estimated height, in cm, of the candle when Maya finished the observation",
+    "C": "The estimated change in the height, in cm, of the candle each hour",
+    "D": "The estimated number of hours for the candle to completely burn down"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the function $g(x) = 62 - 0.25x$ gives the estimated height, in centimeters (cm), of the candle $x$ hours after Maya started the observation. For a function defined by an equation of the form $g(x) = b + mx$, where $m$ and $b$ are constants, $b$ represents the value of $g(x)$ when $x = 0$. It follows that in the given function, $62$ represents the value of $g(x)$ when $x = 0$. Since $x = 0$ represents when Maya started the observation, the best interpretation of $62$ in this context is that the estimated height, in cm, of the candle was $62$ when Maya started the observation.",
+  "source": "https://cooksat.com/practice?questionId=ddf2d682&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

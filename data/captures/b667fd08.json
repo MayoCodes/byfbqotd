@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b667fd08",
+  "capturedAt": "2026-11-11T06:26:08.112Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows some values of the linear functions $f$ and $g$. For what value of $x$ does $f(x) = 2g(x)$?",
+  "choices": {
+    "A": "$3$",
+    "B": "$5$",
+    "C": "$7$",
+    "D": "$9$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. First, determine the equations of each function from the table. For $f(x)$: the slope is $\\frac{8 - 5}{1 - 0} = 3$ and the $y$-intercept is $5$, so $f(x) = 3x + 5$. For $g(x)$: the slope is $\\frac{1 - (-1)}{1 - 0} = 2$ and the $y$-intercept is $-1$, so $g(x) = 2x - 1$. Setting $f(x) = 2g(x)$: $3x + 5 = 2(2x - 1)$, which gives $3x + 5 = 4x - 2$. Solving: $5 + 2 = 4x - 3x$, so $x = 7$.",
+  "source": "https://cooksat.com/practice?questionId=b667fd08&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b667fd08/1-c497d0f3671d259c.png",
+      "kind": "diagram"
+    }
+  ]
+}

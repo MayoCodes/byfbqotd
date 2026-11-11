@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9bd710e0",
+  "capturedAt": "2026-11-11T06:25:10.707Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g(x)$ is defined as $23$ more than $7$ times a number $x$. If $y = g(x)$ is graphed in the $xy$-plane, what is the best interpretation of the $x$-intercept?",
+  "choices": {
+    "A": "When $g(x) = 0$, the number is $-\\frac{(23)}{7}$.",
+    "B": "When the number is $0$, $g(x) = 23$.",
+    "C": "The value of $g(x)$ increases by $1$ for each increase of $7$ in the value of the number.",
+    "D": "For each increase of $1$ in the value of the number, $g(x)$ increases by $7$."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the function $g(x)$ is defined as $23$ more than $7$ times a number $x$. This can be represented by the equation $g(x) = 7x + 23$. The $x$-intercept of the graph of $y = g(x)$ in the $xy$-plane is the point where the graph intersects the $x$-axis, or the point on the graph where the value of $g(x)$ is equal to $0$. Substituting $0$ for $g(x)$ in the equation $g(x) = 7x + 23$ yields $0 = 7x + 23$. Subtracting $23$ from each side of this equation yields $-23 = 7x$. Dividing each side of this equation by $7$ yields $x = -\\frac{23}{7}$. Therefore, when $g(x) = 0$, the number is $-\\frac{23}{7}$.",
+  "source": "https://cooksat.com/practice?questionId=9bd710e0&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "91750c3e",
+  "capturedAt": "2026-11-11T06:25:00.658Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A storage facility charges $$200$ for the first month of rental and $$150$ for each additional month. The number of months a customer rents can be modeled by $m(k) = 2k + 1$, where $k$ represents the number of billing cycles. If $C(x)$ represents the total cost in dollars for $x$ months of rental, and a customer wants to determine their cost after $k$ billing cycles by finding $C(m(k))$, which expression represents this cost?",
+  "choices": {
+    "A": "$150k + 200$",
+    "B": "$300k + 50$",
+    "C": "$300k + 200$",
+    "D": "$300k + 350$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The cost function is $C(x) = 200 + 150(x-1)$ since $x$ months includes 1 first month at $200 plus $(x-1)$ additional months at $150 each. The months rented after $k$ billing cycles is $m(k) = 2k + 1$. Therefore, $C(m(k)) = C(2k+1) = 200 + 150((2k+1)-1) = 200 + 150(2k) = 200 + 300k = 300k + 200$.",
+  "source": "https://cooksat.com/practice?questionId=91750c3e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

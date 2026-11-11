@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "503fa0fb",
+  "capturedAt": "2026-11-11T06:23:46.615Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA seedling was planted in a garden, and its height was measured daily. The graph of the function $h$ shown, where $y = h(x)$, estimates the height of the seedling, in centimeters, $x$ days after it was planted. To the nearest whole centimeter, what is the estimated initial height of the seedling when it was planted?\n\n$$0$$\n\n$$15$$",
+  "choices": {},
+  "correctAnswer": "$15$",
+  "explanation": "The correct answer is $15$. For the graph shown, the x-axis represents the time since planting, in days, and the y-axis represents the height of the seedling, in centimeters. The initial height of the seedling is estimated by the y-coordinate of the point on the graph where $x = 0$. When $x = 0$, the graph shows $y = 15$. Therefore, the estimated initial height of the seedling, to the nearest whole centimeter, is $15$.",
+  "source": "https://cooksat.com/practice?questionId=503fa0fb&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/503fa0fb/1-53ca6ed649e097ff.png",
+      "kind": "diagram"
+    }
+  ]
+}

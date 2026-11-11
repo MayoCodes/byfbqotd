@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9e4138de",
+  "capturedAt": "2026-11-11T06:25:16.779Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the linear function $g$, $g(0) = 0$ and $g(13) = 4$. Which equation defines $g$?",
+  "choices": {
+    "A": "$g(x) = \\frac{4}{(13)}x$",
+    "B": "$g(x) = \\frac{4}{(13)}x + 4$",
+    "C": "$g(x) = \\frac{(13)}{4}x$",
+    "D": "$g(x) = \\frac{(13)}{4}x + 13$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A linear function can be written in the form $g(x) = mx + b$, where $m$ is the slope and $(0, b)$ is the y-intercept of the graph of $y = g(x)$ in the xy-plane. It's given that $g(0) = 0$. Substituting $0$ for $x$ and $0$ for $g(x)$ in the equation $g(x) = mx + b$ yields $0 = m(0) + b$, or $b = 0$. Substituting $0$ for $b$ yields $g(x) = mx$. It's also given that $g(13) = 4$. Substituting $13$ for $x$ and $4$ for $g(x)$ yields $4 = 13m$. Dividing both sides by $13$ yields $m = \\frac{4}{13}$. Substituting $\\frac{4}{13}$ for $m$ yields $g(x) = \\frac{4}{13}x$.",
+  "source": "https://cooksat.com/practice?questionId=9e4138de&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

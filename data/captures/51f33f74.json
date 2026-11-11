@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "51f33f74",
+  "capturedAt": "2026-11-11T06:23:48.473Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A function $f$ is defined by $f(x)=\\frac{2}{3}x+7$. What is the value of $f(3)$?",
+  "choices": {
+    "A": "$\\frac{(13)}{3}$",
+    "B": "$9$",
+    "C": "$11$",
+    "D": "$13$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substituting $3$ for $x$ in $f(x)=\\frac{2}{3}x+7$ gives $f(3)=\\frac{2}{3}(3)+7=2+7=9$.",
+  "source": "https://cooksat.com/practice?questionId=51f33f74&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

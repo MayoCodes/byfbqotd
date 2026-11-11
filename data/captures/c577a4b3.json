@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c577a4b3",
+  "capturedAt": "2026-11-11T06:26:31.583Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is defined by $f(x)=4x+b$, where $b$ is a constant. If $f(7)=38$, what is the value of $f(b)$?",
+  "choices": {
+    "A": "$10$",
+    "B": "$40$",
+    "C": "$46$",
+    "D": "$50$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $f(x)=4x+b$ and $f(7)=38$. Substituting $x=7$: $f(7)=4(7)+b=28+b=38$, so $b=10$. To find $f(b)$, substitute $x=b=10$: $f(10)=4(10)+10=40+10=50$.",
+  "source": "https://cooksat.com/practice?questionId=c577a4b3&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

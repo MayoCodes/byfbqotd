@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e7db7d5f",
+  "capturedAt": "2026-11-11T06:27:19.867Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$g(x) = 2x + 186$$\n\nThe given function $g$ represents the perimeter, in inches, of a rectangle with a length of $x$ inches and a fixed width. What is the width, in inches, of the rectangle?",
+  "choices": {
+    "A": "$2$",
+    "B": "$93$",
+    "C": "$186$",
+    "D": "$372$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The function $g(x) = 2x + 186$ represents the perimeter, in inches, of a rectangle with length $x$ inches and a fixed width. If $w$ represents the fixed width, in inches, then the perimeter of such a rectangle can be expressed as $g(x) = 2x + 2w$. Therefore, $2x + 2w = 2x + 186$. Subtracting $2x$ from both sides yields $2w = 186$. Dividing both sides by $2$ yields $w = 93$. The width of the rectangle is $93$ inches.",
+  "source": "https://cooksat.com/practice?questionId=e7db7d5f&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

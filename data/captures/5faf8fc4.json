@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5faf8fc4",
+  "capturedAt": "2026-11-11T06:24:05.981Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$c(t) = 480 - 8t$$\n\nThe function $c$ models the remaining charge, in milliamp-hours, of a battery $t$ minutes after a device begins using it. According to the model, what is the predicted amount of charge, in milliamp-hours, that the battery loses each minute?",
+  "choices": {
+    "A": "$8$",
+    "B": "$60$",
+    "C": "$472$",
+    "D": "$480$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the function $c$ models the remaining charge, in milliamp-hours, of a battery $t$ minutes after a device begins using it. In the given function $c(t) = 480 - 8t$, the coefficient of $t$ is $-8$. This means that for every increase in the value of $t$ by $1$, the value of $c(t)$ decreases by $8$. It follows that for each minute that passes, the battery loses $8$ milliamp-hours of charge. Therefore, the battery loses $8$ milliamp-hours of charge each minute.",
+  "source": "https://cooksat.com/practice?questionId=5faf8fc4&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7ce7ce1a",
+  "capturedAt": "2026-11-11T06:24:46.148Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A community pantry is distributing free meal kits each day. The equation $g(t) = 224 - 16t$ gives the number of free meal kits, $g(t)$, that remain to be distributed after $t$ days. Which of the following is the best interpretation of $g(14) = 0$ in this context?",
+  "choices": {
+    "A": "The pantry has $14$ free meal kits to distribute.",
+    "B": "The pantry will distribute $14$ free meal kits in $16$ days.",
+    "C": "It will take $14$ days to distribute all the free meal kits.",
+    "D": "It will take $224$ days to distribute $14$ free meal kits."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $g(t) = 224 - 16t$ gives the number of free meal kits that remain to be distributed after $t$ days. The equation $g(14) = 0$ corresponds to $t = 14$ and $g(t) = 0$. Since $t$ represents the number of days and $g(t)$ represents the number of meal kits remaining, $g(14) = 0$ means that after $14$ days, there are $0$ meal kits remaining. Therefore, the best interpretation of $g(14) = 0$ in this context is that it will take $14$ days to distribute all the free meal kits.",
+  "source": "https://cooksat.com/practice?questionId=7ce7ce1a&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

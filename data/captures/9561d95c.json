@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9561d95c",
+  "capturedAt": "2026-11-11T06:25:04.510Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of the linear function $g$ is shown, where $y = g(x)$. What is the y-intercept of the graph of $g$?",
+  "choices": {
+    "A": "$(0, -10)$",
+    "B": "$(0, -\\frac{5}{7})$",
+    "C": "$(0, 0)$",
+    "D": "$(0, 10)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The y-intercept of a graph is the point where the graph intersects the y-axis. The graph of function $g$ shown intersects the y-axis at the point $(0, 10)$. Therefore, the y-intercept of the graph of $g$ is $(0, 10)$.",
+  "source": "https://cooksat.com/practice?questionId=9561d95c&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/9561d95c/1-820af9c909b86a59.png",
+      "kind": "diagram"
+    }
+  ]
+}

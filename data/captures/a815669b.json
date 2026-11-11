@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a815669b",
+  "capturedAt": "2026-11-11T06:25:42.439Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = mx + 15$, where $m$ is a constant, and $g(4) = 23$. What is the value of $g(13)$?\n\n$$0$$\n\n$$41$$",
+  "choices": {},
+  "correctAnswer": "$41$",
+  "explanation": "The correct answer is $41$. It's given that $g(4) = 23$. Therefore, for the function $g$, when $x = 4$, $g(x) = 23$. Substituting $4$ for $x$ and $23$ for $g(x)$ in the given function $g(x) = mx + 15$ yields $23 = m(4) + 15$, or $23 = 4m + 15$. Subtracting $15$ from both sides of this equation yields $8 = 4m$. Dividing both sides by $4$ yields $m = 2$. Substituting $2$ for $m$ in the given function yields $g(x) = 2x + 15$. To find $g(13)$, substitute $13$ for $x$ in this equation: $g(13) = 2(13) + 15 = 26 + 15 = 41$. Therefore, the value of $g(13)$ is $41$.",
+  "source": "https://cooksat.com/practice?questionId=a815669b&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "20ed235d",
+  "capturedAt": "2026-11-11T06:22:34.226Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A hatchery manager's initial count of fish in a pond was $2,400$. The manager set a goal to increase the fish count to $4,500$. The manager uses a model that predicts the fish population begins at $2,400$ and increases by $80$ fish per week during the first three weeks after the initial count, and then increases by $120$ fish per week until the manager's goal is reached. According to this model, at the end of week $t$ after the initial count, where $t > 3$, which of the following functions gives the predicted number of fish still needed to reach the manager's goal?",
+  "choices": {
+    "A": "$h(t) = -120 + 120t$",
+    "B": "$h(t) = 2,220 - 120t$",
+    "C": "$h(t) = 4,140 + 120t$",
+    "D": "$h(t) = 4,500 - 120t$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the initial population is $2{,}400$ fish and increases by $80$ fish per week for the first three weeks. After $3$ weeks, the population is $2{,}400 + 80(3) = 2{,}640$ fish. For weeks after the first three, where $t > 3$, the population increases by $120$ fish per week. The number of additional weeks beyond the first three is $t - 3$, so the total population at the end of week $t$ is $2{,}640 + 120(t - 3)$, which is equivalent to $2{,}640 + 120t - 360$, or $2{,}280 + 120t$. The manager's goal is $4{,}500$ fish, so the number of fish still needed is $4{,}500 - (2{,}280 + 120t)$, which simplifies to $h(t) = 2{,}220 - 120t$.",
+  "source": "https://cooksat.com/practice?questionId=20ed235d&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

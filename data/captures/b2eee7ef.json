@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b2eee7ef",
+  "capturedAt": "2026-11-11T06:26:04.311Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At an altitude of $x$ meters above the ground, the estimated air pressure $A_{1}$, in hectopascals (hPa), inside a weather balloon is given by $A_{1} = -8x + 1013$. After pausing at a certain altitude, the balloon ascended $n$ additional meters. The estimated air pressure $A_{2}$, in hPa, inside the balloon after ascending these $n$ additional meters is given by $A_{2} = -8n + 789$.\n\nWhich of the following is the best interpretation of $789$ in this context?",
+  "choices": {
+    "A": "The estimated decrease in the air pressure, in hPa, inside the balloon for each increase in the altitude by $1$ meter.",
+    "B": "The estimated decrease in the air pressure, in hPa, inside the balloon for each increase in the altitude by $n$ meters.",
+    "C": "The estimated air pressure, in hPa, inside the balloon at an altitude of $n$ meters.",
+    "D": "The estimated air pressure, in hPa, inside the balloon when the balloon began to ascend $n$ additional meters."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The equation $A_2 = -8n + 789$ is in the form $y = mx + b$, where $b$ is the $y$-intercept. In this equation, $789$ is the constant term, which represents the value of $A_2$ when $n = 0$. Since $n$ represents the number of additional meters the balloon ascended after pausing at a certain altitude, when $n = 0$, the balloon has not yet ascended any additional meters. Therefore, $789$ represents the estimated air pressure, in hPa, inside the balloon at the moment when the balloon began to ascend $n$ additional meters.",
+  "source": "https://cooksat.com/practice?questionId=b2eee7ef&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

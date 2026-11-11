@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0f681d22",
+  "capturedAt": "2026-11-11T06:22:13.756Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The line graphed in the $xy$-plane below models the total charge, in dollars, $y$, for a delivery service in a certain town based on the number of packages delivered, $x$. According to the graph, what is the charge for each additional package delivered, in dollars?\n\n[Figure 1]",
+  "choices": {
+    "A": "$$3.00$",
+    "B": "$$4.00$",
+    "C": "$$5.00$",
+    "D": "$$7.00$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The charge for each additional package delivered is represented by the slope of the given line. The slope can be calculated by identifying two points on the line and computing the ratio of the change in $y$ to the change in $x$. Using the points $(1, 7)$ and $(2, 11)$, the slope is $\\frac{11 - 7}{2 - 1} = 4$. Therefore, the charge for each additional package delivered is $$4.00$.",
+  "source": "https://cooksat.com/practice?questionId=0f681d22&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0f681d22/1-2673513e8a600a26.png",
+      "kind": "diagram"
+    }
+  ]
+}

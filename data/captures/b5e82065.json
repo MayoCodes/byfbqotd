@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b5e82065",
+  "capturedAt": "2026-11-11T06:26:05.958Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A certain calf weighed $8$ pounds when it was born. The calf gained approximately $\\frac{1}{3}$ pounds per day for the first $60$ days of its life. Which function $h$ gives the approximate weight, in pounds, of the calf $t$ days after it was born?",
+  "choices": {
+    "A": "$h(t) = -\\frac{1}{3}t - 8$",
+    "B": "$h(t) = -\\frac{1}{3}t + 8$",
+    "C": "$h(t) = \\frac{1}{3}t - 8$",
+    "D": "$h(t) = \\frac{1}{3}t + 8$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since the calf weighed $8$ pounds at birth, when $t = 0$ the weight is $8$ pounds, which can be represented by a constant term of $8$ in the equation. Since the calf gains $\\frac{1}{3}$ pounds per day, multiplying $\\frac{1}{3}$ pounds per day by $t$ days yields $\\frac{1}{3}t$ pounds gained. Adding the initial weight of $8$ pounds to the weight gained over $t$ days yields $\\frac{1}{3}t + 8$ pounds. Therefore, the function $h(t) = \\frac{1}{3}t + 8$ gives the approximate weight, in pounds, of the calf $t$ days after it was born.",
+  "source": "https://cooksat.com/practice?questionId=b5e82065&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

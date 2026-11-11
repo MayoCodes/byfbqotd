@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db375e25",
+  "capturedAt": "2026-11-11T06:27:04.801Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A car rental company charges $$35$ per day plus $$0.15$ per mile driven. The function $f(m) = 0.15m + 35$ gives the total cost, in dollars, to rent a car for one day and drive $m$ miles. What is the value of $f(420) - f(100)$, in dollars?",
+  "choices": {
+    "A": "$28$",
+    "B": "$48$",
+    "C": "$83$",
+    "D": "$320$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To find $f(420) - f(100)$, first evaluate $f(420) = 0.15(420) + 35 = 63 + 35 = 98$. Then evaluate $f(100) = 0.15(100) + 35 = 15 + 35 = 50$. Therefore, $f(420) - f(100) = 98 - 50 = 48$.",
+  "source": "https://cooksat.com/practice?questionId=db375e25&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5ea4e9cb",
+  "capturedAt": "2026-11-11T06:24:02.445Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $f$ is the function defined by $f(x)=2x+3$, what is the value of $f(4)$?",
+  "choices": {
+    "A": "$5$",
+    "B": "$8$",
+    "C": "$11$",
+    "D": "$14$"
+  },
+  "correctAnswer": "C",
+  "explanation": "To find $f(4)$, substitute $4$ for $x$ in $f(x)=2x+3$. This gives $f(4)=2(4)+3=8+3=11$.",
+  "source": "https://cooksat.com/practice?questionId=5ea4e9cb&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

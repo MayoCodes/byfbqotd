@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e5400ddb",
+  "capturedAt": "2026-11-11T06:27:13.594Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 95 - 7x$. What is the value of $g(8)$?",
+  "choices": {
+    "A": "$17$",
+    "B": "$39$",
+    "C": "$88$",
+    "D": "$96$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the function $g$ is defined by $g(x) = 95 - 7x$. The value of $g(8)$ can be found by substituting $8$ for $x$ in the given function, which yields $g(8) = 95 - 7(8)$, or $g(8) = 95 - 56$, which is equivalent to $g(8) = 39$. Therefore, the value of $g(8)$ is $39$.",
+  "source": "https://cooksat.com/practice?questionId=e5400ddb&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

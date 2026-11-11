@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f72b222b",
+  "capturedAt": "2026-11-11T06:27:35.384Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A laboratory mixture is made by combining liquid $A$ and liquid $B$. The equation $y=2x+5$ models the total volume in milliliters, $y$, of a mixture containing $x$ milliliters of liquid $A$ and a fixed amount of liquid $B$. How many milliliters of liquid $B$ are in a mixture that has a total volume of 16 milliliters?",
+  "choices": {
+    "A": "$3$",
+    "B": "$5$",
+    "C": "$6$",
+    "D": "$16$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In the equation $y=2x+5$, the constant term 5 represents the fixed amount of liquid $B$ in milliliters. Since liquid $B$ is always 5 milliliters regardless of the total mixture volume, the answer is $5$ milliliters. This can be verified by substituting $y=16$: $16=2x+5$ gives $2x=11$, so $x=5.5$ milliliters of liquid $A$, and liquid $B$ remains 5 milliliters.",
+  "source": "https://cooksat.com/practice?questionId=f72b222b&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

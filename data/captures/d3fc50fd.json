@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d3fc50fd",
+  "capturedAt": "2026-11-11T06:26:44.811Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = 18x + 45$. What is the value of $h(x)$ when $x = 3$?",
+  "choices": {
+    "A": "$54$",
+    "B": "$66$",
+    "C": "$99$",
+    "D": "$189$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the function $h$ is defined by $h(x) = 18x + 45$. Substituting $3$ for $x$ in this equation yields $h(3) = 18(3) + 45$, which is equivalent to $h(3) = 54 + 45$, or $h(3) = 99$. Therefore, the value of $h(x)$ is $99$ when $x = 3$.",
+  "source": "https://cooksat.com/practice?questionId=d3fc50fd&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

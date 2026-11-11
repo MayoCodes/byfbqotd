@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f1964291",
+  "capturedAt": "2026-11-11T06:27:30.118Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A phone plan charges a monthly fee of $$27$ plus $$2$ per gigabyte (GB) of data used. The function $f$ gives the total monthly cost, in dollars, for using $x$ GB of data, where $x \\le 50$. What value of $x$ satisfies $f(x) = 63$?",
+  "choices": {
+    "A": "$12$",
+    "B": "$15$",
+    "C": "$18$",
+    "D": "$21$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The function is $f(x) = 27 + 2x$, where $27$ is the monthly fee and $2x$ is the data cost. Setting $f(x) = 63$: $27 + 2x = 63$. Subtracting $27$ from both sides: $2x = 36$. Dividing by $2$: $x = 18$. Therefore, $18$ GB of data was used.",
+  "source": "https://cooksat.com/practice?questionId=f1964291&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

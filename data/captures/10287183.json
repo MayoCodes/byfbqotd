@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "10287183",
+  "capturedAt": "2026-11-11T06:22:15.861Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$h(x) = x + 2$$\n\n$$p(x) = 2x$$\n\nIf $h(x) = x + 2$ and $p(x) = 2x$, what is the value of $6h(5) - p(5)$?",
+  "choices": {
+    "A": "$-18$",
+    "B": "$14$",
+    "C": "$17$",
+    "D": "$32$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $h(x) = x + 2$ and $p(x) = 2x$. To find the value of $6h(5) - p(5)$, first evaluate $h(5)$ by substituting $5$ for $x$ in the equation for $h$: $h(5) = 5 + 2 = 7$. Next, evaluate $p(5)$ by substituting $5$ for $x$ in the equation for $p$: $p(5) = 2(5) = 10$. Substituting these values into the expression yields $6h(5) - p(5) = 6(7) - 10 = 42 - 10 = 32$.",
+  "source": "https://cooksat.com/practice?questionId=10287183&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

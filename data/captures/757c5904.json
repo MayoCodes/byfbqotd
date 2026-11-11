@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "757c5904",
+  "capturedAt": "2026-11-11T06:24:31.315Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Maya used flour to bake pastries. The function $g(x) = -7x + 84$ approximates the amount, in cups, of flour Maya had remaining after baking $x$ pastries. Which statement is the best interpretation of the y-intercept of the graph of $y = g(x)$ in the $xy$-plane in this context?",
+  "choices": {
+    "A": "Maya used approximately $7$ cups of flour for each pastry.",
+    "B": "Maya had approximately $7$ cups of flour when she began to bake the pastries.",
+    "C": "Maya had approximately $84$ cups of flour when she began to bake the pastries.",
+    "D": "Maya used approximately $84$ cups of flour for each pastry."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the function $g(x) = -7x + 84$ approximates the amount, in cups, of flour Maya had remaining after baking $x$ pastries. For a linear function in the form $g(x) = mx + b$, where $m$ and $b$ are constants, $b$ represents the value of $g(0)$, or the value of $g(x)$ when $x = 0$. In the given function, $b = 84$, so $g(0) = 84$. Since $x$ represents the number of pastries baked, $x = 0$ corresponds to before Maya baked any pastries. Therefore, the best interpretation of the y-intercept in this context is that Maya had approximately $84$ cups of flour when she began to bake the pastries.",
+  "source": "https://cooksat.com/practice?questionId=757c5904&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

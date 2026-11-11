@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "46682fd0",
+  "capturedAt": "2026-11-11T06:23:32.413Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nSome values of the linear function $g$ are shown in the table above. Which of the following defines $g$?",
+  "choices": {
+    "A": "$g(x) = 2x + 6$",
+    "B": "$g(x) = 3x + 4$",
+    "C": "$g(x) = 4x + 3$",
+    "D": "$g(x) = 5x$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Because $g$ is a linear function of $x$, the equation $g(x) = mx + b$, where $m$ and $b$ are constants, can be used to define the relationship between $x$ and $g(x)$. From the table, the value of $g(x)$ increases by $6$ for every increase in the value of $x$ by $2$. Therefore, $m = \\frac{6}{2} = 3$. The value of $b$ can be found by substituting values from any row of the table into $g(x) = mx + b$. Using $x = 2$, $g(x) = 10$, and $m = 3$ yields $10 = 3(2) + b$, so $b = 4$. Therefore, the equation defining $g$ is $g(x) = 3x + 4$.",
+  "source": "https://cooksat.com/practice?questionId=46682fd0&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/46682fd0/1-016be6f29f8e624e.png",
+      "kind": "diagram"
+    }
+  ]
+}

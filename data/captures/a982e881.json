@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a982e881",
+  "capturedAt": "2026-11-11T06:25:44.197Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA liquid is heated in a sealed chamber. The graph shows the estimated increase in volume $y$, in milliliters $(mL)$, of the liquid when its temperature increases by $x$ degrees Celsius. What is the estimated increase in volume of the liquid, in $mL$, when the temperature increases by $80$ degrees Celsius?",
+  "choices": {
+    "A": "$2$",
+    "B": "$4$",
+    "C": "$40$",
+    "D": "$80$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For the graph shown, the x-axis represents the temperature increase, in degrees Celsius, and the y-axis represents the estimated increase in volume, in milliliters $(mL)$. The estimated increase in volume when the temperature increases by $80$ degrees Celsius can be found by locating the point on the graph where the value of $x$ is equal to $80$. The graph passes through the point $(80, 4)$. This means that when the temperature increases by $80$ degrees Celsius, the estimated increase in volume is $4$ $mL$.",
+  "source": "https://cooksat.com/practice?questionId=a982e881&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a982e881/1-435bb5ccd2b1de7c.png",
+      "kind": "diagram"
+    }
+  ]
+}

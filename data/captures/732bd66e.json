@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "732bd66e",
+  "capturedAt": "2026-11-11T06:24:27.413Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of $y = f ( x ) - 8$ is shown. Which equation defines the linear function $f$?",
+  "choices": {
+    "A": "$f ( x ) = 3 x - 2$",
+    "B": "$f ( x ) = 3 x + 6$",
+    "C": "$f ( x ) = 11 x - 2$",
+    "D": "$f ( x ) = 11 x + 6$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The graph of a line in the xy-plane can be represented by $y = mx + b$, where $m$ is the slope and $(0, b)$ is the y-intercept. The line shown passes through $(0, -2)$ and $(1, 1)$. The slope is $m = \\frac{1 - (-2)}{1 - 0} = 3$, and the y-intercept is $-2$, so the equation of the line shown is $y = 3x - 2$. Since the graph shown represents $y = f(x) - 8$, substituting $3x - 2$ for $y$ gives $3x - 2 = f(x) - 8$. Adding $8$ to both sides yields $f(x) = 3x + 6$.",
+  "source": "https://cooksat.com/practice?questionId=732bd66e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/732bd66e/1-c3fbc163a847ef6e.png",
+      "kind": "diagram"
+    }
+  ]
+}

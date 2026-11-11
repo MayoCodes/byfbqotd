@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d116ed28",
+  "capturedAt": "2026-11-11T06:26:41.391Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the linear function $g$, $g(0) = 5$ and $g(1) = 12$. Which equation defines $g$?",
+  "choices": {
+    "A": "$g(x) = 7x$",
+    "B": "$g(x) = 7x + 5$",
+    "C": "$g(x) = 7x + 12$",
+    "D": "$g(x) = 12x + 5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since $g$ is a linear function, it can be defined by an equation of the form $g(x) = mx + b$, where $m$ and $b$ are constants. It's given that $g(0) = 5$. Substituting $0$ for $x$ and $5$ for $g(x)$ in the equation $g(x) = mx + b$ yields $5 = m(0) + b$, or $b = 5$. Substituting $5$ for $b$ in the equation $g(x) = mx + b$ yields $g(x) = mx + 5$. It's given that $g(1) = 12$. Substituting $1$ for $x$ and $12$ for $g(x)$ in the equation $g(x) = mx + 5$ yields $12 = m(1) + 5$, or $12 = m + 5$. Subtracting $5$ from both sides of this equation yields $m = 7$. Substituting $7$ for $m$ in the equation $g(x) = mx + 5$ yields $g(x) = 7x + 5$. Therefore, an equation that defines $g$ is $g(x) = 7x + 5$.",
+  "source": "https://cooksat.com/practice?questionId=d116ed28&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

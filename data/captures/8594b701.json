@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8594b701",
+  "capturedAt": "2026-11-11T06:24:49.996Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A hot-air balloon is at an altitude of $22$ feet above the ground. If the balloon rises at a constant rate of $6$ feet per second, which of the following equations gives the altitude $c$, in feet, of the balloon $t$ seconds after it starts to rise?",
+  "choices": {
+    "A": "$c = 6t + 22$",
+    "B": "$c = 6t + \\frac{(125)}{(22)}$",
+    "C": "$c = 22t + \\frac{(125)}{6}$",
+    "D": "$c = 22t + 6$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the balloon starts rising at an altitude of $22$ feet above the ground. This initial altitude of $22$ feet can be represented by a constant term, $22$, in the equation. Each second, the balloon rises $6$ feet, which can be represented by $6t$. Thus, the equation $c = 6t + 22$ gives the altitude, in feet, of the balloon $t$ seconds after it starts to rise.",
+  "source": "https://cooksat.com/practice?questionId=8594b701&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

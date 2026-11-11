@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a71c505b",
+  "capturedAt": "2026-11-11T06:25:35.494Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A car travels at a constant speed of $60$ kilometers per hour. Which equation best represents the relationship between the number of hours, $x$, the car travels and the total distance, $y$, in kilometers?",
+  "choices": {
+    "A": "$y = 60x - 1$",
+    "B": "$y = 60x$",
+    "C": "$y = 60x + 1$",
+    "D": "$y = 60x + 60$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Distance equals rate times time. With a constant speed of $60$ km/h, after $x$ hours the total distance is $y = 60x$. When $x = 0$ hours, $y = 0$ kilometers, which makes sense since no time means no distance traveled.",
+  "source": "https://cooksat.com/practice?questionId=a71c505b&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

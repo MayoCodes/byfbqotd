@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "192e1da6",
+  "capturedAt": "2026-11-11T06:22:25.156Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At the beginning of an experiment, the water level in a tank is $18$ centimeters (cm). During the first $6.0$ minutes of the experiment, the water level in the tank rises at an average rate of $7.5$ cm per minute. Then, the water level in the tank rises at a constant rate of $3.2$ cm per minute. If the water level in the tank reaches $80$ cm $x$ minutes after the beginning of the experiment, where $x > 6.0$, which equation represents this situation?",
+  "choices": {
+    "A": "$80 = 3.2x + 18$",
+    "B": "$80 = 3.2x + 63$",
+    "C": "$80 = 3.2(x - 6.0) + 45$",
+    "D": "$80 = 3.2(x - 6.0) + 63$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that at the beginning of the experiment, the water level in the tank is $18$ cm. During the first $6.0$ minutes, the water level rises at an average rate of $7.5$ cm per minute. Therefore, the water level after $6.0$ minutes is $18 + 7.5(6.0) = 63$ cm. It's also given that after the first $6.0$ minutes, the water level rises at a constant rate of $3.2$ cm per minute. Since $x$ represents the number of minutes after the beginning of the experiment and $x > 6.0$, the time elapsed during the second phase is $(x - 6.0)$ minutes. The rise during this phase is $3.2(x - 6.0)$ cm. Starting from the water level of $63$ cm at $6.0$ minutes, the final water level is $3.2(x - 6.0) + 63$ cm. Since the water level reaches $80$ cm, the equation $80 = 3.2(x - 6.0) + 63$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=192e1da6&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

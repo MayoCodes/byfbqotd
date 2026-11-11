@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ba05c6e4",
+  "capturedAt": "2026-11-11T06:26:16.896Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 8(3x + 5)$. For what value of $x$ does $g(x) = 136$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$12$",
+    "C": "$17$",
+    "D": "$42$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Substituting $136$ for $g(x)$ in the given function yields $136 = 8(3x + 5)$. Dividing both sides by $8$ yields $17 = 3x + 5$. Subtracting $5$ from both sides yields $12 = 3x$. Dividing both sides by $3$ yields $4 = x$. Therefore, $g(x) = 136$ when $x = 4$.",
+  "source": "https://cooksat.com/practice?questionId=ba05c6e4&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

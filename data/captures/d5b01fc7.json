@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d5b01fc7",
+  "capturedAt": "2026-11-11T06:26:46.513Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of the function $D$ shows the estimated depth of water, in centimeters, in a tank as a function of time $x$, in minutes, since the tank started filling, where $y = D(x)$.\n\nAccording to the graph, what is the estimated depth of water, to the nearest whole number, in the tank when the time is $10$ minutes?\n\n$$0$$\n\n$$20$$",
+  "choices": {},
+  "correctAnswer": "$20$",
+  "explanation": "The correct answer is $20$. The x-axis represents time in minutes and the y-axis represents the depth of water in centimeters. The question asks for the estimated depth of water when the time is $10$ minutes, which is the y-value when $x = 10$. The graph passes through the point $(10, 20)$. Therefore, the estimated depth of water when the time is $10$ minutes is $20$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=d5b01fc7&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d5b01fc7/1-7cf107f61da7dd85.png",
+      "kind": "diagram"
+    }
+  ]
+}

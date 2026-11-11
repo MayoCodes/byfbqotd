@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "68838066",
+  "capturedAt": "2026-11-11T06:24:13.202Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$g(x) = 32x + 450$$\n\nThe function $g$ gives the monthly service charge $g(x)$, in dollars, a landscaping company bills a client to maintain $x$ planters. What is the monthly service charge, in dollars, the company bills to maintain $40$ planters?\n\n$$0$$\n\n$$1730$$",
+  "choices": {},
+  "correctAnswer": "$1730$",
+  "explanation": "The correct answer is $1{,}730$. It's given that the function $g(x) = 32x + 450$ gives the monthly service charge, in dollars, a landscaping company bills a client to maintain $x$ planters. Substituting $40$ for $x$ in this function yields $g(40) = 32(40) + 450$, or $g(40) = 1{,}730$. Therefore, the monthly service charge, in dollars, the company bills to maintain $40$ planters is $1{,}730$.",
+  "source": "https://cooksat.com/practice?questionId=68838066&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

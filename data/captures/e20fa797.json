@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e20fa797",
+  "capturedAt": "2026-11-11T06:27:08.308Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $h(x) = x + 5$ and $p(x) = 5x$, what is the value of $3h(3) - p(3)$?",
+  "choices": {
+    "A": "$-7$",
+    "B": "$-1$",
+    "C": "$9$",
+    "D": "$39$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The value of $h(3)$ can be found by substituting $3$ for $x$ in the given equation $h(x) = x + 5$, which yields $h(3) = 3 + 5$, or $h(3) = 8$. The value of $p(3)$ can be found by substituting $3$ for $x$ in the given equation $p(x) = 5x$, which yields $p(3) = 5(3)$, or $p(3) = 15$. The value of the expression $3h(3) - p(3)$ can be found by substituting the corresponding values into the expression, which gives $3(8) - 15$. This expression is equivalent to $24 - 15$, or $9$.",
+  "source": "https://cooksat.com/practice?questionId=e20fa797&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

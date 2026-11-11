@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3ff64b37",
+  "capturedAt": "2026-11-11T06:23:11.934Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$h(x) = 26$$\n\nFor the given linear function $h$, which table gives three values of $x$ and their corresponding values of $h(x)$?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For the given linear function $h$, $h(x)$ must equal $26$ for all values of $x$. Of the given choices, only choice B gives three values of $x$ and their corresponding values of $h(x)$ for the given linear function $h$.",
+  "source": "https://cooksat.com/practice?questionId=3ff64b37&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/3ff64b37/1-0b717864f875cec4.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/3ff64b37/2-934f0ba5c839e644.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/3ff64b37/3-f37ccbbfd19e1bef.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/3ff64b37/4-715465799783061d.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "298d2e5a",
+  "capturedAt": "2026-11-11T06:22:52.151Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The number of recreational boats, $r$, on a lake is modeled by the function $r(t)=15t+35$, where $t$ is the number of days since the start of a certain summer. The lake can safely accommodate $485$ boats. After how many days since the start of summer will the lake reach this capacity?",
+  "choices": {
+    "A": "$15$",
+    "B": "$30$",
+    "C": "$32$",
+    "D": "$35$"
+  },
+  "correctAnswer": "B",
+  "explanation": "To find when the lake reaches capacity, set $r(t)=485$: $15t+35=485$. Subtracting $35$ from both sides gives $15t=450$. Dividing both sides by $15$ gives $t=30$. Therefore, the lake reaches its capacity after $30$ days.",
+  "source": "https://cooksat.com/practice?questionId=298d2e5a&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

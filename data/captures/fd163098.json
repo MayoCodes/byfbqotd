@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fd163098",
+  "capturedAt": "2026-11-11T06:27:41.530Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$g(x) = 5x - 4$$\n\nFor the given function $g$, the graph of $y = g(x)$ in the xy-plane is parallel to line $k$. What is the slope of line $k$?\n\n$$0$$\n\n$$5$$",
+  "choices": {},
+  "correctAnswer": "$5$",
+  "explanation": "The correct answer is $5$. It's given that function $g$ is defined by $g(x) = 5x - 4$. Therefore, the equation representing the graph of $y = g(x)$ in the xy-plane is $y = 5x - 4$, and the graph is a line. For a linear equation in the form $y = mx + b$, $m$ represents the slope of the line. Since the value of $m$ in the equation $y = 5x - 4$ is $5$, the slope of the line defined by function $g$ is $5$. It's given that line $k$ is parallel to the line defined by function $g$. The slopes of parallel lines are equal. Therefore, the slope of line $k$ is also $5$.",
+  "source": "https://cooksat.com/practice?questionId=fd163098&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

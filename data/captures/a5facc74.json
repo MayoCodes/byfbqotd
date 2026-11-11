@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a5facc74",
+  "capturedAt": "2026-11-11T06:25:33.539Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The functions $f$ and $g$ are defined as $f(x)=2x+7$ and $g(x)=kx+4$, where $k$ is a constant. For all values of $x$, $f(g(x))=\\frac{(10)}{3}x+15$. What is the value of $k$?\n\n$$0$$\n\n$$\\frac{5}{3},1.666,1.667$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{5}{3},1.666,1.667$",
+  "explanation": "The correct answer is $\\frac{5}{3}$. It's given that $f(x)=2x+7$ and $g(x)=kx+4$, where $k$ is a constant. To find $f(g(x))$, substitute $g(x)$ for $x$ in the function $f$. This yields $f(g(x))=2(kx+4)+7$. Distributing the $2$ gives $f(g(x))=2kx+8+7$, which simplifies to $f(g(x))=2kx+15$. It's given that $f(g(x))=\\frac{10}{3}x+15$ for all values of $x$. Therefore, $2kx+15=\\frac{10}{3}x+15$. For this equation to be true for all values of $x$, the coefficients of $x$ on both sides must be equal. Thus, $2k=\\frac{10}{3}$. Dividing both sides by $2$ yields $k=\\frac{10}{3}\\cdot\\frac{1}{2}=\\frac{10}{6}=\\frac{5}{3}$. Therefore, the value of $k$ is $\\frac{5}{3}$. Note that 5/3, 1.666, and 1.667 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=a5facc74&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

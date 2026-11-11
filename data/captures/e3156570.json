@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e3156570",
+  "capturedAt": "2026-11-11T06:27:10.095Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A city's health department analyzed its data on the numbers of flu vaccinations administered to residents over a number of years. Based on the department's analysis, the equation $v=520x+12,000$ models the predicted number of flu vaccinations, $v$, administered $x$ years after the analysis. Which is the best interpretation of $520$ in this context?",
+  "choices": {
+    "A": "The predicted increase in the number of flu vaccinations administered each year after the analysis is $520$.",
+    "B": "The predicted number of flu vaccinations administered $1$ year after the analysis is $520$.",
+    "C": "The predicted number of flu vaccinations administered at the time of the analysis is $520$.",
+    "D": "The predicted increase in the number of flu vaccinations administered each year after the analysis is $12,520$."
+  },
+  "correctAnswer": "A",
+  "explanation": "In the linear equation $v = 520x + 12{,}000$, the coefficient $520$ represents the slope, which indicates the rate of change. For each increase of $1$ year (increase of $1$ in $x$), the predicted number of vaccinations increases by $520$.",
+  "source": "https://cooksat.com/practice?questionId=e3156570&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

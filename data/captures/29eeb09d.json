@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "29eeb09d",
+  "capturedAt": "2026-11-11T06:22:55.789Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich equation defines the linear function $f$?",
+  "choices": {
+    "A": "$f(x) = -4x + 3$",
+    "B": "$f(x) = 4x - 7$",
+    "C": "$f(x) = 4x + 3$",
+    "D": "$f(x) = 11x + 3$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The graph of a line in the $xy$-plane can be represented by the equation $y = mx + b$, where $m$ is the slope of the line and $(0, b)$ is the $y$-intercept. The slope of a line passing through the points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is given by $m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. The line shown passes through the points $(-1, -1)$ and $(0, 3)$. Substituting these values into the slope formula yields $m = \\frac{3 - (-1)}{0 - (-1)} = \\frac{4}{1} = 4$. Since the line passes through $(0, 3)$, the $y$-intercept is $b = 3$. Substituting $4$ for $m$ and $3$ for $b$ in $y = mx + b$ yields $y = 4x + 3$. Therefore, the equation $f(x) = 4x + 3$ defines the linear function $f$.",
+  "source": "https://cooksat.com/practice?questionId=29eeb09d&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/29eeb09d/1-ef44d85be83c0c5b.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b7bfa3bf",
+  "capturedAt": "2026-11-11T06:26:11.550Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph shown models the number of bottles a certain machine fills with juice in $x$ seconds. According to the graph, what is the estimated number of bottles the machine fills with juice per second?",
+  "choices": {
+    "A": "$2$",
+    "B": "$25$",
+    "C": "$48$",
+    "D": "$50$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For the graph shown, the x-axis represents time, in seconds, and the y-axis represents the number of bottles filled. The slope of a line in the xy-plane is the change in $y$ for each $1$-unit increase in $x$. It follows that the slope of the graph shown represents the estimated number of bottles the machine fills per second. The slope, $m$, of a line can be found using any two points $\\left(x_{1}, y_{1}\\right)$ and $\\left(x_{2}, y_{2}\\right)$ on the line and the formula $m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. The graph passes through $\\left(0, 0\\right)$ and $\\left(2, 50\\right)$. Substituting these points into the slope formula yields $m = \\frac{50 - 0}{2 - 0} = \\frac{50}{2} = 25$. Therefore, the estimated number of bottles filled per second is $25$.",
+  "source": "https://cooksat.com/practice?questionId=b7bfa3bf&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b7bfa3bf/1-b1eeebdd4ab0aef6.png",
+      "kind": "diagram"
+    }
+  ]
+}

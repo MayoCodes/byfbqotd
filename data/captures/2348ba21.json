@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2348ba21",
+  "capturedAt": "2026-11-11T06:22:35.984Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Mariana used a printer that was loaded with paper. The function $g(x) = -8x + 120$ approximates the number of sheets of paper remaining in the printer after $x$ documents were printed. Which statement is the best interpretation of the y-intercept of the graph of $y = g(x)$ in the xy-plane in this context?",
+  "choices": {
+    "A": "Mariana used approximately $8$ sheets of paper for each document printed.",
+    "B": "The printer had approximately $8$ sheets of paper loaded when Mariana began printing documents.",
+    "C": "Mariana used approximately $120$ sheets of paper for each document printed.",
+    "D": "The printer had approximately $120$ sheets of paper loaded when Mariana began printing documents."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. An equation that defines a linear function $g$ can be written in the form $g(x) = mx + b$, where $m$ represents the slope and $b$ represents the y-coordinate of the y-intercept, $(0, b)$, of the graph of $y = g(x)$ in the xy-plane. The function $g(x) = -8x + 120$ is linear. Therefore, the graph of the given function $y = g(x)$ in the xy-plane has a y-intercept of $(0, 120)$. It's given that $g(x)$ gives the approximate number of sheets of paper remaining in the printer after $x$ documents were printed. It follows that the y-intercept of $(0, 120)$ means that the printer had approximately $120$ sheets of paper remaining after $0$ documents were printed. In other words, the printer had approximately $120$ sheets of paper loaded when Mariana began printing documents.",
+  "source": "https://cooksat.com/practice?questionId=2348ba21&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

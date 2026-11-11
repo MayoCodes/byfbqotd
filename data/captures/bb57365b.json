@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bb57365b",
+  "capturedAt": "2026-11-11T06:26:18.565Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the xy-plane, the graph of the linear function $g$ contains the points $(0, 5)$ and $(8, 53)$. Which equation defines $g$, where $y = g(x)$?",
+  "choices": {
+    "A": "$g(x) = 5x + 58$",
+    "B": "$g(x) = 6x + 5$",
+    "C": "$g(x) = 8x + 5$",
+    "D": "$g(x) = 48x + 58$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. An equation of a linear function can be written in the form $g(x) = mx + b$, where $m$ is the slope and $(0, b)$ is the y-intercept of the graph of $y = g(x)$. Since the graph of $g$ contains the point $(0, 5)$, it follows that $b = 5$. The slope of the line through two points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ is $m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. Using the points $(0, 5)$ and $(8, 53)$ gives $m = \\frac{53 - 5}{8 - 0} = \\frac{48}{8} = 6$. Substituting $6$ for $m$ and $5$ for $b$ in $g(x) = mx + b$ yields $g(x) = 6x + 5$.",
+  "source": "https://cooksat.com/practice?questionId=bb57365b&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

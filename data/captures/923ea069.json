@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "923ea069",
+  "capturedAt": "2026-11-11T06:25:02.661Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At ground level, the atmospheric pressure at a certain location is $325$ units. For every $480$ meters above ground level, the atmospheric pressure decreases by about $1$ unit. Which of the following equations can be used to find the atmospheric pressure $P$, in units, at $x$ meters above ground level?",
+  "choices": {
+    "A": "$P = 480 - \\frac{x}{(325)}$",
+    "B": "$P = 480 + \\frac{x}{(325)}$",
+    "C": "$P = 325 + \\frac{x}{(480)}$",
+    "D": "$P = 325 - \\frac{x}{(480)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the atmospheric pressure at ground level is $325$ units and that for every $480$ meters above ground level, the pressure decreases by about $1$ unit. Therefore, the change in the atmospheric pressure $x$ meters above ground level is represented by the expression $-\\frac{x}{480}$. Adding this expression to the atmospheric pressure at ground level gives the equation for the atmospheric pressure $P$, in units, at $x$ meters above ground level: $P = 325 - \\frac{x}{480}$.",
+  "source": "https://cooksat.com/practice?questionId=923ea069&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

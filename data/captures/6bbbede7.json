@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6bbbede7",
+  "capturedAt": "2026-11-11T06:24:22.215Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $p$ is defined by $p(x) = 80x - 25$. What is the value of $p(x)$ when $x = 4$?",
+  "choices": {
+    "A": "$59$",
+    "B": "$220$",
+    "C": "$295$",
+    "D": "$345$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Substituting $4$ for $x$ in the given equation yields $p(4) = 80(4) - 25$, or $p(4) = 320 - 25 = 295$. Therefore, the value of $p(x)$ when $x = 4$ is $295$.",
+  "source": "https://cooksat.com/practice?questionId=6bbbede7&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

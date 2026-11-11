@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "130b1b3a",
+  "capturedAt": "2026-11-11T06:22:20.065Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $V(t) = 6t$ models the volume, in liters, of water in a tank as a function of time $t$, in minutes, since the tank began filling. Which statement is the best interpretation of $V(5) = 30$ in this context?",
+  "choices": {
+    "A": "The estimated volume of water in the tank $5$ minutes after it began filling is $30$ liters.",
+    "B": "The estimated volume of water in the tank $30$ minutes after it began filling is $5$ liters.",
+    "C": "The estimated volume of water in the tank $6$ minutes after it began filling is $5$ liters.",
+    "D": "The estimated volume of water in the tank $6$ minutes after it began filling is $30$ liters."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The function $V(t) = 6t$ gives the volume, in liters, of water in a tank as a function of time $t$, in minutes. The notation $V(5)$ represents the volume when $t = 5$, and $V(5) = 30$ means that substituting $5$ for $t$ in the function yields $30$. Therefore, $V(5) = 30$ means that the estimated volume of water in the tank $5$ minutes after it began filling is $30$ liters.",
+  "source": "https://cooksat.com/practice?questionId=130b1b3a&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

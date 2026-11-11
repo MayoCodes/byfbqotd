@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "296d9fd1",
+  "capturedAt": "2026-11-11T06:22:50.231Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A plumber charges $$180$ for the first three hours of service plus an hourly fee for each additional hour. The total cost for $8$ hours of service is $$430$. Which function $g$ gives the total cost, in dollars, for $x$ hours of service, where $x \\ge 3$?",
+  "choices": {
+    "A": "$g(x) = 50x$",
+    "B": "$g(x) = 50x + 30$",
+    "C": "$g(x) = 50x + 180$",
+    "D": "$g(x) = 54x$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the plumber charges $$180$ for the first three hours of service plus an hourly fee for each additional hour. Let $r$ represent the hourly fee for each additional hour after the first three hours. Since $x$ is the number of hours of service, the charge from the hourly fee after the first three hours can be represented by $r(x - 3)$. Therefore, the total cost, in dollars, for $x$ hours of service is $g(x) = 180 + r(x - 3)$. It's given that the total cost for $8$ hours of service is $$430$. Substituting $8$ for $x$ and $430$ for $g(x)$ yields $430 = 180 + r(8 - 3)$, or $430 = 180 + 5r$. Subtracting $180$ from both sides gives $250 = 5r$, so $r = 50$. Substituting $50$ for $r$ yields $g(x) = 180 + 50(x - 3)$, which simplifies to $g(x) = 180 + 50x - 150$, or $g(x) = 50x + 30$.",
+  "source": "https://cooksat.com/practice?questionId=296d9fd1&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

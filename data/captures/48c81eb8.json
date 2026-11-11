@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "48c81eb8",
+  "capturedAt": "2026-11-11T06:23:34.599Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA car travels at a constant speed. The graph shows the estimated distance $y$, in kilometers, that the car has traveled after $x$ minutes. What is the estimated distance, in kilometers, that the car has traveled after $160$ minutes?",
+  "choices": {
+    "A": "$0$",
+    "B": "$\\frac{8}{(160)}$",
+    "C": "$8$",
+    "D": "$\\frac{(160)}{8}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. For the graph shown, the x-axis represents time, in minutes, and the y-axis represents distance, in kilometers. Therefore, the estimated distance, in kilometers, that the car has traveled after $160$ minutes is represented by the y-coordinate of the point on the graph that has an x-coordinate of $160$. The point on the graph with an x-coordinate of $160$ has a y-coordinate of $8$. Therefore, the estimated distance, in kilometers, that the car has traveled after $160$ minutes is $8$.",
+  "source": "https://cooksat.com/practice?questionId=48c81eb8&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/48c81eb8/1-2ac1562df6bc1ded.png",
+      "kind": "diagram"
+    }
+  ]
+}

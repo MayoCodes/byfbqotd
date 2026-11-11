@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5c88deba",
+  "capturedAt": "2026-11-11T06:23:57.775Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nIn the table, the $x$-values and $y$-values represent points $(x, y)$ that lie on the graph of a linear function $f(x)$. Which of the following represents $f(x)$?",
+  "choices": {
+    "A": "$f(x) = 9.5x + 4$",
+    "B": "$f(x) = 10x + 5$",
+    "C": "$f(x) = 10.5x - 4$",
+    "D": "$f(x) = 10.5x + 4$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The function $f(x)$ is linear, so it can be written in the form $f(x) = mx + b$, where $m$ is the slope of the line and $b$ is the $y$-intercept of the line. The slope $m$ can be found using the formula $m = \\frac{y_2 - y_1}{x_2 - x_1}$, where $(x_1, y_1)$ and $(x_2, y_2)$ are two points on the line. Using the points $(1, 14.5)$ and $(0, 4)$ from the table, the slope of the line is $\\frac{14.5 - 4}{1 - 0} = \\frac{10.5}{1} = 10.5$. The $y$-intercept can be read directly from the table as the $y$-value when $x = 0$, which is $4$. Substituting $10.5$ for $m$ and $4$ for $b$ in the equation $f(x) = mx + b$ yields $f(x) = 10.5x + 4$. This can be verified using any other point from the table, such as $(2, 25)$: $f(2) = 10.5(2) + 4 = 21 + 4 = 25$.",
+  "source": "https://cooksat.com/practice?questionId=5c88deba&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/5c88deba/1-11f711dd64d65bc9.png",
+      "kind": "diagram"
+    }
+  ]
+}

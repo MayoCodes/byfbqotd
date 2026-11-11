@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e453c07d",
+  "capturedAt": "2026-11-11T06:27:11.787Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A photography studio charges $$45$ for the first print of a photo and $$18$ for each additional print of the same photo. Which of the following equations gives the total cost $y$, in dollars, for ordering $x$ prints of the same photo, where $x$ is a positive integer?",
+  "choices": {
+    "A": "$y=18x+27$",
+    "B": "$y=18x+45$",
+    "C": "$y=45x-18$",
+    "D": "$y=45x+18$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The total cost for $x$ prints includes $$45$ for the first print plus $$18$ for each of the $(x-1)$ additional prints. This gives $y=45+18(x-1)$, which expands to $y=45+18x-18$, or $y=18x+27$.",
+  "source": "https://cooksat.com/practice?questionId=e453c07d&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

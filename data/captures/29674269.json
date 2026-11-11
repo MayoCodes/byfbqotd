@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "29674269",
+  "capturedAt": "2026-11-11T06:22:48.405Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Given the linear function $f(x) = 3x + 5$, find $f(4)$.\n\n$$0$$\n\n$$17$$",
+  "choices": {},
+  "correctAnswer": "$17$",
+  "explanation": "The correct answer is $17$. To find $f(4)$, substitute $x = 4$ into the function $f(x) = 3x + 5$. This yields $f(4) = 3(4) + 5$. Multiplying gives $f(4) = 12 + 5$, and adding gives $f(4) = 17$. Therefore, the value of $f(4)$ is $17$.",
+  "source": "https://cooksat.com/practice?questionId=29674269&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

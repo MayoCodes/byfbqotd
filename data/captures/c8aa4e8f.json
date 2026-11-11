@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c8aa4e8f",
+  "capturedAt": "2026-11-11T06:26:35.051Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A linear model estimates the population of a town from $1985$ to $2009$. The model estimates the population was $42$ thousand in $1985$, $199$ thousand in $2005$, and $y$ thousand in $2009$. To the nearest whole number, what is the value of $y$?\n\n$$0$$\n\n$$230$$",
+  "choices": {},
+  "correctAnswer": "$230$",
+  "explanation": "The correct answer is $230$. Since the population can be estimated using a linear model, the rate of change is constant. The change in population between $2005$ and $1985$ is $199 - 42$, or $157$, thousand. The change in years between $2005$ and $1985$ is $2005 - 1985$, or $20$, years. Dividing $157$ by $20$ gives $7.85$ thousand per year. The change in years between $2009$ and $2005$ is $2009 - 2005$, or $4$, years. Multiplying the rate of change by this time interval gives the increase in population from $2005$ to $2009$: $(7.85)(4)$, or $31.4$, thousand. Adding this change to the estimated population in $2005$ yields the estimated population in $2009$: $31.4 + 199$, or $230.4$, thousand. Therefore, to the nearest whole number, the value of $y$ is $230$.",
+  "source": "https://cooksat.com/practice?questionId=c8aa4e8f&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

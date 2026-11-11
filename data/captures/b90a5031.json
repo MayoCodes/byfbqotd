@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b90a5031",
+  "capturedAt": "2026-11-11T06:26:13.696Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the linear function $h$, the graph of $y = h(x)$ in the xy-plane has a slope of $47$ and passes through the point $(0, 0)$. Which equation defines $h$?",
+  "choices": {
+    "A": "$h(x) = -47x$",
+    "B": "$h(x) = \\frac{1}{(47)}x$",
+    "C": "$h(x) = x - 47$",
+    "D": "$h(x) = 47x$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. An equation defining a linear function can be written in the form $h(x) = mx + b$, where $m$ is the slope and $(0, b)$ is the y-intercept of the graph of $y = h(x)$ in the xy-plane. It's given that the graph of $y = h(x)$ has a slope of $47$, so $m = 47$. It's also given that the graph of $y = h(x)$ passes through the point $(0, 0)$, so $b = 0$. Substituting $47$ for $m$ and $0$ for $b$ in $h(x) = mx + b$ yields $h(x) = 47x + 0$, or $h(x) = 47x$. Thus, the equation that defines $h$ is $h(x) = 47x$.",
+  "source": "https://cooksat.com/practice?questionId=b90a5031&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

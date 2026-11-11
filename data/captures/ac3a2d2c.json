@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ac3a2d2c",
+  "capturedAt": "2026-11-11T06:25:50.261Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 6x - 54$. What is the x-intercept of the graph of $y = g(x)$ in the xy-plane?",
+  "choices": {
+    "A": "$(-9, 0)$",
+    "B": "$(-6, 0)$",
+    "C": "$(6, 0)$",
+    "D": "$(9, 0)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The given function $g$ is a linear function. Therefore, the graph of $y = g(x)$ in the xy-plane has one x-intercept at the point $(k, 0)$, where $k$ is a constant. Substituting $0$ for $g(x)$ and $k$ for $x$ in the given function yields $0 = 6k - 54$. Adding $54$ to both sides of this equation yields $54 = 6k$. Dividing both sides of this equation by $6$ yields $9 = k$. Therefore, the x-intercept of the graph of $y = g(x)$ in the xy-plane is $(9, 0)$.",
+  "source": "https://cooksat.com/practice?questionId=ac3a2d2c&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

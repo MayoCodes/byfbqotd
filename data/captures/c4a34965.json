@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c4a34965",
+  "capturedAt": "2026-11-11T06:26:29.927Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 24 - 4x$$\n\nThe equation above represents the volume $y$, in gallons, of water remaining in a tank $x$ minutes after Marcus opened the drain valve. If the equation is graphed in the $xy$-plane, which of the following is the best interpretation of the $x$-coordinate of the line's $x$-intercept in the context of the problem?",
+  "choices": {
+    "A": "The volume of water, in gallons, in the tank before Marcus opened the drain valve",
+    "B": "The number of gallons by which the volume of water in the tank decreased each minute after Marcus opened the drain valve",
+    "C": "The number of minutes it took from the time Marcus opened the drain valve until the tank was empty",
+    "D": "The number of gallons of water that drained from the tank from the time Marcus opened the drain valve until the tank was empty"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that for each point $(x, y)$ on the graph of the given equation, the $x$-coordinate represents the number of minutes after Marcus opened the drain valve, and the $y$-coordinate represents the volume of water remaining in the tank at that moment. For the graph of the equation, the $y$-coordinate of the $x$-intercept is $0$. Therefore, the $x$-coordinate of the $x$-intercept of the graph of the given equation represents the number of minutes it took from the time Marcus opened the drain valve until the tank was empty.",
+  "source": "https://cooksat.com/practice?questionId=c4a34965&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b0149efe",
+  "capturedAt": "2026-11-11T06:25:57.477Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Maria rents a kayak at a cost of $$17$ per day plus a onetime launch fee of $$25$. Which equation represents the total cost $p$, in dollars, to rent the kayak with the launch fee for $w$ days?",
+  "choices": {
+    "A": "$p = 17 w + 25$",
+    "B": "$p = 17 ( w + 25 )$",
+    "C": "$p = 25 w + 17$",
+    "D": "$p = 25 ( w + 17 )$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the cost of renting the kayak is $$17$ per day for $w$ days. Multiplying the daily rate by the number of days yields $$17 w$, which represents the rental cost for $w$ days before the launch fee is added. Adding the onetime launch fee of $$25$ to the rental cost of $$17 w$ gives the total cost $p$, in dollars, which can be represented by the equation $p = 17 w + 25$.",
+  "source": "https://cooksat.com/practice?questionId=b0149efe&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

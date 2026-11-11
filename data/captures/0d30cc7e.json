@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0d30cc7e",
+  "capturedAt": "2026-11-11T06:22:07.658Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Researchers studied small beehives in a wildlife preserve and recorded the composition of each hive. For any of these hives, if the hive has $x$ worker bees, the equation $y = 0.43 x + 1.8$, where $25 \\le x \\le 120$, gives the predicted number of drones, $y$, in the hive. If one of these hives has $72$ worker bees, which of the following is closest to the predicted number of drones in the hive?",
+  "choices": {
+    "A": "$33$",
+    "B": "$49$",
+    "C": "$157$",
+    "D": "$163$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The equation $y = 0.43 x + 1.8$, where $25 \\leq x \\leq 120$, gives the predicted number of drones, $y$, in a hive that has $x$ worker bees. Substituting $72$ for $x$ in the given equation yields $y = 0.43 \\left( 72 \\right) + 1.8$, or $y = 32.76$. Of the given choices, $33$ is closest to the predicted number of drones in the hive.",
+  "source": "https://cooksat.com/practice?questionId=0d30cc7e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

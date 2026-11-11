@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4e019aeb",
+  "capturedAt": "2026-11-11T06:23:41.548Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the linear function $h$, $h(6) = 10$ and $h(x + 1) - h(x) = 3$. Which equation defines $h$?",
+  "choices": {
+    "A": "$h(x) = 3x - 8$",
+    "B": "$h(x) = 3x - 18$",
+    "C": "$h(x) = 6x + 3$",
+    "D": "$h(x) = 6x + 10$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A linear function can be written in the form $h(x) = mx + b$, where $m$ is the slope and $b$ is the y-intercept. The condition $h(x + 1) - h(x) = 3$ provides information about the slope. For a linear function $h(x) = mx + b$, substituting yields $h(x + 1) - h(x) = [m(x + 1) + b] - [mx + b] = mx + m + b - mx - b = m$. Therefore, $m = 3$. It's also given that $h(6) = 10$. Substituting $3$ for $m$, $6$ for $x$, and $10$ for $h(x)$ in the equation $h(x) = mx + b$ yields $10 = 3(6) + b$, or $10 = 18 + b$. Subtracting $18$ from both sides gives $b = -8$. Substituting $3$ for $m$ and $-8$ for $b$ in the equation $h(x) = mx + b$ yields $h(x) = 3x - 8$.",
+  "source": "https://cooksat.com/practice?questionId=4e019aeb&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

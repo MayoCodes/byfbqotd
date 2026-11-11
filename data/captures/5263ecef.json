@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5263ecef",
+  "capturedAt": "2026-11-11T06:23:50.410Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the linear function $h$, the graph of $y = h(x)$ in the xy-plane has a slope of $3$ and passes through the point $(2, 17)$. Which equation defines $h$?",
+  "choices": {
+    "A": "$h(x) = 3x$",
+    "B": "$h(x) = 3x + 5$",
+    "C": "$h(x) = 3x + 11$",
+    "D": "$h(x) = 3x + 17$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. An equation defining a linear function can be written in the form $h(x) = mx + b$, where $m$ is the slope and $(0, b)$ is the y-intercept of the graph of $y = h(x)$ in the xy-plane. It's given that the graph has a slope of $3$, so $m = 3$. It's also given that the graph passes through $(2, 17)$, so when $x = 2$, $h(x) = 17$. Substituting these values into $h(x) = mx + b$ yields $17 = 3(2) + b$, or $17 = 6 + b$. Subtracting $6$ from both sides gives $b = 11$. Therefore, the equation that defines $h$ is $h(x) = 3x + 11$.",
+  "source": "https://cooksat.com/practice?questionId=5263ecef&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

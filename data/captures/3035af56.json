@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3035af56",
+  "capturedAt": "2026-11-11T06:22:58.385Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of the function $g$, where $y = g(x)$, gives the total cost $y$, in dollars, for a certain gym membership and $x$ fitness classes. What is the best interpretation of the slope of the graph in this context?",
+  "choices": {
+    "A": "Each fitness class costs $$24$.",
+    "B": "The gym membership costs $$24$.",
+    "C": "Each fitness class costs $$75$.",
+    "D": "The gym membership costs $$75$."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The slope of a line is defined as the change in the value of $y$ for each increase in the value of $x$ by $1$. Since $y$ represents the total cost, in dollars, and $x$ represents the number of fitness classes, the slope represents the change in total cost, in dollars, for each additional fitness class. The graph shows that when $x$ increases from $0$ to $1$, $y$ increases from $75$ to $99$, so the slope is $24$. Therefore, the best interpretation of the slope is that each fitness class costs $$24$.",
+  "source": "https://cooksat.com/practice?questionId=3035af56&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3035af56/1-b90cd9e08a4905c7.png",
+      "kind": "diagram"
+    }
+  ]
+}

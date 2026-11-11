@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bfb1a06f",
+  "capturedAt": "2026-11-11T06:26:26.106Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A factory machine cuts fabric at a rate of $125$ pieces per hour. The machine has already cut $150$ pieces when a new shift begins. The total number of pieces cut, $y$, after $x$ additional hours can be modeled by the function $y=125x+150$. How many additional hours must the machine run during the new shift to reach a total of $3,275$ pieces cut?",
+  "choices": {
+    "A": "$15$",
+    "B": "$25$",
+    "C": "$30$",
+    "D": "$35$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The function $y=125x+150$ gives the total number of pieces cut after $x$ additional hours, where $150$ represents pieces already cut. To find how many additional hours are needed to reach $3{,}275$ total pieces, substitute $3{,}275$ for $y$: $3{,}275=125x+150$. Subtracting $150$ from both sides gives $3{,}125=125x$. Dividing both sides by $125$ gives $x=25$. Therefore, the machine must run $25$ additional hours.",
+  "source": "https://cooksat.com/practice?questionId=bfb1a06f&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

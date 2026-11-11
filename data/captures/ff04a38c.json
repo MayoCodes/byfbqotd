@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff04a38c",
+  "capturedAt": "2026-11-11T06:27:45.372Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A linear function $g$ satisfies $g(2) = -\\frac{1}{2}$ and $g(6) = -\\frac{7}{2}$. Which equation defines $g$?",
+  "choices": {
+    "A": "$g(x) = -\\frac{4}{3}x + \\frac{7}{6}$",
+    "B": "$g(x) = -\\frac{3}{4}x + 1$",
+    "C": "$g(x) = -\\frac{3}{4}x + 2$",
+    "D": "$g(x) = \\frac{3}{4}x - 2$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Using the two points $(2, -\\frac{1}{2})$ and $(6, -\\frac{7}{2})$, the slope is $m = \\frac{-\\frac{7}{2} - (-\\frac{1}{2})}{6 - 2} = \\frac{-3}{4}$. Using point-slope form with $(2, -\\frac{1}{2})$: $-\\frac{1}{2} = -\\frac{3}{4}(2) + b$, which gives $b = 1$. Therefore, $g(x) = -\\frac{3}{4}x + 1$.",
+  "source": "https://cooksat.com/practice?questionId=ff04a38c&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

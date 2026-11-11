@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "695ed9c0",
+  "capturedAt": "2026-11-11T06:24:14.843Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The input $x$ of a function $f(x)=2x+12$ is increased by $6$. What is the change in the output $f(x)$?",
+  "choices": {
+    "A": "$6$",
+    "B": "$8$",
+    "C": "$12$",
+    "D": "$18$"
+  },
+  "correctAnswer": "C",
+  "explanation": "For a linear function $f(x)=mx+b$, when the input increases by a value $\\Delta x$, the output increases by $m \\cdot \\Delta x$. Here, the slope is $m=2$ and the input increases by $\\Delta x=6$, so the change in output is $2 \\cdot 6=12$.",
+  "source": "https://cooksat.com/practice?questionId=695ed9c0&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

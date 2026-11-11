@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f408225e",
+  "capturedAt": "2026-11-11T06:27:31.943Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g(x) = 45(x - 3)$ gives the total rental charge, in dollars, for renting $x$ chairs from an event company. What is the total rental charge, in dollars, for renting $20$ chairs?\n\n$$0$$\n\n$$765$$",
+  "choices": {},
+  "correctAnswer": "$765$",
+  "explanation": "The correct answer is $765$. It's given that $g(x) = 45(x - 3)$ gives the total rental charge, in dollars, for renting $x$ chairs. To find the total rental charge for renting $20$ chairs, substitute $20$ for $x$ in the given function: $g(20) = 45(20 - 3)$, which is equivalent to $g(20) = 45(17)$, or $g(20) = 765$. Therefore, the total rental charge for renting $20$ chairs is $765$ dollars.",
+  "source": "https://cooksat.com/practice?questionId=f408225e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

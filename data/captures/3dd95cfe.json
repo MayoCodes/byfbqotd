@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3dd95cfe",
+  "capturedAt": "2026-11-11T06:23:06.387Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the linear relationship between the number of boxes, $b$, loaded onto a delivery truck and the total weight, $w$, in pounds, of the boxes. Which equation represents the linear relationship between $b$ and $w$?",
+  "choices": {
+    "A": "$42 b - w = -7$",
+    "B": "$42 b - w = 7$",
+    "C": "$42 w - b = -7$",
+    "D": "$42 w - b = 7$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since the relationship between $b$ and $w$ is linear, it can be written as $w = mb + k$, where $m$ is the slope and $k$ is a constant. Using two rows from the table, $m = \\frac{175 - 91}{4 - 2} = \\frac{84}{2} = 42$. Substituting $42$ for $m$ gives $w = 42b + k$. Using the row where $b = 9$ and $w = 385$: $385 = 42(9) + k$, so $385 = 378 + k$, giving $k = 7$. Therefore, $w = 42b + 7$. Subtracting $w$ and $7$ from both sides yields $42b - w = -7$.",
+  "source": "https://cooksat.com/practice?questionId=3dd95cfe&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/3dd95cfe/1-33d8de8a133560b9.png",
+      "kind": "diagram"
+    }
+  ]
+}

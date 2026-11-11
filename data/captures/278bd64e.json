@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "278bd64e",
+  "capturedAt": "2026-11-11T06:22:44.948Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A commuter has a prepaid balance on a rideshare account. Each time the commuter takes a ride, the cost of the ride is deducted from the balance, and each ride costs the same amount. The function $g(r) = 60 - 4r$ gives the amount of money, in dollars, remaining in the account after the commuter has taken $r$ rides. Which of the following represents the amount of money, in dollars, deducted from the account each time the commuter takes a ride?",
+  "choices": {
+    "A": "$4$",
+    "B": "$4r$",
+    "C": "$60$",
+    "D": "$60 - 4r$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the function $g(r) = 60 - 4r$ gives the amount of money, in dollars, remaining in the account after the commuter has taken $r$ rides. This function can be rewritten as $g(r) = -4r + 60$. The coefficient of $r$ is $-4$, which means that for each increase in the value of $r$ by $1$, the value of $g(r)$ decreases by $4$. In other words, each time the commuter takes one more ride, the account balance decreases by $4$ dollars. Therefore, $4$ dollars is deducted from the account each time the commuter takes a ride.",
+  "source": "https://cooksat.com/practice?questionId=278bd64e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "89a38424",
+  "capturedAt": "2026-11-11T06:24:55.097Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is defined by $f(x)=3x-14$. What is the value of $f(9)$?",
+  "choices": {
+    "A": "$-13$",
+    "B": "$13$",
+    "C": "$27$",
+    "D": "$41$"
+  },
+  "correctAnswer": "B",
+  "explanation": "To find $f(9)$, substitute $x=9$ into $f(x)=3x-14$. This gives $f(9)=3(9)-14=27-14=13$.",
+  "source": "https://cooksat.com/practice?questionId=89a38424&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

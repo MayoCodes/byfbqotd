@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ebf2e9fb",
+  "capturedAt": "2026-11-11T06:27:26.280Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is a linear function that is parallel to the line $y=4x+1$ and passes through the point $(2,7)$. What is the value of $f(5)$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$11$",
+    "C": "$19$",
+    "D": "$21$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since $f$ is parallel to $y=4x+1$, it has the same slope of $4$. Using the point $(2,7)$ and slope $4$, the equation is $y-7=4(x-2)$, which simplifies to $y=4x-1$. Therefore, $f(5)=4(5)-1=19$.",
+  "source": "https://cooksat.com/practice?questionId=ebf2e9fb&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

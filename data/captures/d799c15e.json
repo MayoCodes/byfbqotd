@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d799c15e",
+  "capturedAt": "2026-11-11T06:26:55.462Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe cost $y$, in dollars, for a company to produce $x$ notebooks is represented by the line shown. What is the cost, in dollars, for the company to produce $40$ notebooks?",
+  "choices": {
+    "A": "$80$",
+    "B": "$110$",
+    "C": "$140$",
+    "D": "$200$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The line shown represents the cost $y$, in dollars, for a company to produce $x$ notebooks. The x-axis represents the number of notebooks produced, and the y-axis represents the cost, in dollars. Therefore, the cost for producing $40$ notebooks is represented by the y-coordinate of the point on the line that has an x-coordinate of $40$. The point on the line with x-coordinate $40$ has a y-coordinate of $140$. Therefore, the cost, in dollars, for the company to produce $40$ notebooks is $140$.",
+  "source": "https://cooksat.com/practice?questionId=d799c15e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d799c15e/1-0b9e4be246694aae.png",
+      "kind": "diagram"
+    }
+  ]
+}

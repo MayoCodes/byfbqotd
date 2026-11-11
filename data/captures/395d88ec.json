@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "395d88ec",
+  "capturedAt": "2026-11-11T06:23:00.672Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 7x$. For what value of $x$ does $g(x) = 42$?",
+  "choices": {
+    "A": "$6$",
+    "B": "$7$",
+    "C": "$35$",
+    "D": "$49$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Substituting $42$ for $g(x)$ in the given function yields $42 = 7x$. Dividing each side of this equation by $7$ yields $6 = x$. Therefore, $g(x) = 42$ when the value of $x$ is $6$.",
+  "source": "https://cooksat.com/practice?questionId=395d88ec&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

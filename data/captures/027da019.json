@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "027da019",
+  "capturedAt": "2026-11-11T06:21:54.933Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA hot air balloon is ascending at a constant rate. The graph shows the estimated altitude $y$, in meters, of the balloon $x$ minutes after it begins ascending. What is the estimated altitude, in meters, of the balloon $7$ minutes after it begins ascending?",
+  "choices": {
+    "A": "$7$",
+    "B": "$70$",
+    "C": "$590$",
+    "D": "$630$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The x-axis represents time, in minutes, and the y-axis represents altitude, in meters. Therefore, the estimated altitude, in meters, of the balloon $7$ minutes after it begins ascending is the y-coordinate of the point on the graph with an x-coordinate of $7$. That point has a y-coordinate of approximately $590$. Therefore, the estimated altitude is $590$ meters.",
+  "source": "https://cooksat.com/practice?questionId=027da019&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/027da019/1-05cd6f99a7209dd8.png",
+      "kind": "diagram"
+    }
+  ]
+}

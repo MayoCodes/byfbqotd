@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f9bf0e62",
+  "capturedAt": "2026-11-11T06:27:39.072Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the linear function $g$, $g(4)=11$ and $g(8)=19$. What is the value of $g(0)$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$11$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To find $g(0)$, first determine the equation of the linear function. The slope is $m=\\frac{19-11}{8-4}=\\frac{8}{4}=2$. Using the point $(4,11)$ in the equation $g(x)=mx+b$: $11=2(4)+b$ gives $b=3$. Therefore, $g(0)=2(0)+3=3$.",
+  "source": "https://cooksat.com/practice?questionId=f9bf0e62&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

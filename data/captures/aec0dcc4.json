@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aec0dcc4",
+  "capturedAt": "2026-11-11T06:25:52.035Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A dog groomer charges $$45$ per hour for grooming services plus a flat fee of $$85$ for supplies. Which function $g$ represents the total amount, in dollars, the groomer will charge for a grooming session that takes $t$ hours?",
+  "choices": {
+    "A": "$g(t) = 45t$",
+    "B": "$g(t) = 45t - 85$",
+    "C": "$g(t) = 45t + 85$",
+    "D": "$g(t) = t + 85$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The groomer charges $$45$ per hour, so for $t$ hours the labor charge is $45t$ dollars. Adding the flat $$85$ supply fee gives the total charge $g(t) = 45t + 85$.",
+  "source": "https://cooksat.com/practice?questionId=aec0dcc4&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "423ddb53",
+  "capturedAt": "2026-11-11T06:23:19.093Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "One gallon of sealant will cover $240$ square feet of a surface. A driveway has a total surface area of $r$ square feet. Which equation represents the total amount of sealant $G$, in gallons, needed to coat the driveway in this scenario twice?",
+  "choices": {
+    "A": "$G = \\frac{r}{(240)}$",
+    "B": "$G = \\frac{r}{(120)}$",
+    "C": "$G = 240r$",
+    "D": "$G = 480r$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $r$ represents the total driveway surface area, in square feet. Since the driveway will be coated twice, the amount of sealant, in gallons, will need to cover $2r$ square feet. It's also given that one gallon of sealant will cover $240$ square feet. Dividing the total area, in square feet, of the surface to be coated by the number of square feet covered by one gallon gives the number of gallons of sealant needed. Dividing $2r$ by $240$ yields $\\frac{2r}{240}$, or $\\frac{r}{120}$. Therefore, the equation that represents the total amount of sealant $G$, in gallons, needed to coat the driveway twice is $G = \\frac{r}{120}$.",
+  "source": "https://cooksat.com/practice?questionId=423ddb53&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

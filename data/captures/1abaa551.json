@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1abaa551",
+  "capturedAt": "2026-11-11T06:22:27.030Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nIn the table, month 1 represents January, month 2 represents February, and so on. The number of members of a club in each of the first four months of 2015 is shown in the table. If the number of members in the club continued to increase each month at the same rate, which of the following equations could be used to determine the number of members in the club, $m$, at the end of month $t$ in 2015, where $t$ is a positive integer?",
+  "choices": {
+    "A": "$m = 15t + 60$",
+    "B": "$m = 25t$",
+    "C": "$m = 25t + 50$",
+    "D": "$m = 50t$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The table indicates that the number of members increased by 15 each month. Therefore, the equation $m = 15t + b$ represents the situation. The table shows that the number of members in month 1 was 75. Substituting 75 for $m$ and 1 for $t$ in the equation $m = 15t + b$ gives $75 = 15(1) + b$, or $75 = 15 + b$. Solving $75 = 15 + b$ for $b$ gives $b = 60$. It follows that in the situation, $m = 15t + 60$.",
+  "source": "https://cooksat.com/practice?questionId=1abaa551&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/1abaa551/1-c0e08e0ace47062c.png",
+      "kind": "diagram"
+    }
+  ]
+}

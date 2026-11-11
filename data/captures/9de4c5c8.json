@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9de4c5c8",
+  "capturedAt": "2026-11-11T06:25:14.988Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A function $f$ is defined by $f(x)=-2x-2$. What is $f(-3)$?",
+  "choices": {
+    "A": "$-8$",
+    "B": "$-4$",
+    "C": "$4$",
+    "D": "$8$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Substitute $x = -3$ into $f(x) = -2x - 2$: $f(-3) = -2(-3) - 2 = 6 - 2 = 4$.",
+  "source": "https://cooksat.com/practice?questionId=9de4c5c8&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

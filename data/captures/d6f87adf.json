@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d6f87adf",
+  "capturedAt": "2026-11-11T06:26:51.913Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$g(x) = 8x + k$$\n\nFor the linear function $g$, $k$ is a constant and $g(4) = 32$. What is the value of $k$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$1$",
+    "C": "$4$",
+    "D": "$8$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For the linear function $g$, it's given that $g(4) = 32$. Substituting $4$ for $x$ and $32$ for $g(x)$ in the given function yields $32 = 8(4) + k$, or $32 = 32 + k$. Subtracting $32$ from each side of this equation yields $0 = k$. Therefore, the value of $k$ is $0$.",
+  "source": "https://cooksat.com/practice?questionId=d6f87adf&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

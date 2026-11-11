@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d5df2432",
+  "capturedAt": "2026-11-11T06:26:50.311Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $h = 8m + 145$ gives the altitude $h$, in meters, of a weather balloon above a monitoring station, where $m$ is the number of minutes after the start of a period of observation. By how many meters does the weather balloon's altitude above the monitoring station increase over a period of $15$ minutes?",
+  "choices": {
+    "A": "$8$",
+    "B": "$120$",
+    "C": "$160$",
+    "D": "$265$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The equation $h = 8m + 145$ gives the altitude $h$, in meters, of a weather balloon above a monitoring station, where $m$ is the number of minutes after the start of observation. In this equation, the coefficient of $m$ is $8$. This means that for every increase in the value of $m$ by $1$, the value of $h$ increases by $8$. In other words, the balloon's altitude increases by $8$ meters per minute. Therefore, over a period of $15$ minutes, the balloon's altitude increases by $8 \\times 15 = 120$ meters.",
+  "source": "https://cooksat.com/practice?questionId=d5df2432&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

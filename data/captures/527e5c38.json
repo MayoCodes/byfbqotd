@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "527e5c38",
+  "capturedAt": "2026-11-11T06:23:52.263Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A model predicts that a certain sapling was $186$ centimeters tall when it was planted and that the sapling grew $4$ centimeters per week during its first year after planting. This model is defined by an equation of the form $g(t) = c + dt$, where $g(t)$ is the predicted height, in centimeters, of the sapling $t$ weeks after it was planted, and $c$ and $d$ are constants. What is the value of $c$?\n\n$$0$$\n\n$$186$$",
+  "choices": {},
+  "correctAnswer": "$186$",
+  "explanation": "The correct answer is $186$. It's given that a model predicts a sapling was $186$ centimeters tall when it was planted and grew $4$ centimeters per week during its first year after planting. The model is defined by $g(t) = c + dt$, where $g(t)$ is the predicted height, in centimeters, of the sapling $t$ weeks after it was planted. It follows that $c$ represents the predicted height, in centimeters, of the sapling when it was planted (when $t = 0$), and $d$ represents the predicted rate of growth, in centimeters per week. Thus, the value of $c$ is $186$.",
+  "source": "https://cooksat.com/practice?questionId=527e5c38&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6138ea6e",
+  "capturedAt": "2026-11-11T06:24:07.705Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = \\frac{3}{7}x - 15$. What is the $x$-coordinate of the $x$-intercept of the graph of $y = h(x)$ in the $xy$-plane?\n\n$$0$$\n\n$$35$$",
+  "choices": {},
+  "correctAnswer": "$35$",
+  "explanation": "The correct answer is $35$. The $x$-intercept of the graph of $y = h(x)$ in the $xy$-plane is the point where the graph crosses the $x$-axis, which occurs when $y = 0$. It's given that $h(x) = \\frac{3}{7}x - 15$. Setting $h(x)$ equal to $0$ yields $0 = \\frac{3}{7}x - 15$. Adding $15$ to both sides of this equation yields $15 = \\frac{3}{7}x$. Multiplying both sides of this equation by $\\frac{7}{3}$ yields $15 \\cdot \\frac{7}{3} = x$, or $\\frac{105}{3} = x$, which simplifies to $35 = x$. Therefore, the $x$-coordinate of the $x$-intercept of the graph of $y = h(x)$ in the $xy$-plane is $35$.",
+  "source": "https://cooksat.com/practice?questionId=6138ea6e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

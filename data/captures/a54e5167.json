@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a54e5167",
+  "capturedAt": "2026-11-11T06:25:31.817Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The cost of producing a certain type of toy is modeled by the function $f(x)=4.7x+1,500$, where $x$ is the number of toys produced and $f(x)$ is the cost, in dollars. What is the best interpretation of the value $4.7$ in this context?",
+  "choices": {
+    "A": "The total cost, in dollars, of producing $0$ toys",
+    "B": "The total cost, in dollars, of producing $1$ toy",
+    "C": "The increase in cost, in dollars, for each additional toy produced",
+    "D": "The increase in cost, in dollars, for producing $4.7$ toys"
+  },
+  "correctAnswer": "C",
+  "explanation": "The equation $f(x)=4.7x+1{,}500$ is in slope-intercept form, where $4.7$ is the coefficient of $x$. This coefficient represents the slope, which is the rate of change of cost with respect to the number of toys. Therefore, $4.7$ represents the increase in cost, in dollars, for each additional toy produced.",
+  "source": "https://cooksat.com/practice?questionId=a54e5167&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

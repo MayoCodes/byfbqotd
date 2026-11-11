@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a3e22ae9",
+  "capturedAt": "2026-11-11T06:25:24.249Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following is the graph of the equation $y = 3x - 6$ in the $xy$-plane?",
+  "choices": {
+    "A": "[Figure 1]",
+    "B": "[Figure 2]",
+    "C": "[Figure 3]",
+    "D": "[Figure 4]"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In the $xy$-plane, the graph of the equation $y = mx + b$, where $m$ and $b$ are constants, is a line with slope $m$ and $y$-intercept $(0, b)$. Therefore, the graph of $y = 3x - 6$ is a line with slope $3$ and $y$-intercept $(0, -6)$. Having a slope of $3$ means that for each increase in $x$ by $1$, the value of $y$ increases by $3$. Only the graph in choice D has a slope of $3$ and crosses the $y$-axis at $(0, -6)$. Therefore, the graph shown in choice D must be the correct answer.",
+  "source": "https://cooksat.com/practice?questionId=a3e22ae9&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a3e22ae9/1-546e327244886809.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/a3e22ae9/2-e8603a6d376dfdc9.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/a3e22ae9/3-951f07b07efaa830.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/a3e22ae9/4-8639cf9260ea98c1.png",
+      "kind": "diagram"
+    }
+  ]
+}

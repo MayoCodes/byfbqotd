@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d71c00e4",
+  "capturedAt": "2026-11-11T06:26:53.570Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$G(x) = \\frac{8}{5}(x - 120) + 25$$\n\nThe function $G$ gives the pressure, in units of torr, that corresponds to a pressure of $x$ pascals. If a pressure increased by $7.50$ pascals, by how much did the pressure increase, in torr?",
+  "choices": {
+    "A": "$12.00$",
+    "B": "$37.00$",
+    "C": "$180.00$",
+    "D": "$205.00$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the function $G(x) = \\frac{8}{5}(x - 120) + 25$ gives the pressure, in torr, that corresponds to a pressure of $x$ pascals. A pressure that increased by $7.50$ pascals means that the value of $x$ increased by $7.50$. It follows that an increase in $x$ by $7.50$ increases $G(x)$ by $\\frac{8}{5}(7.50)$, or $12.00$. Therefore, if a pressure increased by $7.50$ pascals, the pressure increased by $12.00$ torr.",
+  "source": "https://cooksat.com/practice?questionId=d71c00e4&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

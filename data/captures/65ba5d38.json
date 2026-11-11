@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "65ba5d38",
+  "capturedAt": "2026-11-11T06:24:09.495Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The height, $y$, of a sapling was $85$ centimeters ($cm$) when it was planted and increased an average of $3.2 cm$ per week for the first $10$ weeks after it was planted. Which equation best represents this situation, where $x$ is the number of weeks after the sapling was planted and $y$ is the height, in $cm$, of the sapling?",
+  "choices": {
+    "A": "$y = 3.2x + 3.2$",
+    "B": "$y = 3.2x + 85$",
+    "C": "$y = 85x$",
+    "D": "$y = 85x + 85$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the height of the sapling was $85 \\text{ cm}$ when it was planted and that its height increased an average of $3.2 \\text{ cm}$ per week for the first $10$ weeks after it was planted. Since $x$ represents the number of weeks after the sapling was planted, the total increase in the sapling's height, in $\\text{cm}$, is $3.2$ times $x$, or $3.2x$. The height of the sapling $y$, in $\\text{cm}$, can be found by adding the sapling's height when it was planted, $85 \\text{ cm}$, to the total increase in height, $3.2x \\text{ cm}$. Therefore, the equation that best represents this situation is $y = 3.2x + 85$.",
+  "source": "https://cooksat.com/practice?questionId=65ba5d38&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

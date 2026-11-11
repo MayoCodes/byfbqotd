@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "26d00612",
+  "capturedAt": "2026-11-11T06:22:42.658Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The functions $p$ and $q$ are defined as $p(x) = \\frac{2}{5}x + 14$ and $q(x) = \\frac{3}{5}x - 32$. If the function $r$ is defined as $r(x) = p(x) + q(x)$, what is the x-coordinate of the x-intercept of the graph of $y = r(x)$ in the xy-plane?\n\n$$0$$\n\n$$18$$",
+  "choices": {},
+  "correctAnswer": "$18$",
+  "explanation": "The correct answer is $18$. It's given that $p(x) = \\frac{2}{5}x + 14$ and $q(x) = \\frac{3}{5}x - 32$. Substituting these into $r(x) = p(x) + q(x)$ yields $r(x) = \\frac{2}{5}x + 14 + \\frac{3}{5}x - 32$. Combining like terms gives $r(x) = \\frac{5}{5}x - 18$, or $r(x) = x - 18$. The x-intercept of the graph of $y = r(x)$ is the point where $y = 0$. Substituting $0$ for $y$ in $y = x - 18$ yields $0 = x - 18$. Adding $18$ to both sides gives $x = 18$. Therefore, the x-coordinate of the x-intercept of the graph of $y = r(x)$ is $18$.",
+  "source": "https://cooksat.com/practice?questionId=26d00612&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

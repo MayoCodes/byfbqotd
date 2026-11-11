@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "97aab911",
+  "capturedAt": "2026-11-11T06:25:06.499Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A community gardening club is selling plant seedlings for a fundraiser. They use the function $c(n) = 8n - 160$ to determine their profit $c(n)$, in dollars, for selling $n$ plant seedlings. In order to earn a profit of $$1,200$, how many plant seedlings must they sell?\n\n$$0$$\n\n$$170$$",
+  "choices": {},
+  "correctAnswer": "$170$",
+  "explanation": "The correct answer is $170$. It's given that a community gardening club uses the function $c(n) = 8n - 160$ to determine their profit $c(n)$, in dollars, for selling $n$ plant seedlings. Substituting $1{,}200$ for $c(n)$ in the given function yields $1{,}200 = 8n - 160$. Adding $160$ to each side of this equation yields $1{,}360 = 8n$. Dividing each side of this equation by $8$ yields $170 = n$. Therefore, in order to earn a profit of $$1{,}200$, they must sell $170$ plant seedlings.",
+  "source": "https://cooksat.com/practice?questionId=97aab911&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

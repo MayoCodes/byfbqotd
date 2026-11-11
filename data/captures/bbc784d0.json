@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bbc784d0",
+  "capturedAt": "2026-11-11T06:26:20.600Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The functions $p$ and $q$ are defined as $p(x) = \\frac{3}{7}x - 5$ and $q(x) = \\frac{4}{7}x + 17$. If the function $r$ is defined as $r(x) = p(x) + q(x)$, what is the $x$-intercept of the graph of $y = r(x)$ in the $xy$-plane?",
+  "choices": {
+    "A": "$(-\\frac{(119)}{4}, 0)$",
+    "B": "$(-12, 0)$",
+    "C": "$(\\frac{(32)}{4}, 0)$",
+    "D": "$(12, 0)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $p(x) = \\frac{3}{7}x - 5$ and $q(x) = \\frac{4}{7}x + 17$. If $r(x) = p(x) + q(x)$, then substituting the expressions for $p(x)$ and $q(x)$ yields $r(x) = \\frac{3}{7}x - 5 + \\frac{4}{7}x + 17$. Combining like terms gives $r(x) = \\frac{7}{7}x + 12$, or $r(x) = x + 12$. The $x$-intercept of the graph of $y = r(x)$ in the $xy$-plane is the point where $y = 0$. Substituting $0$ for $y$ in the equation $y = x + 12$ yields $0 = x + 12$. Subtracting $12$ from both sides gives $x = -12$. Therefore, the $x$-intercept is $(-12, 0)$.",
+  "source": "https://cooksat.com/practice?questionId=bbc784d0&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

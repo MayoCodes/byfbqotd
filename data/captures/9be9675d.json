@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9be9675d",
+  "capturedAt": "2026-11-11T06:25:12.663Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows selected values of the linear function $f$ defined by $f(x) = mx + b$. Which of the following inequalities is true?",
+  "choices": {
+    "A": "$m > 2$",
+    "B": "$m < 2$",
+    "C": "$b > 5$",
+    "D": "$b < 0$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The table shows that when $x$ increases by $2$, $f(x)$ increases by $3$. This change represents the slope: $m = \\frac{\\text{change in } f(x)}{\\text{change in } x} = \\frac{3}{2} = 1.5$. Since $1.5 < 2$, we have $m < 2$. To find $b$, use any point such as $(2, 8)$: $8 = \\frac{3}{2}(2) + b$, which gives $8 = 3 + b$, so $b = 5$. Therefore, $m = 1.5 < 2$, making this inequality true.",
+  "source": "https://cooksat.com/practice?questionId=9be9675d&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/9be9675d/1-62715f7f9c22421f.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4640af1f",
+  "capturedAt": "2026-11-11T06:23:28.869Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A botanist tracks the growth of a seedling. The formula $h = 45 + 4d$ relates the height $h$, in centimeters, of the seedling to the number of days $d$ since planting. Which of the following describes the meaning of the $4$ in this context?",
+  "choices": {
+    "A": "The height, in centimeters, of the seedling at the time of planting",
+    "B": "The number of days it takes for the seedling to reach a height of $45$ centimeters",
+    "C": "The increase in the number of days for each one-centimeter increase in the height of the seedling",
+    "D": "The increase in the height, in centimeters, of the seedling for each one-day increase in time"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The value $4$ is multiplied by $d$, the number of days since planting. When $d = 0$, the height is $45 + 4(0) = 45$ centimeters. If $d$ increases by $1$ day, the height increases by $4$ centimeters. Therefore, $4$ represents the increase in the height, in centimeters, of the seedling for each one-day increase in time.",
+  "source": "https://cooksat.com/practice?questionId=4640af1f&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

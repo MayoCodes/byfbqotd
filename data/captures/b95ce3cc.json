@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b95ce3cc",
+  "capturedAt": "2026-11-11T06:26:15.297Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$T = 1.875W + 15.42$$\n\nA team of ornithologists studied the relationship between a certain bird species' wingspan and its tail length. The given equation describes the relationship between the wingspan $W$, in inches, of a bird of this species and the bird's estimated tail length $T$, in inches. Which of the following is the best interpretation of $1.875$ in this context?",
+  "choices": {
+    "A": "The estimated tail length, in inches, of a bird whose wingspan is $W$ inches",
+    "B": "The increase in a bird's wingspan, in inches, for each increase of $1$ inch in the bird's estimated tail length",
+    "C": "The increase in a bird's wingspan, in inches, for each increase of $15.42$ inches in the bird's estimated tail length",
+    "D": "The increase in a bird's estimated tail length, in inches, for each increase of $1$ inch in the bird's wingspan"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The given equation $T = 1.875W + 15.42$ is in the form $y = mx + b$, where $m$ represents the slope. In this equation, the coefficient of $W$ is $1.875$, so the slope is $1.875$. The slope represents the change in the value of $T$ for each increase in the value of $W$ by $1$. Since $T$ represents a bird's estimated tail length, in inches, and $W$ represents the bird's wingspan, in inches, it follows that $1.875$ represents the increase in a bird's estimated tail length, in inches, for each increase of $1$ inch in the bird's wingspan.",
+  "source": "https://cooksat.com/practice?questionId=b95ce3cc&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

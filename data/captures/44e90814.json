@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "44e90814",
+  "capturedAt": "2026-11-11T06:23:26.874Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, the points $(-3, 7)$ and $(6, -8)$ lie on the graph of which of the following linear functions?",
+  "choices": {
+    "A": "$g(x) = -\\frac{5}{3}x + 2$",
+    "B": "$g(x) = -\\frac{3}{5}x + 5$",
+    "C": "$g(x) = \\frac{2}{3}x + 9$",
+    "D": "$g(x) = \\frac{5}{3}x + 12$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A linear function can be written in the form $g(x) = mx + b$, where $m$ is the slope and $b$ is the $y$-coordinate of the $y$-intercept of the line. The slope of the graph can be found using the formula $m = \\frac{y_2 - y_1}{x_2 - x_1}$. Substituting the values of the given points into this formula yields $m = \\frac{-8 - 7}{6 - (-3)}$ or $m = \\frac{-15}{9}$, which simplifies to $m = -\\frac{5}{3}$. Only choice A shows an equation with this slope.",
+  "source": "https://cooksat.com/practice?questionId=44e90814&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

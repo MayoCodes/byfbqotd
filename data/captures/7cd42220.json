@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7cd42220",
+  "capturedAt": "2026-11-11T06:24:44.325Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A craft fair charges $$22$ for the first ticket purchased and an additional $$18$ for each ticket after the first. Which equation describes this situation, where $y$ is the total cost, in dollars, for tickets purchased, $x$ is the number of tickets purchased, and $x > 0$?",
+  "choices": {
+    "A": "$y = x + 22$",
+    "B": "$y = (x - 1) + 22$",
+    "C": "$y = 18x + 22$",
+    "D": "$y = 18(x - 1) + 22$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The craft fair charges $$22$ for the first ticket and $$18$ for each additional ticket. If $x$ tickets are purchased, then there is $1$ first ticket and $x - 1$ additional tickets. The total cost, in dollars, is the sum of the cost for the first ticket, $$22$, and the cost for the remaining $x - 1$ tickets, $$18(x - 1)$. Therefore, $y = 22 + 18(x - 1)$, which is equivalent to $y = 18(x - 1) + 22$.",
+  "source": "https://cooksat.com/practice?questionId=7cd42220&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

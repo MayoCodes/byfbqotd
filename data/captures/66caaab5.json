@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "66caaab5",
+  "capturedAt": "2026-11-11T06:24:11.318Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A linear function $f$ is defined by $f(x) = 7x - 4$. If $g(x) = f(x + 1) - f(x - 1)$, what is the value of $g(5)$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$14$",
+    "C": "$28$",
+    "D": "$49$"
+  },
+  "correctAnswer": "B",
+  "explanation": "To find $g(5)$, substitute $5$ for $x$ in $g(x) = f(x+1) - f(x-1)$ to get $g(5) = f(6) - f(4)$. Evaluating $f(6) = 7(6) - 4 = 38$ and $f(4) = 7(4) - 4 = 24$, the difference is $38 - 24 = 14$.",
+  "source": "https://cooksat.com/practice?questionId=66caaab5&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

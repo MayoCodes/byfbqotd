@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "48ca2d22",
+  "capturedAt": "2026-11-11T06:23:36.466Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $p$ is defined by $p(x) = x + 350$. What is the value of $p(80)$?",
+  "choices": {
+    "A": "$350$",
+    "B": "$430$",
+    "C": "$28,000$",
+    "D": "$80,350$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Substituting $80$ for $x$ in the given function yields $p(80) = 80 + 350$, or $p(80) = 430$. Therefore, the value of $p(80)$ is $430$.",
+  "source": "https://cooksat.com/practice?questionId=48ca2d22&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db00a6a2",
+  "capturedAt": "2026-11-11T06:27:03.176Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $y = 3x + 13$ gives the relationship between $x$, the number of days a person rented a car, and $y$, the total cost, in dollars, for renting the car. What does the $13$ represent in the equation?",
+  "choices": {
+    "A": "The number of days a person rented a car.",
+    "B": "The total cost, in dollars, for renting the car.",
+    "C": "The increase, in dollars, in the total cost for each additional day a person rented the car.",
+    "D": "The total cost, in dollars, to rent the car for $0$ days."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In the equation $y = 3x + 13$, the constant term $13$ is the y-intercept. When $x = 0$, the equation becomes $y = 3(0) + 13 = 13$. Therefore, $13$ represents the cost in dollars when the car is rented for $0$ days, which is the base cost.",
+  "source": "https://cooksat.com/practice?questionId=db00a6a2&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

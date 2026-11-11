@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "896fd6f5",
+  "capturedAt": "2026-11-11T06:24:53.481Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the function $g$, the graph of $y = g(x)$ in the xy-plane has a slope of $4$ and passes through the point $(0, -11)$. Which equation defines $g$?",
+  "choices": {
+    "A": "$g(x) = 4x - 11$",
+    "B": "$g(x) = 4x - 7$",
+    "C": "$g(x) = 4x$",
+    "D": "$g(x) = 4x + 11$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. An equation defining a linear function can be written in the form $g(x) = mx + b$, where $m$ and $b$ are constants, $m$ is the slope of the graph of $y = g(x)$ in the xy-plane, and $(0, b)$ is the y-intercept of the graph. It's given that for the function $g$, the graph of $y = g(x)$ in the xy-plane has a slope of $4$. Therefore, $m = 4$. It's also given that this graph passes through the point $(0, -11)$. Therefore, the y-intercept of the graph is $(0, -11)$, and it follows that $b = -11$. Substituting $4$ for $m$ and $-11$ for $b$ in the equation $g(x) = mx + b$ yields $g(x) = 4x - 11$. Thus, the equation that defines $g$ is $g(x) = 4x - 11$.",
+  "source": "https://cooksat.com/practice?questionId=896fd6f5&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

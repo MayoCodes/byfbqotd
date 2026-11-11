@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1eaec88e",
+  "capturedAt": "2026-11-11T06:22:32.001Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $f$ is defined by $f(x)=kx+15$, where $k$ is a constant, and $f(3)=27$. What is the value of $f(10)$?\n\n$$0$$\n\n$$55$$",
+  "choices": {},
+  "correctAnswer": "$55$",
+  "explanation": "The correct answer is $55$. It's given that $f(3)=27$. Therefore, for the given function $f$, when $x=3$, $f(x)=27$. Substituting $3$ for $x$ and $27$ for $f(x)$ in the given function $f(x)=kx+15$ yields $27=k(3)+15$, or $27=3k+15$. Subtracting $15$ from each side of this equation yields $12=3k$. Dividing each side of this equation by $3$ yields $k=4$. Substituting $4$ for $k$ in the given function $f(x)=kx+15$ yields $f(x)=4x+15$. Substituting $10$ for $x$ into this equation yields $f(10)=4(10)+15$, or $f(10)=55$. Therefore, the value of $f(10)$ is $55$.",
+  "source": "https://cooksat.com/practice?questionId=1eaec88e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

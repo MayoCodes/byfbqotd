@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "29d40ac9",
+  "capturedAt": "2026-11-11T06:22:54.036Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If the linear function $f(x) = 3x + 4$ has an input of $x = 5$, what is the output?\n\n$$0$$\n\n$$19$$",
+  "choices": {},
+  "correctAnswer": "$19$",
+  "explanation": "The correct answer is $19$. To find the output of the linear function $f(x) = 3x + 4$ for an input of $x = 5$, substitute $5$ for $x$ in the function. This yields $f(5) = 3(5) + 4$, or $f(5) = 15 + 4$. Therefore, $f(5) = 19$, and the output is $19$.",
+  "source": "https://cooksat.com/practice?questionId=29d40ac9&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

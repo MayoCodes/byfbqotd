@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "09cd173c",
+  "capturedAt": "2026-11-11T06:22:03.338Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows four values of $x$ and their corresponding values of $g(x)$. There is a linear relationship between $x$ and $g(x)$ that is defined by the equation $g(x) = ax - 15$, where $a$ is a constant. What is the value of $a$?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. It's given that $g(x) = ax - 15$, where $a$ is a constant. From the table, when $x = 4$, $g(x) = 13$. Substituting $4$ for $x$ and $13$ for $g(x)$ in the equation $g(x) = ax - 15$ yields $13 = a(4) - 15$. Adding $15$ to both sides of this equation yields $28 = 4a$. Dividing both sides of this equation by $4$ yields $a = 7$. Therefore, the value of $a$ is $7$.",
+  "source": "https://cooksat.com/practice?questionId=09cd173c&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/09cd173c/1-f26d0d31402b7d4f.png",
+      "kind": "diagram"
+    }
+  ]
+}

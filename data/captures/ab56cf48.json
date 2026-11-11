@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ab56cf48",
+  "capturedAt": "2026-11-11T06:25:46.191Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the linear function $g(x)=(k-2)x+(3k+1)$, if $g(5)-g(1)=32$, what is the value of $2k-5$?",
+  "choices": {
+    "A": "$5$",
+    "B": "$8$",
+    "C": "$10$",
+    "D": "$15$"
+  },
+  "correctAnswer": "D",
+  "explanation": "For a linear function, the difference $g(5)-g(1)$ depends only on the slope: $g(5)-g(1)=(k-2)(5)+(3k+1)-(k-2)(1)-(3k+1)=4(k-2)$. Setting this equal to $32$ gives $4(k-2)=32$, so $k-2=8$ and $k=10$. Therefore, $2k-5=2(10)-5=15$.",
+  "source": "https://cooksat.com/practice?questionId=ab56cf48&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

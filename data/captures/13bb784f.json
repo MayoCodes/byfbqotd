@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "13bb784f",
+  "capturedAt": "2026-11-11T06:22:21.674Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "On June $1$, $2018$, a community pool's monthly membership fee was $$14.75$. The fee will increase by $$0.75$ on the first day of June for the next $6$ years. Which of the following functions best models the monthly membership fee, in dollars, $t$ years after June $1$, $2018$, where $t$ is $1$, $2$, $3$, $4$, $5$, or $6$?",
+  "choices": {
+    "A": "$g(t) = 14.75 - 0.75t$",
+    "B": "$g(t) = 14.75 + 0.75t$",
+    "C": "$g(t) = 14.75t - 0.75$",
+    "D": "$g(t) = 14.75t + 0.75$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the monthly membership fee will increase by $$0.75$ on the first day of June for the $6$ years after June $1$, $2018$. Therefore, the total increase, in dollars, in the monthly fee $t$ years after June $1$, $2018$, is represented by $0.75t$. Since the monthly fee on June $1$, $2018$, was $$14.75$, it follows that the monthly fee, in dollars, $t$ years after June $1$, $2018$, is represented by $14.75 + 0.75t$. Therefore, the function $g(t) = 14.75 + 0.75t$ best models this situation.",
+  "source": "https://cooksat.com/practice?questionId=13bb784f&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

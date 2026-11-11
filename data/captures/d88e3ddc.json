@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d88e3ddc",
+  "capturedAt": "2026-11-11T06:26:57.711Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = -3x + 17$ for all values of $x$. What is the value of $h(-4)$?",
+  "choices": {
+    "A": "$-5$",
+    "B": "$5$",
+    "C": "$10$",
+    "D": "$29$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find $h(-4)$, substitute $x = -4$ into the function: $h(-4) = -3(-4) + 17 = 12 + 17 = 29$.",
+  "source": "https://cooksat.com/practice?questionId=d88e3ddc&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

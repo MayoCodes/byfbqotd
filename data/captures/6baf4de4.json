@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6baf4de4",
+  "capturedAt": "2026-11-11T06:24:20.352Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "According to data collected by a regional retailer, the average hourly wage paid to seasonal employees from May $1$, $2020$, to September $1$, $2020$, is modeled by the function $W$ defined below, where $W(x)$ is the average hourly wage, in dollars, $x$ months after May $1$.\n\n$$W(x) = 18.45 - 0.23(x - 4)$$\n\nThe constant $18.45$ in this function estimates which of the following?",
+  "choices": {
+    "A": "The average monthly decrease in the hourly wage",
+    "B": "The difference in the average hourly wage from May $1$, $2020$, to September $1$, $2020$",
+    "C": "The average hourly wage on May $1$, $2020$",
+    "D": "The average hourly wage on September $1$, $2020$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since $18.45$ is a constant term, it represents an actual hourly wage rather than a measure of change. To determine which wage it represents, find $x$ such that $W(x) = 18.45$, or $18.45 = 18.45 - 0.23(x - 4)$. Subtracting $18.45$ from both sides gives $0 = -0.23(x - 4)$. Dividing both sides by $-0.23$ gives $0 = x - 4$, or $x = 4$. Therefore, the average hourly wage is $$18.45$ exactly $4$ months after May $1$, $2020$, which is September $1$, $2020$.",
+  "source": "https://cooksat.com/practice?questionId=6baf4de4&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

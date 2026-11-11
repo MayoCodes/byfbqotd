@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "25154d6a",
+  "capturedAt": "2026-11-11T06:22:39.526Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of gallons of gasoline remaining in a car's tank after $t$ hours of driving. Which of the following equations best models the relationship between $t$, the number of hours driven, and $g$, the number of gallons of gas remaining in the tank?",
+  "choices": {
+    "A": "$g = 14 + 2t$",
+    "B": "$g = 14 - 2t$",
+    "C": "$g = 14t$",
+    "D": "$g = \\frac{(14)}{t}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. From the table, the car starts with $14$ gallons at $t = 0$. Each hour, the gas decreases by $2$ gallons: from $14$ to $12$, from $12$ to $10$, and so on. This is a linear relationship with initial value $14$ and a rate of change of $-2$ gallons per hour. Therefore, the equation is $g = 14 - 2t$.",
+  "source": "https://cooksat.com/practice?questionId=25154d6a&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/25154d6a/1-7a0cea4bc25289b8.png",
+      "kind": "diagram"
+    }
+  ]
+}

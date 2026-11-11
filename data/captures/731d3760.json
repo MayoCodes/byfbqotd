@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "731d3760",
+  "capturedAt": "2026-11-11T06:24:25.492Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "For a particular water pump, the linear function $h$ gives the predicted flow rate, in liters per minute $(\\frac{L}{m}in)$, for pressures between $1,500$ kilopascals $(kPa)$ and $5,000$ kPa. According to this function, the pump's predicted flow rate is $286$ L/min at a pressure of $2,847$ kPa and $486$ L/min at a pressure of $3,847$ kPa. The equation $h(x) = \\frac{1}{5}(x - c) + 286$ defines $h$, where $x$ is the pressure, in kPa, and $c$ is a constant. What is the value of $c$?\n\n$$0$$\n\n$$2847$$",
+  "choices": {},
+  "correctAnswer": "$2847$",
+  "explanation": "The correct answer is $2847$. It's given that the equation $h(x) = \\frac{1}{5}(x - c) + 286$ defines the linear function $h$, and that the pump's predicted flow rate is $286$ L/min at a pressure of $2{,}847$ kPa. Substituting $2{,}847$ for $x$ and $286$ for $h(x)$ yields $286 = \\frac{1}{5}(2{,}847 - c) + 286$. Subtracting $286$ from both sides gives $0 = \\frac{1}{5}(2{,}847 - c)$. Multiplying both sides by $5$ yields $0 = 2{,}847 - c$. Adding $c$ to both sides gives $c = 2{,}847$.",
+  "source": "https://cooksat.com/practice?questionId=731d3760&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

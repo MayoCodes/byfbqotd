@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4c580e4e",
+  "capturedAt": "2026-11-11T06:23:39.778Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$g(x) = x + \\frac{5}{(13)}$$\n\nThe function $g$ is defined by the given equation. What is the value of $g(x)$ when $x = \\frac{8}{(13)}$?\n\n$$0$$\n\n$$1$$",
+  "choices": {},
+  "correctAnswer": "$1$",
+  "explanation": "The correct answer is $1$. It's given that the function $g$ is defined by $g(x) = x + \\frac{5}{13}$. Substituting $\\frac{8}{13}$ for $x$ in the given function yields $g\\left(\\frac{8}{13}\\right) = \\frac{8}{13} + \\frac{5}{13}$, which gives $g\\left(\\frac{8}{13}\\right) = \\frac{13}{13}$, or $g\\left(\\frac{8}{13}\\right) = 1$. Therefore, when $x = \\frac{8}{13}$, the value of $g(x)$ is $1$.",
+  "source": "https://cooksat.com/practice?questionId=4c580e4e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0d7dc756",
+  "capturedAt": "2026-11-11T06:22:09.515Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$f(x)=4x+9$$\n\nThe function $f$ gives the total cost, in dollars, to play $x$ games at an arcade. What is the total number of games played for a cost of $$57$?\n\n$$0$$\n\n$$12$$",
+  "choices": {},
+  "correctAnswer": "$12$",
+  "explanation": "The correct answer is $12$. It's given that the function $f$ gives the total cost, in dollars, to play $x$ games at an arcade. To find the number of games played for a cost of $57, substitute $57$ for $f(x)$ in the given equation: $57=4x+9$. Subtracting $9$ from both sides of this equation yields $48=4x$. Dividing both sides of this equation by $4$ yields $12=x$. Therefore, $12$ games were played for a total cost of $57.",
+  "source": "https://cooksat.com/practice?questionId=0d7dc756&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

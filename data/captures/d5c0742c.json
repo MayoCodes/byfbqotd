@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d5c0742c",
+  "capturedAt": "2026-11-11T06:26:48.469Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = 20x + 13$. For what value of $x$ does $h(x) = 17$?\n\n$$0$$\n\n$$\\frac{1}{5},.2,.20,.200,0.2$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{1}{5},.2,.20,.200,0.2$",
+  "explanation": "The correct answer is $\\frac{1}{5}$. Substituting $17$ for $h(x)$ in the given function yields $17 = 20x + 13$. Subtracting $13$ from both sides of this equation yields $4 = 20x$. Dividing both sides of this equation by $20$ yields $\\frac{1}{5} = x$. Therefore, $h(x) = 17$ when the value of $x$ is $\\frac{1}{5}$. Note that 1/5, .2, .20, .200, and 0.2 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=d5c0742c&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

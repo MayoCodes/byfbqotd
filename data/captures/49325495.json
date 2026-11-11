@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "49325495",
+  "capturedAt": "2026-11-11T06:23:38.097Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 7x$. For what value of $x$ does $g(x) = 35$?\n\n$$0$$\n\n$$5$$",
+  "choices": {},
+  "correctAnswer": "$5$",
+  "explanation": "The correct answer is $5$. Substituting $35$ for $g(x)$ in the given equation yields $35 = 7x$. Dividing both sides of this equation by $7$ yields $x = 5$. Therefore, the value of $x$ is $5$ when $g(x) = 35$.",
+  "source": "https://cooksat.com/practice?questionId=49325495&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

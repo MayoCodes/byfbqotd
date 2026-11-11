@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4e7df050",
+  "capturedAt": "2026-11-11T06:23:43.692Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows some values of the function $f$. If $f(x) = 3x - 4$, for which of the following values of $c$ does $f(c) = 2c$?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$4$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The table shows some values of the function $f$. The expression $f(x) = 3x - 4$ is given. To find which of the given answer choices satisfies $f(c) = 2c$, substitute $3c - 4$ for $f(c)$ in the equation $f(c) = 2c$. The result is $3c - 4 = 2c$. Subtracting $2c$ from both sides of $3c - 4 = 2c$ results in $c - 4 = 0$. Adding $4$ to both sides of $c - 4 = 0$ results in $c = 4$. Verifying: $f(4) = 3(4) - 4 = 12 - 4 = 8$ and $2(4) = 8$, so $f(4) = 2(4)$. Thus, when $c = 4$, the equation $f(c) = 2c$ is true.",
+  "source": "https://cooksat.com/practice?questionId=4e7df050&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/4e7df050/1-f134208d8b1085f7.png",
+      "kind": "diagram"
+    }
+  ]
+}

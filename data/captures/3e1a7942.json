@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3e1a7942",
+  "capturedAt": "2026-11-11T06:23:08.384Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the function $g$, if $g(4x) = x - 9$ for all values of $x$, what is the value of $g(20)$?",
+  "choices": {
+    "A": "$-9$",
+    "B": "$-4$",
+    "C": "$5$",
+    "D": "$11$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $g(4x) = x - 9$ for all values of $x$. If $4x = 20$, then $g(4x)$ will equal $g(20)$. Dividing both sides of $4x = 20$ by $4$ gives $x = 5$. Substituting $5$ for $x$ in the given equation yields $g(4 \\times 5) = 5 - 9$, which can be rewritten as $g(20) = -4$.",
+  "source": "https://cooksat.com/practice?questionId=3e1a7942&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "397f9d3a",
+  "capturedAt": "2026-11-11T06:23:02.484Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The functions $f$ and $g$ are defined by $f(x)=3x-7$ and $g(x)=2x+1$. What is the value of $f(g(4))$?\n\n$$0$$\n\n$$20$$",
+  "choices": {},
+  "correctAnswer": "$20$",
+  "explanation": "The correct answer is $20$. First, find $g(4)$ by substituting $4$ for $x$ in $g(x)=2x+1$: $g(4)=2(4)+1=9$. Then, find $f(g(4))=f(9)$ by substituting $9$ for $x$ in $f(x)=3x-7$: $f(9)=3(9)-7=27-7=20$. Therefore, $f(g(4))=20$.",
+  "source": "https://cooksat.com/practice?questionId=397f9d3a&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

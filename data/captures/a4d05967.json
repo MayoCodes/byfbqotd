@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a4d05967",
+  "capturedAt": "2026-11-11T06:25:30.047Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $n$ has a slope of $8$ and a $y$-intercept of $(0, -72)$. What is the $x$-coordinate of the $x$-intercept of line $n$?\n\n$$0$$\n\n$$9$$",
+  "choices": {},
+  "correctAnswer": "$9$",
+  "explanation": "The correct answer is $9$. An equation of a line in the $xy$-plane can be written in the form $y = mx + b$, where $m$ is the slope and $(0, b)$ is the $y$-intercept. Since line $n$ has slope $8$ and $y$-intercept $(0, -72)$, its equation is $y = 8x - 72$. The $x$-intercept has $y$-coordinate $0$, so substituting $0$ for $y$ gives $0 = 8x - 72$. Adding $72$ to both sides yields $72 = 8x$, and dividing both sides by $8$ gives $x = 9$. Therefore, the $x$-coordinate of the $x$-intercept of line $n$ is $9$.",
+  "source": "https://cooksat.com/practice?questionId=a4d05967&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

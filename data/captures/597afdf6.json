@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "597afdf6",
+  "capturedAt": "2026-11-11T06:23:55.804Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Constant in Function",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$g(x) = 6x + k$$\n\nFor the linear function $g$, $k$ is a constant and $g(5) = 30$. What is the value of $k$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$1$",
+    "C": "$5$",
+    "D": "$6$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that $g(5) = 30$. Substituting $5$ for $x$ and $30$ for $g(x)$ in the given function yields $30 = 6(5) + k$, or $30 = 30 + k$. Subtracting $30$ from both sides yields $0 = k$. Therefore, the value of $k$ is $0$.",
+  "source": "https://cooksat.com/practice?questionId=597afdf6&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "57af5aa6",
+  "capturedAt": "2026-11-11T06:23:53.900Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A new car is purchased for $$24,000$. The car depreciates $$1,000$ every year. The function $D$ represents the car's value, in dollars, $t$ years after its purchase. If $D(t-2)=22,000-1,000t$ for all values of $t$, what is the value, in dollars, of $D(3)$?",
+  "choices": {
+    "A": "$15,000$",
+    "B": "$17,000$",
+    "C": "$18,000$",
+    "D": "$21,000$"
+  },
+  "correctAnswer": "B",
+  "explanation": "To find $D(3)$, we need to determine which value of $t$ makes $t-2=3$. Solving this gives $t=5$. Substituting $t=5$ into the given equation $D(t-2)=22{,}000-1{,}000t$ yields $D(3)=22{,}000-1{,}000(5)=22{,}000-5{,}000=17{,}000$. Therefore, $D(3)=17{,}000$.",
+  "source": "https://cooksat.com/practice?questionId=57af5aa6&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

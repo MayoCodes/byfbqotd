@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5eba939b",
+  "capturedAt": "2026-11-11T06:24:04.150Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The cost of renting a kayak is $$84$ for the first hour and $$42$ for each additional hour. Which of the following functions gives the cost $P(h)$, in dollars, of renting the kayak for $h$ hours, where $h$ is a positive integer?",
+  "choices": {
+    "A": "$P(h) = 42h + 42$",
+    "B": "$P(h) = 42h + 84$",
+    "C": "$P(h) = 84h - 42$",
+    "D": "$P(h) = 84h + 126$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the cost of renting a kayak is $$84$ for the first hour and $$42$ for each additional hour. Therefore, the cost $P(h)$, in dollars, of renting the kayak for $h$ hours is the sum of the cost for the first hour, $$84$, and the cost for the additional $h - 1$ hours, $$42(h - 1)$. It follows that $P(h) = 84 + 42(h - 1)$, which is equivalent to $P(h) = 84 + 42h - 42$, or $P(h) = 42h + 42$.",
+  "source": "https://cooksat.com/practice?questionId=5eba939b&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

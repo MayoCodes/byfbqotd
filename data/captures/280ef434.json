@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "280ef434",
+  "capturedAt": "2026-11-11T06:22:46.550Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph represents the total cost, in dollars, charged by a catering company for serving $x$ guests at an event. The company charges a fixed delivery fee plus a per-guest rate. Which of the following is the best interpretation of the slope of the graph?",
+  "choices": {
+    "A": "The company's per-guest rate",
+    "B": "The company's fixed delivery fee",
+    "C": "The maximum amount that the company charges",
+    "D": "The total amount that the company charges"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the catering company charges a fixed delivery fee plus a per-guest rate, and the graph represents the total cost, in dollars, for serving $x$ guests. Since the graph is linear, the total cost $y$ can be represented as $y = mx + b$, where $m$ is the slope and $(0, b)$ is the y-intercept. Because $y$ is the total cost and $x$ is the number of guests, the slope $m$ represents the change in total cost per additional guest, which is the company's per-guest rate.",
+  "source": "https://cooksat.com/practice?questionId=280ef434&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/280ef434/1-1073d57eea664d94.png",
+      "kind": "diagram"
+    }
+  ]
+}

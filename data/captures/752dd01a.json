@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "752dd01a",
+  "capturedAt": "2026-11-11T06:24:29.633Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = -21 - 7x$. For what value of $x$ does $h(x) = -196$?",
+  "choices": {
+    "A": "$-25$",
+    "B": "$25$",
+    "C": "$31$",
+    "D": "$1,351$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the function $h$ is defined by $h(x) = -21 - 7x$. Substituting $-196$ for $h(x)$ in this equation yields $-196 = -21 - 7x$. Adding $21$ to both sides of this equation yields $-175 = -7x$. Dividing both sides of this equation by $-7$ yields $25 = x$. Therefore, the value of $x$ when $h(x) = -196$ is $25$.",
+  "source": "https://cooksat.com/practice?questionId=752dd01a&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

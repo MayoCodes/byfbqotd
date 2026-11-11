@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99048609",
+  "capturedAt": "2026-11-11T06:25:08.225Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of the linear function $y = f(x) + 12$ is shown. If $p$ and $q$ are positive constants, which equation could define $f$?",
+  "choices": {
+    "A": "$f(x) = -q - px$",
+    "B": "$f(x) = -q + px$",
+    "C": "$f(x) = q - px$",
+    "D": "$f(x) = q + px$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The graph of $y = f(x) + 12$ can be translated down $12$ units to obtain the graph of $y = f(x)$, so each y-coordinate decreases by $12$. The y-intercept of the graph of $y = f(x) + 12$ is $(0, 5)$, so the y-intercept of $y = f(x)$ is $(0, 5 - 12)$, or $(0, -7)$, which is negative. The shown graph slants downward from left to right, so its slope is negative, and translating the graph does not change its slope; therefore the slope of $y = f(x)$ is also negative. Writing $f(x) = b + mx$ where $b$ is the y-coordinate of the y-intercept and $m$ is the slope, both $b$ and $m$ are negative. Since $p$ and $q$ are positive constants, $f(x) = -q - px$ could define $f$.",
+  "source": "https://cooksat.com/practice?questionId=99048609&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/99048609/1-d31d272a51d90534.png",
+      "kind": "diagram"
+    }
+  ]
+}

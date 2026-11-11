@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0940ba3e",
+  "capturedAt": "2026-11-11T06:22:01.416Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g(t) = -25t + 500$ gives the predicted height above the ground $g(t)$, in feet, of a hot-air balloon $t$ minutes after it begins to descend. What is the predicted height above the ground, in feet, of the hot-air balloon $4$ minutes after it begins to descend?",
+  "choices": {
+    "A": "$100$",
+    "B": "$400$",
+    "C": "$475$",
+    "D": "$600$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the function $g(t) = -25t + 500$ gives the predicted height above the ground $g(t)$, in feet, of a hot-air balloon $t$ minutes after it begins to descend. Substituting $4$ for $t$ in this function yields $g(4) = -25(4) + 500$, which is equivalent to $g(4) = -100 + 500$, or $g(4) = 400$. Therefore, the predicted height above the ground of the hot-air balloon $4$ minutes after it begins to descend is $400$ feet.",
+  "source": "https://cooksat.com/practice?questionId=0940ba3e&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}

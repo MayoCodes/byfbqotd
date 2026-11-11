@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8be19b22",
+  "capturedAt": "2026-11-11T06:24:56.912Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$h(x) = 42$$\n\nFor the given linear function $h$, which table gives three values of $x$ and their corresponding values of $h(x)$?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $h(x) = 42$. This is a constant function, which means that for any value of $x$, $h(x) = 42$. Therefore, $h(0) = 42$, $h(1) = 42$, and $h(2) = 42$. The table in choice B shows these three values of $x$ and their corresponding values of $h(x)$.",
+  "source": "https://cooksat.com/practice?questionId=8be19b22&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/8be19b22/1-0b717864f875cec4.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/8be19b22/2-e6a8577fd9fa6935.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/8be19b22/3-bf7744232d55ee6e.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/8be19b22/4-bbdbe4d5d5521054.png",
+      "kind": "diagram"
+    }
+  ]
+}

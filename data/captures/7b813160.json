@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b813160",
+  "capturedAt": "2026-11-11T06:24:42.697Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The graph of the function $f$ in the $xy$-plane has a slope of $3$ and a $y$-intercept of $-7$. Which equation defines $f$?",
+  "choices": {
+    "A": "$f(x)=-3x-7$",
+    "B": "$f(x)=3x-7$",
+    "C": "$f(x)=3x+7$",
+    "D": "$f(x)=7x-3$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The slope-intercept form is $f(x) = mx + b$ where $m$ is the slope and $b$ is the $y$-intercept. With slope $m = 3$ and $y$-intercept $b = -7$, the equation is $f(x) = 3x + (-7) = 3x - 7$.",
+  "source": "https://cooksat.com/practice?questionId=7b813160&subject=math&domain=algebra&skills=linear_functions&bank=cooksat",
+  "images": []
+}
