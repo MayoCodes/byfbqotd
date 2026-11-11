@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "452e27f0",
+  "capturedAt": "2026-11-11T06:55:52.481Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A total of $3$ regular pentagons each have side length $p$. A total of $4$ regular hexagons each have side length $h$. None of these pentagons and hexagons shares a side. The sum of the perimeters of all these pentagons and hexagons is $264$. Which equation represents this situation?",
+  "choices": {
+    "A": "$3p + 4h = 264$",
+    "B": "$12p + 12h = 264$",
+    "C": "$15p + 24h = 264$",
+    "D": "$24p + 15h = 264$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $3$ regular pentagons each have side length $p$. Each pentagon has $5$ sides, so each has perimeter $5p$. The sum of the perimeters of the $3$ pentagons is $3(5p) = 15p$. It's given that $4$ regular hexagons each have side length $h$. Each hexagon has $6$ sides, so each has perimeter $6h$. The sum of the perimeters of the $4$ hexagons is $4(6h) = 24h$. The sum of all the perimeters is therefore $15p + 24h$, and this sum equals $264$. The equation $15p + 24h = 264$ represents the situation.",
+  "source": "https://cooksat.com/practice?questionId=452e27f0&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

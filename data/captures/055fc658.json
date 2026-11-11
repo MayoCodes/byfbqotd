@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "055fc658",
+  "capturedAt": "2026-11-11T06:29:55.841Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Line $s$ is defined by $y = -\\frac{(19)}{4}x + 7$. Line $t$ is perpendicular to line $s$ in the xy-plane. What is the slope of line $t$?\n\n$$0$$\n\n$$\\frac{4}{19},.2105,0.210,0.211$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{4}{19},.2105,0.210,0.211$",
+  "explanation": "The correct answer is $\\frac{4}{19}$. It's given that line $t$ is perpendicular to line $s$ in the xy-plane. This means the slope of line $t$ is the negative reciprocal of the slope of line $s$. The equation of line $s$, $y = -\\frac{19}{4}x + 7$, is written in slope-intercept form $y = mx + b$, where $m$ is the slope of the line and $b$ is the y-coordinate of the y-intercept. It follows that the slope of line $s$ is $-\\frac{19}{4}$. The negative reciprocal of $-\\frac{19}{4}$ is $\\frac{-1}{-\\frac{19}{4}}$, or $\\frac{4}{19}$. Thus, the slope of line $t$ is $\\frac{4}{19}$. Note that 4/19, .2105, 0.210, and 0.211 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=055fc658&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

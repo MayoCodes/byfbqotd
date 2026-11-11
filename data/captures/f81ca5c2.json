@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f81ca5c2",
+  "capturedAt": "2026-11-11T06:59:09.553Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Line $s$ is defined by $y = 7x + 12$. Line $t$ is parallel to line $s$ in the $xy$-plane. What is the slope of line $t$?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. It's given that line $s$ is defined by $y = 7x + 12$. A line in the $xy$-plane represented by an equation in slope-intercept form $y = mx + b$ has a slope of $m$ and a $y$-intercept of $(0, b)$. Therefore, the slope of line $s$ is $7$. It's also given that line $t$ is parallel to line $s$ in the $xy$-plane. Since parallel lines have equal slopes, the slope of line $t$ is $7$.",
+  "source": "https://cooksat.com/practice?questionId=f81ca5c2&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

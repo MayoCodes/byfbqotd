@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e91aab8c",
+  "capturedAt": "2026-11-11T06:58:57.223Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Each $2.5$-ounce serving of spinach and each $1.5$-ounce serving of almonds provides about $1$ milligram of iron. If a total of $2.4$ milligrams of iron are consumed from eating $x$ ounces of spinach and $y$ ounces of almonds, which equation best represents this situation?",
+  "choices": {
+    "A": "$0.40x + 0.67y = 2.4$",
+    "B": "$0.67x + 0.40y = 2.4$",
+    "C": "$1.5x + 2.5y = 2.4$",
+    "D": "$2.5x + 1.5y = 2.4$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that each $2.5$-ounce serving of spinach provides about $1$ milligram of iron. Therefore, each ounce of spinach provides $\\frac{1}{2.5}$ milligrams of iron, which is approximately $0.40$ milligrams per ounce. Since $x$ represents the number of ounces of spinach consumed, the total iron from spinach is $0.40x$ milligrams. It's also given that each $1.5$-ounce serving of almonds provides about $1$ milligram of iron. Therefore, each ounce of almonds provides $\\frac{1}{1.5}$ milligrams of iron, which is approximately $0.67$ milligrams per ounce. Since $y$ represents the number of ounces of almonds consumed, the total iron from almonds is $0.67y$ milligrams. The total iron consumed from both foods is $0.40x + 0.67y$ milligrams. Since it's given that a total of $2.4$ milligrams of iron are consumed, the equation $0.40x + 0.67y = 2.4$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=e91aab8c&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

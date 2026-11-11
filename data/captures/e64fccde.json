@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e64fccde",
+  "capturedAt": "2026-11-11T06:58:54.047Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $x + y = 960$ represents the number of occupied seats, $x$, and the number of unoccupied seats, $y$, in an auditorium during a particular performance. If there were $415$ occupied seats during this performance, how many unoccupied seats were there?",
+  "choices": {
+    "A": "$415$",
+    "B": "$545$",
+    "C": "$960$",
+    "D": "$1,375$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the equation $x + y = 960$ represents the number of occupied seats, $x$, and the number of unoccupied seats, $y$, in an auditorium during a particular performance. It's also given that there were $415$ occupied seats. Substituting $415$ for $x$ in the equation $x + y = 960$ yields $415 + y = 960$. Subtracting $415$ from both sides of this equation yields $y = 545$. Therefore, there were $545$ unoccupied seats during this performance.",
+  "source": "https://cooksat.com/practice?questionId=e64fccde&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

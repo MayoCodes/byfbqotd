@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ec6d90e6",
+  "capturedAt": "2026-11-11T06:59:00.576Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nWhich of the following equations represents the relationship between $x$ and $y$ in the table?",
+  "choices": {
+    "A": "$x = y$",
+    "B": "$x = y - 1$",
+    "C": "$x = y + 1$",
+    "D": "$x = 1$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. In each row of the table, the value of $x$ is exactly $1$ more than the value of $y$. This relationship can be written as $x = y + 1$, which is choice C.",
+  "source": "https://cooksat.com/practice?questionId=ec6d90e6&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/ec6d90e6/1-9a8d2305c207a551.png",
+      "kind": "diagram"
+    }
+  ]
+}

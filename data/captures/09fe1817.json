@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "09fe1817",
+  "capturedAt": "2026-11-11T06:30:01.049Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Equation to Table",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A line in the $xy$-plane has equation $ax + by = c$ where $a$, $b$, and $c$ are constants with $a \\ne 0$ and $b \\ne 0$. If this line passes through the point $(2, 1)$ and has slope $m = -\\frac{2}{3}$, what is the value of $\\frac{a}{b}$?",
+  "choices": {
+    "A": "$-\\frac{3}{2}$",
+    "B": "$-\\frac{2}{3}$",
+    "C": "$\\frac{2}{3}$",
+    "D": "$\\frac{3}{2}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Using point-slope form with the point $(2,1)$ and slope $m = -\\frac{2}{3}$ gives $y - 1 = -\\frac{2}{3}(x - 2)$, which simplifies to $y = -\\frac{2}{3}x + \\frac{7}{3}$. Multiplying by $3$ to clear fractions yields $3y = -2x + 7$, or $2x + 3y = 7$ in standard form. Therefore $a = 2$ and $b = 3$, giving $\\frac{a}{b} = \\frac{2}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=09fe1817&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "174cb25d",
+  "capturedAt": "2026-11-11T06:30:25.925Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the xy-plane, line $p$ passes through the point $(0, 0)$ and is parallel to the line represented by the equation $y = 7x + 5$. If line $p$ also passes through the point $(6, w)$, what is the value of $w$?\n\n$$0$$\n\n$$42$$",
+  "choices": {},
+  "correctAnswer": "$42$",
+  "explanation": "The correct answer is $42$. A line in the xy-plane can be defined by the equation $y = mx + b$, where $m$ is the slope of the line and $b$ is the y-coordinate of the y-intercept. Since line $p$ passes through $(0, 0)$, the y-intercept is $0$, so $b = 0$. Since line $p$ is parallel to the line $y = 7x + 5$, it has the same slope, so $m = 7$. Therefore, line $p$ is defined by $y = 7x$. Substituting $x = 6$ and $y = w$ gives $w = 7(6) = 42$.",
+  "source": "https://cooksat.com/practice?questionId=174cb25d&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

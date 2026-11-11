@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3fa26616",
+  "capturedAt": "2026-11-11T06:55:47.832Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A county has an area of $x$ square miles and a population density of $825$ people per square mile. The township adjacent to the county has an area of $y$ square miles and a population density of $420$ people per square mile. The combined population of the county and the township adjacent to the county is $18,690$ people. Which equation represents this situation?",
+  "choices": {
+    "A": "$825x + 420y = 1,245$",
+    "B": "$825x + 420 = 1,245y$",
+    "C": "$825x + 420 = 18,690y$",
+    "D": "$825x + 420y = 18,690$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The county has an area of $x$ square miles and a population density of $825$ people per square mile, so the population of the county is $825x$ people. The township has an area of $y$ square miles and a population density of $420$ people per square mile, so the population of the township is $420y$ people. Since the combined population of the county and the township is $18{,}690$ people, the equation $825x + 420y = 18{,}690$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=3fa26616&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

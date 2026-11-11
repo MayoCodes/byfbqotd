@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4b495b52",
+  "capturedAt": "2026-11-11T06:56:01.393Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $m$ passes through the points $(1,1)$ and $(-2,6)$. What is the equation of line $m$?",
+  "choices": {
+    "A": "$y=-\\frac{5}{3}x-\\frac{(14)}{3}$",
+    "B": "$y=-\\frac{3}{5}x+\\frac{8}{3}$",
+    "C": "$y=-\\frac{5}{3}x+\\frac{8}{3}$",
+    "D": "$y=\\frac{5}{3}x+\\frac{8}{3}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Using the slope formula with points $(1,1)$ and $(-2,6)$: $m=\\frac{6-1}{-2-1}=\\frac{5}{-3}=-\\frac{5}{3}$. To find the y-intercept, substitute point $(1,1)$ into $y=mx+b$: $1=-\\frac{5}{3}(1)+b$, which gives $1=-\\frac{5}{3}+b$. Solving for $b$: $b=1+\\frac{5}{3}=\\frac{3}{3}+\\frac{5}{3}=\\frac{8}{3}$. Therefore, the equation is $y=-\\frac{5}{3}x+\\frac{8}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=4b495b52&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

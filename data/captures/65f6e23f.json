@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "65f6e23f",
+  "capturedAt": "2026-11-11T06:56:22.703Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The y-intercept of the graph of $15x + 4y = 28$ in the xy-plane is $(0, y)$. What is the value of $y$?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. It's given that the y-intercept of the graph of $15x + 4y = 28$ in the xy-plane is $\\left(0, y\\right)$. Substituting $0$ for $x$ in the equation $15x + 4y = 28$ yields $15(0) + 4y = 28$, or $4y = 28$. Dividing both sides of this equation by $4$ yields $y = 7$. Therefore, the value of $y$ is $7$.",
+  "source": "https://cooksat.com/practice?questionId=65f6e23f&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

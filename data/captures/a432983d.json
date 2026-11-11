@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a432983d",
+  "capturedAt": "2026-11-11T06:57:38.171Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows three values of $x$ and their corresponding values of $y$, where $r$ is a constant. There is a linear relationship between $x$ and $y$. Which of the following equations represents this relationship?",
+  "choices": {
+    "A": "$rx + 5y = 22$",
+    "B": "$rx + 5y = 22r$",
+    "C": "$5x + ry = 22$",
+    "D": "$5x + ry = 22r$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The linear relationship between $x$ and $y$ can be represented by an equation of the form $y - y_{1} = m(x - x_{1})$, where $m$ is the slope and $(x_{1}, y_{1})$ is a point on the line. Using the points $(-r, 27)$ and $(r, 17)$ from the table, the slope is $m = \\frac{17 - 27}{r - (-r)} = \\frac{-10}{2r} = -\\frac{5}{r}$. Substituting $-\\frac{5}{r}$ for $m$ and the point $(r, 17)$ into $y - y_{1} = m(x - x_{1})$ yields $y - 17 = -\\frac{5}{r}(x - r)$. Distributing gives $y - 17 = -\\frac{5x}{r} + 5$. Adding $17$ to each side yields $y = -\\frac{5x}{r} + 22$. Multiplying each side by $r$ yields $ry = -5x + 22r$. Adding $5x$ to each side yields $5x + ry = 22r$. Therefore, the equation $5x + ry = 22r$ represents this relationship.",
+  "source": "https://cooksat.com/practice?questionId=a432983d&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/a432983d/1-7d2899385ceaddb2.png",
+      "kind": "diagram"
+    }
+  ]
+}

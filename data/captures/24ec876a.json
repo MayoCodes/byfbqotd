@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "24ec876a",
+  "capturedAt": "2026-11-11T06:55:19.404Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Equation to Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $\\ell$ is defined by $2x+3y=12$. Line $m$ is defined by $kx+6y=18$, where $k$ is a constant. If lines $\\ell$ and $m$ are perpendicular, what is the value of $k$?",
+  "choices": {
+    "A": "$-9$",
+    "B": "$-4$",
+    "C": "$4$",
+    "D": "$9$"
+  },
+  "correctAnswer": "A",
+  "explanation": "To find $k$, first write both equations in slope-intercept form. Line $\\ell$: $2x+3y=12$ becomes $y=-\\frac{2}{3}x+4$, so its slope is $-\\frac{2}{3}$. Line $m$: $kx+6y=18$ becomes $y=-\\frac{k}{6}x+3$, so its slope is $-\\frac{k}{6}$. For perpendicular lines, one slope is the negative reciprocal of the other, so $-\\frac{k}{6}=\\frac{3}{2}$ (the negative reciprocal of $-\\frac{2}{3}$). Solving gives $-k=9$, so $k=-9$.",
+  "source": "https://cooksat.com/practice?questionId=24ec876a&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

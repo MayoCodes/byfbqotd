@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b3e4ebdf",
+  "capturedAt": "2026-11-11T06:58:06.768Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Marcus bought pens and notebooks for $$89$. Each pen cost $$4$, and each notebook cost $$1$. If Marcus bought $12$ pens, how many notebooks did he buy?\n\n$$0$$\n\n$$41$$",
+  "choices": {},
+  "correctAnswer": "$41$",
+  "explanation": "The correct answer is $41$. The number of notebooks Marcus bought can be found by first finding the amount Marcus spent on notebooks. The amount Marcus spent on notebooks can be found by subtracting the amount Marcus spent on pens from the total amount Marcus spent. The amount Marcus spent on pens can be found by multiplying the cost per pen by the number of pens, which yields $$4 \\cdot 12$, or $$48$. Subtracting the amount Marcus spent on pens, $$48$, from the total amount Marcus spent, $$89$, yields $89 - \\ 48, or \\$$41. Since the amount Marcus spent on notebooks was $$41$ and each notebook cost $$1$, it follows that Marcus bought $41$ notebooks.",
+  "source": "https://cooksat.com/practice?questionId=b3e4ebdf&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "828fec79",
+  "capturedAt": "2026-11-11T06:56:58.074Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Equation to Table",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $k$ has equation $3x+2y=18$. Line $j$ is perpendicular to line $k$ and can be represented by the equation $y=\\frac{a}{3}x-7$, where $a$ is a constant. If line $j$ passes through the point $(6,-3)$, what is the value of $a$?",
+  "choices": {
+    "A": "$-3$",
+    "B": "$-2$",
+    "C": "$2$",
+    "D": "$3$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Line $k$ has equation $3x+2y=18$. Rewriting in slope-intercept form: $2y=-3x+18$, so $y=-\\frac{3}{2}x+9$. The slope of line $k$ is $-\\frac{3}{2}$. Since line $j$ is perpendicular to line $k$, the slope of line $j$ is the negative reciprocal: $\\frac{2}{3}$. Line $j$ has equation $y=\\frac{a}{3}x-7$, so its slope is $\\frac{a}{3}$. For perpendicularity: $\\frac{a}{3}=\\frac{2}{3}$, giving $a=2$. Verification: if $a=2$, then $y=\\frac{2}{3}x-7$. Check point $(6,-3)$: $-3=\\frac{2}{3}(6)-7=4-7=-3$",
+  "source": "https://cooksat.com/practice?questionId=828fec79&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

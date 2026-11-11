@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aacc0c8e",
+  "capturedAt": "2026-11-11T06:57:45.414Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Priya contributed a total of $$9,000$ to two college savings accounts last year by contributing $x$ dollars once each month to one account and $y$ dollars three times each month to the other account. Which equation represents this situation?",
+  "choices": {
+    "A": "$9,000 = 12x + 12y$",
+    "B": "$9,000 = 12x + 36y$",
+    "C": "$9,000 = 36x + 12y$",
+    "D": "$9,000 = 36x + 36y$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that Priya contributed $x$ dollars once each month to one account. Since there are $12$ months in a year, the total contributed to this account is $12x$ dollars. It's also given that Priya contributed $y$ dollars three times each month to the other account. Since $y$ dollars is contributed three times each month, the amount contributed per month to this account is $3y$ dollars. Over $12$ months, the total contributed to this account is $12(3y) = 36y$ dollars. Since the total contributed to both accounts is $$9{,}000$, the equation $9{,}000 = 12x + 36y$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=aacc0c8e&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

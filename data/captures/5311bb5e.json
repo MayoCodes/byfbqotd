@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5311bb5e",
+  "capturedAt": "2026-11-11T06:56:06.297Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph models the relationship between the number of notebooks, $x$, and the number of folders, $y$, that Darius can purchase for a classroom supply drive. Which equation could represent this relationship?",
+  "choices": {
+    "A": "$y = 9x + 16$",
+    "B": "$y = 16x + 9$",
+    "C": "$9x + 16y = 720$",
+    "D": "$16x + 9y = 720$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A line in the xy-plane can be written as $y = mx + b$, where $m$ is the slope and $b$ is the y-coordinate of the y-intercept. The graph passes through $(0, 45)$ and $(80, 0)$. Substituting $(0, 45)$ into $y = mx + b$ yields $45 = b$. Substituting $(80, 0)$ and $b = 45$ into $y = mx + b$ yields $0 = 80m + 45$, so $m = -\\frac{45}{80} = -\\frac{9}{16}$. Therefore, $y = -\\frac{9}{16}x + 45$. Multiplying both sides by $18$... multiplying both sides by $16$ yields $16y = -9x + 720$, and adding $9x$ to both sides gives $9x + 16y = 720$.",
+  "source": "https://cooksat.com/practice?questionId=5311bb5e&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5311bb5e/1-53dae6c688a98dce.png",
+      "kind": "diagram"
+    }
+  ]
+}

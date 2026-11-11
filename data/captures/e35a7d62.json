@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e35a7d62",
+  "capturedAt": "2026-11-11T06:58:45.664Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "What is the y-coordinate of the y-intercept of the graph of $\\frac{(4x)}{(11)} = -\\frac{(7y)}{3} + 17$ in the xy-plane?\n\n$$0$$\n\n$$\\frac{51}{7},7.285,7.286$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{51}{7},7.285,7.286$",
+  "explanation": "The correct answer is $\\frac{51}{7}$. A y-intercept of a graph in the xy-plane is a point where the graph intersects the y-axis, which is a point with an x-coordinate of $0$. Substituting $0$ for $x$ in the given equation yields $\\frac{4(0)}{11} = -\\frac{7y}{3} + 17$, or $0 = -\\frac{7y}{3} + 17$. Subtracting $17$ from both sides of this equation yields $-17 = -\\frac{7y}{3}$. Multiplying both sides of this equation by $-3$ yields $51 = 7y$. Dividing both sides of this equation by $7$ yields $\\frac{51}{7} = y$. Therefore, the y-coordinate of the y-intercept of the graph of the given equation in the xy-plane is $\\frac{51}{7}$. Note that 51/7, 7.285, and 7.286 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=e35a7d62&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

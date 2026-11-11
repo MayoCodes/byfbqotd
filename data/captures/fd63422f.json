@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fd63422f",
+  "capturedAt": "2026-11-11T06:59:11.096Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$1.5m + 3l = 45$$\n\nThe given equation describes the relationship between the number of muffins, $m$, and the number of loaves of bread, $l$, that a bakery can produce in one hour. If the bakery produces $15$ loaves of bread in one hour, how many muffins can it produce in this hour?",
+  "choices": {
+    "A": "$0$",
+    "B": "$10$",
+    "C": "$30$",
+    "D": "$45$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the equation $1.5m + 3l = 45$ describes the relationship between the number of muffins, $m$, and the number of loaves of bread, $l$, that a bakery can produce in one hour. It's also given that the bakery produces $15$ loaves of bread in one hour. Substituting $15$ for $l$ in the given equation yields $1.5m + 3(15) = 45$, or $1.5m + 45 = 45$. Subtracting $45$ from both sides of this equation yields $1.5m = 0$. Dividing both sides of this equation by $1.5$ yields $m = 0$. Therefore, the bakery can produce $0$ muffins in this hour.",
+  "source": "https://cooksat.com/practice?questionId=fd63422f&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

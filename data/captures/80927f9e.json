@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "80927f9e",
+  "capturedAt": "2026-11-11T06:56:53.736Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Intercept",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$5x - 2y = -30$$\n\nFor the given equation, which table gives three values of $x$ and their corresponding values of $y$?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Each of the given choices gives three values of $x$: $0$, $2$, and $4$, or $15$, $20$, and $25$. Substituting $0$ for $x$ in the given equation yields $5(0) - 2y = -30$, or $-2y = -30$. Dividing both sides by $-2$ yields $y = 15$. Substituting $2$ for $x$ yields $5(2) - 2y = -30$, or $10 - 2y = -30$. Subtracting $10$ from both sides yields $-2y = -40$. Dividing both sides by $-2$ yields $y = 20$. Substituting $4$ for $x$ yields $5(4) - 2y = -30$, or $20 - 2y = -30$. Subtracting $20$ from both sides yields $-2y = -50$. Dividing both sides by $-2$ yields $y = 25$. Thus, if the three values of $x$ are $0$, $2$, and $4$, then their corresponding values of $y$ are $15$, $20$, and $25$, respectively, for the given equation.",
+  "source": "https://cooksat.com/practice?questionId=80927f9e&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/80927f9e/1-4b943464e7de2a62.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/80927f9e/2-d638a2a2354b2410.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/80927f9e/3-2b23ad1a7552f37a.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/80927f9e/4-6f01fc1049f66d18.png",
+      "kind": "diagram"
+    }
+  ]
+}

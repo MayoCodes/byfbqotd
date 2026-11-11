@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c37d7991",
+  "capturedAt": "2026-11-11T06:58:15.311Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Last month, a tutor earned a total of $$720$ from tutoring sessions and from babysitting. The equation $18t + 12b = 720$ represents this situation, where $t$ is the number of hours spent tutoring and $b$ is the number of hours spent babysitting. Which of the following is the best interpretation of $18$ in this context?",
+  "choices": {
+    "A": "The amount, in dollars, the tutor earned for each hour spent tutoring",
+    "B": "The amount, in dollars, the tutor earned for each hour spent babysitting",
+    "C": "The number of hours the tutor spent tutoring last month",
+    "D": "The number of hours the tutor spent babysitting last month"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the equation $18t + 12b = 720$ represents the situation, where $t$ is the number of hours spent tutoring and $b$ is the number of hours spent babysitting. Since the tutor spent $t$ hours tutoring, the expression $18t$ represents the total amount, in dollars, the tutor earned from tutoring. Therefore, $18$ is the amount, in dollars, the tutor earned for each hour spent tutoring.",
+  "source": "https://cooksat.com/practice?questionId=c37d7991&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

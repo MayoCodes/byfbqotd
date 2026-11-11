@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6d0f2ff0",
+  "capturedAt": "2026-11-11T06:56:31.441Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Equation to Table",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A line has the equation $y = kx - 1$, where $k$ is a constant. If the line passes through the point $(2, 2)$, what is the value of $k$?\n\n$$0$$\n\n$$\\frac{3}{2},1.5,1.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{3}{2},1.5,1.50$",
+  "explanation": "The correct answer is $\\frac{3}{2}$. It's given that the line has the equation $y = kx - 1$ and passes through the point $(2, 2)$. To find the value of $k$, substitute the coordinates of the point into the equation. Substituting $x = 2$ and $y = 2$ into $y = kx - 1$ yields $2 = k(2) - 1$, which can be rewritten as $2 = 2k - 1$. Adding $1$ to both sides of this equation yields $3 = 2k$. Dividing both sides by $2$ yields $k = \\frac{3}{2}$. Therefore, the value of $k$ is $\\frac{3}{2}$. Note that 3/2, 1.5, and 1.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=6d0f2ff0&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

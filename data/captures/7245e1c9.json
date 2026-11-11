@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7245e1c9",
+  "capturedAt": "2026-11-11T06:56:33.170Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x + y = 48$$\n\nThe equation above relates the number of pages, $x$, Devon reads each week and the number of pages, $y$, he writes each week. In the equation, what does the number $48$ represent?",
+  "choices": {
+    "A": "The number of pages read each week",
+    "B": "The number of pages written each week",
+    "C": "The number of pages written for each page read",
+    "D": "The total number of pages read and written each week"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Devon reads $x$ pages each week and writes $y$ pages each week. Therefore, $x + y$ represents the total number of pages Devon reads and writes each week. Because $x + y = 48$, it follows that $48$ is the total number of pages Devon reads and writes each week.",
+  "source": "https://cooksat.com/practice?questionId=7245e1c9&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

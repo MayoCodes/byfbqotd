@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8e9c7446",
+  "capturedAt": "2026-11-11T06:57:12.718Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{x}{4} + \\frac{y}{9} = \\frac{(13)}{(36)}$$\n\nA pharmacist prepares a compound by combining two types of tablets, where the total mass of active ingredient is $\\frac{(13)}{(36)}$ grams. The compound contains $x$ tablets of type P, which each contribute $a$ grams of active ingredient, and $y$ tablets of type Q, which each contribute $b$ grams of active ingredient. The given equation represents this situation. According to this equation, what is the positive difference between the value of $a$ and the value of $b$?",
+  "choices": {
+    "A": "$\\frac{5}{(36)}$",
+    "B": "$\\frac{(13)}{(36)}$",
+    "C": "$5$",
+    "D": "$13$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the compound contains $x$ tablets of type P, each contributing $a$ grams, and $y$ tablets of type Q, each contributing $b$ grams, with a total mass of active ingredient of $\\frac{13}{36}$ grams. Since the total equals the sum of the individual contributions, $x \\cdot a + y \\cdot b = \\frac{13}{36}$. The given equation $\\frac{x}{4} + \\frac{y}{9} = \\frac{13}{36}$ can be rewritten as $x \\cdot \\frac{1}{4} + y \\cdot \\frac{1}{9} = \\frac{13}{36}$. Comparing these equations shows that $a = \\frac{1}{4}$ and $b = \\frac{1}{9}$. The positive difference between $a$ and $b$ is $\\frac{1}{4} - \\frac{1}{9} = \\frac{9}{36} - \\frac{4}{36} = \\frac{5}{36}$.",
+  "source": "https://cooksat.com/practice?questionId=8e9c7446&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

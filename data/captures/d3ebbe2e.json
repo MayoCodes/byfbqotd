@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d3ebbe2e",
+  "capturedAt": "2026-11-11T06:58:29.530Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $j$ is parallel to line $k$. Line $k$ is defined by $y + 11 = 4x$. What is the slope of line $j$?",
+  "choices": {
+    "A": "$-11$",
+    "B": "$-4$",
+    "C": "$4$",
+    "D": "$11$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that line $j$ is parallel to line $k$ in the $xy$-plane. Parallel lines have the same slope. Therefore, the slope of line $j$ is equal to the slope of line $k$. The equation for line $k$ can be rewritten in slope-intercept form $y = mx + b$, where $m$ is the slope and $b$ is the y-intercept. Subtracting $11$ from both sides of the equation $y + 11 = 4x$ yields $y = 4x - 11$. This equation is in the form $y = mx + b$, where $m = 4$. Therefore, the slope of line $k$ is $4$, and the slope of line $j$ is also $4$.",
+  "source": "https://cooksat.com/practice?questionId=d3ebbe2e&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

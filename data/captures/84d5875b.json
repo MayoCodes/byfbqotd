@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "84d5875b",
+  "capturedAt": "2026-11-11T06:57:04.651Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $k$ in the xy-plane is defined by $4x - 3y = 12$. Line $j$ is perpendicular to line $k$. What is the slope of line $j$?",
+  "choices": {
+    "A": "$-\\frac{4}{3}$",
+    "B": "$-\\frac{3}{4}$",
+    "C": "$\\frac{3}{4}$",
+    "D": "$\\frac{4}{3}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "To find the slope of line $k$, rewrite $4x - 3y = 12$ in slope-intercept form. Subtracting $4x$ from both sides gives $-3y = -4x + 12$. Dividing by $-3$ gives $y = \\frac{4}{3}x - 4$, so the slope of line $k$ is $\\frac{4}{3}$. Since line $j$ is perpendicular to line $k$, the slope of line $j$ is the negative reciprocal of $\\frac{4}{3}$, which is $-\\frac{3}{4}$.",
+  "source": "https://cooksat.com/practice?questionId=84d5875b&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

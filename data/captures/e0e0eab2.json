@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e0e0eab2",
+  "capturedAt": "2026-11-11T06:58:44.116Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$18.4 x + 18.75 y = 409$$\n\nMarcus ordered mulch and gravel, which cost a total of $$409$, for a landscaping project. The given equation represents the relationship between the number of cubic yards of mulch, $x$, and the number of tons of gravel, $y$, that Marcus ordered. How much more, in dollars, did a ton of gravel cost Marcus than a cubic yard of mulch?\n\n$$0$$\n\n$$\\frac{7}{20},.35,.350,0.35$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{7}{20},.35,.350,0.35$",
+  "explanation": "The correct answer is $\\frac{7}{20}$. It's given that the mulch and gravel Marcus ordered cost a total of $$409$, and that the equation $18.4x + 18.75y = 409$ represents the relationship between the number of cubic yards of mulch, $x$, and the number of tons of gravel, $y$, that Marcus ordered. Since $x$ represents the number of cubic yards of mulch ordered, $18.4x$ represents the total cost, in dollars, of the mulch, and the cost per cubic yard of mulch is $$18.40$. Similarly, since $y$ represents the number of tons of gravel ordered, $18.75y$ represents the total cost, in dollars, of the gravel, and the cost per ton of gravel is $$18.75$. Therefore, a ton of gravel cost Marcus $18.75 - 18.40$, or $0.35$, more dollars than a cubic yard of mulch. Note that 7/20, .35, .350, and 0.35 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=e0e0eab2&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

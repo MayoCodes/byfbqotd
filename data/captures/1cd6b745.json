@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1cd6b745",
+  "capturedAt": "2026-11-11T06:30:33.083Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $m$ in the $xy$-plane passes through the point $(0,-1)$ and has a slope of $\\frac{3}{4}$. Which equation defines line $m$?",
+  "choices": {
+    "A": "$y=-\\frac{4}{3}x-1$",
+    "B": "$y=-\\frac{3}{4}x-1$",
+    "C": "$y=\\frac{3}{4}x-1$",
+    "D": "$y=\\frac{4}{3}x-1$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Using the slope-intercept form $y=mx+b$ where $m=\\frac{3}{4}$ (given slope) and $b=-1$ (given $y$-intercept from point $(0,-1)$), the equation is $y=\\frac{3}{4}x-1$.",
+  "source": "https://cooksat.com/practice?questionId=1cd6b745&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

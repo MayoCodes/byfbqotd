@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "233b0b43",
+  "capturedAt": "2026-11-11T06:30:37.729Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Last month, a freelance tutor earned a total of $$802$ from tutoring math for $x$ hours and grading assignments for $y$ hours. The equation $42x + 55y = 802$ represents this situation. Which of the following is the best interpretation of $42$ in this context?",
+  "choices": {
+    "A": "The freelance tutor earned $$42$ per hour tutoring math last month.",
+    "B": "The freelance tutor earned $$42$ per hour grading assignments last month.",
+    "C": "The freelance tutor tutored math for $42$ hours last month.",
+    "D": "The freelance tutor graded assignments for $42$ hours last month."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that $42x + 55y = 802$ represents the situation where a freelance tutor earned a total of $$802$ last month from tutoring math for $x$ hours and grading assignments for $y$ hours. Thus, $42x$ represents the amount earned, in dollars, from tutoring math for $x$ hours, and $55y$ represents the amount earned, in dollars, from grading assignments for $y$ hours. Since $42x$ represents the amount earned, in dollars, from tutoring math for $x$ hours, it follows that the freelance tutor earned $$42$ per hour tutoring math last month.",
+  "source": "https://cooksat.com/practice?questionId=233b0b43&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

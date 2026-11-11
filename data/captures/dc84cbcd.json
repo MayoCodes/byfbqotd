@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dc84cbcd",
+  "capturedAt": "2026-11-11T06:58:40.320Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A $3$D printer produces large figurines or small figurines, one at a time, for a total of $480$ minutes each day. It takes the printer $8$ minutes to produce a large figurine or $3$ minutes to produce a small figurine. Which equation represents the possible number of large figurines, $x$, and small figurines, $y$, the printer can produce each day?",
+  "choices": {
+    "A": "$3x + 8y = 480$",
+    "B": "$8x + 3y = 480$",
+    "C": "$(x + y)(8 + 3) = 480$",
+    "D": "$(8 + x)(3 + y) = 480$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that it takes the printer $8$ minutes to produce a large figurine and that $x$ represents the possible number of large figurines produced each day. Multiplying $8$ by $x$ gives $8x$, the amount of time spent producing large figurines. It's given that it takes the printer $3$ minutes to produce a small figurine and that $y$ represents the possible number of small figurines produced each day. Multiplying $3$ by $y$ gives $3y$, the amount of time spent producing small figurines. Combining these yields $8x + 3y$. Since the printer runs for a total of $480$ minutes each day, $8x + 3y = 480$ represents the possible number of large figurines, $x$, and small figurines, $y$, the printer can produce each day.",
+  "source": "https://cooksat.com/practice?questionId=dc84cbcd&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

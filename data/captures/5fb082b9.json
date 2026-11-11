@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5fb082b9",
+  "capturedAt": "2026-11-11T06:56:16.588Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $p$ and line $w$ are perpendicular and intersect at the point $(5, 4)$. If line $p$ is defined by the equation $y = rx + c$, where $r$ and $c$ are constants and $r > 1$, which of the following points lies on line $w$?",
+  "choices": {
+    "A": "$(7, 4 - \\frac{2}{r})$",
+    "B": "$(7, 4 + \\frac{2}{r})$",
+    "C": "$(7, 4 - 2r)$",
+    "D": "$(7, 4 + 2r)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Two lines are perpendicular if and only if the product of their slopes is $-1$. Since line $p$ has equation $y = rx + c$, the slope of line $p$ is $r$. Because line $w$ is perpendicular to line $p$, the slope of line $w$ is $-\\frac{1}{r}$. A line with slope $s$ passing through $(x_{1}, y_{1})$ can be written as $y - y_{1} = s(x - x_{1})$. Since line $w$ passes through $(5, 4)$, substituting $-\\frac{1}{r}$ for $s$, $5$ for $x_{1}$, and $4$ for $y_{1}$ gives $y - 4 = -\\frac{1}{r}(x - 5)$. Substituting $7$ for $x$ yields $y - 4 = -\\frac{1}{r}(7 - 5) = -\\frac{2}{r}$, so $y = 4 - \\frac{2}{r}$. Therefore, the point $\\left(7, 4 - \\frac{2}{r}\\right)$ lies on line $w$.",
+  "source": "https://cooksat.com/practice?questionId=5fb082b9&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

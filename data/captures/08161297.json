@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "08161297",
+  "capturedAt": "2026-11-11T06:29:59.060Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph shows the relationship between the number of loaves of bread from Bakery X, $x$, and the number of loaves of bread from Bakery Y, $y$, that Priya can purchase. Which equation could represent this relationship?",
+  "choices": {
+    "A": "$y = 2x + 5$",
+    "B": "$y = 5x + 2$",
+    "C": "$2x + 5y = 140$",
+    "D": "$5x + 2y = 140$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A line in the xy-plane can be written as $y = mx + b$, where $m$ is the slope of the line and $b$ is the y-coordinate of the y-intercept. The graph shown is a line passing through the points $(0, 28)$ and $(70, 0)$. Substituting $0$ for $x$ and $28$ for $y$ in the equation $y = mx + b$ yields $28 = m(0) + b$, or $28 = b$. Substituting $28$ for $b$, $70$ for $x$, and $0$ for $y$ in the equation $y = mx + b$ yields $0 = 70m + 28$. Subtracting $28$ from both sides yields $-28 = 70m$. Dividing both sides by $70$ yields $m = -\\frac{28}{70}$, or $m = -\\frac{2}{5}$. Substituting $-\\frac{2}{5}$ for $m$ and $28$ for $b$ in $y = mx + b$ yields $y = -\\frac{2}{5}x + 28$. Multiplying both sides by $5$ yields $5y = -2x + 140$. Adding $2x$ to both sides yields $2x + 5y = 140$. Therefore, the equation $2x + 5y = 140$ represents the relationship between $x$ and $y$ modeled by the graph.",
+  "source": "https://cooksat.com/practice?questionId=08161297&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/08161297/1-4fa8123281084c81.png",
+      "kind": "diagram"
+    }
+  ]
+}

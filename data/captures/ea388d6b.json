@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ea388d6b",
+  "capturedAt": "2026-11-11T06:58:58.963Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A community garden uses small and large planter boxes to hold a total of $58$ seedlings. Each small planter box holds $1$ seedling, and each large planter box holds $3$ seedlings. Which equation represents this situation, where $c$ is the number of small planter boxes and $v$ is the number of large planter boxes the community garden uses?",
+  "choices": {
+    "A": "$c+v=58$",
+    "B": "$c+3v=58$",
+    "C": "$3c+v=58$",
+    "D": "$3c+3v=58$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that each small planter box holds $1$ seedling. Multiplying $1$ by the number of small planter boxes, $c$, yields $c$, the total number of seedlings in the small boxes. It's also given that each large planter box holds $3$ seedlings. Multiplying $3$ by the number of large planter boxes, $v$, yields $3v$, the total number of seedlings in the large boxes. It follows that the total number of seedlings in all boxes is $c + 3v$. Since the community garden holds a total of $58$ seedlings, the equation $c + 3v = 58$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=ea388d6b&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

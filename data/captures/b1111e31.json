@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b1111e31",
+  "capturedAt": "2026-11-11T06:57:59.946Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Maya bikes at a speed of $4$ miles per hour and kayaks at a speed of $7$ miles per hour. She bikes for $b$ hours and kayaks for $k$ hours for a combined total of $26$ miles. Which equation represents this situation?",
+  "choices": {
+    "A": "$\\frac{1}{4} b + \\frac{1}{7} k = 26$",
+    "B": "$\\frac{1}{4} b + \\frac{1}{7} k = 728$",
+    "C": "$4 b + 7 k = 26$",
+    "D": "$4 b + 7 k = 728$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since Maya bikes at a speed of $4$ miles per hour for $b$ hours, she bikes a total of $4b$ miles. Since Maya kayaks at a speed of $7$ miles per hour for $k$ hours, she kayaks a total of $7k$ miles. Therefore, the total number of miles Maya travels can be represented by $4b + 7k$. Since the combined total number of miles is $26$, the equation $4b + 7k = 26$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=b1111e31&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a8cdb54c",
+  "capturedAt": "2026-11-11T06:57:41.997Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Marisol bought some apples and bananas. The apples cost $$0.45$ per pound, and the bananas cost $$0.85$ per pound. If Marisol spent $$6.00$ in total and bought three times as many pounds of bananas as pounds of apples, how many pounds of bananas did Marisol buy?",
+  "choices": {
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4.5$",
+    "D": "$6$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Let $a$ represent the number of pounds of apples and let $b$ represent the number of pounds of bananas that Marisol bought. It's given that apples cost $$0.45$ per pound and bananas cost $$0.85$ per pound. If Marisol spent $$6.00$ in total, then the equation $0.45 a + 0.85 b = 6.00$ represents this situation. It's also given that Marisol bought three times as many pounds of bananas as pounds of apples; therefore, $b = 3 a$. Substituting $3 a$ for $b$ in the equation $0.45 a + 0.85 b = 6.00$ yields $0.45 a + 0.85 \\left( 3 a \\right) = 6.00$, which is equivalent to $0.45 a + 2.55 a = 6.00$, or $3.00 a = 6.00$. Dividing both sides of this equation by $3.00$ yields $a = 2$. Substituting $2$ for $a$ in the equation $b = 3 a$ yields $b = 3 \\left( 2 \\right)$, or $b = 6$. Therefore, Marisol bought $6$ pounds of bananas.",
+  "source": "https://cooksat.com/practice?questionId=a8cdb54c&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

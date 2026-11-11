@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "101393a8",
+  "capturedAt": "2026-11-11T06:30:12.124Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the xy-plane, line $k$ passes through the points $(2,1)$ and $(6,9)$. Which of the following equations defines line $k$?",
+  "choices": {
+    "A": "$y=\\frac{1}{2}x$",
+    "B": "$y=2x-3$",
+    "C": "$y=2x+1$",
+    "D": "$y=2x+5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The slope is $m=\\frac{9-1}{6-2}=\\frac{8}{4}=2$. Using point-slope form with point $(2,1)$: $y-1=2(x-2)$, which simplifies to $y-1=2x-4$, or $y=2x-3$.",
+  "source": "https://cooksat.com/practice?questionId=101393a8&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

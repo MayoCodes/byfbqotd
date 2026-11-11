@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "462f91f6",
+  "capturedAt": "2026-11-11T06:55:54.145Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Intercept",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{2}{7} x + \\frac{3}{5} y = 6$$\n\nWhich table gives three values of $x$ and their corresponding values of $y$ for the given equation?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Each of the tables gives the same three values of $x$: $1$, $2$, and $4$. Substituting $1$ for $x$ in the given equation yields $\\left( \\frac{2}{7} \\right) \\left( 1 \\right) + \\frac{3}{5} y = 6$, or $\\frac{2}{7} + \\frac{3}{5} y = \\frac{42}{7}$. Subtracting $\\frac{2}{7}$ from both sides of this equation yields $\\frac{3}{5} y = \\frac{40}{7}$. Multiplying both sides of this equation by $\\frac{5}{3}$ yields $y = \\frac{200}{21}$. Substituting $2$ for $x$ in the given equation yields $\\frac{4}{7} + \\frac{3}{5} y = \\frac{42}{7}$. Subtracting $\\frac{4}{7}$ from both sides yields $\\frac{3}{5} y = \\frac{38}{7}$, and multiplying by $\\frac{5}{3}$ yields $y = \\frac{190}{21}$. Substituting $4$ for $x$ in the given equation yields $\\frac{8}{7} + \\frac{3}{5} y = \\frac{42}{7}$. Subtracting $\\frac{8}{7}$ from both sides yields $\\frac{3}{5} y = \\frac{34}{7}$, and multiplying by $\\frac{5}{3}$ yields $y = \\frac{170}{21}$. The table in choice D gives x-values of $1$, $2$, and $4$ and corresponding y-values of $\\frac{200}{21}$, $\\frac{190}{21}$, and $\\frac{170}{21}$, respectively.",
+  "source": "https://cooksat.com/practice?questionId=462f91f6&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/462f91f6/1-f5e6737e3dbb3087.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/462f91f6/2-6dcf6dae3104601e.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/462f91f6/3-46c5185823238d7e.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/462f91f6/4-79193dc513d16fa0.png",
+      "kind": "diagram"
+    }
+  ]
+}

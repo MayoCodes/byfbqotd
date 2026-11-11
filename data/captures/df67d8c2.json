@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "df67d8c2",
+  "capturedAt": "2026-11-11T06:58:41.930Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nWhich of the following equations represents the relationship between $x$ and $y$ shown in the table?",
+  "choices": {
+    "A": "$y = 2x + 2$",
+    "B": "$y = 2x + 3$",
+    "C": "$y = 2x + 4$",
+    "D": "$y = 2x + 5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The table shows a linear relationship between $x$ and $y$; therefore, the relationship can be represented by an equation of the form $y = mx + b$, where $m$ is the slope of the line and $b$ is the $y$-intercept of the line. To find the slope, the change in $y$ is divided by the change in $x$. For the points $(0, 4)$ and $(1, 6)$, the change in $y$ is $6 - 4 = 2$, and the change in $x$ is $1 - 0 = 1$. Thus, the slope is $\\frac{2}{1} = 2$. Therefore, the equation for this relationship is $y = 2x + b$. To find the value of $b$, substitute the $x$- and $y$-values of one of the points into the equation $y = 2x + b$. For example, substituting the $x$- and $y$-values of the first point gives $4 = 2(0) + b$, or $b = 4$. Therefore, the equation that represents the relationship between $x$ and $y$ is $y = 2x + 4$. So the correct answer is choice C.",
+  "source": "https://cooksat.com/practice?questionId=df67d8c2&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/df67d8c2/1-23a91874f259f44c.png",
+      "kind": "diagram"
+    }
+  ]
+}

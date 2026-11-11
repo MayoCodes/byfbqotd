@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "44656e2c",
+  "capturedAt": "2026-11-11T06:55:50.946Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the y-intercept of the graph of $y = 47x + 62$ in the xy-plane?",
+  "choices": {
+    "A": "$(0, -62)$",
+    "B": "$(0, -47)$",
+    "C": "$(0, 47)$",
+    "D": "$(0, 62)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In the xy-plane, the graph of an equation in the form $y = mx + b$, where $m$ and $b$ are constants, has a slope of $m$ and a y-intercept of $(0, b)$. For the equation $y = 47x + 62$, the value of $b$ is $62$. Therefore, the y-intercept of the graph is $(0, 62)$.",
+  "source": "https://cooksat.com/practice?questionId=44656e2c&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "39b830c3",
+  "capturedAt": "2026-11-11T06:55:40.916Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Intercept",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = x + 7$$\n\nWhich table gives three values of $x$ and their corresponding values of $y$ for the given equation?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Substituting $0$ for $x$ into the given equation yields $y = 0 + 7$, or $y = 7$. Therefore, when $x = 0$, the corresponding value of $y$ is $7$. Substituting $1$ for $x$ yields $y = 1 + 7$, or $y = 8$. Therefore, when $x = 1$, the corresponding value of $y$ is $8$. Substituting $2$ for $x$ yields $y = 2 + 7$, or $y = 9$. Therefore, when $x = 2$, the corresponding value of $y$ is $9$. Of the choices given, only the table in choice D gives these three values of $x$ and their corresponding values of $y$ for the given equation.",
+  "source": "https://cooksat.com/practice?questionId=39b830c3&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/39b830c3/1-4a5df02af0ae875d.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/39b830c3/2-860fd1df5afdddb5.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/39b830c3/3-9e14ce3e68d7a7d3.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/39b830c3/4-044c673ed59d9e6c.png",
+      "kind": "diagram"
+    }
+  ]
+}

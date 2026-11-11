@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f3821c0a",
+  "capturedAt": "2026-11-11T06:59:05.989Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nLine $p$ is shown in the $xy$-plane. Line $w$ (not shown) is parallel to line $p$. What is the slope of line $w$?\n\n$$0$$\n\n$$3$$",
+  "choices": {},
+  "correctAnswer": "$3$",
+  "explanation": "The correct answer is $3$. It's given that line $w$ is parallel to line $p$. It follows that the slope of line $w$ is equal to the slope of line $p$. Given two points on a line in the $xy$-plane, $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$, the slope of the line can be calculated as $\\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. In the $xy$-plane shown, the points $(0, -2)$ and $(1, 1)$ are on line $p$. It follows that the slope of line $p$ is $\\frac{1 - (-2)}{1 - 0}$, or $3$. Since the slope of line $w$ is equal to the slope of line $p$, the slope of line $w$ is also $3$.",
+  "source": "https://cooksat.com/practice?questionId=f3821c0a&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f3821c0a/1-d2a45d67cbe678bc.png",
+      "kind": "diagram"
+    }
+  ]
+}

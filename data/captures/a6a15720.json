@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a6a15720",
+  "capturedAt": "2026-11-11T06:57:40.386Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A university library has a total of $x$ thousand books in its collection. The library has $y$ thousand books in the fiction section and $478$ thousand books in all other sections combined. Which of the following represents the relationship between $x$ and $y$ in this context?",
+  "choices": {
+    "A": "$x + y = 478$",
+    "B": "$x - y = 478$",
+    "C": "$2x - y = 478$",
+    "D": "$y - x = 478$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The library's total collection consists of $y$ thousand books in fiction and $478$ thousand books in other sections. Thus $y + 478$ represents the total number of books, in thousands. Since the total is $x$ thousand, it follows that $y + 478 = x$. Subtracting $y$ from both sides yields $478 = x - y$, which is equivalent to $x - y = 478$.",
+  "source": "https://cooksat.com/practice?questionId=a6a15720&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

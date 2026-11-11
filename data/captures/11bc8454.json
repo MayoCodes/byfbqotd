@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "11bc8454",
+  "capturedAt": "2026-11-11T06:30:18.073Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhat is an equation of the graph shown?",
+  "choices": {
+    "A": "$3x - 4y = -32$",
+    "B": "$4x - 3y = -32$",
+    "C": "$12x - 16y = -32$",
+    "D": "$16x - 12y = -32$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. From the graph, the line passes through the point $(4, 5)$. Substituting $x = 4$ and $y = 5$ into each answer choice determines which equation the point satisfies. For choice C: $12(4) - 16(5) = 48 - 80 = -32$. This equals $-32$, so the point $(4, 5)$ lies on the line $12x - 16y = -32$. The equation $12x - 16y = -32$ can be rewritten as $y = \\frac{3}{4}x + 2$, which has slope $\\frac{3}{4}$ and $y$-intercept $2$. These values are consistent with the graph shown.",
+  "source": "https://cooksat.com/practice?questionId=11bc8454&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/11bc8454/1-5e208e6358518bf2.png",
+      "kind": "diagram"
+    }
+  ]
+}

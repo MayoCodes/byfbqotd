@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5f2ae64b",
+  "capturedAt": "2026-11-11T06:56:14.949Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A delivery contains $4$-pound crates and $7$-pound crates with a total weight of $178$ pounds. There are $18$ $7$-pound crates in the delivery. How many $4$-pound crates are in the delivery?",
+  "choices": {
+    "A": "$7$",
+    "B": "$13$",
+    "C": "$18$",
+    "D": "$52$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Let $x$ represent the number of $4$-pound crates and $y$ represent the number of $7$-pound crates in the delivery. The total weight gives the equation $4x + 7y = 178$. Substituting $18$ for $y$ in this equation yields $4x + 7(18) = 178$, or $4x + 126 = 178$. Subtracting $126$ from both sides gives $4x = 52$. Dividing both sides by $4$ yields $x = 13$. Therefore, there are $13$ $4$-pound crates in the delivery.",
+  "source": "https://cooksat.com/practice?questionId=5f2ae64b&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

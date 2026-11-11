@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a9ae8108",
+  "capturedAt": "2026-11-11T06:57:43.582Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph in the xy-plane models the possible combinations of length $x$, in meters (m), and width $y$, in meters, for a rectangle with a perimeter of $48$ m. Which statement is the best interpretation of the point $(7, 17)$ in this context?",
+  "choices": {
+    "A": "The length is $7$ m, and the width is $17$ m.",
+    "B": "The length is $17$ m, and the width is $7$ m.",
+    "C": "The length is $7$ m less than the perimeter, and the width is $17$ m less than the perimeter.",
+    "D": "The length is $17$ m less than the perimeter, and the width is $7$ m less than the perimeter."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the graph in the xy-plane models the possible combinations of length $x$, in meters (m), and width $y$, in meters, for a rectangle with a perimeter of $48$ m. Since $x$ represents the length, in meters, and $y$ represents the width, in meters, the point $(7, 17)$ in the xy-plane represents a rectangle whose length is $7$ m and whose width is $17$ m.",
+  "source": "https://cooksat.com/practice?questionId=a9ae8108&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a9ae8108/1-182eced832123b66.png",
+      "kind": "diagram"
+    }
+  ]
+}

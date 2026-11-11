@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "56ba016d",
+  "capturedAt": "2026-11-11T06:56:08.366Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A professor is designing an exam worth $60$ points. The exam will consist of short-answer questions worth $1$ point each and essay questions worth $4$ points each. Which equation represents this situation, where $x$ represents the number of short-answer questions and $y$ represents the number of essay questions?",
+  "choices": {
+    "A": "$x + 4y = 60$",
+    "B": "$4x + y = 60$",
+    "C": "$5xy = 60$",
+    "D": "$5(x + y) = 60$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $x$ represents the number of $1$-point short-answer questions and $y$ represents the number of $4$-point essay questions, the exam is worth a total of $1 \\cdot x + 4 \\cdot y$, or $x + 4y$, points. Since the exam is worth $60$ points, the equation $x + 4y = 60$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=56ba016d&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

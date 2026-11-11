@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "acb0ba2f",
+  "capturedAt": "2026-11-11T06:57:50.855Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows five values of $x$ and their corresponding values of $y$. Which of the following equations represents the relationship between $x$ and $y$?",
+  "choices": {
+    "A": "$y = 2x + 2$",
+    "B": "$y = 2x + 3$",
+    "C": "$y = 3x + 2$",
+    "D": "$y = 3x + 3$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The table shows five values of $x$ and their corresponding values of $y$. For example, the value of $y$ when $x$ is 1 is 4, and the value of $y$ when $x$ is 2 is 6. The slope of the line $y = mx + b$ is $m$, and the slope of a line that passes through the points $(1,4)$ and $(2,6)$ is $\\frac{6 - 4}{2 - 1} = 2$. Thus, the equation $y = mx + b$ can be rewritten as $y = 2x + b$. Since the line passes through the point $(1,4)$, substituting 1 for $x$ and 4 for $y$ in the equation $y = 2x + b$ gives 4 = 2(1) + $b$, or 4 = 2 + $b$. Solving this equation for $b$ gives $b = 2$. Thus, the equation of the line that passes through the points $(1,4)$ and $(2,6)$ is $y = 2x + 2$.",
+  "source": "https://cooksat.com/practice?questionId=acb0ba2f&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/acb0ba2f/1-0016a693ca30ee1c.png",
+      "kind": "diagram"
+    }
+  ]
+}

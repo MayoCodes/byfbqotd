@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b9c5c47",
+  "capturedAt": "2026-11-11T06:55:25.441Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nTo save money for a new laptop, Marcus tutors at two centers: X and Y. He earns $$15$ per hour tutoring at center X and $$25$ per hour tutoring at center Y. In one week, Marcus earned a total of $t$ dollars from tutoring at the two centers. The graph shown represents all possible combinations of numbers of hours Marcus could have tutored at the two centers to earn $t$ dollars. What is the value of $t$?",
+  "choices": {
+    "A": "$60$",
+    "B": "$150$",
+    "C": "$250$",
+    "D": "$300$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Marcus earns $$15$ per hour at center X. Therefore, if he tutors $x$ hours at center X, he earns $$15x$ dollars. Marcus earns $$25$ per hour at center Y, so if he tutors $y$ hours at center Y, he earns $$25y$ dollars. The graph represents all possible combinations of hours that produce a total of $t$ dollars, so the equation $15x + 25y = t$ represents the graph, where $t$ is a constant. Substituting any point $(x, y)$ from the graph yields the value of $t$. The point $(10, 0)$ lies on the graph, so substituting $10$ for $x$ and $0$ for $y$ gives $15 \\times 10 + 25 \\times 0 = t$, or $t = 150$. Similarly, the point $(0, 6)$ lies on the graph, and substituting yields $15 \\times 0 + 25 \\times 6 = t$, or $t = 150$.",
+  "source": "https://cooksat.com/practice?questionId=2b9c5c47&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2b9c5c47/1-3ed943a97a42ad9c.png",
+      "kind": "diagram"
+    }
+  ]
+}

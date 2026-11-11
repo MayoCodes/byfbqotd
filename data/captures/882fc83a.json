@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "882fc83a",
+  "capturedAt": "2026-11-11T06:57:07.966Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In $2015$, a book club library had a total of $48$ titles, each classified as either fiction or nonfiction. From $2015$ to $2025$, the number of fiction titles in the library increased by approximately $62%$, and the number of nonfiction titles in the library increased by approximately $38%$. The total number of titles in the library increased by approximately $51%$. Which equation best represents this situation, where $x$ represents the number of fiction titles in the library in $2015$ and $y$ represents the number of nonfiction titles in the library in $2015$?",
+  "choices": {
+    "A": "$1.38x + 1.62y = 48(1.51)$",
+    "B": "$1.51x + 0.38y = 48(1.62)$",
+    "C": "$1.62x + 1.38y = 48(1.51)$",
+    "D": "$1.62x + 1.51y = 48(1.38)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that in $2015$, a book club library had $48$ titles in total, with $x$ fiction titles and $y$ nonfiction titles. From $2015$ to $2025$, the number of fiction titles increased by approximately $62\\%$, so the number of fiction titles in $2025$ can be represented as $1.62x$. The number of nonfiction titles increased by approximately $38\\%$, so the number of nonfiction titles in $2025$ can be represented as $1.38y$. The total number of titles increased by approximately $51\\%$, so the total number of titles in $2025$ can be represented as $48(1.51)$. Since the sum of the fiction titles and nonfiction titles in $2025$ equals the total number of titles in $2025$, the equation $1.62x + 1.38y = 48(1.51)$ best represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=882fc83a&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

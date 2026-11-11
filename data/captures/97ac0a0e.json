@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "97ac0a0e",
+  "capturedAt": "2026-11-11T06:57:27.019Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $r$ is defined by $y=\\frac{3}{4}x+2$. Which equation defines a line that is perpendicular to line $r$ and passes through the point $(2, 5)$?",
+  "choices": {
+    "A": "$y=-\\frac{4}{3}x+\\frac{7}{3}$",
+    "B": "$y=-\\frac{4}{3}x+\\frac{(23)}{3}$",
+    "C": "$y=-\\frac{3}{4}x+\\frac{(13)}{2}$",
+    "D": "$y=\\frac{3}{4}x+\\frac{7}{2}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Perpendicular lines have slopes that are negative reciprocals. Line $r$ has slope $\\frac{3}{4}$, so the perpendicular line has slope $-\\frac{4}{3}$. Using point-slope form with $(2,5)$: $5=-\\frac{4}{3}(2)+b$, which gives $5=-\\frac{8}{3}+b$, so $b=5+\\frac{8}{3}=\\frac{15}{3}+\\frac{8}{3}=\\frac{23}{3}$. Therefore, the equation is $y=-\\frac{4}{3}x+\\frac{23}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=97ac0a0e&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

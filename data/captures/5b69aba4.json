@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5b69aba4",
+  "capturedAt": "2026-11-11T06:56:09.976Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which equation is equivalent to $6x-8y=24$?",
+  "choices": {
+    "A": "$y=\\frac{3}{4}x-3$",
+    "B": "$y=\\frac{9}{(16)}x+3$",
+    "C": "$y=\\frac{8}{6}x-3$",
+    "D": "$y=-\\frac{3}{4}x-3$"
+  },
+  "correctAnswer": "A",
+  "explanation": "To solve for $y$, subtract $6x$ from both sides: $-8y = -6x + 24$. Divide both sides by $-8$: $y = \\frac{-6x + 24}{-8} = \\frac{6x}{8} - \\frac{24}{8} = \\frac{6x}{8} - 3$. Simplify the fraction: $\\frac{6}{8} = \\frac{3}{4}$, so $y = \\frac{3}{4}x - 3$.",
+  "source": "https://cooksat.com/practice?questionId=5b69aba4&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1d7aacc4",
+  "capturedAt": "2026-11-11T06:30:34.633Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A line in the xy-plane has a slope of $\\frac{1}{7}$ and passes through the point $(0, 23)$. Which equation represents this line?",
+  "choices": {
+    "A": "$y = -\\frac{1}{7}x - 23$",
+    "B": "$y = -\\frac{1}{7}x + 23$",
+    "C": "$y = \\frac{1}{7}x - 23$",
+    "D": "$y = \\frac{1}{7}x + 23$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The equation of a line in the xy-plane can be written as $y = mx + b$, where $m$ represents the slope of the line and $\\left(0, b\\right)$ represents the y-intercept of the line. It's given that the slope of the line is $\\frac{1}{7}$. It follows that $m = \\frac{1}{7}$. It's also given that the line passes through the point $\\left(0, 23\\right)$. It follows that $b = 23$. Substituting $\\frac{1}{7}$ for $m$ and $23$ for $b$ in $y = mx + b$ yields $y = \\frac{1}{7}x + 23$. Thus, the equation $y = \\frac{1}{7}x + 23$ represents this line.",
+  "source": "https://cooksat.com/practice?questionId=1d7aacc4&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

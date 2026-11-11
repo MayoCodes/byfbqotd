@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a39d931b",
+  "capturedAt": "2026-11-11T06:57:36.356Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "What is the slope of the graph of $y = \\frac{1}{4}(6x + 16) - 3(x - 2)$ in the xy-plane?\n\n$$0$$\n\n$$-\\frac{3}{2},-1.5$$",
+  "choices": {},
+  "correctAnswer": "$-\\frac{3}{2},-1.5$",
+  "explanation": "The correct answer is $-\\frac{3}{2}$. Distributing $\\frac{1}{4}$ in the equation $y = \\frac{1}{4}(6x + 16) - 3(x - 2)$ yields $y = \\frac{3}{2}x + 4 - 3(x - 2)$. Distributing $-3$ yields $y = \\frac{3}{2}x + 4 - 3x + 6$. Combining like terms gives $y = \\frac{3}{2}x - \\frac{6}{2}x + 10$, or $y = -\\frac{3}{2}x + 10$. Therefore, the slope is $-\\frac{3}{2}$.",
+  "source": "https://cooksat.com/practice?questionId=a39d931b&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

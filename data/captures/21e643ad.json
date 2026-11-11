@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "21e643ad",
+  "capturedAt": "2026-11-11T06:30:36.187Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A farm consists of a $4$-hectare orchard and a $27$-hectare crop field. The total number of beehives on the farm is $2,014$. The equation $4x + 27y = 2,014$ represents this situation. Which of the following is the best interpretation of $x$ in this context?",
+  "choices": {
+    "A": "The average number of beehives per hectare in the orchard",
+    "B": "The average number of beehives per hectare in the crop field",
+    "C": "The total number of beehives in the orchard",
+    "D": "The total number of beehives in the crop field"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the farm consists of a $4$-hectare orchard and a $27$-hectare crop field and that the total number of beehives on the farm is $2{,}014$. The equation $4x + 27y = 2{,}014$ represents this situation. Since the total number of beehives in a given area equals the number of hectares times the average number of beehives per hectare, the terms $4x$ and $27y$ correspond to the number of beehives in the orchard and in the crop field, respectively. Since $4x$ represents the number of beehives in the orchard and $4$ is the size of the orchard in hectares, $x$ must represent the average number of beehives per hectare in the orchard.",
+  "source": "https://cooksat.com/practice?questionId=21e643ad&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

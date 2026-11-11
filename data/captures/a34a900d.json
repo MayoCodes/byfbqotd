@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a34a900d",
+  "capturedAt": "2026-11-11T06:57:34.545Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA botanical reserve contains oak trees and maple trees. The estimated total biomass of the oak trees and maple trees in this reserve is $84,653$ kilograms. The graph shown models the possible combinations of the number of oak trees, $x$, and maple trees, $y$, that could be in this reserve if all the oak trees have the same estimated biomass and all the maple trees have the same estimated biomass. Based on the graph, which of the following is closest to the estimated biomass, in kilograms, of each oak tree in this reserve?",
+  "choices": {
+    "A": "$597$",
+    "B": "$712$",
+    "C": "$34,521$",
+    "D": "$50,132$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The $x$-intercept of the graph shown represents the situation in which the reserve contains only oak trees. Based on the graph, the $x$-intercept is approximately $(142, 0)$. Therefore, if there are $0$ maple trees in the reserve, then there are approximately $142$ oak trees. It's given that the total biomass of the trees is $84{,}653$ kilograms. Therefore, the estimated biomass of each oak tree is approximately $\\frac{84{,}653}{142}$ kilograms, or approximately $596.15$ kilograms. Thus, of the given choices, $597$ is closest to the estimated biomass, in kilograms, of each oak tree in this reserve.",
+  "source": "https://cooksat.com/practice?questionId=a34a900d&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a34a900d/1-7d0499e247038db1.png",
+      "kind": "diagram"
+    }
+  ]
+}

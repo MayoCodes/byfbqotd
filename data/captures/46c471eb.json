@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "46c471eb",
+  "capturedAt": "2026-11-11T06:55:57.972Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $p$ and line $n$ are perpendicular and intersect at the point $(4, 9)$. If line $p$ is defined by the equation $y = ax + c$, where $a$ and $c$ are constants and $a > 1$, which of the following points lies on line $n$?",
+  "choices": {
+    "A": "$(5, 9 - a)$",
+    "B": "$(5, 9 - \\frac{1}{a})$",
+    "C": "$(5, 9 + \\frac{1}{a})$",
+    "D": "$(5, 9 + a)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since line $p$ and line $n$ are perpendicular, the slope of line $n$ is the negative reciprocal of the slope of line $p$. Line $p$ has slope $a$, so the slope of line $n$ is $-\\frac{1}{a}$. The two lines intersect at $(4, 9)$, so this point lies on line $n$. Using point-slope form, the equation of line $n$ is $y - 9 = -\\frac{1}{a}(x - 4)$. Substituting $5$ for $x$ yields $y - 9 = -\\frac{1}{a}(5 - 4) = -\\frac{1}{a}$. Adding $9$ to both sides gives $y = 9 - \\frac{1}{a}$. Therefore, the point $(5, 9 - \\frac{1}{a})$ lies on line $n$.",
+  "source": "https://cooksat.com/practice?questionId=46c471eb&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

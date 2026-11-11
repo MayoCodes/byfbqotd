@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "47d48acc",
+  "capturedAt": "2026-11-11T06:55:59.668Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the xy-plane, line $n$ passes through the points $(0, -3)$ and $(1, 4)$. Which equation defines line $n$?",
+  "choices": {
+    "A": "$y = -x + \\frac{1}{7}$",
+    "B": "$y = \\frac{1}{7}x - 3$",
+    "C": "$y = -x + 7$",
+    "D": "$y = 7x - 3$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. An equation defining a line in the xy-plane can be written in the form $y = mx + b$, where $m$ represents the slope and $\\left(0, b\\right)$ represents the y-intercept of the line. It's given that line $n$ passes through the point $\\left(0, -3\\right)$; therefore, $b = -3$. The slope, $m$, of a line can be found using any two points on the line, $\\left(x_{1}, y_{1}\\right)$ and $\\left(x_{2}, y_{2}\\right)$, and the slope formula $m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. Substituting the points $\\left(0, -3\\right)$ and $\\left(1, 4\\right)$ for $\\left(x_{1}, y_{1}\\right)$ and $\\left(x_{2}, y_{2}\\right)$, respectively, yields $m = \\frac{4 - \\left(-3\\right)}{1 - 0} = 7$. Substituting $7$ for $m$ and $-3$ for $b$ in $y = mx + b$ yields $y = 7x - 3$.",
+  "source": "https://cooksat.com/practice?questionId=47d48acc&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

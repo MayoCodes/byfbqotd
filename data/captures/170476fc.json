@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "170476fc",
+  "capturedAt": "2026-11-11T06:30:24.048Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, a line has a slope of $4$ and passes through the point $(0, 11)$. Which of the following is an equation of this line?",
+  "choices": {
+    "A": "$y = 4x + 11$",
+    "B": "$y = 4x + 44$",
+    "C": "$y = 11x + 4$",
+    "D": "$y = 11x + 44$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The slope-intercept form of an equation for a line is $y = mx + b$, where $m$ is the slope of the line and $b$ is the $y$-coordinate of the $y$-intercept of the line. It's given that the slope is $4$, so $m = 4$. It's also given that the line passes through the point $(0, 11)$ on the $y$-axis, so $b = 11$. Substituting $m = 4$ and $b = 11$ into the equation $y = mx + b$ gives $y = 4x + 11$.",
+  "source": "https://cooksat.com/practice?questionId=170476fc&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

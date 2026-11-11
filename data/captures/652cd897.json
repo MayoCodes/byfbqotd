@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "652cd897",
+  "capturedAt": "2026-11-11T06:56:21.125Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A gardener has scheduled $240$ minutes to plant rose bushes and fruit trees. The equation $8p + 20q = 240$ represents this situation, where $p$ is the number of rose bushes and $q$ is the number of fruit trees the gardener plants. How many more minutes does each fruit tree take to plant than each rose bush?\n\n$$0$$\n\n$$12$$",
+  "choices": {},
+  "correctAnswer": "$12$",
+  "explanation": "The correct answer is $12$. It's given that the equation $8p + 20q = 240$ represents the situation, where $p$ is the number of rose bushes, $q$ is the number of fruit trees, and $240$ is the total number of minutes scheduled for planting. Therefore, $8p$ represents the number of minutes spent planting rose bushes, and $20q$ represents the number of minutes spent planting fruit trees. Since $p$ is the number of rose bushes and $q$ is the number of fruit trees, $8$ is the number of minutes each rose bush takes to plant and $20$ is the number of minutes each fruit tree takes to plant. Subtracting these numbers gives $20 - 8$, or $12$ more minutes each fruit tree takes to plant than each rose bush.",
+  "source": "https://cooksat.com/practice?questionId=652cd897&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

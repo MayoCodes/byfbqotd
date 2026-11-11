@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b56b276f",
+  "capturedAt": "2026-11-11T06:58:08.347Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows four values of $x$ and their corresponding values of $y$. There is a linear relationship between $x$ and $y$. Which of the following equations represents this relationship?",
+  "choices": {
+    "A": "$5x + 15y = 35$",
+    "B": "$5x + 15y = 175$",
+    "C": "$15x + 5y = 35$",
+    "D": "$15x + 5y = 175$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A linear relationship can be represented by an equation of the form $y = mx + b$, where $m$ is the slope and $b$ is the y-intercept. The slope can be calculated using two points from the table. Using $(-10, 65)$ and $(-5, 50)$: $m = \\frac{50 - 65}{-5 - (-10)} = \\frac{-15}{5} = -3$. Substituting $-3$ for $m$ in $y = mx + b$ yields $y = -3x + b$. Using the point $(-10, 65)$: $65 = -3(-10) + b$, which gives $65 = 30 + b$, or $b = 35$. The equation is $y = -3x + 35$. Adding $3x$ to both sides yields $3x + y = 35$. Multiplying both sides by $5$ yields $15x + 5y = 175$. This can be verified using another point from the table: substituting $(5, 20)$ gives $15(5) + 5(20) = 75 + 100 = 175$, which is true.",
+  "source": "https://cooksat.com/practice?questionId=b56b276f&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b56b276f/1-0217a73c8c18e156.png",
+      "kind": "diagram"
+    }
+  ]
+}

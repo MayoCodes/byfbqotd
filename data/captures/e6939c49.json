@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e6939c49",
+  "capturedAt": "2026-11-11T06:58:55.612Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $25x + 15y = 225$ represents the number of backpacks, $x$, and number of notebooks, $y$, that Marcus purchased for $$225$. If Marcus purchased $3$ backpacks, how many notebooks did he purchase?",
+  "choices": {
+    "A": "$3$",
+    "B": "$10$",
+    "C": "$15$",
+    "D": "$25$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the equation $25x + 15y = 225$ represents the number of backpacks, $x$, and the number of notebooks, $y$, that Marcus purchased for $$225$. If Marcus purchased $3$ backpacks, the number of notebooks he purchased can be calculated by substituting $3$ for $x$ in the given equation, which yields $25(3) + 15y = 225$, or $75 + 15y = 225$. Subtracting $75$ from both sides of this equation yields $15y = 150$. Dividing both sides of this equation by $15$ yields $y = 10$. Therefore, if Marcus purchased $3$ backpacks, he purchased $10$ notebooks.",
+  "source": "https://cooksat.com/practice?questionId=e6939c49&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d33d8459",
+  "capturedAt": "2026-11-11T06:58:25.697Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The equation $58 = 2x + 2y$ gives the perimeter of a rectangular garden that has length $x$, in meters, and width $y$, in meters. The width of the garden is $11$ meters. What is the length, in meters, of the garden?\n\n$$0$$\n\n$$18$$",
+  "choices": {},
+  "correctAnswer": "$18$",
+  "explanation": "The correct answer is $18$. It's given that the equation $58 = 2x + 2y$ gives the perimeter of a rectangular garden with length $x$ meters and width $y$ meters, and that the width is $11$ meters. Substituting $11$ for $y$ in the equation $58 = 2x + 2y$ yields $58 = 2x + 2(11)$, or $58 = 2x + 22$. Subtracting $22$ from both sides of this equation yields $36 = 2x$. Dividing both sides of this equation by $2$ yields $x = 18$. Since $x$ represents the length, in meters, of the garden, it follows that the length of the garden is $18$ meters.",
+  "source": "https://cooksat.com/practice?questionId=d33d8459&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

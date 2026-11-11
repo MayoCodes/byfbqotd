@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "34e75363",
+  "capturedAt": "2026-11-11T06:55:36.165Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the xy-plane, line $n$ passes through the point $(0, 0)$ and is parallel to the line represented by the equation $y = 23x + 5$. If line $n$ also passes through the point $(6, d)$, what is the value of $d$?",
+  "choices": {
+    "A": "$5$",
+    "B": "$23$",
+    "C": "$138$",
+    "D": "$143$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A line in the xy-plane can be represented by an equation of the form $y = mx + b$, where $m$ is the slope and $b$ is the y-coordinate of the y-intercept. Since line $n$ passes through $\\left(0, 0\\right)$, $b = 0$. Since line $n$ is parallel to the line $y = 23x + 5$, and parallel lines share the same slope, the slope of line $n$ is $23$. Therefore, line $n$ is represented by $y = 23x$. Substituting $x = 6$ yields $d = 23(6) = 138$.",
+  "source": "https://cooksat.com/practice?questionId=34e75363&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

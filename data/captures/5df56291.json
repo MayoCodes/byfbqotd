@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5df56291",
+  "capturedAt": "2026-11-11T06:56:13.414Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$1.5 c + 4 m = 120$$\n\nThe given equation describes the relationship between the number of chili plants, $c$, and the number of mint plants, $m$, that can be watered at a community garden on a given day. If the garden waters $30$ mint plants on a given day, how many chili plants can it water on this day?",
+  "choices": {
+    "A": "$0$",
+    "B": "$4$",
+    "C": "$30$",
+    "D": "$80$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The number of chili plants can be found by calculating the value of $c$ when $m = 30$ in the given equation. Substituting $30$ for $m$ in the given equation yields $1.5 c + 4 \\left( 30 \\right) = 120$, or $1.5 c + 120 = 120$. Subtracting $120$ from both sides of this equation yields $1.5 c = 0$. Dividing both sides of this equation by $1.5$ yields $c = 0$. Therefore, if the garden waters $30$ mint plants on a given day, it can water $0$ chili plants on this day.",
+  "source": "https://cooksat.com/practice?questionId=5df56291&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

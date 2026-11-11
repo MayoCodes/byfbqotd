@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "74f6be50",
+  "capturedAt": "2026-11-11T06:56:34.813Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThere is a linear relationship between $x$ and $y$. The table shows three values of $x$ and their corresponding values of $y$ in terms of a constant $t$. What is the slope of the line in the $xy$-plane that represents this relationship?",
+  "choices": {
+    "A": "$\\frac{5}{(18)}$",
+    "B": "$\\frac{(18)}{5}$",
+    "C": "$18$",
+    "D": "$23$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The slope of a line in the $xy$-plane can be found using two points on the line, $\\left(x_{1}, y_{1}\\right)$ and $\\left(x_{2}, y_{2}\\right)$, and the slope formula $m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. Based on the given table, the line passes through the points $\\left(0, t\\right)$, $\\left(5, t + 18\\right)$, and $\\left(10, t + 36\\right)$, where $t$ is a constant. Substituting two of these points, $\\left(0, t\\right)$ and $\\left(5, t + 18\\right)$, for $\\left(x_{1}, y_{1}\\right)$ and $\\left(x_{2}, y_{2}\\right)$, respectively, in the slope formula yields $m = \\frac{\\left(t + 18\\right) - t}{5 - 0}$, which is equivalent to $m = \\frac{18}{5}$. Therefore, the slope of the line that represents this relationship in the $xy$-plane is $\\frac{18}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=74f6be50&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/74f6be50/1-c53a399f347ef56e.png",
+      "kind": "diagram"
+    }
+  ]
+}

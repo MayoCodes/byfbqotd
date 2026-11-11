@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9794b7db",
+  "capturedAt": "2026-11-11T06:57:25.365Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $j$ is defined by $y = 6x + 13$. Line $k$ is perpendicular to line $j$ in the $xy$-plane.\n\nWhat is the slope of line $k$?",
+  "choices": {
+    "A": "$-\\frac{1}{(19)}$",
+    "B": "$-\\frac{1}{(13)}$",
+    "C": "$-\\frac{1}{6}$",
+    "D": "$-\\frac{1}{4}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since line $k$ is perpendicular to line $j$, the slope of line $k$ is the negative reciprocal of the slope of line $j$. The equation $y = 6x + 13$ is in slope-intercept form $y = mx + b$, where $m$ is the slope. So the slope of line $j$ is $6$, and the negative reciprocal of $6$ is $-\\frac{1}{6}$. Therefore, the slope of line $k$ is $-\\frac{1}{6}$.",
+  "source": "https://cooksat.com/practice?questionId=9794b7db&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "697270d5",
+  "capturedAt": "2026-11-11T06:56:24.334Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Equation to Table",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $\\ell$ is defined by the equation $y=3x+4$. Line $m$ is defined by the equation $x+3y=3b$, where $b$ is a constant. If line $m$ is perpendicular to line $\\ell$ and the two lines intersect at the point $(6,22)$, what is the value of $b$?",
+  "choices": {
+    "A": "$20$",
+    "B": "$22$",
+    "C": "$24$",
+    "D": "$26$"
+  },
+  "correctAnswer": "C",
+  "explanation": "First, verify that $(6,22)$ lies on line $\\ell$: $22=3(6)+4=22$. To find $b$, rewrite line $m$ in slope-intercept form: $x+3y=3b$ gives $3y=-x+3b$, so $y=-\\frac{1}{3}x+b$. The slope is $-\\frac{1}{3}$, which is the negative reciprocal of $3$, confirming perpendicularity. Since $(6,22)$ lies on line $m$, substitute: $22=-\\frac{1}{3}(6)+b$, giving $22=-2+b$, so $b=24$.",
+  "source": "https://cooksat.com/practice?questionId=697270d5&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

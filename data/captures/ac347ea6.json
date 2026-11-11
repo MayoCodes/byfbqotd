@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ac347ea6",
+  "capturedAt": "2026-11-11T06:57:49.261Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Marcus bought both muffins and scones for a total of $$57$. Each muffin costs $$7$ and each scone costs $$5$. If Marcus bought $3$ scones, how many muffins did he buy?",
+  "choices": {
+    "A": "$6$",
+    "B": "$12$",
+    "C": "$15$",
+    "D": "$54$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Let $x$ represent the number of muffins that Marcus bought. It's given that each muffin costs $$7$. Therefore, the total cost, in dollars, of the muffins that Marcus bought can be represented by the expression $7x$. It's also given that each scone costs $$5$, and that Marcus bought $3$ scones. Therefore, the total cost, in dollars, of the scones that Marcus bought is $5(3)$, or $15$. Since Marcus bought both the muffins and the scones for a total of $$57$, the equation $7x + 15 = 57$ can be used to represent the situation. Subtracting $15$ from both sides of this equation yields $7x = 42$. Dividing both sides of this equation by $7$ yields $x = 6$. Therefore, Marcus bought $6$ muffins.",
+  "source": "https://cooksat.com/practice?questionId=ac347ea6&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

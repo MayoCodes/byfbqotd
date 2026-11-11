@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff4fb872",
+  "capturedAt": "2026-11-11T06:59:12.764Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the xy-plane, line p passes through the points $(-9,\\frac{5}{2})$ and $(3,-\\frac{7}{2})$. If line q is perpendicular to line p and passes through the point $(-9,\\frac{5}{2})$, which of the following is an equation of line q?",
+  "choices": {
+    "A": "$y=-2x-\\frac{(31)}{2}$",
+    "B": "$y=-\\frac{1}{2}x-2$",
+    "C": "$y=\\frac{1}{2}x+5$",
+    "D": "$y=2x+\\frac{(41)}{2}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "First, find the slope of line p: $m_p = \\frac{-\\frac{7}{2}-\\frac{5}{2}}{3-(-9)} = \\frac{-6}{12} = -\\frac{1}{2}$. Since line q is perpendicular to line p, its slope is the negative reciprocal: $m_q = 2$. Using point-slope form with $\\left(-9,\\frac{5}{2}\\right)$: $y - \\frac{5}{2} = 2(x+9) = 2x + 18$, so $y = 2x + 18 + \\frac{5}{2} = 2x + \\frac{41}{2}$.",
+  "source": "https://cooksat.com/practice?questionId=ff4fb872&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

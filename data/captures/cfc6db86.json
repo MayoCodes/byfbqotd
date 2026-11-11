@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cfc6db86",
+  "capturedAt": "2026-11-11T06:58:22.397Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A line in the xy-plane has a slope of $-3$ and passes through the point $(2,-1)$. Which equation represents this line?",
+  "choices": {
+    "A": "$y=-3x-7$",
+    "B": "$y=-3x-1$",
+    "C": "$y=-3x+1$",
+    "D": "$y=-3x+5$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The equation of a line can be written in slope-intercept form $y=mx+b$, where $m$ is the slope and $b$ is the y-intercept. It's given that the slope is $-3$, so $m=-3$. To find $b$, substitute the given point $(2,-1)$ into $y=mx+b$: $-1=-3(2)+b$, which gives $-1=-6+b$. Adding $6$ to both sides yields $b=5$. Therefore, the equation is $y=-3x+5$. Choice D is correct.",
+  "source": "https://cooksat.com/practice?questionId=cfc6db86&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

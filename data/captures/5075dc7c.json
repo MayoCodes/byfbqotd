@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5075dc7c",
+  "capturedAt": "2026-11-11T06:56:04.699Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $n$ is defined by $y = 7x + 22$. Line $p$ is perpendicular to line $n$ in the xy-plane. What is the slope of line $p$?",
+  "choices": {
+    "A": "$-\\frac{1}{(154)}$",
+    "B": "$-\\frac{1}{(29)}$",
+    "C": "$-\\frac{1}{(22)}$",
+    "D": "$-\\frac{1}{7}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since line $p$ is perpendicular to line $n$, the slope of line $p$ is the negative reciprocal of the slope of line $n$. The equation of line $n$ is written in slope-intercept form $y = mx + b$, where $m$ is the slope. Thus, the slope of line $n$ is $7$. The negative reciprocal of $7$ is $-\\frac{1}{7}$. Therefore, the slope of line $p$ is $-\\frac{1}{7}$.",
+  "source": "https://cooksat.com/practice?questionId=5075dc7c&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

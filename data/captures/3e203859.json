@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3e203859",
+  "capturedAt": "2026-11-11T06:55:46.300Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Line $q$ in the $xy$-plane is defined by $y = x + \\frac{1}{5}$ and passes through the points $(m, 0)$ and $(0, n)$, where $m$ and $n$ are constants. What is the value of $m$?\n\n$$0$$\n\n$$-\\frac{1}{5},-.2,-0.2,-.200,-0.20$$",
+  "choices": {},
+  "correctAnswer": "$-\\frac{1}{5},-.2,-0.2,-.200,-0.20$",
+  "explanation": "The correct answer is $-\\frac{1}{5}$. It's given that line $q$ passes through the point $(m, 0)$. This means that when $x = m$, $y = 0$. Substituting $m$ for $x$ and $0$ for $y$ in the equation $y = x + \\frac{1}{5}$ yields $0 = m + \\frac{1}{5}$. Subtracting $\\frac{1}{5}$ from both sides of this equation yields $m = -\\frac{1}{5}$. Therefore, the value of $m$ is $-\\frac{1}{5}$. Note that -1/5, -.2, -0.2, -.200, and -0.20 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=3e203859&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

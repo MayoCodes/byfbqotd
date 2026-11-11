@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "79cf75fb",
+  "capturedAt": "2026-11-11T06:56:41.145Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At a charity bake sale, items are priced based on the type of baked good. One customer purchased $M$ muffins and $B$ brownies for a total cost of $1,275$ cents. The equation $45M + 60B = 1,275$ represents this situation. How many more cents does a brownie cost than a muffin?",
+  "choices": {
+    "A": "$15$",
+    "B": "$45$",
+    "C": "$60$",
+    "D": "$1,275$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the equation $45M + 60B = 1{,}275$ represents this situation, where $M$ is the number of muffins purchased, $B$ is the number of brownies purchased, and $1{,}275$ is the total cost in cents. It follows that $45M$ represents the total cost of the muffins, so each muffin costs $45$ cents. Similarly, $60B$ represents the total cost of the brownies, so each brownie costs $60$ cents. Therefore, a brownie costs $60 - 45$, or $15$, more cents than a muffin.",
+  "source": "https://cooksat.com/practice?questionId=79cf75fb&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

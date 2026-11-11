@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e54ce5d6",
+  "capturedAt": "2026-11-11T06:58:52.327Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $n$ is defined by $\\frac{1}{4}x + \\frac{1}{9}y - 56 = 0$. Line $w$ is perpendicular to line $n$ in the xy-plane. What is the slope of line $w$?",
+  "choices": {
+    "A": "$-\\frac{9}{4}$",
+    "B": "$-\\frac{4}{9}$",
+    "C": "$\\frac{4}{9}$",
+    "D": "$\\frac{9}{4}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The given equation can be rewritten in slope-intercept form $y = mx + b$, where $m$ is the slope of line $n$. Adding $56$ to both sides of $\\frac{1}{4}x + \\frac{1}{9}y - 56 = 0$ yields $\\frac{1}{4}x + \\frac{1}{9}y = 56$. Subtracting $\\frac{1}{4}x$ from both sides yields $\\frac{1}{9}y = -\\frac{1}{4}x + 56$. Multiplying both sides by $9$ yields $y = -\\frac{9}{4}x + 504$. Therefore, the slope of line $n$ is $-\\frac{9}{4}$. Two lines are perpendicular if their slopes are negative reciprocals. The negative reciprocal of $-\\frac{9}{4}$ is $\\frac{4}{9}$. Therefore, the slope of line $w$ is $\\frac{4}{9}$.",
+  "source": "https://cooksat.com/practice?questionId=e54ce5d6&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

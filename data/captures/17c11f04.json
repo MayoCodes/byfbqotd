@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "17c11f04",
+  "capturedAt": "2026-11-11T06:30:27.796Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Line $p$ is defined by $5x + 2y = 18$. Line $q$ is parallel to line $p$ in the $xy$-plane. An equation of line $q$ is $35x + ny = 21$, where $n$ is a constant. If line $q$ passes through the point $(0, c)$, what is the value of $c$?\n\n$$0$$\n\n$$\\frac{3}{2},1.5,1.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{3}{2},1.5,1.50$",
+  "explanation": "The correct answer is $\\frac{3}{2}$. The equation $5x + 2y = 18$ can be rewritten in slope-intercept form by subtracting $5x$ from both sides, yielding $2y = -5x + 18$, and dividing both sides by $2$, yielding $y = -\\frac{5}{2}x + 9$. Therefore, the slope of line $p$ is $-\\frac{5}{2}$. Since line $q$ is parallel to line $p$, line $q$ must have the same slope, $-\\frac{5}{2}$. The equation $35x + ny = 21$ can be rewritten as $ny = -35x + 21$, or $y = -\\frac{35}{n}x + \\frac{21}{n}$. For the slope to equal $-\\frac{5}{2}$, it follows that $-\\frac{35}{n} = -\\frac{5}{2}$. Cross-multiplying yields $5n = 70$, so $n = 14$. Since line $q$ passes through $(0, c)$, substituting $0$ for $x$ and $c$ for $y$ in $35x + 14y = 21$ yields $14c = 21$, so $c = \\frac{21}{14} = \\frac{3}{2}$. Note that 3/2, 1.5, and 1.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=17c11f04&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

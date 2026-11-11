@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7f1347c9",
+  "capturedAt": "2026-11-11T06:56:49.880Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of the linear function $g$ is shown, where $y = g(x)$. Which equation defines $g$ ?",
+  "choices": {
+    "A": "$g(x) = -\\frac{5}{2}x - 4$",
+    "B": "$g(x) = -\\frac{2}{5}x - 4$",
+    "C": "$g(x) = \\frac{2}{5}x - 4$",
+    "D": "$g(x) = \\frac{5}{2}x - 4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The graph shows that the line passes through the point $\\left(0, -4\\right)$, so the $y$-intercept is $-4$. The slope of the line can be found using two points on the line, $(0, -4)$ and $(5, -6)$. The slope is $\\frac{-6 - (-4)}{5 - 0} = \\frac{-2}{5} = -\\frac{2}{5}$. A linear function can be written in the form $g(x) = mx + b$, where $m$ is the slope and $b$ is the $y$-intercept. Substituting $-\\frac{2}{5}$ for $m$ and $-4$ for $b$ gives $g(x) = -\\frac{2}{5}x - 4$.",
+  "source": "https://cooksat.com/practice?questionId=7f1347c9&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7f1347c9/1-a7aa9107b7152eed.png",
+      "kind": "diagram"
+    }
+  ]
+}

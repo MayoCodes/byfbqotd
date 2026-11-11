@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6abd7be5",
+  "capturedAt": "2026-11-11T06:56:29.846Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Marcus packaged $80$ pounds of sand. Marcus then filled $x$ small bags and $y$ large bags with all the sand he packaged. The equation $5x + 8y = 80$ represents this situation. Which is the best interpretation of $8y$ in this context?",
+  "choices": {
+    "A": "The number of large bags Marcus filled",
+    "B": "The number of small bags Marcus filled",
+    "C": "The total number of pounds of sand in the large bags",
+    "D": "The total number of pounds of sand in the small bags"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the equation $5x + 8y = 80$ represents the situation where Marcus filled $x$ small bags and $y$ large bags with all the sand he packaged, which was $80$ pounds. Therefore, $8y$ represents the total number of pounds of sand in the large bags.",
+  "source": "https://cooksat.com/practice?questionId=6abd7be5&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

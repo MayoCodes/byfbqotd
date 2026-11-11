@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5c0a1f62",
+  "capturedAt": "2026-11-11T06:56:11.703Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A line in the xy-plane passes through the point $(4,7)$ and has a slope of $-\\frac{1}{4}$. Which equation represents this line?",
+  "choices": {
+    "A": "$y = -\\frac{1}{4}x - 8$",
+    "B": "$y = -\\frac{1}{4}x + 7$",
+    "C": "$y = -\\frac{1}{4}x + 8$",
+    "D": "$y = \\frac{1}{4}x + 8$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Using the slope-intercept form $y = mx + b$ where $m = -\\frac{1}{4}$, substitute the point $(4,7)$ to find $b$: $7 = -\\frac{1}{4}(4) + b$, which gives $7 = -1 + b$, so $b = 8$. Therefore, the equation is $y = -\\frac{1}{4}x + 8$.",
+  "source": "https://cooksat.com/practice?questionId=5c0a1f62&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8c02a468",
+  "capturedAt": "2026-11-11T06:57:11.164Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$5x + 7y = 244$$\n\nA total of $244$ beads were used to make two types of items: bracelets and necklaces. Each bracelet uses $5$ beads and each necklace uses $7$ beads. The equation above represents this situation, where $x$ is the number of bracelets made and $y$ is the number of necklaces made. What is the best interpretation of $(x, y) = (18, 22)$ in this context?",
+  "choices": {
+    "A": "If $18$ bracelets were made, then $22$ necklaces were made.",
+    "B": "If $18$ bracelets were made, then $22$ beads were used.",
+    "C": "If $22$ bracelets were made, then $18$ necklaces were made.",
+    "D": "If $22$ bracelets were made, then $18$ beads were used."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the equation $5x + 7y = 244$ represents the situation where $244$ beads were used to make bracelets and necklaces, where $x$ is the number of bracelets made and $y$ is the number of necklaces made. In the ordered pair $(x, y) = (18, 22)$, the first coordinate represents the value of $x$ and the second coordinate represents the value of $y$. Therefore, $x = 18$ and $y = 22$. Since $x$ is the number of bracelets made, it follows that $18$ bracelets were made. Since $y$ is the number of necklaces made, it follows that $22$ necklaces were made. Therefore, the ordered pair $(18, 22)$ means that if $18$ bracelets were made, then $22$ necklaces were made.",
+  "source": "https://cooksat.com/practice?questionId=8c02a468&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

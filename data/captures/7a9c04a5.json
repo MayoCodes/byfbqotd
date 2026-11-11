@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7a9c04a5",
+  "capturedAt": "2026-11-11T06:56:43.034Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows pairs of values of $x$ and $y$ that satisfy a linear function. Which of the following equations represents the relationship between $x$ and $y$?",
+  "choices": {
+    "A": "$y=1.5x+3$",
+    "B": "$y=3x$",
+    "C": "$y=3x+1$",
+    "D": "$y=3x+1.5$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The table shows values for $x$ and $y$ that satisfy a linear function, so the relationship between $x$ and $y$ can be represented by an equation of the form $y=mx+b$, where $m$ is the slope and $b$ is the $y$-intercept. The $y$-intercept is the value of $y$ when $x=0$. The table shows that when $x=0$, $y=3$, so $b=3$. Therefore, the equation can be written as $y=mx+3$. The slope $m$ is equal to the change in $y$ divided by the change in $x$ for any two points on the line. Using the points $(0,3)$ and $(1,4.5)$, the change in $y$ is $4.5-3=1.5$ and the change in $x$ is $1-0=1$, so the slope $m$ is equal to $1.5/1=1.5$. Therefore, the equation that represents the relationship between $x$ and $y$ is $y=1.5x+3$.",
+  "source": "https://cooksat.com/practice?questionId=7a9c04a5&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/7a9c04a5/1-8805ae8c28042abf.png",
+      "kind": "diagram"
+    }
+  ]
+}

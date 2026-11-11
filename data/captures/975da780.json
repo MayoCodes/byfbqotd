@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "975da780",
+  "capturedAt": "2026-11-11T06:57:23.617Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Two Points",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$7x + 8y = 36$$\n\nIf the graph of the given equation is shifted up $4$ units in the $xy$-plane, what is the $y$-intercept of the resulting graph?",
+  "choices": {
+    "A": "$(0, \\frac{9}{2})$",
+    "B": "$(0, 5)$",
+    "C": "$(0, \\frac{(17)}{2})$",
+    "D": "$(0, 40)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. When the graph of an equation in the form $Ax + By = C$, where $A$, $B$, and $C$ are constants, is shifted up $k$ units in the $xy$-plane, the resulting graph can be represented by the equation $Ax + B(y - k) = C$. It's given that the graph of $7x + 8y = 36$ is shifted up $4$ units in the $xy$-plane. Therefore, the resulting graph can be represented by the equation $7x + 8(y - 4) = 36$, or $7x + 8y - 32 = 36$. Adding $32$ to both sides of this equation yields $7x + 8y = 68$. The $y$-intercept of the graph of an equation in the $xy$-plane is the point where the line intersects the $y$-axis, represented by the point $(0, y)$. Substituting $0$ for $x$ in the equation $7x + 8y = 68$ yields $7(0) + 8y = 68$, or $8y = 68$. Dividing both sides of this equation by $8$ yields $y = \\frac{68}{8}$, or $y = \\frac{17}{2}$. Therefore, if the graph of $7x + 8y = 36$ is shifted up $4$ units, the $y$-intercept of the resulting graph is $\\left(0, \\frac{17}{2}\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=975da780&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

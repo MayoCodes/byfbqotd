@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f4c52d03",
+  "capturedAt": "2026-11-11T06:59:08.012Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Shape P and shape Q are both regular polygons. The sum of the perimeter of shape P and the perimeter of shape Q is $56$ inches. The equation $4x + 7y = 56$ represents this situation, where $x$ is the number of sides of shape P and $y$ is the number of sides of shape Q. Which statement is the best interpretation of $7$ in this context?",
+  "choices": {
+    "A": "The number of sides of shape Q is $7$.",
+    "B": "The number of sides of shape P is $7$.",
+    "C": "Each side of shape P has a length of $7$ inches.",
+    "D": "Each side of shape Q has a length of $7$ inches."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The sum of the perimeters of shape P and shape Q is $56$ inches, and the equation $4x + 7y = 56$ represents this situation, where $x$ is the number of sides of shape P and $y$ is the number of sides of shape Q. Thus, $4x$ and $7y$ represent the perimeters, in inches, of shape P and shape Q, respectively. Since $7y$ represents the perimeter, in inches, of shape Q and $y$ is the number of sides of shape Q, it follows that each side of shape Q has a length of $7$ inches.",
+  "source": "https://cooksat.com/practice?questionId=f4c52d03&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

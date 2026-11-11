@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aaf62f97",
+  "capturedAt": "2026-11-11T06:57:47.030Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows a linear relationship between the values of $x$ and $y$. Which equation represents this relationship?",
+  "choices": {
+    "A": "$y = -3x$",
+    "B": "$y = -1.5x$",
+    "C": "$y = 1.5x$",
+    "D": "$y = 3x$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The table shows that when $x$ increases by 1, $y$ decreases by 1.5, which means the slope of the line representing the relationship is -1.5. The table also shows that when $x$ is 0, $y$ is 0, which means the $y$-intercept of the line is 0. Therefore, the equation that represents the relationship is $y = -1.5x$.",
+  "source": "https://cooksat.com/practice?questionId=aaf62f97&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/aaf62f97/1-8d26a8b24458deae.png",
+      "kind": "diagram"
+    }
+  ]
+}

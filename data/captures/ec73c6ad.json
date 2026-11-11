@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ec73c6ad",
+  "capturedAt": "2026-11-11T06:59:02.562Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A total of $420$ wooden toothpicks of equal length were used to construct two types of polygons: pentagons and hexagons. The pentagons and hexagons were constructed so that no two polygons had a common side. The equation $5x + 6y = 420$ represents this situation, where $x$ is the number of pentagons constructed and $y$ is the number of hexagons constructed. What is the best interpretation of $(x, y) = (30, 45)$ in this context?",
+  "choices": {
+    "A": "If $30$ pentagons were constructed, then $45$ hexagons were constructed.",
+    "B": "If $30$ pentagons were constructed, then $45$ toothpicks were used.",
+    "C": "If $45$ pentagons were constructed, then $30$ hexagons were constructed.",
+    "D": "If $45$ pentagons were constructed, then $30$ toothpicks were used."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that $420$ wooden toothpicks of equal length were used to construct pentagons and hexagons, where no two polygons had a common side. It's also given that the equation $5x + 6y = 420$ represents this situation, where $x$ is the number of pentagons constructed and $y$ is the number of hexagons constructed. The ordered pair $(x, y) = (30, 45)$ means that $x = 30$ and $y = 45$. Substituting $30$ for $x$ and $45$ for $y$ in $5x + 6y = 420$ yields $5(30) + 6(45) = 420$, or $150 + 270 = 420$, which is true. Therefore, in this context, $(x, y) = (30, 45)$ means that if $30$ pentagons were constructed, then $45$ hexagons were constructed.",
+  "source": "https://cooksat.com/practice?questionId=ec73c6ad&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

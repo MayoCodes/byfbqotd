@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "36672b7e",
+  "capturedAt": "2026-11-11T06:55:37.746Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A bakery sells two types of muffins: regular and gourmet. Last week, the bakery's total sales from these muffins were $$793.75$. The equation $3.25x + 4.75y = 793.75$ represents this situation, where $x$ is the number of regular muffins sold and $y$ is the number of gourmet muffins sold. According to the equation, which of the following represents the price, in dollars, of each regular muffin?",
+  "choices": {
+    "A": "$3.25$",
+    "B": "$3.25x$",
+    "C": "$4.75$",
+    "D": "$4.75y$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that $x$ is the number of regular muffins sold and the bakery's total sales were $$793.75$. In the equation $3.25x + 4.75y = 793.75$, the expression $3.25x$ represents the total sales, in dollars, from regular muffins. Since $x$ regular muffins were sold at the same price, that price must be $3.25$ dollars each. Therefore, $3.25$ represents the price, in dollars, of each regular muffin.",
+  "source": "https://cooksat.com/practice?questionId=36672b7e&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

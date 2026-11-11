@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9bb7504e",
+  "capturedAt": "2026-11-11T06:57:28.963Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A batch of trail mix consists of $3$ bags of almonds and $5$ granola bars and contains $607$ milligrams $(mg)$ of magnesium. There are $189 mg$ of magnesium in $1$ bag of the almonds used to make this batch of trail mix. How much magnesium, in $mg$, is in $1$ granola bar?",
+  "choices": {
+    "A": "$8$",
+    "B": "$40$",
+    "C": "$204$",
+    "D": "$567$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that a batch of trail mix consists of $3$ bags of almonds and $5$ granola bars and contains $607$ mg of magnesium, and that there are $189$ mg of magnesium in $1$ bag of almonds. The total magnesium in $3$ bags of almonds is $3(189)$, or $567$ mg. Let $x$ represent the amount of magnesium, in mg, in $1$ granola bar. Then the total magnesium in $5$ granola bars is $5x$ mg. This gives the equation $567 + 5x = 607$. Subtracting $567$ from both sides yields $5x = 40$. Dividing both sides by $5$ yields $x = 8$. Therefore, the amount of magnesium in $1$ granola bar is $8$ mg.",
+  "source": "https://cooksat.com/practice?questionId=9bb7504e&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

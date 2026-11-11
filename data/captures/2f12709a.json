@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2f12709a",
+  "capturedAt": "2026-11-11T06:55:30.594Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following is an equation of the line shown?",
+  "choices": {
+    "A": "$y=-2x$",
+    "B": "$y=-\\frac{1}{2}x$",
+    "C": "$y=\\frac{1}{2}x$",
+    "D": "$y=2x$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The equation of a line in the xy-plane can be written in the form $y=mx+b$, where $m$ is the slope of the line and $b$ is the y-intercept of the line. The graph of the line shown passes through the points $(0,0)$ and $(1,-2)$. Therefore, the slope of the line is $m=\\frac{-2-0}{1-0}=\\frac{-2}{1}=-2$ and the y-intercept of the line is $(0,0)$. Substituting these values for $m$ and $b$ into $y=mx+b$ yields $y=-2x+0$, or $y=-2x$. Thus, the equation of the line shown is $y=-2x$.",
+  "source": "https://cooksat.com/practice?questionId=2f12709a&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2f12709a/1-85e09686fb99d9b7.png",
+      "kind": "diagram"
+    }
+  ]
+}

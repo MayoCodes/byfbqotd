@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0c50f58c",
+  "capturedAt": "2026-11-11T06:30:05.506Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following equations represents a line in the $xy$-plane with a slope of $4$ and a $y$-intercept of $7$?",
+  "choices": {
+    "A": "$y = 4x - 7$",
+    "B": "$y = 4x + 7$",
+    "C": "$y = 7x - 4$",
+    "D": "$y = 7x + 4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The slope-intercept form of a line is $y = mx + b$, where $m$ is the slope and $b$ is the $y$-intercept. With slope $m = 4$ and $y$-intercept $b = 7$, the equation is $y = 4x + 7$.",
+  "source": "https://cooksat.com/practice?questionId=0c50f58c&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

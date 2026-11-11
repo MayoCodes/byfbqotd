@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c1ef8dec",
+  "capturedAt": "2026-11-11T06:58:13.749Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The graph of $3.5x - 8y = -280$ in the $xy$-plane has intercepts at $(a, 0)$ and $(0, b)$. What is the value of $ab$?\n\n$$0$$\n\n$$-2800$$",
+  "choices": {},
+  "correctAnswer": "$-2800$",
+  "explanation": "The correct answer is $-2800$. The x-intercept of a graph in the $xy$-plane is a point where the graph intersects the x-axis, which is a point with a y-coordinate of $0$. Substituting $0$ for $y$ in the given equation yields $3.5x - 8(0) = -280$, or $3.5x = -280$. Dividing both sides by $3.5$ yields $x = -80$. Therefore, $a = -80$. The y-intercept of a graph in the $xy$-plane is a point where the graph intersects the y-axis, which is a point with an x-coordinate of $0$. Substituting $0$ for $x$ in the given equation yields $3.5(0) - 8y = -280$, or $-8y = -280$. Dividing both sides by $-8$ yields $y = 35$. Therefore, $b = 35$. It follows that $ab = (-80)(35) = -2800$.",
+  "source": "https://cooksat.com/practice?questionId=c1ef8dec&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

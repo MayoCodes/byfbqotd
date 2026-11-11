@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e39fe841",
+  "capturedAt": "2026-11-11T06:58:47.231Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA mineral sample contains A-type crystals and B-type crystals. The estimated total mass of A-type and B-type crystals in this sample is $58,443$ micrograms. The graph shown models the possible combinations of the number of A-type crystals, $x$, and B-type crystals, $y$, that could be in this sample if all the A-type crystals have the same estimated mass and all the B-type crystals have the same estimated mass. Based on the graph, which of the following is closest to the estimated mass, in micrograms, of each A-type crystal in this sample?",
+  "choices": {
+    "A": "$487$",
+    "B": "$649$",
+    "C": "$19,481$",
+    "D": "$57,956$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The line shown passes through the points $(0, 90)$ and $(120, 0)$. The slope of this line is $\\frac{0 - 90}{120 - 0} = -\\frac{3}{4}$. Since the $y$-intercept is $(0, 90)$, the equation of the line is $y = -\\frac{3}{4}x + 90$. Multiplying both sides by $4$ yields $4y = -3x + 360$, or $3x + 4y = 360$. This equation represents the relationship between the number of A-type crystals, $x$, and the number of B-type crystals, $y$, in the sample. It's given that the total estimated mass is $58{,}443$ micrograms. If each A-type crystal has mass $a$ micrograms and each B-type crystal has mass $b$ micrograms, then $ax + by = 58{,}443$. Comparing this with $3x + 4y = 360$, the equations have the same form, so $a$ corresponds to $3c$ and $b$ corresponds to $4c$ for some scaling constant $c$. The constant $c$ can be found by using the $x$-intercept point $(120, 0)$: $3c \\cdot 120 + 4c \\cdot 0 = 58{,}443$, which gives $360c = 58{,}443$, or $c \\approx 162.34$. Therefore, $a = 3c \\approx 3(162.34) \\approx 487.03$, which is closest to $487$ micrograms.",
+  "source": "https://cooksat.com/practice?questionId=e39fe841&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e39fe841/1-41a118ef4680c17e.png",
+      "kind": "diagram"
+    }
+  ]
+}

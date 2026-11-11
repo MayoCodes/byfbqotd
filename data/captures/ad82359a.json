@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ad82359a",
+  "capturedAt": "2026-11-11T06:57:52.949Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Two Points",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of $y = g(x) + 17$ is shown. Which equation defines function $g$?",
+  "choices": {
+    "A": "$g(x) = \\frac{1}{3}x - 18$",
+    "B": "$g(x) = \\frac{1}{3}x - 17$",
+    "C": "$g(x) = \\frac{1}{3}x - 1$",
+    "D": "$g(x) = \\frac{1}{3}x + 16$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The equation of the line shown can be written in slope-intercept form $y = mx + b$. The y-intercept of the graph is $(0, -1)$, so $b = -1$. The line also passes through $(3, 0)$, so the slope is $\\frac{0 - (-1)}{3 - 0} = \\frac{1}{3}$. Therefore, an equation of the graph is $y = \\frac{1}{3}x - 1$. Since the graph represents $y = g(x) + 17$, substituting $g(x) + 17$ for $y$ gives $g(x) + 17 = \\frac{1}{3}x - 1$. Subtracting $17$ from both sides yields $g(x) = \\frac{1}{3}x - 18$.",
+  "source": "https://cooksat.com/practice?questionId=ad82359a&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ad82359a/1-d7bc31877dd2c62d.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bc10c184",
+  "capturedAt": "2026-11-11T06:58:10.311Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For a gardening project, a landscaper bought $x$ one-pound bags of soil and $y$ five-pound bags of soil, for a total of $180$ pounds of soil. Which equation represents this situation?",
+  "choices": {
+    "A": "$x + y = 180$",
+    "B": "$x + 5y = 180$",
+    "C": "$5x + y = 180$",
+    "D": "$5x + 5y = 180$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the landscaper bought $x$ one-pound bags of soil and $y$ five-pound bags of soil. Since each of the $x$ bags weighs $1$ pound, the total weight from those bags is $1x$, or $x$, pounds. Since each of the $y$ bags weighs $5$ pounds, the total weight from those bags is $5y$ pounds. It's given that the combined total is $180$ pounds; thus, the equation $x + 5y = 180$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=bc10c184&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

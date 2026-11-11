@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d638c16f",
+  "capturedAt": "2026-11-11T06:58:33.146Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2.5b + 6m = 270$$\n\nThe given equation describes the relationship between the number of books, $b$, and the number of magazines, $m$, that can be shelved at a library during a week. If the library shelves $45$ magazines during a week, how many books can it shelve during this week?",
+  "choices": {
+    "A": "$0$",
+    "B": "$6$",
+    "C": "$135$",
+    "D": "$270$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the equation $2.5b + 6m = 270$ describes the relationship between the number of books, $b$, and the number of magazines, $m$, that can be shelved at a library during a week. It's also given that the library shelves $45$ magazines during a week. Substituting $45$ for $m$ in the given equation yields $2.5b + 6(45) = 270$, or $2.5b + 270 = 270$. Subtracting $270$ from both sides of this equation yields $2.5b = 0$. Dividing both sides of this equation by $2.5$ yields $b = 0$. Therefore, the library can shelve $0$ books during this week.",
+  "source": "https://cooksat.com/practice?questionId=d638c16f&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

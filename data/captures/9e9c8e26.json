@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9e9c8e26",
+  "capturedAt": "2026-11-11T06:57:30.557Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The relationship between two variables, $x$ and $y$, is linear. For every increase in the value of $x$ by $1$, the value of $y$ increases by $7$. When the value of $x$ is $3$, the value of $y$ is $25$. Which equation represents this relationship?",
+  "choices": {
+    "A": "$y = 3x + 25$",
+    "B": "$y = 4x + 7$",
+    "C": "$y = 5x + 28$",
+    "D": "$y = 7x + 4$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The slope-intercept form of an equation for a line is $y = mx + b$, where $m$ is the slope of the line and $b$ is the $y$-coordinate of the $y$-intercept. It's given that for every increase in the value of $x$ by $1$, the value of $y$ increases by $7$. Therefore, the slope is $7$, so $m = 7$. It's also given that when $x = 3$, $y = 25$. Substituting $7$ for $m$, $3$ for $x$, and $25$ for $y$ in the equation $y = mx + b$ yields $25 = 7(3) + b$, or $25 = 21 + b$. Subtracting $21$ from both sides of this equation yields $b = 4$. Substituting $7$ for $m$ and $4$ for $b$ in the equation $y = mx + b$ gives $y = 7x + 4$.",
+  "source": "https://cooksat.com/practice?questionId=9e9c8e26&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

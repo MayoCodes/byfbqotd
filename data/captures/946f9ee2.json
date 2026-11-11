@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "946f9ee2",
+  "capturedAt": "2026-11-11T06:57:20.486Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A farm consists of a $7$-acre orchard and an $18$-acre field. The total number of apple trees on the farm is $3,286$. The equation $7x + 18y = 3,286$ represents this situation. Which of the following is the best interpretation of $x$ in this context?",
+  "choices": {
+    "A": "The average number of apple trees per acre in the orchard",
+    "B": "The average number of apple trees per acre in the field",
+    "C": "The total number of apple trees in the orchard",
+    "D": "The total number of apple trees in the field"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the farm consists of a $7$-acre orchard and an $18$-acre field, and that the total number of apple trees on the farm is $3{,}286$. Since the total number of apple trees in a given area equals the size of the area, in acres, times the average number of apple trees per acre, the expression $7x$ represents the total number of apple trees in the orchard and $18y$ represents the total number of apple trees in the field. Because $7$ is the size of the orchard in acres, $x$ must represent the average number of apple trees per acre in the orchard.",
+  "source": "https://cooksat.com/practice?questionId=946f9ee2&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

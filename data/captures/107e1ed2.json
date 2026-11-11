@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "107e1ed2",
+  "capturedAt": "2026-11-11T06:30:14.019Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Intercept",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$7x - 3y = -42$$\n\nFor the given equation, which table gives three values of $x$ and their corresponding values of $y$?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Substituting $0$ for $x$ in the given equation yields $7(0) - 3y = -42$, or $-3y = -42$. Dividing both sides by $-3$ yields $y = 14$. Substituting $3$ for $x$ yields $7(3) - 3y = -42$, or $21 - 3y = -42$. Subtracting $21$ from both sides yields $-3y = -63$. Dividing both sides by $-3$ yields $y = 21$. Substituting $6$ for $x$ yields $7(6) - 3y = -42$, or $42 - 3y = -42$. Subtracting $42$ from both sides yields $-3y = -84$. Dividing both sides by $-3$ yields $y = 28$. Choice A gives three values of $x$, $0$, $3$, and $6$, and their corresponding values of $y$, $14$, $21$, and $28$, respectively, for the given equation.",
+  "source": "https://cooksat.com/practice?questionId=107e1ed2&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/107e1ed2/1-68f72db777960580.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/107e1ed2/2-5b4ec161cbd7d3a6.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/107e1ed2/3-55c79cfb7c80fe41.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/107e1ed2/4-2d9fdff3241d7b7a.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "25b027a8",
+  "capturedAt": "2026-11-11T06:55:21.213Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph shows a linear relationship between $x$ and $y$. Which equation represents this relationship, where $W$ is a positive constant?",
+  "choices": {
+    "A": "$10x - Wy = 25$",
+    "B": "$10x + Wy = -25$",
+    "C": "$Wx - 10y = -25$",
+    "D": "$Wx + 10y = 25$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The graph shows a line passing through the points $(0, 2.5)$ and $(5, 0)$. A line in the $xy$-plane can be written as $y = mx + b$, where $m$ is the slope and $b$ is the $y$-intercept. From the point $(0, 2.5)$, the $y$-intercept is $2.5$. Using the two points, the slope is $\\frac{0 - 2.5}{5 - 0} = -\\frac{1}{2}$. Therefore, the equation is $y = -\\frac{1}{2}x + 2.5$. Rewriting the equation in choice D, $Wx + 10y = 25$, in slope-intercept form gives $10y = -Wx + 25$, or $y = -\\frac{W}{10}x + 2.5$. For this to match $y = -\\frac{1}{2}x + 2.5$, the slope $-\\frac{W}{10}$ must equal $-\\frac{1}{2}$, giving $W = 5$. Since $W$ is a positive constant, this is valid. Verifying with the point $(5, 0)$: $5(5) + 10(0) = 25$, which is true.",
+  "source": "https://cooksat.com/practice?questionId=25b027a8&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/25b027a8/1-7de9e72885e12df6.png",
+      "kind": "diagram"
+    }
+  ]
+}

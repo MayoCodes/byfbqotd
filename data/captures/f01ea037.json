@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f01ea037",
+  "capturedAt": "2026-11-11T06:59:04.175Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A linear function passes through the points $(-1,5)$ and $(2,1)$. What is the slope of this function?",
+  "choices": {
+    "A": "$-\\frac{4}{3}$",
+    "B": "$-\\frac{3}{4}$",
+    "C": "$\\frac{3}{4}$",
+    "D": "$\\frac{4}{3}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The slope of a line through two points is $\\frac{y_2-y_1}{x_2-x_1}$. Using points $(-1,5)$ and $(2,1)$: slope $= \\frac{1-5}{2-(-1)} = \\frac{-4}{3} = -\\frac{4}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=f01ea037&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

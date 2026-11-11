@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "79bf92b7",
+  "capturedAt": "2026-11-11T06:56:39.321Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $j$ is defined by the equation $5x - 7y = 8$. Line $k$ is parallel to line $j$ in the xy-plane. What is the slope of line $k$?",
+  "choices": {
+    "A": "$-7$",
+    "B": "$-5$",
+    "C": "$\\frac{5}{7}$",
+    "D": "$\\frac{7}{5}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since line $k$ is parallel to line $j$, the two lines share the same slope. The equation $5x - 7y = 8$ can be rewritten in slope-intercept form $y = mx + b$, where $m$ is the slope. Subtracting $5x$ from both sides yields $-7y = -5x + 8$. Dividing both sides by $-7$ yields $y = \\frac{5}{7}x - \\frac{8}{7}$. Therefore, the slope of line $j$ is $\\frac{5}{7}$, and since parallel lines have equal slopes, the slope of line $k$ is also $\\frac{5}{7}$.",
+  "source": "https://cooksat.com/practice?questionId=79bf92b7&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

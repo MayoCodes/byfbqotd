@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e4263727",
+  "capturedAt": "2026-11-11T06:58:50.619Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $p$ is defined by $\\frac{1}{4}x + \\frac{1}{7}y - 36 = 0$. Line $r$ is perpendicular to line $p$ in the $xy$-plane. What is the slope of line $r$?",
+  "choices": {
+    "A": "$-\\frac{7}{4}$",
+    "B": "$-\\frac{4}{7}$",
+    "C": "$\\frac{4}{7}$",
+    "D": "$\\frac{7}{4}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since line $r$ is perpendicular to line $p$ in the $xy$-plane, the slope of line $r$ is the negative reciprocal of the slope of line $p$. To find the slope of line $p$, the equation $\\frac{1}{4}x + \\frac{1}{7}y - 36 = 0$ can be rewritten in slope-intercept form $y = mx + b$. Adding $36$ to both sides and subtracting $\\frac{1}{4}x$ from both sides yields $\\frac{1}{7}y = -\\frac{1}{4}x + 36$. Multiplying both sides by $7$ yields $y = -\\frac{7}{4}x + 252$. It follows that the slope of line $p$ is $-\\frac{7}{4}$. The negative reciprocal of $-\\frac{7}{4}$ is $\\frac{4}{7}$. Thus, the slope of line $r$ is $\\frac{4}{7}$.",
+  "source": "https://cooksat.com/practice?questionId=e4263727&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

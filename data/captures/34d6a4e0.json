@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "34d6a4e0",
+  "capturedAt": "2026-11-11T06:55:34.393Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$5 p + 2 q = 34$$\n\nA bakery charged a customer $$34$ for some pastries and some cookies. The equation above represents the relationship between $p$, the number of pastries, and $q$, the number of cookies, the customer purchased. If the customer purchased $4$ pastries, how many cookies were purchased?",
+  "choices": {
+    "A": "$4$",
+    "B": "$7$",
+    "C": "$10$",
+    "D": "$14$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $p$ represents the number of pastries and $q$ represents the number of cookies the customer purchased. If the customer purchased $4$ pastries, then $p = 4$. Substituting $4$ for $p$ in the equation $5 p + 2 q = 34$ yields $5 \\times 4 + 2 q = 34$, or $20 + 2 q = 34$. Subtracting $20$ from both sides of the equation yields $2 q = 14$. Dividing both sides of this equation by $2$ yields $q = 7$. Therefore, the customer purchased $7$ cookies.",
+  "source": "https://cooksat.com/practice?questionId=34d6a4e0&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

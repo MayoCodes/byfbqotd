@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "caed7c46",
+  "capturedAt": "2026-11-11T06:58:18.685Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$6p + 5q = 42$$\n\nPriya bought $6$ apples that cost $p$ dollars each and $5$ oranges that cost $q$ dollars each. If the given equation represents this situation, which of the following is the best interpretation of $42$ in this context?",
+  "choices": {
+    "A": "The total cost, in dollars, for all apples purchased",
+    "B": "The total cost, in dollars, for all oranges purchased",
+    "C": "The total cost, in dollars, for all apples and oranges purchased",
+    "D": "The difference in the total cost, in dollars, between the apples and oranges purchased"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since Priya bought $6$ apples that cost $p$ dollars each, the expression $6p$ represents the total cost, in dollars, of the $6$ apples she bought. Since she bought $5$ oranges that cost $q$ dollars each, the expression $5q$ represents the total cost, in dollars, of the $5$ oranges she bought. Therefore, the expression $6p + 5q$ represents the total cost, in dollars, for all apples and oranges she bought. In the given equation, the expression $6p + 5q$ is equal to $42$. Therefore, it follows that $42$ is the total cost, in dollars, for all apples and oranges purchased.",
+  "source": "https://cooksat.com/practice?questionId=caed7c46&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0c5060ae",
+  "capturedAt": "2026-11-11T06:30:02.816Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe point with coordinates $(v, 2)$ lies on the line shown. What is the value of $v$?",
+  "choices": {
+    "A": "$\\frac{(18)}{5}$",
+    "B": "$\\frac{(21)}{5}$",
+    "C": "$\\frac{(27)}{5}$",
+    "D": "$\\frac{(29)}{5}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. From the graph, the points $(0, 5)$ and $(9, 0)$ lie on the line. Using the slope formula $m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$ with these points gives $m = \\frac{0 - 5}{9 - 0} = -\\frac{5}{9}$. Since the line has y-intercept $5$, its equation is $y = -\\frac{5}{9}x + 5$. Substituting the point $(v, 2)$ into this equation gives $2 = -\\frac{5}{9}v + 5$. Subtracting $5$ from both sides yields $-3 = -\\frac{5}{9}v$. Multiplying both sides by $-\\frac{9}{5}$ gives $v = \\frac{27}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=0c5060ae&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0c5060ae/1-617ff6e4249310a6.png",
+      "kind": "diagram"
+    }
+  ]
+}

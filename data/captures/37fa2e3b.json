@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "37fa2e3b",
+  "capturedAt": "2026-11-11T06:55:39.283Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A student is creating a reading schedule that will total $52$ hours. The schedule will consist of short stories that take $1$ hour each to read and novels that take $4$ hours each to read. Which equation represents this situation, where $x$ represents the number of short stories and $y$ represents the number of novels?",
+  "choices": {
+    "A": "$x + 4y = 52$",
+    "B": "$4x + y = 52$",
+    "C": "$5(x + y) = 52$",
+    "D": "$5xy = 52$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $x$ represents the number of short stories (each taking $1$ hour) and $y$ represents the number of novels (each taking $4$ hours), the total reading time is $1 \\cdot x + 4 \\cdot y$, or $x + 4y$, hours. Since the schedule totals $52$ hours, the equation $x + 4y = 52$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=37fa2e3b&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

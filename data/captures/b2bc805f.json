@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b2bc805f",
+  "capturedAt": "2026-11-11T06:58:01.498Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $s$ is defined by $y = \\frac{(13)}{9} x + 6$. Line $t$ is parallel to line $s$ in the xy-plane. What is the slope of line $t$?",
+  "choices": {
+    "A": "$\\frac{9}{(13)}$",
+    "B": "$\\frac{(13)}{9}$",
+    "C": "$6$",
+    "D": "$13$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For an equation written in the form $y = m x + b$, $m$ is the slope and $b$ is the y-coordinate of the y-intercept. The given equation $y = \\frac{13}{9} x + 6$ has slope $\\frac{13}{9}$, so line $s$ has slope $\\frac{13}{9}$. Since parallel lines have equal slopes, line $t$ also has slope $\\frac{13}{9}$.",
+  "source": "https://cooksat.com/practice?questionId=b2bc805f&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

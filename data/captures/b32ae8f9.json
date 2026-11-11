@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b32ae8f9",
+  "capturedAt": "2026-11-11T06:58:03.140Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Intercept",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 40x + 9$$\n\nWhich table gives three values of $x$ and their corresponding values of $y$ for the given equation?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Each of the given choices gives three values of $x$: $0$, $2$, and $4$. Substituting $0$ for $x$ in the given equation yields $y = 40(0) + 9$, or $y = 9$. Therefore, when $x = 0$, the corresponding value of $y$ for the given equation is $9$. Substituting $2$ for $x$ in the given equation yields $y = 40(2) + 9$, or $y = 89$. Therefore, when $x = 2$, the corresponding value of $y$ for the given equation is $89$. Substituting $4$ for $x$ in the given equation yields $y = 40(4) + 9$, or $y = 169$. Therefore, when $x = 4$, the corresponding value of $y$ for the given equation is $169$. Thus, if the three values of $x$ are $0$, $2$, and $4$, then their corresponding values of $y$ are $9$, $89$, and $169$, respectively, for the given equation.",
+  "source": "https://cooksat.com/practice?questionId=b32ae8f9&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b32ae8f9/1-7cd00d0fbde103a5.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/b32ae8f9/2-91cade661c408304.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/b32ae8f9/3-9e571d9c4b8156c6.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/b32ae8f9/4-5daee1254c290e8a.png",
+      "kind": "diagram"
+    }
+  ]
+}

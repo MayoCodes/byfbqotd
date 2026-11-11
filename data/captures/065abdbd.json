@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "065abdbd",
+  "capturedAt": "2026-11-11T06:29:57.483Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "According to a fitness guide, a $175$-pound adult burns $250$ calories for every $30$ minutes of swimming and $200$ calories for every $30$ minutes of jogging. A $175$-pound adult has completed $2$ hours of jogging. Based on the fitness guide, how many hours should the adult swim to burn a total of $2,800$ calories from jogging and swimming?",
+  "choices": {
+    "A": "$4$",
+    "B": "$5.2$",
+    "C": "$5.6$",
+    "D": "$8$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since a $175$-pound adult burns $250$ calories for every $30$ minutes of swimming, the adult burns $250s$ calories after swimming for $s$ $30$-minute periods. Similarly, the adult burns $200j$ calories after jogging for $j$ $30$-minute periods. Therefore, the equation $250s + 200j = 2{,}800$ represents the situation where the adult burns a total of $2{,}800$ calories. It's given that the adult completes $2$ hours, or $4$ $30$-minute periods, of jogging. Substituting $4$ for $j$ in the equation yields $250s + 200(4) = 2{,}800$, or $250s + 800 = 2{,}800$. Subtracting $800$ from both sides yields $250s = 2{,}000$. Dividing both sides by $250$ yields $s = 8$. Since $s$ represents the number of $30$-minute periods spent swimming and there are $2$ $30$-minute periods in every hour, it follows that the adult will need to swim for $\\frac{8}{2}$, or $4$ hours.",
+  "source": "https://cooksat.com/practice?questionId=065abdbd&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

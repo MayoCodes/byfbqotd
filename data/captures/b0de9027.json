@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b0de9027",
+  "capturedAt": "2026-11-11T06:57:58.386Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x + y = 420$$\n\nThe given equation relates the total number of vegetable plants, $x$, and the total number of herb plants, $y$, grown in an $18$-acre community garden. If $275$ vegetable plants were grown in the community garden, how many herb plants were grown in the community garden?",
+  "choices": {
+    "A": "$18$",
+    "B": "$35$",
+    "C": "$145$",
+    "D": "$275$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the equation $x + y = 420$ relates the total number of vegetable plants, $x$, and the total number of herb plants, $y$, grown in an $18$-acre community garden. It's also given that $275$ vegetable plants were grown in the community garden. Substituting $275$ for $x$ in the given equation yields $275 + y = 420$. Subtracting $275$ from both sides of this equation yields $y = 145$. Therefore, $145$ herb plants were grown in the community garden.",
+  "source": "https://cooksat.com/practice?questionId=b0de9027&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

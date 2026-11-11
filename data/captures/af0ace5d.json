@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "af0ace5d",
+  "capturedAt": "2026-11-11T06:57:55.048Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2x + y = 52$$\n\nIn triangle $JKL$, sides $JK$ and $JL$ each have a length of $x$ centimeters and side $KL$ has a length of $y$ centimeters. The given equation represents this situation. Which of the following is the best interpretation of $52$ in this context?",
+  "choices": {
+    "A": "The length, in centimeters, of one of the two sides of equal length",
+    "B": "The difference, in centimeters, between the lengths of sides $JK$ and $JL$",
+    "C": "The difference, in centimeters, between the lengths of sides $JK$ and $KL$",
+    "D": "The sum of the lengths, in centimeters, of the three sides of the triangle"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that in triangle $JKL$, sides $JK$ and $JL$ each have a length of $x$ centimeters. Therefore, the expression $2x$ represents the sum of the lengths, in centimeters, of sides $JK$ and $JL$. It's also given that side $KL$ has a length of $y$ centimeters. Therefore, the expression $2x + y$ represents the sum of the lengths, in centimeters, of sides $JK$, $JL$, and $KL$. Since $2x + y$ is the sum of the lengths, in centimeters, of the three sides of the triangle and $2x + y = 52$, it follows that $52$ is the sum of the lengths, in centimeters, of the three sides of the triangle.",
+  "source": "https://cooksat.com/practice?questionId=af0ace5d&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

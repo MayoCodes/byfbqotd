@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7dac7a74",
+  "capturedAt": "2026-11-11T06:56:48.237Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The value of $y$ is $36$ more than seven times the value of $x$. Which equation represents $y$ in terms of $x$?",
+  "choices": {
+    "A": "$y = 7x + 36$",
+    "B": "$y = 36x + 7$",
+    "C": "$y = 43x + 7$",
+    "D": "$y = 43x + 36$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The phrase 'seven times the value of $x$' can be represented as $7x$. The phrase '$y$ is $36$ more than' this value means $36$ is added to $7x$. Therefore, the equation that represents $y$ in terms of $x$ is $y = 7x + 36$.",
+  "source": "https://cooksat.com/practice?questionId=7dac7a74&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

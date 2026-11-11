@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d55a6cc2",
+  "capturedAt": "2026-11-11T06:58:31.120Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph shows the relationship between the number of pounds of apples, $x$, and the number of pounds of pears, $y$, that Mateus can buy. Which equation could represent this relationship?",
+  "choices": {
+    "A": "$y = 3x + 4$",
+    "B": "$y = 4x + 3$",
+    "C": "$3x + 4y = 240$",
+    "D": "$4x + 3y = 240$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A line in the $xy$-plane can be written as $y = mx + b$, where $m$ is the slope and $b$ is the $y$-coordinate of the $y$-intercept. The graph passes through $(0, 60)$ and $(80, 0)$. Substituting $(0, 60)$ into $y = mx + b$ gives $60 = b$. Substituting $(80, 0)$ and $b = 60$ gives $0 = 80m + 60$, so $m = -\\frac{60}{80} = -\\frac{3}{4}$. Thus $y = -\\frac{3}{4}x + 60$. Multiplying both sides by $4$ gives $4y = -3x + 240$, and adding $3x$ to both sides gives $3x + 4y = 240$.",
+  "source": "https://cooksat.com/practice?questionId=d55a6cc2&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d55a6cc2/1-83c8e97954203b51.png",
+      "kind": "diagram"
+    }
+  ]
+}

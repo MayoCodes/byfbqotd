@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db55cea5",
+  "capturedAt": "2026-11-11T06:58:36.614Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Intercept",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$5x - 3y = -45$$\n\nFor the given equation, which table gives three values of $x$ and their corresponding values of $y$?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To verify which table represents this linear relationship, the values in each table can be checked by substituting them into the given equation. The table in choice A shows that when $x = 0$, $y = 15$. Substituting these values into the given equation yields $5(0) - 3(15) = -45$, or $-45 = -45$, which is true. Additionally, the table in choice A shows that when $x = 3$, $y = 20$. Substituting these values yields $5(3) - 3(20) = -45$, or $-45 = -45$, which is true. Finally, the table in choice A shows that when $x = 6$, $y = 25$. Substituting these values yields $5(6) - 3(25) = -45$, or $-45 = -45$, which is true. Therefore, the table in choice A gives three values of $x$ and their corresponding values of $y$.",
+  "source": "https://cooksat.com/practice?questionId=db55cea5&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/db55cea5/1-6183a22792dd0df4.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/db55cea5/2-da434058ed2fb790.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/db55cea5/3-e4086d2ebf88927d.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/db55cea5/4-05eada381424a30d.png",
+      "kind": "diagram"
+    }
+  ]
+}

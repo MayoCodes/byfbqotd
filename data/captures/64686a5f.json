@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "64686a5f",
+  "capturedAt": "2026-11-11T06:56:19.047Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nLine $p$ is shown. Which equation represents line $p$?",
+  "choices": {
+    "A": "$y=-\\frac{1}{2}x+4$",
+    "B": "$y=-\\frac{1}{2}(x+4)$",
+    "C": "$y=\\frac{1}{2}(x+4)$",
+    "D": "$y=\\frac{1}{2}x+4$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The graph of a linear function can be represented by an equation of the form $y=mx+b$, where $m$ is the slope of the line and $b$ is the y-intercept. Line $p$ passes through the points $(0,4)$ and $(8,0)$. The slope of line $p$ is $\\frac{0-4}{8-0}=\\frac{-4}{8}=-\\frac{1}{2}$. The y-intercept of line $p$ is $4$, since the line passes through the point $(0,4)$. Substituting $-\\frac{1}{2}$ for $m$ and $4$ for $b$ in the equation $y=mx+b$ gives $y=-\\frac{1}{2}x+4$. Therefore, the equation $y=-\\frac{1}{2}x+4$ represents line $p$.",
+  "source": "https://cooksat.com/practice?questionId=64686a5f&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/64686a5f/1-7faabc742bf571e3.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4b755121",
+  "capturedAt": "2026-11-11T06:56:03.117Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$7x + 9y = 141$$\n\nThe given equation represents the possible combinations of the number of blueberry muffins, $x$, and the number of cinnamon scones, $y$, that a bakery can sell for a total of $$141$. If the bakery sells $4$ cinnamon scones, how many blueberry muffins does it sell?\n\n$$0$$\n\n$$15$$",
+  "choices": {},
+  "correctAnswer": "$15$",
+  "explanation": "The correct answer is $15$. It's given that the equation $7x + 9y = 141$ represents the possible combinations of the number of blueberry muffins, $x$, and the number of cinnamon scones, $y$, sold for a total of $$141$. Since the bakery sells $4$ cinnamon scones, $y = 4$. Substituting $4$ for $y$ in the given equation yields $7x + 9(4) = 141$, or $7x + 36 = 141$. Subtracting $36$ from both sides yields $7x = 105$. Dividing both sides by $7$ yields $x = 15$. Therefore, the bakery sells $15$ blueberry muffins.",
+  "source": "https://cooksat.com/practice?questionId=4b755121&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

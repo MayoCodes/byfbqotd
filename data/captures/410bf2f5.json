@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "410bf2f5",
+  "capturedAt": "2026-11-11T06:55:49.381Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$45x + 73y = 534$$\n\nThe given equation represents the volume of sand $x$, in cubic feet, and the volume of gravel $y$, in cubic feet, in a mixture of sand and gravel that weighs $534$ pounds. If the volume of gravel in the mixture is $3$ cubic feet, what is the volume of sand in the mixture, in cubic feet?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. Substituting $3$ for $y$ in the given equation yields $45x + 73(3) = 534$, or $45x + 219 = 534$. Subtracting $219$ from both sides gives $45x = 315$. Dividing both sides by $45$ yields $x = 7$. Since $x$ represents the volume of sand, in cubic feet, the volume of sand in the mixture is $7$ cubic feet.",
+  "source": "https://cooksat.com/practice?questionId=410bf2f5&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "19037fd4",
+  "capturedAt": "2026-11-11T06:30:31.497Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The equation $58 = 2 p + 2 q$ gives the relationship between the side lengths $p$ and $q$ of a certain rectangle. If $p = 11$, what is the value of $q$?\n\n$$0$$\n\n$$18$$",
+  "choices": {},
+  "correctAnswer": "$18$",
+  "explanation": "The correct answer is $18$. It's given that the equation $58 = 2 p + 2 q$ gives the relationship between the side lengths $p$ and $q$ of a certain rectangle. Substituting $11$ for $p$ in the given equation yields $58 = 2 \\left( 11 \\right) + 2 q$, or $58 = 22 + 2 q$. Subtracting $22$ from both sides of this equation yields $36 = 2 q$. Dividing both sides of this equation by $2$ yields $18 = q$. Therefore, if $p = 11$, the value of $q$ is $18$.",
+  "source": "https://cooksat.com/practice?questionId=19037fd4&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

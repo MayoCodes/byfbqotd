@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c1013c05",
+  "capturedAt": "2026-11-11T06:58:11.867Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nWhich of the following equations represents the relationship between $x$ and $y$ shown in the table?",
+  "choices": {
+    "A": "$y = x - 1$",
+    "B": "$y = x + 1$",
+    "C": "$y = 2x$",
+    "D": "$y = 3x$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The table shows the relationship between $x$ and $y$. To find the equation that represents this relationship, we can first notice that the entries in the second column of the table increase steadily as the entries in the first column increase. This means that the relationship between $x$ and $y$ is linear. Then we notice that the change in the $x$-values is $1$ and the change in the $y$-values is $2$, so the slope is $2$. Next, we notice that the $y$-intercept of the line is $0$. Therefore, $y = 2x$ is the equation of the line and represents the relationship shown in the table.",
+  "source": "https://cooksat.com/practice?questionId=c1013c05&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c1013c05/1-dff05e74fecf4acb.png",
+      "kind": "diagram"
+    }
+  ]
+}

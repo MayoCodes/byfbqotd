@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7c83be40",
+  "capturedAt": "2026-11-11T06:56:46.458Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{x}{4} + \\frac{y}{7} = \\frac{(19)}{(28)}$$\n\nA pharmacist prepares a dose containing a total of $\\frac{(19)}{(28)}$ milligrams of a compound. The dose contains $x$ capsules of type A, each containing $p$ milligrams of the compound, and $y$ capsules of type B, each containing $q$ milligrams of the compound. The given equation represents this situation. According to this equation, what is the positive difference between the value of $p$ and the value of $q$?",
+  "choices": {
+    "A": "$\\frac{3}{(28)}$",
+    "B": "$\\frac{(19)}{(28)}$",
+    "C": "$3$",
+    "D": "$19$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since the dose contains $x$ capsules of type A with $p$ milligrams each and $y$ capsules of type B with $q$ milligrams each, the total milligrams of the compound can be expressed as $xp + yq = \\frac{19}{28}$. The given equation $\\frac{x}{4} + \\frac{y}{7} = \\frac{19}{28}$ can be rewritten as $\\frac{1}{4}x + \\frac{1}{7}y = \\frac{19}{28}$. Comparing this with $xp + yq = \\frac{19}{28}$ gives $p = \\frac{1}{4}$ and $q = \\frac{1}{7}$. The positive difference between $p$ and $q$ is $\\frac{1}{4} - \\frac{1}{7} = \\frac{7}{28} - \\frac{4}{28} = \\frac{3}{28}$.",
+  "source": "https://cooksat.com/practice?questionId=7c83be40&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

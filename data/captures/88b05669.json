@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "88b05669",
+  "capturedAt": "2026-11-11T06:57:09.517Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A total of $4$ regular pentagons each have side length $w$. A total of $2$ regular hexagons each have side length $h$. None of these pentagons and hexagons shares a side. The sum of the perimeters of all these pentagons and hexagons is $320$. Which equation represents this situation?",
+  "choices": {
+    "A": "$2w + 4h = 320$",
+    "B": "$4w + 2h = 320$",
+    "C": "$12w + 20h = 320$",
+    "D": "$20w + 12h = 320$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $4$ regular pentagons each have side length $w$. A regular pentagon has $5$ sides, so the perimeter of each pentagon is $5w$. The total perimeter from all $4$ pentagons is $4(5w)$, or $20w$. It's also given that $2$ regular hexagons each have side length $h$. A regular hexagon has $6$ sides, so the perimeter of each hexagon is $6h$. The total perimeter from all $2$ hexagons is $2(6h)$, or $12h$. It's given that the sum of the perimeters of all these pentagons and hexagons is $320$. Therefore, the equation $20w + 12h = 320$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=88b05669&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

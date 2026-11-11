@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1846d434",
+  "capturedAt": "2026-11-11T06:30:29.798Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $y = 0.25x$ models the relationship between the number of cupcakes a certain baker decorates, $y$, during an $x$-minute decorating session. How many cupcakes did the baker decorate if the session lasted $20$ minutes?",
+  "choices": {
+    "A": "$1$",
+    "B": "$5$",
+    "C": "$20$",
+    "D": "$25$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The equation $y = 0.25x$ models the relationship between the number of cupcakes the baker decorates, $y$, and the number of minutes in the session, $x$. Since the session lasted $20$ minutes, substituting $20$ for $x$ in the given equation yields $y = 0.25 \\times 20$, or $y = 5$.",
+  "source": "https://cooksat.com/practice?questionId=1846d434&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

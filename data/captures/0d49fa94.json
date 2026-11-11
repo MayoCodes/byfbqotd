@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0d49fa94",
+  "capturedAt": "2026-11-11T06:30:07.253Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows three values of $x$ and their corresponding values of $y$. Which of the following equations represents the relationship between $x$ and $y$ shown in the table?",
+  "choices": {
+    "A": "$y = \\frac{5}{3}x + 5$",
+    "B": "$y = \\frac{5}{3}x - 5$",
+    "C": "$y = \\frac{4}{3}x + 5$",
+    "D": "$y = \\frac{4}{3}x - 5$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. If the relationship between $x$ and $y$ is linear, then the equation of the line that represents the relationship can be written in the form $y = mx + b$, where $m$ is the slope and $b$ is the $y$-intercept. The $y$-intercept is the value of $y$ when $x$ is 0. The table shows that the value of $y$ is $-5$ when $x$ is $0$, so the $y$-intercept is $-5$. The slope of the line is the ratio of the difference in the $y$-coordinates of any two points on the line to the difference in the corresponding $x$-coordinates. The $x$-coordinate of the first point is $6$, and the $x$-coordinate of the second point is $3$. The $y$-coordinate of the first point is $3$, and the $y$-coordinate of the second point is $-1$. So the slope is $\\frac{3 - (-1)}{6 - 3}$, or $\\frac{4}{3}$. Therefore, the equation that represents the relationship between $x$ and $y$ is $y = \\frac{4}{3}x - 5$.",
+  "source": "https://cooksat.com/practice?questionId=0d49fa94&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/0d49fa94/1-1ec139d0c8776c1b.png",
+      "kind": "diagram"
+    }
+  ]
+}

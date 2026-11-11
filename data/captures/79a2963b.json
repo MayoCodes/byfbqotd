@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "79a2963b",
+  "capturedAt": "2026-11-11T06:56:37.108Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows two values of $x$ and their corresponding values of $y$ for a linear function $y=mx+b$, where $m$ and $b$ are constants. What is the value of $b$ ?",
+  "choices": {
+    "A": "$-5$",
+    "B": "$0$",
+    "C": "$2.5$",
+    "D": "$5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The table shows two values of $x$ and the corresponding values of $y$ for a linear function $y=mx+b$, where $m$ and $b$ are constants. The linear function passes through the points $(2, 5)$ and $(4, 10)$. The slope of the line is $m=\\frac{10-5}{4-2}=\\frac{5}{2}$. Substituting $x=2$, $y=5$, and $m=\\frac{5}{2}$ into the equation $y=mx+b$ yields $5=\\frac{5}{2}(2)+b$. Simplifying this equation yields $5=5+b$, which when solved for $b$ yields $b=0$.",
+  "source": "https://cooksat.com/practice?questionId=79a2963b&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/79a2963b/1-7f6302109c93d881.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "134908db",
+  "capturedAt": "2026-11-11T06:30:20.439Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "During a $255$-mile bicycle tour, Priya rode at an average speed of $45$ miles per hour for the first $x$ hours. She then finished the tour, riding at an average speed of $30$ miles per hour for the remaining $y$ hours. If $x = 3$, what is the value of $y$?\n\n$$0$$\n\n$$4$$",
+  "choices": {},
+  "correctAnswer": "$4$",
+  "explanation": "The correct answer is $4$. It's given that Priya rode $45$ miles per hour for $x$ hours; therefore, the distance ridden at this speed can be represented by $45x$. She then rode $30$ miles per hour for $y$ hours; therefore, the distance ridden at this speed can be represented by $30y$. Since Priya rode $255$ total miles, the equation $45x + 30y = 255$ represents this situation. If $x = 3$, substitution yields $45 \\times 3 + 30y = 255$, or $135 + 30y = 255$. Subtracting $135$ from both sides of this equation yields $30y = 120$. Dividing both sides of this equation by $30$ yields $y = 4$.",
+  "source": "https://cooksat.com/practice?questionId=134908db&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

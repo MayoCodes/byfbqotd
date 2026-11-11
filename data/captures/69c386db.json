@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "69c386db",
+  "capturedAt": "2026-11-11T06:56:26.187Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Two Points",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If the graph of $15x + 18y = 144$ is shifted down $5$ units in the $xy$-plane, what is the $y$-intercept of the resulting graph?",
+  "choices": {
+    "A": "$(0, 3)$",
+    "B": "$(0, 8)$",
+    "C": "$(0, 13)$",
+    "D": "$(0, 20)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. When the graph of an equation in the form $Ax + By = C$, where $A$, $B$, and $C$ are constants, is shifted down $k$ units in the $xy$-plane, the resulting graph can be represented by the equation $Ax + B(y + k) = C$. It's given that the graph of $15x + 18y = 144$ is shifted down $5$ units. Therefore, the resulting graph can be represented by $15x + 18(y + 5) = 144$, or $15x + 18y + 90 = 144$. Subtracting $90$ from both sides yields $15x + 18y = 54$. The $y$-intercept occurs where $x = 0$. Substituting $0$ for $x$ gives $18y = 54$, so $y = 3$. Therefore, the $y$-intercept of the resulting graph is $(0, 3)$.",
+  "source": "https://cooksat.com/practice?questionId=69c386db&subject=math&domain=algebra&skills=linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}
