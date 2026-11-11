@@ -4,7 +4,7 @@ const emptyStats=()=>({activeMs:0,awayMs:0,elapsedMs:0,firstAnswerMs:null,answer
 export function restoreRun(remote,draft,now,visible=true){
  const usable=remote.status==='active'&&draft?.startedAtMs===remote.startedAtMs&&draft?.savedAtMs>=(remote.clockAtMs||0);
  const data=usable?draft:remote,ids=remote.questionIds;
- const state={questionIds:[...ids],startedAtMs:remote.startedAtMs,deadlineMs:remote.deadlineMs||null,durationSeconds:remote.durationSeconds||0,status:remote.status,answers:copy(data.answers||{}),stats:copy(data.stats||{}),marked:[...(data.marked||[])],eliminated:copy(data.eliminated||{}),events:copy(data.events||[]).slice(-200),awayCount:data.awayCount||0,activeQuestionId:null,lastQuestionId:data.lastQuestionId||ids[0],lastTickAt:now,visible};
+ const state={questionIds:[...ids],startedAtMs:remote.startedAtMs,deadlineMs:remote.deadlineMs||null,durationSeconds:remote.durationSeconds||0,status:remote.status,submitReason:remote.submitReason||null,answers:copy(data.answers||{}),stats:copy(data.stats||{}),marked:[...(data.marked||[])],eliminated:copy(data.eliminated||{}),events:copy(data.events||[]).slice(-200),awayCount:data.awayCount||0,activeQuestionId:null,lastQuestionId:data.lastQuestionId||ids[0],lastTickAt:now,visible};
  for(const id of Object.keys(state.answers))if(!ids.includes(id)||typeof state.answers[id]!=='string')delete state.answers[id];
  if(usable&&data.lastQuestionId&&ids.includes(data.lastQuestionId)){const gap=Math.max(0,Math.min(now,remote.deadlineMs||now)-data.savedAtMs);if(gap>2000){const stats=state.stats[data.lastQuestionId]??=emptyStats();stats.awayMs+=gap;stats.elapsedMs+=gap;recordEvent(state,'resume',now,data.lastQuestionId);}}
  return state;

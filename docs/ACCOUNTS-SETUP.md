@@ -57,3 +57,7 @@ A timed attempt uses the server-stamped start and original limit. Reloading, nav
 In **Teacher dashboard → Assignment activity**, select the assignment and student. The report shows answers, visible time up to the latest answer change, total time with each question visible, time away, and the most recent tab-visibility events. Leaving the tab does not show a pop-up or invalidate the attempt. Before starting, students are told that their teacher can see this activity. The data is browser-reported and may be incomplete if the device is offline or closed. No other tab's URL, title, or content is collected.
 
 Publish the latest **complete** Firestore rules before manually deploying `main`. For local rule checks, run `npm run test:rules` with the Firebase CLI and Java 21 installed. This command uses an isolated demo project.
+
+## Student results and explanations
+
+Submitting either assignment mode opens a results screen with the final percentage, counts, a filterable question review, and source explanations with math formatting. Unanswered questions with valid keys count toward the denominator. Missing or image-only keys are labeled not scored and excluded. Historical capture-time wrong-choice feedback is omitted. Results read the acknowledged saved answers; teacher grades remain teacher-controlled. Opening an already submitted assignment returns to this review automatically. No extra Firestore rules are needed for this results feature.

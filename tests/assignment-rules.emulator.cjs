@@ -28,5 +28,6 @@ test('production store starts, resumes without resetting the clock, and submits 
  await store.saveAssignmentRun('room','store-integration','student',checkpoint());
  const resumed=await store.beginAssignment('room','store-integration','student');assert.equal(resumed.session.startedAtMs,first.session.startedAtMs);assert.equal(resumed.session.deadlineMs,first.session.deadlineMs);assert.equal(resumed.session.answers.q1,'B');assert.ok(resumed.serverNowMs>=first.serverNowMs);
  const finished=await store.finishAssignmentRun('room','store-integration','student',checkpoint(2,{q1:'D',q2:'A'}),'manual');assert.equal(finished.status,'submitted');assert.equal(finished.answers.q1,'D');assert.equal((await getDoc(submission(student,'store-integration'))).exists(),true);
+ const reopened=await store.assignmentContext('room','store-integration');assert.equal(reopened.existingSession.status,'submitted');assert.equal(reopened.existingSession.answers.q1,'D');
  authInstance.currentUser={...user,uid:'other'};await assert.rejects(store.saveAssignmentRun('room','store-integration','student',checkpoint()),/Sign back/);
 });
