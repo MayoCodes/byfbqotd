@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cadacdcd",
+  "capturedAt": "2026-11-11T06:01:36.009Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is a factor of $7x^{2} + 42x + 35$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$7x^{2}$",
+    "C": "$3x$",
+    "D": "$42x$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The coefficients in the expression $7x^{2} + 42x + 35$ are $7$, $42$, and $35$. Since $7$ is a factor of each of these coefficients, it is a common factor of all terms in the expression. The expression can be rewritten as $7\\left(x^{2}\\right) + 7\\left(6x\\right) + 7\\left(5\\right)$, or $7\\left(x^{2} + 6x + 5\\right)$. Therefore, $7$ is a factor of $7x^{2} + 42x + 35$.",
+  "source": "https://cooksat.com/practice?questionId=cadacdcd&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

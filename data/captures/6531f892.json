@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6531f892",
+  "capturedAt": "2026-11-11T05:59:46.271Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(8w^{3} - 4w + 5) - (9w^{2} + 3w - 1)$?",
+  "choices": {
+    "A": "$-w^{3} - 7w + 6$",
+    "B": "$-w^{3} - 7w + 4$",
+    "C": "$-9w^{2} + 8w^{3} - w + 4$",
+    "D": "$8w^{3} - 9w^{2} - 7w + 6$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Distributing the negative sign to the terms in the second parentheses yields $8w^{3} - 4w + 5 - 9w^{2} - 3w - (-1)$, or $8w^{3} - 4w + 5 - 9w^{2} - 3w + 1$. Grouping like terms in this expression yields $8w^{3} - 9w^{2} + (-4w - 3w) + (5 + 1)$. Combining like terms yields $8w^{3} - 9w^{2} - 7w + 6$.",
+  "source": "https://cooksat.com/practice?questionId=6531f892&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

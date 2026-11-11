@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "af23238f",
+  "capturedAt": "2026-11-11T06:01:08.457Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $12x^{2}+7x$?",
+  "choices": {
+    "A": "$x(12x-7)$",
+    "B": "$12x(x+7)$",
+    "C": "$7x(12x+1)$",
+    "D": "$x(12x+7)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Since $x$ is a common factor of both terms, $12x^{2}$ and $7x$, the given expression can be factored and rewritten as $x(12x+7)$.",
+  "source": "https://cooksat.com/practice?questionId=af23238f&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

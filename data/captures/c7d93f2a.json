@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c7d93f2a",
+  "capturedAt": "2026-11-11T06:01:29.829Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$(3-root(x^{7}))/(sqrt(x^{3}))=x^\\frac{p}{q}$$\n\nIf the equation above is true for $x > 0$, what is the value of $\\frac{p}{q}$?\n\n$$0$$\n\n$$\\frac{5}{6},.8333,0.833$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{5}{6},.8333,0.833$",
+  "explanation": "The correct answer is $\\frac{5}{6}$. Rewrite the radicals using rational exponents: $\\sqrt[3]{x^7} = x^{\\frac{7}{3}}$ and $\\sqrt{x^3} = x^{\\frac{3}{2}}$. Dividing these expressions gives $\\frac{x^{\\frac{7}{3}}}{x^{\\frac{3}{2}}} = x^{\\frac{7}{3} - \\frac{3}{2}}$. Finding a common denominator: $\\frac{7}{3} - \\frac{3}{2} = \\frac{14}{6} - \\frac{9}{6} = \\frac{5}{6}$. Therefore, $\\frac{p}{q} = \\frac{5}{6}$. Either $5/6$, $.8333$, or $0.833$ may be entered as the correct answer.",
+  "source": "https://cooksat.com/practice?questionId=c7d93f2a&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

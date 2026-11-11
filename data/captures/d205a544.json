@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d205a544",
+  "capturedAt": "2026-11-11T06:01:44.692Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is a factor of $3x^{2} + 51x + 12$?",
+  "choices": {
+    "A": "$3$",
+    "B": "$4x$",
+    "C": "$3x^{2}$",
+    "D": "$51x$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $3$ is a common factor of each of the terms in the given expression, the expression can be rewritten as $3\\left(x^{2} + 17x + 4\\right)$. Therefore, the factors of the given expression are $3$ and $x^{2} + 17x + 4$. Of these two factors, only $3$ is listed as a choice.",
+  "source": "https://cooksat.com/practice?questionId=d205a544&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

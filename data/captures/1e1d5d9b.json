@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1e1d5d9b",
+  "capturedAt": "2026-11-11T05:58:37.550Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(w^{3} + 7w^{2} - 6w) + 4(w^{2} + 9)$?",
+  "choices": {
+    "A": "$w^{3} + 4w^{2} - 6w + 36$",
+    "B": "$w^{3} + 7w^{2} - 6w + 36$",
+    "C": "$w^{3} + 8w^{2} - 6w + 36$",
+    "D": "$w^{3} + 11w^{2} - 6w + 36$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Applying the distributive property to $4(w^{2} + 9)$ gives $4w^{2} + 36$, so the expression can be rewritten as $w^{3} + 7w^{2} - 6w + 4w^{2} + 36$. Combining like terms yields $w^{3} + 11w^{2} - 6w + 36$.",
+  "source": "https://cooksat.com/practice?questionId=1e1d5d9b&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

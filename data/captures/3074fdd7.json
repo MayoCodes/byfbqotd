@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3074fdd7",
+  "capturedAt": "2026-11-11T05:58:57.345Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(8w^{5} - 5w^{2} + 2w - 4) - (3w^{5} - 2w^{4} + 7w^{2} - 4)$?",
+  "choices": {
+    "A": "$5w^{5} + 2w^{4} - 12w^{2} + 2w - 8$",
+    "B": "$5w^{5} + 2w^{4} - 12w^{2} + 2w$",
+    "C": "$5w^{5} - 2w^{4} - 12w^{2} + 2w$",
+    "D": "$5w^{5} + 2w^{4} + 2w^{2} + 2w$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Distributing the negative sign to the terms in the second parentheses yields $8w^{5} - 5w^{2} + 2w - 4 - 3w^{5} + 2w^{4} - 7w^{2} + 4$. Grouping like terms gives $(8w^{5} - 3w^{5}) + 2w^{4} + (-5w^{2} - 7w^{2}) + 2w + (-4 + 4)$. Combining like terms yields $5w^{5} + 2w^{4} - 12w^{2} + 2w$.",
+  "source": "https://cooksat.com/practice?questionId=3074fdd7&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

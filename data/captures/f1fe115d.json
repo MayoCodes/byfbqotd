@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f1fe115d",
+  "capturedAt": "2026-11-11T06:02:13.151Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $3(x + 5)^{2} = 192$, what is the value of $x^{2} + 10x$?",
+  "choices": {
+    "A": "$32$",
+    "B": "$39$",
+    "C": "$64$",
+    "D": "$89$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Dividing both sides of the equation $3(x + 5)^{2} = 192$ by $3$ yields $(x + 5)^{2} = 64$. The expression $(x + 5)^{2}$ can be rewritten as $(x + 5)(x + 5)$. Applying the distributive property yields $x(x + 5) + 5(x + 5)$, or $x^{2} + 5x + 5x + 25$. Combining like terms gives $x^{2} + 10x + 25$. Substituting $x^{2} + 10x + 25$ for $(x + 5)^{2}$ in the equation $(x + 5)^{2} = 64$ yields $x^{2} + 10x + 25 = 64$. Subtracting $25$ from both sides of this equation gives $x^{2} + 10x = 39$.",
+  "source": "https://cooksat.com/practice?questionId=f1fe115d&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

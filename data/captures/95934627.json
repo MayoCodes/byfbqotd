@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "95934627",
+  "capturedAt": "2026-11-11T06:00:36.630Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$(3w^{4} - 8w^{2} + 5) - (7w^{4} + 4w^{2} - w)$$\n\nWhich of the following expressions is equivalent to the expression above?",
+  "choices": {
+    "A": "$-4w^{4} - 12w^{2} + w + 5$",
+    "B": "$-4w^{4} - 4w^{2} + w + 5$",
+    "C": "$-4w^{4} - 12w^{2} - w + 5$",
+    "D": "$10w^{4} - 12w^{2} - w + 5$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Using the distributive property, the given expression can be rewritten as $3w^{4} - 8w^{2} + 5 - 7w^{4} - 4w^{2} + w$. Combining like terms, this expression can be rewritten as $(3 - 7)w^{4} + (-8 - 4)w^{2} + w + 5$, which is equivalent to $-4w^{4} - 12w^{2} + w + 5$.",
+  "source": "https://cooksat.com/practice?questionId=95934627&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

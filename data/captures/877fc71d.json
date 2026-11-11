@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "877fc71d",
+  "capturedAt": "2026-11-11T06:00:20.438Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$f(x) = 7x^{12} + 5x^{9}$$\n\n$$g(x) = -13x^{6} + 4x^{3}$$\n\nThe polynomial $q(x)$ is defined as the product of the given polynomials, $f(x)$ and $g(x)$. What is the coefficient of $x^{15}$ in $q(x)$?",
+  "choices": {
+    "A": "$-65$",
+    "B": "$-37$",
+    "C": "$15$",
+    "D": "$93$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The polynomial $q(x)$ is defined as the product $f(x) \\cdot g(x) = (7x^{12} + 5x^{9})(-13x^{6} + 4x^{3})$. Applying the distributive property yields $(7x^{12})(-13x^{6}) + (7x^{12})(4x^{3}) + (5x^{9})(-13x^{6}) + (5x^{9})(4x^{3})$. This can be rewritten as $-91x^{18} + 28x^{15} - 65x^{15} + 20x^{12}$. Combining the like terms with $x^{15}$ gives $28x^{15} - 65x^{15} = -37x^{15}$. Therefore, the coefficient of $x^{15}$ in $q(x)$ is $-37$.",
+  "source": "https://cooksat.com/practice?questionId=877fc71d&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

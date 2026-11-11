@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b5ae92b0",
+  "capturedAt": "2026-11-11T06:01:15.447Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is a factor of $81w^{15} - 25w^{13}$?",
+  "choices": {
+    "A": "$-56w^{28}$",
+    "B": "$5w - 9$",
+    "C": "$9w + 5$",
+    "D": "$81w^{2} + 25$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The expression $81w^{15} - 25w^{13}$ can be rewritten by factoring out the greatest common factor $w^{13}$: $w^{13}\\left(81w^{2} - 25\\right)$. The expression in parentheses is a difference of squares, since $81w^{2} = (9w)^{2}$ and $25 = 5^{2}$. A difference of squares $a^{2} - b^{2}$ can be factored as $(a + b)(a - b)$. Therefore, $81w^{2} - 25 = (9w + 5)(9w - 5)$, and the complete factorization is $w^{13}(9w + 5)(9w - 5)$. Thus, $9w + 5$ is a factor of the given expression.",
+  "source": "https://cooksat.com/practice?questionId=b5ae92b0&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

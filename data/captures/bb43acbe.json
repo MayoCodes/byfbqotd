@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bb43acbe",
+  "capturedAt": "2026-11-11T06:01:19.125Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following expressions is equivalent to $6 x^{8} - 6 x^{7} + 78 x$?",
+  "choices": {
+    "A": "$x ( 5 x^{8} - 5 x^{7} + 77 x )$",
+    "B": "$x ( 6^{8} - 6^{7} + 78 )$",
+    "C": "$6 x ( x^{8} - x^{7} + 13 x )$",
+    "D": "$6 x ( x^{7} - x^{6} + 13 )$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since $6 x$ is a common factor of each term in the given expression, the expression can be rewritten as $6 x \\left( x^{7} - x^{6} + 13 \\right)$.",
+  "source": "https://cooksat.com/practice?questionId=bb43acbe&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

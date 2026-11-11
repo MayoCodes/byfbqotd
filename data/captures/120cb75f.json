@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "120cb75f",
+  "capturedAt": "2026-11-11T05:58:27.913Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{3}{(x-1)}+\\frac{(-1)}{(x+3)}$ for $x 1$ and $x\\ne -3$?",
+  "choices": {
+    "A": "$\\frac{(2x+7)}{(2x+2)}$",
+    "B": "$(2x+8)/((x-1)(x+3))$",
+    "C": "$\\frac{(2x+10)}{(x^{2}+3x-3)}$",
+    "D": "$(2x+10)/((x-1)(x+3))$"
+  },
+  "correctAnswer": "D",
+  "explanation": "To add fractions with different denominators, find the LCD: $(x-1)(x+3)$. Rewrite as $\\frac{3(x+3)}{(x-1)(x+3)}+\\frac{-1(x-1)}{(x-1)(x+3)}$. This gives $\\frac{3x+9-x+1}{(x-1)(x+3)}=\\frac{2x+10}{(x-1)(x+3)}$.",
+  "source": "https://cooksat.com/practice?questionId=120cb75f&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

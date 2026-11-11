@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6d070aaf",
+  "capturedAt": "2026-11-11T05:59:56.011Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following is equivalent to $4 \\times (w^{3} - w) + 3 \\times (w^{3} - w)$?",
+  "choices": {
+    "A": "$7 w^{3} - 7 w$",
+    "B": "$7 w^{3} + 7 w$",
+    "C": "$7 w^{3}$",
+    "D": "$7 w$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $(w^{3} - w)$ is a common factor in the given expression, the like terms can be combined: $4 \\times (w^{3} - w) + 3 \\times (w^{3} - w) = 7 \\times (w^{3} - w)$. Distributing the $7$ yields $7 w^{3} - 7 w$.",
+  "source": "https://cooksat.com/practice?questionId=6d070aaf&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

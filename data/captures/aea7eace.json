@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aea7eace",
+  "capturedAt": "2026-11-11T06:01:06.891Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $3(x-4)-5(x+2)$?",
+  "choices": {
+    "A": "$8x-2$",
+    "B": "$-2x-14$",
+    "C": "$-2x-6$",
+    "D": "$-2x-22$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Applying the distributive property gives $3x-12-5x-10$. Combining like terms yields $(3x-5x)+(-12-10)$, which simplifies to $-2x-22$.",
+  "source": "https://cooksat.com/practice?questionId=aea7eace&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

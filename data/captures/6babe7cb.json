@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6babe7cb",
+  "capturedAt": "2026-11-11T05:59:52.256Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $18x^{3}+24x^{2}$?",
+  "choices": {
+    "A": "$6x(3x^{2}+4)$",
+    "B": "$6x^{2}(3x+8)$",
+    "C": "$3x^{2}(6x+4)$",
+    "D": "$6x^{2}(3x+4)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The greatest common factor of $18x^3$ and $24x^2$ is $6x^2$. Factoring out $6x^2$ gives $6x^2(3x+4)$, since $6x^2 \\cdot 3x = 18x^3$ and $6x^2 \\cdot 4 = 24x^2$.",
+  "source": "https://cooksat.com/practice?questionId=6babe7cb&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

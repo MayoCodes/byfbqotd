@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1ea40ef3",
+  "capturedAt": "2026-11-11T05:58:39.311Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$(\\frac{3}{4}w + 2) - (\\frac{1}{6}w - 7)$$\n\nWhich of the following is equivalent to the expression above?",
+  "choices": {
+    "A": "$-\\frac{1}{8}w^{2} - \\frac{(67)}{(12)}w - 14$",
+    "B": "$-\\frac{1}{8}w^{2} + \\frac{(59)}{(12)}w + 14$",
+    "C": "$\\frac{7}{(12)}w - 5$",
+    "D": "$\\frac{7}{(12)}w + 9$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Distributing the minus sign through the expression $\\frac{1}{6}w - 7$ rewrites the given expression as $\\frac{3}{4}w + 2 - \\frac{1}{6}w + 7$. Grouping like terms yields $\\left(\\frac{3}{4} - \\frac{1}{6}\\right)w + (2 + 7)$. Using a common denominator of $12$, $\\frac{3}{4} - \\frac{1}{6} = \\frac{9}{12} - \\frac{2}{12} = \\frac{7}{12}$. Therefore, the expression simplifies to $\\frac{7}{12}w + 9$.",
+  "source": "https://cooksat.com/practice?questionId=1ea40ef3&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

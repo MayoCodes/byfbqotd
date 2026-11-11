@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aaef6305",
+  "capturedAt": "2026-11-11T06:01:05.306Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $3(x+4y) + 2(2x+y)$?",
+  "choices": {
+    "A": "$7x + 14y$",
+    "B": "$8x + 14y$",
+    "C": "$5x + 14y$",
+    "D": "$7x + 12y$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Applying the distributive property to each term gives $3x + 12y + 4x + 2y$. Combining like terms yields $(3x+4x) + (12y+2y) = 7x + 14y$.",
+  "source": "https://cooksat.com/practice?questionId=aaef6305&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c03eb028",
+  "capturedAt": "2026-11-11T06:01:22.460Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For which positive value of $b$ can the expression $x^{2} + bx + 9$ be written in the form $(x + k)^{2}$, where $k$ is a real number?",
+  "choices": {
+    "A": "$3$",
+    "B": "$6$",
+    "C": "$9$",
+    "D": "$18$"
+  },
+  "correctAnswer": "B",
+  "explanation": "For $x^2 + bx + 9$ to be expressible as $(x + k)^2$, it must be a perfect square trinomial. Expanding $(x + k)^2$ gives $x^2 + 2kx + k^2$. Comparing with $x^2 + bx + 9$, we need $k^2 = 9$ and $b = 2k$. From $k^2 = 9$, we get $k = ±3$. Thus $b = 2k = ±6$, and the positive value is $b = 6$.",
+  "source": "https://cooksat.com/practice?questionId=c03eb028&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

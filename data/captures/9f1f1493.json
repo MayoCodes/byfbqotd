@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9f1f1493",
+  "capturedAt": "2026-11-11T06:00:55.859Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$(4w + 7) + (3w - 2)$$\n\nWhich of the following is equivalent to the given expression?",
+  "choices": {
+    "A": "$7w - 9$",
+    "B": "$7w - 5$",
+    "C": "$7w + 5$",
+    "D": "$7w + 9$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Using the associative and commutative properties of addition, the given expression $(4w + 7) + (3w - 2)$ can be rewritten as $(4w + 3w) + (7 - 2)$. Combining like terms results in $7w + 5$.",
+  "source": "https://cooksat.com/practice?questionId=9f1f1493&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db174f70",
+  "capturedAt": "2026-11-11T06:01:53.424Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $6x^{2}+5x$?",
+  "choices": {
+    "A": "$6x(x+5)$",
+    "B": "$x(6x-5)$",
+    "C": "$x(6x+5)$",
+    "D": "$6x^{2}+5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Since $x$ is a factor of both terms in the given expression, it can be factored out: $6x^2+5x = x(6x+5)$. This can be verified by distributing: $x(6x+5) = 6x^2+5x$.",
+  "source": "https://cooksat.com/practice?questionId=db174f70&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

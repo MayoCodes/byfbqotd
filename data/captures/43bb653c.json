@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "43bb653c",
+  "capturedAt": "2026-11-11T05:59:22.331Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$(7w^{5} - 2) - (-6w^{5} + 9)$$\n\nThe given expression is equivalent to $cw^{5} - 11$, where $c$ is a constant. What is the value of $c$?\n\n$$0$$\n\n$$13$$",
+  "choices": {},
+  "correctAnswer": "$13$",
+  "explanation": "The correct answer is $13$. The given expression can be rewritten as $(7w^{5} - 2) + (-1)(-6w^{5} + 9)$. Applying the distributive property gives $7w^{5} - 2 + 6w^{5} - 9$, which is equivalent to $(7w^{5} + 6w^{5}) + (-2 - 9)$. Combining like terms yields $13w^{5} - 11$. Since the given expression is equivalent to $cw^{5} - 11$, the coefficients of $w^{5}$ must be equal, so the value of $c$ is $13$.",
+  "source": "https://cooksat.com/practice?questionId=43bb653c&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

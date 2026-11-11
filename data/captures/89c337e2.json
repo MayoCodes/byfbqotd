@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "89c337e2",
+  "capturedAt": "2026-11-11T06:00:22.340Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is a factor of $x^{7} + x^{6}y + xy^{3} + y^{4}$?",
+  "choices": {
+    "A": "$x^{6} + y^{3}$",
+    "B": "$x^{6} + y^{4}$",
+    "C": "$x^{7} + y^{3}$",
+    "D": "$x^{7} + y^{4}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The given expression can be factored by grouping. Grouping the first two terms and the last two terms yields $\\left(x^{7} + x^{6}y\\right) + \\left(xy^{3} + y^{4}\\right)$. Factoring $x^{6}$ from the first group yields $x^{6}\\left(x + y\\right)$. Factoring $y^{3}$ from the second group yields $y^{3}\\left(x + y\\right)$. Therefore, the expression can be rewritten as $x^{6}\\left(x + y\\right) + y^{3}\\left(x + y\\right)$. Since both terms share a common factor of $\\left(x + y\\right)$, the expression factors as $\\left(x + y\\right)\\left(x^{6} + y^{3}\\right)$. It follows that $x^{6} + y^{3}$ is a factor of the given expression.",
+  "source": "https://cooksat.com/practice?questionId=89c337e2&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6c46bda0",
+  "capturedAt": "2026-11-11T05:59:54.017Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The sum of $-4w^{2} + 5w + 19$ and $6w^{2} - 2w - 9$ can be written in the form $aw^{2} + bw + c$, where $a$, $b$, and $c$ are constants. What is the value of $a + b + c$?\n\n$$0$$\n\n$$15$$",
+  "choices": {},
+  "correctAnswer": "$15$",
+  "explanation": "The correct answer is $15$. The sum of the given expressions is $(-4w^{2} + 5w + 19) + (6w^{2} - 2w - 9)$. Combining like terms yields $2w^{2} + 3w + 10$. Based on the given form, $a = 2$, $b = 3$, and $c = 10$. Therefore, $a + b + c = 15$. Alternate approach: Because $a + b + c$ is the value of $aw^{2} + bw + c$ when $w = 1$, substitute $w = 1$ into each polynomial before adding. When $w = 1$, the first polynomial equals $-4 + 5 + 19 = 20$ and the second polynomial equals $6 - 2 - 9 = -5$. The sum of $20$ and $-5$ is $15$.",
+  "source": "https://cooksat.com/practice?questionId=6c46bda0&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

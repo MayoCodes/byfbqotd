@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7ce87a08",
+  "capturedAt": "2026-11-11T06:00:09.536Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following is equivalent to $\\frac{5}{(2x-1)}-\\frac{1}{(x+3)}$ for all $x > 3$?",
+  "choices": {
+    "A": "$(3x+14)/((2x-1)(x+3))$",
+    "B": "$(3x-16)/((2x-1)(x+3))$",
+    "C": "$(4x+14)/((2x-1)(x+3))$",
+    "D": "$(3x+16)/((2x-1)(x+3))$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Find common denominator $(2x-1)(x+3)$. Rewrite as $\\frac{5(x+3)}{(2x-1)(x+3)}-\\frac{1(2x-1)}{(2x-1)(x+3)}$. Expand numerators: $\\frac{5x+15}{(2x-1)(x+3)}-\\frac{2x-1}{(2x-1)(x+3)}$. Combine: $\\frac{(5x+15)-(2x-1)}{(2x-1)(x+3)}=\\frac{5x+15-2x+1}{(2x-1)(x+3)}=\\frac{3x+16}{(2x-1)(x+3)}$.",
+  "source": "https://cooksat.com/practice?questionId=7ce87a08&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

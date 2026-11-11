@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff90b552",
+  "capturedAt": "2026-11-11T06:02:20.256Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $x^{4}-16$?",
+  "choices": {
+    "A": "$(x-4)(x+4)(x^{2}+1)$",
+    "B": "$(x^{2}-4)(x+4)$",
+    "C": "$(x-2)(x+2)(x^{2}+4)$",
+    "D": "$(x^{2}-4)(x^{2}-4)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The expression $x^4-16$ can be rewritten as $(x^2)^2-4^2$. Using the difference of squares formula $a^2-b^2=(a-b)(a+b)$, this gives $(x^2-4)(x^2+4)$. The factor $x^2-4$ is also a difference of squares: $x^2-4=(x-2)(x+2)$. Therefore, $x^4-16=(x-2)(x+2)(x^2+4)$.",
+  "source": "https://cooksat.com/practice?questionId=ff90b552&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

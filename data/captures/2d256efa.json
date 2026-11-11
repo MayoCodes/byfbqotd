@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2d256efa",
+  "capturedAt": "2026-11-11T05:58:52.271Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $3(x - \\frac{5}{3})(x + 12)$?",
+  "choices": {
+    "A": "$x^{2} + 31x - 20$",
+    "B": "$3x^{2} - 60$",
+    "C": "$3x^{2} + 21x - 60$",
+    "D": "$3x^{2} + 31x - 60$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Applying the distributive property to $\\left(x - \\frac{5}{3}\\right)(x + 12)$ yields $x(x + 12) - \\frac{5}{3}(x + 12)$. Distributing again gives $x^{2} + 12x - \\frac{5}{3}x - 20$. To combine the $x$ terms, rewrite $12x$ as $\\frac{36x}{3}$, which gives $\\frac{36x}{3} - \\frac{5x}{3} = \\frac{31x}{3}$. Therefore, $\\left(x - \\frac{5}{3}\\right)(x + 12) = x^{2} + \\frac{31x}{3} - 20$. Multiplying the entire expression by $3$ yields $3\\left(x^{2} + \\frac{31x}{3} - 20\\right) = 3x^{2} + 31x - 60$.",
+  "source": "https://cooksat.com/practice?questionId=2d256efa&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0d0052d0",
+  "capturedAt": "2026-11-11T05:58:26.194Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $14w^{3} + 7 + 9w^{3}$?",
+  "choices": {
+    "A": "$23w^{3} + 7$",
+    "B": "$23w^{6}$",
+    "C": "$30w^{3}$",
+    "D": "$30w^{6}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The given expression contains two like terms, $14w^{3}$ and $9w^{3}$, and one constant term, $7$. Combining the like terms yields $(14 + 9)w^{3} + 7$, or $23w^{3} + 7$.",
+  "source": "https://cooksat.com/practice?questionId=0d0052d0&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

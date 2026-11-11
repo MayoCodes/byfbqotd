@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "81b40d1d",
+  "capturedAt": "2026-11-11T06:00:13.429Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $5s^{7}t^{3} + 15s^{3}t^{2}$?",
+  "choices": {
+    "A": "$5s^{3}t^{2}(s^{4}t)$",
+    "B": "$5s^{3}t^{2}(st)$",
+    "C": "$5s^{3}t^{2}(st + 3)$",
+    "D": "$5s^{3}t^{2}(s^{4}t + 3)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Each term of the given expression has a common factor of $5s^{3}t^{2}$. Factoring this out yields $5s^{3}t^{2}(s^{4}t) + 5s^{3}t^{2}(3)$, which is equivalent to $5s^{3}t^{2}(s^{4}t + 3)$.",
+  "source": "https://cooksat.com/practice?questionId=81b40d1d&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

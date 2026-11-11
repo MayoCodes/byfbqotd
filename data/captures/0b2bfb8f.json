@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0b2bfb8f",
+  "capturedAt": "2026-11-11T05:58:22.707Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(v^{12} w^{6})}{(v^{4} w^{20})}$, where $v > 0$ and $w > 0$?",
+  "choices": {
+    "A": "$\\frac{(v^{8})}{(w^{14})}$",
+    "B": "$\\frac{(v^{3})}{(w^{3})}$",
+    "C": "$v^{3} w^{3}$",
+    "D": "$v^{8} w^{14}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For positive values of $a$, $\\frac{a^{m}}{a^{n}} = a^{\\left( m - n \\right)}$, where $m$ and $n$ are integers. Since it's given that $v > 0$ and $w > 0$, this property can be applied to rewrite the given expression as $\\left( v^{\\left( 12 - 4 \\right)} \\right) \\left( w^{\\left( 6 - 20 \\right)} \\right)$, which is equivalent to $v^{8} w^{-14}$. For positive values of $a$, $a^{-n} = \\frac{1}{a^{n}}$. This property can be applied to rewrite the expression $v^{8} w^{-14}$ as $\\left( v^{8} \\right) \\left( \\frac{1}{w^{14}} \\right)$, which is equivalent to $\\frac{v^{8}}{w^{14}}$.",
+  "source": "https://cooksat.com/practice?questionId=0b2bfb8f&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

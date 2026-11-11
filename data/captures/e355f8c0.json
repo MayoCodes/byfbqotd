@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e355f8c0",
+  "capturedAt": "2026-11-11T06:02:04.407Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $x^{2} + 5x - 36$?",
+  "choices": {
+    "A": "$(x - 12)(x + 3)$",
+    "B": "$(x - 9)(x + 4)$",
+    "C": "$(x - 4)(x + 9)$",
+    "D": "$(x - 3)(x + 12)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. An expression of the form $x^{2} + bx + c$, where $b$ and $c$ are constants, can be factored if there are two values that add to give $b$ and multiply to give $c$. In the given expression, $b = 5$ and $c = -36$. The values $-4$ and $9$ add to give $5$ and multiply to give $-36$, so the expression can be factored as $\\left(x - 4\\right)\\left(x + 9\\right)$. This can be verified by expansion: $\\left(x - 4\\right)\\left(x + 9\\right) = x^{2} + 9x - 4x - 36 = x^{2} + 5x - 36$.",
+  "source": "https://cooksat.com/practice?questionId=e355f8c0&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

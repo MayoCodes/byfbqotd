@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b51beeba",
+  "capturedAt": "2026-11-11T06:01:13.602Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following expressions is equivalent to $(3-root(x^{2}) \\times sqrt(x^{3}))/(\\frac{x^{7}}{6})$ for $x>0$?",
+  "choices": {
+    "A": "$\\frac{x^{1}}{3}$",
+    "B": "$x$",
+    "C": "$\\frac{x^{5}}{6}$",
+    "D": "$x^{2}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Rewriting the radicals using fractional exponents gives $\\frac{x^{\\frac{2}{3}} \\cdot x^{\\frac{3}{2}}}{x^{\\frac{7}{6}}}$. Adding the exponents in the numerator: $\\frac{2}{3}+\\frac{3}{2}=\\frac{4}{6}+\\frac{9}{6}=\\frac{13}{6}$. Then subtracting the denominator exponent: $\\frac{13}{6}-\\frac{7}{6}=\\frac{6}{6}=1$. Therefore the expression simplifies to $x^{1}=x$.",
+  "source": "https://cooksat.com/practice?questionId=b51beeba&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

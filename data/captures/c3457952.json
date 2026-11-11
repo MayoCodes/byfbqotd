@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c3457952",
+  "capturedAt": "2026-11-11T06:01:28.029Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following expressions has a factor of $y+3c$, where $c$ is a positive integer constant?",
+  "choices": {
+    "A": "$2y^{2} + 5y + 15c$",
+    "B": "$2y^{2} + 26y + 15c$",
+    "C": "$2y^{2} + 35y + 15c$",
+    "D": "$2y^{2} + 38y + 15c$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since each choice has a term of $2y^{2}$, which can be written as $(2y)y$, and each choice has a term of $15c$, which can be written as $5(3c)$, the expression that has a factor of $y+3c$, where $c$ is a positive integer constant, can be represented as $(2y+5)(y+3c)$. Using the distributive property of multiplication, this expression is equivalent to $2y(y+3c)+5(y+3c)$, or $2y^{2}+6cy+5y+15c$. Combining the $y$-terms in this expression yields $2y^{2}+(5+6c)y+15c$. It follows that the coefficient of the $y$-term is equal to $5+6c$. Thus, from the given choices, $5+6c$ must be equal to $5$, $26$, $35$, or $38$. Therefore, $6c$ must be equal to $0$, $21$, $30$, or $33$, respectively, and $c$ must be equal to $\\frac{0}{6}$, $\\frac{21}{6}$, $\\frac{30}{6}$, or $\\frac{33}{6}$, respectively. Of these four values of $c$, only $\\frac{30}{6}$, or $5$, is a positive integer. It follows that $5+6c$ must be equal to $35$ because this is the only choice for which the value of $c$ is a positive integer constant. Therefore, the expression that has a factor of $y+3c$ is $2y^{2}+35y+15c$.",
+  "source": "https://cooksat.com/practice?questionId=c3457952&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

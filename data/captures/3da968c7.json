@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3da968c7",
+  "capturedAt": "2026-11-11T05:59:10.971Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $k = m + n$, which of the following is equivalent to the expression $y^{2} - m^{2} - 2mn - n^{2}$?",
+  "choices": {
+    "A": "$(y + k)^{2}$",
+    "B": "$(y - k)^{2}$",
+    "C": "$(y + k)(y - k)$",
+    "D": "$y^{2} - ky - k^{2}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Factoring $-1$ from the second, third, and fourth terms gives $y^{2} - m^{2} - 2mn - n^{2} = y^{2} - (m^{2} + 2mn + n^{2})$. The expression $m^{2} + 2mn + n^{2}$ is the expanded form of a perfect square: $m^{2} + 2mn + n^{2} = (m + n)^{2}$. Therefore, $y^{2} - (m^{2} + 2mn + n^{2}) = y^{2} - (m + n)^{2}$. Since $k = m + n$, $y^{2} - (m + n)^{2} = y^{2} - k^{2}$. Finally, because $y^{2} - k^{2}$ is the difference of squares, it can be factored as $y^{2} - k^{2} = (y + k)(y - k)$.",
+  "source": "https://cooksat.com/practice?questionId=3da968c7&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

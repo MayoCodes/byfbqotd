@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "14b2851e",
+  "capturedAt": "2026-11-11T05:58:31.745Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $p$ and $q$ are numbers greater than $1$ and $sqrt(p^{7})$ is equivalent to $3-root(q^{4})$, for what value of $a$ is $p^{2}a+1$ equal to $q$?\n\n$$0$$\n\n$$\\frac{13}{16},.8125$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{13}{16},.8125$",
+  "explanation": "The correct answer is $\\frac{13}{16}$. An expression of the form $\\sqrt[m]{a^{p}}$, where $m$ and $p$ are integers greater than $1$ and $a \\geq 0$, is equivalent to $a^{\\frac{p}{m}}$. Therefore, $\\sqrt{p^{7}}$ is equivalent to $p^{\\frac{7}{2}}$ and $\\sqrt[3]{q^{4}}$ is equivalent to $q^{\\frac{4}{3}}$. It's given that $\\sqrt{p^{7}}$ is equivalent to $\\sqrt[3]{q^{4}}$, so $p^{\\frac{7}{2}} = q^{\\frac{4}{3}}$. Raising both sides of this equation to the power of $\\frac{3}{4}$ yields $\\left(p^{\\frac{7}{2}}\\right)^{\\frac{3}{4}} = \\left(q^{\\frac{4}{3}}\\right)^{\\frac{3}{4}}$. Applying the power of a power property gives $p^{\\frac{7}{2} \\cdot \\frac{3}{4}} = q^{\\frac{4}{3} \\cdot \\frac{3}{4}}$, which simplifies to $p^{\\frac{21}{8}} = q$. It's given that $p^{2a+1}$ is equal to $q$, so $p^{2a+1} = p^{\\frac{21}{8}}$. Therefore, $2a + 1 = \\frac{21}{8}$. Subtracting $1$ from both sides yields $2a = \\frac{21}{8} - \\frac{8}{8}$, or $2a = \\frac{13}{8}$. Dividing both sides by $2$ gives $a = \\frac{13}{16}$. Note that 13/16 and .8125 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=14b2851e&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

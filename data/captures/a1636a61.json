@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a1636a61",
+  "capturedAt": "2026-11-11T06:00:59.026Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $4y^{6} - 11y^{4} + 6y^{2}$?",
+  "choices": {
+    "A": "$y^{4}(4y^{2} - 11)$",
+    "B": "$y^{2}(4y^{4} - 11y^{2} + 6)$",
+    "C": "$6y^{2}(4y^{4} - 11y^{2} + 1)$",
+    "D": "$4y^{6}(-11y^{4} + 6y^{2} + 1)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since $y^{2}$ is a common factor of each term in the given expression, the expression can be rewritten as $y^{2}(4y^{4}) - y^{2}(11y^{2}) + y^{2}(6)$, or $y^{2}(4y^{4} - 11y^{2} + 6)$.",
+  "source": "https://cooksat.com/practice?questionId=a1636a61&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

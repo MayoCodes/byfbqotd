@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "75aba908",
+  "capturedAt": "2026-11-11T06:00:01.657Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $(sqrt(y^{7}))/(5-root(y^{5}))=y^\\frac{a}{b}$ for all positive values of $y$, what is the value of $\\frac{a}{b}$?\n\n$$0$$\n\n$$\\frac{5}{2},2.5,2.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{5}{2},2.5,2.50$",
+  "explanation": "The correct answer is $\\frac{5}{2}$. The value of $\\frac{a}{b}$ can be found by first rewriting the left-hand side of the given equation using fractional exponents. An expression of the form $\\sqrt{y^m}$ is equivalent to $y^{\\frac{m}{2}}$, and an expression of the form $\\sqrt[n]{y^m}$ is equivalent to $y^{\\frac{m}{n}}$. Therefore, $\\frac{\\sqrt{y^7}}{\\sqrt[5]{y^5}}$ can be rewritten as $\\frac{y^{\\frac{7}{2}}}{y^{\\frac{5}{5}}}$, which simplifies to $\\frac{y^{\\frac{7}{2}}}{y^1}$. Using the quotient rule for exponents, $\\frac{y^m}{y^n}=y^{m-n}$, this expression becomes $y^{\\frac{7}{2}-1}$. Converting $1$ to a fraction with denominator $2$ gives $y^{\\frac{7}{2}-\\frac{2}{2}}$. Subtracting the fractions in the exponent yields $y^{\\frac{5}{2}}$. Thus, $\\frac{a}{b}=\\frac{5}{2}$. Note that 5/2, 2.5, and 2.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=75aba908&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

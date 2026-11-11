@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3d697082",
+  "capturedAt": "2026-11-11T05:59:08.447Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $\\frac{(t^{2} + 8t - 9)}{(t + 9)} = mt + n$ is true for all values of $t \\ne -9$, where $m$ and $n$ are integers. What is the value of $m + n$?",
+  "choices": {
+    "A": "$-10$",
+    "B": "$-1$",
+    "C": "$0$",
+    "D": "$1$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To simplify the given rational expression, first factor the numerator. The quadratic $t^2 + 8t - 9$ can be factored by finding two numbers that multiply to $-9$ and add to $8$. These numbers are $9$ and $-1$, giving the factorization $t^2 + 8t - 9 = (t+9)(t-1)$. Substituting this into the equation yields $\\frac{(t+9)(t-1)}{t+9} = mt + n$. Since $t \\neq -9$, the factor $t+9$ is nonzero and can be canceled from the numerator and denominator, giving $t - 1 = mt + n$. Rewriting the left side as $1 \\cdot t + (-1)$ and matching coefficients with $mt + n$ shows that $m = 1$ and $n = -1$. Therefore, $m + n = 1 + (-1) = 0$.",
+  "source": "https://cooksat.com/practice?questionId=3d697082&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

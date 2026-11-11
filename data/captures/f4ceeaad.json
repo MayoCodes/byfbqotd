@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f4ceeaad",
+  "capturedAt": "2026-11-11T06:02:16.539Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$(6,821 + 150w^{2}) + 12(25w^{2} - 95)$$\n\nThe expression above can be written in the form $cw^{2} + d$, where $c$ and $d$ are constants. What is the value of $c + d$?\n\n$$0$$\n\n$$6131$$",
+  "choices": {},
+  "correctAnswer": "$6131$",
+  "explanation": "The correct answer is $6131$. Applying the distributive property to the expression yields $(6{,}821 + 150w^{2}) + (300w^{2} - 1{,}140)$. Then combining like terms results in $450w^{2} + 5{,}681$. This is written in the form $cw^{2} + d$, where $c = 450$ and $d = 5{,}681$. Therefore, $c + d = 450 + 5{,}681 = 6{,}131$.",
+  "source": "https://cooksat.com/practice?questionId=f4ceeaad&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "77e361d8",
+  "capturedAt": "2026-11-11T06:00:06.169Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(\\frac{(3x)}{5} + \\frac{1}{2})(6x - \\frac{7}{2})$?",
+  "choices": {
+    "A": "$\\frac{(9x^{2})}{(10)} + \\frac{(9x)}{(10)} - \\frac{7}{4}$",
+    "B": "$\\frac{(18x^{2})}{5} + \\frac{(9x)}{(10)} - \\frac{7}{4}$",
+    "C": "$\\frac{(18x^{2})}{5} + \\frac{(9x)}{(10)}$",
+    "D": "$\\frac{(18x^{2})}{5} - \\frac{(9x)}{(10)} + \\frac{7}{4}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Using the distributive property: $(\\frac{3x}{5} + \\frac{1}{2})(6x - \\frac{7}{2}) = \\frac{3x}{5}(6x) + \\frac{3x}{5}(-\\frac{7}{2}) + \\frac{1}{2}(6x) + \\frac{1}{2}(-\\frac{7}{2})$. Computing each product: $\\frac{18x^2}{5} - \\frac{21x}{10} + 3x - \\frac{7}{4}$. Combining like terms with common denominator $10$: $\\frac{18x^2}{5} + \\frac{-21x + 30x}{10} - \\frac{7}{4} = \\frac{18x^2}{5} + \\frac{9x}{10} - \\frac{7}{4}$.",
+  "source": "https://cooksat.com/practice?questionId=77e361d8&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "476ad565",
+  "capturedAt": "2026-11-11T05:59:24.129Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $6x^{9}-12x^{8}+30x$?",
+  "choices": {
+    "A": "$x(6x^{8}-2x^{7}+30)$",
+    "B": "$6x(x^{9}-2x^{8}+5x)$",
+    "C": "$6x(x^{8}-2x^{7}+5)$",
+    "D": "$2x(3x^{8}-6x^{7}+5)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The greatest common factor of all terms is $6x$. Factoring this out: $6x^9-12x^8+30x = 6x(x^8)-6x(2x^7)+6x(5) = 6x(x^8-2x^7+5)$.",
+  "source": "https://cooksat.com/practice?questionId=476ad565&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

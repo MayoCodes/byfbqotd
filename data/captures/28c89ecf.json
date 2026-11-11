@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "28c89ecf",
+  "capturedAt": "2026-11-11T05:58:45.145Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(9w^{4} + 5w) - (4w^{4} - 8w)$?",
+  "choices": {
+    "A": "$5w^{4} - 3w$",
+    "B": "$5w^{4} + 13w$",
+    "C": "$13w^{4} - 3w$",
+    "D": "$13w^{4} + 13w$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Applying the distributive property, the given expression can be written as $9w^{4} + 5w - 4w^{4} + 8w$. Grouping like terms yields $\\left(9w^{4} - 4w^{4}\\right) + \\left(5w + 8w\\right)$. Combining like terms yields $5w^{4} + 13w$.",
+  "source": "https://cooksat.com/practice?questionId=28c89ecf&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

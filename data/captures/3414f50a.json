@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3414f50a",
+  "capturedAt": "2026-11-11T05:59:04.673Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(\\frac{(5x^{3})}{2}+\\frac{(7x^{2})}{2})/(\\frac{(3x)}{2})$, where $x \\ne 0$?",
+  "choices": {
+    "A": "$\\frac{(5x^{2}+7x)}{3}$",
+    "B": "$\\frac{(5x+7)}{3}$",
+    "C": "$\\frac{(5x^{2}+7x)}{2}$",
+    "D": "$5x^{2}+7x$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Dividing by a fraction is the same as multiplying by its reciprocal. First, combine the numerator: $\\frac{5x^3}{2}+\\frac{7x^2}{2} = \\frac{5x^3+7x^2}{2}$. Then multiply by the reciprocal of the denominator: $\\frac{5x^3+7x^2}{2} \\cdot \\frac{2}{3x} = \\frac{5x^3+7x^2}{3x}$. Factor the numerator: $\\frac{x^2(5x+7)}{3x} = \\frac{x(5x+7)}{3} = \\frac{5x^2+7x}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=3414f50a&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

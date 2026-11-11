@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "571592eb",
+  "capturedAt": "2026-11-11T05:59:39.228Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $15w^{4} - 8w^{4}$?",
+  "choices": {
+    "A": "$7w^{4}$",
+    "B": "$7w^{8}$",
+    "C": "$23w^{4}$",
+    "D": "$23w^{8}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The given expression is a difference of two like terms. Subtracting the coefficients yields $15w^{4} - 8w^{4} = (15 - 8)w^{4} = 7w^{4}$.",
+  "source": "https://cooksat.com/practice?questionId=571592eb&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

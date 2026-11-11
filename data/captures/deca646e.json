@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "deca646e",
+  "capturedAt": "2026-11-11T06:01:57.241Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $5y^{8} - 15y^{3}$, where $y > 0$ ?",
+  "choices": {
+    "A": "$5(y^{4} - 3y)^{2}$",
+    "B": "$5y^{3}(y - 3)^{5}$",
+    "C": "$5y^{3}(y^{5} - 3)$",
+    "D": "$y^{3}(5y - 3)^{5}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since $5y^{3}$ is a common factor of each term in the given expression, the expression can be rewritten as $5y^{3}(y^{5}) - 5y^{3}(3)$, or $5y^{3}(y^{5} - 3)$.",
+  "source": "https://cooksat.com/practice?questionId=deca646e&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b9736a2d",
+  "capturedAt": "2026-11-11T06:01:17.228Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(36b)}{m}+36bm$, where $m>0$?",
+  "choices": {
+    "A": "$\\frac{(72b)}{m}$",
+    "B": "$\\frac{(72bm^{2})}{m}$",
+    "C": "$(36b(m+1))/m$",
+    "D": "$(36b(m^{2}+1))/m$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Two fractions can be added together when they have a common denominator. Since $m>0$, multiplying the second term in the given expression by $\\frac{m}{m}$ yields $\\frac{(36bm)m}{m}$, which is equivalent to $\\frac{36bm^{2}}{m}$. Therefore, the expression $\\frac{36b}{m}+36bm$ can be written as $\\frac{36b}{m}+\\frac{36bm^{2}}{m}$, which is equivalent to $\\frac{36b+36bm^{2}}{m}$. Since each term in the numerator of this expression has a factor of $36b$, the expression $\\frac{36b+36bm^{2}}{m}$ can be rewritten as $\\frac{36b(1)+36b(m^{2})}{m}$, or $\\frac{36b(1+m^{2})}{m}$, which is equivalent to $\\frac{36b(m^{2}+1)}{m}$.",
+  "source": "https://cooksat.com/practice?questionId=b9736a2d&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

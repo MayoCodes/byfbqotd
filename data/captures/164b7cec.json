@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "164b7cec",
+  "capturedAt": "2026-11-11T05:58:33.905Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $14 w^{4} - 9 w^{4}$?",
+  "choices": {
+    "A": "$5 w^{4}$",
+    "B": "$5 w^{8}$",
+    "C": "$23 w^{4}$",
+    "D": "$23 w^{8}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The given expression can be rewritten as $14 w^{4} + \\left( -9 \\right) w^{4}$. Since the two terms are both constant multiples of $w^{4}$, they are like terms and can be combined by adding their coefficients. This yields $5 w^{4}$.",
+  "source": "https://cooksat.com/practice?questionId=164b7cec&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

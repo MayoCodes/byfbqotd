@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2f6be85e",
+  "capturedAt": "2026-11-11T05:58:55.709Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following is equivalent to $3(x+8)(x+8)$?",
+  "choices": {
+    "A": "$3x^{2}+48x+192$",
+    "B": "$3x^{2}+16x+64$",
+    "C": "$3x^{2}+16x+192$",
+    "D": "$3x^{2}+48x+64$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The given expression can be rewritten as $3(x+8)^2$. Expanding $(x+8)^2 = x^2 + 16x + 64$. Therefore, $3(x+8)^2 = 3(x^2 + 16x + 64) = 3x^2 + 48x + 192$.",
+  "source": "https://cooksat.com/practice?questionId=2f6be85e&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

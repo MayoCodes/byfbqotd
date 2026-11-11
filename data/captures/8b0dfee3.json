@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8b0dfee3",
+  "capturedAt": "2026-11-11T06:00:24.412Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(6x^{2} - 3x + 5) - (2x^{2} + 4x + 3)$?",
+  "choices": {
+    "A": "$4x^{2} - 7x + 2$",
+    "B": "$4x^{2} - 7x + 8$",
+    "C": "$4x^{2} + x + 2$",
+    "D": "$8x^{2} - 7x + 2$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The given expression can be rewritten as $6x^2 - 3x + 5 - 2x^2 - 4x - 3$. Combining like terms yields $(6x^2 - 2x^2) + (-3x - 4x) + (5 - 3)$, which equals $4x^2 - 7x + 2$.",
+  "source": "https://cooksat.com/practice?questionId=8b0dfee3&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

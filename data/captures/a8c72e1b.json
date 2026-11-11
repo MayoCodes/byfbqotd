@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a8c72e1b",
+  "capturedAt": "2026-11-11T06:01:02.217Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$72x^{4} + 174x^{2} + 90 = k(ax^{2} + b)(cx^{2} + d)$$\n\nIn the given equation, $a$, $b$, $c$, $d$, and $k$ are positive integer constants. What is the smallest possible value of $ab$?\n\n$$0$$\n\n$$12$$",
+  "choices": {},
+  "correctAnswer": "$12$",
+  "explanation": "The correct answer is $12$. First, find the GCF of 72, 174, and 90, which is 6. Factor out 6: $72x^4 + 174x^2 + 90 = 6(12x^4 + 29x^2 + 15)$. Now factor $12x^4 + 29x^2 + 15$. We need $ac = 12$, $bd = 15$, and $ad + bc = 29$. Testing factor pairs: if $a = 4$, $c = 3$, $b = 3$, $d = 5$, then $ad + bc = 4(5) + 3(3) = 20 + 9 = 29$. Therefore $72x^4 + 174x^2 + 90 = 6(4x^2 + 3)(3x^2 + 5)$, so $k = 6$, $a = 4$, $b = 3$, and $ab = 4 \\times 3 = 12$.",
+  "source": "https://cooksat.com/practice?questionId=a8c72e1b&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

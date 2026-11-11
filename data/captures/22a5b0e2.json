@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "22a5b0e2",
+  "capturedAt": "2026-11-11T05:58:41.445Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(k^{2}/3)}{(k^{1}/6)}$, where $k > 0$?",
+  "choices": {
+    "A": "$\\frac{k^{1}}{9}$",
+    "B": "$k^{4}$",
+    "C": "$\\frac{k^{5}}{6}$",
+    "D": "$\\frac{k^{1}}{2}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Using the quotient rule for exponents, $\\frac{k^{a}}{k^{b}} = k^{a-b}$, the expression becomes $k^{\\frac{2}{3}-\\frac{1}{6}}$. Finding a common denominator: $\\frac{2}{3} - \\frac{1}{6} = \\frac{4}{6} - \\frac{1}{6} = \\frac{3}{6} = \\frac{1}{2}$. Therefore, the expression equals $k^{\\frac{1}{2}}$.",
+  "source": "https://cooksat.com/practice?questionId=22a5b0e2&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

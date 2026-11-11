@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "927e7f47",
+  "capturedAt": "2026-11-11T06:00:33.299Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(12)/(sqrt(8)) + sqrt(18)$?",
+  "choices": {
+    "A": "$(3sqrt(2))/2 + 3sqrt(2)$",
+    "B": "$6sqrt(2)$",
+    "C": "$3sqrt(10)$",
+    "D": "$9sqrt(2)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "First, simplify $\\sqrt{8} = \\sqrt{4 \\cdot 2} = 2\\sqrt{2}$, so $\\frac{12}{\\sqrt{8}} = \\frac{12}{2\\sqrt{2}} = \\frac{6}{\\sqrt{2}}$. Rationalizing gives $\\frac{6}{\\sqrt{2}} \\cdot \\frac{\\sqrt{2}}{\\sqrt{2}} = \\frac{6\\sqrt{2}}{2} = 3\\sqrt{2}$. Next, $\\sqrt{18} = \\sqrt{9 \\cdot 2} = 3\\sqrt{2}$. Therefore, $3\\sqrt{2} + 3\\sqrt{2} = 6\\sqrt{2}$.",
+  "source": "https://cooksat.com/practice?questionId=927e7f47&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

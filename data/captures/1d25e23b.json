@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1d25e23b",
+  "capturedAt": "2026-11-11T05:58:35.567Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{(x^{2} - k)}{(x - n)}$$\n\nIn the expression above, $n$ and $k$ are positive integers. If the expression is equivalent to $x + n$ and $x \\ne n$, which of the following could be the value of $k$?",
+  "choices": {
+    "A": "$15$",
+    "B": "$21$",
+    "C": "$25$",
+    "D": "$30$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. If the given expression is equivalent to $x + n$, then $\\frac{x^{2} - k}{x - n} = x + n$, where $x \\neq n$. Multiplying both sides of this equation by $x - n$ yields $x^{2} - k = (x + n)(x - n)$. Since the right-hand side of this equation is in factored form for the difference of squares, the value of $k$ must be a perfect square. Only choice C gives a perfect square for the value of $k$, since $25 = 5^{2}$.",
+  "source": "https://cooksat.com/practice?questionId=1d25e23b&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

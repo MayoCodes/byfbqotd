@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bc88c29c",
+  "capturedAt": "2026-11-11T06:01:20.714Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following is equivalent to the sum of $5w^{5} + 4w^{2}$ and $6w^{5} + 3w^{2}$?",
+  "choices": {
+    "A": "$11w^{10} + 7w^{4}$",
+    "B": "$11w^{10}$",
+    "C": "$11w^{5} + 7w^{2}$",
+    "D": "$30w^{5} + 12w^{2}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Adding the two expressions yields $5w^{5} + 4w^{2} + 6w^{5} + 3w^{2}$. The terms $5w^{5}$ and $6w^{5}$ are like terms, as are $4w^{2}$ and $3w^{2}$. Combining them gives $11w^{5}$ and $7w^{2}$, respectively. Therefore, the sum of the given expressions simplifies to $11w^{5} + 7w^{2}$.",
+  "source": "https://cooksat.com/practice?questionId=bc88c29c&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

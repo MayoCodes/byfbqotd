@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cd46bdfa",
+  "capturedAt": "2026-11-11T06:01:41.196Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$g(x) = x^{2} - 28x + 75$$\n\nThe function $g$ is defined by the given equation. Which of the following equivalent forms of the equation displays the zeros of the function as constants or coefficients?",
+  "choices": {
+    "A": "$g(x) = (x - 14)^{2} - 121$",
+    "B": "$g(x) = (x - 3)(x - 25)$",
+    "C": "$g(x) = x(x - 28) + 75$",
+    "D": "$g(x) = x^{2} - 3x - 25x + 75$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The zeros of a quadratic function are displayed as constants when the function is written in factored form $g(x) = (x - r)(x - s)$, where $r$ and $s$ are the zeros. To factor $g(x) = x^{2} - 28x + 75$, find two numbers whose product is $75$ and whose sum is $-28$. These numbers are $-3$ and $-25$, since $(-3)(-25) = 75$ and $-3 + (-25) = -28$. Therefore, $g(x) = (x - 3)(x - 25)$. The zeros of the function, $3$ and $25$, are displayed as constants in this form.",
+  "source": "https://cooksat.com/practice?questionId=cd46bdfa&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

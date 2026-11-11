@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d7ee4bd3",
+  "capturedAt": "2026-11-11T06:01:47.869Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "One of the factors of $3y^{3}+36y^{2}+105y$ is $y+b$, where $b$ is a positive constant. What is the smallest possible value of $b$?\n\n$$0$$\n\n$$5$$",
+  "choices": {},
+  "correctAnswer": "$5$",
+  "explanation": "The correct answer is $5$. Since each term of the given expression, $3y^{3}+36y^{2}+105y$, has a factor of $3y$, the expression can be rewritten as $3y(y^{2}+12y+35)$. Since the values $5$ and $7$ have a sum of $12$ and a product of $35$, the expression $y^{2}+12y+35$ can be factored as $(y+5)(y+7)$. Therefore, the given expression can be factored as $3y(y+5)(y+7)$. It follows that the factors of the given expression are $3$, $y$, $y+5$, and $y+7$. Of these factors, only $y+5$ and $y+7$ are of the form $y+b$, where $b$ is a positive constant. Therefore, the possible values of $b$ are $5$ and $7$. Thus, the smallest possible value of $b$ is $5$.",
+  "source": "https://cooksat.com/practice?questionId=d7ee4bd3&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

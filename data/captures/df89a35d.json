@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "df89a35d",
+  "capturedAt": "2026-11-11T06:01:58.865Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following is equivalent to the expression $x^{4} + x^{2} - 20$?",
+  "choices": {
+    "A": "$(x^{2} + 1)(x^{2} - 20)$",
+    "B": "$(x^{2} + 2)(x^{2} - 10)$",
+    "C": "$(x^{2} + 4)(x^{2} - 5)$",
+    "D": "$(x^{2} + 5)(x^{2} - 4)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The term $x^{4}$ can be factored as $x^{2} \\cdot x^{2}$. Factoring $-20$ as $5 \\cdot (-4)$ yields values whose sum is $1$, the coefficient of $x^{2}$ in the given expression. Therefore, $x^{4} + x^{2} - 20$ is equivalent to $(x^{2} + 5)(x^{2} - 4)$.",
+  "source": "https://cooksat.com/practice?questionId=df89a35d&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

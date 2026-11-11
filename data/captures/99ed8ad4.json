@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99ed8ad4",
+  "capturedAt": "2026-11-11T06:00:42.590Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following is equivalent to $4(x + 7) - 10$?",
+  "choices": {
+    "A": "$4x - 12$",
+    "B": "$4x - 3$",
+    "C": "$4x + 18$",
+    "D": "$28x - 10$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Using the distributive property to multiply $4$ and $(x + 7)$ gives $4x + 28 - 10$, which can be rewritten as $4x + 18$.",
+  "source": "https://cooksat.com/practice?questionId=99ed8ad4&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

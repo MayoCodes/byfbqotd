@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9bb88673",
+  "capturedAt": "2026-11-11T06:00:51.054Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The expression $\\frac{(4x^{2} - 9)}{(2x + 3)}$ can be written in the form $ax + b$ for $x \\ne -\\frac{3}{2}$. What is the value of $b$?\n\n$$0$$\n\n$$-3$$",
+  "choices": {},
+  "correctAnswer": "$-3$",
+  "explanation": "The correct answer is $-3$. To simplify the expression $\\frac{4x^2 - 9}{2x + 3}$, first recognize that the numerator $4x^2 - 9$ is a difference of squares, which can be factored as $(2x)^2 - 3^2 = (2x - 3)(2x + 3)$. The expression becomes $\\frac{(2x - 3)(2x + 3)}{2x + 3}$. Since $x \\neq -\\frac{3}{2}$, the factor $(2x + 3)$ in the numerator and denominator can be canceled, leaving $2x - 3$. This is in the form $ax + b$ where $a = 2$ and $b = -3$. Therefore, the value of $b$ is $-3$.",
+  "source": "https://cooksat.com/practice?questionId=9bb88673&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fb5d12d9",
+  "capturedAt": "2026-11-11T06:02:18.555Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $13(x^{2} - 64 y^{2})$?",
+  "choices": {
+    "A": "$13(x - 8 y)(x - 8 y)$",
+    "B": "$13(x - 8 y)(x + 8 y)$",
+    "C": "$13(x - 4 y)(x + 16 y)$",
+    "D": "$13(x - 2 y)(x + 32 y)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Expressions in the form $a^{2} - b^{2}$ follow the difference of two squares pattern and can be factored as $(a - b)(a + b)$. In the given expression, $13(x^{2} - 64y^{2})$, the expression $x^{2} - 64y^{2}$ follows the difference of two squares pattern with $a = x$ and $b = 8y$. It follows that $x^{2} - 64y^{2}$ can be rewritten as $(x - 8y)(x + 8y)$. Therefore, $13(x - 8y)(x + 8y)$ is equivalent to $13(x^{2} - 64y^{2})$.",
+  "source": "https://cooksat.com/practice?questionId=fb5d12d9&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

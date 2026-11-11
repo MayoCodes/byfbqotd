@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c80058d0",
+  "capturedAt": "2026-11-11T06:01:32.042Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $4x^{3} + 60x^{2}y + xy^{2} + 15y^{3}$?",
+  "choices": {
+    "A": "$(4x^{2} + 15y)(x + y^{2})$",
+    "B": "$(4x^{2} + y^{2})(x + 15y)$",
+    "C": "$(4x^{3} + y^{2})(x^{2} + 15y^{3})$",
+    "D": "$(4x^{3} + y^{3})(x + 15y)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The given expression can be factored by grouping. Grouping the first two terms and the last two terms yields $\\left(4x^{3} + 60x^{2}y\\right) + \\left(xy^{2} + 15y^{3}\\right)$. The first two terms have a common factor of $4x^{2}$, so this group can be rewritten as $4x^{2}\\left(x + 15y\\right)$. The last two terms have a common factor of $y^{2}$, so this group can be rewritten as $y^{2}\\left(x + 15y\\right)$. Therefore, the expression can be rewritten as $4x^{2}\\left(x + 15y\\right) + y^{2}\\left(x + 15y\\right)$. Since both terms have a common factor of $\\left(x + 15y\\right)$, the expression can be factored as $\\left(x + 15y\\right)\\left(4x^{2} + y^{2}\\right)$, which is equivalent to $\\left(4x^{2} + y^{2}\\right)\\left(x + 15y\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=c80058d0&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

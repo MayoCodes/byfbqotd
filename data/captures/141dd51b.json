@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "141dd51b",
+  "capturedAt": "2026-11-11T05:58:29.991Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $24x + 40$?",
+  "choices": {
+    "A": "$8(3x + 5)$",
+    "B": "$8(16x + 32)$",
+    "C": "$24(16x + 1)$",
+    "D": "$40(24x + 1)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Each term in the given expression, $24x + 40$, has a common factor of $8$. Therefore, the expression can be rewritten as $8(3x) + 8(5)$, or $8(3x + 5)$. Thus, the expression $8(3x + 5)$ is equivalent to the given expression.",
+  "source": "https://cooksat.com/practice?questionId=141dd51b&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

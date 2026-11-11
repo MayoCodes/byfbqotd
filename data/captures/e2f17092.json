@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e2f17092",
+  "capturedAt": "2026-11-11T06:02:02.447Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$0.21 w^{2} + 0.56 w + 0.77$$\n\nThe given expression can be rewritten as $c ( 3 w^{2} + 8 w + 11 )$, where $c$ is a constant. What is the value of $c$?\n\n$$0$$\n\n$$\\frac{7}{100},.07,.070,0.07$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{7}{100},.07,.070,0.07$",
+  "explanation": "The correct answer is $\\frac{7}{100}$. It's given that the expression $0.21 w^{2} + 0.56 w + 0.77$ can be rewritten as $c \\left( 3 w^{2} + 8 w + 11 \\right)$. Applying the distributive property to $c \\left( 3 w^{2} + 8 w + 11 \\right)$ yields $3 c w^{2} + 8 c w + 11 c$. Therefore, the coefficients must match: $0.21 = 3 c$, $0.56 = 8 c$, and $0.77 = 11 c$. Solving any of these equations for $c$ yields the value of $c$. Dividing both sides of $0.21 = 3 c$ by $3$ yields $c = 0.07$. Therefore, the value of $c$ is $0.07$. Note that 7/100, .07, .070, and 0.07 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=e2f17092&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

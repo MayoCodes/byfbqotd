@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e5db7803",
+  "capturedAt": "2026-11-11T06:02:08.025Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(x-7)(x+2)$?",
+  "choices": {
+    "A": "$x^{2}-14$",
+    "B": "$x^{2}+9x-14$",
+    "C": "$x^{2}-5x-14$",
+    "D": "$x^{2}-5x+14$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Using the distributive property: $(x-7)(x+2) = x(x+2) - 7(x+2) = x^2 + 2x - 7x - 14 = x^2 - 5x - 14$.",
+  "source": "https://cooksat.com/practice?questionId=e5db7803&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

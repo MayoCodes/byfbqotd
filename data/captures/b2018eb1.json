@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b2018eb1",
+  "capturedAt": "2026-11-11T06:01:10.007Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $a = 6m + 3n$ and $b = 10m - 8n + 7$, which expression is equivalent to $a - b$?",
+  "choices": {
+    "A": "$-4m - 5n - 7$",
+    "B": "$-4m - 5n + 7$",
+    "C": "$-4m + 11n - 7$",
+    "D": "$-4m + 11n + 7$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Substituting $6m + 3n$ for $a$ and $10m - 8n + 7$ for $b$ in the expression $a - b$ yields $(6m + 3n) - (10m - 8n + 7)$. This expression can be rewritten as $(6m + 3n) + (-1)(10m - 8n + 7)$. Applying the distributive property gives $6m + 3n - 10m + 8n - 7$, which is equivalent to $(6m - 10m) + (3n + 8n) - 7$, or $-4m + 11n - 7$.",
+  "source": "https://cooksat.com/practice?questionId=b2018eb1&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

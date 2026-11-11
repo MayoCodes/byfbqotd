@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "da25bdec",
+  "capturedAt": "2026-11-11T06:01:51.678Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following expressions is equivalent to $\\frac{(3x+2)}{(x-1)}+\\frac{5}{(2x-2)}$?",
+  "choices": {
+    "A": "$\\frac{(6x+9)}{(2x-2)}$",
+    "B": "$\\frac{(6x+4)}{(2x-2)}$",
+    "C": "$\\frac{(3x+7)}{(x-1)}$",
+    "D": "$\\frac{(3x+7)}{(2x-2)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The denominator $2x-2$ can be factored as $2(x-1)$. Rewriting the expression with this common denominator: $\\frac{3x+2}{x-1}+\\frac{5}{2(x-1)}=\\frac{2(3x+2)}{2(x-1)}+\\frac{5}{2(x-1)}=\\frac{6x+4+5}{2(x-1)}=\\frac{6x+9}{2x-2}$.",
+  "source": "https://cooksat.com/practice?questionId=da25bdec&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50caa085",
+  "capturedAt": "2026-11-11T05:59:29.859Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $4(x+3)+4(x+3)$?",
+  "choices": {
+    "A": "$4x+6$",
+    "B": "$8x+12$",
+    "C": "$8x+24$",
+    "D": "$16x+24$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Since we have identical terms, $4(x+3)+4(x+3)=2 \\cdot 4(x+3)=8(x+3)$. Using the distributive property: $8(x+3)=8x+24$.",
+  "source": "https://cooksat.com/practice?questionId=50caa085&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

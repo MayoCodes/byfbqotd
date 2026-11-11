@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9ac3d84e",
+  "capturedAt": "2026-11-11T06:00:48.854Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$(px+2)(7x^{2}-qx+6)=35x^{3}-11x^{2}+20x+12$$\n\nThe equation is true for all values of $x$, where $p$ and $q$ are constants. What is the value of $pq$?",
+  "choices": {
+    "A": "$20$",
+    "B": "$25$",
+    "C": "$30$",
+    "D": "$35$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Expanding the left side: $(px+2)(7x^2-qx+6) = 7px^3 - pqx^2 + 6px + 14x^2 - 2qx + 12 = 7px^3 + (-pq+14)x^2 + (6p-2q)x + 12$. Matching the $x^3$ coefficients: $7p = 35$, so $p = 5$. Matching the $x^2$ coefficients: $-pq + 14 = -11$, so $pq = 25$.",
+  "source": "https://cooksat.com/practice?questionId=9ac3d84e&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

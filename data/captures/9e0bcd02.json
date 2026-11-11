@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9e0bcd02",
+  "capturedAt": "2026-11-11T06:00:53.052Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The expression $55-root(2^{5}t^{45})\\times 6-root(3^{6}t)$ is equivalent to $at^b$, where $a$ and $b$ are positive constants and $t>1$. What is the value of $a+b$?\n\n$$0$$\n\n$$\\frac{235}{6},39.16,39.17$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{235}{6},39.16,39.17$",
+  "explanation": "The correct answer is $\\frac{235}{6}$. Using the property $\\sqrt[n]{y^{m}}=y^{\\frac{m}{n}}$, the expression $5\\sqrt[5]{2^{5}t^{45}}\\cdot\\sqrt[6]{3^{6}t}$ becomes $5\\cdot 2^{\\frac{5}{5}}\\cdot t^{\\frac{45}{5}}\\cdot 3^{\\frac{6}{6}}\\cdot t^{\\frac{1}{6}} = 5\\cdot 2\\cdot t^{9}\\cdot 3\\cdot t^{\\frac{1}{6}} = 30t^{9+\\frac{1}{6}} = 30t^{\\frac{55}{6}}$. Therefore $a=30$ and $b=\\frac{55}{6}$, so $a+b=30+\\frac{55}{6}=\\frac{180}{6}+\\frac{55}{6}=\\frac{235}{6}$. Note that 235/6, 39.16, and 39.17 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=9e0bcd02&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

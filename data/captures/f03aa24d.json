@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f03aa24d",
+  "capturedAt": "2026-11-11T06:02:11.524Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $6 + w^{2} + 9$?",
+  "choices": {
+    "A": "$w^{2} - 3$",
+    "B": "$w^{2} + 3$",
+    "C": "$w^{2} + 15$",
+    "D": "$w^{2} + 54$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The given expression can be rewritten as $w^{2} + 6 + 9$. Adding $6$ and $9$ in this expression yields $w^{2} + 15$.",
+  "source": "https://cooksat.com/practice?questionId=f03aa24d&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4f1b5680",
+  "capturedAt": "2026-11-11T05:59:27.734Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The expression $2x^{2}+14x+3k$ has a factor of $(x+3)$, where $k$ is a constant. What is the value of $k$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$6$",
+    "C": "$8$",
+    "D": "$14$"
+  },
+  "correctAnswer": "C",
+  "explanation": "If $(x+3)$ is a factor of $2x^{2}+14x+3k$, then the expression can be written as $(x+3)(2x+b)$ for some constant $b$. Expanding this product yields $2x^{2}+bx+6x+3b$, or $2x^{2}+(b+6)x+3b$. Comparing this to $2x^{2}+14x+3k$, the coefficient of $x$ gives $b+6=14$, so $b=8$. The constant term gives $3b=3k$, so $k=b=8$.",
+  "source": "https://cooksat.com/practice?questionId=4f1b5680&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

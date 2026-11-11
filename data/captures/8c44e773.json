@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8c44e773",
+  "capturedAt": "2026-11-11T06:00:28.041Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $(x + 5)^{2} = 40$, what is the value of $x^{2} + 10x$?",
+  "choices": {
+    "A": "$15$",
+    "B": "$20$",
+    "C": "$40$",
+    "D": "$65$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The expression $(x + 5)^{2}$ can be rewritten as $(x + 5)(x + 5)$. Applying the distributive property yields $x(x + 5) + 5(x + 5)$, or $x^{2} + 5x + 5x + 25$. Combining like terms gives $x^{2} + 10x + 25$. Substituting $x^{2} + 10x + 25$ for $(x + 5)^{2}$ in the given equation yields $x^{2} + 10x + 25 = 40$. Subtracting $25$ from both sides of this equation gives $x^{2} + 10x = 15$.",
+  "source": "https://cooksat.com/practice?questionId=8c44e773&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

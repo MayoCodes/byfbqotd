@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3ea3c850",
+  "capturedAt": "2026-11-11T05:59:16.096Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{x^{7}}{(10)}$, where $x > 0$?",
+  "choices": {
+    "A": "$10-root(x^{70})$",
+    "B": "$49-root(x^{70})$",
+    "C": "$70-root(x^{70})$",
+    "D": "$100-root(x^{70})$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since $\\frac{10}{10} = 1$, multiplying the exponent of the given expression by $\\frac{10}{10}$ yields an equivalent expression: $x^{\\left(\\frac{7}{10}\\right)\\left(\\frac{10}{10}\\right)} = x^{\\frac{70}{100}}$. Since $\\frac{70}{100} = 70 \\cdot \\frac{1}{100}$, the expression $x^{\\frac{70}{100}}$ can be rewritten as $x^{(70)\\left(\\frac{1}{100}\\right)}$. Applying properties of exponents, this expression can be rewritten as $\\left(x^{70}\\right)^{\\frac{1}{100}}$. An expression of the form $m^{\\frac{1}{k}}$, where $m > 0$ and $k > 0$, is equivalent to $\\sqrt[k]{m}$. Therefore, $\\left(x^{70}\\right)^{\\frac{1}{100}}$ is equivalent to $\\sqrt[100]{x^{70}}$.",
+  "source": "https://cooksat.com/practice?questionId=3ea3c850&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

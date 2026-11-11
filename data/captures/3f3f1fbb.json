@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3f3f1fbb",
+  "capturedAt": "2026-11-11T05:59:18.010Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(x+1)-\\frac{4}{(x+1)}$, where $x\\ne -1$?",
+  "choices": {
+    "A": "$((x+3)(x-1))/(x+1)$",
+    "B": "$((x-1)^{2})/(x+1)$",
+    "C": "$((x+3)(x-1))/((x+1)^{2})$",
+    "D": "$\\frac{(x^{2}-2x-3)}{(x+1)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Combining over a common denominator: $(x+1)-\\frac{4}{x+1}=\\frac{(x+1)^2-4}{x+1}$. The numerator is a difference of squares: $(x+1)^2-4=((x+1)-2)((x+1)+2)=(x-1)(x+3)$. The expression equals $\\frac{(x+3)(x-1)}{x+1}$.",
+  "source": "https://cooksat.com/practice?questionId=3f3f1fbb&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

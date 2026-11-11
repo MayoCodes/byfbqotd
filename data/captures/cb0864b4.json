@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cb0864b4",
+  "capturedAt": "2026-11-11T06:01:37.641Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $144n^{2} - 324$?",
+  "choices": {
+    "A": "$(6n - 9)(6n - 9)$",
+    "B": "$(6n - 9)(6n + 9)$",
+    "C": "$(12n - 18)(12n - 18)$",
+    "D": "$(12n - 18)(12n + 18)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The given expression follows the difference of two squares pattern, $x^{2} - y^{2}$, which factors as $(x - y)(x + y)$. Therefore, the expression $144n^{2} - 324$ can be written as $(12n)^{2} - 18^{2}$, or $(12n)(12n) - (18)(18)$, which factors as $(12n - 18)(12n + 18)$.",
+  "source": "https://cooksat.com/practice?questionId=cb0864b4&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

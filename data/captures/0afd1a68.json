@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0afd1a68",
+  "capturedAt": "2026-11-11T05:58:20.539Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following is equivalent to $\\frac{(27^{2}/3 \\times 4^{3}/2)}{(9^{1}/2)}$?",
+  "choices": {
+    "A": "$12$",
+    "B": "$18$",
+    "C": "$24$",
+    "D": "$72$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The expression can be simplified by evaluating each term separately. Since $27 = 3^3$, we have $27^{\\frac{2}{3}} = (3^3)^{\\frac{2}{3}} = 3^2 = 9$. Since $4 = 2^2$, we have $4^{\\frac{3}{2}} = (2^2)^{\\frac{3}{2}} = 2^3 = 8$. Since $9 = 3^2$, we have $9^{\\frac{1}{2}} = 3$. Therefore, $\\frac{27^{\\frac{2}{3}} \\cdot 4^{\\frac{3}{2}}}{9^{\\frac{1}{2}}} = \\frac{9 \\cdot 8}{3} = \\frac{72}{3} = 24$.",
+  "source": "https://cooksat.com/practice?questionId=0afd1a68&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

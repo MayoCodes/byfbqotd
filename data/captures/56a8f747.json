@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "56a8f747",
+  "capturedAt": "2026-11-11T05:59:37.380Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(a^{2}/3 \\times a^{-1}/4)}{(a^{-5}/6)}$ for all nonzero values of $a$?",
+  "choices": {
+    "A": "$\\frac{a^{5}}{4}$",
+    "B": "$a^\\frac{(17)}{(12)}$",
+    "C": "$\\frac{a^{5}}{(12)}$",
+    "D": "$\\frac{a^{-5}}{(12)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "First, apply the product rule to the numerator: $a^{\\frac{2}{3}} \\cdot a^{-\\frac{1}{4}} = a^{\\frac{2}{3}+(-\\frac{1}{4})} = a^{\\frac{8}{12}-\\frac{3}{12}} = a^{\\frac{5}{12}}$. Then apply the quotient rule: $\\frac{a^{\\frac{5}{12}}}{a^{-\\frac{5}{6}}} = a^{\\frac{5}{12}-(-\\frac{5}{6})} = a^{\\frac{5}{12}+\\frac{10}{12}} = a^{\\frac{15}{12}} = a^{\\frac{5}{4}}$.",
+  "source": "https://cooksat.com/practice?questionId=56a8f747&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

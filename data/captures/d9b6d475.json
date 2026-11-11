@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d9b6d475",
+  "capturedAt": "2026-11-11T06:01:49.724Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $15x^{7}y^{4}-25x^{5}y^{4}$?",
+  "choices": {
+    "A": "$15x^{5}y^{4}(x^{2}-5)$",
+    "B": "$5x^{5}y^{4}(3x-5)$",
+    "C": "$5x^{5}y^{4}(3x^{2}-5)$",
+    "D": "$5x^{5}y^{4}(3x^{2}y-5)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The greatest common factor of $15x^{7}y^{4}$ and $-25x^{5}y^{4}$ is $5x^{5}y^{4}$. Factoring this out: $\\frac{15x^{7}y^{4}}{5x^{5}y^{4}} = 3x^{2}$ and $\\frac{-25x^{5}y^{4}}{5x^{5}y^{4}} = -5$. Therefore, $15x^{7}y^{4}-25x^{5}y^{4} = 5x^{5}y^{4}(3x^{2}-5)$.",
+  "source": "https://cooksat.com/practice?questionId=d9b6d475&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

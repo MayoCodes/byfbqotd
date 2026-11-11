@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6dfd0949",
+  "capturedAt": "2026-11-11T05:59:57.622Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The expression $2x^{2}+(5+2k)x+15$ can be written in the form $(2x+a)(x+5)$, where $k$ and $a$ are constants and $a$ is a positive integer. What is the value of $k$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Expanding the factored form $(2x+a)(x+5)$ gives $2x^{2}+10x+ax+5a$, which simplifies to $2x^{2}+(10+a)x+5a$. For this to equal $2x^{2}+(5+2k)x+15$, the coefficients and constants must match. From the constant terms: $5a=15$, so $a=3$. From the linear coefficients: $10+a=5+2k$. Substituting $a=3$: $10+3=5+2k$, which gives $13=5+2k$, so $2k=8$ and $k=4$.",
+  "source": "https://cooksat.com/practice?questionId=6dfd0949&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

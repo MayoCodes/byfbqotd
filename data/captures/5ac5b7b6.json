@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5ac5b7b6",
+  "capturedAt": "2026-11-11T05:59:40.945Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(2x^{2}+5x+3)}{(x^{2}+5x+4)}$ for all $x\\ne -1$ and $x\\ne -4$?",
+  "choices": {
+    "A": "$\\frac{(2x+1)}{(x+4)}$",
+    "B": "$\\frac{(2x+3)}{(x+4)}$",
+    "C": "$(2(x+3))/(x+4)$",
+    "D": "$2x+3$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Factor the numerator: $2x^2+5x+3 = (2x+3)(x+1)$. Factor the denominator: $x^2+5x+4 = (x+1)(x+4)$. The expression becomes $\\frac{(2x+3)(x+1)}{(x+1)(x+4)}$. Cancel the common factor of $(x+1)$: $\\frac{2x+3}{x+4}$.",
+  "source": "https://cooksat.com/practice?questionId=5ac5b7b6&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

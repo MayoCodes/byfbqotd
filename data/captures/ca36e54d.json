@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ca36e54d",
+  "capturedAt": "2026-11-11T06:01:34.174Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(1/x+1/y)}{(1/a+1/b)}$, where $a$, $b$, $x$, and $y$ are constants and $a$, $b$, $x$, and $y$ are not equal to $0$?",
+  "choices": {
+    "A": "$\\frac{(x+y)}{(a+b)}$",
+    "B": "$(xy(a+b))/((x+y)ab)$",
+    "C": "$(ab(x+y))/(xy(a+b))$",
+    "D": "$\\frac{(xy)}{(ab)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "To simplify the complex fraction, first combine the fractions in the numerator: $\\frac{1}{x}+\\frac{1}{y}=\\frac{y}{xy}+\\frac{x}{xy}=\\frac{x+y}{xy}$. Similarly, the denominator becomes $\\frac{1}{a}+\\frac{1}{b}=\\frac{b}{ab}+\\frac{a}{ab}=\\frac{a+b}{ab}$. The expression is now $\\frac{\\frac{x+y}{xy}}{\\frac{a+b}{ab}}$. To divide fractions, multiply by the reciprocal: $\\frac{x+y}{xy} \\cdot \\frac{ab}{a+b} = \\frac{ab(x+y)}{xy(a+b)}$.",
+  "source": "https://cooksat.com/practice?questionId=ca36e54d&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

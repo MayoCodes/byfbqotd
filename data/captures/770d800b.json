@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "770d800b",
+  "capturedAt": "2026-11-11T06:00:04.358Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For $x \\ne 0$, which expression is equivalent to $\\frac{5}{(x^{2})} + \\frac{(15)}{(x^{3})}$?",
+  "choices": {
+    "A": "$\\frac{(5x + 15)}{(x^{2})}$",
+    "B": "$(5(x + 3))/(x^{3})$",
+    "C": "$(5x(x + 3))/(x^{3})$",
+    "D": "$\\frac{(5x^{2} + 15x)}{(x^{3})}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "To add these fractions, find the LCD of $x^2$ and $x^3$, which is $x^3$. Rewrite the first fraction with this denominator: $\\frac{5}{x^2} = \\frac{5x}{x^3}$. Adding gives $\\frac{5x}{x^3} + \\frac{15}{x^3} = \\frac{5x + 15}{x^3}$. Factor the numerator: $5x + 15 = 5(x + 3)$, yielding $\\frac{5(x + 3)}{x^3}$.",
+  "source": "https://cooksat.com/practice?questionId=770d800b&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

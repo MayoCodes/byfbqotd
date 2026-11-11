@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c280065f",
+  "capturedAt": "2026-11-11T06:01:26.286Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(x^{2} + 8)^{2} + (x - 3)(x + 3)$?",
+  "choices": {
+    "A": "$x^{4} + 17x^{2} - 9$",
+    "B": "$x^{4} + 9x^{2} + 64$",
+    "C": "$x^{4} + 17x^{2} + 55$",
+    "D": "$x^{4} + 17x^{2} + 73$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The expression $\\left(x^{2} + 8\\right)^{2}$ can be written as $\\left(x^{2} + 8\\right)\\left(x^{2} + 8\\right)$, which is equivalent to $x^{2}\\left(x^{2} + 8\\right) + 8\\left(x^{2} + 8\\right)$. Distributing yields $x^{4} + 8x^{2} + 8x^{2} + 64$, or $x^{4} + 16x^{2} + 64$. The expression $\\left(x - 3\\right)\\left(x + 3\\right)$ is equivalent to $x^{2} + 3x - 3x - 9$, or $x^{2} - 9$. Therefore, $\\left(x^{2} + 8\\right)^{2} + \\left(x - 3\\right)\\left(x + 3\\right)$ is equivalent to $\\left(x^{4} + 16x^{2} + 64\\right) + \\left(x^{2} - 9\\right)$. Combining like terms yields $x^{4} + 17x^{2} + 55$.",
+  "source": "https://cooksat.com/practice?questionId=c280065f&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

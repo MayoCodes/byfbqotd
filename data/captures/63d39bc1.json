@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "63d39bc1",
+  "capturedAt": "2026-11-11T05:59:44.501Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $p^{2} = m + n$ and $q^{2} = m + r$, which of the following is equal to $(p^{2} - q^{2})^{2}$?",
+  "choices": {
+    "A": "$m^{2} - 2mr + r^{2}$",
+    "B": "$n^{2} - 2nr + r^{2}$",
+    "C": "$4m^{2} - 4mnr + r^{2}$",
+    "D": "$4m^{2} - 2mnr + n^{2} r^{2}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $p^{2} = m + n$ and $q^{2} = m + r$. Using the distributive property, the expression $(p^{2} - q^{2})^{2}$ can be rewritten as $(p^{2})^{2} - 2p^{2} \\cdot q^{2} + (q^{2})^{2}$. Substituting $m + n$ and $m + r$ for $p^{2}$ and $q^{2}$, respectively, in this expression yields $(m + n)^{2} - 2((m + n)(m + r)) + (m + r)^{2}$. Expanding this expression yields $(m^{2} + 2mn + n^{2}) - (2m^{2} + 2mr + 2mn + 2nr) + (m^{2} + 2mr + r^{2})$. Combining like terms, this expression can be rewritten as $n^{2} - 2nr + r^{2}$.",
+  "source": "https://cooksat.com/practice?questionId=63d39bc1&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

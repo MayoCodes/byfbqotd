@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "660d9643",
+  "capturedAt": "2026-11-11T05:59:48.698Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "For $x > 3$, the expression $\\frac{(2x^{2} - 8)}{(x^{2} - 4)} \\times \\frac{(x^{2} + 2x)}{(x^{2} - x - 6)}$ is equivalent to $\\frac{(ax)}{(x-3)}$, where $a$ is a constant. What is the value of $a$?\n\n$$0$$\n\n$$2$$",
+  "choices": {},
+  "correctAnswer": "$2$",
+  "explanation": "The correct answer is $2$. To find the value of $a$, the given expression must be simplified. First, factor each polynomial. The expression $2x^2 - 8$ can be factored as $2(x^2 - 4)$, which further factors as $2(x-2)(x+2)$. The expression $x^2 - 4$ factors as $(x-2)(x+2)$. The expression $x^2 + 2x$ factors as $x(x+2)$. The expression $x^2 - x - 6$ factors as $(x-3)(x+2)$. Substituting these factored forms into the given expression yields $\\frac{2(x-2)(x+2)}{(x-2)(x+2)} \\cdot \\frac{x(x+2)}{(x-3)(x+2)}$. The factors $(x-2)$ and $(x+2)$ in the first fraction cancel, leaving $2$. One factor of $(x+2)$ cancels between the numerator and denominator of the second fraction. The simplified expression is $2 \\cdot \\frac{x}{x-3}$, which equals $\\frac{2x}{x-3}$. Since this is equivalent to $\\frac{ax}{x-3}$, it follows that $a = 2$. Therefore, the value of $a$ is $2$.",
+  "source": "https://cooksat.com/practice?questionId=660d9643&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

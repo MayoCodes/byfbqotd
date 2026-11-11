@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "511b331e",
+  "capturedAt": "2026-11-11T05:59:31.443Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $sqrt(y^{247})$, where $y > 0$?",
+  "choices": {
+    "A": "$\\frac{y^{2}}{(247)}$",
+    "B": "$y^\\frac{(247)}{2}$",
+    "C": "$y^{245}$",
+    "D": "$y^{494}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. An expression in the form $\\sqrt{a}$, where $a > 0$, is equivalent to $a^{\\frac{1}{2}}$. Therefore, $\\sqrt{y^{247}}$ can be rewritten as $(y^{247})^{\\frac{1}{2}}$. For positive values of $y$, $(y^{m})^{n} = y^{mn}$. Applying this property gives $(y^{247})^{\\frac{1}{2}} = y^{247 \\cdot \\frac{1}{2}} = y^{\\frac{247}{2}}$.",
+  "source": "https://cooksat.com/practice?questionId=511b331e&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

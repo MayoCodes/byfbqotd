@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cf27e55c",
+  "capturedAt": "2026-11-11T06:01:42.816Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(b+15)}{(a-6)}+(b(a-6))/(a^{2}b-6ab)$?",
+  "choices": {
+    "A": "$\\frac{(ab^{2} + 16ab + 6b)}{(a^{2}b - 6ab)}$",
+    "B": "$\\frac{(ab^{2} + 15ab - 6b)}{(a^{2}b - 6ab)}$",
+    "C": "$\\frac{(ab^{2} + 16ab - 6b)}{(a^{2}b - 6ab)}$",
+    "D": "$\\frac{(ab^{2} + 16ab - 6b)}{(ab^{2} - 6ab)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The denominator in the second term of the given expression, $a^2b-6ab$, can be factored as $ab(a-6)$. This gives $\\frac{b+15}{a-6}+\\frac{b(a-6)}{ab(a-6)}$. This expression can be rewritten with the common denominator $ab(a-6)$ by multiplying the first term by $\\frac{ab}{ab}$, giving $\\frac{ab(b+15)}{ab(a-6)}+\\frac{b(a-6)}{ab(a-6)}$. Adding these two fractions yields $\\frac{ab(b+15)+b(a-6)}{ab(a-6)}$. Applying the distributive property to the numerator gives $\\frac{ab^2+15ab+ab-6b}{ab(a-6)}$. Combining like terms in the numerator gives $\\frac{ab^2+16ab-6b}{ab(a-6)}$. Expanding the denominator $ab(a-6)$ as $a^2b-6ab$ gives the final answer $\\frac{ab^2+16ab-6b}{a^2b-6ab}$.",
+  "source": "https://cooksat.com/practice?questionId=cf27e55c&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

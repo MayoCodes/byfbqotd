@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a0fe6163",
+  "capturedAt": "2026-11-11T06:00:57.458Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $6x^{2}+15x$?",
+  "choices": {
+    "A": "$3(2x^{2}+5)$",
+    "B": "$3x(2x+5)$",
+    "C": "$6x(x+15)$",
+    "D": "$3x(2x+15)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since each term of the given expression has a common factor of $3x$, it can be factored and rewritten as $3x(2x+5)$. To verify: $3x \\cdot 2x = 6x^{2}$ and $3x \\cdot 5 = 15x$.",
+  "source": "https://cooksat.com/practice?questionId=a0fe6163&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

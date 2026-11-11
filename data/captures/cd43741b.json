@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cd43741b",
+  "capturedAt": "2026-11-11T06:01:39.288Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $a-x$ is a factor of the expression $-x^{2}+\\frac{1}{(41)}ka^{2}$, where $k$ and $a$ are constants and $a>0$, what is the value of $k$?",
+  "choices": {
+    "A": "$-41$",
+    "B": "$-\\frac{1}{(41)}$",
+    "C": "$\\frac{1}{(41)}$",
+    "D": "$41$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The expression $-x^{2}+\\frac{1}{41}ka^{2}$ can be rewritten as $\\frac{1}{41}ka^{2}-x^{2}$. For $a-x$ to be a factor, this must be a difference of squares that factors as $(a-x)(a+x) = a^{2}-x^{2}$. Comparing coefficients, $\\frac{1}{41}ka^{2} = a^{2}$. Since $a>0$, dividing both sides by $a^{2}$ gives $\\frac{1}{41}k = 1$. Multiplying both sides by $41$ yields $k = 41$.",
+  "source": "https://cooksat.com/practice?questionId=cd43741b&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

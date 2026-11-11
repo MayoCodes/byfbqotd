@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e9a9b40c",
+  "capturedAt": "2026-11-11T06:02:09.690Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(12x^{8}y^{5})}{(3x^{3}y^{9})}$?",
+  "choices": {
+    "A": "$4x^{5}y^{4}$",
+    "B": "$\\frac{(4x^{11})}{(y^{14})}$",
+    "C": "$\\frac{(4x^{11})}{(y^{4})}$",
+    "D": "$\\frac{(4x^{5})}{(y^{4})}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "First, simplify the coefficient: $\\frac{12}{3}=4$. Then apply the quotient rule for exponents: $\\frac{x^8}{x^3}=x^{8-3}=x^5$ and $\\frac{y^5}{y^9}=y^{5-9}=y^{-4}$. Finally, convert the negative exponent: $y^{-4}=\\frac{1}{y^4}$, giving $\\frac{4x^5}{y^4}$.",
+  "source": "https://cooksat.com/practice?questionId=e9a9b40c&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

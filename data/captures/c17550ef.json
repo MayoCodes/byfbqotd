@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c17550ef",
+  "capturedAt": "2026-11-11T06:01:24.350Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(9x^{2}+x-2)}{(x+1)}$, where $x \\ne -1$?",
+  "choices": {
+    "A": "$9x-8$",
+    "B": "$9x+10$",
+    "C": "$9x+10-\\frac{9}{(x+1)}$",
+    "D": "$9x-8+\\frac{6}{(x+1)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Using polynomial long division to divide $9x^2+x-2$ by $x+1$: First, $9x^2 \\div x = 9x$, and $9x(x+1) = 9x^2+9x$. Subtracting gives $(9x^2+x-2)-(9x^2+9x) = -8x-2$. Next, $-8x \\div x = -8$, and $-8(x+1) = -8x-8$. Subtracting gives $(-8x-2)-(-8x-8) = 6$. Therefore, $\\frac{9x^2+x-2}{x+1} = 9x-8+\\frac{6}{x+1}$.",
+  "source": "https://cooksat.com/practice?questionId=c17550ef&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

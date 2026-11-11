@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e5be6ee1",
+  "capturedAt": "2026-11-11T06:02:06.067Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$\\frac{3}{4}x^{2} - \\frac{(27)}{4} = \\frac{a}{4}(x - b)(x + b)$$\n\nThe given equation is true for all values of $x$, where $a$ and $b$ are positive constants. What is the value of $ab$?\n\n$$0$$\n\n$$9$$",
+  "choices": {},
+  "correctAnswer": "$9$",
+  "explanation": "The correct answer is $9$. Factor out $\\frac{3}{4}$ from the left side: $\\frac{3}{4}x^2 - \\frac{27}{4} = \\frac{3}{4}(x^2 - 9)$. Recognize that $x^2 - 9$ is a difference of squares: $x^2 - 9 = (x - 3)(x + 3)$. Therefore, $\\frac{3}{4}(x^2 - 9) = \\frac{3}{4}(x - 3)(x + 3)$. Comparing with $\\frac{a}{4}(x - b)(x + b)$, we get $a = 3$ and $b = 3$. Therefore, $ab = 3 \\cdot 3 = 9$.",
+  "source": "https://cooksat.com/practice?questionId=e5be6ee1&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

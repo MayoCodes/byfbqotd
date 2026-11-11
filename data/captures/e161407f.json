@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e161407f",
+  "capturedAt": "2026-11-11T06:02:00.589Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "One of the factors of $3x^{3} + 51x^{2} + 198x$ is $x + c$, where $c$ is a positive constant. What is the smallest possible value of $c$?\n\n$$0$$\n\n$$6$$",
+  "choices": {},
+  "correctAnswer": "$6$",
+  "explanation": "The correct answer is $6$. Since each term of the given expression, $3x^{3} + 51x^{2} + 198x$, has a factor of $3x$, the expression can be rewritten as $3x(x^{2}) + 3x(17x) + 3x(66)$, or $3x(x^{2} + 17x + 66)$. Since the values $6$ and $11$ have a sum of $17$ and a product of $66$, the expression $x^{2} + 17x + 66$ can be factored as $(x + 6)(x + 11)$. Therefore, the given expression can be factored as $3x(x + 6)(x + 11)$. It follows that the factors of the given expression are $3$, $x$, $x + 6$, and $x + 11$. Of these factors, only $x + 6$ and $x + 11$ are of the form $x + c$, where $c$ is a positive constant. Therefore, the possible values of $c$ are $6$ and $11$. Thus, the smallest possible value of $c$ is $6$.",
+  "source": "https://cooksat.com/practice?questionId=e161407f&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

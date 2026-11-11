@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8f337fce",
+  "capturedAt": "2026-11-11T06:00:29.659Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $7x^{3} - 8x^{3}$?",
+  "choices": {
+    "A": "$15x^{3}$",
+    "B": "$15x^{6}$",
+    "C": "$-x^{6}$",
+    "D": "$-x^{3}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since both terms have the same variable and exponent, they are like terms. Combining like terms by subtracting the coefficients yields $(7-8)x^{3}=-1x^{3}=-x^{3}$.",
+  "source": "https://cooksat.com/practice?questionId=8f337fce&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

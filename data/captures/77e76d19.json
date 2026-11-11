@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "77e76d19",
+  "capturedAt": "2026-11-11T06:00:07.924Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $8w^{3} + 5w^{3} + 6w$?",
+  "choices": {
+    "A": "$8w^{3} + 11w$",
+    "B": "$13w^{3} + 6w$",
+    "C": "$19w^{7}$",
+    "D": "$40w^{6} + 6w$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In the given expression, the first two terms, $8w^{3}$ and $5w^{3}$, are like terms. Combining these like terms yields $8w^{3} + 5w^{3} = 13w^{3}$. It follows that the expression $8w^{3} + 5w^{3} + 6w$ is equivalent to $13w^{3} + 6w$.",
+  "source": "https://cooksat.com/practice?questionId=77e76d19&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

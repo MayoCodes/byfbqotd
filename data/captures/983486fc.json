@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "983486fc",
+  "capturedAt": "2026-11-11T06:00:38.401Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following expressions is equivalent to the sum of $(w^{4} + 3 w^{2} + 9)$ and $(4 w^{2} + 6 w + 11)$?",
+  "choices": {
+    "A": "$w^{4} + 7 w^{2} + 6 w + 20$",
+    "B": "$5 w^{4} + 9 w^{2} + 20$",
+    "C": "$w^{4} + 7 w^{2} + 15 w + 20$",
+    "D": "$w^{8} + 7 w^{4} + 6 w + 20$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Grouping like terms, the sum can be rewritten as $w^{4} + (3 w^{2} + 4 w^{2}) + 6 w + (9 + 11)$, which simplifies to $w^{4} + 7 w^{2} + 6 w + 20$.",
+  "source": "https://cooksat.com/practice?questionId=983486fc&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

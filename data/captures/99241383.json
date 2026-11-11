@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99241383",
+  "capturedAt": "2026-11-11T06:00:40.290Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$aligned f(t) &= t^{3}-16t \\\\ g(t) &= t^{2}-3t-4 aligned$$\n\nWhich of the following expressions is equivalent to $(f(t))/(g(t))$, for $t > 4$?",
+  "choices": {
+    "A": "$\\frac{1}{(t+1)}$",
+    "B": "$\\frac{(t+4)}{(t+1)}$",
+    "C": "$(t(t-4))/(t+1)$",
+    "D": "$(t(t+4))/(t+1)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The numerator $f(t) = t^3 - 16t$ can be factored by first factoring out the greatest common factor $t$, giving $t(t^2-16)$. The expression $t^2-16$ is a difference of squares, which factors as $(t+4)(t-4)$. Therefore, $f(t) = t(t+4)(t-4)$. The denominator $g(t) = t^2 - 3t - 4$ is a quadratic trinomial. To factor it, we need two numbers that multiply to $-4$ and add to $-3$. These numbers are $-4$ and $1$, so $g(t) = (t-4)(t+1)$. The fraction $\\frac{f(t)}{g(t)}$ can thus be written as $\\frac{t(t+4)(t-4)}{(t-4)(t+1)}$. Since it is given that $t>4$, the common factor $(t-4)$ in the numerator and denominator is not equal to $0$. Therefore, we can cancel this common factor, yielding $\\frac{t(t+4)}{t+1}$.",
+  "source": "https://cooksat.com/practice?questionId=99241383&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

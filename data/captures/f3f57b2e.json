@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f3f57b2e",
+  "capturedAt": "2026-11-11T06:02:14.858Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $18w^{3} - 11w^{3}$?",
+  "choices": {
+    "A": "$-198w^{3}$",
+    "B": "$7w^{3}$",
+    "C": "$29w^{3}$",
+    "D": "$29w^{6}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since each term in the given expression has a common factor of $w^{3}$, the expression can be rewritten as $(18 - 11)w^{3}$, or $7w^{3}$. Therefore, the expression $7w^{3}$ is equivalent to $18w^{3} - 11w^{3}$. Alternate approach: Since the two terms are both constant multiples of $w^{3}$, they are like terms and can be combined through subtraction, which yields $7w^{3}$.",
+  "source": "https://cooksat.com/practice?questionId=f3f57b2e&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

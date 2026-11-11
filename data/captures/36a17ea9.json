@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "36a17ea9",
+  "capturedAt": "2026-11-11T05:59:06.680Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $18m^{2} + 12m$?",
+  "choices": {
+    "A": "$6m(3m + 2)$",
+    "B": "$6m(3m + 12)$",
+    "C": "$18m(m + 12)$",
+    "D": "$6(3m + 2m)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Since $6m$ is the greatest common factor of both terms $18m^2$ and $12m$, the expression can be factored as $6m(3m + 2)$. To verify: $6m \\cdot 3m = 18m^2$ and $6m \\cdot 2 = 12m$.",
+  "source": "https://cooksat.com/practice?questionId=36a17ea9&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "84de9201",
+  "capturedAt": "2026-11-11T06:00:16.759Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The expression $56 w^{4} - 24 w^{3}$ is equivalent to $c w^{3} ( 7 w - 3 )$, where $c$ is a constant. What is the value of $c$?\n\n$$0$$\n\n$$8$$",
+  "choices": {},
+  "correctAnswer": "$8$",
+  "explanation": "The correct answer is $8$. Applying the distributive property to the expression $c w^{3} \\left( 7 w - 3 \\right)$ yields $7 c w^{4} - 3 c w^{3}$. Since $56 w^{4} - 24 w^{3}$ is equivalent to $c w^{3} \\left( 7 w - 3 \\right)$, it follows that $56 w^{4} - 24 w^{3}$ is also equivalent to $7 c w^{4} - 3 c w^{3}$. Since these expressions are equivalent, corresponding coefficients are equal. Therefore, $56 = 7 c$ and $-24 = -3 c$. Dividing both sides of $56 = 7 c$ by $7$ yields $c = 8$. Therefore, the value of $c$ is $8$.",
+  "source": "https://cooksat.com/practice?questionId=84de9201&subject=math&domain=advanced-math&skills=equivalent_expressions&bank=cooksat",
+  "images": []
+}
