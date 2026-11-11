@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d0083507",
+  "capturedAt": "2026-11-11T06:14:13.789Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The sum of two consecutive positive integers is $51$. What is the greater of the two integers?",
+  "choices": {
+    "A": "$24$",
+    "B": "$25$",
+    "C": "$26$",
+    "D": "$27$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Let $x$ represent the lesser of the two consecutive positive integers. Then $x+1$ represents the greater integer. Since their sum is $51$: $x+(x+1)=51$, which simplifies to $2x+1=51$. Subtracting $1$ from both sides: $2x=50$. Dividing by $2$: $x=25$. Therefore, the greater integer is $25+1=26$.",
+  "source": "https://cooksat.com/practice?questionId=d0083507&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

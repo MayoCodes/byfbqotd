@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d800ff1a",
+  "capturedAt": "2026-11-11T06:14:20.455Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $2x + 7 = 19$, what is the value of $6x + 21$?",
+  "choices": {
+    "A": "$36$",
+    "B": "$39$",
+    "C": "$54$",
+    "D": "$57$"
+  },
+  "correctAnswer": "D",
+  "explanation": "From the equation $2x + 7 = 19$, subtracting $7$ from both sides gives $2x = 12$, so $x = 6$. Substituting into $6x + 21$ yields $6(6) + 21 = 36 + 21 = 57$. Alternatively, notice that $6x + 21 = 3(2x + 7) = 3(19) = 57$.",
+  "source": "https://cooksat.com/practice?questionId=d800ff1a&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

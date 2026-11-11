@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6e16dc43",
+  "capturedAt": "2026-11-11T06:12:49.841Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A bakery produces $2$-inch, $5$-inch, and $8$-inch rolls. During a certain morning, the number of $2$-inch rolls that the bakery produces is $3$ times the number $n$ of $5$-inch rolls, and the number of $8$-inch rolls is $10$. During this morning, the bakery produces $30$ rolls total. Which equation represents this situation?",
+  "choices": {
+    "A": "$2(3n) + 5n + 8(10) = 30$",
+    "B": "$2n + 5n + 8n = 30$",
+    "C": "$3n + 10 = 30$",
+    "D": "$4n + 10 = 30$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that during a certain morning, the number of $5$-inch rolls the bakery produces is $n$ and the number of $8$-inch rolls is $10$. It's also given that the number of $2$-inch rolls the bakery produces is $3$ times the number of $5$-inch rolls, or $3n$. Therefore, the total number of $2$-inch, $5$-inch, and $8$-inch rolls the bakery produces is $3n + n + 10$, or $4n + 10$. It's given that during this morning the bakery produces $30$ rolls total. Thus, the equation $4n + 10 = 30$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=6e16dc43&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

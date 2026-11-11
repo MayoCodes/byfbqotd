@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a74d52cc",
+  "capturedAt": "2026-11-11T06:13:39.462Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = 5x$. For what value of $x$ is $h(x) = 35$?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. Substituting $5x$ for $h(x)$ in the equation $h(x) = 35$ yields $5x = 35$. Dividing both sides of this equation by $5$ yields $x = 7$. Therefore, the value of $x$ for which $h(x) = 35$ is $7$.",
+  "source": "https://cooksat.com/practice?questionId=a74d52cc&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

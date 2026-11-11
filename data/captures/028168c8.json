@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "028168c8",
+  "capturedAt": "2026-11-11T06:11:09.920Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $\\frac{(k+6)}{2} = 10$, what is the value of $k - 4$?",
+  "choices": {
+    "A": "$6$",
+    "B": "$10$",
+    "C": "$14$",
+    "D": "$20$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Multiplying both sides of $\\frac{k+6}{2} = 10$ by $2$ gives $k+6 = 20$. Subtracting $6$ from both sides gives $k = 14$. Therefore, $k - 4 = 14 - 4 = 10$.",
+  "source": "https://cooksat.com/practice?questionId=028168c8&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

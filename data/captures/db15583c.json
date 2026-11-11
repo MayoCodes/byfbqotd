@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db15583c",
+  "capturedAt": "2026-11-11T06:14:23.963Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$7$ more than $6$ times a number $x$ is equal to $55$. Which equation represents this situation?",
+  "choices": {
+    "A": "$6x + 7 = 55$",
+    "B": "$6x = 55 + 7$",
+    "C": "$7x + 6 = 55$",
+    "D": "$(7)(6)x = 55$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The given phrase \"$6$ times a number $x$\" can be represented by the expression $6x$. The given phrase \"$7$ more than\" indicates an increase of $7$ to a quantity. Therefore \"$7$ more than $6$ times a number $x$\" can be represented by the expression $6x + 7$. Since it's given that $7$ more than $6$ times a number $x$ is equal to $55$, it follows that $6x + 7$ is equal to $55$, or $6x + 7 = 55$. Therefore, the equation that represents this situation is $6x + 7 = 55$.",
+  "source": "https://cooksat.com/practice?questionId=db15583c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

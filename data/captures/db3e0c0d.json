@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db3e0c0d",
+  "capturedAt": "2026-11-11T06:14:25.902Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $12x + 2 = 13$, and $y = 3x - 1$, what is the value of $y^{2}$?",
+  "choices": {
+    "A": "$\\frac{(25)}{(16)}$",
+    "B": "$\\frac{(49)}{(16)}$",
+    "C": "$\\frac{(81)}{(16)}$",
+    "D": "$\\frac{(121)}{(16)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Solving $12x + 2 = 13$ gives $12x = 11$, so $x = \\frac{11}{12}$. Substituting into $y = 3x - 1$ gives $y = 3(\\frac{11}{12}) - 1 = \\frac{33}{12} - \\frac{12}{12} = \\frac{21}{12} = \\frac{7}{4}$. Therefore, $y^2 = (\\frac{7}{4})^2 = \\frac{49}{16}$.",
+  "source": "https://cooksat.com/practice?questionId=db3e0c0d&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

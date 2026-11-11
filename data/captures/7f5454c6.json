@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7f5454c6",
+  "capturedAt": "2026-11-11T06:12:58.756Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $5x + 3 = kx + km$, where $k$ and $m$ are constants, has no solutions. Which of the following must be true?\n\nI. $k = 5$\n\nII. $m = 0$\n\nIII. $m \\ne \\frac{3}{5}$",
+  "choices": {
+    "A": "None",
+    "B": "I and III only",
+    "C": "I and II only",
+    "D": "I only"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For a linear equation in the form $ax + b = cx + d$ to have no solutions, the coefficients of $x$ must be equal and the constant terms must be different. In the equation $5x + 3 = kx + km$, for the coefficients of $x$ to match, we need $5 = k$, so statement I must be true. When $k = 5$, the equation becomes $5x + 3 = 5x + 5m$. For no solutions, the constant terms must differ: $3 \\neq 5m$. Dividing both sides by $5$ yields $\\frac{3}{5} \\neq m$, or equivalently, $m \\neq \\frac{3}{5}$. Therefore, statement III must be true. Since $m$ can have any value other than $\\frac{3}{5}$ (for example, $m = 0$, $m = 1$, $m = -2$, etc. all produce no solutions), statement II may be true but is not required to be true.",
+  "source": "https://cooksat.com/practice?questionId=7f5454c6&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

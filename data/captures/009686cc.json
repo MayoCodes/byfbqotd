@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "009686cc",
+  "capturedAt": "2026-11-11T06:11:04.043Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $5x - \\frac{1}{2} = 7$, what is the value of $10x - 1$?",
+  "choices": {
+    "A": "$7.5$",
+    "B": "$13$",
+    "C": "$14$",
+    "D": "$15$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Adding $\\frac{1}{2}$ to both sides of $5x - \\frac{1}{2} = 7$ gives $5x = 7.5$. Multiplying both sides by 2 yields $10x = 15$. Subtracting 1 from both sides gives $10x - 1 = 14$.",
+  "source": "https://cooksat.com/practice?questionId=009686cc&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

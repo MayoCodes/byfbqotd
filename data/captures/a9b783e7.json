@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a9b783e7",
+  "capturedAt": "2026-11-11T06:13:47.134Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A car rental company charges a flat fee plus a rate per mile driven. A customer drove $50$ miles and paid a total of $$180$. If the rate is $$3$ per mile, what is the flat fee in dollars?",
+  "choices": {
+    "A": "$15$",
+    "B": "$20$",
+    "C": "$25$",
+    "D": "$30$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The total cost can be modeled with the linear equation $y = 3x + b$, where $y$ is the total cost in dollars, $x$ is the number of miles driven, $3$ is the rate per mile, and $b$ is the flat fee. Substituting the given values of $x = 50$ miles and $y = 180$ dollars: $180 = 3(50) + b$, which simplifies to $180 = 150 + b$. Solving for $b$ gives $b = 180 - 150 = 30$. Therefore, the flat fee is $$30$.",
+  "source": "https://cooksat.com/practice?questionId=a9b783e7&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

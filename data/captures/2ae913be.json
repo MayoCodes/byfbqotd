@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2ae913be",
+  "capturedAt": "2026-11-11T06:11:49.755Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{4}{m} = \\frac{1}{9}$$\n\nWhat is the solution to the given equation?",
+  "choices": {
+    "A": "$\\frac{4}{9}$",
+    "B": "$4$",
+    "C": "$9$",
+    "D": "$36$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Multiplying both sides of the given equation by $9m$ yields $9(4) = m(1)$, or $36 = m$. Therefore, the solution to the given equation is $36$.",
+  "source": "https://cooksat.com/practice?questionId=2ae913be&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

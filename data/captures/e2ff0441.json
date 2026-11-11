@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e2ff0441",
+  "capturedAt": "2026-11-11T06:14:37.489Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $7x = 28$, what is the value of $28x$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$21$",
+    "C": "$35$",
+    "D": "$112$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $7x = 28$. Multiplying both sides of this equation by $4$ yields $28x = 112$. Therefore, the value of $28x$ is $112$.",
+  "source": "https://cooksat.com/practice?questionId=e2ff0441&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

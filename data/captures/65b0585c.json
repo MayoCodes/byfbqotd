@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "65b0585c",
+  "capturedAt": "2026-11-11T06:12:46.200Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Each month, a company sells $1$ less than twice the number of shirts it sold the previous month. If the company sold $x$ shirts in month $1$ and $25$ shirts in month $3$, what is the value of $x$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$13$",
+    "C": "$14$",
+    "D": "$26$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Working backwards from month $3$: Let month $2$ sales be $s$. Since month $3$ equals $1$ less than twice month $2$: $25 = 2s - 1$, so $s = 13$. Since month $2$ equals $1$ less than twice month $1$: $13 = 2x - 1$, so $2x = 14$ and $x = 7$.",
+  "source": "https://cooksat.com/practice?questionId=65b0585c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

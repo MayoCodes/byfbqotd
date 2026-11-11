@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a58e62ab",
+  "capturedAt": "2026-11-11T06:13:35.685Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The sum of three consecutive even integers is $78$. What is the value of the smallest of these three integers?\n\n$$0$$\n\n$$24$$",
+  "choices": {},
+  "correctAnswer": "$24$",
+  "explanation": "The correct answer is $24$. Let $x$ represent the smallest of the three consecutive even integers. Since consecutive even integers differ by $2$, the three consecutive even integers can be represented as $x$, $x+2$, and $x+4$. It's given that the sum of these three integers is $78$. Therefore, the equation $x + (x+2) + (x+4) = 78$ represents this situation. Combining like terms on the left-hand side of this equation yields $3x + 6 = 78$. Subtracting $6$ from both sides of this equation yields $3x = 72$. Dividing both sides of this equation by $3$ yields $x = 24$. Therefore, the value of the smallest of the three consecutive even integers is $24$.",
+  "source": "https://cooksat.com/practice?questionId=a58e62ab&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

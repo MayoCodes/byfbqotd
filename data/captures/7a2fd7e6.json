@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7a2fd7e6",
+  "capturedAt": "2026-11-11T06:12:55.358Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Number of Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "How many solutions does the equation $8(9x - 6) = -12(4 - 6x)$ have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Applying the distributive property to each side of the given equation yields $72x - 48 = -48 + 72x$. Applying the commutative property of addition to the right-hand side of this equation yields $72x - 48 = 72x - 48$. Since the two sides of the equation are equivalent, this equation is true for any value of $x$. Therefore, the given equation has infinitely many solutions.",
+  "source": "https://cooksat.com/practice?questionId=7a2fd7e6&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

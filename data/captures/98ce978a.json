@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "98ce978a",
+  "capturedAt": "2026-11-11T06:13:15.647Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Company A rents equipment for $$110$ for the first day and $$30$ for each additional day. Company B rents the same equipment for $$35$ for the first day and $$20$ for each additional day. For how many days $x$ will Company A's total rental cost be exactly twice Company B's total rental cost?",
+  "choices": {
+    "A": "$3$",
+    "B": "$5$",
+    "C": "$7$",
+    "D": "$10$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Company A's cost is $A(x) = 110 + 30(x-1)$ and Company B's cost is $B(x) = 35 + 20(x-1)$. Setting up the equation where Company A's cost is exactly twice Company B's cost: $110 + 30(x-1) = 2[35 + 20(x-1)]$. Expanding: $110 + 30x - 30 = 70 + 40x - 40$, which simplifies to $80 + 30x = 30 + 40x$. Solving for $x$: $50 = 10x$, so $x = 5$ days.",
+  "source": "https://cooksat.com/practice?questionId=98ce978a&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

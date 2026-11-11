@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dcdbbf9c",
+  "capturedAt": "2026-11-11T06:14:28.289Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $4x + 9 = 33$, what is the value of $32x + 72$?",
+  "choices": {
+    "A": "$6$",
+    "B": "$48$",
+    "C": "$104$",
+    "D": "$264$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The expression $32x + 72$ can be rewritten as $8(4x + 9)$. It's given that $4x + 9 = 33$. Multiplying both sides of this equation by $8$ yields $8(4x + 9) = 8(33)$, or $32x + 72 = 264$. Therefore, the value of $32x + 72$ is $264$.",
+  "source": "https://cooksat.com/practice?questionId=dcdbbf9c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

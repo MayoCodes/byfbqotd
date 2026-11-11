@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "81fafb65",
+  "capturedAt": "2026-11-11T06:13:00.536Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A community center rents kayaks to visitors. The center earns revenue of $$18$ for each kayak rented for the day. On Saturday, the center earned $$377$ in profit from renting kayaks after paying daily expenses of $$145$. How many kayaks did the center rent on Saturday? $( profit = total revenue - total expenses )$\n\n$$0$$\n\n$$29$$",
+  "choices": {},
+  "correctAnswer": "$29$",
+  "explanation": "The correct answer is $29$. It's given that the center earns revenue of $$18$ for each kayak rented for the day. It's also given that on Saturday, the center earned $$377$ in profit from renting kayaks after paying daily expenses of $$145$. Let $x$ represent the number of kayaks the center rented on Saturday. It follows that the total revenue can be represented by the expression $18x$. Because $\\text{profit} = \\text{total revenue} - \\text{total expenses}$, the equation $377 = 18x - 145$ represents this situation. Adding $145$ to both sides of this equation yields $18x = 522$. Dividing both sides of this equation by $18$ yields $x = 29$. Therefore, the center rented $29$ kayaks on Saturday.",
+  "source": "https://cooksat.com/practice?questionId=81fafb65&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99389254",
+  "capturedAt": "2026-11-11T06:13:19.711Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$4(3x-2)-5(x+1)=2x-8$$\n\nWhat is the solution to the given equation?\n\n$$0$$\n\n$$1$$",
+  "choices": {},
+  "correctAnswer": "$1$",
+  "explanation": "The correct answer is $1$. To solve the given equation, first distribute the coefficients into the parentheses. Distributing $4$ into $(3x-2)$ yields $12x-8$. Distributing $-5$ into $(x+1)$ yields $-5x-5$. Substituting these results back into the equation gives $12x-8-5x-5=2x-8$. Combining like terms on the left side yields $7x-13=2x-8$. Subtracting $2x$ from both sides gives $5x-13=-8$. Adding $13$ to both sides yields $5x=5$. Dividing both sides by $5$ gives $x=1$.",
+  "source": "https://cooksat.com/practice?questionId=99389254&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

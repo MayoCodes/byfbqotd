@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b11de1e8",
+  "capturedAt": "2026-11-11T06:13:56.302Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A library shelf contains a total of $248$ books classified as either fiction or nonfiction. If $173$ of the books are fiction, how many of the books are nonfiction?",
+  "choices": {
+    "A": "$75$",
+    "B": "$173$",
+    "C": "$248$",
+    "D": "$421$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that a library shelf contains a total of $248$ books classified as either fiction or nonfiction, and $173$ of the books are fiction. It follows that $248 - 173$, or $75$, of the books are nonfiction.",
+  "source": "https://cooksat.com/practice?questionId=b11de1e8&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

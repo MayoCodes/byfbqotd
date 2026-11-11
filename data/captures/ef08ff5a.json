@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ef08ff5a",
+  "capturedAt": "2026-11-11T06:14:48.168Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "To purchase a laptop at a total price of $$9,600$, a onetime deposit is required, and then fixed weekly payments are made for the remaining amount owed for the laptop. The equation $9,600 = 1,200 + 175w$ represents this situation, where $w$ is the number of fixed weekly payments that are made. Which of the following is the best interpretation of $175$ in this context?",
+  "choices": {
+    "A": "The amount, in dollars, of the deposit",
+    "B": "The amount, in dollars, of each fixed weekly payment",
+    "C": "The total amount, in dollars, paid through weekly payments after $w$ fixed weekly payments",
+    "D": "The total number of fixed weekly payments"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The given equation $9{,}600 = 1{,}200 + 175w$ represents the total price of the laptop as the sum of a deposit and fixed weekly payments. In this equation, $9{,}600$ represents the total price, $1{,}200$ represents the deposit, and $175w$ represents the total amount paid through weekly payments, where $w$ is the number of weekly payments. Since $175w$ is the product of $175$ and $w$, and $w$ is the number of payments, $175$ must represent the amount, in dollars, of each fixed weekly payment.",
+  "source": "https://cooksat.com/practice?questionId=ef08ff5a&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

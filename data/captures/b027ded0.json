@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b027ded0",
+  "capturedAt": "2026-11-11T06:13:54.412Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $\\frac{2}{5}(9x + 4) + 12 = \\frac{4}{5}(9x + 4)$, what is the value of $9x + 4$?\n\n$$0$$\n\n$$30$$",
+  "choices": {},
+  "correctAnswer": "$30$",
+  "explanation": "The correct answer is $30$. Subtracting $\\frac{2}{5}(9x + 4)$ from both sides of the given equation yields $12 = \\frac{4}{5}(9x + 4) - \\frac{2}{5}(9x + 4)$, or $12 = \\frac{2}{5}(9x + 4)$. Multiplying both sides of this equation by $\\frac{5}{2}$ yields $30 = 9x + 4$. Therefore, the value of $9x + 4$ is $30$.",
+  "source": "https://cooksat.com/practice?questionId=b027ded0&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

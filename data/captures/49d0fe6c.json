@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "49d0fe6c",
+  "capturedAt": "2026-11-11T06:12:24.892Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the equation $ax + \\frac{b}{(88)}y = \\frac{1}{8}y$, where $a$ and $b$ are constants, the equation has infinitely many solutions. Which of the following must be true?",
+  "choices": {
+    "A": "$a = 11$ and $b = 0$",
+    "B": "$a = 0$ and $b = 8$",
+    "C": "$a = 0$ and $b = 11$",
+    "D": "$a = 1$ and $b = 11$"
+  },
+  "correctAnswer": "C",
+  "explanation": "For infinitely many solutions, all corresponding coefficients must be equal. First, rewrite the right side with denominator 88: $\\frac{1}{8}y = \\frac{11}{88}y$. The equation becomes $ax + \\frac{b}{88}y = \\frac{11}{88}y$. For the x coefficients to match: $a = 0$ (since there's no x term on the right). For the y coefficients to match: $\\frac{b}{88} = \\frac{11}{88}$, so $b = 11$.",
+  "source": "https://cooksat.com/practice?questionId=49d0fe6c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dfbfe3e2",
+  "capturedAt": "2026-11-11T06:14:33.647Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$2(px+5)=3x+7$$\n\nIn the given equation, $p$ is a constant. The equation has no solution. What is the value of $p$?\n\n$$0$$\n\n$$\\frac{3}{2},1.5,1.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{3}{2},1.5,1.50$",
+  "explanation": "The correct answer is $\\frac{3}{2}$. A linear equation in the form $a(px+b)=cx+d$ has no solution when the coefficients of $x$ on both sides are equal but the constant terms are not equal. Distributing the $2$ in the given equation yields $2px+10=3x+7$. For the coefficients of $x$ to be equal, we need $2p=3$, which gives $p=\\frac{3}{2}$. When $p=\\frac{3}{2}$, the equation becomes $3x+10=3x+7$. Subtracting $3x$ from both sides yields $10=7$, which is false for all values of $x$, confirming the equation has no solution. Therefore, the value of $p$ is $\\frac{3}{2}$. Note that 3/2, 1.5, and 1.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=dfbfe3e2&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

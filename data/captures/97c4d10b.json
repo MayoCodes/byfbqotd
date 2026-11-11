@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "97c4d10b",
+  "capturedAt": "2026-11-11T06:13:13.415Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$7w = 2(r + s)$$\n\nThe given equation relates the positive numbers $w$, $r$, and $s$. Which equation correctly gives $w$ in terms of $r$ and $s$?",
+  "choices": {
+    "A": "$w = 2 - r - s - 7$",
+    "B": "$w = 2(r + s) - 7$",
+    "C": "$w = 2(r + s)$",
+    "D": "$w = (2(r+s))/7$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Dividing both sides of the given equation $7w = 2(r + s)$ by $7$ yields $w = \\frac{2(r + s)}{7}$. Therefore, this equation correctly gives $w$ in terms of $r$ and $s$.",
+  "source": "https://cooksat.com/practice?questionId=97c4d10b&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

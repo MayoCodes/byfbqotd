@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0186da1f",
+  "capturedAt": "2026-11-11T06:11:07.958Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$m = -\\frac{n}{(245p)}$$\n\nThe given equation relates the distinct nonzero numbers $m$, $n$, and $p$. Which equation correctly expresses $n$ in terms of $m$ and $p$?",
+  "choices": {
+    "A": "$n = -\\frac{(245m)}{p}$",
+    "B": "$n = -245mp$",
+    "C": "$n = m + 245p$",
+    "D": "$n = \\frac{p}{(245m)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Multiplying both sides of the given equation by $245p$ yields $245pm = -n$. Multiplying both sides of this equation by $-1$ gives $n = -245mp$.",
+  "source": "https://cooksat.com/practice?questionId=0186da1f&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

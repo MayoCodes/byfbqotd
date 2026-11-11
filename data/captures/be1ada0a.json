@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "be1ada0a",
+  "capturedAt": "2026-11-11T06:14:10.586Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Maria paid a total of $$322$ for a guitar by making a down payment of $$58$ plus $n$ monthly payments of $$24$ each. Which of the following equations represents this situation?",
+  "choices": {
+    "A": "$24n - 58 = 322$",
+    "B": "$24n + 58 = 322$",
+    "C": "$58n - 24 = 322$",
+    "D": "$58n + 24 = 322$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that Maria made a $$24$ payment each month for $n$ months. The total amount of these payments can be represented by the expression $24n$. The down payment can be added to that amount to find the total amount Maria paid, yielding the expression $24n + 58$. It's given that Maria paid a total of $$322$. Therefore, the expression for the total amount Maria paid can be set equal to that amount, yielding the equation $24n + 58 = 322$.",
+  "source": "https://cooksat.com/practice?questionId=be1ada0a&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

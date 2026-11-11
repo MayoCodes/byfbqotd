@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aaf80270",
+  "capturedAt": "2026-11-11T06:13:50.609Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$RT = M(60 - T)$$\n\nThe given equation relates the variables $R$, $M$, and $T$. Which expression represents the value of $T$ for distinct positive values of $R$ and $M$?",
+  "choices": {
+    "A": "$\\frac{(60M)}{(R + 1)}$",
+    "B": "$\\frac{(60M)}{(M + R)}$",
+    "C": "$(60(M + R))/M$",
+    "D": "$\\frac{(RT)}{(60 - T)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Applying the distributive property to the right-hand side of the given equation yields $RT = 60M - MT$. Adding $MT$ to both sides of this equation yields $RT + MT = 60M$. The left-hand side of this equation can be rewritten by factoring out $T$, which yields $T(R + M) = 60M$. Dividing both sides of this equation by $R + M$ yields $T = \\frac{60M}{R + M}$. Therefore, the expression that represents the value of $T$ is $\\frac{60M}{M + R}$.",
+  "source": "https://cooksat.com/practice?questionId=aaf80270&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

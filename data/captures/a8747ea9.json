@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a8747ea9",
+  "capturedAt": "2026-11-11T06:13:43.567Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$k(x+4)=7x+28$$\n\nIn the given equation, $k$ is a constant. The equation has infinitely many solutions. What is the value of $k$?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. A linear equation has infinitely many solutions when both sides of the equation are identical for all values of the variable. Distributing $k$ in the given equation yields $kx+4k=7x+28$. For the equation to have infinitely many solutions, the coefficients of $x$ on both sides must be equal, and the constant terms must be equal. Setting the coefficients of $x$ equal gives $k=7$. To verify, when $k=7$, the constant terms are $4k=4(7)=28$ on the left side and $28$ on the right side, which are equal. Therefore, when $k=7$, the equation becomes $7x+28=7x+28$, which is true for all values of $x$, confirming infinitely many solutions.",
+  "source": "https://cooksat.com/practice?questionId=a8747ea9&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

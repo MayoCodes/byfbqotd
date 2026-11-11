@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "489cdebf",
+  "capturedAt": "2026-11-11T06:12:20.850Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $7x+3=32$, what is the value of $14x+6$?",
+  "choices": {
+    "A": "$32$",
+    "B": "$58$",
+    "C": "$64$",
+    "D": "$70$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Notice that $14x+6 = 2(7x+3)$. Since $7x+3=32$, multiplying both sides by $2$ gives $2(7x+3) = 2(32)$, which simplifies to $14x+6 = 64$.",
+  "source": "https://cooksat.com/practice?questionId=489cdebf&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

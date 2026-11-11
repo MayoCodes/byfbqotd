@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "150e9846",
+  "capturedAt": "2026-11-11T06:11:28.320Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A factory produces 3-inch, 7-inch, and 12-inch bolts. On a particular day, the factory produces 8 times as many 3-inch bolts as 7-inch bolts and produces 23 of the 12-inch bolts. If $n$ represents the number of 7-inch bolts produced that day and the factory produces 158 bolts in total, which equation represents this situation?",
+  "choices": {
+    "A": "$8n+23=158$",
+    "B": "$n+8n+23=158$",
+    "C": "$8(3n)+7n+23=158$",
+    "D": "$8n+n+12=158$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The number of 7-inch bolts produced is $n$. Since the number of 3-inch bolts is 8 times the number of 7-inch bolts, the number of 3-inch bolts is $8n$. The number of 12-inch bolts is 23. Since the total number of bolts produced is 158, the equation $n+8n+23=158$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=150e9846&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

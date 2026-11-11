@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "38ecb2cb",
+  "capturedAt": "2026-11-11T06:11:57.057Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $x = 25$, what is the value of $x + 8$?",
+  "choices": {
+    "A": "$17$",
+    "B": "$25$",
+    "C": "$33$",
+    "D": "$41$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $x = 25$. Adding $8$ to both sides of this equation yields $x + 8 = 25 + 8$, or $x + 8 = 33$. Therefore, the value of $x + 8$ is $33$.",
+  "source": "https://cooksat.com/practice?questionId=38ecb2cb&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

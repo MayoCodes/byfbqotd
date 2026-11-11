@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6100e4b4",
+  "capturedAt": "2026-11-11T06:12:42.407Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Damon's regular wage at his job is $w$ dollars per hour for the first $8$ hours of work in a day plus $1.5$ times his regular hourly wage for work in excess of $8$ hours that day. On a given day, Damon worked for $11$ hours, and his total earnings for that day were $$180.00$. What is Damon's regular hourly wage?",
+  "choices": {
+    "A": "$$13.85$",
+    "B": "$$14.40$",
+    "C": "$$15.25$",
+    "D": "$$16.36$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since $w$ represents Damon's regular pay per hour, $1.5w$ represents the pay per hour in excess of $8$ hours. Since Damon worked for $11$ hours, he must have been paid $w$ dollars per hour for $8$ of the hours plus $1.5w$ dollars per hour for the remaining $3$ hours. Therefore, since Damon earned $$180.00$ for the $11$ hours, the situation can be represented by the equation $180 = 8w + 3(1.5)w$. Distributing the $3$ in the equation gives $180 = 8w + 4.5w$, and combining like terms gives $180 = 12.5w$. Dividing both sides by $12.5$ gives $w = 14.40$. Therefore, Damon's regular wage is $$14.40$.",
+  "source": "https://cooksat.com/practice?questionId=6100e4b4&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

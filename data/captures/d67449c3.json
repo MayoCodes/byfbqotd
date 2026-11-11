@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d67449c3",
+  "capturedAt": "2026-11-11T06:14:16.987Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3 t + 10 = 25$$\n\nA plant had a height of $10$ inches when it was first measured. The equation shown can be used to find the number of months $t$ it took the plant to reach a height of $25$ inches. Which of the following is the best interpretation of the number $3$ in this context?",
+  "choices": {
+    "A": "The number of months it took the plant to triple its height",
+    "B": "The average number of inches that the plant grew per month",
+    "C": "The average number of months it takes similar plants to grow $25$ inches",
+    "D": "The height, in inches, of the plant when the plant was $1$ month old"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The height of the plant at a given time equals its initial height plus the total growth. In the given equation, $25$ represents the height at the later time and $10$ represents the initial height, so $3t$ represents the total number of inches the plant grew over $t$ months. Since $t$ is the number of months, the coefficient $3$ represents the average number of inches the plant grew each month.",
+  "source": "https://cooksat.com/practice?questionId=d67449c3&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

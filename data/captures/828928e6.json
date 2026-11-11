@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "828928e6",
+  "capturedAt": "2026-11-11T06:13:02.323Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "On January $1$, $2005$, the number of registered vehicles in a certain county was $18,420$, and on January $1$, $2020$, the number of registered vehicles was $19,170$. The equation $15x + 18,420 = 19,170$ describes this situation. Which of the following is the best interpretation of $x$ in this context?",
+  "choices": {
+    "A": "The average increase per year in the number of registered vehicles between $2005$ and $2020$",
+    "B": "The total increase in the number of registered vehicles between $2005$ and $2020$",
+    "C": "The percentage by which the number of registered vehicles in the county increased each year between $2005$ and $2020$",
+    "D": "The projected number of registered vehicles in the county $15$ years after $2020$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The equation $15x + 18{,}420 = 19{,}170$ describes the change in the number of registered vehicles from $2005$ to $2020$. The value $18{,}420$ represents the number in $2005$, and $19{,}170$ represents the number in $2020$. The time period from $2005$ to $2020$ is $15$ years, so the term $15x$ represents the total increase in the number of registered vehicles over those $15$ years. Since this total increase equals $15$ times $x$, it follows that $x$ represents the increase per year. Therefore, the best interpretation of $x$ is the average increase per year in the number of registered vehicles between $2005$ and $2020$.",
+  "source": "https://cooksat.com/practice?questionId=828928e6&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

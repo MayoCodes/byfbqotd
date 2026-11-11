@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "17acf2d0",
+  "capturedAt": "2026-11-11T06:11:31.643Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For what value of $k$ does the equation $6(x - 1) = k(x - 1) + 7$ have no solutions?",
+  "choices": {
+    "A": "$-6$",
+    "B": "$1$",
+    "C": "$5$",
+    "D": "$6$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Expanding both sides of the equation gives $6x - 6 = kx - k + 7$. Rearranging to isolate terms with $x$ yields $6x - kx = -k + 7 + 6$, which simplifies to $x(6 - k) = -k + 13$. For a linear equation to have no solutions, the coefficient of $x$ must equal zero while the constant term is non-zero, creating a contradiction. Setting $6 - k = 0$ gives $k = 6$. When $k = 6$, the equation becomes $0 = -6 + 13 = 7$, which is $0 = 7$, a false statement. Therefore, when $k = 6$, the equation has no solutions.",
+  "source": "https://cooksat.com/practice?questionId=17acf2d0&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

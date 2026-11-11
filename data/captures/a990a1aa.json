@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a990a1aa",
+  "capturedAt": "2026-11-11T06:13:45.330Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $3x - 15 = 9$, what is the value of $x - 5$?",
+  "choices": {
+    "A": "$1$",
+    "B": "$3$",
+    "C": "$5$",
+    "D": "$8$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Dividing both sides of $3x - 15 = 9$ by $3$ yields $x - 5 = 3$. Therefore, the value of $x - 5$ is $3$.",
+  "source": "https://cooksat.com/practice?questionId=a990a1aa&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b1b78920",
+  "capturedAt": "2026-11-11T06:13:57.920Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A taxi company charges a base fare of $$5.00$ plus an additional $$2.50$ per mile traveled. What is the total fare in dollars for a passenger who travels 12 miles?\n\n$$0$$\n\n$$35$$",
+  "choices": {},
+  "correctAnswer": "$35$",
+  "explanation": "The correct answer is $35$. The taxi company charges a base fare of $$5.00$ plus $$2.50$ per mile traveled. This can be represented by the linear function $F(m) = 5 + 2.50m$, where $F(m)$ is the total fare in dollars and $m$ is the number of miles traveled. For a passenger who travels $12$ miles, substituting $12$ for $m$ in this function yields $F(12) = 5 + 2.50(12)$. Calculating the variable cost: $2.50 \\times 12 = 30$. Adding the base fare: $F(12) = 5 + 30 = 35$. Therefore, the total fare for a 12-mile trip is $$35$.",
+  "source": "https://cooksat.com/practice?questionId=b1b78920&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

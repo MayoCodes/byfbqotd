@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4f2831e7",
+  "capturedAt": "2026-11-11T06:12:27.411Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$4(w + 5) - 7(w + 5) = 54$$\n\nWhat value of $w$ is the solution to the given equation?\n\n$$0$$\n\n$$-23$$",
+  "choices": {},
+  "correctAnswer": "$-23$",
+  "explanation": "The correct answer is $-23$. The given equation can be rewritten as $-3(w + 5) = 54$. Dividing both sides of this equation by $-3$ yields $w + 5 = -18$. Subtracting $5$ from both sides of this equation yields $w = -23$. Therefore, $-23$ is the value of $w$ that is the solution to the given equation.",
+  "source": "https://cooksat.com/practice?questionId=4f2831e7&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

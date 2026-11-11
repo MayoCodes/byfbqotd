@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a00d155c",
+  "capturedAt": "2026-11-11T06:13:28.197Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An office supply store starts with an inventory of $3,200$ envelopes, and the owner estimates that $45$ of these envelopes are sold each day. Based on this estimate, in how many days will the supply of envelopes reach $950$?",
+  "choices": {
+    "A": "$25$",
+    "B": "$50$",
+    "C": "$70$",
+    "D": "$90$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the store starts with $3{,}200$ envelopes and that the owner estimates $45$ envelopes are sold each day. Let $x$ represent the number of days in which the estimated supply will reach $950$. The equation $3{,}200 - 45x = 950$ represents this situation. Subtracting $3{,}200$ from both sides of this equation yields $-45x = -2{,}250$. Dividing both sides of this equation by $-45$ yields $x = 50$. Therefore, based on this estimate, the supply of envelopes will reach $950$ in $50$ days.",
+  "source": "https://cooksat.com/practice?questionId=a00d155c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

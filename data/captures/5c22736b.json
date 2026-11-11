@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5c22736b",
+  "capturedAt": "2026-11-11T06:12:35.526Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Over a $4$-hour period, a water tank was filled with $18.5$ liters of water. Which equation describes the amount of water $y$, in liters, that was added to the tank during this $4$-hour period?",
+  "choices": {
+    "A": "$y = 4$",
+    "B": "$y = \\frac{(18.5)}{4}$",
+    "C": "$y = 18.5$",
+    "D": "$y = 18.5 + 4$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $y$ represents the amount of water, in liters, that was added to the tank during a $4$-hour period, and that $18.5$ liters of water were added during this period. Therefore, $y = 18.5$ describes this situation.",
+  "source": "https://cooksat.com/practice?questionId=5c22736b&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

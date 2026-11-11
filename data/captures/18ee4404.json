@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "18ee4404",
+  "capturedAt": "2026-11-11T06:11:33.930Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $4x - 6 = 2x + 9$, what is the value of $6x + 9$?",
+  "choices": {
+    "A": "$24$",
+    "B": "$45$",
+    "C": "$54$",
+    "D": "$63$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Subtracting $2x$ from both sides of $4x - 6 = 2x + 9$ yields $2x - 6 = 9$. Adding $6$ to both sides yields $2x = 15$. Multiplying both sides by $3$ yields $6x = 45$. Therefore, $6x + 9 = 45 + 9 = 54$.",
+  "source": "https://cooksat.com/practice?questionId=18ee4404&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

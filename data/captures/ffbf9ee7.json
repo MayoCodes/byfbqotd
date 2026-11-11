@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ffbf9ee7",
+  "capturedAt": "2026-11-11T06:15:02.303Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $\\frac{2}{3}x+5=1$, what is the value of $6x$?",
+  "choices": {
+    "A": "$-36$",
+    "B": "$-24$",
+    "C": "$-12$",
+    "D": "$-4$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Subtracting 5 from both sides of the given equation yields $\\frac{2}{3}x=-4$. Multiplying both sides by 3 gives $2x=-12$. Multiplying both sides by 3 again yields $6x=-36$. Therefore, the value of $6x$ is $-36$.",
+  "source": "https://cooksat.com/practice?questionId=ffbf9ee7&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

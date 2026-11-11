@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "06269244",
+  "capturedAt": "2026-11-11T06:11:18.250Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A streaming service charges its subscribers a onetime $$45$ activation fee and a subscription fee of $$23$ per month. If there are no charges other than the activation fee and the subscription fee, after how many months will a subscriber have been charged a total of $$206$ by the streaming service?",
+  "choices": {
+    "A": "$3$",
+    "B": "$5$",
+    "C": "$7$",
+    "D": "$9$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that a streaming service charges its subscribers a onetime $$45$ activation fee and a subscription fee of $$23$ per month. Let $x$ represent the number of months after which a subscriber will have been charged a total of $$206$. If there are no charges other than the activation fee and the subscription fee, the equation $45 + 23 x = 206$ can be used to represent this situation. Subtracting $45$ from both sides of this equation yields $23 x = 161$. Dividing both sides of this equation by $23$ yields $x = 7$. Therefore, a subscriber will have been charged a total of $$206$ after $7$ months.",
+  "source": "https://cooksat.com/practice?questionId=06269244&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

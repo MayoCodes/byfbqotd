@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fa7aa7a8",
+  "capturedAt": "2026-11-11T06:14:55.817Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Number of Solutions",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$23(9x - 6) - 5(x - 1) = 12(4x + 10) - 7$$\n\nHow many solutions does the given equation have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Distributing the left side of the given equation yields $6x - 4 - 5x + 5$, which simplifies to $x + 1$. Distributing the right side yields $2x + 5 - 7$, which simplifies to $2x - 2$. The equation becomes $x + 1 = 2x - 2$. Subtracting $x$ from each side yields $1 = x - 2$, and adding $2$ to each side yields $x = 3$. Since this produces a unique value of $x$, the equation has exactly one solution.",
+  "source": "https://cooksat.com/practice?questionId=fa7aa7a8&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

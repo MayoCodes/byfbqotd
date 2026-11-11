@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e364402a",
+  "capturedAt": "2026-11-11T06:14:39.440Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $4(x-2)+8=7(x-2)-19$, what is the value of $x-2$?\n\n$$0$$\n\n$$9$$",
+  "choices": {},
+  "correctAnswer": "$9$",
+  "explanation": "The correct answer is $9$. One approach is to recognize that the expression $(x-2)$ appears on both sides of the equation, so it can be treated as a single unit. Subtracting $4(x-2)$ from both sides yields $8 = 3(x-2) - 19$. Adding $19$ to both sides yields $27 = 3(x-2)$. Dividing both sides by $3$ yields $9 = x-2$. Therefore, the value of $x-2$ is $9$.\n\nAlternate approach: The equation can be solved by first distributing: $4x - 8 + 8 = 7x - 14 - 19$, which simplifies to $4x = 7x - 33$. Subtracting $7x$ from both sides yields $-3x = -33$, so $x = 11$. Therefore, $x - 2 = 11 - 2 = 9$. However, the first approach is more efficient as it finds the value of $(x-2)$ directly without solving for $x$ first.",
+  "source": "https://cooksat.com/practice?questionId=e364402a&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

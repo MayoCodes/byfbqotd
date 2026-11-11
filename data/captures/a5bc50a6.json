@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a5bc50a6",
+  "capturedAt": "2026-11-11T06:13:37.494Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $3(2x - 1) - 2(x + 4) = 1$, what is the value of $x$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Distributing yields $6x - 3 - 2x - 8 = 1$. Combining like terms gives $4x - 11 = 1$. Adding $11$ to both sides yields $4x = 12$, so dividing by $4$ gives $x = 3$.",
+  "source": "https://cooksat.com/practice?questionId=a5bc50a6&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

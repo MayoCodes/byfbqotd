@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3de0a1e7",
+  "capturedAt": "2026-11-11T06:12:07.869Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$4(x+3)-2(x-5)=3x+15$$\n\nWhat is the value of $x$ in the given equation?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. To solve the given equation, first apply the distributive property to both terms on the left side. Distributing $4$ into $(x+3)$ yields $4x+12$, and distributing $-2$ into $(x-5)$ yields $-2x+10$. The equation becomes $4x+12-2x+10=3x+15$. Combining like terms on the left side yields $2x+22=3x+15$. Subtracting $2x$ from both sides yields $22=x+15$. Subtracting $15$ from both sides yields $x=7$. Therefore, the value of $x$ is $7$. Verification: Substituting $x=7$ into the original equation gives $4(7+3)-2(7-5)=4(10)-2(2)=40-4=36$ on the left side, and $3(7)+15=21+15=36$ on the right side. Both sides equal $36$, confirming the solution is correct.",
+  "source": "https://cooksat.com/practice?questionId=3de0a1e7&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

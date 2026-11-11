@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "297b2201",
+  "capturedAt": "2026-11-11T06:11:47.685Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$3(kx + 2y + 5) = 16x + 6y + 12$$\n\nIn the given equation, $k$ is a constant. The equation has no solution. What is the value of $k$?\n\n$$0$$\n\n$$\\frac{16}{3},5.333$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{16}{3},5.333$",
+  "explanation": "The correct answer is $\\frac{16}{3}$. An equation in two variables has no solution when, after simplification, it results in a false statement that's true for no values of the variables. Distributing the $3$ in the given equation yields $3kx + 6y + 15 = 16x + 6y + 12$. For this equation to have no solution, the coefficients of like terms on both sides must be equal (so the variable terms cancel), but the constant terms must be unequal (creating a contradiction). The coefficients of $y$ are already equal: $6 = 6$. For the coefficients of $x$ to be equal, we need $3k = 16$, which gives $k = \\frac{16}{3}$. When $k = \\frac{16}{3}$, the equation becomes $16x + 6y + 15 = 16x + 6y + 12$. Subtracting $16x + 6y$ from both sides yields $15 = 12$, which is false for all values of $x$ and $y$, confirming the equation has no solution. Therefore, the value of $k$ is $\\frac{16}{3}$. Note that 16/3 and 5.333 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=297b2201&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

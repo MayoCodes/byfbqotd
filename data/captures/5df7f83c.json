@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5df7f83c",
+  "capturedAt": "2026-11-11T06:12:37.104Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At a coffee shop, Marcus bought one ceramic mug and some coffee beans. The mug cost $$3$, and the coffee beans cost $$0.75$ per ounce. If Marcus paid a total of $$9.75$ for the mug and the coffee beans, which of the following equations can be used to find $n$, the number of ounces of coffee beans Marcus purchased? (Assume there is no sales tax.)",
+  "choices": {
+    "A": "$0.75 - 3n = 9.75$",
+    "B": "$0.75 + 3n = 9.75$",
+    "C": "$0.75n - 3 = 9.75$",
+    "D": "$0.75n + 3 = 9.75$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $n$ represents the number of ounces of coffee beans Marcus purchased and the coffee beans cost $$0.75$ per ounce. It follows that the total amount, in dollars, Marcus paid for the coffee beans can be represented by $0.75n$. It's given that Marcus paid $$3$ for the mug. If Marcus paid a total of $$9.75$ for the mug and the coffee beans, it follows that the equation $0.75n + 3 = 9.75$ can be used to find $n$.",
+  "source": "https://cooksat.com/practice?questionId=5df7f83c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

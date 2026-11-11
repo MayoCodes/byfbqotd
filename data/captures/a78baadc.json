@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a78baadc",
+  "capturedAt": "2026-11-11T06:13:41.421Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The formula $F=\\frac{9}{5}C+32$ gives the temperature $F$, in degrees Fahrenheit, for a temperature $C$, in degrees Celsius. For what Celsius temperature is the Fahrenheit temperature $36$ degrees more than twice the Celsius temperature?",
+  "choices": {
+    "A": "$-40$",
+    "B": "$-20$",
+    "C": "$4$",
+    "D": "$20$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The condition states $F = 2C + 36$. Substituting the conversion formula: $\\frac{9}{5}C + 32 = 2C + 36$. Multiplying both sides by $5$: $9C + 160 = 10C + 180$. Subtracting $9C$ and $180$ from both sides: $-20 = C$. Therefore, $C = -20$ degrees Celsius.",
+  "source": "https://cooksat.com/practice?questionId=a78baadc&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1782c92c",
+  "capturedAt": "2026-11-11T06:11:29.876Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A librarian placed a total of $42$ books that were either hardcover or paperback on a shelf. The librarian placed $35$ hardcover books on the shelf. How many paperback books were placed on the shelf?",
+  "choices": {
+    "A": "$7$",
+    "B": "$35$",
+    "C": "$42$",
+    "D": "$77$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that a librarian placed a total of $42$ hardcover and paperback books on a shelf. It's also given that of the $42$ books, $35$ were hardcover. Subtracting the number of hardcover books from the total number of books results in the number of paperback books. It follows that the number of paperback books placed on the shelf is $42 - 35$, or $7$.",
+  "source": "https://cooksat.com/practice?questionId=1782c92c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

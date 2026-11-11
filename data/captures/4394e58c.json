@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4394e58c",
+  "capturedAt": "2026-11-11T06:12:13.286Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$m + 17 = 85$$\n\nWhat is the solution to the given equation?",
+  "choices": {
+    "A": "$5$",
+    "B": "$68$",
+    "C": "$102$",
+    "D": "$1,445$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Subtracting $17$ from both sides of the given equation yields $m = 68$. Therefore, the solution to the given equation is $68$.",
+  "source": "https://cooksat.com/practice?questionId=4394e58c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

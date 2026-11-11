@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "392a999b",
+  "capturedAt": "2026-11-11T06:11:59.586Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{r}{4}(8x+20)=\\frac{(14)}{s}x+\\frac{(35)}{s}$$\n\nIn the given equation, $r$ and $s$ are positive constants. The equation has infinitely many solutions. What is the value of $rs$?",
+  "choices": {
+    "A": "$5$",
+    "B": "$7$",
+    "C": "$14$",
+    "D": "$35$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Distributing $\\frac{r}{4}$ on the left side yields $\\frac{8r}{4}x+\\frac{20r}{4}=\\frac{14}{s}x+\\frac{35}{s}$, which simplifies to $2rx+5r=\\frac{14}{s}x+\\frac{35}{s}$. For a linear equation to have infinitely many solutions, both the coefficients of $x$ and the constant terms must be equal. Setting the coefficients of $x$ equal gives $2r=\\frac{14}{s}$, so $2rs=14$, which yields $rs=7$. This can be verified by setting the constant terms equal: $5r=\\frac{35}{s}$, so $5rs=35$, which also yields $rs=7$.",
+  "source": "https://cooksat.com/practice?questionId=392a999b&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

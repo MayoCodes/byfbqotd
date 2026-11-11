@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5673460c",
+  "capturedAt": "2026-11-11T06:12:32.205Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $7x + 28 = 35$, what is the value of $x + 4$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$5$",
+    "C": "$7$",
+    "D": "$32$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The left-hand side of the given equation can be rewritten by factoring out $7$: $7x + 28 = 7(x + 4)$. Substituting $7(x + 4)$ for $7x + 28$ in the given equation yields $7(x + 4) = 35$. Dividing both sides of this equation by $7$ yields $x + 4 = 5$. Therefore, the value of $x + 4$ is $5$.",
+  "source": "https://cooksat.com/practice?questionId=5673460c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

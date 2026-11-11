@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d9207c1c",
+  "capturedAt": "2026-11-11T06:14:22.337Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$|3x - 6| = 12$$\n\nWhat is the sum of the solutions to the given equation?\n\n$$0$$\n\n$$4$$",
+  "choices": {},
+  "correctAnswer": "$4$",
+  "explanation": "The correct answer is $4$. An absolute value equation of the form $|A| = B$, where $B$ is positive, is equivalent to $A = B$ or $A = -B$. The given equation $|3x - 6| = 12$ is therefore equivalent to $3x - 6 = 12$ or $3x - 6 = -12$. For the first equation, adding $6$ to both sides yields $3x = 18$, so $x = 6$. For the second equation, adding $6$ to both sides yields $3x = -6$, so $x = -2$. The sum of the solutions is $6 + (-2) = 4$. Therefore, the sum of the solutions is $4$.",
+  "source": "https://cooksat.com/practice?questionId=d9207c1c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

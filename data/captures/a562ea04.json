@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a562ea04",
+  "capturedAt": "2026-11-11T06:13:34.061Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Number of Solutions",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3x + 7 = 22$$\n\nHow many solutions does the given equation have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly $1$",
+    "C": "Exactly $2$",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Subtracting $7$ from both sides of the given equation yields $3x = 15$. Dividing both sides by $3$ yields $x = 5$. Therefore, the equation has exactly $1$ solution.",
+  "source": "https://cooksat.com/practice?questionId=a562ea04&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f77991fe",
+  "capturedAt": "2026-11-11T06:14:49.826Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $7(5 + 3y) + 4 = 6(5 + 3y) + 13$, what is the value of $5 + 3y$?",
+  "choices": {
+    "A": "$-9$",
+    "B": "$\\frac{4}{3}$",
+    "C": "$3$",
+    "D": "$9$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Subtracting $4$ from both sides of the given equation yields $7(5 + 3y) = 6(5 + 3y) + 9$. Subtracting $6(5 + 3y)$ from both sides yields $7(5 + 3y) - 6(5 + 3y) = 9$, which gives $1(5 + 3y) = 9$, or $5 + 3y = 9$. Therefore, the value of $5 + 3y$ is $9$.",
+  "source": "https://cooksat.com/practice?questionId=f77991fe&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

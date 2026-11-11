@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bc02a03f",
+  "capturedAt": "2026-11-11T06:14:04.899Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $9 - 6(3 - 5x) = 23 - 7(3 - 5x)$, what is the value of $3 - 5x$?\n\n$$0$$\n\n$$14$$",
+  "choices": {},
+  "correctAnswer": "$14$",
+  "explanation": "The correct answer is $14$. Subtracting $9$ from each side of the given equation yields $-6\\left(3 - 5x\\right) = 14 - 7\\left(3 - 5x\\right)$. Adding $7\\left(3 - 5x\\right)$ to each side of this equation yields $3 - 5x = 14$. Therefore, the value of $3 - 5x$ is $14$.",
+  "source": "https://cooksat.com/practice?questionId=bc02a03f&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

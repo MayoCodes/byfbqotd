@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "015aa56e",
+  "capturedAt": "2026-11-11T06:11:06.124Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Number of Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "How many solutions does the equation $8(x - 5) = -2(x + 20)$ have?",
+  "choices": {
+    "A": "Exactly one",
+    "B": "Exactly two",
+    "C": "Infinitely many",
+    "D": "Zero"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Distributing $8$ on the left-hand side and $-2$ on the right-hand side of the given equation yields $8x - 40 = -2x - 40$. Adding $2x$ to each side of this equation yields $10x - 40 = -40$. Adding $40$ to each side of this equation yields $10x = 0$. Dividing each side of this equation by $10$ yields $x = 0$. This means that $0$ is the only solution to the given equation. Therefore, the given equation has exactly one solution.",
+  "source": "https://cooksat.com/practice?questionId=015aa56e&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

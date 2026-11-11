@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eabe4dde",
+  "capturedAt": "2026-11-11T06:14:41.513Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the solution to the equation $5x+8=3x+2$?",
+  "choices": {
+    "A": "$x=-5$",
+    "B": "$x=-3$",
+    "C": "$x=-1$",
+    "D": "$x=3$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Subtracting $3x$ from both sides of the given equation yields $2x+8=2$. Subtracting $8$ from both sides yields $2x=-6$. Dividing both sides by $2$ yields $x=-3$.",
+  "source": "https://cooksat.com/practice?questionId=eabe4dde&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

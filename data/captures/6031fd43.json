@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6031fd43",
+  "capturedAt": "2026-11-11T06:12:38.690Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What value of $x$ satisfies the equation $3x+150=225$?",
+  "choices": {
+    "A": "$15$",
+    "B": "$25$",
+    "C": "$50$",
+    "D": "$75$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Subtracting $150$ from both sides of the equation yields $3x=75$. Dividing both sides by $3$ yields $x=25$. Therefore, the value of $x$ that satisfies the equation is $25$.",
+  "source": "https://cooksat.com/practice?questionId=6031fd43&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

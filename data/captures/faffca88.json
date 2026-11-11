@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "faffca88",
+  "capturedAt": "2026-11-11T06:15:00.128Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A car rental company charges $$45$ for the first day and $$30$ for each additional day. They also charge a one-time processing fee of $k$ dollars. If a customer who rents a car for $5$ days pays a total of $$185$, what is the value of $k$?",
+  "choices": {
+    "A": "$10$",
+    "B": "$20$",
+    "C": "$25$",
+    "D": "$30$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The total cost function is $C(x) = 45 + 30(x-1) + k$ where $x$ is the number of days. For $x = 5$ days: $C(5) = 45 + 30(5-1) + k = 45 + 30(4) + k = 45 + 120 + k = 165 + k$. Since the total is $185$ dollars: $165 + k = 185$, so $k = 20$.",
+  "source": "https://cooksat.com/practice?questionId=faffca88&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

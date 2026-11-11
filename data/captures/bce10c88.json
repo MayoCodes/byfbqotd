@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bce10c88",
+  "capturedAt": "2026-11-11T06:14:08.921Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Solve for $x$ in the equation $5x - 7 = 3$.\n\n$$0$$\n\n$$2$$",
+  "choices": {},
+  "correctAnswer": "$2$",
+  "explanation": "The correct answer is $2$. To solve for $x$ in the equation $5x - 7 = 3$, first add $7$ to both sides of the equation: $5x - 7 + 7 = 3 + 7$, which simplifies to $5x = 10$. Next, divide both sides by $5$: $\\frac{5x}{5} = \\frac{10}{5}$, which yields $x = 2$. Verification: Substituting $x = 2$ back into the original equation gives $5(2) - 7 = 10 - 7 = 3$, which confirms the solution is correct. Therefore, the value of $x$ is $2$.",
+  "source": "https://cooksat.com/practice?questionId=bce10c88&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

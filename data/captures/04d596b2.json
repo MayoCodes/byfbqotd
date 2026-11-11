@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "04d596b2",
+  "capturedAt": "2026-11-11T06:11:14.361Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The cost to rent a kayak from Company Y is $$875$ for the first $4$ hours and an additional $$40$ per hour for each hour after the first $4$ hours. If the total cost to rent the kayak from Company Y for $h$ hours, where $h > 4$, is $$1,075$, which equation represents this situation?",
+  "choices": {
+    "A": "$875(h - 4) + 40h = 1,075$",
+    "B": "$875(4h) + 40h = 1,075$",
+    "C": "$875 + 40(4h) = 1,075$",
+    "D": "$875 + 40(h - 4) = 1,075$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the cost to rent a kayak is $$875$ for the first $4$ hours and an additional $$40$ per hour for each hour after the first $4$ hours. It's also given that $h$ represents the total number of hours and $h > 4$. Therefore, the number of additional hours after the first $4$ hours can be represented by the expression $h - 4$. The cost for these additional hours is $$40$ per hour, so the cost for the additional hours can be represented by the expression $40(h - 4)$. The total cost can be calculated by adding the cost for the first $4$ hours to the cost for the additional hours and can be represented by the expression $875 + 40(h - 4)$. It's also given that the total cost to rent the kayak from the company for $h$ hours is $$1{,}075$. Thus, the equation that represents this situation is $875 + 40(h - 4) = 1{,}075$.",
+  "source": "https://cooksat.com/practice?questionId=04d596b2&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "138fc28d",
+  "capturedAt": "2026-11-11T06:11:26.769Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A store sells baseball caps for $$13$ each. Which equation gives the cost, in dollars, of buying $x$ baseball caps from this store?",
+  "choices": {
+    "A": "$y = 13 + x$",
+    "B": "$y = 13 - x$",
+    "C": "$y = 13x$",
+    "D": "$y = \\frac{(13)}{x}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that a store sells baseball caps for $$13$ each. The total cost of buying $x$ baseball caps is the price per cap multiplied by the number of caps, which gives $y = 13x$.",
+  "source": "https://cooksat.com/practice?questionId=138fc28d&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

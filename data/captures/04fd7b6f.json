@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "04fd7b6f",
+  "capturedAt": "2026-11-11T06:11:16.074Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At a grocery store, bananas cost $$2.50$ per pound. The cost of $2$ pounds of apples and $3$ pounds of bananas is $$15.90$. What is the cost per pound of apples, in dollars?",
+  "choices": {
+    "A": "$2.50$",
+    "B": "$3.30$",
+    "C": "$4.20$",
+    "D": "$5.50$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Let $a$ be the cost per pound of apples. It's given that bananas cost $$2.50$ per pound and $2$ pounds of apples and $3$ pounds of bananas cost $$15.90$. This gives the equation $2a + 3(2.50) = 15.90$, or $2a + 7.50 = 15.90$. Subtracting $7.50$ from both sides gives $2a = 8.40$. Dividing both sides by $2$ gives $a = 4.20$.",
+  "source": "https://cooksat.com/practice?questionId=04fd7b6f&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

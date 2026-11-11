@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "64834f03",
+  "capturedAt": "2026-11-11T06:12:44.275Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the solution to the equation $\\frac{5}{4}y + 8 = \\frac{1}{8}y - 5$?",
+  "choices": {
+    "A": "$y = -\\frac{8}{9}$",
+    "B": "$y = -\\frac{(117)}{(10)}$",
+    "C": "$y = -13$",
+    "D": "$y = -\\frac{(104)}{9}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Subtract $\\frac{1}{8}y$ from both sides and convert to common denominator: $\\frac{10}{8}y - \\frac{1}{8}y + 8 = -5$, which simplifies to $\\frac{9}{8}y + 8 = -5$. Subtracting $8$ from both sides gives $\\frac{9}{8}y = -13$. Multiplying both sides by $\\frac{8}{9}$ yields $y = -\\frac{104}{9}$.",
+  "source": "https://cooksat.com/practice?questionId=64834f03&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

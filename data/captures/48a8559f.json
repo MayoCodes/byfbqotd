@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "48a8559f",
+  "capturedAt": "2026-11-11T06:12:22.855Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $3x - \\frac{1}{4} = -7$, what is the value of $9x - \\frac{3}{4}$?",
+  "choices": {
+    "A": "$-21$",
+    "B": "$-7$",
+    "C": "$-\\frac{9}{4}$",
+    "D": "$3$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Multiplying both sides of the given equation by $3$ yields $3 \\times \\left(3x - \\frac{1}{4}\\right) = 3 \\times (-7)$. Applying the distributive property gives $9x - \\frac{3}{4} = -21$. Therefore, the value of $9x - \\frac{3}{4}$ is $-21$.",
+  "source": "https://cooksat.com/practice?questionId=48a8559f&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "896b1d6e",
+  "capturedAt": "2026-11-11T06:13:07.505Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A boat travels $r$ kilometers per hour in still water. The boat travels $20$ kilometers downstream (with the current) in $2$ hours and $16$ kilometers upstream (against the current) in $2$ hours. If the speed of the current is $1$ kilometer per hour, what is the value of $r$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$8$",
+    "C": "$9$",
+    "D": "$10$"
+  },
+  "correctAnswer": "C",
+  "explanation": "When traveling downstream, the boat's speed is $r+1$ km/h. Using distance = speed × time: $20 = (r+1) \\cdot 2$, which gives $20 = 2r + 2$, so $2r = 18$ and $r = 9$. This can be verified with the upstream equation: speed is $r-1 = 8$ km/h, and distance = $8 \\cdot 2 = 16$ km, which matches the given information.",
+  "source": "https://cooksat.com/practice?questionId=896b1d6e&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

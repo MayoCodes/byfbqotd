@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1d99788b",
+  "capturedAt": "2026-11-11T06:11:35.975Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $7x-2=10$, what is the value of $21x-6$?",
+  "choices": {
+    "A": "$-30$",
+    "B": "$6$",
+    "C": "$30$",
+    "D": "$34$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Multiplying both sides of the equation $7x-2=10$ by $3$ yields $3(7x-2)=3(10)$. Applying the distributive property on the left side gives $21x-6=30$. Therefore, the value of $21x-6$ is $30$.",
+  "source": "https://cooksat.com/practice?questionId=1d99788b&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

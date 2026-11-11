@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "785e7527",
+  "capturedAt": "2026-11-11T06:12:53.244Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$3(kx + 7) = 4x + 18$$\n\nIn the given equation, $k$ is a constant. The equation has no solution. What is the value of $k$?\n\n$$0$$\n\n$$\\frac{4}{3},1.333$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{4}{3},1.333$",
+  "explanation": "The correct answer is $\\frac{4}{3}$. A linear equation in the form $a(kx + b) = cx + d$ has no solution only when the coefficients of $x$ on both sides are equal and the constant terms are not equal. Distributing the $3$ in the given equation yields $3kx + 21 = 4x + 18$. For the coefficients of $x$ to be equal, we need $3k = 4$, which gives $k = \\frac{4}{3}$. When $k = \\frac{4}{3}$, the equation becomes $3 \\cdot \\frac{4}{3}x + 21 = 4x + 18$, which simplifies to $4x + 21 = 4x + 18$. Subtracting $4x$ from both sides yields $21 = 18$, which is false for all values of $x$, confirming the equation has no solution. Therefore, the value of $k$ is $\\frac{4}{3}$. Note that 4/3 and 1.333 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=785e7527&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

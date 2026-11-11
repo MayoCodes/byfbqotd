@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d6ddd53f",
+  "capturedAt": "2026-11-11T06:14:18.670Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $4-9(3-2x)=20-11(3-2x)$, what is the value of $3-2x$?\n\n$$0$$\n\n$$8$$",
+  "choices": {},
+  "correctAnswer": "$8$",
+  "explanation": "The correct answer is $8$. Rather than solving for $x$ and then evaluating $3-2x$, it's more efficient to treat $3-2x$ as a single expression. Let $E = 3-2x$. Then the given equation becomes $4-9E = 20-11E$. Adding $11E$ to both sides yields $4+2E = 20$. Subtracting $4$ from both sides yields $2E = 16$. Dividing both sides by $2$ yields $E = 8$. Therefore, the value of $3-2x$ is $8$. Verification: If $3-2x = 8$, then the left side of the original equation is $4-9(8) = 4-72 = -68$, and the right side is $20-11(8) = 20-88 = -68$. Both sides equal $-68$, confirming the answer.",
+  "source": "https://cooksat.com/practice?questionId=d6ddd53f&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

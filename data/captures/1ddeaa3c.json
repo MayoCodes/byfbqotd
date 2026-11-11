@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1ddeaa3c",
+  "capturedAt": "2026-11-11T06:11:37.854Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $2x+5=13$, what is the value of $x^{2}-3x+7$?",
+  "choices": {
+    "A": "$3$",
+    "B": "$5$",
+    "C": "$11$",
+    "D": "$15$"
+  },
+  "correctAnswer": "C",
+  "explanation": "First solve $2x+5=13$ by subtracting $5$ from both sides to get $2x=8$, then dividing by $2$ to get $x=4$. Substituting $x=4$ into $x^{2}-3x+7$ gives $4^{2}-3(4)+7=16-12+7=11$.",
+  "source": "https://cooksat.com/practice?questionId=1ddeaa3c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

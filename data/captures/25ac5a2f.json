@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "25ac5a2f",
+  "capturedAt": "2026-11-11T06:11:43.307Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Number of Solutions",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$83 x = 83 x$$\n\nHow many solutions does the given equation have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. If the two sides of a linear equation are equivalent expressions, then the equation is true for every value of $x$. An equation that is true for every value of $x$ has infinitely many solutions. Since the two sides of the given equation $83 x = 83 x$ are identical, the equation has infinitely many solutions.",
+  "source": "https://cooksat.com/practice?questionId=25ac5a2f&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

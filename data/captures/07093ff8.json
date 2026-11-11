@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "07093ff8",
+  "capturedAt": "2026-11-11T06:11:20.042Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The width of a rectangular community garden plot is $p$ meters. The length of the plot is $9$ meters longer than its width. Which of the following expresses the perimeter, in meters, of the garden plot in terms of $p$?",
+  "choices": {
+    "A": "$2p + 9$",
+    "B": "$4p + 18$",
+    "C": "$p^{2} + 9$",
+    "D": "$p^{2} + 9p$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The width of the garden plot is $p$ meters. The length is $9$ meters longer than the width, so the length is $p + 9$ meters. The perimeter is the sum of all four sides: $p + p + (p + 9) + (p + 9) = 4p + 18$.",
+  "source": "https://cooksat.com/practice?questionId=07093ff8&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

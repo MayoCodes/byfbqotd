@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "080235d9",
+  "capturedAt": "2026-11-11T06:11:21.787Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A container of liquid solution contains a total of $2,000$ milligrams of nitrogen. Each liter of this solution contains $250$ milligrams of nitrogen. Which equation represents this situation, where $x$ is the volume, in liters, of the solution?",
+  "choices": {
+    "A": "$x + 2,000 = 250$",
+    "B": "$x + 250 = 2,000$",
+    "C": "$2,000x = 250$",
+    "D": "$250x = 2,000$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that each liter of the solution contains $250$ milligrams of nitrogen and that $x$ represents the volume, in liters, of the solution. Therefore, the total amount of nitrogen, in milligrams, in the solution can be represented by $250x$. It's given that there are a total of $2{,}000$ milligrams of nitrogen in the solution. Therefore, the equation $250x = 2{,}000$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=080235d9&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

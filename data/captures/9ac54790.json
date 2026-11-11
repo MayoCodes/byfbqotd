@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9ac54790",
+  "capturedAt": "2026-11-11T06:13:26.597Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the solution to $8x + 7 = 31$?",
+  "choices": {
+    "A": "$x = 4$",
+    "B": "$x = 3$",
+    "C": "$x = \\frac{(31)}{8}$",
+    "D": "$x = \\frac{(38)}{8}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Subtracting $7$ from both sides of the equation yields $8x = 24$. Dividing both sides by $8$ yields $x = 3$.",
+  "source": "https://cooksat.com/practice?questionId=9ac54790&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

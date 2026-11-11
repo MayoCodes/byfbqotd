@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f845305e",
+  "capturedAt": "2026-11-11T06:14:51.791Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $\\frac{(x - 8)}{4} = \\frac{(x - 8)}{(11)}$, the value of $x - 8$ is between which of the following pairs of values?",
+  "choices": {
+    "A": "$-11$ and $-4$",
+    "B": "$-2$ and $2$",
+    "C": "$7.5$ and $8.5$",
+    "D": "$9.5$ and $12.5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Multiplying both sides of the given equation by $(4)(11)$, or $44$, yields $(44)\\left(\\frac{x - 8}{4}\\right) = (44)\\left(\\frac{x - 8}{11}\\right)$, or $11(x - 8) = 4(x - 8)$. Subtracting $4(x - 8)$ from both sides of this equation yields $7(x - 8) = 0$. Dividing both sides of this equation by $7$ yields $x - 8 = 0$. Therefore, if $\\frac{x - 8}{4} = \\frac{x - 8}{11}$, then the value of $x - 8$ is $0$. It follows that of the given choices, the value of $x - 8$ is between $-2$ and $2$.",
+  "source": "https://cooksat.com/practice?questionId=f845305e&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

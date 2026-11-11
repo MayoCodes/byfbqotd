@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "859e8c1e",
+  "capturedAt": "2026-11-11T06:13:03.935Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the solution to the equation $\\frac{1}{4}(8x+8) = 10$?",
+  "choices": {
+    "A": "$x = 3$",
+    "B": "$x = 4$",
+    "C": "$x = 8$",
+    "D": "$x = 32$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Multiplying both sides by $4$ yields $8x + 8 = 40$. Subtracting $8$ from both sides yields $8x = 32$. Dividing both sides by $8$ yields $x = 4$.",
+  "source": "https://cooksat.com/practice?questionId=859e8c1e&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "52b423bb",
+  "capturedAt": "2026-11-11T06:12:29.582Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{(15x+35)}{5}-\\frac{k}{(11)}=m(x-9)$$\n\nIn the given equation, $k$ and $m$ are constants and $k>0$. The equation has infinitely many solutions. What is the value of $k$?",
+  "choices": {
+    "A": "$34$",
+    "B": "$77$",
+    "C": "$297$",
+    "D": "$374$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Simplifying $\\frac{15x+35}{5}$ yields $3x+7$, so the equation becomes $3x+7-\\frac{k}{11}=m(x-9)$, or $3x+7-\\frac{k}{11}=mx-9m$. For a linear equation to have infinitely many solutions, the coefficients of $x$ and the constant terms on each side must be equal. Setting the coefficients of $x$ equal gives $m=3$. Setting the constant terms equal gives $7-\\frac{k}{11}=-9m=-9(3)=-27$. Solving for $k$: $-\\frac{k}{11}=-34$, so $k=374$.",
+  "source": "https://cooksat.com/practice?questionId=52b423bb&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "12513cc4",
+  "capturedAt": "2026-11-11T06:11:25.190Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A fence is built using $100$ boards, each having one of three lengths. The number of boards with length $7$ feet is $4$ times the number of boards $n$ with length $2$ feet. There are $20$ boards with length $5$ feet. Which equation must be true for the value of $n$?",
+  "choices": {
+    "A": "$4n + 20 = 100$",
+    "B": "$5n + 20 = 100$",
+    "C": "$2n + 5n + 7n = 100$",
+    "D": "$7(4n) + 2n + 5(20) = 100$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The number of boards with length $7$ feet is $4$ times the number of boards $n$ with length $2$ feet, so there are $4n$ boards of length $7$ feet. There are $20$ boards with length $5$ feet. Therefore, the numbers of $2$-foot, $5$-foot, and $7$-foot boards are $n$, $20$, and $4n$, respectively. Since there are $100$ boards in total, $n + 20 + 4n = 100$. Combining like terms on the left-hand side yields $5n + 20 = 100$.",
+  "source": "https://cooksat.com/practice?questionId=12513cc4&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

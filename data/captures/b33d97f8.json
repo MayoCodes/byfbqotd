@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b33d97f8",
+  "capturedAt": "2026-11-11T06:13:59.545Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$9(kx + 5) = 16x + 41$$\n\nIn the given equation, $k$ is a constant. The equation has no solution. What is the value of $k$?\n\n$$0$$\n\n$$\\frac{16}{9},1.777,1.778$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{16}{9},1.777,1.778$",
+  "explanation": "The correct answer is $\\frac{16}{9}$. A linear equation in one variable has no solution when the coefficients of the variable on both sides are equal, but the constant terms are not equal. This creates a contradiction that is false for all values of the variable.\n\nDistributing the $9$ in the given equation yields:\n$9kx + 45 = 16x + 41$\n\nFor the equation to have no solution, the coefficients of $x$ must be equal:\n$9k = 16$\n\nSolving for $k$:\n$k = \\frac{16}{9}$\n\nVerification: When $k = \\frac{16}{9}$, the equation becomes:\n$9 \\cdot \\frac{16}{9}x + 45 = 16x + 41$\n$16x + 45 = 16x + 41$\n\nSubtracting $16x$ from both sides:\n$45 = 41$\n\nThis statement is false for all values of $x$, confirming that the equation has no solution when $k = \\frac{16}{9}$. Note that 16/9, 1.777, and 1.778 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=b33d97f8&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

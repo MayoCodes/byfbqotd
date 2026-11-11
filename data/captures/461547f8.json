@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "461547f8",
+  "capturedAt": "2026-11-11T06:12:16.572Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $5 + x = 40$, what is the value of $35 + 7x$?\n\n$$0$$\n\n$$280$$",
+  "choices": {},
+  "correctAnswer": "$280$",
+  "explanation": "The correct answer is $280$. Multiplying both sides of the given equation by $7$ yields $7(5 + x) = 7(40)$, or $35 + 7x = 280$. Therefore, if $5 + x = 40$, the value of $35 + 7x$ is $280$.",
+  "source": "https://cooksat.com/practice?questionId=461547f8&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

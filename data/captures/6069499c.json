@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6069499c",
+  "capturedAt": "2026-11-11T06:12:40.481Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A movie theater charges $$12$ per adult ticket. For a group, the theater offers a package where the total cost is $$20$ plus $$8$ per person. A family pays the same amount whether they buy individual adult tickets or use the group package. How many people are in the family?\n\n$$0$$\n\n$$5$$",
+  "choices": {},
+  "correctAnswer": "$5$",
+  "explanation": "The correct answer is $5$. Let $x$ represent the number of people in the family. If the family buys individual adult tickets at $$12$ each, the total cost is $12x$ dollars. If the family uses the group package, the total cost is $20+8x$ dollars. Since the family pays the same amount with either option, the equation $12x=20+8x$ represents this situation. Subtracting $8x$ from both sides yields $4x=20$. Dividing both sides by $4$ yields $x=5$. Therefore, there are $5$ people in the family. Verification: Individual tickets cost $12(5)=60$ dollars, and the group package costs $20+8(5)=20+40=60$ dollars. Both options cost the same, confirming the answer.",
+  "source": "https://cooksat.com/practice?questionId=6069499c&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

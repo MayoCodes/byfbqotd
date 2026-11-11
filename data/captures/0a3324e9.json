@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0a3324e9",
+  "capturedAt": "2026-11-11T06:11:23.417Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A candle shop makes $6$-inch, $4$-inch, and $3$-inch candles. During a certain week, the number of $6$-inch candles the shop makes is $5$ times the number $n$ of $4$-inch candles it makes, and the number of $3$-inch candles it makes is $12$. During this week, the shop makes $60$ candles total. Which equation represents this situation?",
+  "choices": {
+    "A": "$5n + 12 = 60$",
+    "B": "$6n + 4n + 3n = 60$",
+    "C": "$6n + 12 = 60$",
+    "D": "$6(5n) + 4n + 3(12) = 60$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the number of $4$-inch candles the shop makes is $n$ and the number of $3$-inch candles it makes is $12$. It's also given that the number of $6$-inch candles is $5$ times the number of $4$-inch candles, or $5n$. Therefore, the total number of candles is $5n + n + 12$, which simplifies to $6n + 12$. Since the shop makes $60$ candles total, the equation $6n + 12 = 60$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=0a3324e9&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

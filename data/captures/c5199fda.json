@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c5199fda",
+  "capturedAt": "2026-11-11T06:14:12.189Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $6 x = 54$, what is the value of $9 x$?",
+  "choices": {
+    "A": "$15$",
+    "B": "$63$",
+    "C": "$81$",
+    "D": "$486$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Dividing both sides of the given equation $6 x = 54$ by $6$ yields $x = 9$. Substituting $9$ for $x$ in the expression $9 x$ yields $9 \\left( 9 \\right)$, which is equivalent to $81$.",
+  "source": "https://cooksat.com/practice?questionId=c5199fda&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

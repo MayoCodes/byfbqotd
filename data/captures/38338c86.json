@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "38338c86",
+  "capturedAt": "2026-11-11T06:11:54.934Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$4(kx + 6) = 5x + 18$$\n\nIn the given equation, $k$ is a constant. The equation has no solution. What is the value of $k$?\n\n$$0$$\n\n$$\\frac{5}{4},1.25,1.250$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{5}{4},1.25,1.250$",
+  "explanation": "The correct answer is $\\frac{5}{4}$. A linear equation in the form $a(kx + b) = cx + d$ has no solution only when the coefficients of $x$ on both sides are equal and the constant terms are not equal. Distributing the $4$ in the given equation yields $4kx + 24 = 5x + 18$. For the coefficients of $x$ to be equal, $4k = 5$, which gives $k = \\frac{5}{4}$. When $k = \\frac{5}{4}$, the equation becomes $5x + 24 = 5x + 18$. Subtracting $5x$ from both sides yields $24 = 18$, which is false for all values of $x$, confirming the equation has no solution. Therefore, the value of $k$ is $\\frac{5}{4}$. Note that 5/4, 1.25, and 1.250 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=38338c86&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

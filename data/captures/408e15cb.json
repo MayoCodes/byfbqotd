@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "408e15cb",
+  "capturedAt": "2026-11-11T06:12:09.763Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $2x + \\frac{3}{4} = 5$, what is the value of $6x + \\frac{9}{4}$?",
+  "choices": {
+    "A": "$\\frac{(17)}{4}$",
+    "B": "$\\frac{(51)}{4}$",
+    "C": "$15$",
+    "D": "$\\frac{(69)}{4}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Multiplying both sides of the equation $2x + \\frac{3}{4} = 5$ by $3$ yields $3(2x + \\frac{3}{4}) = 3(5)$. Distributing on the left side gives $6x + \\frac{9}{4} = 15$.",
+  "source": "https://cooksat.com/practice?questionId=408e15cb&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

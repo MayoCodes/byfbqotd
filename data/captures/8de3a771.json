@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8de3a771",
+  "capturedAt": "2026-11-11T06:13:09.466Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$5(ax-b)=-\\frac{(45)}{9}x+\\frac{(54)}{(23)}$$\n\nIn the given equation, $a$ and $b$ are constants and $b>0$. The equation has no solution. What is the value of $a$?",
+  "choices": {
+    "A": "$-5$",
+    "B": "$-1$",
+    "C": "$1$",
+    "D": "$5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Distributing $5$ on the left side yields $5ax-5b=-\\frac{45}{9}x+\\frac{54}{23}$. Simplifying the right side gives $5ax-5b=-5x+\\frac{54}{23}$. For a linear equation to have no solution, the coefficients of $x$ on both sides must be equal while the constant terms are not equal. Setting the coefficients of $x$ equal gives $5a=-5$. Dividing both sides by $5$ yields $a=-1$.",
+  "source": "https://cooksat.com/practice?questionId=8de3a771&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "95a3db2a",
+  "capturedAt": "2026-11-11T06:13:11.552Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$5(x-2)+3=2x+7$$\n\nWhat value of $x$ satisfies the given equation?\n\n$$0$$\n\n$$\\frac{14}{3},4.666,4.667$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{14}{3},4.666,4.667$",
+  "explanation": "The correct answer is $\\frac{14}{3}$. Distributing the $5$ on the left side of the equation yields $5x-10+3=2x+7$. Combining like terms on the left side gives $5x-7=2x+7$. Subtracting $2x$ from both sides yields $3x-7=7$. Adding $7$ to both sides gives $3x=14$. Dividing both sides by $3$ yields $x=\\frac{14}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=95a3db2a&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

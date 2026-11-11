@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "45371c2a",
+  "capturedAt": "2026-11-11T06:12:14.854Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$m - 27n = p$$\n\nThe given equation relates the positive numbers $m$, $n$, and $p$. Which equation correctly expresses $m$ in terms of $n$ and $p$?",
+  "choices": {
+    "A": "$m = -\\frac{p}{(27n)}$",
+    "B": "$m = p - 27n$",
+    "C": "$m = p + 27n$",
+    "D": "$m = 27np$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The given equation is $m - 27n = p$. Adding $27n$ to both sides of this equation yields $m = p + 27n$. Therefore, $m = p + 27n$ correctly expresses $m$ in terms of $n$ and $p$.",
+  "source": "https://cooksat.com/practice?questionId=45371c2a&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

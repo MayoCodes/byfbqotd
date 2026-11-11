@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9a6e01dd",
+  "capturedAt": "2026-11-11T06:13:24.578Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $8x = 88$, what is the value of $4x$?",
+  "choices": {
+    "A": "$11$",
+    "B": "$22$",
+    "C": "$44$",
+    "D": "$88$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $8x=88$. Dividing both sides of this equation by 2 yields $4x=44$. Therefore, the value of $4x$ is $44$.",
+  "source": "https://cooksat.com/practice?questionId=9a6e01dd&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

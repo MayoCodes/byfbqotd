@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fabecf62",
+  "capturedAt": "2026-11-11T06:14:57.715Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{(t-k)}{5}(10x+15)=(t+k)x+24$$\n\nIn the given equation, $t$ and $k$ are constants. The equation has infinitely many solutions. What is the value of $t$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$8$",
+    "C": "$12$",
+    "D": "$16$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Distributing $\\frac{t-k}{5}$ on the left side yields $\\frac{10(t-k)}{5}x+\\frac{15(t-k)}{5}=(t+k)x+24$, which simplifies to $2(t-k)x+3(t-k)=(t+k)x+24$. For a linear equation to have infinitely many solutions, the coefficients of $x$ and the constant terms on each side must be equal. Setting the coefficients of $x$ equal gives $2(t-k)=t+k$, which simplifies to $t=3k$. Setting the constant terms equal gives $3(t-k)=24$, so $t-k=8$. Substituting $t=3k$ into $t-k=8$ yields $3k-k=8$, so $2k=8$ and $k=4$. Therefore, $t=3(4)=12$.",
+  "source": "https://cooksat.com/practice?questionId=fabecf62&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

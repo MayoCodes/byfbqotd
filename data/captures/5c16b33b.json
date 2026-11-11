@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5c16b33b",
+  "capturedAt": "2026-11-11T06:12:33.956Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $5x + 4 = 19$, what is the value of $10x - 7$?\n\n$$0$$\n\n$$23$$",
+  "choices": {},
+  "correctAnswer": "$23$",
+  "explanation": "The correct answer is $23$. Subtracting $4$ from both sides of the given equation $5x + 4 = 19$ yields $5x = 15$. Since $10x = 2(5x)$, it follows that $10x = 2(15) = 30$. Substituting $30$ for $10x$ in the expression $10x - 7$ yields $30 - 7 = 23$.",
+  "source": "https://cooksat.com/practice?questionId=5c16b33b&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

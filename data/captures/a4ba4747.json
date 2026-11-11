@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a4ba4747",
+  "capturedAt": "2026-11-11T06:13:29.925Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $4x - 3(2x - 5) = 7x + 2$, what is the value of $2x - 5$?\n\n$$0$$\n\n$$-\\frac{19}{9},-2.111$$",
+  "choices": {},
+  "correctAnswer": "$-\\frac{19}{9},-2.111$",
+  "explanation": "The correct answer is $-\\frac{19}{9}$. Rather than solving for $x$ first, we can find the value of $2x-5$ directly. Distributing the $-3$ in the given equation yields $4x - 6x + 15 = 7x + 2$. Simplifying the left side gives $-2x + 15 = 7x + 2$. Adding $2x$ to both sides yields $15 = 9x + 2$. Subtracting $2$ from both sides gives $13 = 9x$, so $x = \\frac{13}{9}$. Substituting this value into $2x - 5$ yields $2\\left(\\frac{13}{9}\\right) - 5 = \\frac{26}{9} - \\frac{45}{9} = -\\frac{19}{9}$. Therefore, the value of $2x - 5$ is $-\\frac{19}{9}$, which equals approximately $-2.111$ as a decimal. Note that -19/9 and -2.111 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=a4ba4747&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2fa87a49",
+  "capturedAt": "2026-11-11T06:11:53.239Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$5x + 8 = 23$$\n\nWhich equation has the same solution as the given equation?",
+  "choices": {
+    "A": "$5x = 3$",
+    "B": "$5x = 15$",
+    "C": "$5x = 31$",
+    "D": "$5x = 115$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Subtracting $8$ from both sides of the given equation yields $5x = 15$, which is the equation given in choice B. Since this equation is equivalent to the given equation, it has the same solution as the given equation.",
+  "source": "https://cooksat.com/practice?questionId=2fa87a49&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

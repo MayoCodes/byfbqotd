@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "273a1003",
+  "capturedAt": "2026-11-11T06:11:45.792Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which equation is equivalent to $3(2x-1)+4x=7x+9$?",
+  "choices": {
+    "A": "$7x-3=7x+9$",
+    "B": "$10x+3=7x+9$",
+    "C": "$10x-1=7x+9$",
+    "D": "$10x-3=7x+9$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Distributing $3$ across $(2x-1)$ gives $3(2x)-3(1)=6x-3$. The left side becomes $6x-3+4x=7x+9$. Combining like terms $6x+4x$ yields $10x-3=7x+9$.",
+  "source": "https://cooksat.com/practice?questionId=273a1003&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

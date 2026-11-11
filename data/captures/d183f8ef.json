@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d183f8ef",
+  "capturedAt": "2026-11-11T06:14:15.400Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Over $6$ weeks, a tree absorbed $52.5$ gallons of water. Which equation describes the amount of water $y$, in gallons, the tree absorbed during these $6$ weeks?",
+  "choices": {
+    "A": "$y = 6$",
+    "B": "$y = \\frac{(52.5)}{6}$",
+    "C": "$y = 52.5$",
+    "D": "$y = 52.5 + 6$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $y$ represents the amount of water, in gallons, the tree absorbed during $6$ weeks. It's also given that the tree absorbed $52.5$ gallons of water during these $6$ weeks. Therefore, $y = 52.5$.",
+  "source": "https://cooksat.com/practice?questionId=d183f8ef&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

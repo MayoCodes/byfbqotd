@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7048f2f1",
+  "capturedAt": "2026-11-11T06:12:51.493Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A tool rental company charges a flat fee of $$25$ plus $$15$ per hour for equipment rental. If a customer's total charge is $$175$, how many hours did the customer rent the equipment?\n\n$$0$$\n\n$$10$$",
+  "choices": {},
+  "correctAnswer": "$10$",
+  "explanation": "The correct answer is $10$. The rental company charges a flat fee of $25 plus $15 per hour. If $h$ represents the number of hours the equipment was rented, the total cost can be expressed as $25 + 15h = 175$. To solve for $h$, first subtract $25$ from both sides of the equation: $15h = 150$. Then divide both sides by $15$: $h = 10$. Therefore, the customer rented the equipment for $10$ hours.",
+  "source": "https://cooksat.com/practice?questionId=7048f2f1&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

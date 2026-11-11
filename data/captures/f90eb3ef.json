@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f90eb3ef",
+  "capturedAt": "2026-11-11T06:14:53.895Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Consider the equation $k(2x-5)=6x+m$, where $k$ and $m$ are constants. Which of the following conditions on $k$ and $m$ would result in the equation having no solution?",
+  "choices": {
+    "A": "$k=3$ and $m \\ne -15$",
+    "B": "$k \\ne 3$ and $m \\ne -15$",
+    "C": "$k \\ne 3$ and $m=5$",
+    "D": "$k=3$ and $m=-15$"
+  },
+  "correctAnswer": "A",
+  "explanation": "For a linear equation to have no solution, the coefficients of the variable terms must be equal while the constant terms must be unequal. Distributing $k$ on the left side gives $2kx-5k=6x+m$. For the coefficients of $x$ to be equal, $2k=6$, which gives $k=3$. For the constants to be unequal, $-5k \\neq m$. Substituting $k=3$ yields $-15 \\neq m$, or equivalently, $m \\neq -15$. Therefore, the equation has no solution when $k=3$ and $m \\neq -15$.",
+  "source": "https://cooksat.com/practice?questionId=f90eb3ef&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aef3980f",
+  "capturedAt": "2026-11-11T06:13:52.563Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $4x - 28 = 24$, what is the value of $x - 7$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$6$",
+    "C": "$24$",
+    "D": "$13$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Dividing each side of the given equation by $4$ yields $x - 7 = 6$. Therefore, the value of $x - 7$ is $6$.",
+  "source": "https://cooksat.com/practice?questionId=aef3980f&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

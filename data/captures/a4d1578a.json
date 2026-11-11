@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a4d1578a",
+  "capturedAt": "2026-11-11T06:13:32.198Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$4(kx+3)=10x+15$$\n\nIn the given equation, $k$ is a constant. The equation has no solution. What is the value of $k$?\n\n$$0$$\n\n$$\\frac{5}{2},2.5,2.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{5}{2},2.5,2.50$",
+  "explanation": "The correct answer is $\\frac{5}{2}$. A linear equation in the form $a(kx+b)=cx+d$ has no solution only when the coefficients of $x$ on both sides are equal and the constant terms are not equal. Distributing the $4$ in the given equation yields $4kx+12=10x+15$. For the coefficients of $x$ to be equal, $4k=10$. Dividing both sides by $4$ yields $k=\\frac{10}{4}=\\frac{5}{2}$. When $k=\\frac{5}{2}$, the equation becomes $10x+12=10x+15$. Subtracting $10x$ from both sides yields $12=15$, which is false for all values of $x$, confirming the equation has no solution. Therefore, the value of $k$ is $\\frac{5}{2}$. Note that 5/2, 2.5, and 2.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=a4d1578a&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}

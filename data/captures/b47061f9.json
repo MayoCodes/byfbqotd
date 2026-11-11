@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b47061f9",
+  "capturedAt": "2026-11-11T06:14:03.121Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The solution to the equation $12t+6=90$ is $t=s$. What is the value of $s$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$8$",
+    "C": "$84$",
+    "D": "$96$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Subtracting $6$ from both sides of the equation $12t+6=90$ yields $12t=84$. Dividing both sides by $12$ yields $t=7$. Therefore, $s=7$.",
+  "source": "https://cooksat.com/practice?questionId=b47061f9&subject=math&domain=algebra&skills=linear_equations_in_one_variable&bank=cooksat",
+  "images": []
+}
