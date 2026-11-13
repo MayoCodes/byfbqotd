@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cd5e7347",
+  "capturedAt": "2026-11-13T22:06:37.046Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Interpret Inequality Solution in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following ordered pairs $(x, y)$ satisfies the inequality $4x - 2y > 3$?\n\nI. $(2, 1)$\nII. $(4, 5)$\nIII. $(1, 3)$",
+  "choices": {
+    "A": "I only",
+    "B": "II only",
+    "C": "I and II only",
+    "D": "II and III only"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Substituting $(2, 1)$ into the inequality gives $4(2) - 2(1) > 3$, or $6 > 3$, which is true. Substituting $(4, 5)$ gives $4(4) - 2(5) > 3$, or $6 > 3$, which is true. Substituting $(1, 3)$ gives $4(1) - 2(3) > 3$, or $-2 > 3$, which is false. Therefore, $(2, 1)$ and $(4, 5)$ are the only ordered pairs shown that satisfy the given inequality.",
+  "source": "https://cooksat.com/practice?questionId=cd5e7347&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

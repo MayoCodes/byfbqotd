@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cadc7d0b",
+  "capturedAt": "2026-11-13T22:06:35.485Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Marcus bought two packets of mixed seeds. In the first packet, $25%$ of the seeds are sunflower seeds, and in the second packet, $60%$ of the seeds are sunflower seeds. Together, the packets have at least $180$ sunflower seeds. Which inequality shows this relationship, where $x$ is the total number of seeds in the first packet and $y$ is the total number of seeds in the second packet?",
+  "choices": {
+    "A": "$\\frac{x}{4} + \\frac{y}{6} \\le 180$",
+    "B": "$0.25x + 0.6y \\ge 180$",
+    "C": "$0.6x + 0.25y \\le 180$",
+    "D": "$25x + 60y \\ge 180$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since $x$ is the total number of seeds in the first packet and $25\\%$ of those seeds are sunflower seeds, the expression $0.25x$ represents the number of sunflower seeds in the first packet. Since $y$ is the total number of seeds in the second packet and $60\\%$ of those seeds are sunflower seeds, the expression $0.6y$ represents the number of sunflower seeds in the second packet. Together, the packets have at least $180$ sunflower seeds, so the inequality that shows this relationship is $0.25x + 0.6y \\geq 180$.",
+  "source": "https://cooksat.com/practice?questionId=cadc7d0b&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3515c1c2",
+  "capturedAt": "2026-11-13T22:05:23.764Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Verify Solutions by Substitution",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y \\le -x + 8$$\n\n$$y \\ge x + 2$$\n\nWhich point $(x, y)$ is a solution to the given system of inequalities in the xy-plane?",
+  "choices": {
+    "A": "$(2, 3)$",
+    "B": "$(3, 5)$",
+    "C": "$(4, 4)$",
+    "D": "$(5, 2)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "A point $(x,y)$ is a solution to a system of inequalities if substituting the coordinates into each inequality makes both true. Substituting $(3, 5)$ into $y \\leq -x + 8$ gives $5 \\leq -3 + 8$, or $5 \\leq 5$, which is true. Substituting $(3, 5)$ into $y \\geq x + 2$ gives $5 \\geq 3 + 2$, or $5 \\geq 5$, which is true. Therefore, $(3, 5)$ is a solution to the system.",
+  "source": "https://cooksat.com/practice?questionId=3515c1c2&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

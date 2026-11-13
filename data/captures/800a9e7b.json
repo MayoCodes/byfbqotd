@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "800a9e7b",
+  "capturedAt": "2026-11-13T22:05:56.989Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A delivery service charges a flat fee of $$8$ plus $$1.25$ per pound to ship a package. A customer wants to spend more than $$15$ but at most $$33$ on shipping. If $w$ represents the weight, in pounds, of the package, which inequality represents all possible values of $w$?",
+  "choices": {
+    "A": "$\\frac{(28)}{5} < w \\le 20$",
+    "B": "$\\frac{(28)}{5} \\le w < 20$",
+    "C": "$\\frac{(23)}{5} < w \\le 25$",
+    "D": "$\\frac{(28)}{5} < w < 20$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The total cost $C$ for shipping a package weighing $w$ pounds is $C = 8 + 1.25w$. The customer wants to spend more than $$15$, so $8 + 1.25w > 15$. Subtracting $8$ from both sides gives $1.25w > 7$. Dividing both sides by $1.25$ gives $w > \\frac{28}{5}$. The customer also wants to spend at most $$33$, so $8 + 1.25w \\leq 33$. Subtracting $8$ from both sides gives $1.25w \\leq 25$. Dividing both sides by $1.25$ gives $w \\leq 20$. Combining these inequalities gives $\\frac{28}{5} < w \\leq 20$.",
+  "source": "https://cooksat.com/practice?questionId=800a9e7b&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

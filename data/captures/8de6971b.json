@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8de6971b",
+  "capturedAt": "2026-11-13T22:06:00.227Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The average annual electricity cost for a certain small business is $$3,150$. The owner plans to spend $$18,000$ to install solar panels. The owner estimates that the average annual electricity cost will then be $$1,875$. Which of the following inequalities can be solved to find $t$, the number of years after installation at which the total amount of electricity cost savings will exceed the installation cost?",
+  "choices": {
+    "A": "$18,000 > 3,1501,875 t$",
+    "B": "$18,000 > (3,150 - 1,875) \\times t$",
+    "C": "$18,000 < (3,150 - 1,875) \\times t$",
+    "D": "$18,000 - 3,150 < 1,875 t$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The savings each year from installing the solar panels will be the average annual electricity cost before installation minus the average annual electricity cost after installation, which is $$3{,}150$ - $$1{,}875$. In $t$ years, the savings will be $(3{,}150 - 1{,}875) \\times t$ dollars. Therefore, the inequality that can be solved to find the number of years after installation at which the total amount of electricity cost savings will exceed (be greater than) the installation cost, $$18{,}000$, is $18{,}000 < (3{,}150 - 1{,}875) \\times t$.",
+  "source": "https://cooksat.com/practice?questionId=8de6971b&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

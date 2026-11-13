@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "104be89b",
+  "capturedAt": "2026-11-13T22:04:48.281Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A school principal plans to purchase the same model of tablet for each of the $64$ teachers. The total budget to spend on these tablets is $$18,000$, which includes a $6%$ sales tax. Which of the following is closest to the maximum possible price per tablet, before sales tax, the principal could pay based on this budget?",
+  "choices": {
+    "A": "$$250.31$",
+    "B": "$$265.33$",
+    "C": "$$281.25$",
+    "D": "$$298.13$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Let $p$ be the price per tablet before sales tax. The total price of purchasing $64$ tablets is $64p$. Since the total includes a $6\\%$ sales tax, the total cost is $64p$ multiplied by $1.06$, or $64(1.06)p$. Since the total budget is $$18{,}000$, the inequality representing this situation is $64(1.06)p \\leq 18{,}000$. Dividing both sides of this inequality by $64(1.06)$ and rounding to two decimal places gives $p \\leq 265.33$. Therefore, the maximum possible price per tablet, before sales tax, is $$265.33$.",
+  "source": "https://cooksat.com/practice?questionId=104be89b&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

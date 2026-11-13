@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "146dd6ec",
+  "capturedAt": "2026-11-13T22:04:49.909Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A number $x$ is at most $23$ less than $7$ times the value of $y$. If the value of $y$ is $4$, what is the greatest possible value of $x$?\n\n$$0$$\n\n$$5$$",
+  "choices": {},
+  "correctAnswer": "$5$",
+  "explanation": "The correct answer is $5$. It's given that a number $x$ is at most $23$ less than $7$ times the value of $y$, or $x \\leq 7y - 23$. Substituting $4$ for $y$ in this inequality yields $x \\leq 7\\left(4\\right) - 23$, or $x \\leq 5$. Thus, if the value of $y$ is $4$, the greatest possible value of $x$ is $5$.",
+  "source": "https://cooksat.com/practice?questionId=146dd6ec&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

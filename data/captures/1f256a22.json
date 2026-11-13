@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1f256a22",
+  "capturedAt": "2026-11-13T22:04:58.065Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Interpret Inequality Solution in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A value of $x$ satisfies the inequality $2x + 7 < 20$. Which of the following could be the value of $x$?",
+  "choices": {
+    "A": "$5$",
+    "B": "$7$",
+    "C": "$8$",
+    "D": "$9$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Substituting $x = 5$ into the inequality gives $2(5) + 7 = 10 + 7 = 17$. Since $17 < 20$, the value $x = 5$ satisfies the inequality.",
+  "source": "https://cooksat.com/practice?questionId=1f256a22&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

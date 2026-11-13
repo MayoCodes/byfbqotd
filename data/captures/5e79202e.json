@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5e79202e",
+  "capturedAt": "2026-11-13T22:05:43.398Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The triangle inequality theorem states that the sum of the lengths of any two sides of a triangle must be greater than the length of the third side. A triangle has two sides with lengths $9$ and $14$. Which inequality represents the possible lengths, $x$, of the third side of this triangle?",
+  "choices": {
+    "A": "$x < 23$",
+    "B": "$x > 23$",
+    "C": "$5 < x < 23$",
+    "D": "$x < 5$ or $x > 23$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. By the triangle inequality theorem, for a triangle with side lengths $9$, $14$, and $x$, all three of the following must hold: $9 + 14 > x$, $9 + x > 14$, and $14 + x > 9$. Simplifying $9 + 14 > x$ yields $x < 23$. Subtracting $9$ from both sides of $9 + x > 14$ yields $x > 5$. Subtracting $14$ from both sides of $14 + x > 9$ yields $x > -5$, which is automatically satisfied whenever $x > 5$. Combining the two binding constraints gives $5 < x < 23$.",
+  "source": "https://cooksat.com/practice?questionId=5e79202e&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1f24a31f",
+  "capturedAt": "2026-11-13T22:04:56.531Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A retail store uses display shelves that must each have a width of at least $2.5$ feet and no more than $3.0$ feet. The store manager wants to determine the number of display shelves, $n$, that could be placed side by side along a wall that is $60$ feet long, based on the allowed widths of a display shelf. Which of the following describes all the possible values of $n$?",
+  "choices": {
+    "A": "$2.5 \\le n \\le 3$",
+    "B": "$20 \\le n \\le 24$",
+    "C": "$20 \\le n \\le 60$",
+    "D": "$24 \\le n \\le 60$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Using the minimum shelf width of $2.5$ feet gives the maximum possible number of shelves that can fit along the wall: $\\frac{60}{2.5} = 24$. Using the maximum shelf width of $3$ feet gives the minimum possible number of shelves: $\\frac{60}{3} = 20$. Therefore, if $n$ is the number of display shelves placed along the wall, the range of possible values for $n$ is $20 \\leq n \\leq 24$.",
+  "source": "https://cooksat.com/practice?questionId=1f24a31f&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

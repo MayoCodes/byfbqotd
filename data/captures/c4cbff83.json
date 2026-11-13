@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c4cbff83",
+  "capturedAt": "2026-11-13T22:06:32.360Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A student club needs to collect at least $250$ canned food items for a food drive. If the club has already collected $138$ canned food items, what is the minimum number of additional canned food items the club needs to collect to reach its goal?",
+  "choices": {
+    "A": "$97$",
+    "B": "$112$",
+    "C": "$138$",
+    "D": "$388$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Let $x$ represent the number of additional canned food items the club needs to collect. After collecting $x$ more items, the club will have a total of $138 + x$ items. Because the club needs at least $250$ items, $138 + x \\geq 250$. Subtracting $138$ from both sides yields $x \\geq 112$. Therefore, the minimum number of additional canned food items the club needs to collect is $112$.",
+  "source": "https://cooksat.com/practice?questionId=c4cbff83&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

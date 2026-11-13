@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f5df99ec",
+  "capturedAt": "2026-11-13T22:06:54.234Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Select Correct Inequality",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$13x + 18y \\le 160$$\n\nPriya will spend at most $$160$ to purchase $x$ notebooks and $y$ binders for her office. The given inequality represents this situation. Which of the following is the best interpretation of $18y$ in this context?",
+  "choices": {
+    "A": "The amount, in dollars, Priya will spend on each binder",
+    "B": "The amount, in dollars, Priya will spend on each notebook",
+    "C": "The total amount, in dollars, Priya will spend on notebooks",
+    "D": "The total amount, in dollars, Priya will spend on binders"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that Priya will spend at most $$160$ to purchase $x$ notebooks and $y$ binders. In the inequality $13x + 18y \\leq 160$, $y$ represents the number of binders Priya will purchase. This means the coefficient $18$ represents the amount, in dollars, Priya will spend on each binder. Therefore, the best interpretation of $18y$ in this context is the total amount, in dollars, Priya will spend on binders.",
+  "source": "https://cooksat.com/practice?questionId=f5df99ec&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

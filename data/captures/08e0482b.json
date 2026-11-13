@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "08e0482b",
+  "capturedAt": "2026-11-13T22:04:41.428Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Derek needs at least $250$ canned food items to meet his food drive goal. If Derek has already collected $85$ canned food items, what is the minimum number of additional canned food items Derek needs to meet his goal?",
+  "choices": {
+    "A": "$85$",
+    "B": "$165$",
+    "C": "$250$",
+    "D": "$335$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Let $x$ represent the number of additional canned food items Derek needs. After collecting $x$ additional items, Derek will have a total of $85 + x$ items. Since Derek needs at least $250$ items, $85 + x \\geq 250$. Subtracting $85$ from both sides yields $x \\geq 165$. Therefore, the minimum number of additional canned food items Derek needs is $165$.",
+  "source": "https://cooksat.com/practice?questionId=08e0482b&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

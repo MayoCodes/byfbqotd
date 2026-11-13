@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "59d0997d",
+  "capturedAt": "2026-11-13T22:05:41.688Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A water tank system consists of two connected containers. Container A has a capacity of $8$ gallons and Container B has a capacity of $12$ gallons. Initially, Container A contains $2$ gallons and Container B contains $3$ gallons. Water flows from a source into Container A at a rate of $1.5$ gallons per minute, and simultaneously flows from Container A to Container B at a rate of $0.8$ gallons per minute. The amount of water in Container A after $t$ minutes is modeled by $W_A(t) = 0.7t + 2$, and the amount in Container B is modeled by $W_B(t) = 0.8t + 3$. If both containers must not overflow, what is the maximum time, in minutes, that this system can operate before either container reaches its capacity?",
+  "choices": {
+    "A": "$\\frac{(60)}{7}$",
+    "B": "$\\frac{(45)}{4}$",
+    "C": "$12$",
+    "D": "$15$"
+  },
+  "correctAnswer": "A",
+  "explanation": "To find when each container reaches capacity, set each function equal to its capacity. For Container A: $0.7t + 2 = 8$ yields $0.7t = 6$, so $t = \\frac{60}{7} \\approx 8.57$ minutes. For Container B: $0.8t + 3 = 12$ yields $0.8t = 9$, so $t = \\frac{45}{4} = 11.25$ minutes. Since Container A reaches capacity first, the maximum operating time is $\\frac{60}{7}$ minutes.",
+  "source": "https://cooksat.com/practice?questionId=59d0997d&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

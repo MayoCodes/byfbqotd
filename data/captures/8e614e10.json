@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8e614e10",
+  "capturedAt": "2026-11-13T22:06:01.852Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Interpret Inequality Solution in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y < 7x + 3$$\n\nFor which of the following tables are all the values of $x$ and their corresponding values of $y$ solutions to the given inequality?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. All the tables in the choices have the same three values of $x$, so each of the three values of $x$ can be substituted in the given inequality to compare the corresponding values of $y$ in each of the tables. Substituting $2$ for $x$ in the given inequality yields $y < 7(2) + 3$, or $y < 17$. Substituting $4$ for $x$ in the given inequality yields $y < 7(4) + 3$, or $y < 31$. Substituting $6$ for $x$ in the given inequality yields $y < 7(6) + 3$, or $y < 45$. For the table in choice C, when $x = 2$, the corresponding value of $y$ is $13$, which is less than $17$; when $x = 4$, the corresponding value of $y$ is $27$, which is less than $31$; when $x = 6$, the corresponding value of $y$ is $41$, which is less than $45$. Therefore, the table in choice C gives values of $x$ and their corresponding values of $y$ that are all solutions to the given inequality.",
+  "source": "https://cooksat.com/practice?questionId=8e614e10&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/8e614e10/1-f10a1cf9fc0e54bf.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/8e614e10/2-bc66b244a82e54c9.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/8e614e10/3-bd6d801c200156f8.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/8e614e10/4-526a949721ffeaca.png",
+      "kind": "diagram"
+    }
+  ]
+}

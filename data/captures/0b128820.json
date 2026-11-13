@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0b128820",
+  "capturedAt": "2026-11-13T22:04:44.699Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Interpret Inequality Solution in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y > 3x + 5$$\n\nFor which of the following tables are all the values of $x$ and their corresponding values of $y$ solutions to the given inequality?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In each choice, the values of $x$ are $1$, $3$, and $5$. Substituting the first value of $x$, $1$, for $x$ in the given inequality yields $y > 3(1) + 5$, or $y > 8$. Therefore, when $x = 1$, the corresponding value of $y$ must be greater than $8$. Of the given choices, only choice D is a table where the value of $y$ corresponding to $x = 1$ is greater than $8$. To confirm that the other values of $x$ in this table and their corresponding values of $y$ are also solutions to the given inequality, the values of $x$ and $y$ in the table can be substituted for $x$ and $y$ in the given inequality. Substituting $3$ for $x$ and $18$ for $y$ in the given inequality yields $18 > 3(3) + 5$, or $18 > 14$, which is true. Substituting $5$ for $x$ and $25$ for $y$ in the given inequality yields $25 > 3(5) + 5$, or $25 > 20$, which is true. It follows that for choice D, all the values of $x$ and their corresponding values of $y$ are solutions to the given inequality.",
+  "source": "https://cooksat.com/practice?questionId=0b128820&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/0b128820/1-ddeb071c778300c4.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/0b128820/2-ae8cd55f1cce3556.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/0b128820/3-acdbc9a6ae550a15.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/0b128820/4-4160e393f706b1aa.png",
+      "kind": "diagram"
+    }
+  ]
+}

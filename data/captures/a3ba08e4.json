@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a3ba08e4",
+  "capturedAt": "2026-11-13T22:06:07.263Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A logistics company estimates that one of its delivery drones travels $45$ to $52$ kilometers each day on its route. Based on this estimate, which inequality represents the total number of kilometers, $n$, the drone could travel over $21$ days on its route?",
+  "choices": {
+    "A": "$45 \\le 21 + n \\le 52$",
+    "B": "$45 \\le 21n \\le 52$",
+    "C": "$45 + 21 \\le n \\le 52 + 21$",
+    "D": "$(45)(21) \\le n \\le (52)(21)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The drone travels between $45$ and $52$ kilometers each day. If the drone travels $45$ kilometers each day for $21$ days, it travels $\\left(45\\right)\\left(21\\right)$ kilometers total. If it travels $52$ kilometers each day for $21$ days, it travels $\\left(52\\right)\\left(21\\right)$ kilometers total. Therefore, over $21$ days, the drone could travel at least $\\left(45\\right)\\left(21\\right)$ kilometers and at most $\\left(52\\right)\\left(21\\right)$ kilometers. Thus, the inequality $\\left(45\\right)\\left(21\\right) \\leq n \\leq \\left(52\\right)\\left(21\\right)$ represents the total number of kilometers, $n$, the drone could travel over $21$ days.",
+  "source": "https://cooksat.com/practice?questionId=a3ba08e4&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

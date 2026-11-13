@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ed626d9d",
+  "capturedAt": "2026-11-13T22:06:50.033Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA scientist is cooling a chemical solution in a laboratory freezer. The table shows the temperature of the solution, $y$, in degrees Celsius, $x$ hours after the cooling process began. If the relationship between $x$ and $y$ is linear, which of the following inequalities represents the time when the solution's temperature will be below $-10^°$C?",
+  "choices": {
+    "A": "$x > 3$",
+    "B": "$x > 4$",
+    "C": "$x < 4$",
+    "D": "$x > 5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since the relationship between $x$ and $y$ is linear, we first find the slope using two points from the table. Using $(0, 50)$ and $(1, 35)$: slope $= \\frac{35 - 50}{1 - 0} = -15$. The equation of the line passing through $(0, 50)$ with slope $-15$ is $y = -15x + 50$. To find when the temperature is below $-10^{\\circ}$C, we solve $y < -10$: $-15x + 50 < -10$, which gives $-15x < -60$, so $x > 4$. Therefore, $x > 4$ represents when the solution's temperature will be below $-10^{\\circ}$C.",
+  "source": "https://cooksat.com/practice?questionId=ed626d9d&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/ed626d9d/1-6362d32bfc7e23bc.png",
+      "kind": "diagram"
+    }
+  ]
+}

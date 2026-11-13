@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "40455ebf",
+  "capturedAt": "2026-11-13T22:05:26.865Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A moving company limits the dimensions of the crates it will transport for a certain service. The limit states that for crates shaped like rectangular prisms, the sum of the perimeter of the base of the crate and the height of the crate cannot exceed $165$ inches. The perimeter of the base is determined using the width and length of the crate. If a crate has a height of $45$ inches and its length is $3$ times the width, which inequality shows the allowable width $x$, in inches, of the crate?",
+  "choices": {
+    "A": "$0 < x \\le \\frac{131}{8}$",
+    "B": "$0 < x \\le 15$",
+    "C": "$0 < x \\le 20$",
+    "D": "$0 < x \\le 30$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. If $x$ is the width, in inches, of the crate, then the length of the crate is $3x$ inches. The perimeter of the base is $2(3x + x)$, or $8x$ inches. The height of the crate is $45$ inches. According to the limit, the sum of the perimeter of the base and the height must not exceed $165$ inches, so $8x + 45 \\leq 165$. Subtracting $45$ from both sides gives $8x \\leq 120$, and dividing both sides by $8$ gives $x \\leq 15$. Since $x$ represents a width, $x$ must be positive. Therefore, the allowable width is given by $0 < x \\leq 15$.",
+  "source": "https://cooksat.com/practice?questionId=40455ebf&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

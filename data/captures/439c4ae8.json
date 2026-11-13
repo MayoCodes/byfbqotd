@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "439c4ae8",
+  "capturedAt": "2026-11-13T22:05:30.601Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Verify Solutions by Substitution",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Consider the system of inequalities: $y \\le 2x + a$ and $3x + y \\ge 15$, where $a$ is a constant. For which values of $a$ is it possible for the point $(3, 8)$ to satisfy both inequalities?",
+  "choices": {
+    "A": "$a \\ge 2$",
+    "B": "$a \\le 6$",
+    "C": "$a \\ge 6$",
+    "D": "$2 \\le a \\le 6$"
+  },
+  "correctAnswer": "A",
+  "explanation": "For $(3,8)$ to satisfy $y \\leq 2x + a$, we need $8 \\leq 2(3) + a$, which simplifies to $8 \\leq 6 + a$, or $a \\geq 2$. For $(3,8)$ to satisfy $3x + y \\geq 15$, we need $3(3) + 8 \\geq 15$, which gives $17 \\geq 15$. This is always true. Therefore, the point satisfies both inequalities when $a \\geq 2$.",
+  "source": "https://cooksat.com/practice?questionId=439c4ae8&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

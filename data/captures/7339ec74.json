@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7339ec74",
+  "capturedAt": "2026-11-13T22:05:51.746Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A forester estimates that the volume of a log is greater than $8.4$ cubic feet but less than $11.2$ cubic feet. The forester also estimates that the log weighs $225$ pounds per cubic foot of volume. Which inequality represents this situation, where $w$ represents the estimated total weight, in pounds, of the log?",
+  "choices": {
+    "A": "$225 - 11.2 < w < 225 - 8.4$",
+    "B": "$225 + 8.4 < w < 225 + 11.2$",
+    "C": "$225(8.4) < w < 225(11.2)$",
+    "D": "$\\frac{(225)}{(11.2)} < w < \\frac{(225)}{(8.4)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The estimated volume of the log is greater than $8.4$ cubic feet but less than $11.2$ cubic feet, and the estimated weight per cubic foot is $225$ pounds. The estimated total weight, in pounds, equals the volume multiplied by the weight per cubic foot. If the volume is $8.4$ cubic feet, the estimated total weight is $225(8.4)$ pounds; if the volume is $11.2$ cubic feet, the estimated total weight is $225(11.2)$ pounds. Since the estimated volume is greater than $8.4$ but less than $11.2$ cubic feet, the estimated total weight $w$, in pounds, must satisfy $225(8.4) < w < 225(11.2)$.",
+  "source": "https://cooksat.com/practice?questionId=7339ec74&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

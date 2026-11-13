@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e71babe3",
+  "capturedAt": "2026-11-13T22:06:46.635Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A baker will prepare two types of baked goods, muffins and scones, for a festival. There will be no more than $225$ total items prepared, and the number of muffins prepared will be at most four times the number of scones prepared. Which of the following systems of inequalities best represents this situation, where $m$ is the number of muffins that will be prepared, and $s$ is the number of scones that will be prepared?",
+  "choices": {
+    "A": "$m + s \\ge 225$\n\n$4m \\ge s$",
+    "B": "$m + s \\ge 225$\n\n$m \\le 4s$",
+    "C": "$m + s \\le 225$\n\n$4m \\ge s$",
+    "D": "$m + s \\le 225$\n\n$m \\le 4s$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that a baker will prepare muffins and scones for a festival, where $m$ is the number of muffins that will be prepared and $s$ is the number of scones that will be prepared. It's also given that there will be no more than $225$ total items prepared, which can be represented by the inequality $m + s \\leq 225$. It's also given that the number of muffins prepared will be at most four times the number of scones prepared, which can be represented by the inequality $m \\leq 4s$. Therefore, the system of inequalities containing $m + s \\leq 225$ and $m \\leq 4s$ best represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=e71babe3&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

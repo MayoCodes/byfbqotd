@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "258dfcaf",
+  "capturedAt": "2026-11-13T22:05:06.523Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Interpret Inequality Solution in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y < 7x + 4$$\n\nFor which of the following tables are all the values of $x$ and their corresponding values of $y$ solutions to the given inequality?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Substituting $2$ for $x$ in the given inequality yields $y < 7(2) + 4$, or $y < 18$. Substituting $5$ for $x$ yields $y < 7(5) + 4$, or $y < 39$. Substituting $8$ for $x$ yields $y < 7(8) + 4$, or $y < 60$. For the table in choice A, when $x = 2$, $y = 14$, which is less than $18$; when $x = 5$, $y = 35$, which is less than $39$; and when $x = 8$, $y = 56$, which is less than $60$. Therefore, the table in choice A gives values of $x$ and their corresponding values of $y$ that are all solutions to the given inequality.",
+  "source": "https://cooksat.com/practice?questionId=258dfcaf&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/258dfcaf/1-18cc25602ac1c2a1.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/258dfcaf/2-1dd2943821d83fa3.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/258dfcaf/3-8183d1d91670dc4e.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/258dfcaf/4-b20b28b12bc458cb.png",
+      "kind": "diagram"
+    }
+  ]
+}

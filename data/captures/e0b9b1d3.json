@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e0b9b1d3",
+  "capturedAt": "2026-11-13T22:06:40.260Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An animal shelter classifies a dog breed as heavy if its typical adult weight is more than $250$ pounds. Each of the following inequalities represents the possible adult weights $w$, in pounds, for a specific dog breed. Which inequality represents the possible adult weights $w$, in pounds, for a heavy dog breed?",
+  "choices": {
+    "A": "$15 < w < 180$",
+    "B": "$92 < w < 210$",
+    "C": "$188 < w < 250$",
+    "D": "$275 < w < 320$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that an animal shelter classifies a dog breed as heavy if its typical adult weight is more than $250$ pounds. The inequality $275 < w < 320$ represents possible adult weights $w$, in pounds, for a dog breed where $w$ is between $275$ and $320$ pounds. Since all values of $w$ in this inequality are greater than $250$ pounds, this inequality represents the possible adult weights for a heavy dog breed.",
+  "source": "https://cooksat.com/practice?questionId=e0b9b1d3&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

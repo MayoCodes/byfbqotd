@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "07eec447",
+  "capturedAt": "2026-11-13T22:04:39.444Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Solution from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following inequalities represents the solution set shown in the graph?",
+  "choices": {
+    "A": "$-2x+y>-1$",
+    "B": "$-2x+y<-1$",
+    "C": "$2x-y>-1$",
+    "D": "$2x-y<-1$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The graph shows the boundary line, a dashed line, with its equation $y=2x-1$. Since the boundary line is dashed, this indicates that the points on the line are not included in the solution set. The graph also shows that the shaded region of the coordinate plane, which represents the solutions for the linear inequality, is above the boundary line. The solutions to a linear inequality of the form $y>mx+b$ are above the line $y=mx+b$. Therefore, the solutions to this linear inequality are above the line $y=2x-1$. In this case, $m=2$ and $b=-1$. This can be rewritten as $y>2x-1$. The inequality $y>2x-1$ is equivalent to the inequality $-2x+y>-1$. Therefore, the inequality $-2x+y>-1$ represents the solution set shown.",
+  "source": "https://cooksat.com/practice?questionId=07eec447&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/07eec447/1-f03e146c64af1ba4.png",
+      "kind": "diagram"
+    }
+  ]
+}

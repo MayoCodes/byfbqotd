@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7bac05e6",
+  "capturedAt": "2026-11-13T22:05:54.909Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Solution from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following could represent the inequality shown?",
+  "choices": {
+    "A": "$y<2x-4$",
+    "B": "$y>2x-4$",
+    "C": "$y<2x+4$",
+    "D": "$y>2x+4$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The graph of the inequality $y<mx+b$, where $m$ and $b$ are constants, is a half-plane below the line $y=mx+b$ that does not include the line $y=mx+b$. The graph shown has a dashed line passing through the points $(-2, 0)$ and $(0, 4)$. The slope of this line is $m=\\frac{4-0}{0-(-2)}=\\frac{4}{2}=2$, and the $y$-intercept is $b=4$. Therefore, the line has equation $y=2x+4$. The shaded region is below this line, representing all points where $y<2x+4$. Thus, the graph represents the inequality $y<2x+4$.",
+  "source": "https://cooksat.com/practice?questionId=7bac05e6&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7bac05e6/1-dcc864d109dafd87.png",
+      "kind": "diagram"
+    }
+  ]
+}

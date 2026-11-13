@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "33c38ded",
+  "capturedAt": "2026-11-13T22:05:22.063Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A business owner needs to buy exactly $5,000$ pounds of material. She can buy from two suppliers: Supplier A charges $$2.50$ per pound and Supplier B charges $$3.00$ per pound. The business owner's total budget for this purchase is $$13,500$. If $x$ represents the number of pounds she buys from Supplier A, which inequality represents all possible values of $x$?",
+  "choices": {
+    "A": "$x \\le 1,000$",
+    "B": "$x \\ge 2,000$",
+    "C": "$x \\ge 3,000$",
+    "D": "$x \\le 3,000$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Since the owner needs exactly $5{,}000$ pounds total and buys $x$ pounds from Supplier A at $$2.50$ per pound, she must buy $5{,}000 - x$ pounds from Supplier B at $$3.00$ per pound. The total cost must not exceed $$13{,}500$: $2.50x + 3.00(5{,}000 - x) \\leq 13{,}500$. Distributing gives $2.50x + 15{,}000 - 3.00x \\leq 13{,}500$, which simplifies to $-0.50x \\leq -1{,}500$. Dividing both sides by $-0.50$ and reversing the inequality sign yields $x \\geq 3{,}000$.",
+  "source": "https://cooksat.com/practice?questionId=33c38ded&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

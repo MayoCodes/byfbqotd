@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4ad2c91b",
+  "capturedAt": "2026-11-13T22:05:35.396Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Verify Solutions by Substitution",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For which of the following values of $k$ does the system of inequalities $x - 3k > 1$ and $2x < k + 7$ have at least one solution for $x$?",
+  "choices": {
+    "A": "$k > 1$",
+    "B": "$k < 1$",
+    "C": "$k < -1$",
+    "D": "$k > -1$"
+  },
+  "correctAnswer": "B",
+  "explanation": "For the system to have solutions, the solution regions must overlap. Solving the first inequality: $x - 3k > 1$ gives $x > 3k + 1$. Solving the second inequality: $2x < k + 7$ gives $x < \\frac{k + 7}{2}$. For solutions to exist, we need the lower bound less than the upper bound: $3k + 1 < \\frac{k + 7}{2}$. Multiplying both sides by 2: $6k + 2 < k + 7$. Subtracting $k$ and subtracting 2: $5k < 5$, which gives $k < 1$.",
+  "source": "https://cooksat.com/practice?questionId=4ad2c91b&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8d1fdd5c",
+  "capturedAt": "2026-11-13T22:05:58.694Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A shipping company accepts packages that weigh at least $40$ pounds but no more than $75$ pounds. Which inequality represents this situation, where $w$ is the weight of a package, in pounds, accepted by the company?",
+  "choices": {
+    "A": "$w \\ge 40$",
+    "B": "$w \\ge 75$",
+    "C": "$w \\le 115$",
+    "D": "$40 \\le w \\le 75$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that a package weighs at least $40$ pounds, which means $w \\geq 40$, but no more than $75$ pounds, which means $w \\leq 75$. Therefore, the inequality that represents this situation is $40 \\leq w \\leq 75$.",
+  "source": "https://cooksat.com/practice?questionId=8d1fdd5c&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

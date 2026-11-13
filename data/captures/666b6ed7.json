@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "666b6ed7",
+  "capturedAt": "2026-11-13T22:05:48.016Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A linear inequality in two variables has a boundary line with slope $-2$ that passes through the point $(0, -6)$. The solution region is above the boundary line, and the boundary line is included in the solution. Which of the following inequalities represents this situation?",
+  "choices": {
+    "A": "$y \\ge -2x - 6$",
+    "B": "$y \\ge -2x + 6$",
+    "C": "$y \\le -2x + 6$",
+    "D": "$y \\le -2x - 6$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The boundary line has slope $-2$ and passes through $(0, -6)$, which is the y-intercept. Therefore, the equation of the boundary line is $y = -2x - 6$. Since the solution region is above the line and includes the boundary, the inequality is $y \\geq -2x - 6$.",
+  "source": "https://cooksat.com/practice?questionId=666b6ed7&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

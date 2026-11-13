@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "04a35d7c",
+  "capturedAt": "2026-11-13T22:04:37.813Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Interpret Inequality Solution in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following ordered pairs $(x, y)$ satisfies the inequality $3x + 2y \\le 18$?",
+  "choices": {
+    "A": "$(2, 8)$",
+    "B": "$(4, 3)$",
+    "C": "$(5, 2)$",
+    "D": "$(6, 1)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substituting $x = 4$ and $y = 3$ into the inequality $3x + 2y \\leq 18$ gives $3(4) + 2(3) \\leq 18$, which simplifies to $12 + 6 \\leq 18$, or $18 \\leq 18$. This is true, so the ordered pair $(4, 3)$ satisfies the inequality.",
+  "source": "https://cooksat.com/practice?questionId=04a35d7c&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

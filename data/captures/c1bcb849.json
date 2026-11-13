@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c1bcb849",
+  "capturedAt": "2026-11-13T22:06:29.279Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $x \\le -8$ represents all solutions to the inequality $bx - 19 \\ge 13$, where $b$ is a constant, what is the value of $b$?\n\n$$0$$\n\n$$-4$$",
+  "choices": {},
+  "correctAnswer": "$-4$",
+  "explanation": "The correct answer is $-4$. Adding $19$ to both sides of the inequality $bx - 19 \\geq 13$ gives $bx \\geq 32$. To solve for $x$, both sides must be divided by $b$. If $b$ were positive, dividing would yield $x \\geq \\frac{32}{b}$, which represents solutions greater than or equal to some value, not less than or equal to $-8$ as given. Therefore, $b$ must be negative. When dividing both sides of an inequality by a negative number, the inequality sign reverses, so $bx \\geq 32$ becomes $x \\leq \\frac{32}{b}$. Since it is given that $x \\leq -8$ represents all solutions, it follows that $\\frac{32}{b} = -8$. Multiplying both sides by $b$ gives $32 = -8b$, so $b = -4$. Therefore, the value of $b$ is $-4$.",
+  "source": "https://cooksat.com/practice?questionId=c1bcb849&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

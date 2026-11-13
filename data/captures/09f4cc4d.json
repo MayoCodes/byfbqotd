@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "09f4cc4d",
+  "capturedAt": "2026-11-13T22:04:42.973Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A community group is organizing a meeting. It costs the group a one-time fee of $$45$ to reserve the meeting room and $$8.75$ per person for catering. The group has a budget of $$250$. What is the greatest number of people possible without exceeding the budget?\n\n$$0$$\n\n$$23$$",
+  "choices": {},
+  "correctAnswer": "$23$",
+  "explanation": "The correct answer is $23$. The total cost of the meeting is the one-time reservation fee plus the catering cost per person times the number of people. Let $n$ be the number of people. The expression $45 + 8.75n$ represents the total cost. Since the budget is $$250$, the situation is represented by $45 + 8.75n \\leq 250$. Subtracting $45$ from both sides gives $8.75n \\leq 205$. Dividing both sides by $8.75$ yields approximately $n \\leq 23.428$. Since $n$ must be a whole number of people, rounding down gives the greatest possible number of people as $23$.",
+  "source": "https://cooksat.com/practice?questionId=09f4cc4d&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

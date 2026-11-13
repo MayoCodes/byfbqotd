@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e5eb1eb4",
+  "capturedAt": "2026-11-13T22:06:45.012Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A restaurant offers a discount of $20$% off the price of an order, and then adds a service charge of $$5$. The full price of an order is $p$ dollars. If the full price of an order is at most $$50$, which inequality represents the possible total amount, in dollars, a customer pays for an order at this restaurant?",
+  "choices": {
+    "A": "$0.20p + 5 \\le 45$",
+    "B": "$0.80p \\le 45$",
+    "C": "$0.80p + 5 \\le 50$",
+    "D": "$0.80p + 5 \\le 45$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The restaurant first applies a $20$% discount, so the customer pays $80$% of the full price, which is $0.80p$ dollars. Then a $$5$ service charge is added, making the total amount $0.80p + 5$ dollars. Since the full price $p$ is at most $$50$, we have $p \\leq 50$. Substituting $p = 50$ into the expression gives $0.80(50) + 5 = 40 + 5 = 45$. Therefore, $0.80p + 5 \\leq 45$.",
+  "source": "https://cooksat.com/practice?questionId=e5eb1eb4&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

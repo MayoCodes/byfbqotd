@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6a56c152",
+  "capturedAt": "2026-11-13T22:05:49.728Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Solution from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe shaded region shown represents the solutions to which inequality?",
+  "choices": {
+    "A": "$y > 5x - 2$",
+    "B": "$y > 5x + 2$",
+    "C": "$y < 5x - 2$",
+    "D": "$y < 5x + 2$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The dashed boundary line passes through $(0, -2)$ and $(1, 3)$, so its slope is $\\frac{3 - (-2)}{1 - 0} = 5$ and its y-intercept is $-2$, giving the boundary $y = 5x - 2$. Because the shading lies above the boundary and the line is dashed, the solutions are the points with $y$ greater than $5x - 2$, which is $y > 5x - 2$.",
+  "source": "https://cooksat.com/practice?questionId=6a56c152&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6a56c152/1-014fd602fd34ac06.png",
+      "kind": "diagram"
+    }
+  ]
+}

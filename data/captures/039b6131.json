@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "039b6131",
+  "capturedAt": "2026-11-13T22:04:36.265Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A landscaper charges a base fee of $$150$ plus $$25$ per hour for labor. A client's budget allows them to spend at least $$300$ but no more than $$450$ on landscaping. Which inequality represents all possible values of $h$, the number of hours the landscaper can work while staying within the client's budget?",
+  "choices": {
+    "A": "$6 < h < 12$",
+    "B": "$6 \\le h \\le 12$",
+    "C": "$150 \\le h \\le 300$",
+    "D": "$300 \\le h \\le 450$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The total cost is $150 + 25h$ dollars. The budget constraint requires $300 \\leq 150 + 25h \\leq 450$. Subtracting $150$ from all parts gives $150 \\leq 25h \\leq 300$. Dividing all parts by $25$ gives $6 \\leq h \\leq 12$.",
+  "source": "https://cooksat.com/practice?questionId=039b6131&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

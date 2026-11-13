@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e586be1a",
+  "capturedAt": "2026-11-13T22:06:43.427Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A delivery service charges $$4$ per small package and $$7$ per large package. On a particular route, the total delivery charges must be no more than $$150$. Which inequality represents this situation, where $s$ is the number of small packages and $l$ is the number of large packages delivered on this route?",
+  "choices": {
+    "A": "$4s+7l\\ge 150$",
+    "B": "$4s+7l\\le 150$",
+    "C": "$7s+4l\\le 150$",
+    "D": "$4s\\le 150$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The delivery service charges $$4$ per small package, so $s$ small packages cost $4s$ dollars. It charges $$7$ per large package, so $l$ large packages cost $7l$ dollars. The total charges are $4s+7l$ dollars. Since the total must be no more than $$150$, the inequality is $4s+7l≤150$.",
+  "source": "https://cooksat.com/practice?questionId=e586be1a&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

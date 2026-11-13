@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ba92bd79",
+  "capturedAt": "2026-11-13T22:06:21.849Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Solution from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich ordered pair $(x,y)$ is a solution to the inequality represented by the graph?",
+  "choices": {
+    "A": "$(2,8)$",
+    "B": "$(4,10)$",
+    "C": "$(6,3)$",
+    "D": "$(10,1)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The graph shows the inequality $y > -0.5x + 9$, where the dashed line represents the boundary and the shaded region above the line represents all solutions. A solution to this inequality is an ordered pair $(x,y)$ that satisfies $y > -0.5x + 9$. Substituting $4$ for $x$ and $10$ for $y$ yields $10 > -0.5(4) + 9$, which simplifies to $10 > -2 + 9$, or $10 > 7$. Since this inequality is true, the point $(4,10)$ lies in the shaded region and is a solution to the inequality.",
+  "source": "https://cooksat.com/practice?questionId=ba92bd79&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ba92bd79/1-f633919c11b52f3f.png",
+      "kind": "diagram"
+    }
+  ]
+}

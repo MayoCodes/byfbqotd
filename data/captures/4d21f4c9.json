@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4d21f4c9",
+  "capturedAt": "2026-11-13T22:05:38.494Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Maria has a goal to type at least $120$ pages of a report by the end of the day. She plans to type at an average rate of $15$ pages per hour. What is the minimum number of hours Maria must type to meet her goal?",
+  "choices": {
+    "A": "$8$",
+    "B": "$15$",
+    "C": "$105$",
+    "D": "$120$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Maria types at an average rate of $15$ pages per hour, so the number of pages typed after $h$ hours is $15h$. The goal of typing at least $120$ pages means $15h \\geq 120$. Dividing both sides by $15$ gives $h \\geq 8$. Therefore, the minimum number of hours Maria must type is $8$.",
+  "source": "https://cooksat.com/practice?questionId=4d21f4c9&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

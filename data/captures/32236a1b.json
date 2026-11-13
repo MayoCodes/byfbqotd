@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "32236a1b",
+  "capturedAt": "2026-11-13T22:05:20.180Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA phone company offers two data plans as shown in the table. Let $g$ represent the number of gigabytes (GB) of data used in a month. For what values of $g$ is Plan B less expensive than Plan A?",
+  "choices": {
+    "A": "$g < 6$",
+    "B": "$g > 6$",
+    "C": "$g < 14$",
+    "D": "$g > 14$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The total cost for Plan A is $20 + 8g$ dollars, and the total cost for Plan B is $50 + 3g$ dollars. Plan B is less expensive than Plan A when $50 + 3g < 20 + 8g$. Subtracting $3g$ from both sides gives $50 < 20 + 5g$. Subtracting $20$ from both sides gives $30 < 5g$. Dividing both sides by $5$ gives $6 < g$, which is equivalent to $g > 6$.",
+  "source": "https://cooksat.com/practice?questionId=32236a1b&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/32236a1b/1-17d1052fe5a25c58.png",
+      "kind": "diagram"
+    }
+  ]
+}

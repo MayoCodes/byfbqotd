@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1a7a8561",
+  "capturedAt": "2026-11-13T22:04:54.932Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Verify Solutions by Substitution",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which ordered pair $(x,y)$ is a solution to the system of inequalities $y>2x+1$ and $y<-x+5$?",
+  "choices": {
+    "A": "$(0,3)$",
+    "B": "$(1,2)$",
+    "C": "$(2,1)$",
+    "D": "$(3,0)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "For $(0,3)$ to be a solution, it must satisfy both inequalities. Testing $y>2x+1$: $3>2(0)+1=3>1$, which is true. Testing $y<-x+5$: $3<-(0)+5=3<5$, which is true. Therefore, $(0,3)$ satisfies both inequalities.",
+  "source": "https://cooksat.com/practice?questionId=1a7a8561&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

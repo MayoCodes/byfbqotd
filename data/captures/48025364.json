@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "48025364",
+  "capturedAt": "2026-11-13T22:05:33.851Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The total cost, in dollars, to rent a kayak consists of a $$15$ service fee and an $$8$ per hour rental fee. A person rents a kayak for $h$ hours and intends to spend a maximum of $$95$ to rent the kayak. Which inequality represents this situation?",
+  "choices": {
+    "A": "$8h \\le 95$",
+    "B": "$8 + 15h \\le 95$",
+    "C": "$15h \\le 95$",
+    "D": "$15 + 8h \\le 95$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The rental fee depends on the number of hours the kayak is rented. Multiplying $h$ hours by $8$ dollars per hour yields a rental fee of $8h$ dollars. The total cost consists of this rental fee plus the $15$ dollar service fee, giving a total cost of $15 + 8h$ dollars. Since the person intends to spend a maximum of $95$ dollars, the total cost must be at most $95$ dollars. Therefore, the inequality $15 + 8h \\leq 95$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=48025364&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

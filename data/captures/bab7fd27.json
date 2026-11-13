@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bab7fd27",
+  "capturedAt": "2026-11-13T22:06:25.562Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A library is purchasing e-readers for its patrons. Each e-reader costs $$185$, and an $8%$ tax is added to the total cost of the order. If the library can spend no more than $$36,000$ on the e-readers, including tax, what is the maximum number of e-readers that the library can purchase?\n\n$$0$$\n\n$$180$$",
+  "choices": {},
+  "correctAnswer": "$180$",
+  "explanation": "The correct answer is $180$. Let $n$ be the number of e-readers purchased. Each e-reader costs $$185$, so the pre-tax cost is $$185n$. An $8\\%$ tax is added, so the total cost including tax is $185n \\times 1.08$, which equals $199.80n$. Since the library can spend no more than $$36{,}000$, the situation is represented by $199.80n \\leq 36{,}000$. Dividing both sides by $199.80$ gives $n \\leq 180.18$. Since the number of e-readers must be a whole number, rounding down gives the maximum number of e-readers the library can purchase, which is $180$.",
+  "source": "https://cooksat.com/practice?questionId=bab7fd27&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

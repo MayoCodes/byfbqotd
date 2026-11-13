@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "25eaaf43",
+  "capturedAt": "2026-11-13T22:05:10.211Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The length of a rectangular garden bed is $38$ centimeters and the width is $x$ centimeters. The perimeter is at most $200$ centimeters. Which inequality represents this situation?",
+  "choices": {
+    "A": "$2x + 38 \\le 200$",
+    "B": "$2x + 38 \\ge 200$",
+    "C": "$2x + 76 \\le 200$",
+    "D": "$2x + 76 \\ge 200$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The perimeter of a rectangle is the sum of twice the length and twice the width. Since the length is $38$ centimeters and the width is $x$ centimeters, the perimeter is $2(38) + 2x$, or $76 + 2x$ centimeters. Because the perimeter is at most $200$ centimeters, the perimeter must be less than or equal to $200$. Therefore, the inequality $2x + 76 \\leq 200$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=25eaaf43&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

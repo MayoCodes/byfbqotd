@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ea88bd99",
+  "capturedAt": "2026-11-13T22:06:48.279Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a set of three consecutive integers, where the integers are ordered from least to greatest, the first integer is represented by $n$. The sum of $9$ and the third integer is greater than the product of $12$ and the second integer. Which inequality represents this situation?",
+  "choices": {
+    "A": "$9 + (n + 1) > 12(n + 2)$",
+    "B": "$9 + (n + 1) < 12(n + 2)$",
+    "C": "$9 + (n + 2) < 12(n + 1)$",
+    "D": "$9 + (n + 2) > 12(n + 1)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that in a set of three consecutive integers ordered from least to greatest, the first integer is represented by $n$. Therefore, the second integer is $n + 1$ and the third integer is $n + 2$. The sum of $9$ and the third integer can be represented by the expression $9 + (n + 2)$. The product of $12$ and the second integer can be represented by the expression $12(n + 1)$. It's given that the sum of $9$ and the third integer is greater than the product of $12$ and the second integer. Therefore, the inequality $9 + (n + 2) > 12(n + 1)$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=ea88bd99&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ae039893",
+  "capturedAt": "2026-11-13T22:06:13.759Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A volunteer must collect at least $250$ canned goods for a food drive. The volunteer collects $45$ canned goods on Saturday and collects enough additional canned goods on Sunday to meet the requirement. Which inequality represents the number of additional canned goods, $c$, that the volunteer collects on Sunday?",
+  "choices": {
+    "A": "$c + 45 \\le 250$",
+    "B": "$c + 45 \\ge 250$",
+    "C": "$c - 45 \\le 250$",
+    "D": "$c - 45 \\ge 250$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the volunteer must collect at least $250$ canned goods. The volunteer collects $45$ canned goods on Saturday and $c$ additional canned goods on Sunday. The total number of canned goods is $c + 45$. Since the volunteer needs at least $250$, this total must be greater than or equal to $250$. Therefore, the inequality $c + 45 \\geq 250$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=ae039893&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

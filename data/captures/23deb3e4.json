@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "23deb3e4",
+  "capturedAt": "2026-11-13T22:05:03.160Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Verify Solutions by Substitution",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y \\le -2x + 10$$\n\n$$y \\ge x - 2$$\n\nWhich of the following ordered pairs $(x, y)$ is a solution to the given system of inequalities?",
+  "choices": {
+    "A": "$(0, -3)$",
+    "B": "$(2, 3)$",
+    "C": "$(4, 5)$",
+    "D": "$(5, 1)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To verify $(2, 3)$ is a solution, substitute into both inequalities. For the first inequality: $3 \\leq -2(2) + 10 = -4 + 10 = 6$, and $3 \\leq 6$ is true. For the second inequality: $3 \\geq 2 - 2 = 0$, and $3 \\geq 0$ is true. Since $(2, 3)$ satisfies both inequalities, it is a solution to the system.",
+  "source": "https://cooksat.com/practice?questionId=23deb3e4&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "19fa8e57",
+  "capturedAt": "2026-11-13T22:04:53.213Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A number $x$ is at most $5$ less than $4$ times the value of $y$. If the value of $y$ is $-3$, what is the greatest possible value of $x$?\n\n$$0$$\n\n$$-17$$",
+  "choices": {},
+  "correctAnswer": "$-17$",
+  "explanation": "The correct answer is $-17$. It's given that a number $x$ is at most $5$ less than $4$ times the value of $y$. Therefore, $x$ is less than or equal to $5$ less than $4$ times the value of $y$. The expression $4y$ represents $4$ times the value of $y$. The expression $4y - 5$ represents $5$ less than $4$ times the value of $y$. Therefore, $x$ is less than or equal to $4y - 5$. This can be shown by the inequality $x \\leq 4y - 5$. Substituting $-3$ for $y$ in this inequality yields $x \\leq 4(-3) - 5$, or $x \\leq -17$. Therefore, if the value of $y$ is $-3$, the greatest possible value of $x$ is $-17$.",
+  "source": "https://cooksat.com/practice?questionId=19fa8e57&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

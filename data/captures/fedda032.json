@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fedda032",
+  "capturedAt": "2026-11-13T22:06:57.401Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A bakery makes cakes and pies. Each cake requires $3$ cups of flour and $2$ eggs. Each pie requires $2$ cups of flour and $4$ eggs. The bakery has at most $60$ cups of flour and at most $80$ eggs available. If the bakery must make at least $5$ cakes, what is the maximum number of pies the bakery can make?",
+  "choices": {
+    "A": "$15$",
+    "B": "$17$",
+    "C": "$20$",
+    "D": "$22$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Let $c$ represent the number of cakes and $p$ represent the number of pies. The constraints are: $3c + 2p \\leq 60$ (flour), $2c + 4p \\leq 80$ (eggs), and $c \\geq 5$. To maximize pies, use the minimum number of cakes: $c = 5$. From the flour constraint: $3(5) + 2p \\leq 60$, so $2p \\leq 45$, giving $p \\leq 22.5$. From the egg constraint: $2(5) + 4p \\leq 80$, so $4p \\leq 70$, giving $p \\leq 17.5$. Since $p$ must be a whole number and must satisfy both constraints, the maximum is $p = 17$. Verification: $3(5) + 2(17) = 49 \\leq 60$ and $2(5) + 4(17) = 78 \\leq 80$.",
+  "source": "https://cooksat.com/practice?questionId=fedda032&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

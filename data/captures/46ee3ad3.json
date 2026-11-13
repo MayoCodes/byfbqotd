@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "46ee3ad3",
+  "capturedAt": "2026-11-13T22:05:32.319Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Over the course of a day, the temperature inside a greenhouse varied between $62$ degrees Fahrenheit and $84$ degrees Fahrenheit. Which inequality best represents this situation, where $t$ is the temperature, in degrees Fahrenheit, inside the greenhouse during this day?",
+  "choices": {
+    "A": "$t \\le 22$",
+    "B": "$t \\le 62$",
+    "C": "$t \\le 84$",
+    "D": "$62 \\le t \\le 84$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the temperature inside a greenhouse varied between $62$ degrees Fahrenheit and $84$ degrees Fahrenheit, and that $t$ represents this temperature. It follows that the temperature was at least $62$, which means $t \\geq 62$, and was at most $84$, which means $t \\leq 84$. Therefore, the inequality that best represents this situation is $62 \\leq t \\leq 84$.",
+  "source": "https://cooksat.com/practice?questionId=46ee3ad3&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

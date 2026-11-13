@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "be2838c9",
+  "capturedAt": "2026-11-13T22:06:27.181Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the price per shirt at five different stores. A customer wants to buy $8$ shirts and has a budget of $$140$. The customer also needs to pay a $$10$ shipping fee regardless of which store is chosen. At how many of these stores can the customer buy $8$ shirts without exceeding the budget?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The total cost is $8p + 10$, where $p$ is the price per shirt. The customer's budget requires $8p + 10 \\leq 140$. Subtracting $10$ from both sides gives $8p \\leq 130$. Dividing both sides by $8$ gives $p \\leq 16.25$. From the table, the stores with prices at or below $$16.25$ are Store A ($$12$) and Store B ($$15$). Therefore, the customer can buy $8$ shirts without exceeding the budget at $2$ stores.",
+  "source": "https://cooksat.com/practice?questionId=be2838c9&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/be2838c9/1-fcec3dffc55bb35a.png",
+      "kind": "diagram"
+    }
+  ]
+}

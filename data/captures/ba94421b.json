@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ba94421b",
+  "capturedAt": "2026-11-13T22:06:23.877Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Verify Solutions by Substitution",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y \\ge 2x$$\n\n$$y \\ge -2x$$\n\nWhich of the following ordered pairs $(x, y)$ is a solution to the system of inequalities shown?",
+  "choices": {
+    "A": "$(0, -3)$",
+    "B": "$(-1, 0)$",
+    "C": "$(0, 3)$",
+    "D": "$(1, 0)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A solution to the system of inequalities must satisfy both inequalities. For the ordered pair $(0, 3)$, substituting into $y \\geq 2x$ gives $3 \\geq 2(0)$, or $3 \\geq 0$, which is true. Substituting into $y \\geq -2x$ gives $3 \\geq -2(0)$, or $3 \\geq 0$, which is also true. Therefore, the ordered pair $(0, 3)$ is a solution to the given system of inequalities.",
+  "source": "https://cooksat.com/practice?questionId=ba94421b&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

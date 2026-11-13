@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dc84709c",
+  "capturedAt": "2026-11-13T22:06:38.664Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "When several packages are loaded onto a pallet, the total weight of the pallet is the sum of the weights of the individual packages.\n\nA certain pallet is loaded with $7$ packages, where the weight of each package is positive. This pallet has a total weight of $140$ pounds. The total weight of $3$ packages on this pallet is $100$ pounds. Which inequality best represents all possible values of the weight $x$, in pounds, of one of the other $4$ packages on this pallet?",
+  "choices": {
+    "A": "$0 < x < 10$",
+    "B": "$0 < x < 40$",
+    "C": "$10 < x < 40$",
+    "D": "$10 < x < 140$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that a pallet is loaded with $7$ packages and that the total weight of the pallet is the sum of the weights of these packages. The total weight of the pallet is $140$ pounds, and the total weight of $3$ of the packages is $100$ pounds. Therefore, the combined weight of the other $4$ packages is $140 - 100$, or $40$ pounds. It's given that $x$ represents the weight, in pounds, of one of these $4$ packages. Since the weight of each package is positive, it follows that $x > 0$. The other $3$ packages also have positive weights, so their combined weight is greater than $0$ pounds. Therefore, the weight $x$ of one package must be less than the total $40$ pounds available for all $4$ packages. This can be represented by $x < 40$. Combining these conditions yields $0 < x < 40$.",
+  "source": "https://cooksat.com/practice?questionId=dc84709c&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

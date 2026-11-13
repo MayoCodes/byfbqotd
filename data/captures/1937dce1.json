@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1937dce1",
+  "capturedAt": "2026-11-13T22:04:51.643Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The width of a rectangle is $35$ centimeters and the length is $x$ centimeters. The perimeter is at most $180$ centimeters. Which inequality represents this situation?",
+  "choices": {
+    "A": "$2x + 35 \\le 180$",
+    "B": "$2x + 35 \\ge 180$",
+    "C": "$2x + 70 \\le 180$",
+    "D": "$2x + 70 \\ge 180$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The perimeter of a rectangle is equal to the sum of $2$ times its length and $2$ times its width. It's given that the rectangle's width is $35$ centimeters and the length is $x$ centimeters. Therefore, the perimeter, in centimeters, is $2x + 2(35)$, or $2x + 70$. It's given that the perimeter is at most $180$ centimeters; therefore, $2x + 70 \\leq 180$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=1937dce1&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

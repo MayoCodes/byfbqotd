@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a57f1835",
+  "capturedAt": "2026-11-13T22:06:10.367Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Marcus joined a volunteer firefighter program. Each new recruit is required to complete at least $16$ of the $20$ scheduled training sessions in a season to remain in the program. Which inequality represents the number of training sessions, $x$, Marcus must complete in a season to remain in the program?",
+  "choices": {
+    "A": "$x \\le 16$",
+    "B": "$16 \\le x \\le 20$",
+    "C": "$x \\ge 36$",
+    "D": "$20 \\le x \\le 36$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $x$ represents the number of training sessions Marcus must complete in a season to remain in the program. It's also given that each new recruit is required to complete at least $16$ of the $20$ scheduled training sessions. Since Marcus must complete at least $16$ sessions, it follows that $x \\geq 16$. Additionally, since there are only $20$ scheduled sessions total, the maximum number of sessions Marcus can complete is $20$, so $x \\leq 20$. Combining these constraints gives the compound inequality $16 \\leq x \\leq 20$, which represents the number of sessions Marcus must complete to remain in the program.",
+  "source": "https://cooksat.com/practice?questionId=a57f1835&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9d15cad0",
+  "capturedAt": "2026-11-13T22:06:05.582Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Interpret Inequality Solution in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following ordered pairs $(x, y)$ satisfies the inequality $2x + y < 10$?\n\nI. $(2, 3)$\n\nII. $(1, 5)$\n\nIII. $(4, 2)$",
+  "choices": {
+    "A": "II only",
+    "B": "I and II only",
+    "C": "I and III only",
+    "D": "I, II, and III"
+  },
+  "correctAnswer": "B",
+  "explanation": "Substituting point I $(2, 3)$ gives $2(2) + 3 = 7 < 10$, which is true. Substituting point II $(1, 5)$ gives $2(1) + 5 = 7 < 10$, which is true. Substituting point III $(4, 2)$ gives $2(4) + 2 = 10 < 10$, which is false. Therefore, only points I and II satisfy the inequality.",
+  "source": "https://cooksat.com/practice?questionId=9d15cad0&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

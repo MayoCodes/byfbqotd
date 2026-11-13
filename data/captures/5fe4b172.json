@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5fe4b172",
+  "capturedAt": "2026-11-13T22:05:46.482Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "For a hiking trip, $90$ granola bars are needed. Granola bars are sold in boxes of $8$. What is the minimum number of boxes that should be bought for the hiking trip?\n\n$$0$$\n\n$$12$$",
+  "choices": {},
+  "correctAnswer": "$12$",
+  "explanation": "The correct answer is $12$. Let $b$ represent the number of boxes of granola bars that should be bought for the hiking trip. It's given that granola bars are sold in boxes of $8$. Therefore, $8b$ represents the number of granola bars that should be bought for the hiking trip. It's also given that $90$ granola bars are needed; therefore, $8b \\geq 90$. Dividing both sides of this inequality by $8$ yields $b \\geq \\frac{90}{8}$, or $b \\geq 11.25$. Since the number of boxes of granola bars must be a whole number, the minimum number of boxes that should be bought for the hiking trip is $12$.",
+  "source": "https://cooksat.com/practice?questionId=5fe4b172&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

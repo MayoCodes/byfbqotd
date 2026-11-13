@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b472b35",
+  "capturedAt": "2026-11-13T22:05:17.030Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Select Correct Inequality",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2s + t \\le 40$$\n\nAn isosceles triangle has two sides of length $s$ and a base of length $t$. The inequality gives the possible values of $s$ and $t$ for which the perimeter of this triangle is less than or equal to $40$. Which statement is the best interpretation of $(s, t) = (7, 5)$ in this context?",
+  "choices": {
+    "A": "If the triangle has two sides of length $5$ and a base of length $7$, its perimeter is less than or equal to $40$.",
+    "B": "If the triangle has two sides of length $5$ and a base of length $7$, its perimeter is greater than or equal to $40$.",
+    "C": "If the triangle has two sides of length $7$ and a base of length $5$, its perimeter is less than or equal to $40$.",
+    "D": "If the triangle has two sides of length $7$ and a base of length $5$, its perimeter is greater than or equal to $40$."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that an isosceles triangle has two sides of length $s$ and a base of length $t$, and the inequality $2s + t \\leq 40$ gives the possible values of $s$ and $t$ for which the perimeter of the triangle is less than or equal to $40$. To determine the best interpretation of $(s, t) = (7, 5)$, the values can be substituted into the given inequality. Substituting $7$ for $s$ and $5$ for $t$ yields $2(7) + 5 \\leq 40$, which is equivalent to $14 + 5 \\leq 40$, or $19 \\leq 40$. Since this inequality is true, if the triangle has two sides of length $7$ and a base of length $5$, its perimeter is less than or equal to $40$.",
+  "source": "https://cooksat.com/practice?questionId=2b472b35&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

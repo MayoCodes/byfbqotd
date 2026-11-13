@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4cdace1b",
+  "capturedAt": "2026-11-13T22:05:36.946Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A teacher has a budget of $$150$ to purchase school supplies. The teacher must purchase a minimum of $25$ items to receive a bulk discount. Notebooks cost $$4$ each and pens cost $$2$ each. What is the maximum number of notebooks the teacher can purchase while staying within the budget and receiving the bulk discount?\n\n$$0$$\n\n$$37$$",
+  "choices": {},
+  "correctAnswer": "$37$",
+  "explanation": "The correct answer is $37$. Let $n$ represent the number of notebooks and $p$ represent the number of pens. The total cost is $4n + 2p$, and the budget constraint gives $4n + 2p \\leq 150$. The bulk discount requirement gives $n + p \\geq 25$. To maximize notebooks, minimize pens. If $n \\geq 25$, then $p$ can be $0$, and the budget constraint becomes $4n \\leq 150$, giving $n \\leq 37.5$. Since notebooks must be whole numbers, the maximum is $n = 37$.",
+  "source": "https://cooksat.com/practice?questionId=4cdace1b&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

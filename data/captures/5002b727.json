@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5002b727",
+  "capturedAt": "2026-11-13T22:05:40.034Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Maria is working this summer with a landscaping company. She earned $$12$ per hour for the first $5$ hours she worked this week. After that, her supervisor increased her pay to $$15$ per hour for the rest of the week. Maria saves $80%$ of her earnings each week. What is the least number of hours she must work the rest of the week to save at least $$360$ for the week?",
+  "choices": {
+    "A": "$19$",
+    "B": "$24$",
+    "C": "$26$",
+    "D": "$31$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Maria earned $$12$ per hour for the first $5$ hours, so she earned $12 \\times 5 =$$$60$ during that period. Let $x$ be the number of hours she works for the rest of the week at $$15$ per hour. Her total earnings for the week will be $15x + 60$ dollars. Since she saves $80\\%$ of her earnings, her savings will be $0.8(15x + 60)$ dollars. The condition that she saves at least $$360$ gives the inequality $0.8(15x + 60) \\geq 360$. Dividing both sides by $0.8$ yields $15x + 60 \\geq 450$. Subtracting $60$ from both sides gives $15x \\geq 390$, and dividing by $15$ yields $x \\geq 26$. Therefore, the least number of hours Maria must work the rest of the week is $26$.",
+  "source": "https://cooksat.com/practice?questionId=5002b727&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

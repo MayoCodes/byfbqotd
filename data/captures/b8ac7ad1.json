@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b8ac7ad1",
+  "capturedAt": "2026-11-13T22:06:18.628Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A community food drive has a goal of collecting no more than $4,200$ cans of food. If the drive has already collected $1,645$ cans, what is the maximum number of additional cans that can be collected?",
+  "choices": {
+    "A": "$1,645$",
+    "B": "$2,555$",
+    "C": "$4,200$",
+    "D": "$5,845$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The food drive has a goal of collecting no more than $4{,}200$ cans, and $1{,}645$ cans have already been collected. Let $x$ represent the number of additional cans collected. After collecting $x$ more cans, the total number of cans will be $1{,}645 + x$. Since the total must be no more than $4{,}200$, it follows that $1{,}645 + x \\leq 4{,}200$. Subtracting $1{,}645$ from both sides yields $x \\leq 2{,}555$. Therefore, the maximum number of additional cans that can be collected is $2{,}555$.",
+  "source": "https://cooksat.com/practice?questionId=b8ac7ad1&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

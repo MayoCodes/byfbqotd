@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5fa12c29",
+  "capturedAt": "2026-11-13T22:05:44.960Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "On a certain day in April, the lowest recorded temperature in a city was $8$ degrees Celsius and the highest recorded temperature was $23$ degrees Celsius. Which inequality is true for all values of $t$, where $t$ represents any temperature, in degrees Celsius, recorded in the city on this day?",
+  "choices": {
+    "A": "$t \\le 8$",
+    "B": "$t \\le 15$",
+    "C": "$t \\ge 23$",
+    "D": "$8 \\le t \\le 23$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the lowest recorded temperature in the city on this day was $8$ degrees Celsius and the highest recorded temperature was $23$ degrees Celsius. It follows that any temperature $t$, in degrees Celsius, recorded in the city on this day must be at least $8$ and at most $23$. Therefore, the inequality $8 \\leq t \\leq 23$ is true for all values of $t$ representing temperatures recorded in the city on this day.",
+  "source": "https://cooksat.com/practice?questionId=5fa12c29&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

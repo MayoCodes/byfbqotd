@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b147ce98",
+  "capturedAt": "2026-11-13T22:06:17.015Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A company charges $$80$ per day plus a $1$-time fee of $x$ dollars to rent a piece of equipment. If the charge to rent the equipment for $2$ days is less than $$190$, what is the maximum integer value of $x$ if the company also requires that $x$ must satisfy the inequality $2x + 50 \\ge 108$?",
+  "choices": {
+    "A": "$29$",
+    "B": "$30$",
+    "C": "$39$",
+    "D": "$40$"
+  },
+  "correctAnswer": "A",
+  "explanation": "From the rental cost condition: $2(80) + x < 190$, so $160 + x < 190$, giving $x < 30$. From the company requirement: $2x + 50 \\geq 108$, so $2x \\geq 58$, giving $x \\geq 29$. Combining these constraints: $29 \\leq x < 30$. The maximum integer value satisfying both inequalities is $x = 29$.",
+  "source": "https://cooksat.com/practice?questionId=b147ce98&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

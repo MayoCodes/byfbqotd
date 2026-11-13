@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c20c3a85",
+  "capturedAt": "2026-11-13T22:06:30.818Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A used bookstore sells used books for $$8$ each and used magazines for $$6$ each. Marisol can spend at most $$90$ at the bookstore. If Marisol buys $b$ used books and $m$ used magazines, which of the following must be true?",
+  "choices": {
+    "A": "$6b + 8m \\le 90$",
+    "B": "$6b + 8m \\ge 90$",
+    "C": "$8b + 6m \\le 90$",
+    "D": "$8b + 6m \\ge 90$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since each used book costs $$8$ and Marisol buys $b$ used books, the expression $8b$ represents the amount she spends on books. Since each used magazine costs $$6$ and Marisol buys $m$ used magazines, the expression $6m$ represents the amount she spends on magazines. Therefore, the sum $8b + 6m$ represents the total amount Marisol spends at the bookstore. Since Marisol can spend at most $$90$, the total amount she spends must be less than or equal to $90$. Thus, $8b + 6m \\leq 90$.",
+  "source": "https://cooksat.com/practice?questionId=c20c3a85&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

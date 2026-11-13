@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "780fa9f9",
+  "capturedAt": "2026-11-13T22:05:53.296Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A cargo van can carry a maximum weight of $4,820$ pounds. During one trip, the van will be used to carry a $145$-pound toolbox as well as several boxes. Some of these boxes weigh $18$ pounds each and the others weigh $45$ pounds each. Which inequality represents the possible combinations of the number of $18$-pound boxes, $x$, and the number of $45$-pound boxes, $y$, the van can carry during one trip if only the toolbox and the boxes are being carried?",
+  "choices": {
+    "A": "$18x + 45y \\le 4,675$",
+    "B": "$18x + 45y \\ge 4,675$",
+    "C": "$45x + 18y \\le 4,820$",
+    "D": "$45x + 18y \\ge 4,820$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that a cargo van can carry a maximum of $4{,}820$ pounds. It's also given that during one trip, the van will carry a $145$-pound toolbox as well as several boxes. It follows that the van can carry at most $4{,}820 - 145$, or $4{,}675$, pounds of boxes. Since $x$ represents the number of $18$-pound boxes, the expression $18x$ represents the weight of the $18$-pound boxes. Since $y$ represents the number of $45$-pound boxes, $45y$ represents the weight of the $45$-pound boxes. Therefore, $18x + 45y$ represents the total weight of the boxes the van can carry. Since the van can carry at most $4{,}675$ pounds of boxes, the total weight of the boxes must be less than or equal to $4{,}675$ pounds, or $18x + 45y \\leq 4{,}675$.",
+  "source": "https://cooksat.com/practice?questionId=780fa9f9&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

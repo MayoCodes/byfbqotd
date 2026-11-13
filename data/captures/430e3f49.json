@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "430e3f49",
+  "capturedAt": "2026-11-13T22:05:28.501Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Solution from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe shaded region shown represents the solutions to which inequality?",
+  "choices": {
+    "A": "$y < 2 - 3 x$",
+    "B": "$y < 2 + 3 x$",
+    "C": "$y > 2 - 3 x$",
+    "D": "$y > 2 + 3 x$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The equation for the line representing the boundary of the shaded region can be written in slope-intercept form $y = b + m x$, where $m$ is the slope and $\\left( 0 , b \\right)$ is the y-intercept of the line. For the graph shown, the boundary line passes through the points $\\left( 0 , 2 \\right)$ and $\\left( 1 , - 1 \\right)$. Given two points on a line, $\\left( x_{1} , y_{1} \\right)$ and $\\left( x_{2} , y_{2} \\right)$, the slope can be calculated using $m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. Substituting the points yields $m = \\frac{- 1 - 2}{1 - 0}$, which is equivalent to $m = \\frac{- 3}{1}$, or $m = - 3$. Since the point $\\left( 0 , 2 \\right)$ represents the y-intercept, $b = 2$. Substituting $- 3$ for $m$ and $2$ for $b$ in $y = b + m x$ yields $y = 2 - 3 x$ as the equation of the boundary line. Since the boundary is dashed and the shaded region represents all points above this line, the shaded region represents the solutions to the inequality $y > 2 - 3 x$.",
+  "source": "https://cooksat.com/practice?questionId=430e3f49&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/430e3f49/1-670cf84b941f0255.png",
+      "kind": "diagram"
+    }
+  ]
+}

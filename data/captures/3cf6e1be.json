@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3cf6e1be",
+  "capturedAt": "2026-11-13T22:05:25.295Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The minimum value of $y$ is $15$ less than $8$ times another number $p$. Which inequality shows the possible values of $y$?",
+  "choices": {
+    "A": "$y \\le 15 - 8p$",
+    "B": "$y \\le 8p - 15$",
+    "C": "$y \\ge 15 - 8p$",
+    "D": "$y \\ge 8p - 15$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the minimum value of $y$ is $15$ less than $8$ times another number $p$. Therefore, the possible values of $y$ are all greater than or equal to the value of $15$ less than $8$ times $p$. The value of $8$ times $p$ is given by the expression $8p$. The value of $15$ less than $8p$ is given by the expression $8p - 15$. Therefore, the possible values of $y$ are all greater than or equal to $8p - 15$. This can be shown by the inequality $y \\geq 8p - 15$.",
+  "source": "https://cooksat.com/practice?questionId=3cf6e1be&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

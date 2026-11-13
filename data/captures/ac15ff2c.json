@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ac15ff2c",
+  "capturedAt": "2026-11-13T22:06:11.961Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Verify Solutions by Substitution",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A company has two production constraints: the total number of hours used by Machine A and Machine B cannot exceed $50$ hours, and Machine B must run at least $5$ hours more than four times the hours of Machine A. If Machine A runs for $x$ hours and Machine B runs for $y$ hours, which of the following points $(x, y)$ satisfies both constraints?",
+  "choices": {
+    "A": "$(8, 37)$",
+    "B": "$(10, 30)$",
+    "C": "$(12, 35)$",
+    "D": "$(15, 25)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The constraints are $x + y \\leq 50$ and $y \\geq 4x + 5$. For $(8, 37)$: First constraint: $8 + 37 = 45 \\leq 50$. Second constraint: $37 \\geq 4(8) + 5 = 37$. Both satisfied.",
+  "source": "https://cooksat.com/practice?questionId=ac15ff2c&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

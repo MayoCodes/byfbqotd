@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fa7833cf",
+  "capturedAt": "2026-11-13T22:06:55.797Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A shipping company charges a base fee of $b$ dollars plus $$2$ per pound for packages. The total cost $C$ in dollars to ship a package weighing $w$ pounds is given by $C = 2w + b$. If the company requires that $C \\le 50$ and $w \\ge 8$, what is the maximum value of $b$ for which at least one valid shipping option exists?",
+  "choices": {
+    "A": "$30$",
+    "B": "$34$",
+    "C": "$36$",
+    "D": "$42$"
+  },
+  "correctAnswer": "B",
+  "explanation": "For a valid shipping option to exist, we need $C \\leq 50$ and $w \\geq 8$ to be simultaneously satisfiable. Substituting $C = 2w + b$ into $C \\leq 50$ gives $2w + b \\leq 50$, or $w \\leq \\frac{50 - b}{2}$. For both $w \\geq 8$ and $w \\leq \\frac{50 - b}{2}$ to have a solution, we need $8 \\leq \\frac{50 - b}{2}$. Multiplying both sides by $2$ gives $16 \\leq 50 - b$, so $b \\leq 34$. The maximum value of $b$ is $34$.",
+  "source": "https://cooksat.com/practice?questionId=fa7833cf&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

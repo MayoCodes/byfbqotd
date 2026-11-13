@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b0bd06c4",
+  "capturedAt": "2026-11-13T22:06:15.295Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A freight elevator can safely carry a cart loaded with crates if the combined weight of the cart and the crates it contains is no more than $6,000$ pounds. What is the maximum number of crates the elevator can carry on a cart with a weight of $350$ pounds if each crate weighs $85$ pounds?",
+  "choices": {
+    "A": "$66$",
+    "B": "$67$",
+    "C": "$70$",
+    "D": "$71$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The combined weight of the cart and the crates is $350 + 85c$ pounds, where $c$ is the number of crates. Since this combined weight must be no more than $6{,}000$ pounds, the possible numbers of crates are given by $350 + 85c \\leq 6{,}000$. Subtracting $350$ from both sides yields $85c \\leq 5{,}650$. Dividing both sides by $85$ yields $c \\leq \\frac{5{,}650}{85}$, or approximately $c \\leq 66.47$. Since $c$ must be a whole number, the maximum number of crates the elevator can carry is $66$.",
+  "source": "https://cooksat.com/practice?questionId=b0bd06c4&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

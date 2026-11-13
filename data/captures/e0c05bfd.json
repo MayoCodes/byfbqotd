@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e0c05bfd",
+  "capturedAt": "2026-11-13T22:06:41.863Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Verify Solutions by Substitution",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A quality control process requires that the temperature $T$, in degrees Celsius, of a chemical reaction must satisfy both $T \\ge 2k + 15$ and $T < 3k - 5$, where $k$ is a constant that depends on the chemical composition. For which of the following values of $k$ does this system of inequalities have at least one solution?",
+  "choices": {
+    "A": "$k < 10$",
+    "B": "$k > 10$",
+    "C": "$k > 20$",
+    "D": "$k < 20$"
+  },
+  "correctAnswer": "C",
+  "explanation": "For the system to have solutions, we need values of $T$ that satisfy both inequalities simultaneously. This requires the lower bound to be less than the upper bound: $2k + 15 < 3k - 5$. Solving this inequality: subtract $2k$ from both sides to get $15 < k - 5$, then add $5$ to both sides to get $20 < k$, or $k > 20$. Therefore, the system has solutions when $k > 20$.",
+  "source": "https://cooksat.com/practice?questionId=e0c05bfd&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

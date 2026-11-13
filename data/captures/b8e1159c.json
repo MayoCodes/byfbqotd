@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b8e1159c",
+  "capturedAt": "2026-11-13T22:06:20.229Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A delivery truck can carry a maximum weight of $2,000$ pounds. The truck will be loaded with $s$ small packages weighing $12$ pounds each and $l$ large packages weighing $35$ pounds each. Additionally, the truck must carry $140$ pounds of required equipment. Which inequality represents all possible combinations of small and large packages the truck can carry?",
+  "choices": {
+    "A": "$12s + 35l \\le 2,140$",
+    "B": "$12s + 35l \\le 2,000$",
+    "C": "$12s + 35l \\ge 1,860$",
+    "D": "$12s + 35l \\le 1,860$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The total weight of packages is $12s + 35l$ pounds. This weight, plus the required $140$ pounds of equipment, must not exceed the $2{,}000$-pound capacity. So $(12s + 35l) + 140 \\leq 2{,}000$, which simplifies to $12s + 35l \\leq 1{,}860$.",
+  "source": "https://cooksat.com/practice?questionId=b8e1159c&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

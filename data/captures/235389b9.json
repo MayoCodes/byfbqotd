@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "235389b9",
+  "capturedAt": "2026-11-13T22:05:01.297Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Solution from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe shaded region shown represents solutions to an inequality. Which ordered pair $(x, y)$ is a solution to this inequality?",
+  "choices": {
+    "A": "$(-3, 0)$",
+    "B": "$(0, -3)$",
+    "C": "$(0, 3)$",
+    "D": "$(5, 0)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since the shaded region shown represents solutions to an inequality, an ordered pair $\\left(x, y\\right)$ is a solution to the inequality if it is represented by a point in the shaded region. Of the given choices, only $\\left(5, 0\\right)$ lies in the shaded region. Therefore, $\\left(5, 0\\right)$ is a solution to the inequality.",
+  "source": "https://cooksat.com/practice?questionId=235389b9&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/235389b9/1-68fbea4ca3d3571a.png",
+      "kind": "diagram"
+    }
+  ]
+}

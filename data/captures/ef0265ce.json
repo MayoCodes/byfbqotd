@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ef0265ce",
+  "capturedAt": "2026-11-13T22:06:52.693Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The typical salinity of ocean water is between $32.5$ and $34.2$ parts per thousand, inclusive. A sample of ocean water has a salinity level within this typical range. Which of the following could be the salinity, in parts per thousand, of the sample?",
+  "choices": {
+    "A": "$31.8$ parts per thousand",
+    "B": "$32.3$ parts per thousand",
+    "C": "$33.4$ parts per thousand",
+    "D": "$34.9$ parts per thousand"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The salinity of the sample must be greater than or equal to $32.5$ parts per thousand and less than or equal to $34.2$ parts per thousand. Of the given choices, $33.4$ parts per thousand is the only value that satisfies these restrictions.",
+  "source": "https://cooksat.com/practice?questionId=ef0265ce&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

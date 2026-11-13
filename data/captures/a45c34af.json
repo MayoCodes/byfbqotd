@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a45c34af",
+  "capturedAt": "2026-11-13T22:06:08.813Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A student is planning a group outing and must pay a one-time reservation fee of $$45$ plus $$8.50$ per person attending. The student has a budget of $$260$. What is the maximum number of people that can attend the outing without exceeding the budget?\n\n$$0$$\n\n$$25$$",
+  "choices": {},
+  "correctAnswer": "$25$",
+  "explanation": "The correct answer is $25$. Let $x$ represent the number of people attending the outing. The total cost consists of a one-time reservation fee of $$45$ plus $$8.50$ per person, which can be expressed as $45 + 8.50x$. Since the student has a budget of $$260$, the situation can be represented by the inequality $45 + 8.50x \\leq 260$.\n\nTo solve for $x$, first subtract $45$ from both sides:\n\n$$8.50x \\leq 260 - 45$$\n\n$$8.50x \\leq 215$$\n\nNext, divide both sides by $8.50$:\n\n$$x \\leq \\frac{215}{8.50}$$\n\n$$x \\leq 25.294$$\n\nSince the number of people must be a whole number, we round down to the nearest integer. Therefore, the maximum number of people that can attend is $25$.\n\nVerification: For $x = 25$: $45 + 8.50(25) = 45 + 212.50 = 257.50 \\leq 260$\n\nFor $x = 26$: $45 + 8.50(26) = 45 + 221 = 266 > 260$\n\nThis confirms that $25$ is the maximum number of people.",
+  "source": "https://cooksat.com/practice?questionId=a45c34af&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}

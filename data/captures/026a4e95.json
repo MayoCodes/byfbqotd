@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "026a4e95",
+  "capturedAt": "2026-11-13T22:04:34.718Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Interpret Inequality Solution in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A scale can accurately measure weights, in pounds, that satisfy the inequality $5 < w < 20$, where $w$ is the weight. Which of the following could be a weight that the scale can accurately measure?",
+  "choices": {
+    "A": "$4$ pounds",
+    "B": "$5$ pounds",
+    "C": "$12$ pounds",
+    "D": "$20$ pounds"
+  },
+  "correctAnswer": "C",
+  "explanation": "The inequality $5 < w < 20$ means that $w$ must be greater than $5$ and less than $20$ pounds. Since $12$ is between $5$ and $20$, a weight of $12$ pounds satisfies this inequality.",
+  "source": "https://cooksat.com/practice?questionId=026a4e95&subject=math&domain=algebra&skills=linear_inequalities_in_one_or_two_variables&bank=cooksat",
+  "images": []
+}
