@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "26c322dd",
+  "capturedAt": "2026-11-13T23:42:56.517Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe bar graph shows the number of pieces of fruit sold at a farmers market stand for each of four types of fruit on Saturday. How many more pieces of pear were sold than pieces of apple?",
+  "choices": {
+    "A": "$20$",
+    "B": "$35$",
+    "C": "$55$",
+    "D": "$90$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The bar representing pear has a height of $55$; therefore, $55$ pieces of pear were sold. The bar representing apple has a height of $35$; therefore, $35$ pieces of apple were sold. Thus, $55 - 35$, or $20$, more pieces of pear were sold than pieces of apple.",
+  "source": "https://cooksat.com/practice?questionId=26c322dd&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/26c322dd/1-7fecf6b714f2d31b.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a40b0fbb",
+  "capturedAt": "2026-11-13T23:44:37.395Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe bar graph summarizes the rainfall, in millimeters $( mm )$, recorded at a weather station each day for $20$ days. For how many of these $20$ days did the station record a rainfall of $0 mm$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$1$",
+    "C": "$3$",
+    "D": "$7$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the bar graph summarizes the rainfall, in millimeters $\\left( \\text{mm} \\right)$, recorded at a weather station each day for $20$ days. The height of each bar in the bar graph represents the number of days the station recorded the rainfall, in $\\text{mm}$, specified at the bottom of the bar. The bar for a rainfall of $0 \\text{ mm}$ reaches a height of $7$. Therefore, the station recorded a rainfall of $0 \\text{ mm}$ for $7$ of these days.",
+  "source": "https://cooksat.com/practice?questionId=a40b0fbb&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a40b0fbb/1-57cef4bc1d789831.png",
+      "kind": "diagram"
+    }
+  ]
+}

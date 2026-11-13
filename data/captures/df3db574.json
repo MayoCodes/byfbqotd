@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "df3db574",
+  "capturedAt": "2026-11-13T23:45:16.931Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe bar graph shows the distribution of $363$ books read by students in $10$ different classes during a reading challenge. How many books were read by students in class $4$?",
+  "choices": {},
+  "correctAnswer": "$$35$$",
+  "explanation": "The correct answer is $35$. The height of each bar in the bar graph represents the number of books read by students in the class specified at the bottom of the bar. The bar for class $4$ reaches a height of $35$. Therefore, students in class $4$ read $35$ books.",
+  "source": "https://cooksat.com/practice?questionId=df3db574&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/df3db574/1-6ede9a9ac851f007.png",
+      "kind": "diagram"
+    }
+  ]
+}

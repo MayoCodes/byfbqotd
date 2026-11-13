@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6fcb9664",
+  "capturedAt": "2026-11-13T23:44:00.274Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe frequency table summarizes a data set of the weights, rounded to the nearest pound, of $71$ watermelons. A weight of $58$ pounds is added to the original data set, creating a new data set of the weights, rounded to the nearest pound, of $72$ watermelons. Which statement best compares the mean and median of the new data set to the mean and median of the original data set?",
+  "choices": {
+    "A": "The mean of the new data set is greater than the mean of the original data set, and the median of the new data set is greater than the median of the original data set.",
+    "B": "The mean of the new data set is greater than the mean of the original data set, and the medians of the two data sets are equal.",
+    "C": "The mean of the new data set is less than the mean of the original data set, and the median of the new data set is less than the median of the original data set.",
+    "D": "The mean of the new data set is less than the mean of the original data set, and the medians of the two data sets are equal."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The mean of a data set is the sum of the values divided by the number of values. The new data set consists of the $71$ weights from the original data set plus one additional weight, $58$. Since $58$ is greater than every value in the original data set, the mean of the new data set is greater than the mean of the original data set. For the median: the original data set has $71$ values (odd), so its median is the $36\\text{th}$ value when values are listed in ascending order. Using the cumulative frequencies from the table ($11$, $20$, $26$, $34$, $44$, $51$, $64$, $71$), the $36\\text{th}$ value falls in the block of $26$s (positions $35$ through $44$), so the original median is $26$. The new data set has $72$ values (even), so its median is the average of the $36\\text{th}$ and $37\\text{th}$ values. Since $58$ is larger than all existing values, it is placed at the end of the ordered list, leaving positions $1$ through $71$ unchanged. Both the $36\\text{th}$ and $37\\text{th}$ values are $26$, so the new median is $26$. Therefore, the mean of the new data set is greater than the mean of the original data set, and the medians of the two data sets are equal.",
+  "source": "https://cooksat.com/practice?questionId=6fcb9664&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/6fcb9664/1-b9893a8b2c821a73.png",
+      "kind": "diagram"
+    }
+  ]
+}

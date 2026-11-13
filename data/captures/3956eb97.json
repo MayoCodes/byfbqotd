@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3956eb97",
+  "capturedAt": "2026-11-13T23:43:13.622Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$24$, $22$, $28$, $26$, $x$\n\nThe mean and the median of the five numbers above are equal. Which of the following is NOT a possible value of $x$?",
+  "choices": {
+    "A": "$15$",
+    "B": "$20$",
+    "C": "$25$",
+    "D": "$30$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. If $x$ is $15$, then the five numbers in the given list are $24$, $22$, $28$, $26$, $15$. The mean of these five numbers is the sum of all the values divided by the number of values, or $\\frac{24 + 22 + 28 + 26 + 15}{5} = \\frac{115}{5} = 23$. The median of these five numbers can be found by ordering the numbers from least to greatest and determining the middle value. When ordered from least to greatest, the numbers in the given list are $15$, $22$, $24$, $26$, $28$, and the middle value is $24$. Since the mean is $23$ and the median is $24$, the mean and median aren't equal when $x$ is $15$.",
+  "source": "https://cooksat.com/practice?questionId=3956eb97&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

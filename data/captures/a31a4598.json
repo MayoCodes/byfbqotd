@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a31a4598",
+  "capturedAt": "2026-11-13T23:44:35.501Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA park ranger surveyed $169$ trees. The bar graph shows the number of trees of each species recorded in the survey.\n\nWhich species of tree was recorded $60$ times?",
+  "choices": {
+    "A": "Pine",
+    "B": "Oak",
+    "C": "Maple",
+    "D": "Birch"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The bar graph shows the number of trees of each species recorded in the survey, so the height of each bar is the number of times that species was recorded. The bar corresponding to Oak reaches $60$. Therefore, Oak was recorded $60$ times.",
+  "source": "https://cooksat.com/practice?questionId=a31a4598&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a31a4598/1-6dcd0361a3c1b034.png",
+      "kind": "diagram"
+    }
+  ]
+}

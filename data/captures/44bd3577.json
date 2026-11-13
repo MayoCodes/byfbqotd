@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "44bd3577",
+  "capturedAt": "2026-11-13T23:43:28.385Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA community organization donated books to five local libraries. The bar graph shows the number of books donated to each of the five libraries. How many books were donated to library $4$?",
+  "choices": {
+    "A": "$22$",
+    "B": "$34$",
+    "C": "$41$",
+    "D": "$50$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The height of each bar represents the number of books donated to the library specified at the bottom of the bar. The bar for library $4$ has a height between $30$ and $35$. Of the given choices, $34$ is the only value between $30$ and $35$. Therefore, $34$ books were donated to library $4$.",
+  "source": "https://cooksat.com/practice?questionId=44bd3577&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/44bd3577/1-8df79524d7a9552b.png",
+      "kind": "diagram"
+    }
+  ]
+}

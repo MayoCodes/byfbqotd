@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f43852f5",
+  "capturedAt": "2026-11-13T23:45:28.780Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shown summarizes the distribution of $60$ volunteers based on the number of complete hours they volunteer per week at a community center.\n\nHow many of the $60$ volunteers volunteer for $15$ or more complete hours per week?",
+  "choices": {
+    "A": "$11$",
+    "B": "$14$",
+    "C": "$46$",
+    "D": "$60$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the table summarizes the distribution of $60$ volunteers based on the number of complete hours they volunteer per week. The question asks how many volunteers volunteer for $15$ or more complete hours per week. Two rows in the table satisfy this condition: the row for $15$ to $17$ complete hours shows $11$ volunteers, and the row for $18$ to $20$ complete hours shows $3$ volunteers. Therefore, the total number of volunteers who volunteer for $15$ or more complete hours per week is $11 + 3$, or $14$.",
+  "source": "https://cooksat.com/practice?questionId=f43852f5&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/f43852f5/1-11222dde9992e8ce.png",
+      "kind": "diagram"
+    }
+  ]
+}

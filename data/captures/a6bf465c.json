@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a6bf465c",
+  "capturedAt": "2026-11-13T23:44:41.160Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe histogram summarizes a data set of the weights, in pounds, of $14$ tuna. If an additional weight of $120$ pounds is added to the original data set to create a new data set of $15$ weights of tuna, which of the following measures must be greater for the new data set than for the original data set?\n\nI. The median\nII. The mean",
+  "choices": {
+    "A": "I only",
+    "B": "II only",
+    "C": "I and II",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The original data set contains $14$ tuna with weights distributed across five intervals. Since there are $14$ values (an even number), the median is the average of the $7$th and $8$th values when ordered. Based on the histogram: $2$ tuna have weights in the $15$-$25$ pound range (positions $1$-$2$) and $6$ tuna have weights in the $25$-$35$ pound range (positions $3$-$8$). Therefore, both the $7$th and $8$th values are in the $25$-$35$ pound range, so the median lies in this interval. When a weight of $120$ pounds is added to create a new data set of $15$ tuna, the median becomes the $8$th value. Since $120$ pounds is the largest value, it is placed last when ordered, leaving the positions of the first $14$ values unchanged, so the $8$th value is still in the $25$-$35$ pound range. Therefore, the median does not necessarily increase. The mean equals the sum of all values divided by the number of values. The original mean must be less than $65$, so adding a value of $120$ pounds, which is far greater than the original mean, must pull the new mean upward. Therefore, only the mean must be greater for the new data set.",
+  "source": "https://cooksat.com/practice?questionId=a6bf465c&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a6bf465c/1-073572f342f78112.png",
+      "kind": "diagram"
+    }
+  ]
+}

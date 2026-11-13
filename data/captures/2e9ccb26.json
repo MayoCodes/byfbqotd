@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2e9ccb26",
+  "capturedAt": "2026-11-13T23:42:58.419Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Mean from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of pets owned by each of the $20$ students in a biology class. What is the mean number of pets owned by the students in the class?",
+  "choices": {
+    "A": "$0.75$",
+    "B": "$0.95$",
+    "C": "$1.0$",
+    "D": "$1.25$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The mean is the sum of the data values divided by the number of data values. From the table, there are $6$ students with $0$ pets, $9$ students with $1$ pet, and $5$ students with $2$ pets. Therefore, the sum of the data values is $6(0) + 9(1) + 5(2) = 0 + 9 + 10 = 19$. Since there are $20$ students in the class, the mean number of pets is $\\frac{19}{20} = 0.95$.",
+  "source": "https://cooksat.com/practice?questionId=2e9ccb26&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2e9ccb26/1-cebcf62b26ef7126.png",
+      "kind": "diagram"
+    }
+  ]
+}

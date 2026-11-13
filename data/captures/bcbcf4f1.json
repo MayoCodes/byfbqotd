@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bcbcf4f1",
+  "capturedAt": "2026-11-13T23:44:55.741Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Weighted or Combined Mean",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Data set A consists of the heights of $50$ buildings and has a mean of $36$ meters. Data set B consists of the heights of $30$ buildings and has a mean of $68$ meters. Data set C consists of the heights of the $80$ buildings from data sets A and B. What is the mean, in meters, of data set C?",
+  "choices": {},
+  "correctAnswer": "$$48$$",
+  "explanation": "The correct answer is $48$. The mean of a data set is calculated by dividing the sum of the values in the data set by the number of values. It's given that data set A consists of the heights of $50$ buildings and has a mean of $36$ meters. This can be represented by the equation $\\frac{x}{50} = 36$, where $x$ represents the sum of the heights of the buildings, in meters, in data set A. Multiplying both sides of this equation by $50$ yields $x = 50 \\times 36$, or $x = 1{,}800$ meters. Therefore, the sum of the heights of the buildings in data set A is $1{,}800$ meters. It's also given that data set B consists of the heights of $30$ buildings and has a mean of $68$ meters. This can be represented by the equation $\\frac{y}{30} = 68$, where $y$ represents the sum of the heights of the buildings, in meters, in data set B. Multiplying both sides of this equation by $30$ yields $y = 30 \\times 68$, or $y = 2{,}040$ meters. Therefore, the sum of the heights of the buildings in data set B is $2{,}040$ meters. Since it's given that data set C consists of the heights of the $80$ buildings from data sets A and B, it follows that the mean of data set C is the sum of the heights of the buildings, in meters, in data sets A and B divided by the number of buildings represented in data sets A and B, or $\\frac{1{,}800 + 2{,}040}{80}$. This is equivalent to $\\frac{3{,}840}{80}$, or $48$ meters. Therefore, the mean, in meters, of data set C is $48$.",
+  "source": "https://cooksat.com/practice?questionId=bcbcf4f1&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

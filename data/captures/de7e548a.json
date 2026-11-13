@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "de7e548a",
+  "capturedAt": "2026-11-13T23:45:14.604Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Conceptual Understanding of Statistics",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shown summarizes the number of trees in each of the $19$ parks in a county. Which of the following could be the median number of trees for the parks in this county?",
+  "choices": {
+    "A": "$15$",
+    "B": "$25$",
+    "C": "$35$",
+    "D": "$45$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. If a data set contains an odd number of data values, the median is represented by the middle data value when the data values are listed in ascending order. Since the numbers of trees are given as ranges rather than specific values, it is only possible to determine the range in which the median falls. Since there are $19$ parks in the data set, the median is represented by the $10$th park in the ordered list (since $(19+1)/2 = 10$). The first $3$ parks each have $10$ to $19$ trees, so positions $1$ through $3$ in the list fall in the $10$ to $19$ range. The next $2$ parks each have $20$ to $29$ trees, so positions $4$ and $5$ fall in the $20$ to $29$ range. The next $6$ parks each have $30$ to $39$ trees, so positions $6$ through $11$ fall in the $30$ to $39$ range. Therefore, the $10$th park — the one with the median number of trees — has a number of trees in the $30$ to $39$ range. Of the given choices, the only number in this range is $35$.",
+  "source": "https://cooksat.com/practice?questionId=de7e548a&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/de7e548a/1-e1b4cea6ba74808f.png",
+      "kind": "diagram"
+    }
+  ]
+}

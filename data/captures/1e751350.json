@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1e751350",
+  "capturedAt": "2026-11-13T23:42:50.962Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Range from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe box plot above shows the distribution of the number of home runs hit in one season by each of $9$ players on the baseball team. What is the range of the number of home runs hit by the $9$ players?",
+  "choices": {
+    "A": "$4$",
+    "B": "$6$",
+    "C": "$8$",
+    "D": "$10$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The box plot shows the distribution of the number of home runs hit by $9$ players. The leftmost part of the box plot, the minimum value, represents the fewest number of home runs hit by any of the $9$ players. The minimum value is $4$. The rightmost part of the box plot, the maximum value, represents the greatest number of home runs hit by any of the $9$ players. The maximum value is $10$. Therefore, the range of the number of home runs hit by the $9$ players is $10-4=6$.",
+  "source": "https://cooksat.com/practice?questionId=1e751350&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1e751350/1-a94200559573ca59.png",
+      "kind": "diagram"
+    }
+  ]
+}

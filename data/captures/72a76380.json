@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "72a76380",
+  "capturedAt": "2026-11-13T23:44:02.853Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Range from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA bakery tracked its production during $11$ consecutive one-hour periods. The table shows the number of pastries baked during each period. What is the range of the number of pastries baked for the $11$ one-hour periods?",
+  "choices": {
+    "A": "$4.0$",
+    "B": "$5.0$",
+    "C": "$6.0$",
+    "D": "$6.5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The range is the difference between the greatest and least values in a data set. The greatest number of pastries baked during a one-hour period was $18$, and the least was $12$. Therefore, the range is $18 - 12 = 6$, or $6.0$.",
+  "source": "https://cooksat.com/practice?questionId=72a76380&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/72a76380/1-4b45a2f08b30cd47.png",
+      "kind": "diagram"
+    }
+  ]
+}

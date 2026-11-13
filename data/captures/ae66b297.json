@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ae66b297",
+  "capturedAt": "2026-11-13T23:44:43.416Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Data set A consists of $7$ numbers. When each number in data set A is increased by $3$, the resulting data set B has a mean of $33$. What is the mean of data set A?",
+  "choices": {
+    "A": "$27$",
+    "B": "$30$",
+    "C": "$33$",
+    "D": "$36$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. When each value in a data set is increased by a constant, the mean increases by that constant. Since data set B has mean $33$ and was created by adding $3$ to each value in data set A, the mean of A is $33 - 3 = 30$.",
+  "source": "https://cooksat.com/practice?questionId=ae66b297&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

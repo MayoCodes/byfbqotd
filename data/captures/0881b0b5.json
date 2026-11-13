@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0881b0b5",
+  "capturedAt": "2026-11-13T23:42:35.683Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe bar graph shows the distribution of the number of petals per flower for $20$ flowers in a bouquet. How many of these flowers have exactly $43$ petals?",
+  "choices": {
+    "A": "$3$",
+    "B": "$8$",
+    "C": "$20$",
+    "D": "$43$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The height of each bar in the graph shown represents the number of flowers that have the number of petals specified at the bottom of the bar. The bar for $43$ petals has a height of $8$. Therefore, $8$ of these flowers have exactly $43$ petals.",
+  "source": "https://cooksat.com/practice?questionId=0881b0b5&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0881b0b5/1-c931a5197e6cd8ae.png",
+      "kind": "diagram"
+    }
+  ]
+}

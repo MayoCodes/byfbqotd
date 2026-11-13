@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fb8a4280",
+  "capturedAt": "2026-11-13T23:45:33.231Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Find Missing Value Given Mean",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Data set P consists of the $5$ numbers: $45$, $48$, $52$, $55$, and $60$. Data set Q consists of the $5$ numbers: $38$, $44$, $56$, $65$, and $x$.\n\nData set P and data set Q each contain $5$ numbers. If the mean of data set P is equal to the mean of data set Q, what is the value of $x$?",
+  "choices": {
+    "A": "$52$",
+    "B": "$57$",
+    "C": "$65$",
+    "D": "$260$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The mean of a data set is the sum of its values divided by the number of values. The mean of data set P is $\\frac{45 + 48 + 52 + 55 + 60}{5} = \\frac{260}{5} = 52$. The mean of data set Q is $\\frac{38 + 44 + 56 + 65 + x}{5} = \\frac{203 + x}{5}$. Since the means are equal, $52 = \\frac{203 + x}{5}$. Multiplying both sides by $5$ yields $260 = 203 + x$, so $x = 57$.",
+  "source": "https://cooksat.com/practice?questionId=fb8a4280&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

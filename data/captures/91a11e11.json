@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "91a11e11",
+  "capturedAt": "2026-11-13T23:44:22.745Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Data set M: $4$, $7$, $7$, $10$\n\nData set N: $4$, $7$, $7$, $10$, $22$\n\nThe lists give the values in data sets M and N. Which statement correctly compares the mean of data set M and the mean of data set N?",
+  "choices": {
+    "A": "The mean of data set M is greater than the mean of data set N.",
+    "B": "The mean of data set M is less than the mean of data set N.",
+    "C": "The means of data set M and data set N are equal.",
+    "D": "There is not enough information to compare the means."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The mean of a data set is the sum of the values in the data set divided by the number of values in the data set. It follows that the mean of data set M is $\\frac{4 + 7 + 7 + 10}{4}$, or $7$, and the mean of data set N is $\\frac{4 + 7 + 7 + 10 + 22}{5}$, or $10$. Since $7$ is less than $10$, the mean of data set M is less than the mean of data set N. Alternate approach: Data set N consists of the $4$ values in data set M and one additional value, $22$. Since the additional value, $22$, is larger than any value in data set M, the mean of data set M is less than the mean of data set N.",
+  "source": "https://cooksat.com/practice?questionId=91a11e11&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

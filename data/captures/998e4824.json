@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "998e4824",
+  "capturedAt": "2026-11-13T23:44:28.856Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Median from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$9$, $9$, $12$, $15$, $15$, $18$, $30$\n\nWhich of the following lists represents a data set that has the same median as the data set shown?",
+  "choices": {
+    "A": "$10$, $12$, $12$, $12$, $15$, $15$",
+    "B": "$12$, $12$, $15$, $15$, $18$, $18$",
+    "C": "$12$, $15$, $18$, $18$, $18$, $20$",
+    "D": "$15$, $15$, $18$, $18$, $30$, $30$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. If a data set contains an odd number of data values, the median is the middle data value when the values are listed in ascending or descending order. Since the data set shown has $7$ values listed in ascending order, the median is the fourth value, $15$. If a data set contains an even number of data values, the median is the average of the two middle values when the values are listed in ascending or descending order. Each choice consists of $6$ data values in ascending order, so the median is the average of the third and fourth values. The third and fourth values in choice B are $15$ and $15$, so the median of choice B is $15$. Therefore, choice B represents a data set with the same median as the data set shown.",
+  "source": "https://cooksat.com/practice?questionId=998e4824&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

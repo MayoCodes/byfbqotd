@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "58f0d616",
+  "capturedAt": "2026-11-13T23:43:38.480Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare Standard Deviations or Spread",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nEach of the dot plots shown represents the number of minutes spent reading yesterday by each student in two reading groups, group P and group Q. Which statement best compares the standard deviations of the numbers of minutes spent reading by each student for these two groups?",
+  "choices": {
+    "A": "The standard deviation of the number of minutes spent reading by each student for group P is less than the standard deviation of the number of minutes spent reading by each student for group Q.",
+    "B": "The standard deviation of the number of minutes spent reading by each student for group P is equal to the standard deviation of the number of minutes spent reading by each student for group Q.",
+    "C": "The standard deviation of the number of minutes spent reading by each student for group P is greater than the standard deviation of the number of minutes spent reading by each student for group Q.",
+    "D": "There is not enough information to compare these standard deviations."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Standard deviation measures the spread of a data set about its mean. The dot plot for group P and the dot plot for group Q have the same shape — each has the same frequency pattern across seven consecutive integer values. Since the two distributions have identical frequency distributions, the values in each group are spread out from their respective means in exactly the same way. Therefore, the standard deviation of the number of minutes spent reading by each student for group P is equal to the standard deviation for group Q.",
+  "source": "https://cooksat.com/practice?questionId=58f0d616&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/58f0d616/1-60174953963a855d.png",
+      "kind": "diagram"
+    }
+  ]
+}

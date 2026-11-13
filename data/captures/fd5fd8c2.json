@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fd5fd8c2",
+  "capturedAt": "2026-11-13T23:45:35.134Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Median from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A farm measured the weights, in grams, of tomatoes from four different plants. The weights from each plant are shown below.\n\nPlant A: $85, 90, 95, 100, 105, 110, 115$\n\nPlant B: $80, 85, 90, 95, 100, 105, 110$\n\nPlant C: $75, 80, 85, 90, 92, 95, 100$\n\nPlant D: $88, 92, 95, 100, 102, 108, 112$\n\nWhich plant's tomatoes have a median weight of $95$ grams?",
+  "choices": {
+    "A": "Plant A",
+    "B": "Plant B",
+    "C": "Plant C",
+    "D": "Plant D"
+  },
+  "correctAnswer": "B",
+  "explanation": "To find the median of a dataset with an odd number of values, order the values from least to greatest and identify the middle value. Plant B has $7$ values already in order: $80, 85, 90, 95, 100, 105, 110$. The middle value is the $4$th value, which is $95$ grams.",
+  "source": "https://cooksat.com/practice?questionId=fd5fd8c2&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

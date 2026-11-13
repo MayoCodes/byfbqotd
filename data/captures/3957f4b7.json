@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3957f4b7",
+  "capturedAt": "2026-11-13T23:43:15.870Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Median from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the cost, in dollars, of economy and first-class tickets for $6$ flights from a particular airline on a given day. What is the median cost, in dollars, of a first-class ticket for one of these flights?",
+  "choices": {
+    "A": "$490$",
+    "B": "$495$",
+    "C": "$500$",
+    "D": "$510$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The median is the middle value when data is ordered. The first-class costs are $480$, $490$, $490$, $500$, $510$, $510$. With $6$ values, the median is the average of the third and fourth values: $\\frac{490 + 500}{2} = 495$.",
+  "source": "https://cooksat.com/practice?questionId=3957f4b7&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/3957f4b7/1-fe03bbec65c9c91d.png",
+      "kind": "diagram"
+    }
+  ]
+}

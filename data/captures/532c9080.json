@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "532c9080",
+  "capturedAt": "2026-11-13T23:43:34.864Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Median from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The seven data values $5, 5, 5, 7, 9, 9, 16$ are shown.\n\nWhat is the median of the $7$ data values shown?",
+  "choices": {
+    "A": "$5$",
+    "B": "$7$",
+    "C": "$8$",
+    "D": "$11$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. When a data set has an odd number of values, the median can be found by ordering the values from least to greatest and determining the value in the middle. Since the values are already presented in order from least to greatest and there are $7$ values, the median is the fourth value in the list. Therefore, the median is $7$.",
+  "source": "https://cooksat.com/practice?questionId=532c9080&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

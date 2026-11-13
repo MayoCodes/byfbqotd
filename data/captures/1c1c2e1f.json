@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1c1c2e1f",
+  "capturedAt": "2026-11-13T23:42:49.094Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA data set consists of $179$ fruits. The bar graph shows the number of times each fruit appears in the data set. Which fruit appears $55$ times?",
+  "choices": {
+    "A": "Apple",
+    "B": "Banana",
+    "C": "Mango",
+    "D": "Peach"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the data set consists of $179$ fruits and the bar graph shows the number of times each fruit appears in the data set. Therefore, for each fruit labeled on the horizontal axis, the frequency corresponds to the number of times that fruit appears in the data set. The bar with a frequency of $55$ corresponds to banana, so banana is the fruit that appears $55$ times.",
+  "source": "https://cooksat.com/practice?questionId=1c1c2e1f&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1c1c2e1f/1-56714dcc2781f0af.png",
+      "kind": "diagram"
+    }
+  ]
+}

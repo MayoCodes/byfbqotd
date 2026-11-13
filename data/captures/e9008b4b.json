@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e9008b4b",
+  "capturedAt": "2026-11-13T23:45:24.329Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Mean from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the surface area, in hectares, of the five smallest islands in a lake. Based on the table, what is the mean surface area of the $5$ smallest islands, to the nearest hectare?",
+  "choices": {
+    "A": "$20$",
+    "B": "$22$",
+    "C": "$55$",
+    "D": "$108$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The mean surface area of the $5$ islands is the sum of the surface areas divided by the number of islands: $\\frac{3.0 + 18 + 55 + 31 + 0.75}{5}$. Combining like terms in the numerator gives $\\frac{107.75}{5} = 21.55$ hectares. Rounded to the nearest hectare, this is $22$.",
+  "source": "https://cooksat.com/practice?questionId=e9008b4b&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e9008b4b/1-c543431dcd6cf262.png",
+      "kind": "diagram"
+    }
+  ]
+}

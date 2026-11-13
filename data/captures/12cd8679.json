@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "12cd8679",
+  "capturedAt": "2026-11-13T23:42:44.509Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe bar graph shows the distribution of $425$ cans collected by $10$ different recycling stations during a one-day event. How many cans were collected by station $3$?",
+  "choices": {},
+  "correctAnswer": "$$45$$",
+  "explanation": "The correct answer is $45$. The height of each bar in the bar graph shown represents the number of cans collected by the station specified at the bottom of the bar. The bar for station $3$ reaches a height of $45$. Therefore, station $3$ collected $45$ cans.",
+  "source": "https://cooksat.com/practice?questionId=12cd8679&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/12cd8679/1-04a9b362166d1024.png",
+      "kind": "diagram"
+    }
+  ]
+}

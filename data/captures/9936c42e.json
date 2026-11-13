@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9936c42e",
+  "capturedAt": "2026-11-13T23:44:26.534Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Conceptual Understanding of Statistics",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the head circumferences, in centimeters, of $14$ children in a study. What is the median head circumference, in centimeters, of these children?",
+  "choices": {
+    "A": "$50$",
+    "B": "$51$",
+    "C": "$52$",
+    "D": "$54$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For $14$ values, the median is the average of the 7th and 8th values. Positions $1$-$2$ have $48$ cm, positions $3$-$7$ have $50$ cm, and positions $8$-$10$ have $52$ cm. The 7th value is $50$ and the 8th value is $52$, so the median is $\\frac{50 + 52}{2} = 51$.",
+  "source": "https://cooksat.com/practice?questionId=9936c42e&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/9936c42e/1-fbeb3b95cc20ec8a.png",
+      "kind": "diagram"
+    }
+  ]
+}

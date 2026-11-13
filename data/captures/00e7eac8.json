@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "00e7eac8",
+  "capturedAt": "2026-11-13T23:42:27.500Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shown summarizes the distribution of $70$ library members based on the number of books they read last month.\n\nHow many of the $70$ library members read $15$ or more books last month?",
+  "choices": {
+    "A": "$11$",
+    "B": "$13$",
+    "C": "$57$",
+    "D": "$70$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The table shows that $11$ library members read $15$ to $17$ books last month and $2$ library members read $18$ to $20$ books last month. Therefore, the number of library members who read $15$ or more books last month is $11 + 2$, or $13$.",
+  "source": "https://cooksat.com/practice?questionId=00e7eac8&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/00e7eac8/1-9bca4bdcb4a2c029.png",
+      "kind": "diagram"
+    }
+  ]
+}

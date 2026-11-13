@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "217e95ab",
+  "capturedAt": "2026-11-13T23:42:52.772Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA teacher recorded the weight of each student's backpack, to the nearest pound, for students in a physical education class. The dot plot gives the weight, to the nearest pound, of each of these backpacks.\n\nBased on the dot plot, how many backpacks had a weight, to the nearest pound, of $8$ pounds?",
+  "choices": {
+    "A": "$1$",
+    "B": "$3$",
+    "C": "$7$",
+    "D": "$8$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The dot plot gives the weight, to the nearest pound, of each backpack. The number of dots above a given weight represents the number of backpacks with that weight, to the nearest pound. There are $7$ dots above $8$ pounds. Therefore, $7$ backpacks had a weight, to the nearest pound, of $8$ pounds.",
+  "source": "https://cooksat.com/practice?questionId=217e95ab&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/217e95ab/1-35625734fd13a3fd.png",
+      "kind": "diagram"
+    }
+  ]
+}

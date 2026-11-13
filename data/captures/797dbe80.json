@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "797dbe80",
+  "capturedAt": "2026-11-13T23:44:07.572Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Mean from Data",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows the ages of $70$ employees at a company. What is the mean age, in years, of these employees?",
+  "choices": {
+    "A": "$18.5$",
+    "B": "$20.0$",
+    "C": "$20.5$",
+    "D": "$22.0$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The mean is the sum of values divided by the number of values. The sum is $9(18) + 15(19) + 10(20) + 15(21) + 10(22) + 11(23) = 162 + 285 + 200 + 315 + 220 + 253 = 1{,}435$. Dividing by $70$ gives $\\frac{1{,}435}{70} = 20.5$.",
+  "source": "https://cooksat.com/practice?questionId=797dbe80&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/797dbe80/1-caff5ca8989e0443.png",
+      "kind": "diagram"
+    }
+  ]
+}

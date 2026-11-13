@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d20200f7",
+  "capturedAt": "2026-11-13T23:45:08.466Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The weights, in ounces, for $12$ backpacks in a classroom were recorded, and the mean, median, range, and standard deviation for the data were calculated. The backpack with the lowest recorded weight was later found to actually weigh $8$ ounces less than its recorded weight. Which of the following values remains unchanged when the four statistics are recalculated using the corrected weight?",
+  "choices": {
+    "A": "Mean",
+    "B": "Median",
+    "C": "Range",
+    "D": "Standard deviation"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The median is determined by ordering the weights from least to greatest and finding the middle value (or the average of the two middle values). Decreasing the lowest weight by $8$ ounces keeps that backpack as the lowest value in the ordered list, so the middle position(s) of the data set are unchanged. Therefore, the median remains the same.",
+  "source": "https://cooksat.com/practice?questionId=d20200f7&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

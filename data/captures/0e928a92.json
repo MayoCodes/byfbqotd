@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0e928a92",
+  "capturedAt": "2026-11-13T23:42:37.585Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe bar graph shows the number of each type of tree in a city park. How many more oak trees are in this park than willow trees?",
+  "choices": {
+    "A": "$6$",
+    "B": "$8$",
+    "C": "$14$",
+    "D": "$20$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The bar representing willow trees has a height of $6$; therefore, there are $6$ willow trees in the park. The bar representing oak trees has a height of $14$; therefore, there are $14$ oak trees in the park. Therefore, there are $14 - 6$, or $8$, more oak trees in this park than willow trees.",
+  "source": "https://cooksat.com/practice?questionId=0e928a92&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0e928a92/1-46e385f51fb9f02c.png",
+      "kind": "diagram"
+    }
+  ]
+}

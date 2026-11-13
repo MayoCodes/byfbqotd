@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8ea09606",
+  "capturedAt": "2026-11-13T23:44:20.053Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Mean from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the heights, in inches, of $20$ students in a class. What is the mean height, in inches, of these students?",
+  "choices": {
+    "A": "$57.0$",
+    "B": "$57.5$",
+    "C": "$58.0$",
+    "D": "$58.5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The mean is the sum of values divided by the number of values. The sum is $2(56) + 4(57) + 8(58) + 4(59) + 2(60) = 112 + 228 + 464 + 236 + 120 = 1{,}160$. Dividing by $20$ gives $\\frac{1{,}160}{20} = 58.0$.",
+  "source": "https://cooksat.com/practice?questionId=8ea09606&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/8ea09606/1-908158408c92535e.png",
+      "kind": "diagram"
+    }
+  ]
+}

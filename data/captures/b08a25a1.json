@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b08a25a1",
+  "capturedAt": "2026-11-13T23:44:45.321Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Conceptual Understanding of Statistics",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of pets $17$ students have. What is the median number of pets these students have?",
+  "choices": {
+    "A": "$0$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For $17$ values, the median is the 9th value. Positions $1$-$2$ have $0$ pets, positions $3$-$6$ have $1$ pet, and positions $7$-$12$ have $2$ pets. Since the 9th value falls in positions $7$-$12$, the median is $2$.",
+  "source": "https://cooksat.com/practice?questionId=b08a25a1&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b08a25a1/1-4bcf3c74d511073d.png",
+      "kind": "diagram"
+    }
+  ]
+}

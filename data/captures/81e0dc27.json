@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "81e0dc27",
+  "capturedAt": "2026-11-13T23:44:16.501Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Two trainees recorded the times, to the nearest minute, they took to complete a delivery route on several different days. The lists give the times for trainee X and trainee Y.\n\nTrainee X: $12, 14, 14, 16$\n\nTrainee Y: $12, 14, 14, 16, 24$\n\nWhich statement correctly compares the mean delivery times, to the nearest minute, of trainee X and trainee Y on these days?",
+  "choices": {
+    "A": "The mean delivery time of trainee X is greater than the mean delivery time of trainee Y.",
+    "B": "The mean delivery time of trainee X is less than the mean delivery time of trainee Y.",
+    "C": "The mean delivery time of trainee X is equal to the mean delivery time of trainee Y.",
+    "D": "There is not enough information to compare the mean delivery times of trainee X and trainee Y."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The mean of a data set is the sum of the values divided by the number of values. For trainee X, the mean delivery time is $\\frac{12 + 14 + 14 + 16}{4} = \\frac{56}{4} = 14$ minutes. For trainee Y, the mean delivery time is $\\frac{12 + 14 + 14 + 16 + 24}{5} = \\frac{80}{5} = 16$ minutes. Since $14$ is less than $16$, the mean delivery time of trainee X is less than the mean delivery time of trainee Y.",
+  "source": "https://cooksat.com/practice?questionId=81e0dc27&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

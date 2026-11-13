@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9de0102b",
+  "capturedAt": "2026-11-13T23:44:33.224Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Mean from Data",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the frequency distribution for a data set of $15$ values. What is the mean of this data set?",
+  "choices": {
+    "A": "$\\frac{4}{5}$",
+    "B": "$\\frac{6}{5}$",
+    "C": "$\\frac{8}{5}$",
+    "D": "$2$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The sum is $0(3) + 1(4) + 2(5) + 3(2) + 4(1) = 0 + 4 + 10 + 6 + 4 = 24$. The mean is $\\frac{24}{15} = \\frac{8}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=9de0102b&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/9de0102b/1-9e42d7dfe3e225a8.png",
+      "kind": "diagram"
+    }
+  ]
+}

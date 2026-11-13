@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "817ac01a",
+  "capturedAt": "2026-11-13T23:44:14.356Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Weighted or Combined Mean",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Data set $A$ consists of the ages of $40$ trees in an oak forest and has a mean of $85$ years. Data set $B$ consists of the ages of $60$ trees in a pine forest and has a mean of $55$ years. Data set $C$ consists of the ages of all $100$ trees from both data sets $A$ and $B$. A researcher calculates that the sum of all ages in data set $C$ is $6,700$ years. If the researcher's calculation is correct, what is the mean age, in years, of the trees in data set $C$?",
+  "choices": {},
+  "correctAnswer": "$$67$$",
+  "explanation": "The correct answer is $67$. The mean of a data set is the sum of all values divided by the number of values. It's given that data set $A$ consists of $40$ trees with a mean age of $85$ years. Therefore, the sum of ages in data set $A$ is $40 \\times 85 = 3,400$ years. It's also given that data set $B$ consists of $60$ trees with a mean age of $55$ years. Therefore, the sum of ages in data set $B$ is $60 \\times 55 = 3,300$ years. Data set $C$ consists of all trees from both data sets $A$ and $B$, so the sum of ages in data set $C$ should be $3,400 + 3,300 = 6,700$ years, which matches the researcher's calculation. Since data set $C$ contains $100$ trees ($40$ from $A$ plus $60$ from $B$), the mean age of trees in data set $C$ is $\\frac{6,700}{100} = 67$ years. This problem requires understanding that when combining datasets, the mean of the combined set is the weighted average of the individual means, not simply the average of the means. The weighted mean formula can be verified: $\\frac{n_A \\cdot m_A + n_B \\cdot m_B}{n_A + n_B} = \\frac{40 \\times 85 + 60 \\times 55}{40 + 60} = \\frac{6,700}{100} = 67$.",
+  "source": "https://cooksat.com/practice?questionId=817ac01a&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

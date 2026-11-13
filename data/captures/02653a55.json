@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "02653a55",
+  "capturedAt": "2026-11-13T23:42:29.613Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $p$ is the mean and $q$ is the median of eleven consecutive integers, what is the value of $|p - q|$?",
+  "choices": {},
+  "correctAnswer": "$0$",
+  "explanation": "The correct answer is $0$. Any eleven consecutive integers can be written as $n$, $n + 1$, $n + 2$, $n + 3$, $n + 4$, $n + 5$, $n + 6$, $n + 7$, $n + 8$, $n + 9$, $n + 10$. The mean of the integers is their sum divided by $11$: $\\frac{n + (n+1) + (n+2) + \\cdots + (n+10)}{11} = \\frac{11n + 55}{11}$, which simplifies to $n + 5$. So $p = n + 5$. Since there is an odd number of integers (eleven), the median is the integer in the middle when all the integers are ordered from least to greatest: $n + 5$. So $q = n + 5$. Therefore, $|p - q| = |(n + 5) - (n + 5)|$, which is $0$.",
+  "source": "https://cooksat.com/practice?questionId=02653a55&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

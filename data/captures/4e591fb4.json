@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4e591fb4",
+  "capturedAt": "2026-11-13T23:43:32.823Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Weighted or Combined Mean",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The mean number of books cataloged last month by the $15$ librarians at a public library is $8.2$. After the data for one of the librarians is removed from the calculation, the mean number of books cataloged by the remaining librarians is $7.5$. How many books did the librarian whose data was removed catalog last month?",
+  "choices": {
+    "A": "$0.7$",
+    "B": "$2.8$",
+    "C": "$10.5$",
+    "D": "$18$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The mean number of books cataloged by the $15$ librarians is $8.2$, so the total number of books cataloged by all $15$ librarians is $(8.2)(15) = 123$. After one librarian's data is removed, the mean for the remaining $14$ librarians is $7.5$, so the total number of books cataloged by those $14$ librarians is $(7.5)(14) = 105$. Therefore, the number of books cataloged by the librarian whose data was removed is $123 - 105 = 18$.",
+  "source": "https://cooksat.com/practice?questionId=4e591fb4&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

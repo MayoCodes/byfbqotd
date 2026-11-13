@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "68f4367c",
+  "capturedAt": "2026-11-13T23:43:55.889Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nData set X and data set Y each consist of $27$ values. The table shows the frequencies of the values for each data set. Which of the following statements best compares the means of the two data sets?",
+  "choices": {
+    "A": "The mean of data set X is greater than the mean of data set Y.",
+    "B": "The mean of data set X is less than the mean of data set Y.",
+    "C": "The mean of data set X is equal to the mean of data set Y.",
+    "D": "There is not enough information to compare the means of the data sets."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The mean of a data set represented in a frequency table is the sum of the products of each value and its frequency, divided by the total number of values. For data set X, the sum is $25(3) + 30(4) + 35(5) + 40(7) + 45(8) = 75 + 120 + 175 + 280 + 360 = 1{,}010$. Since data set X contains $27$ values, its mean is $\\frac{1{,}010}{27}$, or approximately $37.41$. For data set Y, the sum is $25(8) + 30(7) + 35(5) + 40(4) + 45(3) = 200 + 210 + 175 + 160 + 135 = 880$. Since data set Y contains $27$ values, its mean is $\\frac{880}{27}$, or approximately $32.59$. Therefore, the mean of data set X is greater than the mean of data set Y.",
+  "source": "https://cooksat.com/practice?questionId=68f4367c&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/68f4367c/1-c9c63bd36da97cd8.png",
+      "kind": "diagram"
+    }
+  ]
+}

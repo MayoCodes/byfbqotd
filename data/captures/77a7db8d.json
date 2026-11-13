@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "77a7db8d",
+  "capturedAt": "2026-11-13T23:44:05.106Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare Standard Deviations or Spread",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe height of each seedling in two groups, X and Y, was recorded. The histograms represent the distributions of height, in millimeters, for the seedlings in groups X and Y. The mean height of the seedlings in group X is equal to $20$, and the mean height of the seedlings in group Y is equal to $50$.\n\nWhich of the following statements about the standard deviations of height for the seedlings in these two groups is true?",
+  "choices": {
+    "A": "The standard deviation of height for the seedlings in group X is less than the standard deviation of height for the seedlings in group Y.",
+    "B": "The standard deviation of height for the seedlings in group X is equal to the standard deviation of height for the seedlings in group Y.",
+    "C": "The standard deviation of height for the seedlings in group X is greater than the standard deviation of height for the seedlings in group Y.",
+    "D": "There is not enough information to compare the standard deviations of height for the seedlings in these two groups."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Standard deviation measures the spread of a data set from its mean; a larger standard deviation indicates values are more dispersed from the mean, while a smaller standard deviation indicates values are more concentrated near the mean. The histogram for group X shows a bimodal distribution with $7$ seedlings in the $10$ to $14$ millimeter interval and $7$ seedlings in the $26$ to $30$ millimeter interval, while the middle intervals have much lower frequencies. Since the mean of group X is $20$ millimeters, many seedlings have heights approximately $8$ to $10$ millimeters away from the mean. In contrast, the histogram for group Y shows a unimodal distribution with $11$ seedlings concentrated in the $48$ to $52$ millimeter interval, which is very close to the mean of $50$ millimeters, and relatively few seedlings in the tail intervals. Since group X has more values dispersed far from its mean while group Y has most values clustered near its mean, group X has greater spread from its mean than group Y. Therefore, the standard deviation of height for the seedlings in group X is greater than the standard deviation of height for the seedlings in group Y.",
+  "source": "https://cooksat.com/practice?questionId=77a7db8d&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/77a7db8d/1-56b6d097b0ab747d.png",
+      "kind": "diagram"
+    }
+  ]
+}

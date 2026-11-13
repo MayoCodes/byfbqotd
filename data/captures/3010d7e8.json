@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3010d7e8",
+  "capturedAt": "2026-11-13T23:43:02.838Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA botanist measures the heights, in centimeters, of five sunflower seedlings in a greenhouse. The table shows the original data set of these heights. A sixth seedling with a height of $110$ centimeters is added to create a new data set. Which of the following correctly compares the means of the two data sets?",
+  "choices": {
+    "A": "The mean of the original data set is greater than the mean of the new data set.",
+    "B": "The mean of the original data set is less than the mean of the new data set.",
+    "C": "The means of both data sets are equal.",
+    "D": "There is not enough information to compare the means."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The original data set consists of $5$ values. The new data set consists of those $5$ values plus one additional value, $110$. Since the additional value, $110$, is greater than every value in the original data set, it must also be greater than the mean of the original data set. Therefore, adding it increases the mean, so the mean of the original data set is less than the mean of the new data set.",
+  "source": "https://cooksat.com/practice?questionId=3010d7e8&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/3010d7e8/1-5fd14f30f3d1e594.png",
+      "kind": "diagram"
+    }
+  ]
+}

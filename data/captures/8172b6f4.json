@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8172b6f4",
+  "capturedAt": "2026-11-13T23:44:12.635Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The amounts of sodium, in milligrams, in $7$ servings of a certain food are $160$, $180$, $220$, $260$, $300$, $340$, and $500$. An $8$th serving is added to this data set. Which of the following is NOT a possible value of the median of the $8$ amounts of sodium?",
+  "choices": {
+    "A": "$260$",
+    "B": "$270$",
+    "C": "$280$",
+    "D": "$300$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. With $8$ values, the median is the average of the 4th and 5th values when ordered. The maximum possible 4th value is $260$, and the maximum 5th value is $300$. The maximum possible median is $\\frac{260 + 300}{2} = 280$, so $300$ is not a possible median.",
+  "source": "https://cooksat.com/practice?questionId=8172b6f4&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

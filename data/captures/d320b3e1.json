@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d320b3e1",
+  "capturedAt": "2026-11-13T23:45:10.732Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the frequency of values in a data set. What is the minimum value of the data set?",
+  "choices": {},
+  "correctAnswer": "$$12$$",
+  "explanation": "The correct answer is $12$. The minimum value of a data set is the least value in the data set. The frequency refers to the number of times a value occurs. The given table shows that for this data set, the value $12$ occurs $3$ times, the value $14$ occurs $8$ times, the value $16$ occurs $2$ times, and the value $18$ occurs $6$ times. Therefore, of the values $12$, $14$, $16$, and $18$ given in the data set, the minimum value of the data set is $12$.",
+  "source": "https://cooksat.com/practice?questionId=d320b3e1&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d320b3e1/1-31a248a468971f25.png",
+      "kind": "diagram"
+    }
+  ]
+}

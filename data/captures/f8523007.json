@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f8523007",
+  "capturedAt": "2026-11-13T23:45:30.972Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe frequency table summarizes the $56$ data values in a data set. What is the maximum data value in the data set?",
+  "choices": {},
+  "correctAnswer": "$$23$$",
+  "explanation": "The correct answer is $23$. The maximum value is the largest value in the data set. The frequency refers to the number of times a data value occurs. The given frequency table shows that the data value $15$ occurs four times, the data value $16$ occurs five times, the data value $17$ occurs seven times, the data value $18$ occurs ten times, the data value $19$ occurs eight times, the data value $20$ occurs zero times, the data value $21$ occurs six times, the data value $22$ occurs nine times, and the data value $23$ occurs seven times. Therefore, the maximum data value in the data set is $23$.",
+  "source": "https://cooksat.com/practice?questionId=f8523007&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/f8523007/1-58e1d50b6f1dd9db.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ce2d2135",
+  "capturedAt": "2026-11-13T23:45:04.713Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table gives the results of a survey of $250$ people who were asked how often they cook dinner at home. How many people responded either \"never\" or \"rarely\"?",
+  "choices": {
+    "A": "$9$",
+    "B": "$47$",
+    "C": "$85$",
+    "D": "$165$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The table shows that $47$ people responded \"never\" and $38$ people responded \"rarely.\" Therefore, $47 + 38$, or $85$, people responded either \"never\" or \"rarely.\"",
+  "source": "https://cooksat.com/practice?questionId=ce2d2135&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/ce2d2135/1-6c532df3c6dac32d.png",
+      "kind": "diagram"
+    }
+  ]
+}

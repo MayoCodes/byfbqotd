@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "49308b31",
+  "capturedAt": "2026-11-13T23:43:30.456Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shown gives the distribution of the years of teaching experience for the $20$ faculty members at a school. Which of the following gives the correct order of the mean, median, and mode of the years of teaching experience?",
+  "choices": {
+    "A": "$mode < median < mean$",
+    "B": "$mode < mean < median$",
+    "C": "$median < mode < mean$",
+    "D": "$mean < mode < median$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The mode is the value with the highest frequency, which is $12$. The median is the average of the $10$th and $11$th values when the data are listed in order from least to greatest. The cumulative frequencies are $6, 11, 15, 17, 18, 19, 20$, so the $10$th and $11$th values are both $13$, giving a median of $13$. The mean is $\\frac{(12 \\times 6) + (13 \\times 5) + (14 \\times 4) + (15 \\times 2) + (16 \\times 1) + (17 \\times 1) + (24 \\times 1)}{20} = \\frac{280}{20} = 14$. Since the mode is $12$, the median is $13$, and the mean is $14$, mode $<$ median $<$ mean.",
+  "source": "https://cooksat.com/practice?questionId=49308b31&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/49308b31/1-fbfd44ec0dbbf5b5.png",
+      "kind": "diagram"
+    }
+  ]
+}

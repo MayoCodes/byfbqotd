@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "123689d5",
+  "capturedAt": "2026-11-13T23:42:42.560Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A data set consists of the seven values $8$, $12$, $15$, $18$, $18$, $22$, and $26$. The mean of this data set is $17$. Which of the following statements about this data set is true?",
+  "choices": {
+    "A": "The median is equal to the mean.",
+    "B": "The median is greater than the mean.",
+    "C": "The median is less than the mean.",
+    "D": "The mode is equal to the mean."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For a data set with $7$ values in order, the median is the fourth value. The fourth value in the list $8, 12, 15, 18, 18, 22, 26$ is $18$. Since the mean is $17$ and the median is $18$, the median is greater than the mean.",
+  "source": "https://cooksat.com/practice?questionId=123689d5&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

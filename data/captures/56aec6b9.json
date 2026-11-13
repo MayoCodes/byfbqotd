@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "56aec6b9",
+  "capturedAt": "2026-11-13T23:43:36.515Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Median from Data",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the price, in dollars, of one gallon of milk at five different grocery stores on the same day. What is the median of the milk prices shown in the table?",
+  "choices": {
+    "A": "$$4.759$",
+    "B": "$$4.815$",
+    "C": "$$4.829$",
+    "D": "$$4.879$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The median of a data set is the middle value when the data is in ascending or descending order. In ascending order, the milk prices are $$4.729$, $$4.759$, $$4.829$, $$4.879$, and $$4.879$. The middle number of this list is $4.829$, so $$4.829$ is the median milk price.",
+  "source": "https://cooksat.com/practice?questionId=56aec6b9&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/56aec6b9/1-4df31602a9fbb2e9.png",
+      "kind": "diagram"
+    }
+  ]
+}

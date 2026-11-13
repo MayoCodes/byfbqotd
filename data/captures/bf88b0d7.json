@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bf88b0d7",
+  "capturedAt": "2026-11-13T23:44:58.613Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Conceptual Understanding of Statistics",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the distribution of scores on a science quiz for $27$ students. What is the median score?",
+  "choices": {
+    "A": "$1$",
+    "B": "$3$",
+    "C": "$3.5$",
+    "D": "$4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For $27$ values, the median is the 14th value. After scores $1$ and $2$, only $7$ students are accounted for. The 14th student falls in the score-$3$ group, so median $= 3$.",
+  "source": "https://cooksat.com/practice?questionId=bf88b0d7&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/bf88b0d7/1-731ed085d3bcbed9.png",
+      "kind": "diagram"
+    }
+  ]
+}

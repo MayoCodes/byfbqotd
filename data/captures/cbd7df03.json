@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cbd7df03",
+  "capturedAt": "2026-11-13T23:45:02.827Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn May, $48$ students participated in a science fair. Each student was asked to choose a project topic labeled W, X, Y, or Z. The bar graph shows the number of students who chose each topic. How many students chose topic Y?",
+  "choices": {
+    "A": "$5$",
+    "B": "$9$",
+    "C": "$12$",
+    "D": "$22$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The height of each bar in the graph represents the number of students who chose the topic labeled with the letter specified at the bottom of the bar. The bar for topic Y has a height of $22$. Therefore, $22$ students chose topic Y.",
+  "source": "https://cooksat.com/practice?questionId=cbd7df03&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/cbd7df03/1-5fc19dc55350a416.png",
+      "kind": "diagram"
+    }
+  ]
+}

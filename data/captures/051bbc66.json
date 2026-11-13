@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "051bbc66",
+  "capturedAt": "2026-11-13T23:42:33.843Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Weighted or Combined Mean",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Data set A consists of the masses of $60$ rocks and has a mean of $28$ grams. Data set B consists of the masses of $90$ rocks and has a mean of $58$ grams. Data set C consists of the masses of the $150$ rocks from data sets A and B. What is the mean, in grams, of data set C?",
+  "choices": {},
+  "correctAnswer": "$$46$$",
+  "explanation": "The correct answer is $46$. The mean of a data set is the sum of the values divided by the number of values. For data set A, the sum of the masses is $60 \\times 28 = 1{,}680$ grams. For data set B, the sum of the masses is $90 \\times 58 = 5{,}220$ grams. Data set C combines all $150$ rocks, so its mean is $\\frac{1{,}680 + 5{,}220}{150} = \\frac{6{,}900}{150} = 46$ grams. Therefore, the mean of data set C is $46$ grams.",
+  "source": "https://cooksat.com/practice?questionId=051bbc66&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

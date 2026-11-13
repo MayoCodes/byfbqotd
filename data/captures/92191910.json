@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "92191910",
+  "capturedAt": "2026-11-13T23:44:24.495Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Read Value from Graph or Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe bar graph shows the number of books checked out from a library on each of four days. How many more books were checked out on Thursday than on Tuesday?",
+  "choices": {
+    "A": "$15$",
+    "B": "$60$",
+    "C": "$75$",
+    "D": "$135$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The bar representing Thursday has a height of $75$, so $75$ books were checked out on Thursday. The bar representing Tuesday has a height of $60$, so $60$ books were checked out on Tuesday. Therefore, $75 - 60$, or $15$ more books were checked out on Thursday than on Tuesday.",
+  "source": "https://cooksat.com/practice?questionId=92191910&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/92191910/1-dbd10c2317fae04d.png",
+      "kind": "diagram"
+    }
+  ]
+}

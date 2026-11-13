@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "42268ae5",
+  "capturedAt": "2026-11-13T23:43:24.551Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Mean from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the distance a remote-controlled car traveled in each of five trials. What was the mean distance, in meters, the car traveled per trial?",
+  "choices": {
+    "A": "$5$",
+    "B": "$9$",
+    "C": "$10$",
+    "D": "$12$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The mean of a set of data values is the sum of all the data values divided by the number of data values in the set. The distances shown in the table are $5$, $9$, $15$, $9$, and $12$ meters. The sum of these values is $5 + 9 + 15 + 9 + 12$, or $50$. Since there are $5$ trials, the mean distance is $\\frac{50}{5}$, or $10$ meters.",
+  "source": "https://cooksat.com/practice?questionId=42268ae5&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/42268ae5/1-80ea6b883ed55a34.png",
+      "kind": "diagram"
+    }
+  ]
+}

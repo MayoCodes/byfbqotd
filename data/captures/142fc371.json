@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "142fc371",
+  "capturedAt": "2026-11-13T23:42:46.609Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shown gives the number of volunteers from two different middle schools who participated in an annual community cleanup in each of five years. No student attended both schools. Which of the following statements are true about the number of volunteers who participated in the cleanup for the $5$ years shown?\n\nI. The mean number from Northgate Middle School is greater than the mean number from Riverside Middle School.\n\nII. The median number from Northgate Middle School is greater than the median number from Riverside Middle School.",
+  "choices": {
+    "A": "I only",
+    "B": "II only",
+    "C": "I and II",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The mean of a data set is the sum of the values divided by the number of values. The mean number of volunteers from Northgate Middle School is $\\frac{52 + 48 + 45 + 40 + 35}{5} = \\frac{220}{5}$, or $44$. The mean number from Riverside Middle School is $\\frac{20 + 28 + 33 + 42 + 47}{5} = \\frac{170}{5}$, or $34$. Thus, the mean number from Northgate Middle School is greater than the mean number from Riverside Middle School, and statement I is true. When a data set has an odd number of elements, the median can be found by ordering the values from least to greatest and selecting the middle value. Since there are five values in each data set, the third value in each ordered list is the median. The Northgate values in order are $35, 40, 45, 48, 52$, so its median is $45$. The Riverside values in order are $20, 28, 33, 42, 47$, so its median is $33$. Thus, the median number from Northgate Middle School is greater than the median number from Riverside Middle School, and statement II is true.",
+  "source": "https://cooksat.com/practice?questionId=142fc371&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/142fc371/1-36bde16151cf3434.png",
+      "kind": "diagram"
+    }
+  ]
+}

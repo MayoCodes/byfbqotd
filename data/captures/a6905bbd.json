@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a6905bbd",
+  "capturedAt": "2026-11-13T23:44:39.289Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Mean from Data",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The list gives the mass, in grams, of $5$ giant anteaters. $2,980$; $2,980$; $3,240$; $2,760$; $3,290$\n\nWhat is the mean mass, in grams, of these $5$ giant anteaters?",
+  "choices": {},
+  "correctAnswer": "$$3050$$",
+  "explanation": "The correct answer is $3050$. The mean of a data set is the sum of the values in the data set divided by the number of values in the data set. The sum of the masses, in grams, of these giant anteaters is $2{,}980 + 2{,}980 + 3{,}240 + 2{,}760 + 3{,}290$, or $15{,}250$ grams. The number of giant anteaters in the data set is $5$. Therefore, the mean mass, in grams, of these $5$ giant anteaters is $\\frac{15{,}250}{5}$, or $3{,}050$.",
+  "source": "https://cooksat.com/practice?questionId=a6905bbd&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

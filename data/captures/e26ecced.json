@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e26ecced",
+  "capturedAt": "2026-11-13T23:45:20.627Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Find Missing Value Given Mean",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Seven of the $8$ integers in a data set are $72$, $75$, $78$, $82$, $85$, $91$, and $95$. If the mean of all $8$ integers is $84$, what is the value of the eighth integer?",
+  "choices": {},
+  "correctAnswer": "$$94$$",
+  "explanation": "The correct answer is $94$. The sum of the $7$ integers is $72 + 75 + 78 + 82 + 85 + 91 + 95 = 578$. If the mean of $8$ integers is $84$, the total sum is $8 \\times 84 = 672$. The eighth integer is $672 - 578 = 94$.",
+  "source": "https://cooksat.com/practice?questionId=e26ecced&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

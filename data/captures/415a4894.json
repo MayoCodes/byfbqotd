@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "415a4894",
+  "capturedAt": "2026-11-13T23:43:22.381Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare Standard Deviations or Spread",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe results of two independent studies of adult resting heart rates are shown in the table. Which statement is true based on the table?",
+  "choices": {
+    "A": "The Group X data set was identical to the Group Y data set.",
+    "B": "Group Y contained the participant with the highest heart rate.",
+    "C": "The median heart rate of Group Y is larger than the median heart rate of Group X.",
+    "D": "The heart rates of the adults in Group Y had a larger spread than the heart rates of the adults in Group X."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Standard deviation is a measure of spread, so data sets with larger standard deviations tend to have larger spread. The standard deviation of the heart rates of the adults in Group Y ($14.6$) is larger than the standard deviation of the heart rates of the adults in Group X ($8.4$). Therefore, the heart rates of the adults in Group Y had a larger spread than the heart rates of the adults in Group X.",
+  "source": "https://cooksat.com/practice?questionId=415a4894&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/415a4894/1-03636369d4ef3661.png",
+      "kind": "diagram"
+    }
+  ]
+}

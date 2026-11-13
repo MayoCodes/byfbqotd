@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7d684843",
+  "capturedAt": "2026-11-13T23:44:09.968Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare Standard Deviations or Spread",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe histograms summarize the distributions of the numbers of minutes studied per week for students in class X and class Y.\n\nWhich statement best compares the standard deviations of the numbers of minutes studied per week for these classes?",
+  "choices": {
+    "A": "The standard deviation of minutes studied for class X is less than the standard deviation of minutes studied for class Y.",
+    "B": "The standard deviation of minutes studied for class X is greater than the standard deviation of minutes studied for class Y.",
+    "C": "The standard deviation of minutes studied for class X is equal to the standard deviation of minutes studied for class Y.",
+    "D": "There is not enough information to compare the standard deviations."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Standard deviation measures the spread of a data set from its mean. A data set with smaller standard deviation has more values close to the mean, while a data set with greater standard deviation has more values farther from the mean. The two histograms have the same scale on the horizontal axis, so their standard deviations can be compared by visually comparing the spreads. For class X, the distribution is concentrated near the center, with most values clustered in the $60$ to $90$ minute range. For class Y, the distribution is spread across the entire range from $40$ to $110$ minutes, with the highest frequencies at the extreme low and high ends. Since class X's values are tightly clustered near the center while class Y's values are dispersed toward the extremes, the standard deviation of minutes studied for class X is less than the standard deviation of minutes studied for class Y.",
+  "source": "https://cooksat.com/practice?questionId=7d684843&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7d684843/1-eedec79b3015f6ad.png",
+      "kind": "diagram"
+    }
+  ]
+}

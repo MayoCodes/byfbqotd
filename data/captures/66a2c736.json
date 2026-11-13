@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "66a2c736",
+  "capturedAt": "2026-11-13T23:43:50.223Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare Standard Deviations or Spread",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A data set of $23$ different numbers has a mean of $45$ and a median of $45$. A new data set is created by adding $6$ to each number in the original data set that is greater than the median and subtracting $6$ from each number in the original data set that is less than the median. Which of the following measures does NOT have the same value in both the original and new data sets?",
+  "choices": {
+    "A": "Mean",
+    "B": "Median",
+    "C": "Standard deviation",
+    "D": "Sum of the numbers"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. With $23$ different numbers ordered from least to greatest, the median is the middle (12th) value. So $11$ numbers are below the median, one number equals $45$, and $11$ numbers are above the median. Subtracting $6$ from each value below the median and adding $6$ to each value above the median causes the data to spread farther from the median. Since the median equals the mean ($45$), the data also spread farther from the mean. Standard deviation measures how spread out the data are from the mean, so a greater spread from the mean indicates an increased standard deviation.",
+  "source": "https://cooksat.com/practice?questionId=66a2c736&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

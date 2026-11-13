@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "64ae7c9a",
+  "capturedAt": "2026-11-13T23:43:47.011Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Find Missing Value Given Mean",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nPriya and Jordan each collected six seashells, and the masses of the seashells are shown in the table above. The mean of the masses of the seashells Jordan collected is $0.2$ kilogram greater than the mean of the masses of the seashells Priya collected. What is the value of $x$?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{11}{5},2.2,2.20$$",
+  "explanation": "The correct answer is $\\frac{11}{5}$. The mean of a set of numbers can be found by adding the numbers together and dividing by how many numbers there are in the set. The mean mass, in kilograms, of the seashells Priya collected is $\\frac{1.6 + 2.0 + 1.8 + 2.2 + 1.5 + 1.7}{6} = \\frac{10.8}{6}$, or $1.8$. Since the mean mass of the seashells Jordan collected is $0.2$ kilogram greater than the mean mass of the seashells Priya collected, the mean mass of the seashells Jordan collected is $1.8 + 0.2 = 2.0$ kilograms. The value of $x$ can be found by writing an equation for finding the mean: $\\frac{x + 1.9 + 2.3 + 1.8 + 2.1 + 1.7}{6} = 2.0$. Solving this equation gives $x = 2.2$. Note that 11/5, 2.2, and 2.20 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=64ae7c9a&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/64ae7c9a/1-dd89a2f0a8ec0b07.png",
+      "kind": "diagram"
+    }
+  ]
+}

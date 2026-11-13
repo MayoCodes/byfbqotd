@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "436570b5",
+  "capturedAt": "2026-11-13T23:43:26.534Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Conceptual Understanding of Statistics",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A plant nursery has three greenhouses for growing saplings before they are transplanted. Nine saplings with heights less than $20$ centimeters are placed in greenhouse A. Thirteen saplings with heights of at least $20$ centimeters but no more than $35$ centimeters are placed in greenhouse B. Eleven saplings with heights greater than $35$ centimeters are placed in greenhouse C. Which of the following could be the median of the heights, in centimeters, of these $33$ saplings?",
+  "choices": {
+    "A": "$15$",
+    "B": "$28$",
+    "C": "$36$",
+    "D": "$42$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The median of a set of numbers is the middle value when the values are ordered from least to greatest. There are $33$ saplings, so in an ordered list of the heights, the $17$th value would be the median height. The $9$ saplings in greenhouse A have the smallest heights, so these would be the $1$st through $9$th values in the ordered list. The $13$ saplings in greenhouse B have the next set of higher heights, so they would be the $10$th through $22$nd values in the ordered list, which includes the $17$th value. The saplings in greenhouse B have heights of at least $20$ centimeters but no more than $35$ centimeters; of the given choices, only $28$ centimeters falls within this range.",
+  "source": "https://cooksat.com/practice?questionId=436570b5&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

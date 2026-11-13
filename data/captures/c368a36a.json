@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c368a36a",
+  "capturedAt": "2026-11-13T23:45:00.963Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Data set P consists of $62$ integers between $340$ and $480$. Data set Q consists of all the integers in data set P as well as the integer $25$. Which of the following must be less for data set P than for data set Q?\n\nI. The mean\n\nII. The median",
+  "choices": {
+    "A": "I only",
+    "B": "II only",
+    "C": "I and II",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that data set P consists of $62$ integers between $340$ and $480$ and data set Q consists of all the integers in data set P as well as the integer $25$. Since the integer $25$ is less than all the integers in data set P, the mean of data set Q must be less than the mean of data set P. Thus, the mean of data set P isn't less than the mean of data set Q. When a data set is in ascending order, the median is between the two middle values when there is an even number of values and the median is the middle value when there is an odd number of values. Adding a value below all existing values shifts the middle position(s) toward the lower end, so the median of data set P is either greater than or equal to the median of data set Q. Therefore, the median of data set P isn't less than the median of data set Q. Thus, neither the mean nor the median must be less for data set P than for data set Q.",
+  "source": "https://cooksat.com/practice?questionId=c368a36a&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "00998561",
+  "capturedAt": "2026-11-13T23:42:25.723Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A data set consists of $15$ consecutive integers. A new data set is created by adding $10$ to each of the three largest integers in the original data set. Which of the following measures must have the same value in both the original data set and the new data set?",
+  "choices": {
+    "A": "Mean",
+    "B": "Range",
+    "C": "Median",
+    "D": "Standard deviation"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since there are $15$ values in the data set, the median is the $8$th value when the data is arranged in order. Adding $10$ to only the three largest values (the $13$th, $14$th, and $15$th values) does not change the $8$th value. Therefore, the median remains the same in both data sets.",
+  "source": "https://cooksat.com/practice?questionId=00998561&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

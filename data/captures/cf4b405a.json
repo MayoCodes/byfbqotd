@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cf4b405a",
+  "capturedAt": "2026-11-13T23:45:06.614Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Data set X is the set consisting of the following eight numbers: $2$, $4$, $6$, $8$, $10$, $12$, $14$, $16$. Data set Y is the set consisting of the following eight numbers: $2$, $2$, $4$, $4$, $6$, $6$, $8$, $8$.\n\nWhich of the following statements correctly compares the means of data set X and data set Y?",
+  "choices": {
+    "A": "The mean of each data set is $5$.",
+    "B": "The mean of each data set is $9$.",
+    "C": "The mean of data set X is less than the mean of data set Y.",
+    "D": "The mean of data set X is greater than the mean of data set Y."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The mean of a data set is found by dividing the sum of the values in the data set by the number of values in the data set. Therefore, the mean of data set X is $\\frac{2 + 4 + 6 + 8 + 10 + 12 + 14 + 16}{8} = \\frac{72}{8}$, or $9$. The mean of data set Y is $\\frac{2 + 2 + 4 + 4 + 6 + 6 + 8 + 8}{8} = \\frac{40}{8}$, or $5$. Therefore, the mean of data set X is greater than the mean of data set Y.\n\nAlternate approach: Data set X and data set Y are both ordered from least to greatest. Besides the first value in each data set, which is $2$, each value in ordered data set Y is less than the respective value in ordered data set X. Therefore, the mean of data set X must be greater than the mean of data set Y.",
+  "source": "https://cooksat.com/practice?questionId=cf4b405a&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

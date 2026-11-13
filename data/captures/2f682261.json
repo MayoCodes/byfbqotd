@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2f682261",
+  "capturedAt": "2026-11-13T23:43:00.768Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Median from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe dot plots show the number of hours spent studying last week for two groups of students. What is the median number of hours for Group A?",
+  "choices": {
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Group A has $9$ data values. Listing them in order: $1, 2, 2, 3, 3, 3, 4, 5, 5$. The median is the middle value, which is the $5$th value. The $5$th value is $3$.",
+  "source": "https://cooksat.com/practice?questionId=2f682261&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2f682261/1-73afd82675da147a.png",
+      "kind": "diagram"
+    }
+  ]
+}

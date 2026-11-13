@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6cb3113f",
+  "capturedAt": "2026-11-13T23:43:58.264Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Mean from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nFor a quality assessment, a ceramics factory conducted five production runs. In each run, $200$ tiles were inspected. The bar graph above shows the number of flawed tiles found in each run. What is the mean number of flawed tiles for the five runs?",
+  "choices": {
+    "A": "$4.0$",
+    "B": "$4.8$",
+    "C": "$5.0$",
+    "D": "$6.0$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The numbers of flawed tiles found for the five runs are $5$, $2$, $8$, $6$, and $3$. The mean is therefore $\\frac{5 + 2 + 8 + 6 + 3}{5} = \\frac{24}{5} = 4.8$.",
+  "source": "https://cooksat.com/practice?questionId=6cb3113f&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6cb3113f/1-571a34fdf38759e6.png",
+      "kind": "diagram"
+    }
+  ]
+}

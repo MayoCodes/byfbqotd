@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3655b801",
+  "capturedAt": "2026-11-13T23:43:09.071Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare Standard Deviations or Spread",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Data set $A$ consists of the $5$ numbers: $2, 4, 6, 8, 10$. Data set $B$ is created by adding $3$ to each number in data set $A$. Data set $C$ is created by multiplying each number in data set $A$ by $3$. Which of the following correctly compares the standard deviations of these three data sets?",
+  "choices": {
+    "A": "$A < B = C$",
+    "B": "$B < A < C$",
+    "C": "$A = B < C$",
+    "D": "$A = B = C$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Standard deviation measures spread around the mean. Adding a constant to all values shifts the entire distribution but doesn't change the spread, so data sets $A$ and $B$ have the same standard deviation. However, multiplying all values by a constant multiplies the standard deviation by that constant. For data set $A$: mean $= 6$, deviations are $-4, -2, 0, 2, 4$, variance $= \\frac{16+4+0+4+16}{5} = 8$, so standard deviation $= \\sqrt{8} \\approx 2.83$. For data set $C$ (multiplying by $3$), the standard deviation becomes $3 \\times 2.83 \\approx 8.49$. Therefore, $\\text{SD}_A = \\text{SD}_B < \\text{SD}_C$.",
+  "source": "https://cooksat.com/practice?questionId=3655b801&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

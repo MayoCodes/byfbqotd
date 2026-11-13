@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b700ba49",
+  "capturedAt": "2026-11-13T23:44:49.246Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Find Missing Value Given Mean",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A data set consists of $6$ values: $12$, $15$, $x$, $20$, $23$, and $25$. If the mean of this data set is $19$, what is the value of $x$?",
+  "choices": {},
+  "correctAnswer": "$$19$$",
+  "explanation": "The correct answer is $19$. The mean of a data set is the sum of all values divided by the number of values. It's given that the data set consists of $6$ values: $12$, $15$, $x$, $20$, $23$, and $25$, and that the mean is $19$. Therefore, $\\frac{12 + 15 + x + 20 + 23 + 25}{6} = 19$. Simplifying the numerator yields $\\frac{95 + x}{6} = 19$. Multiplying both sides by $6$ gives $95 + x = 114$. Subtracting $95$ from both sides yields $x = 19$. To verify: $\\frac{12 + 15 + 19 + 20 + 23 + 25}{6} = \\frac{114}{6} = 19$. Therefore, the value of $x$ is $19$.",
+  "source": "https://cooksat.com/practice?questionId=b700ba49&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

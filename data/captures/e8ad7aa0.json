@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e8ad7aa0",
+  "capturedAt": "2026-11-13T23:45:22.400Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Median from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe box plot summarizes $21$ data values. What is the median of this data set?",
+  "choices": {
+    "A": "$10$",
+    "B": "$14$",
+    "C": "$18$",
+    "D": "$26$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The median of a data set represented in a box plot is given by the vertical line within the box. In the given box plot, the vertical line within the box occurs at $18$. Therefore, the median of this data set is $18$.",
+  "source": "https://cooksat.com/practice?questionId=e8ad7aa0&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e8ad7aa0/1-0512cd504319d5c5.png",
+      "kind": "diagram"
+    }
+  ]
+}

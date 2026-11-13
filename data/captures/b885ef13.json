@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b885ef13",
+  "capturedAt": "2026-11-13T23:44:53.697Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Weighted or Combined Mean",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The mean of a data set of $n$ values is $18$. When the greatest value, which is $42$, is removed, the mean of the remaining values is $15$. What is the value of $n$?",
+  "choices": {},
+  "correctAnswer": "$$9$$",
+  "explanation": "The correct answer is $9$. The sum of the original $n$ values is $18n$. After removing $42$, the sum of the remaining $n - 1$ values is $15(n - 1)$. Since removing $42$ reduces the sum by $42$: $18n - 42 = 15(n - 1)$. Expanding: $18n - 42 = 15n - 15$. Solving: $3n = 27$, so $n = 9$.",
+  "source": "https://cooksat.com/practice?questionId=b885ef13&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

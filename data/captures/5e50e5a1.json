@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5e50e5a1",
+  "capturedAt": "2026-11-13T23:43:44.837Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Data set P consists of $11$ data values, each of which is the integer $8$. Data set Q consists of $12$ data values, eleven of which are the integer $8$, and one of which is the integer $150$.\n\nWhich of the following statements about the means and medians of data set P and data set Q is true?",
+  "choices": {
+    "A": "Only the means are different.",
+    "B": "Only the medians are different.",
+    "C": "Both the means and the medians are different.",
+    "D": "Neither the means nor the medians are different."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The mean of a data set is the sum of the values divided by the number of values. The mean of data set P is $\\frac{88}{11}$, or $8$. The mean of data set Q is $\\frac{238}{12}$, or approximately $19.83$. Thus, the means are different. The median of a data set is the middle value when the values are ordered from least to greatest. The median of data set P is $8$, and the median of data set Q is the average of the two middle values, which are both $8$, so the median of data set Q is also $8$. Therefore, the medians are the same, so only the means are different.",
+  "source": "https://cooksat.com/practice?questionId=5e50e5a1&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

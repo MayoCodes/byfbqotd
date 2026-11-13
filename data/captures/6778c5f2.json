@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6778c5f2",
+  "capturedAt": "2026-11-13T23:43:52.448Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Median from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$42$, $45$, $48$, $50$, $54$, $58$, $61$, $67$, $70$\n\nWhat is the median of the data shown?",
+  "choices": {
+    "A": "$42$",
+    "B": "$54$",
+    "C": "$55$",
+    "D": "$58$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The median of a data set with an odd number of values is the middle value of the ordered list. The given data set has nine values already in order, so the median is the fifth value, which is $54$.",
+  "source": "https://cooksat.com/practice?questionId=6778c5f2&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": []
+}

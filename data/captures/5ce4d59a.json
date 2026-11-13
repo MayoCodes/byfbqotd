@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5ce4d59a",
+  "capturedAt": "2026-11-13T23:43:42.966Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare Standard Deviations or Spread",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows three statistics for each of two different data sets. Which of the following statements is true?",
+  "choices": {
+    "A": "The range of values in data set $A$ is greater than the range of values in data set $B$.",
+    "B": "The standard deviation of the values in data set $A$ is greater than the standard deviation of the values in data set $B$.",
+    "C": "The mean of the values in data set $A$ is less than the mean of the values in data set $B$.",
+    "D": "The range of values in data set $B$ is greater than the range of values in data set $A$."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The range of a data set is equal to the maximum value minus the minimum value. The range of the values in data set A is equal to 10 minus 0, or 10, and the range of the values in data set B is equal to 10 minus -10, or 20. Therefore, the range of values in data set B is greater than the range of values in data set A.",
+  "source": "https://cooksat.com/practice?questionId=5ce4d59a&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/5ce4d59a/1-63d2f589490d6adc.png",
+      "kind": "diagram"
+    }
+  ]
+}

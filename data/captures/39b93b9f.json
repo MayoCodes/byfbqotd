@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "39b93b9f",
+  "capturedAt": "2026-11-13T23:43:18.175Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Transformation on Statistics",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nOver this $5$-week period, which of the following is NOT equal to $47$ books?",
+  "choices": {
+    "A": "Median of the number of books sold",
+    "B": "Mean of the number of books sold",
+    "C": "Mode of the number of books sold",
+    "D": "Range of the number of books sold"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The range of a data set is the difference between the maximum and the minimum values in the set. The maximum number of books sold in the table is $49$ and the minimum is $45$. Therefore, the range is $49 - 45 = 4$ books, which is not equal to $47$ books.",
+  "source": "https://cooksat.com/practice?questionId=39b93b9f&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/39b93b9f/1-d0181169531c57ee.png",
+      "kind": "diagram"
+    }
+  ]
+}

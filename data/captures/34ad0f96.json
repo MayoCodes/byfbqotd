@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "34ad0f96",
+  "capturedAt": "2026-11-13T23:43:05.021Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Transformation on Statistics",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$5$, $5$, $5$, $5$, $7$, $7$, $7$, $11$, $11$\n\nWhich frequency table correctly represents the data listed?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A frequency table is a table that lists each data value and shows the number of times the data value occurs. In the data listed, the number $5$ occurs four times, the number $7$ occurs three times, and the number $11$ occurs two times. This corresponds to the table in choice A.",
+  "source": "https://cooksat.com/practice?questionId=34ad0f96&subject=math&domain=problem-solving-and-data-analysis&skills=one-variable_data_distributions_and_measures_of_center_and_spread&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/34ad0f96/1-b7c67cf43f7f6805.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/34ad0f96/2-715bf730231f4906.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/34ad0f96/3-a1c1bdd5f3abb148.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/34ad0f96/4-a0eb28149dca2560.png",
+      "kind": "diagram"
+    }
+  ]
+}
