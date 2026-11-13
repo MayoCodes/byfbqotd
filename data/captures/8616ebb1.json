@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8616ebb1",
+  "capturedAt": "2026-11-13T22:16:29.907Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Two parallel lines are intersected by a third line. One of the angles formed measures $62°$. If this angle and angle $y$ together form a straight line, what is the measure, in degrees, of the alternate interior angle to angle $y$?",
+  "choices": {
+    "A": "$28$",
+    "B": "$62$",
+    "C": "$118$",
+    "D": "$152$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Since the $62°$ angle and angle $y$ form a straight line, $y = 180° - 62° = 118°$. Alternate interior angles are equal, so the alternate interior angle to $y$ is also $118°$.",
+  "source": "https://cooksat.com/practice?questionId=8616ebb1&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

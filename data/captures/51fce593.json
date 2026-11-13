@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "51fce593",
+  "capturedAt": "2026-11-13T22:15:52.985Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangles $ABC$ and $DEF$, angle $A$ has measure $50°$ and angle $B$ has measure $65°$. In triangle $DEF$, angle $D$ has measure $50°$ and angle $E$ has measure $65°$. Additionally, $AB=12$ and $DE=36$. Which statement best describes the information needed to prove that triangle $ABC$ is similar to triangle $DEF$?",
+  "choices": {
+    "A": "The side lengths $BC$ and $EF$ must be known",
+    "B": "The measures of angles $C$ and $F$ must be known",
+    "C": "The lengths of all three sides of both triangles must be known",
+    "D": "No additional information is needed"
+  },
+  "correctAnswer": "D",
+  "explanation": "Two triangles are similar if they have two pairs of congruent corresponding angles. It is given that angle $A$ and angle $D$ both measure $50°$, and angle $B$ and angle $E$ both measure $65°$. These two pairs of congruent corresponding angles prove that triangle $ABC$ is similar to triangle $DEF$ by the AA similarity criterion, so no additional information is needed.",
+  "source": "https://cooksat.com/practice?questionId=51fce593&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

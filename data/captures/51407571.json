@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "51407571",
+  "capturedAt": "2026-11-13T22:15:50.914Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, line $m$ is parallel to line $n$, and both lines are intersected by line $t$. If $w = 2x + 6$, what is the value of $x$?\n\n$$0$$\n\n$$64$$",
+  "choices": {},
+  "correctAnswer": "$64$",
+  "explanation": "The correct answer is $64$. Based on the figure, the angle with measure $w ^\\circ$ and the angle vertical to the angle with measure $46 ^\\circ$ are same-side interior angles. Since vertical angles are congruent, the angle vertical to the angle with measure $46 ^\\circ$ also has measure $46 ^\\circ$. It's given that lines $m$ and $n$ are parallel. Therefore, same-side interior angles between lines $m$ and $n$ are supplementary. It follows that $w + 46 = 180$. If $w = 2x + 6$, substituting $2x + 6$ for $w$ in the equation $w + 46 = 180$ yields $\\left(2x + 6\\right) + 46 = 180$, or $2x + 52 = 180$. Subtracting $52$ from both sides of this equation yields $2x = 128$. Dividing both sides of this equation by $2$ yields $x = 64$. Thus, if $w = 2x + 6$, the value of $x$ is $64$.",
+  "source": "https://cooksat.com/practice?questionId=51407571&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/51407571/1-9c766061f01fbf09.png",
+      "kind": "diagram"
+    }
+  ]
+}

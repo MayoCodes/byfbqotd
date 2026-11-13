@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9b9e112f",
+  "capturedAt": "2026-11-13T22:16:47.708Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $JKL$, the measure of angle $J$ is $47 ^°$ and $JL = 20$. In triangle $XYZ$, the measure of angle $X$ is $47 ^°$ and $XZ = 80$. Which additional piece of information is sufficient to prove that triangle $JKL$ is similar to triangle $XYZ$?",
+  "choices": {
+    "A": "$JK = 45$ and $XY = 45$.",
+    "B": "$JK = 45$ and $YZ = 180$.",
+    "C": "The measures of angle $K$ and angle $Z$ are $29 ^°$ and $104 ^°$, respectively.",
+    "D": "The measures of angle $K$ and angle $Y$ are $47 ^°$ and $29 ^°$, respectively."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the measure of angle $J$ is $47 ^\\circ$ and the measure of angle $X$ is $47 ^\\circ$, so angle $J$ is congruent to angle $X$. If the measure of angle $K$ is $29 ^\\circ$, then the measure of angle $L$ is $180 ^\\circ - 47 ^\\circ - 29 ^\\circ = 104 ^\\circ$, since the sum of the angle measures in a triangle is $180 ^\\circ$. Similarly, if the measure of angle $Z$ is $104 ^\\circ$, then the measure of angle $Y$ in triangle $XYZ$ is $180 ^\\circ - 47 ^\\circ - 104 ^\\circ = 29 ^\\circ$. Therefore, angle $K$ is congruent to angle $Y$ and angle $L$ is congruent to angle $Z$. When two angles of one triangle are congruent to two angles of another triangle, the triangles are similar by the angle-angle similarity criterion. Thus, this information is sufficient to prove that triangle $JKL$ is similar to triangle $XYZ$.",
+  "source": "https://cooksat.com/practice?questionId=9b9e112f&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

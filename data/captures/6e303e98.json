@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6e303e98",
+  "capturedAt": "2026-11-13T22:16:09.719Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Exterior Angle Theorem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the triangle shown, $a$ and $b$ are constants. If the triangle is isosceles, which of the following could be the values of $a$ and $b$?",
+  "choices": {
+    "A": "$a = 40$ and $b = 60$",
+    "B": "$a = 50$ and $b = 60$",
+    "C": "$a = 55$ and $b = 55$",
+    "D": "$a = 70$ and $b = 70$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The angles in a triangle sum to $180°$. With $a = 55$ and $b = 55$: $70 + 55 + 55 = 180°$. Since the two base angles are equal, the triangle is isosceles.",
+  "source": "https://cooksat.com/practice?questionId=6e303e98&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6e303e98/1-ce1538603f8c7ac4.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "97d623fd",
+  "capturedAt": "2026-11-13T22:16:46.056Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $PQR$ and triangle $STU$, $PQ$ and $ST$ are each equal to $8$ centimeters, and angles $Q$ and $T$ each have measure $42 ^°$. Which additional piece of information is sufficient to prove that triangle $PQR$ is congruent to triangle $STU$?",
+  "choices": {
+    "A": "The lengths of sides $PR$ and $SU$ are equal.",
+    "B": "The lengths of sides $QR$ and $TU$ are equal.",
+    "C": "The measures of angles $P$ and $R$ are equal.",
+    "D": "No additional information is necessary to prove that the two triangles are congruent."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $PQ = ST = 8$ centimeters and that angle $Q$ and angle $T$ each have measure $42 ^\\circ$. Choice B states that the lengths of sides $QR$ and $TU$ are equal. In triangle $PQR$, sides $PQ$ and $QR$ are the two sides that include angle $Q$. In triangle $STU$, sides $ST$ and $TU$ are the two sides that include angle $T$. By the side-angle-side (SAS) congruence theorem, if two sides and the included angle of one triangle are congruent to two sides and the included angle of another triangle, then the triangles are congruent. Since $PQ = ST$, angle $Q$ is congruent to angle $T$, and $QR = TU$, it follows that triangle $PQR$ is congruent to triangle $STU$.",
+  "source": "https://cooksat.com/practice?questionId=97d623fd&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

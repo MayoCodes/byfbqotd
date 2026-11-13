@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8e32cd9b",
+  "capturedAt": "2026-11-13T22:16:40.854Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At a certain time of day, a lighthouse casts a shadow that is $275$ feet long. At the same time, a nearby flagpole casts a shadow that is $17$ feet long. Given that the lighthouse is approximately $720$ feet tall, which of the following is closest to the height, in feet, of the flagpole?",
+  "choices": {
+    "A": "$30$",
+    "B": "$40$",
+    "C": "$45$",
+    "D": "$50$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. There is a proportional relationship between the height of an object and the length of its shadow. Let $h$ represent the height, in feet, of the flagpole. The given relationship can be expressed by the proportion $\\frac{720}{275} = \\frac{h}{17}$. Multiplying both sides of this equation by $17$ yields $h \\approx 44.51$. This height is closest to the value given in choice C, $45$.",
+  "source": "https://cooksat.com/practice?questionId=8e32cd9b&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cf2b3b36",
+  "capturedAt": "2026-11-13T22:17:17.125Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale.\n\nIn the figure shown, point $N$ lies on segment $MR$, and segment $NP$ is parallel to segment $QR$. The measure of angle $Q$ is $35^°$, the measure of angle $MNP$ is $68^°$, the measure of angle $NPQ$ is $a^°$, and the measure of angle $NRQ$ is $b^°$. What is the value of $a - b$?\n\n$$0$$\n\n$$77$$",
+  "choices": {},
+  "correctAnswer": "$77$",
+  "explanation": "The correct answer is $77$. It's given that point $N$ lies on segment $\\overline{MR}$. Therefore, angles $MNP$ and $PNR$ form a linear pair and are supplementary. Since the measure of angle $MNP$ is $68^\\circ$, the measure of angle $PNR$ is $(180 - 68)^\\circ$, or $112^\\circ$. It's given that segment $\\overline{NP}$ is parallel to segment $\\overline{QR}$. In quadrilateral $NPQR$, since $\\overline{NP} \\parallel \\overline{QR}$, consecutive angles on the same side are supplementary. Therefore, the measure of angle $NPQ$ plus the measure of angle $PQR$ equals $180^\\circ$. Since the measure of angle $Q$ is $35^\\circ$, the measure of angle $NPQ$ is $(180 - 35)^\\circ = 145^\\circ$. Since the measure of angle $NPQ$ is $a^\\circ$, it follows that $a = 145$. Similarly, the measure of angle $PNR$ plus the measure of angle $NRQ$ equals $180^\\circ$. Since the measure of angle $PNR$ is $112^\\circ$, the measure of angle $NRQ$ is $(180 - 112)^\\circ = 68^\\circ$. Since the measure of angle $NRQ$ is $b^\\circ$, it follows that $b = 68$. Therefore, $a - b = 145 - 68 = 77$.",
+  "source": "https://cooksat.com/practice?questionId=cf2b3b36&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/cf2b3b36/1-93183693e0145626.png",
+      "kind": "diagram"
+    }
+  ]
+}

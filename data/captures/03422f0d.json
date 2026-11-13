@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "03422f0d",
+  "capturedAt": "2026-11-13T22:15:05.022Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Triangles $PQR$ and $STU$ are congruent, where $P$ corresponds to $S$, and $Q$ and $T$ are right angles. The measure of angle $P$ is $57 ^°$. What is the measure, in degrees, of angle $U$?\n\n$$0$$\n\n$$33$$",
+  "choices": {},
+  "correctAnswer": "$33$",
+  "explanation": "The correct answer is $33$. It's given that triangles $PQR$ and $STU$ are congruent, where $P$ corresponds to $S$. Corresponding angles of congruent triangles have equal measure. Since the measure of angle $P$ is $57 ^\\circ$, the measure of angle $S$ is also $57 ^\\circ$. It's given that angle $T$ is a right angle, so the measure of angle $T$ is $90 ^\\circ$. Since the measures of the angles in a triangle sum to $180 ^\\circ$, it follows that $57 + 90 + U = 180$, where $U$ represents the measure of angle $U$ in degrees. This simplifies to $147 + U = 180$. Subtracting $147$ from both sides yields $U = 33$. Therefore, the measure of angle $U$ is $33$ degrees.",
+  "source": "https://cooksat.com/practice?questionId=03422f0d&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

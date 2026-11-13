@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a97c6f3c",
+  "capturedAt": "2026-11-13T22:16:56.821Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure above, lines $s$ and $t$ are parallel. What is the value of $v$?",
+  "choices": {
+    "A": "$25$",
+    "B": "$35$",
+    "C": "$55$",
+    "D": "$70$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Because lines $s$ and $t$ are parallel, the angle marked $145 ^\\circ$ and the leftmost angle marked $u ^\\circ$ are same-side interior angles and therefore supplementary. Thus $145 ^\\circ + u ^\\circ = 180 ^\\circ$, which yields $u = 35$. Lines $r$ and $s$ intersect at a right angle, so lines $p$, $r$, and $s$ form a right triangle whose two acute angles are $u ^\\circ$ and $v ^\\circ$. The acute angles of a right triangle are complementary, so $u ^\\circ + v ^\\circ = 90 ^\\circ$. Substituting $u = 35$ yields $35 ^\\circ + v ^\\circ = 90 ^\\circ$, and $v = 55$.",
+  "source": "https://cooksat.com/practice?questionId=a97c6f3c&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a97c6f3c/1-33b2f6d1c87fe2c9.png",
+      "kind": "diagram"
+    }
+  ]
+}

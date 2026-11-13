@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f9e0a4ed",
+  "capturedAt": "2026-11-13T22:17:45.368Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, $LM = MK$, the measure of angle $PNM$ is $21 ^°$, the measure of angle $KML$ is $x°$, and the measure of angle $LPN$ is $34 ^°$. What is the value of $x$?\n\n$$0$$\n\n$$154$$",
+  "choices": {},
+  "correctAnswer": "$154$",
+  "explanation": "The correct answer is $154$. In the figure, points $K$, $P$, and $L$ are collinear, so the sum of the measures of angle $KPN$ and angle $LPN$ is $180 ^\\circ$. It's given that the measure of angle $LPN$ is $34 ^\\circ$. Therefore, the measure of angle $KPN$ is $(180 - 34) ^\\circ$, or $146 ^\\circ$. Since $M$ lies on side $NK$, angle $PNM$ is the same as angle $PNK$. It's given that the measure of angle $PNM$ is $21 ^\\circ$, so the measure of angle $PNK$ is $21 ^\\circ$. The sum of the measures of the interior angles of a triangle is $180 ^\\circ$, so in triangle $KPN$, the measure of angle $NKP$ is $(180 - 146 - 21) ^\\circ$, or $13 ^\\circ$. Since $M$ lies on side $NK$ and $P$ lies on side $KL$, angle $NKP$ is the same as angle $MKL$. Therefore, the measure of angle $MKL$ is $13 ^\\circ$. It's given that $LM = MK$, so triangle $MKL$ is isosceles and the measure of angle $MLK$ is also $13 ^\\circ$. Thus, the measure of angle $KML$ is $(180 - 13 - 13) ^\\circ$, or $154 ^\\circ$. The measure of angle $KML$ is $x ^\\circ$, so the value of $x$ is $154$.",
+  "source": "https://cooksat.com/practice?questionId=f9e0a4ed&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f9e0a4ed/1-dde668b597054418.png",
+      "kind": "diagram"
+    }
+  ]
+}

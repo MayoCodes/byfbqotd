@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5ce55861",
+  "capturedAt": "2026-11-13T22:15:56.242Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, line $p$ is parallel to line $q$, and line $r$ intersects both lines. What is the value of $y$?",
+  "choices": {
+    "A": "$42$",
+    "B": "$48$",
+    "C": "$132$",
+    "D": "$138$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that line $p$ is parallel to line $q$, and line $r$ intersects both lines, making line $r$ a transversal. When two parallel lines are intersected by a transversal, exterior angles on the same side of the transversal are supplementary. Thus, $y + 48 = 180$. Subtracting $48$ from both sides of this equation yields $y = 132$. Therefore, the value of $y$ is $132$.",
+  "source": "https://cooksat.com/practice?questionId=5ce55861&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5ce55861/1-b9937d8944ac2965.png",
+      "kind": "diagram"
+    }
+  ]
+}

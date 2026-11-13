@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cf284c7c",
+  "capturedAt": "2026-11-13T22:17:15.289Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangles $PQR$ and $MNT$, angles $Q$ and $N$ each have measure $34 ^°$ and angles $R$ and $T$ each have measure $58 ^°$. Which additional piece of information is sufficient to determine whether triangle $PQR$ is congruent to triangle $MNT$?",
+  "choices": {
+    "A": "The measure of angle $P$",
+    "B": "The length of side $PQ$",
+    "C": "The lengths of sides $QR$ and $NT$",
+    "D": "No additional information is necessary."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since angle $Q$ and angle $N$ are congruent and angle $R$ and angle $T$ are congruent, the triangles are similar by the angle-angle criterion, with $P$ corresponding to $M$, $Q$ corresponding to $N$, and $R$ corresponding to $T$. Side $QR$ therefore corresponds to side $NT$. Knowing both of these lengths determines the scale factor between the triangles: if the lengths are equal the triangles are congruent, and if they are not equal the triangles are not congruent.",
+  "source": "https://cooksat.com/practice?questionId=cf284c7c&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

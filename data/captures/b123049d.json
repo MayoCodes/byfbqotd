@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b123049d",
+  "capturedAt": "2026-11-13T22:17:02.234Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figures not drawn to scale.\n\nFor the triangles shown, triangle $PQR$ is dilated by a scale factor of $3$ to obtain triangle $STU$, where $d = 17$, what is the measure, in degrees, of angle $S$?",
+  "choices": {
+    "A": "$16$",
+    "B": "$45$",
+    "C": "$48$",
+    "D": "$51$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that triangle $STU$ is obtained by a dilation of triangle $PQR$ by a scale factor of $3$. It follows that triangle $PQR$ is similar to triangle $STU$, where $P$ corresponds to $S$. Since corresponding angles in similar triangles have the same measure and the measure of angle $P$ is $48$ degrees, it follows that the measure of angle $S$ is also $48$ degrees.",
+  "source": "https://cooksat.com/practice?questionId=b123049d&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b123049d/1-5bd00564c14675c0.png",
+      "kind": "diagram"
+    }
+  ]
+}

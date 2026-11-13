@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "34a085cf",
+  "capturedAt": "2026-11-13T22:15:30.204Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangle $JKL$ is similar to triangle $PQN$ such that $J$, $K$, and $L$ correspond to $P$, $Q$, and $N$, respectively. The measure of $L$ is $30 ^°$ and $3 JK = PQ$. What is the measure of $N$?",
+  "choices": {
+    "A": "$3 ^°$",
+    "B": "$10 ^°$",
+    "C": "$30 ^°$",
+    "D": "$90 ^°$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that triangle $JKL$ is similar to triangle $PQN$, such that $J$, $K$, and $L$ correspond to $P$, $Q$, and $N$, respectively. Since corresponding angles of similar triangles are congruent, it follows that the measure of $\\angle L$ is equal to the measure of $\\angle N$. It's given that the measure of $\\angle L$ is $30 ^\\circ$. Therefore, the measure of $\\angle N$ is $30 ^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=34a085cf&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

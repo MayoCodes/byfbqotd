@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "428ee3d8",
+  "capturedAt": "2026-11-13T22:15:40.437Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Triangles $PQR$ and $STU$ are congruent, where $P$ corresponds to $S$, and $Q$ and $T$ are right angles. The measure of angle $P$ is $34 ^°$. What is the measure, in degrees, of angle $U$?\n\n$$0$$\n\n$$56$$",
+  "choices": {},
+  "correctAnswer": "$56$",
+  "explanation": "The correct answer is $56$. It's given that triangles $PQR$ and $STU$ are congruent with angle $P$ corresponding to angle $S$. Corresponding angles of congruent triangles have equal measure, so the measure of angle $S$ is $34 ^\\circ$. It's given that angle $T$ is a right angle, so the measure of angle $T$ is $90 ^\\circ$. Let $x$ represent the measure, in degrees, of angle $U$. Since the measures of the angles in a triangle sum to $180 ^\\circ$, it follows that $34 + 90 + x = 180$, or $124 + x = 180$. Subtracting $124$ from both sides yields $x = 56$. Therefore, the measure, in degrees, of angle $U$ is $56$.",
+  "source": "https://cooksat.com/practice?questionId=428ee3d8&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

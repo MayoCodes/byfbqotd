@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "38446001",
+  "capturedAt": "2026-11-13T22:15:35.021Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, $SV$ intersects $NU$ at point $T$, and $SN$ is parallel to $UV$. The lengths of $NT$, $ST$, and $TU$ are $5$, $9$, and $13$, respectively. What is the length of $SV$?",
+  "choices": {
+    "A": "$\\frac{(65)}{(13)}$",
+    "B": "$\\frac{(117)}{(13)}$",
+    "C": "$\\frac{(117)}{5}$",
+    "D": "$\\frac{(162)}{5}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Angles $NTS$ and $UTV$ are vertical angles, so they are congruent. Since $\\overline{SN}$ is parallel to $\\overline{UV}$ and $\\overline{SV}$ is a transversal, alternate interior angles $NST$ and $UVT$ are congruent. Therefore, triangles $NST$ and $UVT$ are similar by AA similarity. Sides $ST$ and $NT$ in triangle $NST$ correspond to sides $TV$ and $TU$, respectively, in triangle $UVT$. Since corresponding sides of similar triangles are proportional, $\\frac{TV}{ST} = \\frac{TU}{NT}$. Substituting the given values yields $\\frac{TV}{9} = \\frac{13}{5}$. Multiplying both sides by $9$ gives $TV = \\frac{117}{5}$. Since point $T$ lies on $\\overline{SV}$, $SV = ST + TV = 9 + \\frac{117}{5} = \\frac{45}{5} + \\frac{117}{5} = \\frac{162}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=38446001&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/38446001/1-18af523fd31da05b.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e9c7eb38",
+  "capturedAt": "2026-11-13T22:17:36.471Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, the measure of $WNP$ is $28 ^°$, the measure of $MPQ$ is $126 ^°$, the measure of $MWN$ is $x ^°$, and $MP=PQ$. What is the value of $x$?",
+  "choices": {
+    "A": "$27$",
+    "B": "$54$",
+    "C": "$55$",
+    "D": "$62$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since $MP = PQ$, triangle $MPQ$ is isosceles with base $MQ$, so the base angles $\\angle PMQ$ and $\\angle PQM$ are congruent. Let each measure $t ^\\circ$. By the triangle sum theorem, $126 + 2t = 180$, giving $t = 27$. Note that $\\angle PQM$ is the same angle as $\\angle NQW$, so $\\angle NQW$ measures $27 ^\\circ$. By the exterior angle theorem, the measure of $\\angle MWN$ equals the sum of the two non-adjacent interior angles $\\angle WNQ$ and $\\angle NQW$. Thus, $x = 28 + 27 = 55$.",
+  "source": "https://cooksat.com/practice?questionId=e9c7eb38&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e9c7eb38/1-34f8614ccfc68f39.png",
+      "kind": "diagram"
+    }
+  ]
+}

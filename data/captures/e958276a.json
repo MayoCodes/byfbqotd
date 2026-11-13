@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e958276a",
+  "capturedAt": "2026-11-13T22:17:34.807Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $ABC$, the measure of angle $A$ is $48°$ and the measure of angle $B$ is $67°$. One side of the triangle is extended through vertex $C$, forming an exterior angle. What is the measure, in degrees, of this exterior angle?",
+  "choices": {
+    "A": "$65$",
+    "B": "$67$",
+    "C": "$115$",
+    "D": "$180$"
+  },
+  "correctAnswer": "C",
+  "explanation": "First, find the interior angle at $C$ using the triangle angle sum: $180° - 48° - 67° = 65°$. The exterior angle at $C$ is supplementary to the interior angle, so the exterior angle is $180° - 65° = 115°$. Alternatively, by the exterior angle theorem, the exterior angle equals the sum of the two remote interior angles: $48° + 67° = 115°$.",
+  "source": "https://cooksat.com/practice?questionId=e958276a&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

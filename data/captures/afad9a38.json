@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "afad9a38",
+  "capturedAt": "2026-11-13T22:17:00.506Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $ABC$, the measure of exterior angle at vertex $C$ is $135^°$. If the measure of angle $A$ is twice the measure of angle $B$, what is the measure, in degrees, of angle $B$?",
+  "choices": {
+    "A": "$30$",
+    "B": "$45$",
+    "C": "$60$",
+    "D": "$90$"
+  },
+  "correctAnswer": "B",
+  "explanation": "By the exterior angle theorem, the exterior angle at $C$ equals the sum of the two non-adjacent interior angles: $m\\angle A + m\\angle B = 135°$. Since $m\\angle A = 2 \\cdot m\\angle B$, substituting gives $2 \\cdot m\\angle B + m\\angle B = 135°$, so $3 \\cdot m\\angle B = 135°$ and $m\\angle B = 45°$.",
+  "source": "https://cooksat.com/practice?questionId=afad9a38&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

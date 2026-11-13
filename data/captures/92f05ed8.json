@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "92f05ed8",
+  "capturedAt": "2026-11-13T22:16:44.236Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, side $BC$ of triangle $ABC$ is extended to point $D$. If the measure of angle $ACD$ is $110°$ and the measure of angle $A$ is $50°$, what is the measure, in degrees, of angle $B$?",
+  "choices": {
+    "A": "$40$",
+    "B": "$50$",
+    "C": "$60$",
+    "D": "$70$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The exterior angle of a triangle equals the sum of the two non-adjacent interior angles. So $\\angle ACD = \\angle A + \\angle B$, giving $110° = 50° + \\angle B$. Therefore $\\angle B = 60°$.",
+  "source": "https://cooksat.com/practice?questionId=92f05ed8&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/92f05ed8/1-4ad9f2a0e967d10a.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6569c54c",
+  "capturedAt": "2026-11-13T22:16:04.852Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangles $PQR$ and $STU$ are similar, where $P$ corresponds to $S$, and $Q$ corresponds to $T$. The measure of angle $P$ is $38 ^°$, and $PQ = 7$. Which of the following statements must be true?\n\nI. The measure of angle $S$ is $38 ^°$\n\nII. $ST = 7$",
+  "choices": {
+    "A": "I only",
+    "B": "II only",
+    "C": "I and II",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that triangles $PQR$ and $STU$ are similar, where $P$ corresponds to $S$ and $Q$ corresponds to $T$. Corresponding angles in similar triangles have equal measure. Since angle $P$ corresponds to angle $S$, and the measure of angle $P$ is $38 ^\\circ$, the measure of angle $S$ is also $38 ^\\circ$. Therefore, statement I is true. For statement II, since $P$ corresponds to $S$ and $Q$ corresponds to $T$, side $PQ$ corresponds to side $ST$. In similar triangles, corresponding sides are proportional, but not necessarily equal. It's given that $PQ = 7$, but without knowing the scale factor between the triangles, $ST$ could be any positive value proportional to $7$. Therefore, statement II is not necessarily true. Only statement I must be true.",
+  "source": "https://cooksat.com/practice?questionId=6569c54c&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

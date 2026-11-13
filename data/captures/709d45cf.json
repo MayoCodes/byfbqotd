@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "709d45cf",
+  "capturedAt": "2026-11-13T22:16:11.539Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $MNP$, the measure of angle $M$ is $42 ^°$, the measure of angle $N$ is $x ^°$, and the measure of angle $P$ is $(4x - 7) ^°$. Point $J$ lies on $MN$, point $H$ lies on $NP$, and $JH$ is parallel to $MP$. What is the measure, in degrees, of angle $NHJ$? (Disregard the degree symbol when entering your answer)\n\n$$0$$\n\n$$109$$",
+  "choices": {},
+  "correctAnswer": "$109$",
+  "explanation": "The correct answer is $109$. The sum of the measures of the interior angles of a triangle is $180 ^\\circ$. In triangle $MNP$, the measure of angle $M$ is $42 ^\\circ$, the measure of angle $N$ is $x ^\\circ$, and the measure of angle $P$ is $(4x - 7) ^\\circ$. Therefore, $42 + x + (4x - 7) = 180$. Simplifying the left side yields $35 + 5x = 180$. Subtracting $35$ from both sides gives $5x = 145$, so $x = 29$. Thus, the measure of angle $P$ is $(4(29) - 7) ^\\circ = 109 ^\\circ$. Since $\\overline{JH}$ is parallel to $\\overline{MP}$ and $\\overline{NP}$ is a transversal that intersects both parallel segments, angle $NHJ$ and angle $NPM$ (which is angle $P$) are corresponding angles. Corresponding angles formed by parallel lines and a transversal are congruent, so the measure of angle $NHJ$ is $109 ^\\circ$. Therefore, the answer is $109$.",
+  "source": "https://cooksat.com/practice?questionId=709d45cf&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "19fbdcc9",
+  "capturedAt": "2026-11-13T22:15:17.623Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, points $B$, $C$, $D$, and $E$ lie on line segment $AF$, and line segment $CG$ intersects line segment $DJ$ at point $H$. The figure is not drawn to scale. The measure of $DBJ$ is $52 ^°$, the measure of $DJB$ is $79 ^°$, the measure of $DHG$ is $88 ^°$, and the measure of $FEG$ is $155 ^°$. What is the measure, in degrees, of $EGC$?\n\n$$0$$\n\n$$116$$",
+  "choices": {},
+  "correctAnswer": "$116$",
+  "explanation": "The correct answer is $116$. The triangle angle sum theorem states that the sum of the measures of the interior angles of a triangle is $180$ degrees. It's given that the measure of $\\angle DBJ$ is $52 ^\\circ$ and the measure of $\\angle DJB$ is $79 ^\\circ$. Since points $B$, $D$, and $J$ form a triangle, it follows that the measure of $\\angle BDJ$ is $180 - 52 - 79$, or $49$ degrees. It's also given that the measure of $\\angle DHG$ is $88 ^\\circ$. Since $\\angle DHG$ and $\\angle DHC$ are supplementary angles, the measure of $\\angle DHC$ is $180 - 88$, or $92$ degrees. Since points $C$, $D$, and $H$ form a triangle, and $\\angle CDH$ is the same angle as $\\angle BDJ$, it follows that the measure of $\\angle HCD$ is $180 - 49 - 92$, or $39$ degrees. It's given that the measure of $\\angle FEG$ is $155 ^\\circ$. Since $\\angle FEG$ and $\\angle DEG$ are supplementary angles, the measure of $\\angle DEG$ is $180 - 155$, or $25$ degrees. Since points $C$, $E$, and $G$ form a triangle, and $\\angle GCE$ is the same angle as $\\angle HCD$, it follows that the measure of $\\angle EGC$ is $180 - 39 - 25$, or $116$ degrees.",
+  "source": "https://cooksat.com/practice?questionId=19fbdcc9&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/19fbdcc9/1-d23b79bb356af368.png",
+      "kind": "diagram"
+    }
+  ]
+}

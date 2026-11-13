@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "77d56d0a",
+  "capturedAt": "2026-11-13T22:16:17.304Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, line $m$ is parallel to line $n$, and line $k$ intersects both lines. What is the value of $x$?",
+  "choices": {
+    "A": "$28$",
+    "B": "$62$",
+    "C": "$118$",
+    "D": "$180$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that line $m$ is parallel to line $n$. Since line $k$ intersects both lines $m$ and $n$, it's a transversal. The angles marked as $118 ^\\circ$ and $x ^\\circ$ are on the same side of the transversal, where one is an interior angle with line $m$ as a side and the other is an interior angle with line $n$ as a side. Thus, the marked angles are corresponding angles. When two parallel lines are intersected by a transversal, corresponding angles are congruent and have equal measure. It follows that $x ^\\circ = 118 ^\\circ$. Therefore, the value of $x$ is $118$.",
+  "source": "https://cooksat.com/practice?questionId=77d56d0a&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/77d56d0a/1-b9d52f85cf2e6535.png",
+      "kind": "diagram"
+    }
+  ]
+}

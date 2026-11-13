@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1ac1576e",
+  "capturedAt": "2026-11-13T22:15:19.592Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, line $p$ is parallel to line $q$. What is the value of $y$?",
+  "choices": {
+    "A": "$28$",
+    "B": "$62$",
+    "C": "$90$",
+    "D": "$118$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that lines $p$ and $q$ are parallel. Since line $r$ intersects both lines $p$ and $q$, it's a transversal. The angles marked $118 ^\\circ$ and $y ^\\circ$ are on the same side of the transversal, where one is an interior angle with line $p$ as a side and the other is an exterior angle with line $q$ as a side. Thus, the marked angles are corresponding angles. When two parallel lines are intersected by a transversal, corresponding angles are congruent and therefore have equal measure. It follows that $y ^\\circ = 118 ^\\circ$. Therefore, the value of $y$ is $118$.",
+  "source": "https://cooksat.com/practice?questionId=1ac1576e&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1ac1576e/1-23247ad7c914a125.png",
+      "kind": "diagram"
+    }
+  ]
+}

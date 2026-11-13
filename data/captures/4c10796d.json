@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4c10796d",
+  "capturedAt": "2026-11-13T22:15:43.774Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, line $p$ is parallel to line $q$. What is the value of $y$?",
+  "choices": {
+    "A": "$19$",
+    "B": "$38$",
+    "C": "$76$",
+    "D": "$142$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. When two parallel lines are cut by a transversal, the sum of consecutive interior angles (same-side interior angles) is $180$ degrees. Since line $p$ is parallel to line $q$, it follows that $y + 38 = 180$. Subtracting $38$ from both sides yields $y = 142$. Therefore, the value of $y$ is $142$.",
+  "source": "https://cooksat.com/practice?questionId=4c10796d&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4c10796d/1-2ca70b712b951e6c.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "13f4302a",
+  "capturedAt": "2026-11-13T22:15:12.359Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, line $m$ is parallel to line $n$. What is the value of $x$?\n\n$$0$$\n\n$$62$$",
+  "choices": {},
+  "correctAnswer": "$62$",
+  "explanation": "The correct answer is $62$. Based on the figure, the angle with measure $x ^\\circ$ and the angle with measure $118 ^\\circ$ together form a straight line. Therefore, these two angles are supplementary, so the sum of their measures is $180 ^\\circ$. It follows that $x + 118 = 180$. Subtracting $118$ from both sides of this equation yields $x = 62$.",
+  "source": "https://cooksat.com/practice?questionId=13f4302a&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/13f4302a/1-b66738dbebbe23f7.png",
+      "kind": "diagram"
+    }
+  ]
+}

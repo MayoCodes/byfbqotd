@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "513d2b36",
+  "capturedAt": "2026-11-13T22:15:48.986Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $ABC$, the measure of angle $A$ is twice the measure of angle $B$, and the measure of angle $C$ is $20^°$ more than the measure of angle $B$. What is the measure of angle $A$ in degrees?\n\n$$0$$\n\n$$80$$",
+  "choices": {},
+  "correctAnswer": "$80$",
+  "explanation": "The correct answer is $80$. Let the measure of angle $B$ be $x$ degrees. Then, the measure of angle $A$ is $2x$ degrees, and the measure of angle $C$ is $(x + 20)$ degrees. According to the angle sum property of triangles, the sum of the angles in a triangle is $180^\\circ$. Therefore, we have the equation $x + 2x + (x + 20) = 180$. Simplifying the left side yields $4x + 20 = 180$. Subtracting $20$ from both sides gives $4x = 160$. Dividing both sides by $4$ yields $x = 40$. Thus, the measure of angle $B$ is $40^\\circ$. Since angle $A$ is twice angle $B$, the measure of angle $A$ is $2 \\times 40 = 80^\\circ$. Verification: Angle $A = 80^\\circ$, angle $B = 40^\\circ$, angle $C = 60^\\circ$. Sum: $80 + 40 + 60 = 180^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=513d2b36&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

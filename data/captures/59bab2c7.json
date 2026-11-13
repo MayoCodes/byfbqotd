@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "59bab2c7",
+  "capturedAt": "2026-11-13T22:15:54.550Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $PQR$, the measure of angle $P$ is $35°$ and the measure of angle $Q$ is $x°$. The side $PR$ is extended through vertex $R$, forming an exterior angle that measures $115°$. What is the value of $x$?",
+  "choices": {
+    "A": "$50$",
+    "B": "$65$",
+    "C": "$80$",
+    "D": "$115$"
+  },
+  "correctAnswer": "C",
+  "explanation": "By the exterior angle theorem, an exterior angle of a triangle equals the sum of the two remote interior angles. Therefore, the exterior angle at $R$ equals angle $P$ plus angle $Q$: $115 = 35 + x$. Solving for $x$: $x = 115 - 35 = 80$.",
+  "source": "https://cooksat.com/practice?questionId=59bab2c7&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

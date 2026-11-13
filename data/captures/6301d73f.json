@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6301d73f",
+  "capturedAt": "2026-11-13T22:15:59.527Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, two lines intersect at a point. If $a = 142$, what is the value of $b$?",
+  "choices": {
+    "A": "$38$",
+    "B": "$48$",
+    "C": "$71$",
+    "D": "$142$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In the figure shown, the angles with measures $a ^\\circ$ and $b ^\\circ$ are vertical angles. Since vertical angles are congruent, $a = b$. Therefore, if $a = 142$, the value of $b$ is $142$.",
+  "source": "https://cooksat.com/practice?questionId=6301d73f&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6301d73f/1-de8137b6928b46b2.png",
+      "kind": "diagram"
+    }
+  ]
+}

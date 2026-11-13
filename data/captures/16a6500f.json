@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "16a6500f",
+  "capturedAt": "2026-11-13T22:15:15.972Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side.\n\nIf a triangle has side lengths of $7$ and $16$, which inequality represents the possible lengths, $x$, of the third side of the triangle?",
+  "choices": {
+    "A": "$x < 9$ or $x > 23$",
+    "B": "$x < 23$",
+    "C": "$x > 23$",
+    "D": "$9 < x < 23$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. According to the triangle inequality theorem stated in the stimulus, the sum of any two sides of a triangle must be greater than the third side. For a triangle with sides of length $7$, $16$, and $x$, three inequalities must hold: $7 + 16 > x$, $7 + x > 16$, and $16 + x > 7$. The first inequality simplifies to $23 > x$, or $x < 23$. The second inequality can be rewritten by subtracting $7$ from both sides to get $x > 9$. The third inequality simplifies to $x > -9$, which is always true for positive side lengths. Combining the meaningful constraints gives $9 < x < 23$.",
+  "source": "https://cooksat.com/practice?questionId=16a6500f&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f21d84ab",
+  "capturedAt": "2026-11-13T22:17:41.654Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A line intersects two parallel lines, forming four acute angles and four obtuse angles. The measure of one of the acute angles is $(7x - 385) ^°$. The sum of the measures of one of the acute angles and three of the obtuse angles is $(-14x + w) ^°$. What is the value of $w$?\n\n$$0$$\n\n$$1310$$",
+  "choices": {},
+  "correctAnswer": "$1310$",
+  "explanation": "The correct answer is $1310$. When two parallel lines are intersected by a transversal, adjacent angles are supplementary and alternate interior angles are congruent. Therefore, each of the four acute angles has the same measure, and each of the four obtuse angles has the same measure. Since one of the acute angles measures $(7x - 385) ^\\circ$, the measure of an adjacent obtuse angle is $(180 - (7x - 385)) ^\\circ$, or $(-7x + 565) ^\\circ$. The sum of the measures of one acute angle and three obtuse angles is $(7x - 385) + 3(-7x + 565) = 7x - 385 - 21x + 1{,}695 = -14x + 1{,}310$. Setting this equal to $-14x + w$ gives $w = 1{,}310$.",
+  "source": "https://cooksat.com/practice?questionId=f21d84ab&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

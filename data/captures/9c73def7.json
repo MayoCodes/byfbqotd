@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9c73def7",
+  "capturedAt": "2026-11-13T22:16:49.581Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $ABC$, the measure of angle $A$ is $54°$, the measure of angle $B$ is $90°$, and the measure of angle $C$ is $(\\frac{k}{2})°$, where $k$ is a constant. What is the value of $k$?",
+  "choices": {
+    "A": "$18$",
+    "B": "$36$",
+    "C": "$72$",
+    "D": "$144$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The sum of the interior angles of a triangle is $180°$. Therefore, $54 + 90 + \\frac{k}{2} = 180$. Simplifying: $144 + \\frac{k}{2} = 180$, so $\\frac{k}{2} = 36$. Multiplying both sides by $2$ gives $k = 72$.",
+  "source": "https://cooksat.com/practice?questionId=9c73def7&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

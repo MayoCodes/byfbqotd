@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d484c257",
+  "capturedAt": "2026-11-13T22:17:20.705Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure above, $NS = 8$ and $MS = 12$. What is the length of $SP$?\n\n$$0$$\n\n$$\\frac{16}{3},5.333$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{16}{3},5.333$",
+  "explanation": "The correct answer is $\\frac{16}{3}$. The altitude $\\overline{NS}$ drawn from the right angle of triangle $MNP$ to the hypotenuse $\\overline{MP}$ divides triangle $MNP$ into two similar triangles, $MNS$ and $NPS$. Because corresponding sides of similar triangles are proportional, the ratio of $NS$ to $MS$ is equal to the ratio of $SP$ to $NS$. This gives the proportion $\\frac{8}{12} = \\frac{SP}{8}$. Solving for $SP$ yields $SP = \\frac{64}{12} = \\frac{16}{3}$. Note that 16/3 and 5.333 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=d484c257&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d484c257/1-7d2c16d9877bd99c.png",
+      "kind": "diagram"
+    }
+  ]
+}

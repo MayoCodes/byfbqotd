@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fe04b722",
+  "capturedAt": "2026-11-13T22:17:47.357Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $PQR$, the measure of angle $P$ is $81°$ and the measure of angle $Q$ is $36°$. What is the measure, in degrees, of angle $R$?",
+  "choices": {
+    "A": "$36$",
+    "B": "$63$",
+    "C": "$81$",
+    "D": "$117$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The sum of the measures of the interior angles of any triangle is $180°$. Since angle $P$ measures $81°$ and angle $Q$ measures $36°$, the measure of angle $R$ is $180° - 81° - 36° = 63°$.",
+  "source": "https://cooksat.com/practice?questionId=fe04b722&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

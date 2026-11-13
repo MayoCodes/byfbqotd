@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ab351356",
+  "capturedAt": "2026-11-13T22:16:58.697Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $ABC$, angle $C$ is a right angle, point $M$ lies on $AB$, point $N$ lies on $BC$, and $MN$ is parallel to $AC$. If the length of $AC$ is $48$ units, the length of $MN$ is $12$ units, and the area of triangle $ABC$ is $360$ square units, what is the length of $NC$, in units?\n\n$$0$$\n\n$$\\frac{45}{4},11.25$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{45}{4},11.25$",
+  "explanation": "The correct answer is $\\frac{45}{4}$. In triangle $ABC$, angle $C$ is a right angle, so the two legs are $\\overline{AC}$ and $\\overline{BC}$. The area is $\\frac{1}{2}(AC)(BC) = 360$, so $\\frac{1}{2}(48)(BC) = 360$, giving $24(BC) = 360$ and $BC = 15$. Since $\\overline{MN}$ is parallel to $\\overline{AC}$ and angle $C$ is a right angle, angle $MNB$ is also a right angle. Triangles $ABC$ and $MBN$ share angle $B$ and both have right angles, so they are similar by the angle-angle similarity criterion. The ratio of corresponding sides is $\\frac{AC}{MN} = \\frac{48}{12} = 4$, so $\\frac{BC}{BN} = 4$. Substituting $15$ for $BC$ gives $\\frac{15}{BN} = 4$, so $BN = \\frac{15}{4}$. Since $BC = BN + NC$, it follows that $NC = BC - BN = 15 - \\frac{15}{4} = \\frac{60}{4} - \\frac{15}{4} = \\frac{45}{4}$. Note that 45/4 and 11.25 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=ab351356&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

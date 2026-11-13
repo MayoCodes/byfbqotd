@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "37c260a6",
+  "capturedAt": "2026-11-13T22:15:33.423Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangle $PQR$ is similar to triangle $STU$, such that $P$, $Q$, and $R$ correspond to $S$, $T$, and $U$ respectively. The length of each side of triangle $STU$ is $3$ times the length of its corresponding side in triangle $PQR$. The measure of side $PQ$ is $12$. What is the measure of side $ST$?",
+  "choices": {
+    "A": "$9$",
+    "B": "$12$",
+    "C": "$15$",
+    "D": "$36$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that triangle $PQR$ is similar to triangle $STU$, such that $P$, $Q$, and $R$ correspond to $S$, $T$, and $U$, respectively. Therefore, side $PQ$ corresponds to side $ST$. Since the length of each side of triangle $STU$ is $3$ times the length of its corresponding side in triangle $PQR$, it follows that the measure of side $ST$ is $3$ times the measure of side $PQ$. Thus, since the measure of side $PQ$ is $12$, the measure of side $ST$ is $3(12)$, or $36$.",
+  "source": "https://cooksat.com/practice?questionId=37c260a6&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

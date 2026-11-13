@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e11f028e",
+  "capturedAt": "2026-11-13T22:17:31.299Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $MNP$, the measure of $M$ is $40 ^°$, the measure of $N$ is $x ^°$, and the measure of $P$ is $(5x - 4) ^°$. Point $D$ lies on $MN$, point $E$ lies on $NP$, and $DE$ is parallel to $MP$. What is the measure, in degrees, of $NED$? (Disregard the degree symbol when entering your answer.)\n\n$$0$$\n\n$$116$$",
+  "choices": {},
+  "correctAnswer": "$116$",
+  "explanation": "The correct answer is $116$. The sum of the measures of the interior angles of a triangle is $180 ^\\circ$. In triangle $MNP$, the measure of $\\angle M$ is $40 ^\\circ$, the measure of $\\angle N$ is $x ^\\circ$, and the measure of $\\angle P$ is $(5x - 4) ^\\circ$. Therefore, $40 + x + (5x - 4) = 180$, which simplifies to $6x + 36 = 180$. Subtracting $36$ from both sides yields $6x = 144$. Dividing both sides by $6$ gives $x = 24$. Thus, the measure of $\\angle P$ is $(5(24) - 4) ^\\circ = 116 ^\\circ$. Since $\\overline{DE}$ is parallel to $\\overline{MP}$ and point $E$ lies on $\\overline{NP}$, $\\overline{NP}$ acts as a transversal intersecting the two parallel lines. By the corresponding angles theorem, $\\angle NED$ and $\\angle NPM$ (which is $\\angle P$) are corresponding angles and therefore have equal measures. It follows that the measure of $\\angle NED$ is $116 ^\\circ$, so the answer is $116$.",
+  "source": "https://cooksat.com/practice?questionId=e11f028e&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

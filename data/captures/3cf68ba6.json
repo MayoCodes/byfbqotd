@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3cf68ba6",
+  "capturedAt": "2026-11-13T22:15:36.806Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nTriangle $PQR$ and triangle $STU$ are shown. The relationship between the side lengths of the two triangles is such that $\\frac{(PQ)}{(ST)} = \\frac{(QR)}{(TU)} = \\frac{(PR)}{(SU)} = 4$. If the measure of angle $QPR$ is $35 ^°$, what is the measure, in degrees, of angle $TSU$?\n\n$$0$$\n\n$$35$$",
+  "choices": {},
+  "correctAnswer": "$35$",
+  "explanation": "The correct answer is $35$. By the equality given, the three pairs of corresponding sides of the two triangles are in the same proportion. By the side-side-side (SSS) similarity theorem, triangle $PQR$ is similar to triangle $STU$. In similar triangles, the measures of corresponding angles are congruent. Since angle $QPR$ corresponds to angle $TSU$, these two angles are congruent and their measures are equal. It's given that the measure of angle $QPR$ is $35 ^\\circ$, so the measure of angle $TSU$ is also $35 ^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=3cf68ba6&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3cf68ba6/1-43ce50a2027f4f01.png",
+      "kind": "diagram"
+    }
+  ]
+}

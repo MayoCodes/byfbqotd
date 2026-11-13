@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "786ebe84",
+  "capturedAt": "2026-11-13T22:16:19.184Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A triangle has angles measuring $50^°$ and $60^°$. What is the measure, in degrees, of the third angle?\n\n$$0$$\n\n$$70$$",
+  "choices": {},
+  "correctAnswer": "$70$",
+  "explanation": "The correct answer is $70$. In any triangle, the sum of the interior angles is always $180^\\circ$. The two given angles measure $50^\\circ$ and $60^\\circ$. Adding these angles yields $50 + 60 = 110$. Therefore, the measure of the third angle, in degrees, is $180 - 110 = 70$. This can be verified: $50^\\circ + 60^\\circ + 70^\\circ = 180^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=786ebe84&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

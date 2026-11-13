@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ecd6a4db",
+  "capturedAt": "2026-11-13T22:17:39.822Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn triangle $KLM$, $LM$ is extended to point $N$. The measure of $KLM$ is $122 ^°$, and the measure of $KMN$ is $148 ^°$. What is the measure of $MKL$?",
+  "choices": {
+    "A": "$26 ^°$",
+    "B": "$32 ^°$",
+    "C": "$58 ^°$",
+    "D": "$90 ^°$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. In the figure shown, since $\\overline{LN}$ is a line segment, the sum of the measures of $\\angle KMN$ and $\\angle KML$ is $180 ^\\circ$. It's given that the measure of $\\angle KMN$ is $148 ^\\circ$. Thus, the measure of $\\angle KML$ is $(180 - 148) ^\\circ$, or $32 ^\\circ$. The sum of the measures of the interior angles of a triangle is $180 ^\\circ$. It's given that the measure of $\\angle KLM$ is $122 ^\\circ$. Therefore, the measure of $\\angle MKL$ is $(180 - 122 - 32) ^\\circ$, or $26 ^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=ecd6a4db&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ecd6a4db/1-3610041389e9a0ed.png",
+      "kind": "diagram"
+    }
+  ]
+}

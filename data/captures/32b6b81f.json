@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "32b6b81f",
+  "capturedAt": "2026-11-13T22:15:28.606Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $ABC$, angle $A$ measures $50^°$ and angle $B$ measures $60^°$. What is the measure of angle $C$ in degrees?\n\n$$0$$\n\n$$70$$",
+  "choices": {},
+  "correctAnswer": "$70$",
+  "explanation": "The correct answer is $70$. In any triangle, the sum of the measures of the interior angles is $180^\\circ$. Therefore, in triangle $ABC$, the equation $A + B + C = 180^\\circ$ must hold. Substituting the given angle measures yields $50^\\circ + 60^\\circ + C = 180^\\circ$, which simplifies to $110^\\circ + C = 180^\\circ$. Subtracting $110^\\circ$ from both sides gives $C = 70^\\circ$. Therefore, the measure of angle $C$ is $70$ degrees.",
+  "source": "https://cooksat.com/practice?questionId=32b6b81f&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

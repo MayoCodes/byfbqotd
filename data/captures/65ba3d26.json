@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "65ba3d26",
+  "capturedAt": "2026-11-13T22:16:06.401Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a triangle, the measure of the first angle is $37^°$, and the measure of the second angle is $58^°$. What is the measure of the third angle?",
+  "choices": {
+    "A": "$85^°$",
+    "B": "$95^°$",
+    "C": "$122^°$",
+    "D": "$143^°$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The sum of the measures of the angles in a triangle is $180^\\circ$. The measure of the third angle is $180^\\circ - (37^\\circ + 58^\\circ) = 180^\\circ - 95^\\circ = 85^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=65ba3d26&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

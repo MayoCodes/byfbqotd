@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8f035877",
+  "capturedAt": "2026-11-13T22:16:42.439Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, triangles $ABC$ and $DEF$ are similar. What is the length of $EF$?",
+  "choices": {
+    "A": "$10$",
+    "B": "$12$",
+    "C": "$15$",
+    "D": "$20$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Since triangles $ABC$ and $DEF$ are similar, corresponding sides are proportional. The correspondence is $A \\leftrightarrow D$, $B \\leftrightarrow E$, and $C \\leftrightarrow F$, so $AB$ corresponds to $DE$ and $BC$ corresponds to $EF$. The scale factor is $\\frac{DE}{AB} = \\frac{9}{6} = 1.5$. Therefore, $EF = BC \\times 1.5 = 10 \\times 1.5 = 15$.",
+  "source": "https://cooksat.com/practice?questionId=8f035877&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8f035877/1-f8946ce78580d254.png",
+      "kind": "diagram"
+    }
+  ]
+}

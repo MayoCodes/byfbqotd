@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "12442853",
+  "capturedAt": "2026-11-13T22:15:10.724Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $ABC$, angle $A$ measures $45^°$ and angle $B$ measures $60^°$. What is the measure, in degrees, of angle $C$?\n\n$$0$$\n\n$$75$$",
+  "choices": {},
+  "correctAnswer": "$75$",
+  "explanation": "The correct answer is $75$. In any triangle, the sum of the interior angles is $180°$. Therefore, for triangle $ABC$, we have the equation:\n$\\angle A + \\angle B + \\angle C = 180°$\n\nWe are given that $\\angle A = 45°$ and $\\angle B = 60°$. Substituting these values into the equation:\n$45° + 60° + \\angle C = 180°$\n\nSimplifying the left side:\n$105° + \\angle C = 180°$\n\nSubtracting $105°$ from both sides:\n$\\angle C = 180° - 105° = 75°$\n\nVerification: $45° + 60° + 75° = 180°$\n\nThus, the measure of angle $C$ is $75$ degrees.",
+  "source": "https://cooksat.com/practice?questionId=12442853&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

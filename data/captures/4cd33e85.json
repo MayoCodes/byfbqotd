@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4cd33e85",
+  "capturedAt": "2026-11-13T22:15:47.352Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Two parallel lines are intersected by a third line. One angle formed measures $30^°$, and another angle measures $x^°$. If these two angles are supplementary angles on the same side of the intersecting line, what is the value of $x$?",
+  "choices": {
+    "A": "$30$",
+    "B": "$60$",
+    "C": "$120$",
+    "D": "$150$"
+  },
+  "correctAnswer": "D",
+  "explanation": "When two parallel lines are intersected by a third line, consecutive interior angles (same-side interior angles) are supplementary. Since one angle measures $30^\\circ$ and they are supplementary, $x = 180 - 30 = 150$.",
+  "source": "https://cooksat.com/practice?questionId=4cd33e85&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

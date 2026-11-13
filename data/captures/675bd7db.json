@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "675bd7db",
+  "capturedAt": "2026-11-13T22:16:07.968Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, line $m$ intersects lines $p$ and $q$. Line $p$ is parallel to line $q$. What is the value of $y$?\n\n$$0$$\n\n$$148$$",
+  "choices": {},
+  "correctAnswer": "$148$",
+  "explanation": "The correct answer is $148$. It's given that line $p$ is parallel to line $q$. Since line $m$ intersects both lines $p$ and $q$, it's a transversal. The angles in the figure marked as $148 ^\\circ$ and $y ^\\circ$ are on the same side of the transversal, where one is an interior angle with line $q$ as a side, and the other is an exterior angle with line $p$ as a side. Thus, the marked angles are corresponding angles. When two parallel lines are intersected by a transversal, corresponding angles are congruent and, therefore, have equal measure. It follows that the value of $y$ is $148$.",
+  "source": "https://cooksat.com/practice?questionId=675bd7db&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/675bd7db/1-e61bf04834e4a451.png",
+      "kind": "diagram"
+    }
+  ]
+}

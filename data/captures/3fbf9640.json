@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3fbf9640",
+  "capturedAt": "2026-11-13T22:15:38.640Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Exterior Angle Theorem",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangle $DEF$ is isosceles with $DE=DF$. The measure of each base angle is $2x^°$, where $x$ is a positive number. If the measure of the vertex angle $EDF$ is $x^°$, what is the value of $x$?",
+  "choices": {
+    "A": "$36$",
+    "B": "$60$",
+    "C": "$72$",
+    "D": "$144$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Since triangle $DEF$ is isosceles with $DE=DF$, the base angles $\\angle DEF$ and $\\angle DFE$ are equal, each measuring $2x^{\\circ}$. Using the triangle angle sum theorem: $\\angle DEF + \\angle DFE + \\angle EDF = 180^{\\circ}$. Substituting the given angle measures: $2x + 2x + x = 180$, which simplifies to $5x = 180$. Solving for $x$ gives $x = 36$.",
+  "source": "https://cooksat.com/practice?questionId=3fbf9640&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

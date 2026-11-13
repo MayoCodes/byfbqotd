@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8a97f1ea",
+  "capturedAt": "2026-11-13T22:16:37.053Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nRight triangles $JKL$ and $MNP$ are similar, where $J$ corresponds to $M$. If the measure of angle $K$ is $25 ^°$, what is the measure of angle $M$?",
+  "choices": {
+    "A": "$25 ^°$",
+    "B": "$65 ^°$",
+    "C": "$115 ^°$",
+    "D": "$155 ^°$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In similar triangles, corresponding angles are congruent. It's given that right triangles $JKL$ and $MNP$ are similar, where angle $J$ corresponds to angle $M$. In the triangles shown, angle $L$ and angle $P$ are both marked as right angles, so angle $L$ corresponds to angle $P$. It follows that angle $K$ corresponds to angle $N$, and thus angle $K$ is congruent to angle $N$. Since the measure of angle $K$ is $25 ^\\circ$, the measure of angle $N$ is also $25 ^\\circ$. Angle $P$ is a right angle, so its measure is $90 ^\\circ$. The sum of the interior angles of a triangle is $180 ^\\circ$. Let $m$ represent the measure, in degrees, of angle $M$. Then $m + 25 + 90 = 180$, or $m + 115 = 180$. Subtracting $115$ from both sides yields $m = 65$. Therefore, the measure of angle $M$ is $65 ^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=8a97f1ea&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8a97f1ea/1-72bbc26e27e9a82e.png",
+      "kind": "diagram"
+    }
+  ]
+}

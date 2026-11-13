@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "85350d78",
+  "capturedAt": "2026-11-13T22:16:27.972Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, line $p$ intersects lines $m$ and $n$. Which additional piece of information is sufficient to prove that lines $m$ and $n$ are parallel?",
+  "choices": {
+    "A": "$a = 125$",
+    "B": "$b = 55$",
+    "C": "$c = 125$",
+    "D": "$d = 55$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. In the figure shown, lines $m$ and $n$ are parallel if and only if a pair of corresponding angles are congruent. It's given that one angle has a measure of $125 ^\\circ$ and that the corresponding angle has a measure of $a ^\\circ$. Therefore, $a = 125$ is sufficient to prove that lines $m$ and $n$ are parallel.",
+  "source": "https://cooksat.com/practice?questionId=85350d78&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/85350d78/1-aecc44ff545a27d1.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9fdf815a",
+  "capturedAt": "2026-11-13T22:16:53.287Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale.\n\nIn the figure, $PS$ intersects $QT$ at $R$. The measure of $QPR$ is $25 ^°$, the measure of $PQR$ is $x ^°$, the measure of $RST$ is $y ^°$, and the measure of $STR$ is $60 ^°$. If $x = 110$, what is the value of $y$?",
+  "choices": {
+    "A": "$45$",
+    "B": "$75$",
+    "C": "$90$",
+    "D": "$95$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $x = 110$, so the measure of $\\angle PQR$ is $110 ^\\circ$. The sum of the measures of the interior angles of any triangle equals $180 ^\\circ$. In triangle $PQR$, subtracting the two known angle measures from $180 ^\\circ$ gives the third angle measure: $180 ^\\circ - 110 ^\\circ - 25 ^\\circ = 45 ^\\circ$. This is the measure of $\\angle PRQ$. Since $\\angle PRQ$ and $\\angle SRT$ are vertical angles, they are congruent, so the measure of $\\angle SRT$ is also $45 ^\\circ$. In triangle $RST$, subtracting the two known angle measures from $180 ^\\circ$ gives the third angle measure: $180 ^\\circ - 45 ^\\circ - 60 ^\\circ = 75 ^\\circ$. This is the measure of $\\angle RST$. Since the measure of $\\angle RST$ is $y ^\\circ$, the value of $y$ is $75$.",
+  "source": "https://cooksat.com/practice?questionId=9fdf815a&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/9fdf815a/1-f601d70aa968b07c.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c7fd0e2a",
+  "capturedAt": "2026-11-13T22:17:09.657Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In isosceles triangle $PQR$, sides $PQ$ and $PR$ are congruent. Point $M$ divides side $QR$ such that the length of $QM$ is $\\frac{3}{7}$ of the length of $QR$. Point $N$ lies on side $PQ$ and point $L$ lies on side $PR$ such that when segments $MN$ and $ML$ are drawn, angle $QNM$ is congruent to angle $RLM$. If the length of $QN$ is $12$, what is the length of $RL$?",
+  "choices": {
+    "A": "$9$",
+    "B": "$16$",
+    "C": "$28$",
+    "D": "$84$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Because triangle $PQR$ is isosceles with $\\overline{PQ}$ congruent to $\\overline{PR}$, the base angles are congruent: angle $PQR$ is congruent to angle $PRQ$. In triangle $QMN$, angle $MQN$ is the same as angle $PQR$; in triangle $RML$, angle $MRL$ is the same as angle $PRQ$. Therefore angle $MQN$ is congruent to angle $MRL$. It is given that angle $QNM$ is congruent to angle $RLM$. Since two pairs of corresponding angles are congruent, triangle $QMN$ is similar to triangle $RML$ by angle-angle similarity, with correspondence $Q$ to $R$, $M$ to $M$, and $N$ to $L$. Therefore $\\frac{QN}{RL} = \\frac{QM}{MR}$. It is given that the length of $\\overline{QM}$ is $\\frac{3}{7}$ of the length of $\\overline{QR}$, so the length of $\\overline{MR}$ is $\\left(1 - \\frac{3}{7}\\right) = \\frac{4}{7}$ of the length of $\\overline{QR}$. Thus $\\frac{QM}{MR} = \\frac{\\frac{3}{7}QR}{\\frac{4}{7}QR} = \\frac{3}{4}$. Substituting into the proportion with $QN = 12$ gives $\\frac{12}{RL} = \\frac{3}{4}$. Cross-multiplying yields $3 \\cdot RL = 48$, so $RL = 16$.",
+  "source": "https://cooksat.com/practice?questionId=c7fd0e2a&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

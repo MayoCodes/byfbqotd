@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cbd31564",
+  "capturedAt": "2026-11-13T22:17:11.604Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangles $PQR$ and $STU$ are congruent, where $P$ corresponds to $S$, and $Q$ and $T$ are right angles. The measure of angle $P$ is $23 ^°$. What is the measure of angle $U$?",
+  "choices": {
+    "A": "$23 ^°$",
+    "B": "$67 ^°$",
+    "C": "$90 ^°$",
+    "D": "$157 ^°$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that triangle $PQR$ is congruent to triangle $STU$. Corresponding angles of congruent triangles are congruent and, therefore, have equal measure. It's given that angle $P$ corresponds to angle $S$, and that the measure of angle $P$ is $23 ^\\circ$. It's also given that the measures of angles $Q$ and $T$ are $90 ^\\circ$. Since these angles have equal measure, they are corresponding angles. It follows that angle $R$ corresponds to angle $U$. Let $x ^\\circ$ represent the measure of angle $R$. Since the sum of the measures of the interior angles of a triangle is $180 ^\\circ$, it follows that $23 ^\\circ + 90 ^\\circ + x ^\\circ = 180 ^\\circ$, or $113 ^\\circ + x ^\\circ = 180 ^\\circ$. Subtracting $113 ^\\circ$ from both sides of this equation yields $x ^\\circ = 67 ^\\circ$. Therefore, the measure of angle $R$ is $67 ^\\circ$. Since angle $R$ corresponds to angle $U$, it follows that the measure of angle $U$ is also $67 ^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=cbd31564&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

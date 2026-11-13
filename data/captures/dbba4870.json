@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dbba4870",
+  "capturedAt": "2026-11-13T22:17:28.038Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Exterior Angle Theorem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $ABC$, the measure of angle $A$ is $55°$. If triangle $ABC$ is isosceles, which of the following is NOT a possible measure, in degrees, of angle $B$?",
+  "choices": {
+    "A": "$55$",
+    "B": "$62.5$",
+    "C": "$70$",
+    "D": "$105$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The sum of angles in a triangle is $180°$. Since angle $A$ is $55°$ and the triangle is isosceles (two angles equal), we consider cases: If $B = A = 55°$, then $C = 180° - 55° - 55° = 70°$. If $B = C$, then $55° + 2B = 180°$, so $B = 62.5°$. If $A = C = 55°$, then $B = 180° - 55° - 55° = 70°$. Testing $B = 105°$: If $A = B$, we'd need $A = 105°$, but $A = 55°$ (contradiction). If $B = C = 105°$, then $55° + 105° + 105° = 265° > 180°$ (impossible). If $A = C = 55°$, then $B = 70° ≠ 105°$. Thus $105°$ is impossible.",
+  "source": "https://cooksat.com/practice?questionId=dbba4870&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d23e8122",
+  "capturedAt": "2026-11-13T22:17:19.073Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangle $PQR$ is similar to triangle $RST$, where $P$, $Q$, and $R$ correspond to $R$, $S$, and $T$, respectively. In triangle $PQR$, the length of $PQ$ is $240$ and the length of $QR$ is $960$. In triangle $RST$, the length of $ST$ is $80$. What is the length of $RS$?",
+  "choices": {
+    "A": "$20$",
+    "B": "$80$",
+    "C": "$160$",
+    "D": "$320$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that triangle $PQR$ is similar to triangle $RST$, where $P$, $Q$, and $R$ correspond to $R$, $S$, and $T$, respectively. It follows that side $PQ$ corresponds to side $RS$ and side $QR$ corresponds to side $ST$. Since the lengths of corresponding sides in similar triangles are proportional, $\\frac{RS}{PQ} = \\frac{ST}{QR}$. Substituting $240$ for $PQ$, $80$ for $ST$, and $960$ for $QR$ yields $\\frac{RS}{240} = \\frac{80}{960}$. Multiplying both sides by $240$ gives $RS = 240 \\times \\frac{80}{960} = \\frac{19200}{960} = 20$. Therefore, the length of $\\overline{RS}$ is $20$.",
+  "source": "https://cooksat.com/practice?questionId=d23e8122&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

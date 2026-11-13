@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "878fca7c",
+  "capturedAt": "2026-11-13T22:16:33.351Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $PQR$ and triangle $MNO$, sides $PQ$ and $MN$ each have a length of $9$ centimeters and angles $P$ and $M$ each have a measure of $35 ^°$. Which of the following additional pieces of information is(are) sufficient to prove whether triangle $PQR$ is congruent to triangle $MNO$?\n\nI. The measures of angles $Q$ and $R$ are equal.\n\nII. The lengths of sides $PR$ and $MO$ are equal.\n\nIII. The lengths of sides $QR$ and $NO$ are equal.",
+  "choices": {
+    "A": "I is sufficient, but II and III are not.",
+    "B": "II is sufficient, but I and III are not.",
+    "C": "III is sufficient, but I and II are not.",
+    "D": "II is sufficient and III is sufficient, but I is not."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $PQ = MN = 9$ centimeters and that angles $P$ and $M$ each measure $35 ^\\circ$. Statement II provides that $PR = MO$. This gives two sides and the included angle in triangle $PQR$ congruent to two sides and the included angle in triangle $MNO$: $PQ = MN$, angle $P =$ angle $M$, and $PR = MO$. By the Side-Angle-Side (SAS) congruence criterion, triangle $PQR$ is congruent to triangle $MNO$. Therefore, statement II is sufficient. Statement I provides that angles $Q$ and $R$ are equal, which determines the angle measures in triangle $PQR$ (since $35 + Q + R = 180$ and $Q = R$ gives $Q = R = 72.5 ^\\circ$), but provides no information about the angle measures or side lengths in triangle $MNO$ beyond what is already given. Therefore, statement I is not sufficient. Statement III provides that $QR = NO$. Combined with the given information, this yields two sides and a non-included angle: $PQ = MN$, angle $P =$ angle $M$, and $QR = NO$. Since angle $P$ is not included between sides $PQ$ and $QR$, this is the Side-Side-Angle case, which does not guarantee congruence. Therefore, statement III is not sufficient.",
+  "source": "https://cooksat.com/practice?questionId=878fca7c&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

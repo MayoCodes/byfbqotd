@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0c9c9d7f",
+  "capturedAt": "2026-11-13T22:15:06.699Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $ABC$, the measure of angle $A$ is $2(x-8)$ degrees, the measure of angle $B$ is $x$ degrees, and the measure of angle $C$ is $x+12$ degrees. What is the value of $x$?\n\n$$0$$\n\n$$46$$",
+  "choices": {},
+  "correctAnswer": "$46$",
+  "explanation": "The correct answer is $46$. The sum of the measures of the interior angles of a triangle is $180°$. It's given that the measure of angle $A$ is $2(x-8)$ degrees, the measure of angle $B$ is $x$ degrees, and the measure of angle $C$ is $x+12$ degrees. Therefore, $2(x-8)+x+(x+12)=180$. Distributing the $2$ yields $2x-16+x+x+12=180$. Combining like terms on the left side gives $4x-4=180$. Adding $4$ to both sides yields $4x=184$. Dividing both sides by $4$ gives $x=46$. Verification: When $x=46$, angle $A=2(46-8)=2(38)=76°$, angle $B=46°$, and angle $C=46+12=58°$. The sum is $76+46+58=180°$, confirming the solution.",
+  "source": "https://cooksat.com/practice?questionId=0c9c9d7f&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

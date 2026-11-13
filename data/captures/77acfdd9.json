@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "77acfdd9",
+  "capturedAt": "2026-11-13T22:16:15.194Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangle $ABC$ is similar to triangle $DEF$. In triangle $ABC$, $AB = 5$, $BC = 12$, and angle $B$ is a right angle. In triangle $DEF$, the side corresponding to $BC$ has length $8$. What is the length of the side in triangle $DEF$ that corresponds to $AC$?",
+  "choices": {
+    "A": "$\\frac{(10)}{3}$",
+    "B": "$\\frac{(16)}{3}$",
+    "C": "$\\frac{(26)}{3}$",
+    "D": "$\\frac{(39)}{2}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Using the Pythagorean theorem: $AC = \\sqrt{5^2 + 12^2} = \\sqrt{169} = 13$. The scale factor is $\\frac{8}{12} = \\frac{2}{3}$. The corresponding side in triangle $DEF$ is $13 \\times \\frac{2}{3} = \\frac{26}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=77acfdd9&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

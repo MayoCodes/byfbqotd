@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "78911a94",
+  "capturedAt": "2026-11-13T22:16:20.725Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Exterior Angle Theorem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, triangle $ABC$ is isosceles with $AB = AC$. The measure of angle $ABC$ is $56°$. Side $BC$ is extended to point $D$. What is the measure, in degrees, of angle $ACD$?",
+  "choices": {
+    "A": "$56$",
+    "B": "$68$",
+    "C": "$112$",
+    "D": "$124$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Since triangle $ABC$ is isosceles with $AB = AC$, the base angles are equal: $\\angle ABC = \\angle ACB = 56°$. Angle $ACD$ is supplementary to $\\angle ACB$, so $\\angle ACD = 180° - 56° = 124°$.",
+  "source": "https://cooksat.com/practice?questionId=78911a94&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/78911a94/1-ddb79c6873057473.png",
+      "kind": "diagram"
+    }
+  ]
+}

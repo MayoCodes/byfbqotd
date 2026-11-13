@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d9449a93",
+  "capturedAt": "2026-11-13T22:17:26.422Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Two nearby flagpoles are perpendicular to the ground, which is flat. One of these flagpoles is $18$ feet tall and has a shadow that is $6$ feet long. At the same time, the shadow of the other flagpole is $4$ feet long. How tall, in feet, is the other flagpole?",
+  "choices": {
+    "A": "$2$",
+    "B": "$12$",
+    "C": "$14$",
+    "D": "$24$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Each flagpole and its shadow can be modeled using a right triangle, where the height of the flagpole and the length of its shadow are the legs of the triangle. At a given point in time, the right triangles formed by two nearby flagpoles and their respective shadows will be similar. Therefore, if the height of the other flagpole is $x$, in feet, the value of $x$ can be calculated by solving the proportional relationship $\\frac{18 \\text{ feet tall}}{6 \\text{ feet long}} = \\frac{x \\text{ feet tall}}{4 \\text{ feet long}}$. This equation is equivalent to $\\frac{18}{6} = \\frac{x}{4}$, or $3 = \\frac{x}{4}$. Multiplying each side of the equation $3 = \\frac{x}{4}$ by $4$ yields $12 = x$. Therefore, the other flagpole is $12$ feet tall.",
+  "source": "https://cooksat.com/practice?questionId=d9449a93&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

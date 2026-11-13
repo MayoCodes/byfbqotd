@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4c248dcb",
+  "capturedAt": "2026-11-13T22:15:45.526Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, line $m$ is parallel to line $n$, and line $l$ intersects both lines. Which of the following pairs are alternate interior angles?",
+  "choices": {
+    "A": "$1$ and $2$",
+    "B": "$4$ and $5$",
+    "C": "$1$ and $5$",
+    "D": "$3$ and $4$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Alternate interior angles are pairs of angles on opposite sides of the transversal and between the parallel lines. Angle 1 is at the upper intersection (point P on line $m$) on the left side of line $l$, and angle 5 is at the lower intersection (point Q on line $n$) on the right side of line $l$. Both lie between the parallel lines and on opposite sides of the transversal, so they are alternate interior angles.",
+  "source": "https://cooksat.com/practice?questionId=4c248dcb&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4c248dcb/1-701f7d476fe8461e.png",
+      "kind": "diagram"
+    }
+  ]
+}

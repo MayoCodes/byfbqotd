@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b7be02b",
+  "capturedAt": "2026-11-13T22:16:25.916Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, line $j$ intersects lines $p$ and $q$. If $a = 134$, which additional piece of information is sufficient to prove that lines $p$ and $q$ are parallel?",
+  "choices": {
+    "A": "$b = 46$",
+    "B": "$c = 134$",
+    "C": "$a + c = 180$",
+    "D": "$c + d = 180$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. If two lines are cut by a transversal and corresponding angles are congruent, then the lines are parallel. In the figure, the angle with measure $a ^\\circ$ and the angle with measure $c ^\\circ$ are corresponding angles, since they are both in the upper-left position at their respective intersections of line $j$ with lines $p$ and $q$. It's given that $a = 134$. If $c = 134$, then the angle with measure $a ^\\circ$ is congruent to the angle with measure $c ^\\circ$, which means corresponding angles are congruent. Therefore, lines $p$ and $q$ are parallel. Thus, the additional information that $c = 134$ is sufficient to prove that lines $p$ and $q$ are parallel.",
+  "source": "https://cooksat.com/practice?questionId=7b7be02b&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7b7be02b/1-dc5fafa399a7947a.png",
+      "kind": "diagram"
+    }
+  ]
+}

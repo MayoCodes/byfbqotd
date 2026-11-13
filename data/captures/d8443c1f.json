@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d8443c1f",
+  "capturedAt": "2026-11-13T22:17:24.413Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, $PR = RS$. The measure of $TQR$ is $52^°$, the measure of $PRS$ is $112^°$, and the measure of $QTP$ is $x^°$. What is the value of $x$?\n\n$$0$$\n\n$$86$$",
+  "choices": {},
+  "correctAnswer": "$86$",
+  "explanation": "The correct answer is $86$. It's given that $PR = RS$, so triangle $PRS$ is isosceles and the measure of $\\angle RSP$ equals the measure of $\\angle RPS$. The sum of the measures of the interior angles of a triangle is $180 ^\\circ$, so the sum of the interior angles of triangle $PRS$ is $180 ^\\circ$. Since the measure of $\\angle PRS$ is $112 ^\\circ$, the sum of the measures of $\\angle RSP$ and $\\angle RPS$ is $\\left(180 - 112\\right) ^\\circ$, or $68 ^\\circ$. Since these base angles are equal, each measures half of $68 ^\\circ$, or $34 ^\\circ$. The sum of the interior angles of triangle $QTS$ is $180 ^\\circ$. The measure of $\\angle TQS$, which is the same angle as $\\angle TQR$, is $52 ^\\circ$. The measure of $\\angle QST$, which is the same angle as $\\angle RSP$, is $34 ^\\circ$. It follows that the measure of $\\angle QTS$ is $\\left(180 - 52 - 34\\right) ^\\circ$, or $94 ^\\circ$. Since $\\angle QTS$ and $\\angle QTP$ form a straight line, the sum of their measures is $180 ^\\circ$. It follows that $94 + x = 180$. Subtracting $94$ from both sides yields $x = 86$.",
+  "source": "https://cooksat.com/practice?questionId=d8443c1f&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d8443c1f/1-1c66315f967c46b3.png",
+      "kind": "diagram"
+    }
+  ]
+}

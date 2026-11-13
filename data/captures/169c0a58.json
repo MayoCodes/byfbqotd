@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "169c0a58",
+  "capturedAt": "2026-11-13T22:15:14.120Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure above, lines $p$ and $q$ are parallel, $b = 35$, and $c = 70$. What is the value of $a$?",
+  "choices": {
+    "A": "$75$",
+    "B": "$90$",
+    "C": "$105$",
+    "D": "$110$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Let the measure of the third angle in the smaller triangle (at the intersection with line $p$) be $n ^\\circ$. Since lines $p$ and $q$ are parallel and cut by transversals, the corresponding angles formed are congruent, so $n ^\\circ = b ^\\circ = 35 ^\\circ$. The sum of the measures of the interior angles of a triangle is $180 ^\\circ$, which yields $n + a + c = 180$. Substituting $n = 35$ and $c = 70$ gives $35 + a + 70 = 180$, so $a = 75$.",
+  "source": "https://cooksat.com/practice?questionId=169c0a58&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/169c0a58/1-28dbe74cfda9b3e5.png",
+      "kind": "diagram"
+    }
+  ]
+}

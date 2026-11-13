@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2feb962f",
+  "capturedAt": "2026-11-13T22:15:26.596Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A line intersects two parallel lines, forming four acute angles and four obtuse angles. The measure of one of these eight angles is $(9x - 320) ^°$. The sum of the measures of four of the eight angles is $k ^°$. Which of the following could NOT be equivalent to $k$, for all values of $x$?",
+  "choices": {
+    "A": "$-36x + 2,000$",
+    "B": "$-18x + 1,380$",
+    "C": "$360$",
+    "D": "$18x - 460$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since a transversal intersects two parallel lines, all four acute angles have the same measure and all four obtuse angles have the same measure, and each acute angle is supplementary to each obtuse angle. It's given that one of these eight angles measures $(9x - 320) ^\\circ$, so a supplementary angle measures $(180 - (9x - 320)) ^\\circ$, or $(-9x + 500) ^\\circ$. It's also given that the sum of four of the eight angles is $k ^\\circ$. The possible values of $k$ are therefore $4(9x - 320)$; $3(9x - 320) + (-9x + 500)$; $2(9x - 320) + 2(-9x + 500)$; $(9x - 320) + 3(-9x + 500)$; and $4(-9x + 500)$. Simplifying these expressions gives $36x - 1{,}280$; $18x - 460$; $360$; $-18x + 1{,}180$; and $-36x + 2{,}000$, respectively. Of the given choices, only $-18x + 1{,}380$ does not appear in this list, so it could NOT be equivalent to $k$ for all values of $x$.",
+  "source": "https://cooksat.com/practice?questionId=2feb962f&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

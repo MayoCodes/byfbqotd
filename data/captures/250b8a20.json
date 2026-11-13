@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "250b8a20",
+  "capturedAt": "2026-11-13T22:15:24.985Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a triangle, one angle measures $40^°$ and another angle measures $60^°$. What is the measure of the third angle?",
+  "choices": {
+    "A": "$60^°$",
+    "B": "$80^°$",
+    "C": "$100^°$",
+    "D": "$120^°$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The sum of angles in any triangle is $180^\\circ$. With two angles measuring $40^\\circ$ and $60^\\circ$, the third angle is $180^\\circ - 40^\\circ - 60^\\circ = 80^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=250b8a20&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4347e289",
+  "capturedAt": "2026-11-13T22:15:41.989Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, three lines intersect at point $K$. If $a = 55$ and $b = 80$, what is the value of $c$?",
+  "choices": {
+    "A": "$25$",
+    "B": "$45$",
+    "C": "$85$",
+    "D": "$135$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The angle that lies between the $b ^\\circ$ angle and the $c ^\\circ$ angle is a vertical angle with the $a ^\\circ$ angle. Since vertical angles are congruent and $a = 55$, the angle between the $b ^\\circ$ angle and the $c ^\\circ$ angle measures $55 ^\\circ$. Since the $55 ^\\circ$ angle, the $b ^\\circ$ angle, and the $c ^\\circ$ angle are adjacent and form a straight angle, it follows that the sum of the measures of these three angles is $180 ^\\circ$, which is represented by the equation $55 ^\\circ + b ^\\circ + c ^\\circ = 180 ^\\circ$. It's given that $b = 80$. Substituting $80$ for $b$ yields $55 ^\\circ + 80 ^\\circ + c ^\\circ = 180 ^\\circ$, which can be rewritten as $135 ^\\circ + c ^\\circ = 180 ^\\circ$. Subtracting $135 ^\\circ$ from both sides of this equation yields $c ^\\circ = 45 ^\\circ$. Therefore, $c = 45$.",
+  "source": "https://cooksat.com/practice?questionId=4347e289&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4347e289/1-7bab098b67d09395.png",
+      "kind": "diagram"
+    }
+  ]
+}

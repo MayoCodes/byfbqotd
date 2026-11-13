@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6444a716",
+  "capturedAt": "2026-11-13T22:16:03.303Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $LMN$, angle $M$ is a right angle, point $R$ lies on $LN$, and point $S$ lies on $MN$ such that $RS$ is parallel to $LM$. If the measure of angle $MNL$ is $58 ^°$, what is the measure, in degrees, of angle $LRS$?\n\n$$0$$\n\n$$148$$",
+  "choices": {},
+  "correctAnswer": "$148$",
+  "explanation": "The correct answer is $148$. Since $\\overline{RS}$ is parallel to $\\overline{LM}$ and angle $M$ is a right angle, angle $NSR$ is also a right angle. Angle $NRS$ is complementary to angle $MNL$ in right triangle $NSR$, so its measure, in degrees, is $90 - 58$, or $32$. Since angle $LRS$ is supplementary to angle $NRS$ (because $R$ lies on $\\overline{LN}$), its measure, in degrees, is $180 - 32$, or $148$.",
+  "source": "https://cooksat.com/practice?questionId=6444a716&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

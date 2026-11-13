@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e5c0567e",
+  "capturedAt": "2026-11-13T22:17:33.021Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure above, lines $p$ and $q$ are parallel. What is the value of $w$?",
+  "choices": {
+    "A": "$17$",
+    "B": "$73$",
+    "C": "$107$",
+    "D": "$163$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since lines $p$ and $q$ are parallel, corresponding angles formed by the intersection of line $m$ with lines $p$ and $q$ are congruent. Therefore, the angle with measure $w ^\\circ$ must be the supplement of the angle with measure $73 ^\\circ$. The sum of two supplementary angles is $180 ^\\circ$, so $w = 180 - 73 = 107$.",
+  "source": "https://cooksat.com/practice?questionId=e5c0567e&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e5c0567e/1-bcdf4f78f58e17c9.png",
+      "kind": "diagram"
+    }
+  ]
+}

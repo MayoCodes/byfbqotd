@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "891ebe32",
+  "capturedAt": "2026-11-13T22:16:35.037Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, right triangle $BAC$ is similar to right triangle $DEC$, where the measure of $BCA$ is $w°$ and the measure of $DCE$ is $w°$. The lengths represented by $DE$, $BA$, $AC$, and $BC$ are $12$, $18$, $24$, and $30$, respectively. What is the length of $DC$?",
+  "choices": {
+    "A": "$\\frac{(216)}{(30)}$",
+    "B": "$\\frac{(216)}{(24)}$",
+    "C": "$\\frac{(360)}{(24)}$",
+    "D": "$\\frac{(360)}{(18)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The figure shows that angle $A$ in $\\triangle BAC$ and angle $E$ in $\\triangle DEC$ are right angles. It follows that angle $A$ is congruent to angle $E$. The figure also shows that the measures of angle $BCA$ and angle $DCE$ are both $w ^\\circ$. Therefore, angle $BCA$ is congruent to angle $DCE$. It's given that $\\triangle BAC$ is similar to $\\triangle DEC$. Since angle $A$ is congruent to angle $E$, and angle $BCA$ is congruent to angle $DCE$, it follows that $\\overline{BC}$ corresponds to $\\overline{DC}$, and $\\overline{BA}$ corresponds to $\\overline{DE}$. Since corresponding sides of similar triangles are proportional, $\\frac{DC}{BC} = \\frac{DE}{BA}$. Substituting $12$ for $DE$, $18$ for $BA$, and $30$ for $BC$ in the equation $\\frac{DC}{BC} = \\frac{DE}{BA}$ yields $\\frac{DC}{30} = \\frac{12}{18}$. Multiplying each side of this equation by $30$ yields $DC = \\left(\\frac{12}{18}\\right)\\left(30\\right)$, or $DC = \\frac{360}{18}$. Thus, the length of $\\overline{DC}$ is $\\frac{360}{18}$.",
+  "source": "https://cooksat.com/practice?questionId=891ebe32&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/891ebe32/1-d8669101ae9d41d2.png",
+      "kind": "diagram"
+    }
+  ]
+}

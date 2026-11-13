@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d64b68f6",
+  "capturedAt": "2026-11-13T22:17:22.567Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $MNP$, angle $N$ is a right angle, point $X$ lies on $MP$, point $Y$ lies on $NP$, and $XY$ is parallel to $MN$. If the length of $MN$ is $60$ units, the length of $XY$ is $15$ units, and the area of triangle $MNP$ is $540$ square units, what is the length of $YN$, in units?\n\n$$0$$\n\n$$\\frac{27}{2},13.5,13.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{27}{2},13.5,13.50$",
+  "explanation": "The correct answer is $\\frac{27}{2}$. In triangle $MNP$, angle $N$ is a right angle, so $\\overline{MN}$ and $\\overline{NP}$ are the two legs. The area of a right triangle is $A = \\frac{1}{2} l_{1} l_{2}$. Therefore, $540 = \\frac{1}{2}(60)(NP)$, which gives $540 = 30 \\cdot NP$, so $NP = 18$. Since $\\overline{XY}$ is parallel to $\\overline{MN}$ and angle $N$ is a right angle, angle $XYP$ is also a right angle. Triangles $MNP$ and $XYP$ share angle $P$ and both have a right angle, so they are similar. Therefore, the ratio of corresponding sides $\\frac{MN}{XY} = \\frac{NP}{YP}$. Since $\\frac{MN}{XY} = \\frac{60}{15} = 4$, it follows that $\\frac{NP}{YP} = 4$, so $YP = \\frac{18}{4} = \\frac{9}{2}$. Since $NP = YN + YP$, the length of $\\overline{YN}$ is $18 - \\frac{9}{2} = \\frac{36}{2} - \\frac{9}{2} = \\frac{27}{2}$. Note that 27/2, 13.5, and 13.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=d64b68f6&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

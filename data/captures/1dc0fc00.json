@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1dc0fc00",
+  "capturedAt": "2026-11-13T22:15:21.330Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the diagram, line $l$ intersects line $m$. If $x = 50$, what is the value of $a$?",
+  "choices": {
+    "A": "$40$",
+    "B": "$50$",
+    "C": "$130$",
+    "D": "$140$"
+  },
+  "correctAnswer": "C",
+  "explanation": "When two lines intersect, adjacent angles are supplementary (sum to $180°$). Angles $x$ and $a$ are adjacent angles at the intersection. Therefore, $x + a = 180°$. Given $x = 50°$, we have $50° + a = 180°$, so $a = 130°$.",
+  "source": "https://cooksat.com/practice?questionId=1dc0fc00&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1dc0fc00/1-a5fa10f7e33a39d5.png",
+      "kind": "diagram"
+    }
+  ]
+}

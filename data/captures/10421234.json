@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "10421234",
+  "capturedAt": "2026-11-13T22:15:08.856Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the triangle shown, the measure of angle $BCA$ is $62°$ and the measure of angle $ABC$ is $x°$. What expression represents the measure, in degrees, of angle $CAB$?",
+  "choices": {
+    "A": "$x+62$",
+    "B": "$62-x$",
+    "C": "$118-x$",
+    "D": "$x-118$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the measure of angle $\\overline{ABC}$ is $x°$ and the measure of angle $\\overline{BCA}$ is $62°$. Since the sum of the measures of the interior angles of a triangle is $180°$, the measure of angle $\\overline{CAB}$ can be found using the equation: $\\text{CAB} + \\text{ABC} + \\text{BCA} = 180°$. Substituting the known values: $\\text{CAB} + x + 62 = 180$. Subtracting $x$ and $62$ from both sides: $\\text{CAB} = 180 - x - 62 = 118 - x$. Therefore, the measure of angle $\\overline{CAB}$ is $(118-x)°$.",
+  "source": "https://cooksat.com/practice?questionId=10421234&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/10421234/1-c9c99df147d66b75.png",
+      "kind": "diagram"
+    }
+  ]
+}

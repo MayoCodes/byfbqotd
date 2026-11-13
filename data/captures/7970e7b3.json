@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7970e7b3",
+  "capturedAt": "2026-11-13T22:16:22.470Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, lines $m$ and $n$ are parallel and line $p$ intersects both lines. If $a > 118$, which of the following must be true?",
+  "choices": {
+    "A": "$b < 62$",
+    "B": "$b > 62$",
+    "C": "$a + b < 180$",
+    "D": "$a + b > 180$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that lines $m$ and $n$ are parallel. In the figure, the angle measuring $a ^\\circ$ and the angle measuring $b ^\\circ$ are same-side interior angles formed by the transversal $p$ intersecting the parallel lines. Therefore, same-side interior angles are supplementary, which means $a + b = 180$. Subtracting $a$ from both sides of this equation yields $b = 180 - a$. It's given that $a > 118$. Substituting this into the inequality yields $b < 180 - 118$, or $b < 62$. Thus, if $a > 118$, it must be true that $b < 62$.",
+  "source": "https://cooksat.com/practice?questionId=7970e7b3&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7970e7b3/1-16610fdffc16a990.png",
+      "kind": "diagram"
+    }
+  ]
+}

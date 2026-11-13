@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ba26413f",
+  "capturedAt": "2026-11-13T22:17:04.048Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, the length of $SU$ is closest to which of the following?",
+  "choices": {
+    "A": "$4.4$",
+    "B": "$4.5$",
+    "C": "$4.6$",
+    "D": "$4.7$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. First, $\\overline{RT}$ is the hypotenuse of right triangle $RST$, whose legs have lengths $5$ and $12$. Therefore, $(RT)^{2} = 5^{2} + 12^{2}$, so $(RT)^{2} = 169$ and $RT = 13$. Second, because $\\angle RST$ corresponds to $\\angle SUT$ and because $\\angle RTS$ corresponds to $\\angle STU$, triangle $RST$ is similar to triangle $SUT$. The ratio of corresponding sides of similar triangles is constant, so $\\frac{SU}{RS} = \\frac{ST}{RT}$. Since $RT = 13$ and it's given that $RS = 5$ and $ST = 12$, $\\frac{SU}{5} = \\frac{12}{13}$. Solving for $SU$ results in $SU = \\frac{60}{13} \\approx 4.6$.",
+  "source": "https://cooksat.com/practice?questionId=ba26413f&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ba26413f/1-57b09047fe39664d.png",
+      "kind": "diagram"
+    }
+  ]
+}

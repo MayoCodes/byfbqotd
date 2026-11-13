@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "023690d8",
+  "capturedAt": "2026-11-13T22:15:02.922Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, $MK$ and $NP$ intersect at point $Q$. The measure of $NMQ$ is $b°$, and the measure of $KPQ$ is $b°$. $PQ=40$, $MQ=50$, $MN=75$, and $NQ=96$. What is the length of $PK$?\n\n$$0$$\n\n$$60$$",
+  "choices": {},
+  "correctAnswer": "$60$",
+  "explanation": "The correct answer is $60$. The figure shows two triangles, $\\triangle MQN$ and $\\triangle PQK$, where $\\angle MQN$ and $\\angle PQK$ are vertical angles and therefore congruent. It's given that $\\angle NMQ$ and $\\angle KPQ$ both measure $b°$, so $\\angle M$ is congruent to $\\angle P$. By the angle-angle similarity postulate, $\\triangle MQN \\sim \\triangle PQK$, where $\\overline{PK}$ corresponds to $\\overline{MN}$ and $\\overline{PQ}$ corresponds to $\\overline{MQ}$. Since corresponding sides of similar triangles are proportional, $\\frac{PK}{MN} = \\frac{PQ}{MQ}$. Substituting $MN=75$, $PQ=40$, and $MQ=50$ gives $\\frac{PK}{75} = \\frac{40}{50}$. Multiplying both sides by $75$ yields $PK = \\left(\\frac{40}{50}\\right)(75) = 60$. Therefore, the length of $\\overline{PK}$ is $60$.",
+  "source": "https://cooksat.com/practice?questionId=023690d8&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/023690d8/1-8261d4d6752d16db.png",
+      "kind": "diagram"
+    }
+  ]
+}

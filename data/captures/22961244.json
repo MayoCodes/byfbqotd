@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "22961244",
+  "capturedAt": "2026-11-13T22:15:23.073Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, triangle $PQS$ is similar to triangle $PRT$. The measure of angle $PRT$ is $62 ^°$, and $QS = 23(RT)$. What is the measure of angle $PQS$?",
+  "choices": {
+    "A": "$23 ^°$",
+    "B": "$62 ^°$",
+    "C": "$(23 + 62) ^°$",
+    "D": "$(23 \\times 62) ^°$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that triangle $PQS$ is similar to triangle $PRT$. Corresponding angles in similar triangles have equal measure. The similarity statement indicates that vertex $P$ corresponds to vertex $P$, vertex $Q$ corresponds to vertex $R$, and vertex $S$ corresponds to vertex $T$. Therefore, angle $PQS$ and angle $PRT$ are corresponding angles and have equal measure. It's given that the measure of angle $PRT$ is $62 ^\\circ$, so the measure of angle $PQS$ is $62 ^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=22961244&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/22961244/1-e3ae6ab12b10c425.png",
+      "kind": "diagram"
+    }
+  ]
+}

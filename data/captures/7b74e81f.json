@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b74e81f",
+  "capturedAt": "2026-11-13T22:16:24.320Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Each side of square J is multiplied by a scale factor of $m$ to create square K. The length of each side of square K is greater than the length of each side of square J. Which of the following could be the value of $m$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$\\frac{(16)}{(17)}$",
+    "C": "$1$",
+    "D": "$\\frac{(17)}{(16)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that each side of square J is multiplied by a scale factor of $m$ to create square K. Since the length of each side of square K is greater than the length of each side of square J, the scale factor $m$ must be greater than $1$. Of the given choices, only $\\frac{17}{16}$ is greater than $1$.",
+  "source": "https://cooksat.com/practice?questionId=7b74e81f&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

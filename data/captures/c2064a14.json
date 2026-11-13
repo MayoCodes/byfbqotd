@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c2064a14",
+  "capturedAt": "2026-11-13T22:17:06.204Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A triangle has angles measuring $x$, $2x$, and $3x$ degrees. What is the value of $x$?\n\n$$0$$\n\n$$30$$",
+  "choices": {},
+  "correctAnswer": "$30$",
+  "explanation": "The correct answer is $30$. The sum of the measures of the interior angles of a triangle is $180°$. It's given that a triangle has angles measuring $x$, $2x$, and $3x$ degrees. Therefore, $x + 2x + 3x = 180$. Combining like terms on the left side yields $6x = 180$. Dividing both sides by $6$ gives $x = 30$. Verification: When $x = 30$, the three angles measure $30°$, $2(30°) = 60°$, and $3(30°) = 90°$. The sum is $30 + 60 + 90 = 180°$, which confirms the answer is correct.",
+  "source": "https://cooksat.com/practice?questionId=c2064a14&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

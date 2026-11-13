@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cd178cb0",
+  "capturedAt": "2026-11-13T22:17:13.220Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\n$LKN$ is similar to $MPN$. The measure of $LNK$ is $x°$ and the measure of $MNP$ is $x°$. The lengths represented by $MP$, $LK$, $KN$, and $LN$ in the figure are $14$, $21$, $28$, and $35$, respectively. What is the length of $MN$?",
+  "choices": {
+    "A": "$\\frac{(294)}{(35)}$",
+    "B": "$\\frac{(294)}{(28)}$",
+    "C": "$\\frac{(490)}{(28)}$",
+    "D": "$\\frac{(490)}{(21)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $\\triangle LKN$ is similar to $\\triangle MPN$, so corresponding sides are proportional. Both triangles are right triangles. The angles marked $x ^\\circ$ at vertex $N$ indicate $\\angle LNK$ corresponds to $\\angle MNP$. The side opposite $\\angle LNK$ in $\\triangle LKN$ is $\\overline{LK}$, which has length $21$. The side opposite $\\angle MNP$ in $\\triangle MPN$ is $\\overline{MP}$, which has length $14$. Therefore the ratio of corresponding sides is $\\frac{14}{21}$. Since $\\overline{LN}$ is the hypotenuse of $\\triangle LKN$ and $\\overline{MN}$ is the hypotenuse of $\\triangle MPN$, these are also corresponding sides. The length of $\\overline{LN}$ is $35$, so $\\frac{MN}{35} = \\frac{14}{21}$. Multiplying both sides by $35$ yields $MN = 35 \\cdot \\frac{14}{21} = \\frac{490}{21}$.",
+  "source": "https://cooksat.com/practice?questionId=cd178cb0&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/cd178cb0/1-5bcb0d24a5ee6bb2.png",
+      "kind": "diagram"
+    }
+  ]
+}

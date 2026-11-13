@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c5df666c",
+  "capturedAt": "2026-11-13T22:17:07.802Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, line $n$ intersects parallel lines $p$ and $q$. What is the value of $x$?\n\n$$0$$\n\n$$55$$",
+  "choices": {},
+  "correctAnswer": "$55$",
+  "explanation": "The correct answer is $55$. Based on the figure, the angle with measure $125 ^\\circ$ and the angle vertical to the angle with measure $x ^\\circ$ are same-side interior angles. Since vertical angles are congruent, the angle vertical to the angle with measure $x ^\\circ$ also has measure $x ^\\circ$. It's given that lines $p$ and $q$ are parallel. Therefore, same-side interior angles between lines $p$ and $q$ are supplementary. It follows that $x + 125 = 180$. Subtracting $125$ from both sides of this equation yields $x = 55$.",
+  "source": "https://cooksat.com/practice?questionId=c5df666c&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c5df666c/1-dabb8082b5385fca.png",
+      "kind": "diagram"
+    }
+  ]
+}

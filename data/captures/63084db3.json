@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "63084db3",
+  "capturedAt": "2026-11-13T22:16:01.336Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, $PR = RS$. The measure of angle $NMR$ is $24 ^°$, the measure of angle $PRS$ is $104 ^°$, and the measure of $MNP$ is $x^°$. What is the value of $x$?\n\n$$0$$\n\n$$62$$",
+  "choices": {},
+  "correctAnswer": "$62$",
+  "explanation": "The correct answer is $62$. It's given that $PR = RS$, so triangle $PRS$ is isosceles and the measure of angle $RPS$ equals the measure of angle $RSP$. The sum of the measures of the interior angles of a triangle is $180 ^\\circ$. It's given that the measure of angle $PRS$ is $104 ^\\circ$, so the sum of the measures of angles $RPS$ and $RSP$ is $\\left( 180 - 104 \\right) ^\\circ$, or $76 ^\\circ$. Since these angles are equal, the measure of angle $RPS$ is $38 ^\\circ$. In triangle $PMN$, the measure of angle $MPN$ is the same as angle $RPS$, which is $38 ^\\circ$. It's given that the measure of angle $PMN$ is the same as angle $NMR$, which is $24 ^\\circ$. Therefore, the measure of angle $PNM$ is $\\left( 180 - 38 - 24 \\right) ^\\circ$, or $118 ^\\circ$. Since angles $PNM$ and $MNS$ form a straight line at point $N$, they are supplementary angles, so the measure of angle $MNS$ is $\\left( 180 - 118 \\right) ^\\circ$, or $62 ^\\circ$. The measure of angle $MNP$ is $x ^\\circ$, so the value of $x$ is $62$.",
+  "source": "https://cooksat.com/practice?questionId=63084db3&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/63084db3/1-2d453e726166a63f.png",
+      "kind": "diagram"
+    }
+  ]
+}

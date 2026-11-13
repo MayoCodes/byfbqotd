@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eb03acf5",
+  "capturedAt": "2026-11-13T22:17:38.252Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangles $PQR$ and $STU$ are congruent, where $P$, $Q$, and $R$ correspond to $S$, $T$, and $U$, respectively. The measure of angle $P$ is $55 ^°$ and the measure of angle $Q$ is $30 ^°$. What is the measure of angle $S$?",
+  "choices": {
+    "A": "$30 ^°$",
+    "B": "$55 ^°$",
+    "C": "$85 ^°$",
+    "D": "$125 ^°$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that triangles $PQR$ and $STU$ are congruent such that angle $P$ corresponds to angle $S$. Corresponding angles of congruent triangles are congruent, so angle $P$ and angle $S$ must be congruent. Therefore, if the measure of angle $P$ is $55 ^\\circ$, then the measure of angle $S$ is also $55 ^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=eb03acf5&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

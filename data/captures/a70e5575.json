@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a70e5575",
+  "capturedAt": "2026-11-13T22:16:55.240Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Two parallel lines are intersected by a third line. One of the angles formed measures $115°$. Angle $x$ is supplementary to this $115°$ angle. What is the measure, in degrees, of angle $x$?",
+  "choices": {
+    "A": "$65°$",
+    "B": "$75°$",
+    "C": "$115°$",
+    "D": "$180°$"
+  },
+  "correctAnswer": "A",
+  "explanation": "When two angles are supplementary, their measures sum to $180°$. Since angle $x$ is supplementary to $115°$, angle $x$ measures $180° - 115° = 65°$.",
+  "source": "https://cooksat.com/practice?questionId=a70e5575&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

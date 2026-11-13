@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8ad749d5",
+  "capturedAt": "2026-11-13T22:16:38.932Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, $MP=PQ$, the measure of angle $QPM$ is $x°$, the measure of angle $WNP$ is $35°$, and the measure of angle $MWN$ is $51°$. What is the value of $x$?\n\n$$0$$\n\n$$148$$",
+  "choices": {},
+  "correctAnswer": "$148$",
+  "explanation": "The correct answer is $148$. In the figure shown, the sum of the measures of angle $QWN$ and angle $MWN$ is $180 ^\\circ$. It's given that the measure of angle $MWN$ is $51 ^\\circ$. Therefore, the measure of angle $QWN$ is $\\left( 180 - 51 \\right) ^\\circ$, or $129 ^\\circ$. The sum of the measures of the interior angles of a triangle is $180 ^\\circ$. In triangle $QWN$, the measure of angle $QWN$ is $129 ^\\circ$ and it's given that the measure of angle $WNP$ is $35 ^\\circ$. Thus, the measure of angle $WQN$ is $\\left( 180 - 129 - 35 \\right) ^\\circ$, or $16 ^\\circ$. It's given that $MP = PQ$. Therefore, triangle $PQM$ is an isosceles triangle and the measure of angle $WQN$ is equal to the measure of angle $PMQ$. In triangle $PQM$, the measure of angle $PQM$ is $16 ^\\circ$ and the measure of angle $PMQ$ is $16 ^\\circ$. Thus, the measure of angle $QPM$ is $\\left( 180 - 16 - 16 \\right) ^\\circ$, or $148 ^\\circ$. The figure shows that the measure of angle $QPM$ is $x ^\\circ$, so the value of $x$ is $148$.",
+  "source": "https://cooksat.com/practice?questionId=8ad749d5&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8ad749d5/1-c6168ad8f827231f.png",
+      "kind": "diagram"
+    }
+  ]
+}

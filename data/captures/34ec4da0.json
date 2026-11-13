@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "34ec4da0",
+  "capturedAt": "2026-11-13T22:15:31.835Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In right triangle $ABC$, the measure of angle $B$ is $90^°$ and the measure of angle $A$ is $x^°$. Which expression gives the measure of angle $C$?",
+  "choices": {
+    "A": "$180-x$",
+    "B": "$90+x$",
+    "C": "$90-x$",
+    "D": "$x-90$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The sum of angles in any triangle is $180^\\circ$. Since angle $B = 90^\\circ$ and angle $A = x^\\circ$, we have $x + 90 + C = 180$. Solving for $C$ gives $C = 90 - x$.",
+  "source": "https://cooksat.com/practice?questionId=34ec4da0&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": []
+}

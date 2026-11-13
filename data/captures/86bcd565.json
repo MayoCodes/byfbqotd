@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "86bcd565",
+  "capturedAt": "2026-11-13T22:16:31.475Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe area of triangle $PQR$ above is at least $48$ but no more than $60$. If $z$ is an integer, what is one possible value of $w$?\n\n$$0$$\n\n$$\\frac{8}{3},2.666,2.667,3,\\frac{10}{3},3.333$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{8}{3},2.666,2.667,3,\\frac{10}{3},3.333$",
+  "explanation": "The correct answer is either $\\frac{8}{3}$, $3$, or $\\frac{10}{3}$. The area of triangle $PQR$ can be expressed as $\\frac{1}{2} \\times (4 + 8) \\times z$ or $6z$. It's given that the area of triangle $PQR$ is at least $48$ but no more than $60$. It follows that $48 \\leq 6z \\leq 60$. Dividing by $6$ to isolate $z$ in this compound inequality yields $8 \\leq z \\leq 10$. Since $z$ is an integer, $z = 8$, $9$, or $10$. In the given figure, the two right triangles shown are similar because they have two pairs of congruent angles: their respective right angles and angle $P$. Therefore, the following proportion is true: $\\frac{w}{z} = \\frac{4}{12}$, which simplifies to $\\frac{w}{z} = \\frac{1}{3}$. Substituting $8$ for $z$ in the proportion results in $\\frac{w}{8} = \\frac{1}{3}$. Cross multiplying and solving for $w$ yields $\\frac{8}{3}$. Substituting $9$ for $z$ in the proportion results in $\\frac{w}{9} = \\frac{1}{3}$. Cross multiplying and solving for $w$ yields $3$. Substituting $10$ for $z$ in the proportion results in $\\frac{w}{10} = \\frac{1}{3}$. Cross multiplying and solving for $w$ yields $\\frac{10}{3}$. Note that 8/3, 2.666, 2.667, 3, 10/3, and 3.333 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=86bcd565&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/86bcd565/1-5cfc70c7dacac693.png",
+      "kind": "diagram"
+    }
+  ]
+}

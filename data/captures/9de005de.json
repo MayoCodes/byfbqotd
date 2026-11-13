@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9de005de",
+  "capturedAt": "2026-11-13T22:16:51.454Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, $PMR$ is similar to $PNQ$. The measure of $PNQ$ is $52 ^°$, and $MR = 24(NQ)$. What is the measure of $PMR$?",
+  "choices": {
+    "A": "$24 ^°$",
+    "B": "$(52 - 24) ^°$",
+    "C": "$52 ^°$",
+    "D": "$(52 + 24) ^°$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $\\triangle PMR$ is similar to $\\triangle PNQ$. Corresponding angles in similar triangles have equal measure. Angle $MPR$ and angle $NPQ$ represent the same angle, so they are corresponding angles with equal measure. The figure shows that angle $MRP$ and angle $NQP$ are both right angles and therefore have equal measure, so they are corresponding angles. Therefore, angle $PMR$ and angle $PNQ$ are corresponding angles and have equal measure. It's given that the measure of angle $PNQ$ is $52 ^\\circ$, so the measure of angle $PMR$ is $52 ^\\circ$.",
+  "source": "https://cooksat.com/practice?questionId=9de005de&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/9de005de/1-25a4fe448dc1a11f.png",
+      "kind": "diagram"
+    }
+  ]
+}

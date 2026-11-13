@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "76dae896",
+  "capturedAt": "2026-11-13T22:16:13.273Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, $PR = RS$. The measure of angle $NQR$ is $32 ^°$, the measure of angle $PRS$ is $104 ^°$, and the measure of $QNP$ is $x^°$. What is the value of $x$?\n\n$$0$$\n\n$$70$$",
+  "choices": {},
+  "correctAnswer": "$70$",
+  "explanation": "The correct answer is $70$. It's given that $PR = RS$, so triangle $PRS$ is isosceles and the measure of angle $RSP$ equals the measure of angle $RPS$. The sum of the measures of the interior angles of a triangle is $180 ^\\circ$. Since the measure of angle $PRS$ is $104 ^\\circ$, the sum of the measures of angles $RSP$ and $RPS$ is $(180 - 104) ^\\circ$, or $76 ^\\circ$. Since these angles are equal, each measures $38 ^\\circ$. In the figure, points $S$, $N$, and $P$ are collinear, so the measure of angle $RPN$ is $38 ^\\circ$. Using the triangle angle relationships through point $Q$ together with the given measure of angle $NQR = 32 ^\\circ$, the measure of angle $SRN$ equals $(x - 38) ^\\circ$. Setting this equal to $32 ^\\circ$ gives $x - 38 = 32$, so $x = 70$.",
+  "source": "https://cooksat.com/practice?questionId=76dae896&subject=math&domain=geometry-and-trigonometry&skills=lines_angles_and_triangles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/76dae896/1-5e3fe9c1601244e8.png",
+      "kind": "diagram"
+    }
+  ]
+}
