@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ed63b533",
+  "capturedAt": "2026-11-13T23:32:27.450Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Apply Rate to Find Quantity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A certain recipe requires $7$ pounds of strawberries for every $3$ pounds of bananas. According to this recipe, how many pounds of bananas are required for $91$ pounds of strawberries?",
+  "choices": {
+    "A": "$21$",
+    "B": "$28$",
+    "C": "$39$",
+    "D": "$273$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The ratio of strawberries to bananas is $7:3$. Setting up the proportion $\\frac{7}{3} = \\frac{91}{b}$, cross multiplying gives $7b = 273$, so $b = 39$ pounds of bananas.",
+  "source": "https://cooksat.com/practice?questionId=ed63b533&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

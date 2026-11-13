@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "935554ee",
+  "capturedAt": "2026-11-13T23:31:23.323Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Proportional Scaling with Variables",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "To study moisture content, samples of maple were collected from $24$ trees, and one sample was cut in the shape of a cube. The maple sample has a density of $742$ kilograms per cubic meter, and each edge of the cube has a length of $0.80$ meters. To the nearest whole number, what is the mass, in kilograms, of this sample?",
+  "choices": {
+    "A": "$380$",
+    "B": "$475$",
+    "C": "$594$",
+    "D": "$1,449$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The sample is a cube with edge length $0.80$ meters, so its volume is $(0.80)^{3} = 0.512$ cubic meters. Since the density is $742$ kilograms per cubic meter, the mass is $0.512 \\times 742 = 379.904$ kilograms. Rounded to the nearest whole number, the mass of the sample is $380$ kilograms.",
+  "source": "https://cooksat.com/practice?questionId=935554ee&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

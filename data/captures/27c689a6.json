@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "27c689a6",
+  "capturedAt": "2026-11-13T23:30:08.110Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A certain type of truck can transport a maximum of $2$ tons of cargo. For long-distance fuel efficiency, each truck must carry only $85%$ of its maximum capacity. How many total pounds of cargo do $6$ of these trucks transport on a long-distance trip? ($1$ ton $= 2,000$ pounds)",
+  "choices": {
+    "A": "$10,200$",
+    "B": "$20,400$",
+    "C": "$24,000$",
+    "D": "$28,235$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Each truck carries $2$ tons maximum. Six trucks have total capacity of $6 \\times 2 = 12$ tons. With the $85\\%$ fuel efficiency constraint, actual cargo is $12 \\times 0.85 = 10.2$ tons. Converting to pounds: $10.2$ tons $\\times 2{,}000$ pounds/ton $= 20{,}400$ pounds.",
+  "source": "https://cooksat.com/practice?questionId=27c689a6&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

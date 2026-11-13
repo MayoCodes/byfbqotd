@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "893c758d",
+  "capturedAt": "2026-11-13T23:31:15.503Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Unit Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A distance of $185$ leagues is equivalent to how many links? ($1$ league $= 40$ chains and $1$ chain $= 8$ links)",
+  "choices": {
+    "A": "$233$",
+    "B": "$1,480$",
+    "C": "$7,400$",
+    "D": "$59,200$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $1$ league $= 40$ chains and $1$ chain $= 8$ links. It follows that a distance of $185$ leagues is equivalent to $(185 \\text{ leagues}) \\left(\\frac{40 \\text{ chains}}{1 \\text{ league}}\\right) \\left(\\frac{8 \\text{ links}}{1 \\text{ chain}}\\right)$, or $59{,}200$ links.",
+  "source": "https://cooksat.com/practice?questionId=893c758d&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

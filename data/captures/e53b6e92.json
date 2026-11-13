@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e53b6e92",
+  "capturedAt": "2026-11-13T23:32:18.875Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Compute Rate from Given Values",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A car travels at a constant speed of $54$ miles per hour. How many minutes does it take the car to travel $45$ miles at this speed?",
+  "choices": {
+    "A": "$45$",
+    "B": "$50$",
+    "C": "$54$",
+    "D": "$60$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Using the formula time = distance ÷ speed gives time = $\\frac{45}{54}$ hours, which simplifies to $\\frac{5}{6}$ hours. Converting to minutes: $\\frac{5}{6} \\times 60 = 50$ minutes.",
+  "source": "https://cooksat.com/practice?questionId=e53b6e92&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

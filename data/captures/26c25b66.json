@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "26c25b66",
+  "capturedAt": "2026-11-13T23:30:05.918Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The area of a garden plot is expanding at a rate of $320$ square feet per hour. Which of the following is closest to this rate in square meters per minute? (Use $1$ meter $= 3.28$ feet.)",
+  "choices": {
+    "A": "$0.50$",
+    "B": "$1.63$",
+    "C": "$17.48$",
+    "D": "$29.74$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that $1$ meter $= 3.28$ feet. It follows that $1^{2}$ square meter $= 3.28^{2}$ square feet, or $1$ square meter $= 10.7584$ square feet. Since $1$ hour $= 60$ minutes, $320$ square feet per hour is equivalent to $\\left(\\frac{320 \\text{ square feet}}{1 \\text{ hour}}\\right)\\left(\\frac{1 \\text{ square meter}}{10.7584 \\text{ square feet}}\\right)\\left(\\frac{1 \\text{ hour}}{60 \\text{ minutes}}\\right)$, or $\\frac{320}{645.504}$ square meters per minute, which is approximately $0.4957$ square meters per minute. Of the given choices, $0.50$ is closest to $0.4957$.",
+  "source": "https://cooksat.com/practice?questionId=26c25b66&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

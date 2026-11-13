@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "908d1076",
+  "capturedAt": "2026-11-13T23:31:21.360Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Working alone, Pump A can fill a pool in $6$ hours and Pump B can fill the same pool in $9$ hours. Both pumps started filling the pool together, but after $2$ hours, Pump A broke down and only Pump B continued. How many more hours did it take Pump B alone to finish filling the pool?",
+  "choices": {
+    "A": "$2$",
+    "B": "$4$",
+    "C": "$6$",
+    "D": "$18$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Pump A fills $\\frac{1}{6}$ of the pool per hour and Pump B fills $\\frac{1}{9}$ of the pool per hour. Together, they fill $\\frac{1}{6} + \\frac{1}{9} = \\frac{5}{18}$ of the pool per hour. After $2$ hours together, they filled $2 \\times \\frac{5}{18} = \\frac{10}{18} = \\frac{5}{9}$ of the pool. The remaining portion is $1 - \\frac{5}{9} = \\frac{4}{9}$. Time for Pump B alone to finish: $\\frac{4}{9} \\div \\frac{1}{9} = 4$ hours.",
+  "source": "https://cooksat.com/practice?questionId=908d1076&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

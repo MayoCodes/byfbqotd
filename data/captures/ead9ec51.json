@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ead9ec51",
+  "capturedAt": "2026-11-13T23:32:24.196Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The total area of a township is $68.4$ square miles, of which $9.7$ square miles is designated parkland. If the township had a population of $452,000$ people in the year $2015$, which of the following is closest to the population density, in people per square mile of non-parkland area, of the township at that time?",
+  "choices": {
+    "A": "$6,610$",
+    "B": "$7,700$",
+    "C": "$46,600$",
+    "D": "$77,000$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The non-parkland area of the township is found by subtracting the parkland area from the total area: $68.4 - 9.7 = 58.7$ square miles. The population density is the population divided by the non-parkland area, or $\\frac{452{,}000}{58.7} \\approx 7{,}700$ people per square mile.",
+  "source": "https://cooksat.com/practice?questionId=ead9ec51&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

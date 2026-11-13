@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9c607e6a",
+  "capturedAt": "2026-11-13T23:31:32.002Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A computer printer uses $1$ cartridge of black ink to print $12$ reams of paper. One ream contains $500$ sheets of paper. If a business needs to print $27,000$ sheets of paper, how many cartridges of black ink does the printer use?",
+  "choices": {
+    "A": "$2.25$",
+    "B": "$4.5$",
+    "C": "$54$",
+    "D": "$108$"
+  },
+  "correctAnswer": "B",
+  "explanation": "First, convert sheets to reams: $27{,}000$ sheets $\\div 500$ sheets per ream $= 54$ reams. Then, use the rate: $1$ cartridge prints $12$ reams, so the number of cartridges needed is $54$ reams $\\div 12$ reams per cartridge $= 4.5$ cartridges.",
+  "source": "https://cooksat.com/practice?questionId=9c607e6a&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8bf84a8a",
+  "capturedAt": "2026-11-13T23:31:17.148Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Apply Rate to Find Quantity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A person is making a poster. The ratio of letters of one color to letters of a different color is $5$ to $7$. If the person uses $35$ letters of the different color, how many letters of the first color should the person use?",
+  "choices": {
+    "A": "$25$",
+    "B": "$30$",
+    "C": "$35$",
+    "D": "$49$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the ratio of letters of one color to letters of a different color is $5$ to $7$. This can be represented by the proportion $\\frac{5}{7} = \\frac{x}{35}$, where $x$ is the number of letters of the first color. Cross-multiplying gives $5 \\times 35 = 7x$, or $175 = 7x$. Dividing both sides by $7$ yields $x = 25$.",
+  "source": "https://cooksat.com/practice?questionId=8bf84a8a&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

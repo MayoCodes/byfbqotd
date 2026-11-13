@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eab96cdc",
+  "capturedAt": "2026-11-13T23:32:22.602Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A city has a population density of $800$ people per square mile. Which of the following is closest to this density, in people per square kilometer? ($1$ mile $= 1.609$ kilometers)",
+  "choices": {
+    "A": "$309$",
+    "B": "$497$",
+    "C": "$1,287$",
+    "D": "$2,071$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $1$ mile $= 1.609$ kilometers, $1$ square mile $= 1.609^2 = 2.589$ square kilometers. To convert people per square mile to people per square kilometer, divide: $\\frac{800}{2.589} \\approx 309$ people per square kilometer.",
+  "source": "https://cooksat.com/practice?questionId=eab96cdc&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

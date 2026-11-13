@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d3e80fec",
+  "capturedAt": "2026-11-13T23:32:10.197Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Apply Rate to Find Quantity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The ratio $x$ to $y$ is equivalent to the ratio $8$ to $t$. When $x = 136$, what is the value of $y$ in terms of $t$?",
+  "choices": {
+    "A": "$8t$",
+    "B": "$17t$",
+    "C": "$136t$",
+    "D": "$1088t$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the ratio $x$ to $y$ is equivalent to the ratio $8$ to $t$. This can be represented by $\\frac{x}{y} = \\frac{8}{t}$. Substituting $136$ for $x$ in this equation yields $\\frac{136}{y} = \\frac{8}{t}$. This can be rewritten as $8y = 136t$. Dividing both sides of this equation by $8$ yields $y = 17t$. Therefore, when $x = 136$, the value of $y$ in terms of $t$ is $17t$.",
+  "source": "https://cooksat.com/practice?questionId=d3e80fec&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

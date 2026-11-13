@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "80cacde9",
+  "capturedAt": "2026-11-13T23:31:05.906Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Apply Rate to Find Quantity",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A car travels a distance of 180 miles using 6 gallons of fuel. If the car continues to travel at the same rate, how many gallons of fuel are needed for the car to travel a distance of 420 miles?\n\n$$0$$\n\n$$14$$",
+  "choices": {},
+  "correctAnswer": "$14$",
+  "explanation": "The correct answer is $14$. The car travels 180 miles using 6 gallons of fuel. To find the fuel efficiency, divide the distance by the fuel used: $\\frac{180 \\text{ miles}}{6 \\text{ gallons}} = 30$ miles per gallon. To find how many gallons are needed for 420 miles at this rate, divide the distance by the fuel efficiency: $\\frac{420 \\text{ miles}}{30 \\text{ miles per gallon}} = 14$ gallons.\n\nAlternate approach: Set up a proportion where $\\frac{180}{6} = \\frac{420}{x}$. Cross-multiplying gives $180x = 2520$, so $x = 14$.\n\nVerification: If the car uses 14 gallons at 30 miles per gallon, it travels $14 \\times 30 = 420$ miles, which confirms the answer.",
+  "source": "https://cooksat.com/practice?questionId=80cacde9&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

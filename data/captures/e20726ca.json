@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e20726ca",
+  "capturedAt": "2026-11-13T23:32:13.769Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Compute Rate from Given Values",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A chef has $60$ pounds of vegetables to put into soup. He will use $5$ pounds of vegetables for each batch of soup. How many batches of soup can the chef make with $60$ pounds of vegetables?",
+  "choices": {
+    "A": "$10$",
+    "B": "$12$",
+    "C": "$55$",
+    "D": "$65$"
+  },
+  "correctAnswer": "B",
+  "explanation": "To find the number of batches, divide the total pounds of vegetables by the pounds per batch: $\\frac{60}{5} = 12$. Therefore, the chef can make $12$ batches of soup.",
+  "source": "https://cooksat.com/practice?questionId=e20726ca&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

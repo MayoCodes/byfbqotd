@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5f25aa6f",
+  "capturedAt": "2026-11-13T23:30:42.146Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Proportional Scaling with Variables",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A sample of a certain material is cut in the shape of a cube and has a mass of $7.5$ grams. The material has a density of $0.48$ grams per cubic centimeter. What is the length, in centimeters, of an edge of this cube?\n\n$$0$$\n\n$$2.5,2.50,\\frac{5}{2}$$",
+  "choices": {},
+  "correctAnswer": "$2.5,2.50,\\frac{5}{2}$",
+  "explanation": "The correct answer is $2.5$. Density is defined as mass divided by volume: $density = \\frac{mass}{volume}$. It's given that the sample has a mass of $7.5$ grams and a density of $0.48$ grams per cubic centimeter. Substituting these values into the density formula yields $0.48 = \\frac{7.5}{volume}$. Multiplying both sides by volume gives $0.48 \\cdot volume = 7.5$. Dividing both sides by $0.48$ yields $volume = \\frac{7.5}{0.48} = 15.625$ cubic centimeters. Since the sample is cut in the shape of a cube, its volume is given by the formula $V = s^3$, where $s$ is the length of an edge. Substituting $15.625$ for $V$ gives $15.625 = s^3$. Taking the cube root of both sides yields $s = \\sqrt[3]{15.625} = 2.5$ centimeters. Verification: If $s = 2.5$ centimeters, then $V = (2.5)^3 = 15.625$ cubic centimeters, and $mass = density \\times volume = 0.48 \\times 15.625 = 7.5$ grams, which matches the given mass. Therefore, the length of an edge of the cube is $2.5$ centimeters. Note that 2.5, 2.50, and 5/2 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=5f25aa6f&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

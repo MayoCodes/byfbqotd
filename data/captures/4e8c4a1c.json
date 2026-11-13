@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4e8c4a1c",
+  "capturedAt": "2026-11-13T23:30:30.957Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Set Up Proportion and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "On average, a certain coral colony gains $51$ grams every $n$ months. At this rate, which expression represents the number of grams, on average, the coral colony gains every $j$ years?",
+  "choices": {
+    "A": "$\\frac{(17j)}{(4n)}$",
+    "B": "$\\frac{(17n)}{(4j)}$",
+    "C": "$\\frac{(36jn)}{j}$",
+    "D": "$\\frac{(612j)}{n}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the coral colony gains $51$ grams every $n$ months. Therefore, the rate at which the colony gains mass, in grams per month, can be represented by the expression $\\frac{51}{n}$. Since there are $12$ months in $1$ year, there are $12j$ months in $j$ years. The total number of grams the colony gains in $12j$ months at this rate can be found by multiplying the rate by the number of months: $\\frac{51}{n} \\times 12j = \\frac{612j}{n}$. Therefore, the expression $\\frac{612j}{n}$ represents the number of grams, on average, the coral colony gains every $j$ years.",
+  "source": "https://cooksat.com/practice?questionId=4e8c4a1c&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

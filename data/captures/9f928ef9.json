@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9f928ef9",
+  "capturedAt": "2026-11-13T23:31:33.670Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A delivery truck travels $120$ miles in city driving and $160$ miles in highway driving. The truck's fuel efficiency is $25$ miles per gallon in the city and $40$ miles per gallon on the highway. What is the total amount of fuel, in gallons, consumed by the truck for this trip?\n\n$$0$$\n\n$$\\frac{44}{5},8.8,8.80$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{44}{5},8.8,8.80$",
+  "explanation": "The correct answer is $\\frac{44}{5}$. To find the total fuel consumed, we need to calculate the fuel used for city driving and highway driving separately, then add them together. Fuel consumption can be calculated by dividing the distance traveled by the fuel efficiency (miles per gallon).\n\nFor city driving, the truck travels $120$ miles at an efficiency of $25$ miles per gallon. The fuel consumed in the city is:\n$\\frac{120 \\text{ miles}}{25 \\text{ miles per gallon}} = \\frac{120}{25} = \\frac{24}{5} = 4.8 \\text{ gallons}$\n\nFor highway driving, the truck travels $160$ miles at an efficiency of $40$ miles per gallon. The fuel consumed on the highway is:\n$\\frac{160 \\text{ miles}}{40 \\text{ miles per gallon}} = 4 \\text{ gallons}$\n\nThe total fuel consumed is the sum of the city and highway fuel consumption:\n$\\frac{24}{5} + 4 = \\frac{24}{5} + \\frac{20}{5} = \\frac{44}{5} = 8.8 \\text{ gallons}$\n\nTherefore, the total amount of fuel consumed by the truck is $\\frac{44}{5}$ gallons, or $8.8$ gallons. Note that 44/5, 8.8, and 8.80 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=9f928ef9&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

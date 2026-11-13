@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c9c13a1d",
+  "capturedAt": "2026-11-13T23:31:59.338Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Apply Rate to Find Quantity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangle $P$ has base $21$ and height $h$. Triangle $Q$ has base $14$ and the same base-to-height ratio as triangle $P$. What is the height of triangle $Q$ in terms of $h$?",
+  "choices": {
+    "A": "$h - 7$",
+    "B": "$\\frac{2}{3}h$",
+    "C": "$\\frac{3}{2}h$",
+    "D": "$h + 7$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that triangle $P$ has base $21$ and height $h$. Therefore, the base-to-height ratio of triangle $P$ is $21$ to $h$. It's also given that triangle $Q$ has base $14$ and the same base-to-height ratio as triangle $P$. Let $x$ represent the height of triangle $Q$. The proportion $\\frac{21}{h} = \\frac{14}{x}$ can be used to solve for $x$ in terms of $h$. Multiplying both sides of this equation by $x$ yields $\\frac{21x}{h} = 14$, and then multiplying both sides of this equation by $h$ yields $21x = 14h$. Dividing both sides of this equation by $21$ yields $x = \\frac{14h}{21}$. Simplifying this fraction yields $x = \\frac{2}{3}h$.",
+  "source": "https://cooksat.com/practice?questionId=c9c13a1d&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

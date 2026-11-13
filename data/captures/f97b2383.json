@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f97b2383",
+  "capturedAt": "2026-11-13T23:32:32.720Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Unit Conversion",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A recipe requires $7$ gallons of liquid. How many cups is this equivalent to? $(1$ gallon $= 4$ quarts and $1$ quart $= 4$ cups$)$\n\n$$0$$\n\n$$112$$",
+  "choices": {},
+  "correctAnswer": "$112$",
+  "explanation": "The correct answer is $112$. It's given that $1$ gallon $= 4$ quarts and $1$ quart $= 4$ cups. To convert $7$ gallons to cups, we need to perform two conversion steps.\n\nFirst, convert gallons to quarts:\n$7 \\text{ gallons} \\times \\frac{4 \\text{ quarts}}{1 \\text{ gallon}} = 28 \\text{ quarts}$\n\nNext, convert quarts to cups:\n$28 \\text{ quarts} \\times \\frac{4 \\text{ cups}}{1 \\text{ quart}} = 112 \\text{ cups}$\n\nAlternatively, this can be calculated in one expression: $(7 \\text{ gallons}) \\times (\\frac{4 \\text{ quarts}}{1 \\text{ gallon}}) \\times (\\frac{4 \\text{ cups}}{1 \\text{ quart}}) = 7 \\times 4 \\times 4 = 112$ cups.\n\nTherefore, $7$ gallons is equivalent to $112$ cups.",
+  "source": "https://cooksat.com/practice?questionId=f97b2383&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

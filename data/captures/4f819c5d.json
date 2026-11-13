@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4f819c5d",
+  "capturedAt": "2026-11-13T23:30:33.151Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Proportional Scaling with Variables",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The density of a certain type of basalt is $685$ kilograms per cubic meter. A sample of this basalt is in the shape of a cube, where each edge has a length of $0.80$ meters. To the nearest whole number, what is the mass, in kilograms, of this sample?",
+  "choices": {
+    "A": "$351$",
+    "B": "$438$",
+    "C": "$548$",
+    "D": "$1,338$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The sample is in the shape of a cube with edge length $0.80$ meters, so its volume is $0.80^{3}$, or $0.512$, cubic meters. Since the density is $685$ kilograms per $1$ cubic meter, the mass of the sample is $\\left(0.512 \\text{ cubic meters}\\right)\\left(\\frac{685 \\text{ kilograms}}{1 \\text{ cubic meter}}\\right)$, or $350.72$ kilograms. Rounded to the nearest whole number, the mass is $351$ kilograms.",
+  "source": "https://cooksat.com/practice?questionId=4f819c5d&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

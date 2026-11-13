@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "af1a7fb8",
+  "capturedAt": "2026-11-13T23:31:47.660Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A pump fills a tank at a rate of $24m$ liters in $4t$ minutes. The rate increases by a factor of $\\frac{5}{4}$, and then increases by an additional $20%$. At this final rate, how many liters does the pump deliver in $10t$ minutes?",
+  "choices": {
+    "A": "$60m$",
+    "B": "$75m$",
+    "C": "$90m$",
+    "D": "$120m$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The initial rate is $\\frac{24m}{4t} = \\frac{6m}{t}$ liters per minute. After increasing by $\\frac{5}{4}$, the rate becomes $\\frac{5}{4} \\cdot \\frac{6m}{t} = \\frac{30m}{4t} = \\frac{7.5m}{t}$ liters per minute. A $20\\%$ increase means multiplying by $1.20$: $1.20 \\cdot \\frac{7.5m}{t} = \\frac{9m}{t}$ liters per minute. In $10t$ minutes: $\\frac{9m}{t} \\cdot 10t = 90m$ liters.",
+  "source": "https://cooksat.com/practice?questionId=af1a7fb8&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

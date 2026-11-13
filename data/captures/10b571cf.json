@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "10b571cf",
+  "capturedAt": "2026-11-13T23:29:50.770Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Unit Conversion",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A submarine is descending at a rate of $48$ fathoms per minute. What is the submarine's descent rate, in feet per minute? $(1 fathom = 6 feet)$",
+  "choices": {
+    "A": "$8$",
+    "B": "$42$",
+    "C": "$54$",
+    "D": "$288$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since $1$ fathom is equal to $6$ feet, $48$ fathoms is equal to $48 \\text{ fathoms} \\left(\\frac{6 \\text{ feet}}{1 \\text{ fathom}}\\right)$, or $288$ feet. It follows that $48$ fathoms per minute is equivalent to $288$ feet per minute. Therefore, the submarine's descent rate is $288$ feet per minute.",
+  "source": "https://cooksat.com/practice?questionId=10b571cf&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

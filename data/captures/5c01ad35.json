@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5c01ad35",
+  "capturedAt": "2026-11-13T23:30:38.586Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Unit Conversion",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A distance of $35$ rods is equivalent to how many inches? $(1$ rod $= 5.5$ yards and $1$ yard $= 36$ inches$)$\n\n$$0$$\n\n$$6930$$",
+  "choices": {},
+  "correctAnswer": "$6930$",
+  "explanation": "The correct answer is $6930$. It's given that $1$ rod $= 5.5$ yards and $1$ yard $= 36$ inches. To convert $35$ rods to inches, we must use both conversion factors in sequence.\n\nFirst, convert rods to yards:\n$35 \\text{ rods} \\times \\frac{5.5 \\text{ yards}}{1 \\text{ rod}} = 192.5 \\text{ yards}$\n\nNext, convert yards to inches:\n$192.5 \\text{ yards} \\times \\frac{36 \\text{ inches}}{1 \\text{ yard}} = 6930 \\text{ inches}$\n\nTherefore, a distance of $35$ rods is equivalent to $6930$ inches.\n\nAlternatively, the conversions can be combined into a single calculation:\n$(35 \\text{ rods}) \\left(\\frac{5.5 \\text{ yards}}{1 \\text{ rod}}\\right) \\left(\\frac{36 \\text{ inches}}{1 \\text{ yard}}\\right) = 6930 \\text{ inches}$",
+  "source": "https://cooksat.com/practice?questionId=5c01ad35&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

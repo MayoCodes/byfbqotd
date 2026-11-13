@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1af5afeb",
+  "capturedAt": "2026-11-13T23:29:57.957Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Proportional Scaling with Variables",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "To study the mineral composition of a rock formation, samples were collected from $30$ locations and cut in the shape of a cube. The length of the edge of one of these cubes is $4.00$ centimeters. If this cube has a mass of $10.24$ grams, what is the density of this cube, in grams per cubic centimeter?\n\n$$0$$\n\n$$\\frac{4}{25},.16,.160,0.16$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{4}{25},.16,.160,0.16$",
+  "explanation": "The correct answer is $\\frac{4}{25}$. The volume of a cube is given by the formula $V = s^{3}$, where $s$ is the length of an edge of the cube. It's given that each edge of the cube has a length of $4.00$ centimeters. Substituting $4.00$ for $s$ yields $V = (4.00)^{3} = 64.00$ cubic centimeters. It's given that the cube has a mass of $10.24$ grams. Dividing the mass by the volume gives the density: $\\frac{10.24}{64.00} = 0.16$ grams per cubic centimeter. Note that 4/25, .16, .160, and 0.16 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=1af5afeb&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

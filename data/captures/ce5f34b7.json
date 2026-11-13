@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ce5f34b7",
+  "capturedAt": "2026-11-13T23:32:05.337Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An object has a constant acceleration of $2.5$ meters per second squared. What is this acceleration, in feet per minute squared? ($1$ meter $= 3.28$ feet)",
+  "choices": {
+    "A": "$492$",
+    "B": "$8,200$",
+    "C": "$29,520$",
+    "D": "$96,826$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Convert meters to feet: $2.5 \\times 3.28 = 8.2$ feet per second squared. Convert seconds squared to minutes squared: since $1$ minute $= 60$ seconds, multiply by $60^2 = 3{,}600$. Therefore, $8.2 \\times 3{,}600 = 29{,}520$ feet per minute squared.",
+  "source": "https://cooksat.com/practice?questionId=ce5f34b7&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

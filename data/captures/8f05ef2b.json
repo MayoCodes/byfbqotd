@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8f05ef2b",
+  "capturedAt": "2026-11-13T23:31:19.151Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A chemical reaction causes a stain to spread on a laboratory surface at a rate of $125$ square centimeters per minute. What is this rate in square meters per hour? ($1$ meter $= 100$ centimeters)",
+  "choices": {
+    "A": "$0.075$",
+    "B": "$0.75$",
+    "C": "$7.5$",
+    "D": "$75$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since $1$ meter $= 100$ centimeters, $1$ square meter $= 10{,}000$ square centimeters. The rate is $\\frac{125 \\text{ cm}^2}{1 \\text{ min}} \\times \\frac{1 \\text{ m}^2}{10{,}000 \\text{ cm}^2} \\times \\frac{60 \\text{ min}}{1 \\text{ hr}} = \\frac{7{,}500}{10{,}000} = 0.75$ square meters per hour.",
+  "source": "https://cooksat.com/practice?questionId=8f05ef2b&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

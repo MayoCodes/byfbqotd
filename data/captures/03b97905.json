@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "03b97905",
+  "capturedAt": "2026-11-13T23:29:42.870Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Unit Conversion",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "How many miles are equivalent to $40,480$ yards? $(1 mile = 1,760 yards)$",
+  "choices": {
+    "A": "$0.043$",
+    "B": "$23$",
+    "C": "$404.8$",
+    "D": "$71,244,800$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $1 \\text{ mile} = 1{,}760 \\text{ yards}$. Therefore, $40{,}480$ yards is equivalent to $40{,}480 \\text{ yards} \\left(\\frac{1 \\text{ mile}}{1{,}760 \\text{ yards}}\\right)$, which can be rewritten as $\\frac{40{,}480}{1{,}760}$ miles, or $23$ miles.",
+  "source": "https://cooksat.com/practice?questionId=03b97905&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

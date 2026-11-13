@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "701f1c71",
+  "capturedAt": "2026-11-13T23:30:51.460Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A recipe for fruit punch calls for apple juice and grape juice in a ratio of $3$ to $5$. A larger batch of the punch is made using $24$ more cups of grape juice than apple juice. How many cups of fruit punch are made in the larger batch?",
+  "choices": {
+    "A": "$48$",
+    "B": "$60$",
+    "C": "$96$",
+    "D": "$120$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Let $3x$ be the cups of apple juice and $5x$ be the cups of grape juice. The difference is $5x - 3x = 2x = 24$, so $x = 12$. Apple juice: $3(12) = 36$ cups. Grape juice: $5(12) = 60$ cups. Total punch: $36 + 60 = 96$ cups.",
+  "source": "https://cooksat.com/practice?questionId=701f1c71&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

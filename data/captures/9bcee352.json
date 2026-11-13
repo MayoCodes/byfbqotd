@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9bcee352",
+  "capturedAt": "2026-11-13T23:31:30.064Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Three quantities $a$, $b$, and $c$ are related by ratios. The ratio of $a$ to $b$ is $k:4$, and the ratio of $b$ to $c$ is $3:2$, where $k$ is a positive constant. If $a + b + c = 52$ and $b = 12$, what is the value of $k$?\n\n$$0$$\n\n$$\\frac{32}{3},10.66,10.67$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{32}{3},10.66,10.67$",
+  "explanation": "The correct answer is $\\frac{32}{3}$. It's given that the ratio of $a$ to $b$ is $k:4$, which can be written as $\\frac{a}{b} = \\frac{k}{4}$. It's also given that $b = 12$. Substituting $12$ for $b$ yields $\\frac{a}{12} = \\frac{k}{4}$. Multiplying both sides by $12$ gives $a = 3k$. It's given that the ratio of $b$ to $c$ is $3:2$, which can be written as $\\frac{b}{c} = \\frac{3}{2}$. Substituting $12$ for $b$ yields $\\frac{12}{c} = \\frac{3}{2}$. Cross-multiplying gives $3c = 24$, so $c = 8$. It's given that $a + b + c = 52$. Substituting $a = 3k$, $b = 12$, and $c = 8$ yields $3k + 12 + 8 = 52$. Simplifying gives $3k + 20 = 52$. Subtracting $20$ from both sides yields $3k = 32$. Dividing both sides by $3$ gives $k = \\frac{32}{3}$. To verify: with $k = \\frac{32}{3}$, we have $a = 3k = 32$. The ratio $a:b = 32:12 = 8:3 = k:4$ when $k = \\frac{32}{3}$ (since $\\frac{32/3}{4} = \\frac{32}{12} = \\frac{8}{3}$), the ratio $b:c = 12:8 = 3:2$ is satisfied, and $a + b + c = 32 + 12 + 8 = 52$ is satisfied. Therefore, the value of $k$ is $\\frac{32}{3}$. Note that 32/3, 10.66, and 10.67 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=9bcee352&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

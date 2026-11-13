@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "222055f9",
+  "capturedAt": "2026-11-13T23:29:59.839Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Compute Rate from Given Values",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A machine produces plastic pellets at a constant rate of $15$ grams per minute. At this rate, what is the time, in minutes, that it would take the machine to produce $105$ grams of plastic pellets?",
+  "choices": {
+    "A": "$7$",
+    "B": "$90$",
+    "C": "$120$",
+    "D": "$1,575$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. If the machine produces $105$ grams at a rate of $15$ grams per minute, the time required can be determined by dividing the total quantity by the rate. This results in $\\frac{105 \\text{ grams}}{15 \\text{ grams}/\\text{minute}}$, which is $7$ minutes.",
+  "source": "https://cooksat.com/practice?questionId=222055f9&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

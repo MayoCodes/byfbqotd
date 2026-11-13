@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f761491c",
+  "capturedAt": "2026-11-13T23:32:29.096Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Set Up Proportion and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A machine produces $35x$ units in $5y$ hours. At this rate, how many units does the machine produce in $8y$ hours?",
+  "choices": {
+    "A": "$35x$",
+    "B": "$43x$",
+    "C": "$56x$",
+    "D": "$70x$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The rate is $\\frac{35x}{5y} = \\frac{7x}{y}$ units per hour. In $8y$ hours: $\\frac{7x}{y} \\times 8y = 56x$ units.",
+  "source": "https://cooksat.com/practice?questionId=f761491c&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

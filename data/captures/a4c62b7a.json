@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a4c62b7a",
+  "capturedAt": "2026-11-13T23:31:40.250Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Unit Conversion",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A long-distance hiking trail has a total length of $28$ leagues. What is the length of the trail in furlongs? $(1 league = 9 furlongs)$",
+  "choices": {
+    "A": "$3$",
+    "B": "$37$",
+    "C": "$126$",
+    "D": "$252$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the trail is $28$ leagues long and that $1$ league is equal to $9$ furlongs. Therefore, $28$ leagues is equivalent to $\\left(28 \\text{ leagues}\\right)\\left(\\frac{9 \\text{ furlongs}}{1 \\text{ league}}\\right)$, or $252$ furlongs.",
+  "source": "https://cooksat.com/practice?questionId=a4c62b7a&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

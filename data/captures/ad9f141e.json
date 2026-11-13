@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ad9f141e",
+  "capturedAt": "2026-11-13T23:31:45.903Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following speeds is equivalent to $108$ kilometers per hour? ($1$ kilometer $= 1,000$ meters)",
+  "choices": {
+    "A": "$30$ meters per second",
+    "B": "$36$ meters per second",
+    "C": "$300$ meters per second",
+    "D": "$388.8$ meters per second"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $1$ kilometer is equal to $1{,}000$ meters, $108$ kilometers is equal to $108 \\times 1{,}000 = 108{,}000$ meters. Since $1$ hour is equal to $60$ minutes and $1$ minute is equal to $60$ seconds, $1$ hour is equal to $60 \\times 60 = 3{,}600$ seconds. Therefore, $\\frac{108 \\text{ kilometers}}{1 \\text{ hour}}$ is equivalent to $\\frac{108{,}000 \\text{ meters}}{3{,}600 \\text{ seconds}}$, which simplifies to $30$ meters per second.",
+  "source": "https://cooksat.com/practice?questionId=ad9f141e&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

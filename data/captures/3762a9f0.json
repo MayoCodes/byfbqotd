@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3762a9f0",
+  "capturedAt": "2026-11-13T23:30:18.084Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Set Up Proportion and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The total volume, in liters, of $n$ identical boxes is $p$. Which expression represents the total volume, in liters, of $87n$ of these boxes?",
+  "choices": {
+    "A": "$87 - p$",
+    "B": "$87 + p$",
+    "C": "$\\frac{p}{(87)}$",
+    "D": "$87p$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the total volume, in liters, of $n$ identical boxes is $p$. To obtain the expression $87n$, $n$ is multiplied by $87$. Therefore, to find the total volume, in liters, of $87n$ of these boxes, $p$ must also be multiplied by $87$. The result of multiplying $p$ by $87$ is the expression $87p$. Therefore, the total volume, in liters, of $87n$ of these boxes is $87p$.",
+  "source": "https://cooksat.com/practice?questionId=3762a9f0&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

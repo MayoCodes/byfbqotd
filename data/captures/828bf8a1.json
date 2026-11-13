@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "828bf8a1",
+  "capturedAt": "2026-11-13T23:31:07.919Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Compute Rate from Given Values",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An apple peeling machine peels $18$ pounds of apples in $2$ minutes. At this rate, how many minutes does it take the machine to peel $135$ pounds of apples?",
+  "choices": {
+    "A": "$5$",
+    "B": "$8$",
+    "C": "$15$",
+    "D": "$20$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the apple peeling machine peels $18$ pounds of apples in $2$ minutes. This rate can be written as $\\frac{18 \\text{ pounds of apples}}{2 \\text{ minutes}}$. If the number of minutes it takes the machine to peel $135$ pounds of apples is represented by $x$, the value of $x$ can be calculated by solving the equation $\\frac{18}{2} = \\frac{135}{x}$, or $9 = \\frac{135}{x}$. Multiplying each side of this equation by $x$ yields $9x = 135$. Dividing each side by $9$ yields $x = 15$. Therefore, it takes the machine $15$ minutes to peel $135$ pounds of apples.",
+  "source": "https://cooksat.com/practice?questionId=828bf8a1&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

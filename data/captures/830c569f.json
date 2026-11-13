@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "830c569f",
+  "capturedAt": "2026-11-13T23:31:09.752Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A car travels $30$ miles in $\\frac{3}{4}$ hour. Assuming a constant speed, how many kilometers does the car travel in $2$ hours? $(1$ mile $= 1.6$ kilometers$)$",
+  "choices": {
+    "A": "$40$",
+    "B": "$64$",
+    "C": "$80$",
+    "D": "$128$"
+  },
+  "correctAnswer": "D",
+  "explanation": "First, find the speed: $\\frac{30}{\\frac{3}{4}} = 30 \\times \\frac{4}{3} = 40$ miles per hour. In $2$ hours, the car travels $40 \\times 2 = 80$ miles. Converting to kilometers: $80 \\times 1.6 = 128$ kilometers.",
+  "source": "https://cooksat.com/practice?questionId=830c569f&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

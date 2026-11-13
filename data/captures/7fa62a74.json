@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7fa62a74",
+  "capturedAt": "2026-11-13T23:31:03.701Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Set Up Proportion and Solve",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A printer prints $63x$ pages of a document in $4y$ seconds. Which expression represents the number of pages the printer prints in $7y$ seconds at this rate?",
+  "choices": {
+    "A": "$\\frac{(7x)}{(252)}$",
+    "B": "$\\frac{(4x)}{(441)}$",
+    "C": "$\\frac{(252x)}{7}$",
+    "D": "$\\frac{(441x)}{4}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the printer prints $63x$ pages in $4y$ seconds. Therefore, the rate at which the printer prints pages, in pages per second, can be represented by the expression $\\frac{63x}{4y}$. Let $p$ represent the number of pages the printer prints in $7y$ seconds at this rate. It follows that this rate, in pages per second, can also be represented by $\\frac{p}{7y}$. Since the two expressions represent the same rate, $\\frac{63x}{4y} = \\frac{p}{7y}$. Multiplying both sides of this equation by $7y$ yields $\\frac{63x \\cdot 7y}{4y} = p$, or $\\frac{441xy}{4y} = p$, which simplifies to $\\frac{441x}{4} = p$. Therefore, the number of pages the printer prints in $7y$ seconds can be represented by the expression $\\frac{441x}{4}$.",
+  "source": "https://cooksat.com/practice?questionId=7fa62a74&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

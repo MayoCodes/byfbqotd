@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "530e1053",
+  "capturedAt": "2026-11-13T23:30:35.244Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A car travels a distance of $120$ miles in $150$ minutes. What is the car's average speed in miles per hour? $(1$ hour $= 60$ minutes$)$\n\n$$0$$\n\n$$48$$",
+  "choices": {},
+  "correctAnswer": "$48$",
+  "explanation": "The correct answer is $48$. It's given that the car travels $120$ miles in $150$ minutes. To find the average speed in miles per hour, the time must first be converted from minutes to hours. Since $1$ hour $= 60$ minutes, $150$ minutes is equivalent to $\\frac{150 \\text{ minutes}}{60 \\text{ minutes per hour}}$, which equals $2.5$ hours. The average speed is calculated by dividing the total distance by the total time: $\\frac{120 \\text{ miles}}{2.5 \\text{ hours}} = 48$ miles per hour. Therefore, the car's average speed is $48$ miles per hour.",
+  "source": "https://cooksat.com/practice?questionId=530e1053&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

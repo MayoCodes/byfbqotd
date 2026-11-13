@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d95ff86a",
+  "capturedAt": "2026-11-13T23:32:12.071Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Apply Rate to Find Quantity",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A recipe requires $3$ cups of flour to make $24$ cookies. How many cups of flour are needed to make $40$ cookies?\n\n$$0$$\n\n$$5$$",
+  "choices": {},
+  "correctAnswer": "$5$",
+  "explanation": "The correct answer is $5$. It's given that $3$ cups of flour are needed to make $24$ cookies. This can be written as the ratio $\\frac{3 \\text{ cups}}{24 \\text{ cookies}}$. Let $x$ represent the number of cups of flour needed to make $40$ cookies. The value of $x$ can be calculated by solving the proportion $\\frac{3}{24} = \\frac{x}{40}$. Cross-multiplying yields $3 \\times 40 = 24 \\times x$, or $120 = 24x$. Dividing both sides by $24$ gives $x = 5$. Therefore, $5$ cups of flour are needed to make $40$ cookies.\n\nAlternate approach: The ratio $\\frac{3 \\text{ cups}}{24 \\text{ cookies}}$ simplifies to $\\frac{1}{8}$ cup per cookie. For $40$ cookies, the flour needed is $40 \\times \\frac{1}{8} = 5$ cups.",
+  "source": "https://cooksat.com/practice?questionId=d95ff86a&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

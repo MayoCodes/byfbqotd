@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "07a7119e",
+  "capturedAt": "2026-11-13T23:29:46.521Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The ratio of the number of adults to the number of children at a party is $7:3$. There are $42$ adults at the party. During the party, $\\frac{1}{6}$ of the children leave early. How many children remain at the party?",
+  "choices": {
+    "A": "$3$",
+    "B": "$15$",
+    "C": "$18$",
+    "D": "$21$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The ratio $7:3$ means $\\frac{7}{3} = \\frac{42}{x}$, so $7x = 126$ and $x = 18$ children initially. If $\\frac{1}{6}$ of the children leave, then $18 \\times \\frac{1}{6} = 3$ children leave. Therefore, $18 - 3 = 15$ children remain at the party.",
+  "source": "https://cooksat.com/practice?questionId=07a7119e&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

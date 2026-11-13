@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a5c37553",
+  "capturedAt": "2026-11-13T23:31:43.649Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Set Up Proportion and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A veterinarian determined that a dog should receive $\\frac{5}{2}$ milligrams of medication $A$ per kilogram of body weight and $\\frac{3}{4}$ milligrams of medication $B$ per kilogram of body weight. A dog weighing $k$ kilograms receives $x$ milligrams of medication $A$ and $y$ milligrams of medication $B$ according to these guidelines. What is the value of $x + 2y$ in terms of $k$?",
+  "choices": {
+    "A": "$3k$",
+    "B": "$4k$",
+    "C": "$\\frac{7}{2}k$",
+    "D": "$\\frac{9}{2}k$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since the dog receives $\\frac{5}{2}$ mg/kg of medication $A$ and $\\frac{3}{4}$ mg/kg of medication $B$, we have $x = \\frac{5}{2}k$ and $y = \\frac{3}{4}k$. Substituting into $x + 2y$ gives $\\frac{5}{2}k + 2(\\frac{3}{4}k) = \\frac{5}{2}k + \\frac{3}{2}k = \\frac{8}{2}k = 4k$.",
+  "source": "https://cooksat.com/practice?questionId=a5c37553&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

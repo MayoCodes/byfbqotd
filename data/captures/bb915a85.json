@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bb915a85",
+  "capturedAt": "2026-11-13T23:31:55.338Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Apply Rate to Find Quantity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nIn the table above, the ratio of $y$ to $x$ for each ordered pair is constant. What is the value of $k$?",
+  "choices": {
+    "A": "$25$",
+    "B": "$35$",
+    "C": "$60$",
+    "D": "$150$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since the ratio of $y$ to $x$ is constant for each ordered pair in the table, the first row can be used to determine that the ratio of $y$ to $x$ is $10$ to $2$, or $5$ to $1$. The proportion $\\frac{5}{1} = \\frac{k}{30}$ can be used to solve for $k$. Multiplying each side of the equation by $30$ yields $150 = k$.",
+  "source": "https://cooksat.com/practice?questionId=bb915a85&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/bb915a85/1-0c7a3edb4afa6f63.png",
+      "kind": "diagram"
+    }
+  ]
+}

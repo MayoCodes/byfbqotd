@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "176a0411",
+  "capturedAt": "2026-11-13T23:29:54.088Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Set Up Proportion and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$w = 42 h$$\n\nThe equation shown can be used to calculate the volume $w$, in gallons, of water in a tank being filled at a rate of $42$ gallons per hour over a period of $h$ hours. For any positive constant $n$, the volume of water in the tank after $10 n$ hours is how many times the volume of water in the tank after $2 n$ hours?",
+  "choices": {
+    "A": "$5$",
+    "B": "$8$",
+    "C": "$5n$",
+    "D": "$8n$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since the volume is equal to time multiplied by a constant, the given equation $w = 42 h$ represents a proportional relationship between volume and time. Since $10 n = 5 \\times 2 n$, the time when $h = 10 n$ hours is $5$ times the time when $h = 2 n$ hours. Therefore, the volume of water in the tank after $10 n$ hours is $5$ times the volume after $2 n$ hours.",
+  "source": "https://cooksat.com/practice?questionId=176a0411&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

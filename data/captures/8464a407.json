@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8464a407",
+  "capturedAt": "2026-11-13T23:31:13.617Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Multi-Step Unit Conversion",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nFor certain relative humidity levels, the table gives heat index values for two different air temperatures.\n\nAccording to the table, what is the heat index, in degrees Fahrenheit ($^°$F), when the relative humidity is $60%$ and the air temperature is $85^°$F? (Disregard the degree symbol when entering your answer)\n\n$$0$$\n\n$$42$$",
+  "choices": {},
+  "correctAnswer": "$42$",
+  "explanation": "The correct answer is $42$. The table shows heat index values for different relative humidity levels and air temperatures. To find the heat index when the relative humidity is $60\\%$ and the air temperature is $85 ^\\circ$F, locate the row where the relative humidity is $60\\%$ and read the value in the column labeled \"Heat index at air temperature 85°F.\" According to the table, this value is $42 ^\\circ$F.",
+  "source": "https://cooksat.com/practice?questionId=8464a407&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/8464a407/1-1d34597f4527ef11.png",
+      "kind": "diagram"
+    }
+  ]
+}

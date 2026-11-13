@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cb6d289a",
+  "capturedAt": "2026-11-13T23:32:01.140Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A machine coats a metal surface at a rate of $0.48$ square meters per minute. What is this rate, in square centimeters per second? ($1$ meter $= 100$ centimeters)\n\n$$0$$\n\n$$80$$",
+  "choices": {},
+  "correctAnswer": "$80$",
+  "explanation": "The correct answer is $80$. Since $1$ meter $= 100$ centimeters, $1$ square meter $= 100^2 = 10{,}000$ square centimeters. Convert to square centimeters per minute: $0.48 \\times 10{,}000 = 4{,}800$ square centimeters per minute. Convert to seconds: $\\frac{4{,}800}{60} = 80$ square centimeters per second.",
+  "source": "https://cooksat.com/practice?questionId=cb6d289a&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

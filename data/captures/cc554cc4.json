@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cc554cc4",
+  "capturedAt": "2026-11-13T23:32:03.185Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A sprinkler system waters a lawn at a rate of $2.7$ cubic meters per hour. What is this rate, in cubic centimeters per second? ($1$ meter $= 100$ centimeters)",
+  "choices": {
+    "A": "$750$",
+    "B": "$7,500$",
+    "C": "$75,000$",
+    "D": "$750,000$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $1$ meter $= 100$ centimeters, $1$ cubic meter $= 100^3 = 1{,}000{,}000$ cubic centimeters. Convert to cubic centimeters per hour: $2.7 \\times 1{,}000{,}000 = 2{,}700{,}000$. Convert hours to seconds ($1$ hour $= 3{,}600$ seconds): $\\frac{2{,}700{,}000}{3{,}600} = 750$ cubic centimeters per second.",
+  "source": "https://cooksat.com/practice?questionId=cc554cc4&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

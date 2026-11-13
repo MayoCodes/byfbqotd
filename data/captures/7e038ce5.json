@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7e038ce5",
+  "capturedAt": "2026-11-13T23:31:01.873Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Apply Rate to Find Quantity",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A recipe requires $\\frac{2}{3}$ cup of sugar to make $16$ cookies. How many cups of sugar are needed to make $20$ cookies?\n\n$$0$$\n\n$$\\frac{5}{6},.8333,0.833$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{5}{6},.8333,0.833$",
+  "explanation": "The correct answer is $\\frac{5}{6}$. It's given that a recipe requires $\\frac{2}{3}$ cup of sugar to make $16$ cookies. To find how many cups of sugar are needed to make $20$ cookies, a proportion can be set up: $\\frac{\\frac{2}{3}\\text{ cup}}{16\\text{ cookies}}=\\frac{x\\text{ cups}}{20\\text{ cookies}}$. Cross-multiplying yields $16x=\\frac{2}{3}\\times 20$, which simplifies to $16x=\\frac{40}{3}$. Dividing both sides by $16$ gives $x=\\frac{40}{3}\\times\\frac{1}{16}=\\frac{40}{48}=\\frac{5}{6}$. Alternatively, the scaling factor from $16$ to $20$ cookies is $\\frac{20}{16}=\\frac{5}{4}$. Therefore, the sugar needed is $\\frac{2}{3}\\times\\frac{5}{4}=\\frac{10}{12}=\\frac{5}{6}$ cups. Verification: If $\\frac{5}{6}$ cup makes $20$ cookies, the rate is $\\frac{5}{6}\\div 20=\\frac{5}{120}=\\frac{1}{24}$ cups per cookie. For $16$ cookies: $16\\times\\frac{1}{24}=\\frac{16}{24}=\\frac{2}{3}$ cups, which matches the given information. Therefore, $\\frac{5}{6}$ cup of sugar is needed to make $20$ cookies. Note that 5/6, .8333, and 0.833 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=7e038ce5&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

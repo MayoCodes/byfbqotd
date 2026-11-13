@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3cd1a74c",
+  "capturedAt": "2026-11-13T23:30:23.955Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Unit Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular garden plot has an area of $198$ square feet. What is the area, in square yards, of this garden plot? ($1$ yard $= 3$ feet)",
+  "choices": {
+    "A": "$22$",
+    "B": "$66$",
+    "C": "$198$",
+    "D": "$594$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that $1$ yard $= 3$ feet. Since area is measured in square units, $1$ square yard is equal to $(3 \\text{ feet}) \\times (3 \\text{ feet}) = 9$ square feet. Therefore, to convert $198$ square feet to square yards, divide by $9$: $\\frac{198 \\text{ square feet}}{9 \\text{ square feet per square yard}} = 22$ square yards.",
+  "source": "https://cooksat.com/practice?questionId=3cd1a74c&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

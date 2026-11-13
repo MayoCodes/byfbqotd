@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7db734e7",
+  "capturedAt": "2026-11-13T23:31:00.271Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Compute Rate from Given Values",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Tickets for a concert are being sold at a rate of $20$ tickets per minute. If tickets are sold at this constant rate for $1$ hour and $10$ minutes, how many tickets will be sold?",
+  "choices": {
+    "A": "$70$",
+    "B": "$1,200$",
+    "C": "$1,400$",
+    "D": "$1,600$"
+  },
+  "correctAnswer": "C",
+  "explanation": "It's given that tickets are sold at a rate of $20$ tickets per minute. The total time is $1$ hour and $10$ minutes, which equals $60 + 10 = 70$ minutes. Therefore, the total number of tickets sold is $20 \\times 70 = 1{,}400$ tickets.",
+  "source": "https://cooksat.com/practice?questionId=7db734e7&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

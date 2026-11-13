@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3a8b1af3",
+  "capturedAt": "2026-11-13T23:30:19.826Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A factory uses a machine that produces wire at a rate of $18$ meters per minute. The factory needs to produce $750$ spools of wire, where each spool contains $240$ feet of wire. How many hours will it take for the machine to produce all the spools? (Use $1$ meter $= 3.28$ feet)",
+  "choices": {
+    "A": "$6,250123$",
+    "B": "$125,00041$",
+    "C": "$2,250,00041$",
+    "D": "$180,000$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Total feet needed: $750 \\times 240 = 180{,}000$ feet. Convert to meters: $\\frac{180{,}000}{3.28} = \\frac{180{,}000}{\\frac{328}{100}} = \\frac{18{,}000{,}000}{328} = \\frac{2{,}250{,}000}{41}$ meters. Time in minutes: $\\frac{2{,}250{,}000}{41} \\div 18 = \\frac{2{,}250{,}000}{41 \\times 18} = \\frac{2{,}250{,}000}{738} = \\frac{125{,}000}{41}$ minutes. Convert to hours: $\\frac{125{,}000}{41} \\div 60 = \\frac{125{,}000}{2{,}460} = \\frac{6{,}250}{123}$ hours.",
+  "source": "https://cooksat.com/practice?questionId=3a8b1af3&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}

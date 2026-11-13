@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "266ac36e",
+  "capturedAt": "2026-11-13T23:30:01.515Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Set Up Proportion and Solve",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Objects M and N each travel at a constant speed. The speed of object M is one-third the speed of object N. Object M travels a distance of $5x$ inches in $y$ seconds. Which expression represents the time, in seconds, it takes object N to travel a distance of $30x$ inches?",
+  "choices": {
+    "A": "$2y$",
+    "B": "$6y$",
+    "C": "$18y$",
+    "D": "$90y$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Object M travels $5x$ inches in $y$ seconds, so the speed of object M is $\\frac{5x \\text{ inches}}{y \\text{ seconds}}$. Since the speed of object M is one-third the speed of object N, the speed of object N is $3$ times the speed of object M, or $3\\left(\\frac{5x \\text{ inches}}{y \\text{ seconds}}\\right) = \\frac{15x \\text{ inches}}{y \\text{ seconds}}$. Let $t$ represent the time, in seconds, it takes object N to travel $30x$ inches. Then $\\frac{15x}{y} = \\frac{30x}{t}$. Multiplying both sides by $ty$ gives $15xt = 30xy$, and dividing both sides by $15x$ yields $t = 2y$. Therefore, the expression $2y$ represents the time, in seconds, it takes object N to travel a distance of $30x$ inches.",
+  "source": "https://cooksat.com/practice?questionId=266ac36e&subject=math&domain=problem-solving-and-data-analysis&skills=ratios_rates_proportional_relationships_and_units&bank=cooksat",
+  "images": []
+}
