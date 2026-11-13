@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "30006163",
+  "capturedAt": "2026-11-13T23:54:27.947Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Largest Generalization Population",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A sample of $55$ seventh-grade students was selected at random from a certain middle school. The $55$ students completed a survey about the new cafeteria menu, and $44$ reported that they liked the new menu. Which of the following is the largest population to which the results of the survey can be applied?",
+  "choices": {
+    "A": "The $55$ students who were surveyed",
+    "B": "All seventh-grade students at the middle school",
+    "C": "All students at the middle school",
+    "D": "All seventh-grade students in the school district in which the middle school is located"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Selecting a sample of a reasonable size at random to use for a survey allows the results from that survey to be applied to the population from which the sample was selected, but not beyond this population. In this case, the population from which the sample was selected is all seventh-grade students at a certain middle school. Therefore, the results of the survey can be applied to all seventh-grade students at the middle school.",
+  "source": "https://cooksat.com/practice?questionId=30006163&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

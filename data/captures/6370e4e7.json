@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6370e4e7",
+  "capturedAt": "2026-11-13T23:54:33.099Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Largest Generalization Population",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A food critic selected $150$ people at random from a group of people who indicated that they enjoy dining at Italian restaurants. The $150$ people tasted a new frozen meal inspired by Italian cuisine and were then asked whether they thought the frozen meal tasted authentic or not authentic. Of those surveyed, $88%$ said the frozen meal did not taste authentic. Which of the following inferences can appropriately be drawn from this survey result?",
+  "choices": {
+    "A": "At least $88%$ of people who eat frozen meals will think this frozen meal does not taste authentic.",
+    "B": "At least $88%$ of people who cook at home will think this frozen meal does not taste authentic.",
+    "C": "Most people who dislike Italian restaurants will think this frozen meal tastes authentic.",
+    "D": "Most people who enjoy Italian restaurants will think this frozen meal does not taste authentic."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The sample was selected from a group of people who indicated that they enjoy dining at Italian restaurants. It is inappropriate to generalize the result of the survey beyond the population from which the participants were selected. Choice D is the most appropriate inference from the survey results because it describes a conclusion about people who enjoy Italian restaurants, and the results of the survey indicate that most such people thought the frozen meal did not taste authentic.",
+  "source": "https://cooksat.com/practice?questionId=6370e4e7&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

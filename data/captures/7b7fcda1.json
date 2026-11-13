@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b7fcda1",
+  "capturedAt": "2026-11-13T23:54:38.548Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Sampling Bias or Flaw",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The members of a town board wanted to assess the opinions of all town residents about expanding the public fitness center. The board surveyed a sample of $750$ town residents who are members of a local gym. The survey showed that the majority of those sampled were in favor of expanding the fitness center. Which of the following is true about the town board's survey?",
+  "choices": {
+    "A": "It shows that the majority of town residents are in favor of expanding the fitness center.",
+    "B": "The survey sample should have included more residents who are gym members.",
+    "C": "The survey sample should have consisted entirely of residents who are not gym members.",
+    "D": "The survey sample is biased because it is not representative of all town residents."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The town board wanted to assess the opinions of all town residents. To gather an unbiased sample, the board should have used a random sampling design to select subjects from all town residents. The given survey introduced a sampling bias because the $750$ residents surveyed were all members of a local gym. This sample is not representative of all town residents because not all town residents are gym members.",
+  "source": "https://cooksat.com/practice?questionId=7b7fcda1&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

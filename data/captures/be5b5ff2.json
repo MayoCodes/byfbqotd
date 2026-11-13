@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "be5b5ff2",
+  "capturedAt": "2026-11-13T23:54:45.006Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Sampling Bias or Flaw",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "To estimate the mean number of pets per household in a town, Marcus surveyed $30$ households at a local pet supply store. For the $30$ households surveyed, the mean number of pets per household was $1.8$. Which of the following statements must be true?",
+  "choices": {
+    "A": "The mean number of pets per household in the town is $1.8$.",
+    "B": "A determination about the mean number of pets per household in the town should not be made because the sample size is too small.",
+    "C": "The sampling method is flawed and may produce a biased estimate of the mean number of pets per household in the town.",
+    "D": "The sampling method is not flawed and is likely to produce an unbiased estimate of the mean number of pets per household in the town."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To use a sample mean to estimate a population mean, the sample must be representative of the population (for example, a simple random sample). Marcus surveyed $30$ households at a pet supply store, but households that visit a pet supply store are more likely to own pets than other households in the town. Therefore, the sample is not representative of the population, and the sampling method is flawed and may produce a biased estimate.",
+  "source": "https://cooksat.com/practice?questionId=be5b5ff2&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

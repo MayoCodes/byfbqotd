@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "58c13ae1",
+  "capturedAt": "2026-11-13T23:54:31.239Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Evaluate Sample-to-Population Claims",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Patrons of a community library were surveyed to determine whether they are satisfied with the library's new digital catalog system. A random sample of $350$ patrons was selected. All $350$ responded, and $72%$ said they are satisfied. Based on this information, which of the following statements must be true?\n\n$I.$ Of all the library patrons, $72%$ would say they are satisfied with the new digital catalog system.\n\n$II.$ If another random sample of $350$ patrons were surveyed, $72%$ would say they are satisfied.",
+  "choices": {
+    "A": "Neither",
+    "B": "I only",
+    "C": "II only",
+    "D": "I and II"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The purpose of surveying a random sample of patrons is to approximate the percent of all library patrons who are satisfied with the new digital catalog system. The sample doesn't necessarily yield the same result as surveying every patron, nor would a different random sample necessarily produce identical results. Therefore, although it's possible that either statement $\\text{I}$ or statement $\\text{II}$ could turn out to be true, neither can be proven true based solely on the results of this single sample.",
+  "source": "https://cooksat.com/practice?questionId=58c13ae1&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1a3669ef",
+  "capturedAt": "2026-11-13T23:54:26.322Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Largest Generalization Population",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Researchers conducted an experiment to test a new medication for reducing coughing caused by the common cold. They recruited $120$ adult patients with colds from a single medical clinic. The researchers randomly assigned $60$ patients to receive the medication and $60$ patients to receive a placebo. After one week, the medication group showed significantly less coughing than the placebo group. Which of the following inferences is most appropriate based on this experiment?",
+  "choices": {
+    "A": "The medication is likely to reduce coughing for adult patients with colds at this clinic.",
+    "B": "The medication is likely to reduce coughing for all people with colds.",
+    "C": "The medication works because both groups showed some improvement in symptoms.",
+    "D": "No valid conclusions can be drawn because the patients were not randomly selected from the general population."
+  },
+  "correctAnswer": "A",
+  "explanation": "The researchers used random assignment to create treatment and control groups, which allows for valid causal inferences about the medication's effect. However, because all participants were recruited from a single clinic rather than randomly sampled from a broader population, the results can only be generalized to adult patients with colds at that clinic. This is the most appropriate scope of inference given the study design.",
+  "source": "https://cooksat.com/practice?questionId=1a3669ef&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

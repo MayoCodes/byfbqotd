@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a2d931e4",
+  "capturedAt": "2026-11-13T23:54:41.796Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Largest Generalization Population",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher studying sleep patterns recruited $60$ volunteers from among employees at a technology company to participate in an experiment. The volunteers were randomly assigned to either use a sleep-tracking device or not use the device for $30$ days. At the end of the study, the researcher found that volunteers who used the sleep-tracking device reported significantly better sleep quality than those who did not use the device. To which of the following groups can the results of this experiment be appropriately generalized?",
+  "choices": {
+    "A": "All employees at technology companies",
+    "B": "All adults who have sleep problems",
+    "C": "All employees at this specific technology company",
+    "D": "The $60$ volunteers who participated in the experiment"
+  },
+  "correctAnswer": "D",
+  "explanation": "The volunteers were recruited from employees at one technology company, not randomly selected from any broader population. While random assignment allows the researcher to establish a causal relationship for these $60$ volunteers, the results can only be generalized to the volunteers who actually participated in the study, not to any broader group.",
+  "source": "https://cooksat.com/practice?questionId=a2d931e4&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

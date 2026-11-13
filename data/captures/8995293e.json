@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8995293e",
+  "capturedAt": "2026-11-13T23:54:40.197Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Largest Generalization Population",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A doctor wants to test the effectiveness of a new medication for reducing blood pressure. He selects patients from his practice who have high blood pressure and divides them into two groups. One group receives the new medication, and the other group receives a placebo. After $6$ months, he measures changes in blood pressure for both groups. Which of the following best describes this study and the population to which the results can be generalized?",
+  "choices": {
+    "A": "This is an observational study, and results can be generalized to patients in the doctor's practice who have high blood pressure.",
+    "B": "This is an experiment, and results can be generalized to all patients with high blood pressure.",
+    "C": "This is an observational study, and results can be generalized to all patients with high blood pressure.",
+    "D": "This is an experiment, and results can be generalized to patients in the doctor's practice who have high blood pressure."
+  },
+  "correctAnswer": "D",
+  "explanation": "This is an experiment because the doctor actively assigned treatments (medication or placebo) to the patient groups. The results can be generalized to patients in the doctor's practice who have high blood pressure, since that is the population from which the sample was drawn. Results cannot be generalized beyond this population to all patients with high blood pressure.",
+  "source": "https://cooksat.com/practice?questionId=8995293e&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

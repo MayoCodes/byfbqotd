@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50988ed7",
+  "capturedAt": "2026-11-13T23:54:29.578Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Evaluate Sample-to-Population Claims",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For a study, a group of sparrows will be selected from a habitat consisting of $145$ sparrows, and a group of finches will be selected from a habitat consisting of $180$ finches. Some of the sparrows and finches will be in a treatment group, and some of the sparrows and finches will be in a control group. Which of the following is necessary for this study to attempt to establish a cause-and-effect relationship between two variables?",
+  "choices": {
+    "A": "The number of sparrows in the treatment group is equal to the number of finches in the treatment group, and the number of sparrows in the control group is equal to the number of finches in the control group.",
+    "B": "The sparrows and the finches are randomly selected from their respective habitats.",
+    "C": "The sparrows and the finches are randomly assigned to the treatment and control groups.",
+    "D": "The average wingspan of the sparrows in the treatment group is equal to the average wingspan of the finches in the treatment group, and the average wingspan of the sparrows in the control group is equal to the average wingspan of the finches in the control group."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To establish a cause-and-effect relationship between two variables, a study must be an experiment in which subjects are randomly assigned to treatment and control groups. Random assignment helps ensure that the groups are similar with respect to all variables except the treatment being studied. This allows any observed differences in outcomes between the groups to be attributed to the treatment itself rather than to pre-existing differences between the groups. In this study, randomly assigning the sparrows and finches to treatment and control groups is necessary to attempt to establish a cause-and-effect relationship.",
+  "source": "https://cooksat.com/practice?questionId=50988ed7&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

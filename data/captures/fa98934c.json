@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fa98934c",
+  "capturedAt": "2026-11-13T23:54:46.791Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Largest Generalization Population",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A survey was conducted using a sample of biology teachers selected at random from the Texas public high schools. The teachers surveyed were asked to name the brand of laboratory microscope used in their classrooms. What is the largest population to which the results of the survey can be generalized?",
+  "choices": {
+    "A": "All teachers in the United States",
+    "B": "All biology teachers in the United States",
+    "C": "All teachers at Texas public high schools",
+    "D": "All biology teachers at Texas public high schools"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Selecting a sample at random when conducting a survey allows the results to be generalized to the population from which the sample was selected, but not beyond this population. In this situation, the population that the sample was selected from is biology teachers at the Texas public high schools. Therefore, the largest population to which the results of the survey can be generalized is all biology teachers at Texas public high schools.",
+  "source": "https://cooksat.com/practice?questionId=fa98934c&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

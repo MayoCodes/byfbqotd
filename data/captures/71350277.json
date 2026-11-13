@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "71350277",
+  "capturedAt": "2026-11-13T23:54:36.711Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Sampling Bias or Flaw",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A survey was conducted to estimate the average commute time for people who work in a certain town. The survey asked, \"How long is your commute?\" Which of the following is the best way to obtain a representative sample for this survey?",
+  "choices": {
+    "A": "Survey people at a train station during rush hour.",
+    "B": "Survey people randomly selected from a list of all employees who work in the town.",
+    "C": "Survey people at a shopping mall in the town on a weekend.",
+    "D": "Survey people walking in the downtown area during lunch break."
+  },
+  "correctAnswer": "B",
+  "explanation": "The target population is people who work in the town. A representative sample requires random selection from this specific population. Surveying people randomly selected from a complete list of all employees who work in the town ensures every member of the target population has an equal chance of being selected, making it the most representative sampling method.",
+  "source": "https://cooksat.com/practice?questionId=71350277&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}

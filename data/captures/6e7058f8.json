@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6e7058f8",
+  "capturedAt": "2026-11-13T23:54:34.821Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Sampling Bias or Flaw",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Near the end of a national sports talk radio program, the host invited listeners to visit the program's website and respond to a poll that asked, \"Do you support the proposed league rule change discussed on today's program?\" The following day, the host announced that $42%$ of respondents answered \"Yes\" and $55%$ answered \"No.\" Which of the following best explains why the results are unlikely to represent the opinions of the population of all adults in the country?",
+  "choices": {
+    "A": "The reported percentages do not add up to $100%$, so any conclusions drawn from the poll are invalid.",
+    "B": "The host did not give listeners enough time to respond to the poll.",
+    "C": "Those who responded to the poll were not a random sample of the population of all adults in the country.",
+    "D": "The poll did not produce an equal split of $50%$ \"Yes\" and $50%$ \"No\" responses."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. For poll results from a sample to represent an entire population, the sample must be representative of that population. A randomly selected sample is more likely to be representative than the sample described here. The respondents were people who had access to the radio program and the program's website, who chose to listen to this particular program, and who then chose to go online and submit a response. People who make all of these choices are not representative of the entire population of adults in the country because they were not a random sample of that population.",
+  "source": "https://cooksat.com/practice?questionId=6e7058f8&subject=math&domain=problem-solving-and-data-analysis&skills=evaluating_statistical_claims_observational_studies_and_experiments&bank=cooksat",
+  "images": []
+}
