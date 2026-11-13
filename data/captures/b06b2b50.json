@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b06b2b50",
+  "capturedAt": "2026-11-13T22:00:33.919Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3x + 7y = 80$$\n\n$$7x + 3y = 40$$\n\nIf the system of equations above has solution $(x, y)$, what is the value of $x + y$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$10$",
+    "C": "$12$",
+    "D": "$30$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Adding the two given equations yields $10x + 10y = 120$. Dividing each side of $10x + 10y = 120$ by $10$ gives $x + y = 12$.",
+  "source": "https://cooksat.com/practice?questionId=b06b2b50&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

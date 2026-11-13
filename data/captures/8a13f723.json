@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8a13f723",
+  "capturedAt": "2026-11-13T21:59:56.850Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$6x - 9y = 12$$\n\n$$4x - ky = 8$$\n\nIn the system of equations above, $k$ is a constant. If the system has infinitely many solutions, what is the value of $k$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$6$",
+    "C": "$8$",
+    "D": "$9$"
+  },
+  "correctAnswer": "B",
+  "explanation": "A system of two linear equations has infinitely many solutions when the equations are equivalent. The first equation $6x - 9y = 12$ can be simplified by dividing all terms by 3 to get $2x - 3y = 4$. The second equation $4x - ky = 8$ can be simplified by dividing all terms by 2 to get $2x - \\frac{k}{2}y = 4$. For these to be equivalent equations, we need $-3 = -\\frac{k}{2}$, which gives $k = 6$.",
+  "source": "https://cooksat.com/practice?questionId=8a13f723&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

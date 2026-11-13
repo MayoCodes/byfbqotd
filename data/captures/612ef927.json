@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "612ef927",
+  "capturedAt": "2026-11-13T21:59:09.238Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$y = -4x$$\n\n$$5x + y = 25$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $x$?\n\n$$0$$\n\n$$25$$",
+  "choices": {},
+  "correctAnswer": "$25$",
+  "explanation": "The correct answer is $25$. The first equation gives $y = -4x$. Substituting $-4x$ for $y$ in the second equation yields $5x + (-4x) = 25$. Combining like terms on the left-hand side gives $x = 25$. Therefore, the value of $x$ is $25$.",
+  "source": "https://cooksat.com/practice?questionId=612ef927&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

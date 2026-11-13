@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "383b6fea",
+  "capturedAt": "2026-11-13T21:58:35.270Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$9x - 6y = 3$$\n\n$$5x - 10y = 11$$\n\nIf the ordered pair $(x, y)$ is the solution to the system of equations above, what is the value of $4x + 4y$?",
+  "choices": {
+    "A": "$-14$",
+    "B": "$-8$",
+    "C": "$8$",
+    "D": "$14$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Subtracting the second equation, $5x - 10y = 11$, from the first equation, $9x - 6y = 3$, results in $(9x - 6y) - (5x - 10y) = 3 - 11$, or $9x - 6y - 5x + 10y = -8$. Combining like terms on the left-hand side of this equation yields $4x + 4y = -8$.",
+  "source": "https://cooksat.com/practice?questionId=383b6fea&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

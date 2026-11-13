@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6f73c3f9",
+  "capturedAt": "2026-11-13T21:59:26.385Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$4(3x) + 11(2y) = 77$$\n\n$$4(3x) - 11(2y) = -77$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $3x + 2y$?",
+  "choices": {
+    "A": "$-79$",
+    "B": "$7$",
+    "C": "$29$",
+    "D": "$35$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Adding the two given equations eliminates the $11(2y)$ terms: $[4(3x) + 11(2y)] + [4(3x) - 11(2y)] = 77 + (-77)$, which simplifies to $8(3x) = 0$, so $3x = 0$. Subtracting the second equation from the first gives $[4(3x) + 11(2y)] - [4(3x) - 11(2y)] = 77 - (-77)$, which simplifies to $22(2y) = 154$, so $2y = 7$. Therefore, $3x + 2y = 0 + 7 = 7$.",
+  "source": "https://cooksat.com/practice?questionId=6f73c3f9&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

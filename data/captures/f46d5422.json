@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f46d5422",
+  "capturedAt": "2026-11-13T22:01:16.774Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The sum of two numbers is $15$. One number is $4$ more than the other number. What is the value of the lesser number?",
+  "choices": {
+    "A": "$4$",
+    "B": "$5.5$",
+    "C": "$7$",
+    "D": "$11$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Let $x$ be the lesser number and $y$ be the greater number. The given information forms a system: $x+y=15$ and $y=x+4$. Substituting $x+4$ for $y$ in the first equation yields $x+(x+4)=15$, or $2x+4=15$. Subtracting $4$ from both sides gives $2x=11$. Dividing both sides by $2$ yields $x=5.5$.",
+  "source": "https://cooksat.com/practice?questionId=f46d5422&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

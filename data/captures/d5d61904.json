@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d5d61904",
+  "capturedAt": "2026-11-13T22:00:53.133Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A cash register contains a total of $90$ coins consisting of only quarters and dimes, quarters being worth $0.25$ dollars and dimes being worth $0.10$ dollars. The total value of all the coins in the cash register is $$13.50$. What is the total value, in dollars, of the quarters in the cash register?",
+  "choices": {
+    "A": "$6.00$",
+    "B": "$7.50$",
+    "C": "$9.00$",
+    "D": "$12.00$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Let $q$ be the number of quarters and $d$ be the number of dimes. The system is $q + d = 90$ and $25q + 10d = 1350$. From the first equation, $d = 90 - q$. Substituting: $25q + 10(90 - q) = 1350$, which gives $25q + 900 - 10q = 1350$, or $15q = 450$, so $q = 30$. The value of the quarters is $30 \\times 0.25 = 7.50$.",
+  "source": "https://cooksat.com/practice?questionId=d5d61904&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

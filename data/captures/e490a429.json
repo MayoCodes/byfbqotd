@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e490a429",
+  "capturedAt": "2026-11-13T22:01:03.598Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A bakery sells only plain rolls and muffins. Each plain roll is sold for $p$ dollars, and each muffin is sold for $m$ dollars. On the first day, the bakery sold $15$ plain rolls and $8$ muffins for a total of $$116$. On the second day, the bakery sold $12$ plain rolls and $10$ muffins for a total of $$118$.\n\nWhich system of equations can be used to correctly determine the values of $p$ and $m$?",
+  "choices": {
+    "A": "$8p + 15m = 116$\n\n$10p + 12m = 118$",
+    "B": "$15p + 8m = 116$\n\n$12p + 10m = 118$",
+    "C": "$15p + 116m = 8$\n\n$12p + 118m = 10$",
+    "D": "$116p + 15m = 8$\n\n$118p + 12m = 10$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The number of plain rolls sold can be multiplied by $p$ to give the revenue from rolls. Similarly, the number of muffins sold can be multiplied by $m$ to give the revenue from muffins. Therefore, the total revenue on the first day is $15p + 8m = 116$, and the total revenue on the second day is $12p + 10m = 118$.",
+  "source": "https://cooksat.com/practice?questionId=e490a429&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

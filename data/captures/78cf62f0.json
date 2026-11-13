@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "78cf62f0",
+  "capturedAt": "2026-11-13T21:59:43.037Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{(x - 4)}{2} + \\frac{(y + 18)}{3} = 0$$\n\n$$3x + 4y = 0$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $x + y$?",
+  "choices": {
+    "A": "$-16$",
+    "B": "$-4$",
+    "C": "$4$",
+    "D": "$12$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The second equation can be rewritten as $y = -\\frac{3x}{4}$ by subtracting $3x$ from both sides and dividing by $4$. The first equation can be rewritten in standard form by multiplying both sides by $6$ to clear the fractions, yielding $3(x - 4) + 2(y + 18) = 0$. Expanding gives $3x - 12 + 2y + 36 = 0$, which simplifies to $3x + 2y + 24 = 0$. Substituting $-\\frac{3x}{4}$ for $y$ yields $3x + 2\\left(-\\frac{3x}{4}\\right) + 24 = 0$, or $3x - \\frac{3x}{2} + 24 = 0$. Multiplying both sides by $2$ gives $6x - 3x + 48 = 0$, which simplifies to $3x + 48 = 0$. Therefore, $x = -16$. Substituting $-16$ for $x$ in $y = -\\frac{3x}{4}$ yields $y = -\\frac{3(-16)}{4} = 12$. Thus, $x + y = -16 + 12 = -4$.",
+  "source": "https://cooksat.com/practice?questionId=78cf62f0&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3996c424",
+  "capturedAt": "2026-11-13T21:58:36.983Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Consider the system of equations:\n\n$$3x - 4y = 16$$\n\n$$2x + 5y = 3$$\n\nIf $(a, b)$ is the solution to this system, and it is given that $ka + b = 7$, where $k$ is a constant, what is the value of $k$?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "First, solve the system of equations. Multiply the first equation by $5$: $15x - 20y = 80$. Multiply the second equation by $4$: $8x + 20y = 12$. Adding these equations eliminates $y$: $23x = 92$, so $x = 4$. Substitute $x = 4$ into the second equation: $2(4) + 5y = 3$, which gives $8 + 5y = 3$, so $5y = -5$ and $y = -1$. Therefore, $(a, b) = (4, -1)$. Now substitute these values into $ka + b = 7$: $k(4) + (-1) = 7$, which simplifies to $4k - 1 = 7$. Solving for $k$: $4k = 8$, so $k = 2$.",
+  "source": "https://cooksat.com/practice?questionId=3996c424&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

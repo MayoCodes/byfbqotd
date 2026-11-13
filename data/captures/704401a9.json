@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "704401a9",
+  "capturedAt": "2026-11-13T21:59:27.830Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$-18x+21y=30$$\n\n$$-6x+7y=15$$\n\nHow many solutions does the given system of equations have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "A",
+  "explanation": "A system of two linear equations has zero solutions if the lines are parallel and distinct. Converting the first equation to slope-intercept form: $21y=18x+30$, so $y=\\frac{6}{7}x+\\frac{10}{7}$. Converting the second equation: $7y=6x+15$, so $y=\\frac{6}{7}x+\\frac{15}{7}$. Both lines have slope $\\frac{6}{7}$ but different y-intercepts $\\left(0,\\frac{10}{7}\\right)$ and $\\left(0,\\frac{15}{7}\\right)$, so they are parallel and distinct. Therefore, the system has zero solutions.",
+  "source": "https://cooksat.com/practice?questionId=704401a9&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

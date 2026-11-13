@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50dfc989",
+  "capturedAt": "2026-11-13T21:58:58.797Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A system of linear equations is graphed in the xy-plane. The graph of the first linear equation is a line with a slope of $-\\frac{1}{2}$ that passes through the point $(0,0)$. The graph of the second linear equation is a line that passes through the points $(0,4)$ and $(2,0)$. What is the solution to the system of linear equations?",
+  "choices": {
+    "A": "$(0,0)$",
+    "B": "$(0,4)$",
+    "C": "$(2,0)$",
+    "D": "$(\\frac{8}{3}, -\\frac{4}{3})$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The first line has slope $-\\frac{1}{2}$ and passes through $(0,0)$, so its equation is $y = -\\frac{1}{2}x$. The second line passes through $(0,4)$ and $(2,0)$, giving slope $\\frac{0-4}{2-0} = -2$, so its equation is $y = -2x + 4$. Setting the equations equal: $-\\frac{1}{2}x = -2x + 4$. Adding $2x$ to both sides gives $\\frac{3}{2}x = 4$, so $x = \\frac{8}{3}$. Substituting into the first equation: $y = -\\frac{1}{2} \\cdot \\frac{8}{3} = -\\frac{4}{3}$. Therefore, the solution is $\\left(\\frac{8}{3}, -\\frac{4}{3}\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=50dfc989&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

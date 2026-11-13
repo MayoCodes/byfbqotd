@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a09d74c3",
+  "capturedAt": "2026-11-13T22:00:11.682Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhat system of linear equations is represented by the lines shown?",
+  "choices": {
+    "A": "$3x - 5y = 21$\n\n$-6x + 5y = -42$",
+    "B": "$3x + 5y = 21$\n\n$-6x - 5y = -42$",
+    "C": "$5x + 3y = 21$\n\n$-5x - 6y = -42$",
+    "D": "$5x - 3y = 21$\n\n$-5x + 6y = -42$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. A line passing through $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ has slope $m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$ and can be written as $y - y_{1} = m(x - x_{1})$. One line passes through $(7, 0)$ and $(2, 3)$, so $m = \\frac{3 - 0}{2 - 7} = -\\frac{3}{5}$. Using $(7, 0)$: $y - 0 = -\\frac{3}{5}(x - 7)$, which gives $y = -\\frac{3}{5}x + \\frac{21}{5}$. Adding $\\frac{3}{5}x$ to both sides and multiplying by $5$ yields $3x + 5y = 21$. The other line passes through $(7, 0)$ and $(2, 6)$, so $m = \\frac{6 - 0}{2 - 7} = -\\frac{6}{5}$. Using $(7, 0)$: $y = -\\frac{6}{5}(x - 7) = -\\frac{6}{5}x + \\frac{42}{5}$. Adding $\\frac{6}{5}x$ to both sides and multiplying by $-5$ yields $-6x - 5y = -42$. Therefore, the system represented by the lines shown is $3x + 5y = 21$ and $-6x - 5y = -42$.",
+  "source": "https://cooksat.com/practice?questionId=a09d74c3&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a09d74c3/1-f388eb20987b48d7.png",
+      "kind": "diagram"
+    }
+  ]
+}

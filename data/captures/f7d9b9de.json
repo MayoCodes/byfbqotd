@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f7d9b9de",
+  "capturedAt": "2026-11-13T22:01:20.401Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$5x + 4y = 11$$\n\n$$20x + 16y = 44$$\n\nFor each real number $r$, which of the following points lies on the graph of each equation in the xy-plane for the given system?",
+  "choices": {
+    "A": "$(r, -\\frac{(5r)}{4} + \\frac{(11)}{4})$",
+    "B": "$(-\\frac{(5r)}{4} + \\frac{(11)}{4}, r)$",
+    "C": "$(-\\frac{(5r)}{4} + 11, \\frac{(5r)}{4} + 44)$",
+    "D": "$(\\frac{r}{4} + 11, -\\frac{r}{4} + 44)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Dividing both sides of the second equation by $4$ yields $5x + 4y = 11$, which is identical to the first equation. Therefore, the two equations represent the same line in the xy-plane, and any point satisfying one satisfies both. Substituting $r$ for $x$ and $-\\frac{5r}{4} + \\frac{11}{4}$ for $y$ in $5x + 4y = 11$ gives $5r + 4\\left(-\\frac{5r}{4} + \\frac{11}{4}\\right) = 11$. Distributing yields $5r - 5r + 11 = 11$, or $11 = 11$, which is true for all $r$. Thus the point $\\left(r, -\\frac{5r}{4} + \\frac{11}{4}\\right)$ lies on the graph of each equation.",
+  "source": "https://cooksat.com/practice?questionId=f7d9b9de&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

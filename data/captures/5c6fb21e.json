@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5c6fb21e",
+  "capturedAt": "2026-11-13T21:59:06.382Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The score on a quiz competition is obtained by subtracting the number of incorrect answers from three times the number of correct answers. If a contestant answered $60$ questions and obtained a score of $120$, how many questions did the contestant answer correctly?\n\n$$0$$\n\n$$45$$",
+  "choices": {},
+  "correctAnswer": "$45$",
+  "explanation": "The correct answer is $45$. Let $x$ represent the number of correct answers and $y$ represent the number of incorrect answers. Since the contestant answered $60$ questions in total, the equation $x + y = 60$ represents this situation. Since the score is found by subtracting the number of incorrect answers from three times the number of correct answers, and the contestant received a score of $120$, the equation $3x - y = 120$ represents this situation. Adding the two equations yields $(x + y) + (3x - y) = 60 + 120$, which simplifies to $4x = 180$. Dividing both sides by $4$ yields $x = 45$.",
+  "source": "https://cooksat.com/practice?questionId=5c6fb21e&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

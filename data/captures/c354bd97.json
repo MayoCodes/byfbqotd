@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c354bd97",
+  "capturedAt": "2026-11-13T22:00:43.401Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A ribbon with a length of $50$ centimeters is cut into two pieces. One piece has a length of $x$ centimeters, and the other piece has a length of $y$ centimeters. The value of $x$ is $5$ more than $4$ times the value of $y$. What is the value of $x$?\n\n$$0$$\n\n$$41$$",
+  "choices": {},
+  "correctAnswer": "$41$",
+  "explanation": "The correct answer is $41$. It's given that a ribbon has a length of $50$ centimeters and is cut into two pieces with lengths $x$ and $y$ centimeters. It follows that $x + y = 50$. It's also given that the value of $x$ is $5$ more than $4$ times the value of $y$, or $x = 4y + 5$. Substituting $4y + 5$ for $x$ in $x + y = 50$ yields $4y + 5 + y = 50$, or $5y + 5 = 50$. Subtracting $5$ from both sides yields $5y = 45$. Dividing both sides by $5$ yields $y = 9$. Substituting $9$ for $y$ in $x = 4y + 5$ yields $x = 4(9) + 5$, or $x = 41$. Therefore, the value of $x$ is $41$.",
+  "source": "https://cooksat.com/practice?questionId=c354bd97&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

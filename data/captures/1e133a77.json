@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1e133a77",
+  "capturedAt": "2026-11-13T21:49:36.362Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$6x - 5y = 5y + 7$$\n\n$$ky = 3 - 6x$$\n\nIn the given system of equations, $k$ is a constant. If the system has no solution, what is the value of $k$?",
+  "choices": {
+    "A": "$-10$",
+    "B": "$-5$",
+    "C": "$5$",
+    "D": "$10$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A system of two linear equations in two variables, $x$ and $y$, has no solution if the lines represented by the equations in the xy-plane are distinct and parallel. The graphs of two lines represented by equations in the form $Ax + By = C$ are parallel if the coefficients for $x$ and $y$ in one equation are proportional to the corresponding coefficients in the other equation. The first equation can be written in the form $Ax + By = C$ by subtracting $5y$ from both sides to yield $6x - 10y = 7$. The second equation can be written in the form $Ax + By = C$ by adding $6x$ to both sides to yield $6x + ky = 3$. The coefficient of $x$ in the second equation, $6$, is $1$ times the coefficient of $x$ in the first equation, $6$. For the lines to be parallel, the coefficient of $y$ in the second equation, $k$, must also be $1$ times the coefficient of $y$ in the first equation, $-10$. Thus, $k = -10$. Therefore, if the given system has no solution, the value of $k$ is $-10$.",
+  "source": "https://cooksat.com/practice?questionId=1e133a77&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

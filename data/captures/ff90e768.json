@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff90e768",
+  "capturedAt": "2026-11-13T22:01:32.616Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2x + 8y = -20$$\n\n$$3x + 12y = 0$$\n\n$$5x + 20y = 18$$\n\nThe given equations are graphed in the $xy$-plane. How many solutions $(x, y)$ does the system of three equations have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A system of linear equations has a solution $(x, y)$ only if that ordered pair satisfies every equation in the system. Converting each equation to slope-intercept form $y = mx + b$ makes the comparison straightforward. The first equation, $2x + 8y = -20$, becomes $8y = -2x - 20$, or $y = -\\frac{1}{4}x - \\frac{5}{2}$. The second equation, $3x + 12y = 0$, becomes $12y = -3x$, or $y = -\\frac{1}{4}x$. The third equation, $5x + 20y = 18$, becomes $20y = -5x + 18$, or $y = -\\frac{1}{4}x + \\frac{9}{10}$. All three lines have slope $-\\frac{1}{4}$ but different $y$-intercepts: $-\\frac{5}{2}$, $0$, and $\\frac{9}{10}$. Lines with equal slopes and different $y$-intercepts are parallel and distinct, so they share no common point. The system has zero solutions.",
+  "source": "https://cooksat.com/practice?questionId=ff90e768&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fc73aae8",
+  "capturedAt": "2026-11-13T22:01:31.028Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$4x-3y=5$$\n\n$$x=8$$\n\nWhat is the solution $(x,y)$ to the given system of equations?",
+  "choices": {
+    "A": "$(8,9)$",
+    "B": "$(9,8)$",
+    "C": "$(8,-9)$",
+    "D": "$(-8,9)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The second equation in the given system is $x=8$. Substituting $8$ for $x$ in the first equation yields $4(8)-3y=5$, or $32-3y=5$. Subtracting $32$ from both sides gives $-3y=-27$. Dividing both sides by $-3$ yields $y=9$. Therefore, the solution is $(8,9)$.",
+  "source": "https://cooksat.com/practice?questionId=fc73aae8&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

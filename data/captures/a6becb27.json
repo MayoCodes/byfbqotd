@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a6becb27",
+  "capturedAt": "2026-11-13T22:00:18.250Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$35x - 56y = 28y + 15$$\n\n$$wy = \\frac{1}{8} - 5x$$\n\nIn the given system of equations, $w$ is a constant. If the system has no solution, what is the value of $w$?\n\n$$0$$\n\n$$-12$$",
+  "choices": {},
+  "correctAnswer": "$-12$",
+  "explanation": "The correct answer is $-12$. A system of two linear equations in two variables, $x$ and $y$, has no solution if the lines represented by the equations in the xy-plane are distinct and parallel. Two lines represented by equations in standard form $Ax + By = C$, where $A$, $B$, and $C$ are constants, are parallel if the coefficients for $x$ and $y$ in one equation are proportional to the corresponding coefficients in the other equation. The first equation in the given system can be written in standard form by subtracting $28y$ from both sides to yield $35x - 84y = 15$. The second equation can be written in standard form by adding $5x$ to both sides to yield $5x + wy = \\frac{1}{8}$. The coefficient of $x$ in this second equation, $5$, is $\\frac{1}{7}$ times the coefficient of $x$ in the first equation, $35$. For the lines to be parallel, the coefficient of $y$ in the second equation, $w$, must also be $\\frac{1}{7}$ times the coefficient of $y$ in the first equation, $-84$. Thus, $w = \\frac{1}{7}(-84)$, or $w = -12$. Therefore, if the given system has no solution, the value of $w$ is $-12$.",
+  "source": "https://cooksat.com/practice?questionId=a6becb27&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

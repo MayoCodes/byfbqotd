@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "58eb6882",
+  "capturedAt": "2026-11-13T21:59:03.534Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3x + 4y = 12$$\n\n$$(k-2)x + 8y = 18$$\n\nIn the system of equations above, $k$ is a constant. For what value of $k$ does the system have no solution?",
+  "choices": {
+    "A": "$4$",
+    "B": "$6$",
+    "C": "$8$",
+    "D": "$10$"
+  },
+  "correctAnswer": "C",
+  "explanation": "A system has no solution when the lines are parallel but distinct. For parallel lines, the ratios of corresponding coefficients must be equal, but the ratio of constants must be different. From the coefficients: $\\frac{k-2}{3} = \\frac{8}{4} = 2$. Solving $\\frac{k-2}{3} = 2$ gives $k - 2 = 6$, so $k = 8$. To verify the lines are distinct, check the constants: $\\frac{18}{12} = 1.5 \\neq 2$. Since the coefficient ratio is $2$ but the constant ratio is $1.5$, the lines are parallel and distinct, confirming no solution when $k = 8$.",
+  "source": "https://cooksat.com/practice?questionId=58eb6882&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "abaa6a03",
+  "capturedAt": "2026-11-13T22:00:27.616Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$2x+3y=12$$\n\n$$x-y=2$$\n\nThe solution to the given system of equations is $(x,y)$. What is the value of $x$?\n\n$$0$$\n\n$$\\frac{18}{5},3.6$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{18}{5},3.6$",
+  "explanation": "The correct answer is $\\frac{18}{5}$. From the second equation, $x=y+2$. Substituting into the first equation gives $2(y+2)+3y=12$, which simplifies to $5y+4=12$. Solving yields $y=\\frac{8}{5}$. Substituting back gives $x=\\frac{8}{5}+2=\\frac{18}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=abaa6a03&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

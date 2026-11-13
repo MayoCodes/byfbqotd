@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a5e122a5",
+  "capturedAt": "2026-11-13T22:00:16.815Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$21(x - w) = 21y + 21w$$\n\nOne of the equations in a system of two linear equations is given, where $w$ is a positive constant. The system has no solution. Which equation could be the second equation in this system?",
+  "choices": {
+    "A": "$5x - 5y = 5w$",
+    "B": "$5x - 5y = 10w$",
+    "C": "$5x + 5y = 5w$",
+    "D": "$5x + 5y = 10w$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A system of two linear equations in two variables has no solution if the lines represented by the equations are parallel and distinct. The given equation can be rewritten by expanding the left side to get $21x - 21w = 21y + 21w$, then rearranging to yield $21x - 21y = 42w$. Dividing both sides by $21$ gives $x - y = 2w$. The equation in choice A, $5x - 5y = 5w$, can be rewritten by dividing both sides by $5$ to yield $x - y = w$. Both equations have the form $x - y = k$, so the lines have the same slope and are parallel. Since $w$ is a positive constant, $w \\neq 2w$, so the lines are distinct. Therefore, the system has no solution.",
+  "source": "https://cooksat.com/practice?questionId=a5e122a5&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

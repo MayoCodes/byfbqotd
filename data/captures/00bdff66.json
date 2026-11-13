@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "00bdff66",
+  "capturedAt": "2026-11-13T21:49:16.233Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$6x-9y=36$$\n\nA system of two linear equations in the xy-plane has no solution. One of the equations is shown above. Which equation could be the other equation in the system?",
+  "choices": {
+    "A": "$9x-6y=36$",
+    "B": "$6x+9y=36$",
+    "C": "$12x-18y=72$",
+    "D": "$2x-3y=15$"
+  },
+  "correctAnswer": "D",
+  "explanation": "For a system to have no solution, the lines must be parallel but distinct (same slope, different y-intercepts). Dividing the given equation $6x-9y=36$ by $3$ yields $2x-3y=12$. Choice D shows $2x-3y=15$, which has the same left side as the simplified given equation but a different constant term. This means both equations have the same slope but different y-intercepts, creating parallel distinct lines with no solution.",
+  "source": "https://cooksat.com/practice?questionId=00bdff66&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

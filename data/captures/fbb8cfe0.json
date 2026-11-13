@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fbb8cfe0",
+  "capturedAt": "2026-11-13T22:01:29.369Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A system of two linear equations is given by $3x + 4y = 12$ and $kx + 8y = 16$, where $k$ is a constant. For what value of $k$ will the system have no solution?",
+  "choices": {
+    "A": "$3$",
+    "B": "$4$",
+    "C": "$6$",
+    "D": "$8$"
+  },
+  "correctAnswer": "C",
+  "explanation": "A system of two linear equations has no solution when the lines are parallel, which occurs when they have the same slope but different y-intercepts. Converting $3x + 4y = 12$ to slope-intercept form gives $y = -\\frac{3}{4}x + 3$. Converting $kx + 8y = 16$ gives $y = -\\frac{k}{8}x + 2$. For parallel lines, $-\\frac{3}{4} = -\\frac{k}{8}$. Cross-multiplying: $8 \\cdot (-3) = 4 \\cdot (-k)$, which gives $-24 = -4k$, so $k = 6$. Since the y-intercepts are different (3 and 2), the lines are parallel when $k = 6$.",
+  "source": "https://cooksat.com/practice?questionId=fbb8cfe0&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

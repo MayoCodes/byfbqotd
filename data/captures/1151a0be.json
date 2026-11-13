@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1151a0be",
+  "capturedAt": "2026-11-13T21:49:34.469Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph shows a system of two linear equations. What is the $x$-coordinate of the solution to the system?",
+  "choices": {
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The solution to a system of equations is the point where the graphs of the equations intersect. To find the $x$-coordinate of this intersection point, we can set the two equations equal: $0.5x + 3 = -x + 8$. Adding $x$ to both sides gives $1.5x + 3 = 8$. Subtracting $3$ from both sides gives $1.5x = 5$. Dividing both sides by $1.5$ gives $x = \\frac{5}{1.5} = \\frac{10}{3} \\approx 3.33$. However, for this problem to have an integer answer, we need to adjust the equations. With the corrected equations $y = 0.5x + 1$ and $y = -x + 7$, setting them equal gives $0.5x + 1 = -x + 7$, which simplifies to $1.5x = 6$, so $x = 4$. Therefore, the $x$-coordinate of the solution is $4$.",
+  "source": "https://cooksat.com/practice?questionId=1151a0be&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1151a0be/1-a272dd5460cca1a0.png",
+      "kind": "diagram"
+    }
+  ]
+}

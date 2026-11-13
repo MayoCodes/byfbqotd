@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "df29a340",
+  "capturedAt": "2026-11-13T22:00:55.972Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$9y = -5x + 1,980$$\n\n$$15x - 27y = -540$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $x + y$?\n\n$$0$$\n\n$$300$$",
+  "choices": {},
+  "correctAnswer": "$300$",
+  "explanation": "The correct answer is $300$. The first equation in the given system can be rewritten as $5x + 9y = 1{,}980$. Multiplying both sides of this equation by $3$ yields $15x + 27y = 5{,}940$. Adding this equation to the second equation in the given system yields $(15x + 27y) + (15x - 27y) = 5{,}940 + (-540)$, or $30x = 5{,}400$. Dividing both sides of this equation by $30$ yields $x = 180$. Substituting $180$ for $x$ in the first equation of the given system yields $9y = -5(180) + 1{,}980$, or $9y = 1{,}080$. Dividing both sides of this equation by $9$ yields $y = 120$. Therefore, $x + y = 180 + 120 = 300$.",
+  "source": "https://cooksat.com/practice?questionId=df29a340&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

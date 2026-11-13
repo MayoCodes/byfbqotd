@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "05c8efcb",
+  "capturedAt": "2026-11-13T21:49:17.808Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the value of $x$ in the solution to the system of equations $x + y = 2$ and $x - y = -6$?",
+  "choices": {
+    "A": "$-8$",
+    "B": "$-2$",
+    "C": "$2$",
+    "D": "$8$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Adding the two equations eliminates $y$: $(x + y) + (x - y) = 2 + (-6)$, which simplifies to $2x = -4$. Dividing both sides by $2$ gives $x = -2$.",
+  "source": "https://cooksat.com/practice?questionId=05c8efcb&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "477137cb",
+  "capturedAt": "2026-11-13T21:58:46.586Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph shows a system of two linear equations. What is the solution $(x,y)$ to this system?",
+  "choices": {
+    "A": "$(0,-4)$",
+    "B": "$(4,0)$",
+    "C": "$(6,-2)$",
+    "D": "$(8,-4)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "If a system of two linear equations has exactly one solution, the solution is the point at which the graphs of the two equations intersect. To find this intersection, set the two equations equal: $-x + 4 = x - 8$. Adding $x$ to both sides gives $4 = 2x - 8$. Adding $8$ to both sides gives $12 = 2x$. Dividing both sides by $2$ gives $x = 6$. Substituting $x = 6$ into the first equation: $y = -6 + 4 = -2$. Therefore, the solution to this system is $(6,-2)$.",
+  "source": "https://cooksat.com/practice?questionId=477137cb&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/477137cb/1-7f890ab147263102.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "54d4e666",
+  "capturedAt": "2026-11-13T21:59:02.130Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 3x + 8$$\n\n$$y = -4x - 13$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $y$?",
+  "choices": {
+    "A": "$-21$",
+    "B": "$-3$",
+    "C": "$-1$",
+    "D": "$5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since both equations are solved for $y$, the expressions $3x + 8$ and $-4x - 13$ are equal. Setting them equal yields $3x + 8 = -4x - 13$. Adding $4x$ to both sides of this equation yields $7x + 8 = -13$. Subtracting $8$ from both sides yields $7x = -21$. Dividing both sides by $7$ yields $x = -3$. Substituting $-3$ for $x$ in the first equation yields $y = 3(-3) + 8$, or $y = -1$.",
+  "source": "https://cooksat.com/practice?questionId=54d4e666&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

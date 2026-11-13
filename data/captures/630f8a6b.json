@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "630f8a6b",
+  "capturedAt": "2026-11-13T21:59:15.229Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A music streaming service charges a monthly fee of $f$ dollars and a fee of $p$ dollars per song for each song downloaded. One month, a person downloaded $12$ songs and paid a total of $$89$. The next month, the person downloaded $18$ songs and paid a total of $$113$. Assuming the monthly fee remained the same, what is the value of $p$, in dollars?",
+  "choices": {
+    "A": "$4$",
+    "B": "$5$",
+    "C": "$6.28$",
+    "D": "$7.42$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Setting up equations for both months: $f + 12p = 89$ and $f + 18p = 113$. Subtracting the first equation from the second eliminates $f$: $(f + 18p) - (f + 12p) = 113 - 89$, which simplifies to $6p = 24$. Dividing both sides by $6$ gives $p = 4$.",
+  "source": "https://cooksat.com/practice?questionId=630f8a6b&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b07648df",
+  "capturedAt": "2026-11-13T22:00:35.373Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2x + 5y = 13$$\n\n$$3x - 2y = -8$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $5x + 3y$?",
+  "choices": {
+    "A": "$-3$",
+    "B": "$3$",
+    "C": "$5$",
+    "D": "$7$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Multiply the first equation by $3$ to get $6x+15y=39$, and multiply the second equation by $2$ to get $6x-4y=-16$. Subtracting the second from the first yields $19y=55$, so $y=\\frac{55}{19}$. Substituting into the first equation: $2x+5(\\frac{55}{19})=13$, which gives $2x=13-\\frac{275}{19}=\\frac{-28}{19}$, so $x=-\\frac{14}{19}$. Therefore, $5x+3y=5(-\\frac{14}{19})+3(\\frac{55}{19})=\\frac{-70+165}{19}=\\frac{95}{19}=5$.",
+  "source": "https://cooksat.com/practice?questionId=b07648df&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

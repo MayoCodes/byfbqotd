@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a7e18989",
+  "capturedAt": "2026-11-13T22:00:23.170Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The width of a rectangular garden bed is $42$ inches. The garden bed's length is $5$ times its width. Which of the following systems of equations represents this situation, where $p$ is the length of the garden bed, in inches, and $w$ is the width of the garden bed, in inches?",
+  "choices": {
+    "A": "$p = 5w$\n\n$p = 42$",
+    "B": "$p = 5w$\n\n$w = 42$",
+    "C": "$w = 5p$\n\n$p = 42$",
+    "D": "$w = 5p$\n\n$w = 42$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that $w$ is the width of the garden bed, in inches, and that the width is $42$ inches. Therefore, $w = 42$. It's also given that $p$ is the length of the garden bed, in inches, and that the length is $5$ times the width. Since the width is $w$, it follows that $p = 5w$.",
+  "source": "https://cooksat.com/practice?questionId=a7e18989&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

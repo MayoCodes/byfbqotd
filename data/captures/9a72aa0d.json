@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9a72aa0d",
+  "capturedAt": "2026-11-13T22:00:06.485Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$(a+1)x + (b-2)y = 8$$\n\n$$(2a-1)x + (b+1)y = 12$$\n\nThe system of equations above has infinitely many solutions. If a and b are integers, what is the value of $ab$?",
+  "choices": {
+    "A": "$5$",
+    "B": "$8$",
+    "C": "$13$",
+    "D": "$40$"
+  },
+  "correctAnswer": "D",
+  "explanation": "For infinitely many solutions, the two equations must represent the same line, meaning all coefficients and constants must be proportional: $\\frac{a+1}{2a-1} = \\frac{b-2}{b+1} = \\frac{8}{12} = \\frac{2}{3}$. Solving $\\frac{a+1}{2a-1} = \\frac{2}{3}$: cross-multiply to get $3(a+1) = 2(2a-1)$, so $3a+3 = 4a-2$, giving $a = 5$. Solving $\\frac{b-2}{b+1} = \\frac{2}{3}$: cross-multiply to get $3(b-2) = 2(b+1)$, so $3b-6 = 2b+2$, giving $b = 8$. Therefore $ab = 5 \\times 8 = 40$. Verification: $(5+1)x + (8-2)y = 8$ gives $6x + 6y = 8$; $(2(5)-1)x + (8+1)y = 12$ gives $9x + 9y = 12$. Both simplify to $x + y = \\frac{4}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=9a72aa0d&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

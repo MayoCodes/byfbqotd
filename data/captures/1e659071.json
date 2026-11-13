@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1e659071",
+  "capturedAt": "2026-11-13T21:49:38.117Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x - 2y = 6$$\n\n$$2x + by = 8$$\n\nFor what value of $b$ does the given system of equations have no solution?",
+  "choices": {
+    "A": "$-4$",
+    "B": "$-2$",
+    "C": "$2$",
+    "D": "$4$"
+  },
+  "correctAnswer": "A",
+  "explanation": "A system has no solution when the lines are parallel and distinct, meaning they have equal slopes but different y-intercepts. The first equation can be rewritten as $y = \\frac{1}{2}x - 3$, so its slope is $\\frac{1}{2}$. The second equation can be rewritten as $y = -\\frac{2}{b}x + \\frac{8}{b}$. For equal slopes: $-\\frac{2}{b} = \\frac{1}{2}$, which gives $-4 = b$, or $b = -4$. When $b = -4$: the second equation becomes $y = \\frac{1}{2}x - 2$, which has the same slope but different y-intercept $(-2 \\neq -3)$, confirming no solution.",
+  "source": "https://cooksat.com/practice?questionId=1e659071&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

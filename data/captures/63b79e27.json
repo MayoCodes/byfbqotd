@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "63b79e27",
+  "capturedAt": "2026-11-13T21:59:16.980Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$4x = 56y - 24$$\n\nOne of the two equations in a system of linear equations is given. The system has no solution. Which equation could be the second equation in this system?",
+  "choices": {
+    "A": "$x = 7y$",
+    "B": "$\\frac{1}{2}x = 7y$",
+    "C": "$x = 14y - 6$",
+    "D": "$\\frac{1}{2}x = 14y - 6$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. A system of two linear equations in two variables has no solution if the graphs of the lines in the xy-plane are distinct and parallel, meaning they share the same slope but have different y-intercepts. The given equation $4x = 56y - 24$ can be rewritten in slope-intercept form by solving for $y$. Adding $24$ to both sides yields $4x + 24 = 56y$. Dividing both sides by $56$ yields $y = \\frac{4x + 24}{56}$, or $y = \\frac{1}{14}x + \\frac{3}{7}$. The slope is $\\frac{1}{14}$ and the y-intercept is $\\frac{3}{7}$. The equation in choice B, $\\frac{1}{2}x = 7y$, can be rewritten by dividing both sides by $7$, yielding $y = \\frac{1}{14}x$. The slope is $\\frac{1}{14}$ and the y-intercept is $0$. Since the slopes are equal but the y-intercepts differ, the system has no solution.",
+  "source": "https://cooksat.com/practice?questionId=63b79e27&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

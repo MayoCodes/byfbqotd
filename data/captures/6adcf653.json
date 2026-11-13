@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6adcf653",
+  "capturedAt": "2026-11-13T21:59:21.614Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A community theater sells two types of tickets for a play. A child ticket costs $$8$, and an adult ticket costs $$15$. On Friday evening, the theater sold a total of $180$ tickets and collected a total of $$2,000$ from ticket sales. Which of the following systems of equations can be used to find the number of child tickets, $c$, and adult tickets, $a$, sold on Friday evening?",
+  "choices": {
+    "A": "$c + a = 180$\n\n$8c + 15a = 2,000$",
+    "B": "$c + a = 180$\n\n$15c + 8a = 2,000$",
+    "C": "$8c + 15a = 180$\n\n$c + a = 2,000$",
+    "D": "$15c + 8a = 180$\n\n$c + a = 2,000$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $c$ represents the number of child tickets sold and $a$ represents the number of adult tickets sold, and the theater sold a total of $180$ tickets, $c + a = 180$. Each child ticket costs $$8$, so the revenue from child tickets is $8c$, and each adult ticket costs $$15$, so the revenue from adult tickets is $15a$. The total revenue was $$2{,}000$, so $8c + 15a = 2{,}000$. These equations are correctly represented in choice A.",
+  "source": "https://cooksat.com/practice?questionId=6adcf653&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

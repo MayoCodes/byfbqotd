@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ffc8f310",
+  "capturedAt": "2026-11-13T22:01:34.054Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "One of the two equations in a linear system is $4x + 10y = 14$. The system has no solution. Which of the following could be the other equation in the system?",
+  "choices": {
+    "A": "$2x + 5y = 7$",
+    "B": "$2x + 5y = 21$",
+    "C": "$10x - 4y = 0$",
+    "D": "$10x + 4y = 14$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. A system of two linear equations written in standard form has no solution when the equations are distinct and the ratio of the $x$-coefficient to the $y$-coefficient for one equation is equivalent to the ratio of the $x$-coefficient to the $y$-coefficient for the other equation. This ratio for the given equation is $4$ to $10$, or $2$ to $5$. Only choice B is an equation that isn't equivalent to the given equation and whose ratio of the $x$-coefficient to the $y$-coefficient is $2$ to $5$.",
+  "source": "https://cooksat.com/practice?questionId=ffc8f310&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

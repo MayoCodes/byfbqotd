@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3a266797",
+  "capturedAt": "2026-11-13T21:58:38.999Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The sum of a number $x$ and $4$ is three times as large as a number $y$. The number $y$ is $5$ less than the number $x$. Which system of equations describes this situation?",
+  "choices": {
+    "A": "$x + 4 = 3 y$\n\n$y = x - 5$",
+    "B": "$x + 4 = 3 y$\n\n$y = 5 - x$",
+    "C": "$3 ( x + 4 ) = y$\n\n$y = x - 5$",
+    "D": "$3 ( x + 4 ) = y$\n\n$y = 5 - x$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the sum of a number $x$ and $4$ is three times as large as a number $y$. This can be described by the equation $x + 4 = 3 y$. It's also given that the number $y$ is $5$ less than the number $x$. This can be described by the equation $y = x - 5$. Therefore, the system consisting of the equations $x + 4 = 3 y$ and $y = x - 5$ describes this situation.",
+  "source": "https://cooksat.com/practice?questionId=3a266797&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

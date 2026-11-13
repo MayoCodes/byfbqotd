@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "61a0a81c",
+  "capturedAt": "2026-11-13T21:59:10.650Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 2x + 11$$\n\n$$4y = 7x - 6$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $x - y$?",
+  "choices": {
+    "A": "$-139$",
+    "B": "$-50$",
+    "C": "$11$",
+    "D": "$39$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The first equation in the given system defines $y$ as $2x + 11$. Substituting $2x + 11$ for $y$ in the second equation yields $4(2x + 11) = 7x - 6$. Applying the distributive property on the left-hand side yields $8x + 44 = 7x - 6$. Subtracting $7x$ from both sides yields $x + 44 = -6$. Subtracting $44$ from both sides yields $x = -50$. Substituting $-50$ for $x$ in the first equation yields $y = 2(-50) + 11$, or $y = -89$. Substituting $-50$ for $x$ and $-89$ for $y$ into the expression $x - y$ yields $-50 - (-89)$, or $39$.",
+  "source": "https://cooksat.com/practice?questionId=61a0a81c&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

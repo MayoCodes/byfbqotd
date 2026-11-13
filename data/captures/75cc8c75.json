@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "75cc8c75",
+  "capturedAt": "2026-11-13T21:59:38.579Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$5x + y = 37$$\n\n$$x = 4$$\n\nIf the ordered pair $(x, y)$ is the solution to the given system of equations, what is the value of $y$?\n\n$$0$$\n\n$$17$$",
+  "choices": {},
+  "correctAnswer": "$17$",
+  "explanation": "The correct answer is $17$. Since it's given that $x = 4$, the value of $y$ can be found by substituting $4$ for $x$ in the first equation and solving for $y$. Substituting $4$ for $x$ yields $5 \\times 4 + y = 37$, or $20 + y = 37$. Subtracting $20$ from both sides of this equation yields $y = 17$.",
+  "source": "https://cooksat.com/practice?questionId=75cc8c75&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

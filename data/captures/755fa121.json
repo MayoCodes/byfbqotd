@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "755fa121",
+  "capturedAt": "2026-11-13T21:59:33.613Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A bookstore sold a total of $100$ books during a sale. A total of $$400$ was collected from these sales. The price of each hardcover book was $$5$, and the price of each paperback book was $$3$. How many hardcover books were sold?",
+  "choices": {
+    "A": "$0$",
+    "B": "$50$",
+    "C": "$60$",
+    "D": "$100$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Let $h$ be the number of hardcover books sold and $p$ be the number of paperback books sold. From the given information, $h + p = 100$ and $5h + 3p = 400$. Substituting $p = 100 - h$ into the second equation gives $5h + 3(100-h) = 400$, which simplifies to $5h + 300 - 3h = 400$, or $2h = 100$, so $h = 50$.",
+  "source": "https://cooksat.com/practice?questionId=755fa121&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

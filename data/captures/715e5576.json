@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "715e5576",
+  "capturedAt": "2026-11-13T21:59:30.664Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$24(x-p)=24y+48p$$\n\nOne equation in a system of two linear equations is given, where $p$ is a positive constant. The system has no solutions. Which could be the second equation in this system?",
+  "choices": {
+    "A": "$4x-4y=9p$",
+    "B": "$4x-4y=12p$",
+    "C": "$4x+4y=9p$",
+    "D": "$4x+4y=12p$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Simplifying the first equation: $24x-24p=24y+48p$, so $24x-24y=72p$, or $x-y=3p$. For no solutions, the second equation must have the same slope but a different constant. Option A: $4x-4y=9p$ simplifies to $x-y=\\frac{9p}{4}$. Both lines have slope $1$, and $3p \\neq \\frac{9p}{4}$, so the lines are parallel with different y-intercepts.",
+  "source": "https://cooksat.com/practice?questionId=715e5576&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aee46c8a",
+  "capturedAt": "2026-11-13T22:00:29.068Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$3x + 4y = 18$$\n\n$$5x - 2y = 3$$\n\nThe solution to the given system of equations is $(x,y)$. What is the value of $x$?\n\n$$0$$\n\n$$\\frac{24}{13},1.846$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{24}{13},1.846$",
+  "explanation": "The correct answer is $\\frac{24}{13}$. Multiplying the second equation by $2$ gives $10x - 4y = 6$. Adding this to the first equation eliminates $y$: $13x = 24$. Dividing both sides by $13$ gives $x = \\frac{24}{13}$.",
+  "source": "https://cooksat.com/practice?questionId=aee46c8a&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

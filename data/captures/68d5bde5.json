@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "68d5bde5",
+  "capturedAt": "2026-11-13T21:59:20.102Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2x + 3y = 15$$\n\n$$x + y = 6$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $y$?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$3$",
+    "D": "$4$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The second equation in the given system can be rewritten as $x = 6 - y$. Substituting $6 - y$ for $x$ in the first equation yields $2(6-y) + 3y = 15$, or $12 - 2y + 3y = 15$. Combining like terms yields $12 + y = 15$, so $y = 3$.",
+  "source": "https://cooksat.com/practice?questionId=68d5bde5&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

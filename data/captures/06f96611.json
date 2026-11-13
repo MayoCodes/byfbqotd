@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "06f96611",
+  "capturedAt": "2026-11-13T21:49:19.935Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$aligned 10x + 4y &= 6 \\\\ 2kx + 2y &= 5 aligned$$\n\nIn the given system of equations, $k$ is a constant. If the system has no solution, what is the value of $k$?\n\n$$0$$\n\n$$\\frac{5}{2},2.5$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{5}{2},2.5$",
+  "explanation": "The correct answer is $\\frac{5}{2}$. A system of two linear equations in two variables has no solution when the lines represented by the equations are parallel and distinct. Lines in the form $Ax + By = C$ and $Dx + Ey = F$ are parallel when the coefficients of $x$ and $y$ are proportional, meaning $\\frac{A}{D} = \\frac{B}{E}$. The lines are distinct (not the same line) when the constants are not proportional, meaning $\\frac{C}{F} \\neq \\frac{A}{D}$.\n\nFor the given system, the first equation is $10x + 4y = 6$ and the second equation is $2kx + 2y = 5$. For the lines to be parallel, the coefficients must satisfy:\n$\\frac{10}{2k} = \\frac{4}{2}$\n\nSimplifying the right side: $\\frac{4}{2} = 2$. Therefore:\n$\\frac{10}{2k} = 2$\n\nMultiplying both sides by $2k$:\n$10 = 4k$\n\nDividing both sides by $4$:\n$k = \\frac{10}{4} = \\frac{5}{2}$\n\nTo verify the lines are distinct when $k = \\frac{5}{2}$, check that the constants are not proportional:\n$\\frac{10}{2k} = \\frac{10}{2 \\cdot \\frac{5}{2}} = \\frac{10}{5} = 2$\n$\\frac{6}{5} = 1.2$\n\nSince $2 \\neq 1.2$, the lines are parallel and distinct, confirming the system has no solution when $k = \\frac{5}{2}$. Note that 5/2 and 2.5 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=06f96611&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

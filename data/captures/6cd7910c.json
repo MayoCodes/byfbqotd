@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6cd7910c",
+  "capturedAt": "2026-11-13T21:59:23.101Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A system of two linear equations is graphed in the $xy$-plane below.\n\n[Figure 1]\n\nWhich of the following points is the solution to the system of equations?",
+  "choices": {
+    "A": "$(3, 7)$",
+    "B": "$(4, 5)$",
+    "C": "$(5, 13)$",
+    "D": "$(6, 10)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The solution to a system of linear equations is the point that lies on both lines graphed, which is the point of intersection of the two lines. According to the graph, the point of intersection occurs when $x = 3$ and $y = 7$, or at the point $(3, 7)$.",
+  "source": "https://cooksat.com/practice?questionId=6cd7910c&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6cd7910c/1-bf3c8cf331e40195.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2cafd736",
+  "capturedAt": "2026-11-13T21:58:31.972Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{2}{3}x + \\frac{1}{4}y = \\frac{(5k)}{(12)}$$\n\n$$\\frac{1}{2}x - \\frac{3}{4}y = 0$$\n\nIn the system above, $k$ is a positive constant. Which of the following is the intersection point of the graphs in the xy-plane?",
+  "choices": {
+    "A": "$(\\frac{k}{3}, \\frac{k}{2})$",
+    "B": "$(\\frac{k}{2}, \\frac{k}{3})$",
+    "C": "$(\\frac{k}{2}, \\frac{k}{2})$",
+    "D": "$(k, 0)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "From the second equation, $\\frac{1}{2}x = \\frac{3}{4}y$, so $x = \\frac{3}{2}y$. Substituting into the first equation: $\\frac{2}{3}\\left(\\frac{3}{2}y\\right) + \\frac{1}{4}y = \\frac{5k}{12}$, giving $\\frac{5}{4}y = \\frac{5k}{12}$, so $y = \\frac{k}{3}$. Then $x = \\frac{3}{2} \\cdot \\frac{k}{3} = \\frac{k}{2}$. The intersection point is $\\left(\\frac{k}{2}, \\frac{k}{3}\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=2cafd736&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

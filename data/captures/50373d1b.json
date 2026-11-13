@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50373d1b",
+  "capturedAt": "2026-11-13T21:58:55.567Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$aligned 3x + 4y &= 18 \\\\ 5x - 2y &= 4 aligned$$\n\nWhat is the value of $2x + y$ in the solution to the given system of equations?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. To find the value of $2x + y$, we need to solve the given system for both $x$ and $y$. Using the elimination method, multiply the second equation by $2$ to match the coefficients of $y$: $2(5x - 2y) = 2(4)$ yields $10x - 4y = 8$. Adding this to the first equation $(3x + 4y) + (10x - 4y) = 18 + 8$ yields $13x = 26$, so $x = 2$. Substituting $x = 2$ into the first equation gives $3(2) + 4y = 18$, which simplifies to $6 + 4y = 18$, so $4y = 12$ and $y = 3$. Therefore, $2x + y = 2(2) + 3 = 4 + 3 = 7$.",
+  "source": "https://cooksat.com/practice?questionId=50373d1b&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

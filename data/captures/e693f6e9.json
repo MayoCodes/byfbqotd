@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e693f6e9",
+  "capturedAt": "2026-11-13T22:01:06.718Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$aligned 2x + 3y &= 13 \\\\ 4x - y &= 5 aligned$$\n\nWhat is the value of $x$ in the solution to the system of equations?\n\n$$0$$\n\n$$2$$",
+  "choices": {},
+  "correctAnswer": "$2$",
+  "explanation": "The correct answer is $2$. To solve the system of equations, we can use the elimination method. First, multiply the second equation by $3$ to make the coefficients of $y$ opposites:\n\n$$\\begin{aligned} 2x + 3y &= 13 \\\\ 3(4x - y) &= 3(5) \\end{aligned}$$\n\nThis gives us:\n$\\begin{aligned} 2x + 3y &= 13 \\\\ 12x - 3y &= 15 \\end{aligned}$\n\nNow add the two equations to eliminate $y$:\n$(2x + 3y) + (12x - 3y) = 13 + 15$\n$14x = 28$\n\nDividing both sides by $14$ yields:\n$x = 2$\n\nTo verify, substitute $x = 2$ into the first equation to find $y$:\n$2(2) + 3y = 13$\n$4 + 3y = 13$\n$3y = 9$\n$y = 3$\n\nChecking both original equations with $x=2$ and $y=3$:\nFirst equation: $2(2) + 3(3) = 4 + 9 = 13$\nSecond equation: $4(2) - 3 = 8 - 3 = 5$\n\nTherefore, the value of $x$ is $2$.",
+  "source": "https://cooksat.com/practice?questionId=e693f6e9&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

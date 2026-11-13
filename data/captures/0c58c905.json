@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0c58c905",
+  "capturedAt": "2026-11-13T21:49:27.553Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$y = 4x - 5$$\n\n$$3x + y = 37$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $x + y$?\n\n$$0$$\n\n$$25$$",
+  "choices": {},
+  "correctAnswer": "$25$",
+  "explanation": "The correct answer is $25$. It's given in the first equation that $y = 4x - 5$. Substituting $4x - 5$ for $y$ in the second equation yields $3x + (4x - 5) = 37$. Combining like terms on the left-hand side of this equation yields $7x - 5 = 37$. Adding $5$ to both sides of this equation yields $7x = 42$. Dividing both sides of this equation by $7$ yields $x = 6$. Substituting $6$ for $x$ in the first equation, $y = 4x - 5$, yields $y = 4(6) - 5$, or $y = 19$. Therefore, $x + y = 6 + 19 = 25$.",
+  "source": "https://cooksat.com/practice?questionId=0c58c905&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

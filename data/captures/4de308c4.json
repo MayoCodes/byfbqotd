@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4de308c4",
+  "capturedAt": "2026-11-13T21:58:49.850Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A zoo offers guided tours in groups of $25$ people at a time. The zoo charges $$50$ per adult and $$30$ per child. If the zoo's revenue from one group consisting of adults and children was $$970$, how many people in the group were children?",
+  "choices": {
+    "A": "$7$",
+    "B": "$11$",
+    "C": "$14$",
+    "D": "$19$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Let $x$ represent the number of children in the group and $y$ represent the number of adults. Since the group has $25$ people, $x + y = 25$. The revenue from $x$ children at $$30$ each is $30x$ dollars, and the revenue from $y$ adults at $$50$ each is $50y$ dollars. Since the total revenue was $$970$, it follows that $30x + 50y = 970$. Multiplying both sides of $x + y = 25$ by $50$ yields $50x + 50y = 1{,}250$. Subtracting $30x + 50y = 970$ from $50x + 50y = 1{,}250$ yields $(50x + 50y) - (30x + 50y) = 1{,}250 - 970$, which simplifies to $20x = 280$. Dividing both sides by $20$ yields $x = 14$. Therefore, $14$ people in the group were children.",
+  "source": "https://cooksat.com/practice?questionId=4de308c4&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

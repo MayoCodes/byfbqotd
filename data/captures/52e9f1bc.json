@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "52e9f1bc",
+  "capturedAt": "2026-11-13T21:59:00.576Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At a bakery, small cookies cost $x$ dollars each and large cookies cost $y$ dollars each. A customer buys $3$ small cookies and $4$ large cookies for a total of $$37$. If the cost of one large cookie is $$4$ more than the cost of one small cookie, what is the cost, in dollars, of one large cookie?",
+  "choices": {
+    "A": "$4$",
+    "B": "$5$",
+    "C": "$6$",
+    "D": "$7$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Since a large cookie costs $$4$ more than a small cookie, $y = x + 4$. The total cost equation is $3x + 4y = 37$. Substituting $y = x + 4$ gives $3x + 4(x + 4) = 37$, which simplifies to $3x + 4x + 16 = 37$. Combining like terms: $7x + 16 = 37$. Subtracting $16$: $7x = 21$. Dividing by $7$: $x = 3$. Therefore, $y = x + 4 = 3 + 4 = 7$.",
+  "source": "https://cooksat.com/practice?questionId=52e9f1bc&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

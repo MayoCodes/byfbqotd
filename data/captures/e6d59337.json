@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e6d59337",
+  "capturedAt": "2026-11-13T22:01:08.390Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of linear equations is shown. What is the solution $(x, y)$ to the system?",
+  "choices": {
+    "A": "$(-7, 3)$",
+    "B": "$(0, -7)$",
+    "C": "$(0, 3)$",
+    "D": "$(6, 5)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The solution to a system of linear equations is represented by the point of intersection of the two lines on the graph. According to the graph, the two lines intersect at the point where $x = 6$ and $y = 5$. Therefore, the solution $(x, y)$ to the system is $(6, 5)$.",
+  "source": "https://cooksat.com/practice?questionId=e6d59337&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e6d59337/1-7f6767ccda0a6f47.png",
+      "kind": "diagram"
+    }
+  ]
+}

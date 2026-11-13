@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "668c7ded",
+  "capturedAt": "2026-11-13T21:59:18.604Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A movie theater sells adult tickets for $$8$ each and child tickets for $$6$ each. If the movie theater sold a total of $$198$ worth of tickets for one screening and the number of adult tickets sold was twice the number of child tickets sold, how many child tickets were sold?",
+  "choices": {
+    "A": "$6$",
+    "B": "$9$",
+    "C": "$12$",
+    "D": "$18$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Let $c$ represent the number of child tickets sold and $a$ represent the number of adult tickets sold. The given information can be represented by the system $8a + 6c = 198$ and $a = 2c$. Substituting $2c$ for $a$ in the first equation yields $8(2c) + 6c = 198$, which simplifies to $16c + 6c = 198$, or $22c = 198$. Dividing both sides by $22$ yields $c = 9$.",
+  "source": "https://cooksat.com/practice?questionId=668c7ded&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

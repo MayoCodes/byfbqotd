@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7562615d",
+  "capturedAt": "2026-11-13T21:59:35.316Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A train traveled on express track and on regular track to complete a journey of $285$ miles. The journey took $6$ hours. The train traveled at an average speed of $60$ miles per hour $(mph)$ on the express track and an average speed of $35$ mph on the regular track. If $c$ is the time, in hours, the train traveled on the express track and $m$ is the time, in hours, it traveled on the regular track, which system of equations represents this situation?",
+  "choices": {
+    "A": "$35c + 60m = 6$\n\n$c + m = 285$",
+    "B": "$35c + 60m = 285$\n\n$c + m = 6$",
+    "C": "$60c + 35m = 6$\n\n$c + m = 285$",
+    "D": "$60c + 35m = 285$\n\n$c + m = 6$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. If the train traveled at an average speed of $60$ miles per hour $\\left(\\text{mph}\\right)$ on the express track for $c$ hours, then the train traveled $60c$ miles on the express track. If the train traveled at an average speed of $35$ mph on the regular track for $m$ hours, then the train traveled $35m$ miles on the regular track. It's given that the journey was $285$ miles. This can be represented by the equation $60c + 35m = 285$. It's also given that the journey took $6$ hours. This can be represented by the equation $c + m = 6$. Therefore, the system consisting of the equations $60c + 35m = 285$ and $c + m = 6$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=7562615d&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

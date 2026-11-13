@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8e47df7d",
+  "capturedAt": "2026-11-13T21:59:58.569Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$\\frac{x}{4} + 3(y - 9) = 17$$\n\n$$\\frac{x}{5} - 3(y - 9) = 23$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $9x$?\n\n$$0$$\n\n$$800$$",
+  "choices": {},
+  "correctAnswer": "$800$",
+  "explanation": "The correct answer is $800$. Adding the first equation to the second equation in the given system yields $\\left(\\frac{x}{4} + 3(y - 9)\\right) + \\left(\\frac{x}{5} - 3(y - 9)\\right) = 17 + 23$, or $\\frac{x}{4} + \\frac{x}{5} = 40$. A common denominator of $20$ gives $\\frac{5x}{20} + \\frac{4x}{20} = 40$. Combining the fractions yields $\\frac{9x}{20} = 40$. Multiplying both sides by $20$ yields $9x = 800$. Thus, the value of $9x$ is $800$.",
+  "source": "https://cooksat.com/practice?questionId=8e47df7d&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

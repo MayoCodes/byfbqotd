@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b7910a94",
+  "capturedAt": "2026-11-13T22:00:38.564Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, the graph of $y = 2x + 1$ intersects the graph of $y = 5x - 20$ at the point $(p, q)$. What is the value of $p$?",
+  "choices": {
+    "A": "$-20$",
+    "B": "$1$",
+    "C": "$7$",
+    "D": "$15$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since the graph of $y = 2x + 1$ intersects the graph of $y = 5x - 20$ at the point $(p, q)$, the ordered pair $(p, q)$ is the solution to the system of linear equations consisting of $y = 2x + 1$ and $y = 5x - 20$, and the value of $p$ is the value of $x$ in the solution of this system. Since both $2x + 1$ and $5x - 20$ are equal to $y$, it follows that $2x + 1 = 5x - 20$. Subtracting $2x$ from both sides yields $1 = 3x - 20$. Adding $20$ to both sides yields $21 = 3x$, so $x = 7$. Therefore, the value of $p$ is $7$.",
+  "source": "https://cooksat.com/practice?questionId=b7910a94&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

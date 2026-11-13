@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f8324ff8",
+  "capturedAt": "2026-11-13T22:01:21.901Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$y = \\frac{2}{5} x + 9$$\n\n$$y = n x + 4$$\n\nIn the given system of equations, $n$ is a constant. If the system has no solution, what is the value of $n$?\n\n$$0$$\n\n$$\\frac{2}{5},.4,0.4,.40,0.40$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{2}{5},.4,0.4,.40,0.40$",
+  "explanation": "The correct answer is $\\frac{2}{5}$. A system of two linear equations has no solution when the graphs of the equations have the same slope and different $y$-intercepts. Each given equation is written in slope-intercept form, $y = mx + b$, where $m$ is the slope and $b$ is the $y$-coordinate of the $y$-intercept of the graph. For these two equations, the $y$-intercepts are $(0, 9)$ and $(0, 4)$, which are different. Thus, if the system has no solution, the slopes of the graphs must be equal. The slope of the graph of the first equation is $\\frac{2}{5}$. Therefore, the value of $n$ must be $\\frac{2}{5}$. Note that 2/5, .4, 0.4, .40, and 0.40 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=f8324ff8&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

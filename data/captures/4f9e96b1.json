@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4f9e96b1",
+  "capturedAt": "2026-11-13T21:58:51.745Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2x + y = 4$$\n\n$$x - 3y = -3$$\n\nWhich of the following graphs in the $xy$-plane could be used to solve the system of equations above?",
+  "choices": {
+    "A": "[Figure 1]",
+    "B": "[Figure 2]",
+    "C": "[Figure 3]",
+    "D": "[Figure 4]"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The graph of a system of equations is the graph that shows the lines represented by each of the equations in the system. The $x$-intercept of the graph of each given equation can be found by substituting $0$ for $y$ in each equation: $2x + 0 = 4$, or $x = 2$, and $x - 3(0) = -3$, or $x = -3$. The $y$-intercept of the graph of each equation can be found by substituting $0$ for $x$ in each equation: $2(0) + y = 4$, or $y = 4$, and $0 - 3y = -3$, or $y = 1$. Using these $x$- and $y$-intercept values, the line with equation $2x + y = 4$ passes through the points $(0, 4)$ and $(2, 0)$, and the line with equation $x - 3y = -3$ passes through the points $(0, 1)$ and $(-3, 0)$. Only the lines in choice B pass through these points and can be used to solve the given system of equations.",
+  "source": "https://cooksat.com/practice?questionId=4f9e96b1&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4f9e96b1/1-ff033f9b876f35c9.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/4f9e96b1/2-796fd9c7670760b9.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/4f9e96b1/3-cab0aacef8896dbf.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/4f9e96b1/4-da671e52130bec78.png",
+      "kind": "diagram"
+    }
+  ]
+}

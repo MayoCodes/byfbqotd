@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e8cdc88e",
+  "capturedAt": "2026-11-13T22:01:10.366Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$2x+3y=12$$\n\n$$4x-y=5$$\n\nThe given system of equations has solution $(x,y)$. What is the value of $x$?\n\n$$0$$\n\n$$\\frac{27}{14},1.928,1.929$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{27}{14},1.928,1.929$",
+  "explanation": "The correct answer is $\\frac{27}{14}$. Multiplying the second equation by $3$ gives $12x-3y=15$. Adding this to the first equation eliminates $y$: $14x=27$. Dividing both sides by $14$ gives $x=\\frac{27}{14}$.",
+  "source": "https://cooksat.com/practice?questionId=e8cdc88e&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50638c96",
+  "capturedAt": "2026-11-13T21:58:57.317Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A school district bond measure appeared on a recent ballot. A newspaper article reported that $4$ times as many people voted for the bond measure as people who voted against it. A community newsletter stated that $18,000$ more people voted for the bond measure than voted against it. Based on these data, how many people voted against the bond measure?",
+  "choices": {
+    "A": "$6,000$",
+    "B": "$18,000$",
+    "C": "$24,000$",
+    "D": "$72,000$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Let $x$ represent the number of people who voted against the bond measure. Since $4$ times as many people voted for the bond measure as voted against it, $4x$ is the number of people who voted for the bond measure. Therefore, $4x - x$, or $3x$, represents how many more people voted for the bond measure than voted against it. Since $18{,}000$ more people voted for the bond measure than voted against it, $3x = 18{,}000$. Dividing both sides by $3$ gives $x = 6{,}000$. Therefore, $6{,}000$ people voted against the bond measure.",
+  "source": "https://cooksat.com/practice?questionId=50638c96&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

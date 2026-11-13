@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1055d242",
+  "capturedAt": "2026-11-13T21:49:32.564Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$\\ arrayl kx + 4y = 10 \\\\ 3x + 8y = 16 array .$$\n\nIn the given system of equations, $k$ is a constant. If the system has no solution, what is the value of $k$?\n\n$$0$$\n\n$$\\frac{3}{2},1.5,1.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{3}{2},1.5,1.50$",
+  "explanation": "The correct answer is $\\frac{3}{2}$. A system of two linear equations in two variables has no solution when the lines represented by the equations are parallel and distinct. Lines in the form $Ax + By = C$ and $Dx + Ey = F$ are parallel when the coefficients are proportional: $\\frac{D}{A} = \\frac{E}{B}$. The lines are distinct when the constants are not proportional to the coefficients: $\\frac{F}{C} \\neq \\frac{D}{A}$. In the given system, the first equation is $kx + 4y = 10$ and the second is $3x + 8y = 16$. For the lines to be parallel, the proportion $\\frac{3}{k} = \\frac{8}{4}$ must be true. Simplifying the right side gives $\\frac{3}{k} = 2$. Multiplying both sides by $k$ yields $3 = 2k$, so $k = \\frac{3}{2}$. To confirm the lines are distinct, check that $\\frac{16}{10} \\neq \\frac{3}{k}$. With $k = \\frac{3}{2}$, we have $\\frac{3}{3/2} = 2$ and $\\frac{16}{10} = \\frac{8}{5}$. Since $\\frac{8}{5} \\neq 2$, the lines are parallel and distinct, confirming the system has no solution when $k = \\frac{3}{2}$. Note that 3/2, 1.5, and 1.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=1055d242&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

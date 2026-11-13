@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "789fd279",
+  "capturedAt": "2026-11-13T21:59:41.514Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$4y = 6x + 8$$\n\n$$-4y = 9x - 13$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $45x$?\n\n$$0$$\n\n$$15$$",
+  "choices": {},
+  "correctAnswer": "$15$",
+  "explanation": "The correct answer is $15$. Adding the first equation to the second equation in the given system yields $4y - 4y = 6x + 9x + 8 - 13$, or $0 = 15x - 5$. Adding $5$ to both sides of this equation yields $5 = 15x$. Multiplying both sides of this equation by $3$ yields $15 = 45x$. Therefore, the value of $45x$ is $15$.",
+  "source": "https://cooksat.com/practice?questionId=789fd279&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "004d88ec",
+  "capturedAt": "2026-11-13T21:49:14.699Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A museum sold tickets for a special exhibit. Adult tickets cost $$18$ each, and child tickets cost $$12$ each. A group purchased a total of $42$ tickets and paid a total of $$654$. If $a$ represents the number of adult tickets purchased and $c$ represents the number of child tickets purchased, which of the following systems of equations can be solved to find $a$ and $c$?",
+  "choices": {
+    "A": "$18a + 12c = 42$\n\n$a + c = 654$",
+    "B": "$18a + 12c = 654$\n\n$a + c = 42$",
+    "C": "$18c + 12a = 42$\n\n$a + c = 654$",
+    "D": "$18c + 12a = 654$\n\n$a + c = 42$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Adult tickets cost $$18$ each and the group purchased $a$ adult tickets, so the group spent $$18a$ on adult tickets. Similarly, child tickets cost $$12$ each and the group purchased $c$ child tickets, so the group spent $$12c$ on child tickets. Since the group paid a total of $$654$, the equation $18a + 12c = 654$ must be true. And since the group purchased a total of $42$ tickets, the equation $a + c = 42$ must also be true.",
+  "source": "https://cooksat.com/practice?questionId=004d88ec&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

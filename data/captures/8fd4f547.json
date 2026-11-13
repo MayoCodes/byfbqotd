@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8fd4f547",
+  "capturedAt": "2026-11-13T22:00:00.050Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y=2x+5$$\n\n$$y=x-2$$\n\nThe solution to the given system of equations is $(x,y)$. What is the value of $x$?",
+  "choices": {
+    "A": "$-7$",
+    "B": "$-2$",
+    "C": "$2$",
+    "D": "$5$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since both equations are equal to $y$, the right-hand sides can be set equal to each other: $2x+5=x-2$. Subtracting $x$ from both sides gives $x+5=-2$. Subtracting $5$ from both sides yields $x=-7$.",
+  "source": "https://cooksat.com/practice?questionId=8fd4f547&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

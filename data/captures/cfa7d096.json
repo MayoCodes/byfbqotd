@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cfa7d096",
+  "capturedAt": "2026-11-13T22:00:46.918Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A ribbon with a length of $140$ centimeters is cut into two parts. One part has a length of $x$ centimeters, and the other part has a length of $y$ centimeters. The value of $x$ is $8$ more than $3$ times the value of $y$. What is the value of $x$?",
+  "choices": {
+    "A": "$33$",
+    "B": "$41$",
+    "C": "$74$",
+    "D": "$107$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that a ribbon with a length of $140$ centimeters is cut into two parts with lengths of $x$ centimeters and $y$ centimeters. This can be represented by the equation $x + y = 140$. It's also given that the value of $x$ is $8$ more than $3$ times the value of $y$, which can be represented by the equation $x = 3y + 8$. Substituting $3y + 8$ for $x$ in the equation $x + y = 140$ yields $3y + 8 + y = 140$, or $4y + 8 = 140$. Subtracting $8$ from each side yields $4y = 132$. Dividing each side by $4$ yields $y = 33$. Substituting $33$ for $y$ in the equation $x = 3y + 8$ yields $x = 3(33) + 8$, or $x = 107$.",
+  "source": "https://cooksat.com/practice?questionId=cfa7d096&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

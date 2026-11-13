@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5a0a1604",
+  "capturedAt": "2026-11-13T21:59:04.971Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 6x - 8$$\n\n$$y = 22$$\n\nWhat is the solution $(x, y)$ to the given system of equations?",
+  "choices": {
+    "A": "$(5, 22)$",
+    "B": "$(8, 22)$",
+    "C": "$(22, 5)$",
+    "D": "$(22, 8)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The second equation gives $y = 22$. Substituting $22$ for $y$ in the first equation yields $22 = 6x - 8$. Adding $8$ to both sides gives $30 = 6x$. Dividing both sides by $6$ yields $x = 5$. Therefore, the solution $(x, y)$ to the given system of equations is $(5, 22)$.",
+  "source": "https://cooksat.com/practice?questionId=5a0a1604&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

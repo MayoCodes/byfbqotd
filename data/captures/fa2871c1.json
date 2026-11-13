@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fa2871c1",
+  "capturedAt": "2026-11-13T22:01:24.799Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = \\frac{3}{8} x + 5$$\n\nOne of the two equations in a system of linear equations is given. The system has infinitely many solutions. If the second equation in the system is $y = n x + b$, where $n$ and $b$ are constants, what is the value of $b$?",
+  "choices": {
+    "A": "$-5$",
+    "B": "$-\\frac{8}{3}$",
+    "C": "$\\frac{8}{3}$",
+    "D": "$5$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that the system has infinitely many solutions. Two lines in the xy-plane represented by equations in slope-intercept form, $y = nx + b$, where $n$ and $b$ are constants, have infinitely many solutions in common if their slopes, $n$, are equal and if the y-coordinates of their y-intercepts, $b$, are equal. The first equation in the given system is $y = \\frac{3}{8}x + 5$. For this equation, the slope is $\\frac{3}{8}$ and the y-coordinate of the y-intercept is $5$. If the second equation is in the form $y = nx + b$, then for the two equations to be equivalent, the values of $n$ and $b$ in the second equation must equal the corresponding values in the first equation. Therefore, the second equation must have a slope, $n$, of $\\frac{3}{8}$, and a y-coordinate of the y-intercept, $b$, of $5$. Thus, the value of $b$ is $5$.",
+  "source": "https://cooksat.com/practice?questionId=fa2871c1&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

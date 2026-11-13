@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "836f6d8d",
+  "capturedAt": "2026-11-13T21:59:50.447Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A student earns $$12$ per hour working as a cashier. She earns $$15$ per hour working as a tutor. After working a total of $30$ hours as a cashier and a tutor, she earned $$372$. Which system of equations represents this situation, where $c$ is the number of hours the student worked as a cashier and $t$ is the number of hours the student worked as a tutor?",
+  "choices": {
+    "A": "$c + t = 30$, $12c + 15t = 372$",
+    "B": "$c + t = 372$, $12c + 15t = 30$",
+    "C": "$c + t = 12$, $15c + t = 372$",
+    "D": "$12c + 15t = 30$, $c + t = 372$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The student worked a total of $30$ hours, so $c + t = 30$. She earned $$12$ per hour as a cashier for $c$ hours and $$15$ per hour as a tutor for $t$ hours, totaling $$372$, so $12c + 15t = 372$.",
+  "source": "https://cooksat.com/practice?questionId=836f6d8d&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

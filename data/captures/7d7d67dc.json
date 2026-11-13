@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7d7d67dc",
+  "capturedAt": "2026-11-13T21:59:47.581Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$7x + 6y = 21$$\n\n$$14x + 5y = 21$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $xy$?\n\n$$0$$\n\n$$\\frac{9}{7},1.285,1.286$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{9}{7},1.285,1.286$",
+  "explanation": "The correct answer is $\\frac{9}{7}$. Multiplying the first equation in the given system by $-2$ yields $-14x - 12y = -42$. Adding this equation to the second equation in the given system yields $(-14x - 12y) + (14x + 5y) = -42 + 21$, or $-7y = -21$. Dividing both sides of this equation by $-7$ yields $y = 3$. Substituting $3$ for $y$ in the first equation of the given system yields $7x + 6(3) = 21$, or $7x + 18 = 21$. Subtracting $18$ from both sides of this equation yields $7x = 3$. Dividing both sides of this equation by $7$ yields $x = \\frac{3}{7}$. Therefore, $xy = \\frac{3}{7}(3) = \\frac{9}{7}$. Note that 9/7, 1.285, and 1.286 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=7d7d67dc&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

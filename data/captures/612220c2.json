@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "612220c2",
+  "capturedAt": "2026-11-13T21:59:07.815Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An aquarium charges $$14$ for each adult ticket and $$9.50$ for each child ticket. On one day, the aquarium sold a total of $180$ adult and child tickets for $$2,250$. Which of the following systems of equations could be used to determine the number of adult tickets, $a$, and the number of child tickets, $c$, sold?",
+  "choices": {
+    "A": "$a + c = 180$\n\n$9.50a + 14c = 2,250$",
+    "B": "$a + c = 180$\n\n$14a + 9.50c = 2,250$",
+    "C": "$a + c = 2,250$\n\n$9.50a + 14c = 180$",
+    "D": "$a + c = 2,250$\n\n$14a + 9.50c = 180$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The aquarium sells $a$ adult tickets and $c$ child tickets, so the total number of tickets sold is $a + c$. Since the aquarium sold a total of $180$ adult and child tickets, it follows that $a + c = 180$. The aquarium charges $$14$ for each adult ticket; thus, the sales for adult tickets, in dollars, is given by $14a$. The aquarium charges $$9.50$ for each child ticket; thus, the sales for child tickets, in dollars, is given by $9.50c$. Therefore, the total sales, in dollars, is given by $14a + 9.50c$. Since the total sales for all adult and child tickets is $$2{,}250$, it follows that $14a + 9.50c = 2{,}250$.",
+  "source": "https://cooksat.com/practice?questionId=612220c2&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

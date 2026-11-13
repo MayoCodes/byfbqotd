@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eaead6cc",
+  "capturedAt": "2026-11-13T22:01:11.832Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$-12x+14y=36$$\n\n$$-6x+7y=-18$$\n\nHow many solutions does the given system of equations have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "A",
+  "explanation": "A system has zero solutions when the lines are parallel and distinct (same slope, different y-intercepts). Dividing the first equation by $14$ yields $y=\\frac{6}{7}x+\\frac{18}{7}$, which has slope $\\frac{6}{7}$ and y-intercept $(0,\\frac{18}{7})$. Dividing the second equation by $7$ yields $y=\\frac{6}{7}x-\\frac{18}{7}$, which has slope $\\frac{6}{7}$ and y-intercept $(0,-\\frac{18}{7})$. Since the slopes are equal but the y-intercepts differ, the system has zero solutions.",
+  "source": "https://cooksat.com/practice?questionId=eaead6cc&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

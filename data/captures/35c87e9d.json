@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "35c87e9d",
+  "capturedAt": "2026-11-13T21:58:33.782Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The combined original price for a backpack and a globe is $$80$. After a $20%$ discount to the backpack and a $40%$ discount to the globe are applied, the combined sale price for the two items is $$58$. Which system of equations gives the original price $b$, in dollars, of the backpack and the original price $g$, in dollars, of the globe?",
+  "choices": {
+    "A": "$b + g = 80$\n\n$0.20 b + 0.40 g = 58$",
+    "B": "$b + g = 80$\n\n$0.40 b + 0.20 g = 58$",
+    "C": "$b + g = 80$\n\n$0.60 b + 0.80 g = 58$",
+    "D": "$b + g = 80$\n\n$0.80 b + 0.60 g = 58$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $b$ represents the original price, in dollars, of the backpack, and $g$ represents the original price, in dollars, of the globe. It's also given that the combined original price for the backpack and the globe is $$80$. This can be represented by the equation $b + g = 80$. After a $20\\%$ discount to the backpack is applied, the sale price of the backpack is $80\\%$ of its original price. This can be represented by the expression $0.80 b$. After a $40\\%$ discount to the globe is applied, the sale price of the globe is $60\\%$ of its original price. This can be represented by the expression $0.60 g$. It's given that the combined sale price for the two items is $$58$. This can be represented by the equation $0.80 b + 0.60 g = 58$. Therefore, the system of equations consisting of the equations $b + g = 80$ and $0.80 b + 0.60 g = 58$ gives the original price $b$, in dollars, of the backpack and the original price $g$, in dollars, of the globe.",
+  "source": "https://cooksat.com/practice?questionId=35c87e9d&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

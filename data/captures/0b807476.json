@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0b807476",
+  "capturedAt": "2026-11-13T21:49:25.963Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Brandon has $b$ books and Gabriela has $g$ books. Brandon has $5$ times as many books as Gabriela, and together they have a total of $42$ books. Which system of equations represents this situation?",
+  "choices": {
+    "A": "$b = 5g$\n\n$b + g = 42$",
+    "B": "$g = 5b$\n\n$b + g = 42$",
+    "C": "$b = 42g$\n\n$b + g = 5$",
+    "D": "$g = 42b$\n\n$b + g = 5$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that Brandon has $b$ books, Gabriela has $g$ books, and Brandon has $5$ times as many books as Gabriela. This can be represented by the equation $b = 5g$. It's also given that together, Brandon and Gabriela have a total of $42$ books, which can be represented by the equation $b + g = 42$. Therefore, the system consisting of the equations $b = 5g$ and $b + g = 42$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=0b807476&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

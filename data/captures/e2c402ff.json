@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e2c402ff",
+  "capturedAt": "2026-11-13T22:00:59.014Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2x+y=8$$\n\n$$x-y=1$$\n\nWhat is the solution $(x,y)$ to the given system of equations?",
+  "choices": {
+    "A": "$(2,3)$",
+    "B": "$(3,5)$",
+    "C": "$(3,2)$",
+    "D": "$(1,6)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Adding the two equations yields $(2x+y)+(x-y)=8+1$, which simplifies to $3x=9$, or $x=3$. Substituting $3$ for $x$ in the second equation yields $3-y=1$, so $y=2$. Therefore, the solution is $(3,2)$.",
+  "source": "https://cooksat.com/practice?questionId=e2c402ff&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dc51fd65",
+  "capturedAt": "2026-11-13T22:00:54.548Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Marcus drove on the interstate and on country roads to complete a trip of $210$ miles. The drive took $6$ hours. He drove an average speed of $55$ miles per hour (mph) on the interstate and an average speed of $25$ mph on country roads. If $c$ is the time, in hours, Marcus drove on the interstate and $m$ is the time, in hours, he drove on country roads, which system of equations represents this situation?",
+  "choices": {
+    "A": "$25c + 55m = 6$\n\n$c + m = 210$",
+    "B": "$25c + 55m = 210$\n\n$c + m = 6$",
+    "C": "$55c + 25m = 6$\n\n$c + m = 210$",
+    "D": "$55c + 25m = 210$\n\n$c + m = 6$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $c$ is the time, in hours, Marcus drove on the interstate and $m$ is the time, in hours, he drove on country roads. Since the total drive took $6$ hours, it follows that $c + m = 6$. The distance traveled on the interstate can be represented by the product of his average speed on the interstate and the time he drove on the interstate, or $55c$. Similarly, the distance traveled on country roads can be represented by $25m$. It's given that the total trip was $210$ miles, so $55c + 25m = 210$. Therefore, the system of equations $55c + 25m = 210$ and $c + m = 6$ represents this situation.",
+  "source": "https://cooksat.com/practice?questionId=dc51fd65&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

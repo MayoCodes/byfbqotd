@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0f7da9c8",
+  "capturedAt": "2026-11-13T21:49:30.962Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 6x - 5$$\n\n$$y = 13$$\n\nWhat is the solution $(x, y)$ to the given system of equations?",
+  "choices": {
+    "A": "$(3, 13)$",
+    "B": "$(6, 13)$",
+    "C": "$(13, 3)$",
+    "D": "$(13, 6)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The second equation gives $y = 13$. Substituting $13$ for $y$ in the first equation yields $13 = 6x - 5$. Adding $5$ to both sides gives $18 = 6x$. Dividing both sides by $6$ gives $x = 3$. Therefore, the solution $(x, y)$ to the given system is $(3, 13)$.",
+  "source": "https://cooksat.com/practice?questionId=0f7da9c8&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

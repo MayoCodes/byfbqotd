@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "42488314",
+  "capturedAt": "2026-11-13T21:58:40.431Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A concert venue sells a certain number of general-admission tickets, $g$, for $$15$ each. It sells the number of remaining reserved-seat tickets, $r$, for $$40$ each. For a particular show, the venue sold $200$ tickets and collected a total of $$6,000$ from the sale of those tickets. Which system of equations represents this relationship between $g$ and $r$?",
+  "choices": {
+    "A": "$15g = 40r$\n\n$200g + 200r = 6,000$",
+    "B": "$g + r = 200$\n\n$15g + 40r = 6,000$",
+    "C": "$g + r = 200$\n\n$15g + 40r = 200 \\times 6,000$",
+    "D": "$g + r = 6,000$\n\n$15g + 40r = 200 \\times 6,000$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The venue sold two types of tickets for this show: $g$ general-admission tickets at $$15$ each and $r$ reserved-seat tickets at $$40$ each. Because the venue sold a total of $200$ tickets, it must be true that $g + r = 200$. The amount, in dollars, collected from the sale of $g$ tickets at $$15$ each is represented by $15g$. The amount, in dollars, collected from the sale of the remaining $r$ tickets at $$40$ each is represented by $40r$. It is given that a total of $$6{,}000$ was collected from the sale of all tickets. Therefore, it must also be true that $15g + 40r = 6{,}000$.",
+  "source": "https://cooksat.com/practice?questionId=42488314&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

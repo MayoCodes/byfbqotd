@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d2a9b091",
+  "capturedAt": "2026-11-13T22:00:50.215Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$6x = 30$$\n\n$$-5x + y = -12$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $x + y$?",
+  "choices": {
+    "A": "$-18$",
+    "B": "$8$",
+    "C": "$18$",
+    "D": "$42$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Adding the second equation of the given system to the first equation yields $6x + (-5x + y) = 30 + (-12)$, which is equivalent to $x + y = 18$. Therefore, the value of $x + y$ is $18$.",
+  "source": "https://cooksat.com/practice?questionId=d2a9b091&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

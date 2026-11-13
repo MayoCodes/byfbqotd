@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b9549a0",
+  "capturedAt": "2026-11-13T21:59:46.109Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "During a summer, Priya walked $w$ miles at $4$ miles per hour and kayaked $k$ miles at $8$ miles per hour. She walked and kayaked a total of $280$ miles that summer, and she kayaked for $3$ times as many hours as she walked. What is the total number of miles that Priya kayaked during the summer?",
+  "choices": {
+    "A": "$40$",
+    "B": "$140$",
+    "C": "$210$",
+    "D": "$240$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The number of hours Priya spent on each activity equals the distance divided by the rate, so she walked for $\\frac{w}{4}$ hours and kayaked for $\\frac{k}{8}$ hours. Since she kayaked for $3$ times as many hours as she walked, this can be represented by $\\frac{k}{8} = 3 \\cdot \\frac{w}{4}$, which simplifies to $k = 6w$. Since the total distance is $280$ miles, $w + k = 280$. Substituting $6w$ for $k$ gives $w + 6w = 280$, or $7w = 280$, so $w = 40$. Then $k = 280 - 40 = 240$. Therefore, Priya kayaked $240$ miles.",
+  "source": "https://cooksat.com/practice?questionId=7b9549a0&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

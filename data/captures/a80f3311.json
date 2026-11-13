@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a80f3311",
+  "capturedAt": "2026-11-13T22:00:24.599Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = \\frac{1}{4} x$$\n\n$$y = -\\frac{1}{6} x$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $x$?",
+  "choices": {
+    "A": "$-6$",
+    "B": "$0$",
+    "C": "$4$",
+    "D": "$10$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The first equation gives $y = \\frac{1}{4} x$. Substituting $\\frac{1}{4} x$ for $y$ in the second equation, $y = -\\frac{1}{6} x$, yields $\\frac{1}{4} x = -\\frac{1}{6} x$. Adding $\\frac{1}{6} x$ to both sides gives $\\frac{1}{4} x + \\frac{1}{6} x = 0$, which is equivalent to $\\frac{3}{12} x + \\frac{2}{12} x = 0$, or $\\frac{5}{12} x = 0$. Multiplying both sides by $\\frac{12}{5}$ yields $x = 0$. Therefore, the value of $x$ is $0$.",
+  "source": "https://cooksat.com/practice?questionId=a80f3311&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

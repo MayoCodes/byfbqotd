@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a8e292af",
+  "capturedAt": "2026-11-13T22:00:26.041Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$aligned 2x + 3y &= 12 \\\\ x - y &= 3 aligned$$\n\nWhat is the value of $x$ in the solution to the system of equations?\n\n$$0$$\n\n$$\\frac{21}{5},4.2,4.20$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{21}{5},4.2,4.20$",
+  "explanation": "The correct answer is $\\frac{21}{5}$. To solve the system of equations, we can use the substitution method. From the second equation $x - y = 3$, adding $y$ to both sides yields $x = y + 3$. Substituting $y + 3$ for $x$ in the first equation yields $2(y + 3) + 3y = 12$. Distributing the 2 gives $2y + 6 + 3y = 12$. Combining like terms yields $5y + 6 = 12$. Subtracting 6 from both sides gives $5y = 6$. Dividing both sides by 5 yields $y = \\frac{6}{5}$. Substituting $\\frac{6}{5}$ for $y$ in $x = y + 3$ gives $x = \\frac{6}{5} + 3 = \\frac{6}{5} + \\frac{15}{5} = \\frac{21}{5}$. Verification: substituting into the first equation gives $2\\left(\\frac{21}{5}\\right) + 3\\left(\\frac{6}{5}\\right) = \\frac{42}{5} + \\frac{18}{5} = \\frac{60}{5} = 12$, and into the second equation gives $\\frac{21}{5} - \\frac{6}{5} = \\frac{15}{5} = 3$. Therefore, the value of $x$ is $\\frac{21}{5}$. Note that 21/5, 4.2, and 4.20 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=a8e292af&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

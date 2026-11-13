@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cb9b9f8d",
+  "capturedAt": "2026-11-13T22:00:44.977Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following systems of equations has the same solution as the system of equations graphed above?",
+  "choices": {
+    "A": "$y = 0$\n\n$x = \\frac{5}{2}$",
+    "B": "$y = 0$\n\n$x = 2$",
+    "C": "$y = \\frac{5}{2}$\n\n$x = 0$",
+    "D": "$y = 2$\n\n$x = 0$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The solution to a system of equations is the coordinates of the intersection point of the graphs of the equations in the $xy$-plane. Based on the graph, the solution to the given system of equations is best approximated as $\\left(\\frac{5}{2}, 0\\right)$. In the $xy$-plane, the graph of $y = 0$ is a horizontal line on which every $y$-coordinate is $0$, and the graph of $x = \\frac{5}{2}$ is a vertical line on which every $x$-coordinate is $\\frac{5}{2}$. These graphs intersect at the point $\\left(\\frac{5}{2}, 0\\right)$. Therefore, the system of equations in choice A has the same solution as the given system.",
+  "source": "https://cooksat.com/practice?questionId=cb9b9f8d&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/cb9b9f8d/1-c6d859d4007220f4.png",
+      "kind": "diagram"
+    }
+  ]
+}

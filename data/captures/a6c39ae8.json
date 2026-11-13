@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a6c39ae8",
+  "capturedAt": "2026-11-13T22:00:19.772Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of linear equations is shown. What is the solution $(x, y)$ to the system?",
+  "choices": {
+    "A": "$(-8, 0)$",
+    "B": "$(-4, 4)$",
+    "C": "$(-2, 0)$",
+    "D": "$(0, 8)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The solution to a system of linear equations is represented by the point that lies on both lines, which is the point where the lines intersect. On the graph shown, the two lines intersect at the point $\\left(-4, 4\\right)$. Therefore, the solution to the system is $\\left(-4, 4\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=a6c39ae8&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a6c39ae8/1-75c163185f0524a3.png",
+      "kind": "diagram"
+    }
+  ]
+}

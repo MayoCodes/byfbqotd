@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "44a4f438",
+  "capturedAt": "2026-11-13T21:58:43.472Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$8x = 72$$\n\n$$5x - 38 = y$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $y$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$9$",
+    "C": "$38$",
+    "D": "$72$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Dividing both sides of the equation $8x = 72$ by $8$ yields $x = 9$. Substituting $9$ for $x$ in the equation $5x - 38 = y$ yields $5(9) - 38 = y$, which is equivalent to $45 - 38 = y$, or $7 = y$. Therefore, the value of $y$ is $7$.",
+  "source": "https://cooksat.com/practice?questionId=44a4f438&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

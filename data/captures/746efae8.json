@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "746efae8",
+  "capturedAt": "2026-11-13T21:59:32.067Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$3x+2y=16$$\n\n$$5x-3y=9$$\n\nThe system of equations above has solution $(x,y)$. What is the value of $x$?\n\n$$0$$\n\n$$\\frac{66}{19},3.473,3.474$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{66}{19},3.473,3.474$",
+  "explanation": "The correct answer is $\\frac{66}{19}$. Multiplying the first equation by $3$ gives $9x+6y=48$. Multiplying the second equation by $2$ gives $10x-6y=18$. Adding these two equations eliminates $y$: $19x=66$. Dividing both sides by $19$ gives $x=\\frac{66}{19}$.",
+  "source": "https://cooksat.com/practice?questionId=746efae8&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

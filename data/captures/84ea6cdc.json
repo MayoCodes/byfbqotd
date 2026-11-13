@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "84ea6cdc",
+  "capturedAt": "2026-11-13T21:59:51.890Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$3x+4y=10$$\n\n$$5x-2y=3$$\n\nFor the solution $(x,y)$ to the given system of equations, what is the value of $x+y$?\n\n$$0$$\n\n$$\\frac{73}{26},2.807,2.808$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{73}{26},2.807,2.808$",
+  "explanation": "The correct answer is $\\frac{73}{26}$. Multiplying the second equation by $2$ gives $10x-4y=6$. Adding this to the first equation eliminates $y$: $13x=16$, so $x=\\frac{16}{13}$. Substituting into the first equation: $3\\left(\\frac{16}{13}\\right)+4y=10$, which gives $\\frac{48}{13}+4y=10$. Solving yields $4y=\\frac{82}{13}$, so $y=\\frac{41}{26}$. Therefore, $x+y=\\frac{32}{26}+\\frac{41}{26}=\\frac{73}{26}$.",
+  "source": "https://cooksat.com/practice?questionId=84ea6cdc&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

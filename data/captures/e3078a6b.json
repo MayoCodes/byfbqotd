@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e3078a6b",
+  "capturedAt": "2026-11-13T22:01:00.617Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A concert venue sells two types of passes, standard passes for $$15$ and premium passes for $$25$. If the venue sold $40$ passes for a total of $$850$, how much, in dollars, was spent on premium passes? (Disregard the $ sign when gridding your answer.)\n\n$$0$$\n\n$$625$$",
+  "choices": {},
+  "correctAnswer": "$625$",
+  "explanation": "The correct answer is $625$. Let $s$ be the number of standard passes sold and $p$ be the number of premium passes sold. Since the venue sold a total of $40$ passes, $s + p = 40$. The price per standard pass is $$15$, and the price per premium pass is $$25$. Since the venue received a total of $$850$, it follows that $15s + 25p = 850$. To eliminate $s$, the first equation can be multiplied by $15$ and then subtracted from the second equation: $15s + 25p = 850$ and $-15s - 15p = -600$ gives $10p = 250$, so $p = 25$. Because the question asks for the amount spent on premium passes, which is $25p$ dollars, the amount is $25(25) = 625$. Therefore, $$625$ was spent on premium passes.\n\nAlternate approach: If all $40$ passes sold were standard passes, the total would be $40(15) = 600$ dollars. Since the actual total was $$850$, the extra $$250$ indicates the number of premium passes, $p$. Since each premium pass costs $$10$ more than a standard pass, $10p = 250$, so $p = 25$ and $25p = 625$.",
+  "source": "https://cooksat.com/practice?questionId=e3078a6b&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

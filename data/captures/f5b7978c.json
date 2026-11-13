@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f5b7978c",
+  "capturedAt": "2026-11-13T22:01:18.532Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of two linear equations is shown.\n\nThe solution to the system is $(x, y)$. What is the value of $y$?",
+  "choices": {
+    "A": "$-2$",
+    "B": "$1$",
+    "C": "$2$",
+    "D": "$4$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The solution to a system of linear equations is the point where the two lines intersect. According to the graph, the two lines intersect at the point $(2, 2)$. Therefore, the value of $y$ is $2$.",
+  "source": "https://cooksat.com/practice?questionId=f5b7978c&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f5b7978c/1-4b40e4cbf0f0131d.png",
+      "kind": "diagram"
+    }
+  ]
+}

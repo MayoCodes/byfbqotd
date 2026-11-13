@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4c5957ef",
+  "capturedAt": "2026-11-13T21:58:48.437Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$-12x+16y=48$$\n\n$$-3x+4y=8$$\n\nHow many solutions does the given system of equations have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "A",
+  "explanation": "A system of two linear equations has zero solutions when the lines are parallel and distinct. Converting the first equation to slope-intercept form: $16y=12x+48$, so $y=\\frac{3}{4}x+3$. Converting the second equation: $4y=3x+8$, so $y=\\frac{3}{4}x+2$. Both lines have slope $\\frac{3}{4}$ but different y-intercepts (3 and 2), so they are parallel and distinct, resulting in zero solutions.",
+  "source": "https://cooksat.com/practice?questionId=4c5957ef&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

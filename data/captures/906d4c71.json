@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "906d4c71",
+  "capturedAt": "2026-11-13T22:00:01.556Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $k$ is defined by $y = \\frac{2}{5}x + 4$ and line $m$ is defined by $y = -2x + c$, where $c$ is a constant. If lines $k$ and $m$ intersect at exactly one point, and the $y$-coordinate of this intersection point is twice the $x$-coordinate, what is the value of $c$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$6$",
+    "C": "$10$",
+    "D": "$14$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Let the intersection point be $(x, y)$ where $y = 2x$. Since this point lies on line $k$: $2x = \\frac{2}{5}x + 4$. Multiplying both sides by $5$: $10x = 2x + 20$. Subtracting $2x$ from both sides: $8x = 20$, so $x = \\frac{20}{8} = \\frac{5}{2}$. Then $y = 2x = 2 \\cdot \\frac{5}{2} = 5$. Since this point also lies on line $m$: $5 = -2\\left(\\frac{5}{2}\\right) + c = -5 + c$. Therefore, $c = 10$.",
+  "source": "https://cooksat.com/practice?questionId=906d4c71&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

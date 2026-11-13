@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e3e1ddde",
+  "capturedAt": "2026-11-13T22:01:02.085Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$2x + y = 10$$\n\n$$3x - y = 5$$\n\nFor the system of equations above, what is the value of $x$?\n\n$$0$$\n\n$$3$$",
+  "choices": {},
+  "correctAnswer": "$3$",
+  "explanation": "The correct answer is $3$. Adding the two equations eliminates $y$: $(2x + y) + (3x - y) = 10 + 5$, which simplifies to $5x = 15$. Dividing both sides by $5$ gives $x = 3$.",
+  "source": "https://cooksat.com/practice?questionId=e3e1ddde&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

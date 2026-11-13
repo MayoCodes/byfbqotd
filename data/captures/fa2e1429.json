@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fa2e1429",
+  "capturedAt": "2026-11-13T22:01:26.266Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$63x + 45y - 180 = -396$$\n\n$$2cx + 5y = -24$$\n\nIn the given system of equations, $c$ is a constant. The system has infinitely many solutions. What is the value of $c$?\n\n$$0$$\n\n$$\\frac{7}{2},3.5,3.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{7}{2},3.5,3.50$",
+  "explanation": "The correct answer is $\\frac{7}{2}$. A system of two linear equations in two variables has infinitely many solutions when the equations represent the same line; that is, when all corresponding coefficients are proportional. The first equation, $63x + 45y - 180 = -396$, can be rewritten as $63x + 45y = -216$. Dividing both sides by $9$ yields $7x + 5y = -24$. The second equation is $2cx + 5y = -24$. For the system to have infinitely many solutions, the coefficient of $x$ in the second equation, $2c$, must equal the coefficient of $x$ in the first equation, $7$. Therefore, $2c = 7$, which gives $c = \\frac{7}{2}$. Note that 7/2, 3.5, and 3.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=fa2e1429&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8266c528",
+  "capturedAt": "2026-11-13T21:59:49.001Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$3x+4y=18$$\n\n$$2x-5y=-9$$\n\nThe given system of equations has solution $(x,y)$. What is the value of $x$?\n\n$$0$$\n\n$$\\frac{54}{23},2.347,2.348$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{54}{23},2.347,2.348$",
+  "explanation": "The correct answer is $\\frac{54}{23}$. Multiplying the first equation by $5$ gives $15x+20y=90$. Multiplying the second equation by $4$ gives $8x-20y=-36$. Adding these two equations eliminates $y$: $23x=54$. Dividing both sides by $23$ gives $x=\\frac{54}{23}$.",
+  "source": "https://cooksat.com/practice?questionId=8266c528&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

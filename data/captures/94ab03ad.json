@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "94ab03ad",
+  "capturedAt": "2026-11-13T22:00:03.268Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$aligned 3x+2y&=8 \\\\ 2x+5y&=9 aligned$$\n\nWhat is the solution $(x,y)$ to the given system of equations?",
+  "choices": {
+    "A": "$(3,-\\frac{1}{2})$",
+    "B": "$(1,2)$",
+    "C": "$(2,1)$",
+    "D": "$(1,\\frac{7}{5})$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Multiply the first equation by 5 and the second equation by 2: $15x+10y=40$ and $4x+10y=18$. Subtracting the second from the first gives $11x=22$, so $x=2$. Substituting $x=2$ into the first equation: $3(2)+2y=8$, which gives $6+2y=8$, so $2y=2$ and $y=1$. Therefore, the solution is $(2,1)$.",
+  "source": "https://cooksat.com/practice?questionId=94ab03ad&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

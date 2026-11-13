@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a574da8f",
+  "capturedAt": "2026-11-13T22:00:15.138Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A system of linear equations in the variables $x$ and $y$ is shown.\n\n$$aligned \\frac{2}{3}x + \\frac{5}{6}y &= 10 \\\\ \\frac{4}{9}x + \\frac{5}{9}y &= c aligned$$\n\nFor what value of $c$ does the system have infinitely many solutions?",
+  "choices": {
+    "A": "$\\frac{(10)}{3}$",
+    "B": "$6$",
+    "C": "$\\frac{(20)}{3}$",
+    "D": "$10$"
+  },
+  "correctAnswer": "C",
+  "explanation": "A system has infinitely many solutions when one equation is a scalar multiple of the other. To find the scalar, divide corresponding coefficients: $\\frac{4/9}{2/3} = \\frac{4}{9} \\cdot \\frac{3}{2} = \\frac{12}{18} = \\frac{2}{3}$. Verify with y-coefficient: $\\frac{5/9}{5/6} = \\frac{5}{9} \\cdot \\frac{6}{5} = \\frac{30}{45} = \\frac{2}{3}$. Since both coefficients are multiplied by $\\frac{2}{3}$, the constant must also be: $c = \\frac{2}{3} \\cdot 10 = \\frac{20}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=a574da8f&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

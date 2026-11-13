@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fa05eb96",
+  "capturedAt": "2026-11-13T22:01:23.364Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following ordered pairs $(x,y)$ satisfies the system of equations $x+y=3$ and $2x-y=3$?",
+  "choices": {
+    "A": "$(2,1)$",
+    "B": "$(0,3)$",
+    "C": "$(3,0)$",
+    "D": "$(1,2)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Adding the two equations eliminates $y$: $(x+y) + (2x-y) = 3 + 3$, which gives $3x = 6$, so $x = 2$. Substituting into the first equation: $2 + y = 3$, so $y = 1$. Therefore, $(2,1)$ is the solution.",
+  "source": "https://cooksat.com/practice?questionId=fa05eb96&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

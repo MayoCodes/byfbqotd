@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "997f9cc0",
+  "capturedAt": "2026-11-13T22:00:04.769Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The sum of $x$ and $y$ is $43$. If $x$ is $3$ more than $y$, what is the value of $x$?",
+  "choices": {
+    "A": "$20$",
+    "B": "$23$",
+    "C": "$26$",
+    "D": "$40$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since $x$ is $3$ more than $y$, we have $x = y + 3$. Substituting this into $x + y = 43$ gives $(y + 3) + y = 43$, which simplifies to $2y + 3 = 43$. Subtracting $3$ from both sides gives $2y = 40$, so $y = 20$. Therefore, $x = y + 3 = 20 + 3 = 23$.",
+  "source": "https://cooksat.com/practice?questionId=997f9cc0&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "75a314ea",
+  "capturedAt": "2026-11-13T21:59:36.820Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$(k-2)x + 4y = 7$$\n\n$$6x + (k+3)y = 14$$\n\nIn the given system of equations, $k$ is a constant. If the system has infinitely many solutions, what is the value of $k$?\n\n$$0$$\n\n$$5$$",
+  "choices": {},
+  "correctAnswer": "$5$",
+  "explanation": "The correct answer is $5$. A system of two linear equations has infinitely many solutions when the equations represent the same line, meaning all corresponding coefficients and constants are proportional by the same factor. The ratio of the constants is $\\frac{14}{7} = 2$. For infinitely many solutions, both coefficient ratios must also equal $2$. From the $x$-coefficients: $\\frac{6}{k-2} = 2$, which gives $6 = 2(k-2) = 2k - 4$, so $2k = 10$ and $k = 5$. From the $y$-coefficients: $\\frac{k+3}{4} = 2$, which gives $k + 3 = 8$, so $k = 5$. Both conditions give $k = 5$, confirming this is the correct value. To verify: when $k = 5$, the first equation becomes $3x + 4y = 7$ and the second becomes $6x + 8y = 14$. Dividing the second equation by $2$ gives $3x + 4y = 7$, which is identical to the first equation, confirming infinitely many solutions.",
+  "source": "https://cooksat.com/practice?questionId=75a314ea&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

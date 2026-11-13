@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "45c6a134",
+  "capturedAt": "2026-11-13T21:58:44.924Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$t=7$$\n\n$$3t+s=29$$\n\nWhat is the solution $(t,s)$ to the given system of equations?",
+  "choices": {
+    "A": "$(8,7)$",
+    "B": "$(7,50)$",
+    "C": "$(7,29)$",
+    "D": "$(7,8)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The first equation in the given system is $t=7$. Substituting $7$ for $t$ in the second equation yields $3(7)+s=29$, or $21+s=29$. Subtracting $21$ from both sides gives $s=8$. Therefore, the solution $(t,s)$ is $(7,8)$.",
+  "source": "https://cooksat.com/practice?questionId=45c6a134&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

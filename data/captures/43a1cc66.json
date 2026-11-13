@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "43a1cc66",
+  "capturedAt": "2026-11-13T21:58:41.900Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3x + 2y = 6$$\n\n$$kx + 4y = 12$$\n\nFor what value of $k$ does the given system of equations have infinitely many solutions?",
+  "choices": {
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$4$",
+    "D": "$6$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. For a system of linear equations to have infinitely many solutions, the two equations must be proportional—that is, one equation must be a constant multiple of the other. This means the ratios of corresponding coefficients and constants must all be equal: $\\frac{3}{k} = \\frac{2}{4} = \\frac{6}{12}$. Simplifying the known ratios: $\\frac{2}{4} = \\frac{1}{2}$ and $\\frac{6}{12} = \\frac{1}{2}$, which are equal. Therefore, we need $\\frac{3}{k} = \\frac{1}{2}$. Cross-multiplying gives $3 \\cdot 2 = k \\cdot 1$, so $k = 6$. We can verify: when $k = 6$, the second equation $6x + 4y = 12$ is exactly twice the first equation $3x + 2y = 6$ (multiply both sides by 2), confirming infinitely many solutions.",
+  "source": "https://cooksat.com/practice?questionId=43a1cc66&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}

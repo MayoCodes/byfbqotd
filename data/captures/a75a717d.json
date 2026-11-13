@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a75a717d",
+  "capturedAt": "2026-11-13T22:00:21.684Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{1}{8}x - \\frac{2}{5}wy = 41$$\n\nOne of the equations in a system of two linear equations is given, where $w$ is a nonzero constant. The system has no solution. If the other equation in the system is graphed in the $xy$-plane, what is the slope of the graph?",
+  "choices": {
+    "A": "$-\\frac{(16w)}{5}$",
+    "B": "$-\\frac{(16)}{(5w)}$",
+    "C": "$\\frac{(5w)}{(16)}$",
+    "D": "$\\frac{5}{(16w)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A system of two linear equations in two variables has no solution when the lines represented by the equations in the $xy$-plane are parallel and distinct. Two lines are parallel when they have the same slope. The given equation can be rewritten in slope-intercept form $y = mx + b$, where $m$ is the slope, by isolating $y$. Subtracting $\\frac{1}{8}x$ from both sides of the equation $\\frac{1}{8}x - \\frac{2}{5}wy = 41$ yields $-\\frac{2}{5}wy = -\\frac{1}{8}x + 41$. Multiplying both sides of this equation by $-\\frac{5}{2w}$ yields $y = \\frac{5}{16w}x - \\frac{205}{2w}$. It follows that the slope of the graph of the given equation is $\\frac{5}{16w}$. Since the system has no solution, the other equation must have the same slope. Therefore, the slope of the graph of the other equation is $\\frac{5}{16w}$.",
+  "source": "https://cooksat.com/practice?questionId=a75a717d&subject=math&domain=algebra&skills=systems_of_two_linear_equations_in_two_variables&bank=cooksat",
+  "images": []
+}
