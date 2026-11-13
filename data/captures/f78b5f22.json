@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f78b5f22",
+  "capturedAt": "2026-11-13T23:27:15.751Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Interpret Slope of Line of Best Fit",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between the amount of rainfall $y$, in millimeters, recorded at a weather station and the number of days after March $4$, $x$. What is the average rate of change, in millimeters per day, of the amount of rainfall recorded at the weather station on March $7$ to the amount of rainfall recorded at the weather station on March $9$?\n\n$$0$$\n\n$$\\frac{7}{2},3.5,3.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{7}{2},3.5,3.50$",
+  "explanation": "The correct answer is $\\frac{7}{2}$. It's given that the scatterplot shows the relationship between the amount of rainfall $y$, in millimeters, recorded at a weather station and the number of days after March $4$, $x$. Since March $7$ is $3$ days after March $4$, it follows that March $7$ corresponds to an x-value of $3$ in the scatterplot. In the scatterplot, when $x = 3$, the corresponding value of $y$ is $5$. In other words, on March $7$, the weather station recorded $5$ millimeters of rainfall. Since March $9$ is $5$ days after March $4$, it follows that March $9$ corresponds to an x-value of $5$ in the scatterplot. In the scatterplot, when $x = 5$, the corresponding value of $y$ is $12$. In other words, on March $9$, the weather station recorded $12$ millimeters of rainfall. Therefore, the average rate of change, in millimeters per day, of the amount of rainfall recorded at the weather station on March $7$ to the amount of rainfall recorded at the weather station on March $9$ is the difference in the amount of rainfall, in millimeters, divided by the difference in the number of days after March $4$, or $\\frac{12 - 5}{5 - 3}$, which is equivalent to $\\frac{7}{2}$. Note that 7/2, 3.5, and 3.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=f78b5f22&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f78b5f22/1-6266a09e2aa0b4b5.png",
+      "kind": "diagram"
+    }
+  ]
+}

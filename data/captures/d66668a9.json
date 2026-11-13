@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d66668a9",
+  "capturedAt": "2026-11-13T23:27:03.829Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A researcher collected data on the relationship between the number of hours employees spend in training, $x$, and their productivity score, $y$. The equation $y = 2.4x + 58$ models the data, where $0 \\le x \\le 40$. According to the model, how many hours of training are needed for an employee to achieve a predicted productivity score of $82$?\n\n$$0$$\n\n$$10$$",
+  "choices": {},
+  "correctAnswer": "$10$",
+  "explanation": "The correct answer is 10. The equation of the line of best fit is $y = 2.4x + 58$. To find the number of hours of training needed for a productivity score of $82$, substitute $y = 82$ and solve for $x$:\n\n$$82 = 2.4x + 58$$\n\nSubtract $58$ from both sides:\n\n$$24 = 2.4x$$\n\nDivide both sides by $2.4$:\n\n$$x = \\frac{24}{2.4} = 10$$\n\nTherefore, $10$ hours of training are needed for an employee to achieve a predicted productivity score of $82$.",
+  "source": "https://cooksat.com/practice?questionId=d66668a9&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ad6ef2a7",
+  "capturedAt": "2026-11-13T23:26:37.151Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Estimate Slope of Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between $x$ and $y$. A line of best fit for the data is also shown.\n\nWhich of the following is closest to the slope of the line of best fit shown?",
+  "choices": {
+    "A": "$0.75$",
+    "B": "$2.00$",
+    "C": "$5.00$",
+    "D": "$7.50$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A line in the xy-plane passing through the points $(x_{1}, y_{1})$ and $(x_{2}, y_{2})$ has a slope of $\\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. The line of best fit shown passes through the points with approximate coordinates $(0, 2.0)$ and $(4, 5.0)$. The slope of the line of best fit is approximately $\\frac{5.0 - 2.0}{4 - 0}$, which is equivalent to $\\frac{3.0}{4}$, or $0.75$. Therefore, of the given choices, $0.75$ is closest to the slope of the line of best fit shown.",
+  "source": "https://cooksat.com/practice?questionId=ad6ef2a7&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ad6ef2a7/1-05a42b00345af457.png",
+      "kind": "diagram"
+    }
+  ]
+}

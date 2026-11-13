@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "880d813b",
+  "capturedAt": "2026-11-13T23:26:02.737Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Calculate Average Rate of Change",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A data set has a line of best fit given by $y=3.2x-7.5$. A new data set is created by first adding $5$ to every $x$-value, and then multiplying every $y$-value by $1.5$. Which of the following equations gives the line of best fit for the new data set?",
+  "choices": {
+    "A": "$y=4.8x-35.25$",
+    "B": "$y=4.8x+24$",
+    "C": "$y=4.8x-11.25$",
+    "D": "$y=3.2x+8.5$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Let $X=x+5$ and $Y=1.5y$ denote the new coordinates. Then $x=X-5$, so $Y=1.5[3.2(X-5)-7.5]=4.8X-35.25$. Using $x$ and $y$ for the new coordinates, the transformed line is $y=4.8x-35.25$, which is choice A.",
+  "source": "https://cooksat.com/practice?questionId=880d813b&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

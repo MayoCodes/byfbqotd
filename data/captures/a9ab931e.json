@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a9ab931e",
+  "capturedAt": "2026-11-13T23:26:24.859Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A study tracked the average retail price of a product from 1940 to 2010. A line of best fit for the data is modeled by the equation $y = 0.096x + 0.488$, where $x$ represents the number of years since 1940 and $y$ represents the predicted average retail price, in dollars. Based on this model, what is the predicted increase, in dollars, in the average retail price from 1940 to 2010?",
+  "choices": {
+    "A": "$0.096$",
+    "B": "$0.488$",
+    "C": "$0.96$",
+    "D": "$6.72$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The time period from 1940 to 2010 is $70$ years. The slope $0.096$ represents the predicted increase per year. Therefore, the total predicted increase over $70$ years is $0.096 \\times 70 = 6.72$ dollars.",
+  "source": "https://cooksat.com/practice?questionId=a9ab931e&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

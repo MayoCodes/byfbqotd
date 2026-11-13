@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8fd072fd",
+  "capturedAt": "2026-11-13T23:26:10.676Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nTwelve data points are shown in the scatterplot. A line of best fit for the data is also shown. At $x = 300$, which of the following is closest to the y-value predicted by the line of best fit?",
+  "choices": {
+    "A": "$4$",
+    "B": "$9$",
+    "C": "$12$",
+    "D": "$14$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. On the line of best fit, an x-value of $300$ corresponds to a y-value between $8$ and $10$. Therefore, of the given choices, $9$ is closest to the y-value predicted by the line of best fit at $x = 300$.",
+  "source": "https://cooksat.com/practice?questionId=8fd072fd&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8fd072fd/1-fd168f656af18450.png",
+      "kind": "diagram"
+    }
+  ]
+}

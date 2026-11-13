@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99efeb7c",
+  "capturedAt": "2026-11-13T23:26:22.977Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Nonlinear Model",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A line of best fit passes through points $(0,0)$ and $(10,40)$ for a dataset where both $x$ and $y$ values are positive and show a clear linear relationship. Which statement is true about the slope of this line of best fit?",
+  "choices": {
+    "A": "The slope is negative, and the predicted value of $y$ decreases as the value of $x$ increases.",
+    "B": "The slope is negative, and the predicted value of $y$ increases as the value of $x$ increases.",
+    "C": "The slope is positive, and the predicted value of $y$ decreases as the value of $x$ increases.",
+    "D": "The slope is positive, and the predicted value of $y$ increases as the value of $x$ increases."
+  },
+  "correctAnswer": "D",
+  "explanation": "The slope of the line passing through $(0,0)$ and $(10,40)$ is $\\frac{40-0}{10-0} = 4$. Since the slope is positive, the line rises from left to right, meaning $y$ increases as $x$ increases.",
+  "source": "https://cooksat.com/practice?questionId=99efeb7c&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

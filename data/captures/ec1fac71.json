@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ec1fac71",
+  "capturedAt": "2026-11-13T23:27:13.489Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Estimate Slope of Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$. A line of best fit is also shown.\n\nWhich of the following is closest to the slope of the line of best fit shown?",
+  "choices": {
+    "A": "$-1.14$",
+    "B": "$-0.87$",
+    "C": "$0.87$",
+    "D": "$1.14$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A line of best fit is shown in the scatterplot such that as the value of $x$ increases, the value of $y$ increases. Therefore, the slope of the line of best fit shown is positive. The slope of a line passing through two points, $\\left(x_{1}, y_{1}\\right)$ and $\\left(x_{2}, y_{2}\\right)$, can be calculated as $\\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. The line of best fit shown passes approximately through the points $\\left(0, 4\\right)$ and $\\left(10, 13\\right)$. Substituting these values yields $\\frac{13 - 4}{10 - 0} = \\frac{9}{10}$, or $0.9$. Therefore, of the given choices, $0.87$ is closest to the slope of the line of best fit shown.",
+  "source": "https://cooksat.com/practice?questionId=ec1fac71&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ec1fac71/1-6eda8db6becce9f5.png",
+      "kind": "diagram"
+    }
+  ]
+}

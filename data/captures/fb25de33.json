@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fb25de33",
+  "capturedAt": "2026-11-13T23:27:17.998Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following could be the equation for a line of best fit for the data shown in the scatterplot?",
+  "choices": {
+    "A": "$y = -4x + 1.2$",
+    "B": "$y = -1.2x + 4$",
+    "C": "$y = 1.2x + 4$",
+    "D": "$y = 4x + 1.2$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The data show a strong linear relationship between $x$ and $y$. A line of best fit can be written in slope-intercept form $y = mx + b$, where $m$ is the slope and $b$ is the $y$-coordinate of the $y$-intercept. Since $y$-values increase as $x$-values increase, the slope must be positive. Using the leftmost and rightmost data points, approximately $(1, 5)$ and $(7, 29)$, the slope is approximately $\\frac{29 - 5}{7 - 1} = \\frac{24}{6} = 4$. Extending the line to the left would intersect the $y$-axis near $(0, 1)$. Only choice D represents a line with a slope close to $4$ and a $y$-intercept close to $(0, 1.2)$.",
+  "source": "https://cooksat.com/practice?questionId=fb25de33&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/fb25de33/1-8fe40244f323f98b.png",
+      "kind": "diagram"
+    }
+  ]
+}

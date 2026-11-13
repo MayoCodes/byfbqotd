@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8c132083",
+  "capturedAt": "2026-11-13T23:26:06.492Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between the age, in years, of each of $9$ apple trees in an orchard and the number of bushels of apples each tree produced during one harvest. How many bushels of apples did the $25$-year-old apple tree produce?",
+  "choices": {
+    "A": "$7$",
+    "B": "$8$",
+    "C": "$9$",
+    "D": "$11$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. For each point on the scatterplot shown, the x-value represents the age, in years, of an apple tree and the y-value represents the number of bushels of apples that tree produced. The point on the graph with an x-value of $25$ has a y-value of $9$. Therefore, the $25$-year-old apple tree produced $9$ bushels of apples.",
+  "source": "https://cooksat.com/practice?questionId=8c132083&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8c132083/1-3ec0fc387b506231.png",
+      "kind": "diagram"
+    }
+  ]
+}

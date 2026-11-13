@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aa378465",
+  "capturedAt": "2026-11-13T23:26:26.827Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Estimate Slope of Line of Best Fit",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA teacher recorded the number of hours each student spent studying for a test and the student's score on the test. The scatterplot shows this data with a line of best fit. According to the line of best fit, which of the following is closest to the predicted increase in test score for each additional hour of studying?",
+  "choices": {
+    "A": "$3$",
+    "B": "$5$",
+    "C": "$8$",
+    "D": "$15$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The slope of the line of best fit represents the predicted increase in test score for each additional hour of studying. The line passes through approximately $(2, 60)$ and $(6, 80)$. The slope is $\\frac{80-60}{6-2}=\\frac{20}{4}=5$. Therefore, the predicted increase in test score for each additional hour of studying is $5$ points.",
+  "source": "https://cooksat.com/practice?questionId=aa378465&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/aa378465/1-f232ba0f4e7a4a7c.png",
+      "kind": "diagram"
+    }
+  ]
+}

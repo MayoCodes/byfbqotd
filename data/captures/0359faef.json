@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0359faef",
+  "capturedAt": "2026-11-13T23:24:42.205Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Association or Trend",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A water tank drains from $1,200$ gallons to $450$ gallons at a constant rate of $25$ gallons per minute. What type of function best models the relationship between the amount of water in the tank and time?",
+  "choices": {
+    "A": "Decreasing exponential",
+    "B": "Decreasing linear",
+    "C": "Increasing exponential",
+    "D": "Increasing linear"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the water tank drains at a constant rate of $25$ gallons per minute. Since the amount of water decreases by a constant amount during each fixed time period, the relationship between the amount of water and time is linear. Since the tank drains from $1{,}200$ gallons to $450$ gallons, the amount of water is decreasing with time. Thus, the relationship is best modeled by a decreasing linear function.",
+  "source": "https://cooksat.com/practice?questionId=0359faef&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

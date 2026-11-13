@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dfbe3403",
+  "capturedAt": "2026-11-13T23:27:07.666Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the heights, in feet, of $7$ young oak trees with respect to their ages, in years. The line of best fit is also shown. A researcher measures a young oak tree that is $6$ years old. According to the line of best fit, which of the following best approximates the height of the tree, in feet?",
+  "choices": {
+    "A": "$18$",
+    "B": "$23$",
+    "C": "$28$",
+    "D": "$33$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. According to the line of best fit, a tree with an age of $6$ years has a predicted height between $22$ feet and $24$ feet. The only choice in this range is $23$.",
+  "source": "https://cooksat.com/practice?questionId=dfbe3403&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/dfbe3403/1-f0cc1b25043724a9.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8cc513e0",
+  "capturedAt": "2026-11-13T23:26:08.538Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Association or Trend",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of the function $g$ is shown, where $y = g(x)$.\n\nWhich of the following best describes the function $g$?",
+  "choices": {
+    "A": "Decreasing exponential",
+    "B": "Decreasing linear",
+    "C": "Increasing exponential",
+    "D": "Increasing linear"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The graph of function $g$ shows that as $x$ increases, $g(x)$ decreases, which means that $g$ is a decreasing function. The graph of function $g$ is curved and decreases at a decreasing rate, not a constant rate. This behavior is characteristic of exponential functions, not linear functions. Therefore, of the given choices, function $g$ is best described as decreasing exponential.",
+  "source": "https://cooksat.com/practice?questionId=8cc513e0&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8cc513e0/1-3442c78082e54401.png",
+      "kind": "diagram"
+    }
+  ]
+}

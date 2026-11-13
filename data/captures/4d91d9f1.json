@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4d91d9f1",
+  "capturedAt": "2026-11-13T23:25:25.572Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following best represents the line of best fit shown?",
+  "choices": {
+    "A": "$y = 95.4 + 0.04x$",
+    "B": "$y = 95.4 + 0.43x$",
+    "C": "$y = 95.4 + 32.75x$",
+    "D": "$y = 95.4 + 42.75x$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A line can be represented by the equation $y = a + bx$, where $b$ is the slope and $(0, a)$ is the y-intercept. The line of best fit shown passes through approximately $(0, 95)$ and $(12, 608)$. The slope can be calculated using the slope formula: $b = \\frac{608 - 95}{12 - 0} = \\frac{513}{12} \\approx 42.75$. The y-intercept is approximately $95$. Therefore, the equation of the line of best fit is approximately $y = 95.4 + 42.75x$. Of the given choices, $y = 95.4 + 42.75x$ best represents the line of best fit shown.",
+  "source": "https://cooksat.com/practice?questionId=4d91d9f1&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4d91d9f1/1-d0fccb5f4477de1b.png",
+      "kind": "diagram"
+    }
+  ]
+}

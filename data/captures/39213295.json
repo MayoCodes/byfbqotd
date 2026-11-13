@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "39213295",
+  "capturedAt": "2026-11-13T23:25:11.100Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA botanist recorded the height of a sunflower plant at various numbers of days after germination. The results are shown, along with the graph of a quadratic function that models the data. According to the model, which of the following is the best estimate for the height, in centimeters, of the plant $45$ days after germination?",
+  "choices": {
+    "A": "$20$",
+    "B": "$35$",
+    "C": "$140$",
+    "D": "$170$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. According to the quadratic model, the predicted height of the sunflower plant $45$ days after germination is about $137$ centimeters. Of the choices given, the best estimate is $140$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=39213295&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/39213295/1-4fa2e6edeaff74a8.png",
+      "kind": "diagram"
+    }
+  ]
+}

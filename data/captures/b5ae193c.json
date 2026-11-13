@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b5ae193c",
+  "capturedAt": "2026-11-13T23:26:47.129Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Best Model Type",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$. Which of the following equations is the most appropriate quadratic model for the data shown?",
+  "choices": {
+    "A": "$y = -0.009(x - 29)^{2} + 40$",
+    "B": "$y = -0.009(x - 40)^{2} + 29$",
+    "C": "$y = 0.009(x - 40)^{2} + 29$",
+    "D": "$y = 0.009(x + 29)^{2} - 40$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The data in the scatterplot form a parabolic curve that opens downward with a vertex at approximately $(40, 29)$. A quadratic equation in vertex form is $y = a(x - h)^{2} + k$, where $(h, k)$ is the vertex and the sign of $a$ determines whether the parabola opens upward ($a > 0$) or downward ($a < 0$). Since the parabola opens downward, $a$ must be negative. The vertex is at approximately $(40, 29)$, so $h \\approx 40$ and $k \\approx 29$. Of the given choices, $y = -0.009(x - 40)^{2} + 29$ has a negative coefficient and a vertex at $(40, 29)$, which closely matches the observed vertex location in the data.",
+  "source": "https://cooksat.com/practice?questionId=b5ae193c&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b5ae193c/1-26c1263b245e2566.png",
+      "kind": "diagram"
+    }
+  ]
+}

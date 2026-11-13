@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6499be28",
+  "capturedAt": "2026-11-13T23:25:41.822Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Estimate Slope of Line of Best Fit",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the number of hours spent studying and the corresponding improvement in exam score, in points, for each of nine students in a review program. The line of best fit for the data is also shown. According to the line of best fit, which of the following is closest to the predicted increase in exam score improvement, in points, for every increase of $1$ hour in study time?",
+  "choices": {
+    "A": "$1.0$",
+    "B": "$1.5$",
+    "C": "$2.0$",
+    "D": "$2.5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The predicted increase in exam score improvement, in points, for every increase of $1$ hour in study time is represented by the slope of the line of best fit. Any two points on the line can be used to calculate the slope as the change in score improvement over the change in hours studied. For instance, the points $(10, 25)$ and $(40, 85)$ lie on the line of best fit, and the slope of the line that passes through them is $\\frac{85 - 25}{40 - 10} = \\frac{60}{30}$, or $2.0$. Of the choices given, $2.0$ is the closest to the slope of the line of best fit.",
+  "source": "https://cooksat.com/practice?questionId=6499be28&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6499be28/1-464d88691c295cdf.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e76701b7",
+  "capturedAt": "2026-11-13T23:27:11.644Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Nonlinear Model",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A study analyzes the relationship between the number of hours students spend studying and their scores on a math test. The relationship is modeled by the linear equation $y = 5x + 60$, where $x$ represents the number of hours studied and $y$ represents the test score. According to this model, if a student increases their study time by $3$ hours, by how many points is their test score predicted to increase?\n\n$$0$$\n\n$$15$$",
+  "choices": {},
+  "correctAnswer": "$15$",
+  "explanation": "The correct answer is $15$. In the linear equation $y = 5x + 60$, the slope is $5$, which represents the predicted increase in test score for each additional hour studied. To find the predicted increase when study time increases by $3$ hours, multiply: $5 \\times 3 = 15$ points.",
+  "source": "https://cooksat.com/practice?questionId=e76701b7&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

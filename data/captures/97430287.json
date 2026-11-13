@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "97430287",
+  "capturedAt": "2026-11-13T23:26:16.320Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$.\n\nWhich of the following equations is the most appropriate model for the data shown?",
+  "choices": {
+    "A": "$y = -523(1.1)^x$",
+    "B": "$y = 523 - 1.1x$",
+    "C": "$y = 523 + 1.1x$",
+    "D": "$y = 523(1.1)^x$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The scatterplot shows that as $x$ increases, $y$ also increases, indicating a positive linear relationship. A linear model has the form $y = mx + b$, where $m$ is the slope and $b$ is the $y$-intercept. Since the data shows a positive trend, the slope must be positive. Choices A and D are exponential models of the form $y = a(b)^{x}$, not linear models. Choice B has a negative slope, which would produce a decreasing relationship. Only choice C, $y = 523 + 1.1x$, represents a linear model with a positive slope, making it the most appropriate model for the data shown.",
+  "source": "https://cooksat.com/practice?questionId=97430287&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/97430287/1-8fb1873f11051f92.png",
+      "kind": "diagram"
+    }
+  ]
+}

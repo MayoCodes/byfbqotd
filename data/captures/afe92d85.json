@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "afe92d85",
+  "capturedAt": "2026-11-13T23:26:39.130Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Nonlinear Model",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A researcher collected data on the number of hours studied, $x$, and the corresponding scores on a test, $y$, for 10 students. The data are modeled by the linear equation $y = 3x + 50$. According to this model, how many additional points would a student's test score increase for each additional 4 hours studied?\n\n$$0$$\n\n$$12$$",
+  "choices": {},
+  "correctAnswer": "$12$",
+  "explanation": "The correct answer is $12$. In the linear model $y = 3x + 50$, the coefficient of $x$ is the slope, which represents the rate of change of the test score with respect to hours studied. Specifically, the slope of $3$ means that for each additional $1$ hour studied, a student's test score increases by $3$ points. To find the increase in test score for $4$ additional hours studied, multiply the slope by $4$: $\\text{Increase in score} = 3 \\times 4 = 12 \\text{ points.}$ Therefore, according to the model, a student's test score would increase by $12$ points for each additional $4$ hours studied.",
+  "source": "https://cooksat.com/practice?questionId=afe92d85&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e257bf43",
+  "capturedAt": "2026-11-13T23:27:09.504Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Association or Trend",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of function $g$ is shown, where $y = g(x)$. Which of the following describes function $g$?",
+  "choices": {
+    "A": "Increasing linear",
+    "B": "Decreasing linear",
+    "C": "Increasing exponential",
+    "D": "Decreasing exponential"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The graph of function $g$ shows that as $x$ increases, $g\\left(x\\right)$ decreases, which means $g\\left(x\\right)$ is a decreasing function. The graph of $g$ is a line, which indicates a constant rate of change. A function that has a constant rate of change is a linear function. Therefore, function $g$ can be described as decreasing linear.",
+  "source": "https://cooksat.com/practice?questionId=e257bf43&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e257bf43/1-d191fd3cc22bbab2.png",
+      "kind": "diagram"
+    }
+  ]
+}

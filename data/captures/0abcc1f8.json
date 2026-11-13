@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0abcc1f8",
+  "capturedAt": "2026-11-13T23:24:43.866Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Calculate Residual",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shown displays data for nine vehicles along with the line of best fit. For the vehicle with the greatest percent of the manufacturer's estimated highway mileage, which of the following is closest to the difference of the actual percent and the percent predicted by the line of best fit?",
+  "choices": {
+    "A": "$2%$",
+    "B": "$4%$",
+    "C": "$6%$",
+    "D": "$10%$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The vehicle with the greatest percent of the manufacturer's estimated highway mileage is represented by the highest point on the scatterplot; this point has a vertical coordinate of about $88$ and a horizontal coordinate of about $40$. Thus, this vehicle has an engine displacement of about $40$ cubic inches and achieves about $88\\%$ of the manufacturer's estimated highway mileage. The percent predicted by the line of best fit is the vertical coordinate of the point on the line of best fit with horizontal coordinate $40$; this vertical coordinate is about $82$. Therefore, the difference between the actual percent ($88\\%$) and the predicted percent (about $82\\%$) is about $6\\%$.",
+  "source": "https://cooksat.com/practice?questionId=0abcc1f8&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0abcc1f8/1-804088243c52566b.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99249e65",
+  "capturedAt": "2026-11-13T23:26:18.747Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Association or Trend",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In which of the following tables is the relationship between the values of $x$ and their corresponding $y$-values nonlinear?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The relationship between the values of $x$ and their corresponding $y$-values is nonlinear if the rate of change between these pairs of values isn't constant. The table for choice D gives four pairs of values: $(1, 3)$, $(2, 9)$, $(3, 27)$, and $(4, 81)$. Finding the rate of change, or slope, between $(1, 3)$ and $(2, 9)$ by using the slope formula, $\\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$, yields $\\frac{9 - 3}{2 - 1}$, or $6$. Finding the rate of change between $(2, 9)$ and $(3, 27)$ yields $\\frac{27 - 9}{3 - 2}$, or $18$. Finding the rate of change between $(3, 27)$ and $(4, 81)$ yields $\\frac{81 - 27}{4 - 3}$, or $54$. Since the rate of change isn't constant for these pairs of values, this table shows a nonlinear relationship.",
+  "source": "https://cooksat.com/practice?questionId=99249e65&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/99249e65/1-c9b244738cbd87e3.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/99249e65/2-d8de624234f5355d.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/99249e65/3-d5dc9ea9e827fa8e.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/99249e65/4-824b002abfb6eb4c.png",
+      "kind": "diagram"
+    }
+  ]
+}

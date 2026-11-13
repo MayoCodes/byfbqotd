@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c42fa659",
+  "capturedAt": "2026-11-13T23:26:51.162Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Interpret Slope of Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the average annual salary for employees at a company based on their years of experience. Which of the following is closest to the average increase in salary, in dollars, for each additional year of experience?",
+  "choices": {
+    "A": "$1,500$",
+    "B": "$3,000$",
+    "C": "$6,000$",
+    "D": "$9,000$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The average increase in salary per year of experience can be found by calculating the rate of change. Using the points $(2, 38{,}000)$ and $(11, 65{,}000)$, the rate of change is $\\frac{65{,}000 - 38{,}000}{11 - 2} = \\frac{27{,}000}{9} = 3{,}000$ dollars per year.",
+  "source": "https://cooksat.com/practice?questionId=c42fa659&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c42fa659/1-d10fc692dfb11915.png",
+      "kind": "diagram"
+    }
+  ]
+}

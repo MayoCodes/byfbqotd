@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3875633d",
+  "capturedAt": "2026-11-13T23:25:05.029Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Association or Trend",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following is true about the values of $3^x$ and $8x + 3$ for $x > 0$?",
+  "choices": {
+    "A": "For all $x > 0$, it is true that $3^x < 8x + 3$.",
+    "B": "For all $x > 0$, it is true that $3^x > 8x + 3$.",
+    "C": "There is a constant $c$ such that if $0 < x < c$, then $3^x < 8x + 3$, but if $x > c$, then $3^x > 8x + 3$.",
+    "D": "There is a constant $c$ such that if $0 < x < c$, then $3^x > 8x + 3$, but if $x > c$, then $3^x < 8x + 3$."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. At $x = 1$, the value of $3^{x}$ is less than the value of $8x + 3$, where $3^{1} = 3$ and $8(1) + 3 = 11$. At $x = 3$, the value of $3^{x}$ is equal to the value of $8x + 3$, where $3^{3} = 27$ and $8(3) + 3 = 27$. The rate at which the value of the exponential expression $3^{x}$ increases is greater than the rate at which the value of the linear expression $8x + 3$ increases. Therefore, if $x > 3$, then $3^{x} > 8x + 3$, and if $0 < x < 3$, then $3^{x} < 8x + 3$.",
+  "source": "https://cooksat.com/practice?questionId=3875633d&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

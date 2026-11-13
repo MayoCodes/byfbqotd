@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "410429ea",
+  "capturedAt": "2026-11-13T23:25:17.504Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Interpret Slope of Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nDuring an experiment, the depth, in centimeters $(cm)$, of water in a tank was recorded to the nearest integer at certain times. The scatterplot shows the recorded depth $y$, in cm, of water in the tank $x$ hours after the start of the experiment. What was the average rate of change, in cm per hour, of the recorded depth of water in the tank from $x = 3$ to $x = 7$?\n\n$$0$$\n\n$$3$$",
+  "choices": {},
+  "correctAnswer": "$3$",
+  "explanation": "The correct answer is $3$. For the graph shown, $x$ represents time, in hours, and $y$ represents depth, in centimeters $\\left(\\text{cm}\\right)$. Therefore, the average rate of change, in cm per hour, of the recorded depth of water in the tank between two $x$-values is the difference in the corresponding $y$-values divided by the difference in the $x$-values. The graph shows that at $x = 3$, the corresponding $y$-value is $18$. The graph also shows that at $x = 7$, the corresponding $y$-value is $30$. It follows that the average rate of change, in cm per hour, from $x = 3$ to $x = 7$ is $\\frac{30 - 18}{7 - 3}$, which is equivalent to $\\frac{12}{4}$, or $3$.",
+  "source": "https://cooksat.com/practice?questionId=410429ea&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/410429ea/1-6558fba9e73fd35c.png",
+      "kind": "diagram"
+    }
+  ]
+}

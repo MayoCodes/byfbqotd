@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "acb5a8cd",
+  "capturedAt": "2026-11-13T23:26:35.016Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nMarcus rode a stationary bike for forty minutes, and his time and speed are shown on the graph above. According to the graph, which of the following statements is NOT true concerning Marcus's ride?",
+  "choices": {
+    "A": "Marcus rode at a constant speed for $10$ minutes.",
+    "B": "Marcus's speed decreased at a constant rate during the last $10$ minutes.",
+    "C": "Marcus's speed reached its maximum during the last $15$ minutes.",
+    "D": "Marcus's speed was increasing for a longer period of time than it was decreasing."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Marcus's speed was increasing from $0$ to $5$ minutes and from $25$ to $30$ minutes, which is a total of $10$ minutes. Marcus's speed was decreasing from $15$ to $25$ minutes and from $30$ to $40$ minutes, which is a total of $20$ minutes. Therefore, Marcus's speed was NOT increasing for a longer period of time than it was decreasing.",
+  "source": "https://cooksat.com/practice?questionId=acb5a8cd&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/acb5a8cd/1-cd71698b061d1662.png",
+      "kind": "diagram"
+    }
+  ]
+}

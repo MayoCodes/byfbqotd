@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c8a7b2aa",
+  "capturedAt": "2026-11-13T23:26:57.847Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA store is selling a laptop computer. The scatterplot shows the relationship between the number of weeks since the laptop was released and its price. Which of the following equations best models the data shown in the scatterplot?",
+  "choices": {
+    "A": "$y = -50x + 900$",
+    "B": "$y = -50x + 700$",
+    "C": "$y = 50x + 400$",
+    "D": "$y = -25x + 900$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The data shows a downward trend, so the slope must be negative, eliminating choice C. The y-intercept (the price at week $0$) appears to be approximately $900$ based on extending the trend. The slope can be estimated using two points that follow the trend, such as $(2, 820)$ and $(10, 410)$: slope $= \\frac{410 - 820}{10 - 2} = \\frac{-410}{8} \\approx -50$. Therefore, the equation $y = -50x + 900$ best models the data.",
+  "source": "https://cooksat.com/practice?questionId=c8a7b2aa&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c8a7b2aa/1-f19f3c5e2c23fcd8.png",
+      "kind": "diagram"
+    }
+  ]
+}

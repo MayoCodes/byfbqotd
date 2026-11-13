@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "932ef08f",
+  "capturedAt": "2026-11-13T23:26:14.449Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA beekeeper recorded the weight, in kilograms, of honey harvested from a newly established beehive during each year after the hive was established. The scatterplot shows this weight, in kilograms, for each year after the hive was established. What was the weight, to the nearest kilogram, of honey harvested from the hive during the $5 th$ year after the hive was established?\n\n$$0$$\n\n$$55$$",
+  "choices": {},
+  "correctAnswer": "$55$",
+  "explanation": "The correct answer is $55$. For each data point on the scatterplot, the x-value represents the year after the hive was established and the y-value represents the weight, in kilograms, of honey harvested during that year. The scatterplot shows a data point at $\\left( 5 , 55 \\right)$. It follows that during the $5 \\text{th}$ year after the hive was established, $55$ kilograms of honey were harvested from the hive.",
+  "source": "https://cooksat.com/practice?questionId=932ef08f&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/932ef08f/1-1ace3d676ced0da3.png",
+      "kind": "diagram"
+    }
+  ]
+}

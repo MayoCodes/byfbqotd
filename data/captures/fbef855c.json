@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fbef855c",
+  "capturedAt": "2026-11-13T23:27:20.153Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Association or Trend",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows selected values from function $g$. Which of the following is the best description of function $g$?",
+  "choices": {
+    "A": "Decreasing linear",
+    "B": "Increasing linear",
+    "C": "Decreasing exponential",
+    "D": "Increasing exponential"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The given values show that as $x$ increases, $g(x)$ also increases, so $g$ is an increasing function. Furthermore, $g(x)$ increases at a constant rate of $3$ for each increase of $x$ by $1$. A function with a constant rate of change is linear. Thus, the function $g$ can be described as an increasing linear function.",
+  "source": "https://cooksat.com/practice?questionId=fbef855c&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/fbef855c/1-21decbe102d85aab.png",
+      "kind": "diagram"
+    }
+  ]
+}

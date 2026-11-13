@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b133ee01",
+  "capturedAt": "2026-11-13T23:26:42.771Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$.\n\nWhich of the following equations is the most appropriate linear model for the data shown?",
+  "choices": {
+    "A": "$y = 0.7 - 7.8x$",
+    "B": "$y = 0.7 + 7.8x$",
+    "C": "$y = 7.8 - 0.7x$",
+    "D": "$y = 7.8 + 0.7x$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A linear model can be written as $y = a + bx$, where $b$ is the slope and $(0, a)$ is the y-intercept. The scatterplot shows that as $x$ increases, $y$ decreases, so the slope must be negative. Using the points $(1, 7)$ and $(9, 2)$ from the scatterplot, the slope is approximately $\\frac{2 - 7}{9 - 1} = \\frac{-5}{8} \\approx -0.6$, which is close to $-0.7$. Substituting $x = 1$ and $y = 7$ into $y = -0.7x + a$ gives $7 = -0.7(1) + a$, or $a = 7.7$, which is close to $7.8$. Only choice C has a negative slope of $-0.7$ and a y-intercept near $7.8$.",
+  "source": "https://cooksat.com/practice?questionId=b133ee01&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b133ee01/1-5d677e2c6feaac34.png",
+      "kind": "diagram"
+    }
+  ]
+}

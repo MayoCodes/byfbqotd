@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5b817955",
+  "capturedAt": "2026-11-13T23:25:35.464Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the average cost of gasoline, in dollars per gallon, in a certain region for each month from January to September of a given year, where $x = 0$ represents January. Based on the scatterplot, which of the following is closest to the increase in the average cost of gasoline, in dollars per gallon, from January to September?",
+  "choices": {
+    "A": "$0.02$",
+    "B": "$0.20$",
+    "C": "$1.15$",
+    "D": "$1.35$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In January ($x = 0$), the average cost is approximately $$1.13$ per gallon, and in September ($x = 8$), the average cost is approximately $$1.37$ per gallon. The increase is approximately $1.37 - 1.13 = 0.24$ dollars per gallon, which is closest to $$0.20$.",
+  "source": "https://cooksat.com/practice?questionId=5b817955&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5b817955/1-a73bdafc05869b5e.png",
+      "kind": "diagram"
+    }
+  ]
+}

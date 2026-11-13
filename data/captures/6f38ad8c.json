@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6f38ad8c",
+  "capturedAt": "2026-11-13T23:25:49.017Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Best Model Type",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$. Which of the following graphs shows the most appropriate model for the data?",
+  "choices": {
+    "A": "[Figure 2]",
+    "B": "[Figure 3]",
+    "C": "[Figure 4]",
+    "D": "[Figure 5]"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. An appropriate model should follow the trend of the data points and should have data points both above and below the model. The scatterplot shows that the data points have an increasing trend that is curved. Therefore, an appropriate model should be an increasing curve with data points both above and below the model. Of the given choices, only the model in choice D is an increasing curve with data points both above and below the model.",
+  "source": "https://cooksat.com/practice?questionId=6f38ad8c&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6f38ad8c/1-98e0471360f630d3.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/6f38ad8c/2-a49dc7d37e5a2d15.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/6f38ad8c/3-fc5d4358a17bf177.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/6f38ad8c/4-f86d4f13e2ad91ee.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/6f38ad8c/5-1206ec157477c191.png",
+      "kind": "diagram"
+    }
+  ]
+}

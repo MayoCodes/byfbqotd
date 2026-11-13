@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bbb22cd5",
+  "capturedAt": "2026-11-13T23:26:49.300Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Association or Trend",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For $x > 0$, the function $g$ is defined as follows: $g(x)$ equals $87%$ of $x$\n\nWhich of the following could describe this function?",
+  "choices": {
+    "A": "Decreasing exponential",
+    "B": "Decreasing linear",
+    "C": "Increasing exponential",
+    "D": "Increasing linear"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that $g(x)$ equals $87\\%$ of $x$ for $x > 0$. This can be written as $g(x) = 0.87x$. This equation is in the form $g(x) = mx$, where $m = 0.87$ is the coefficient of $x$. Since the coefficient is positive and constant, the function is linear. As $x$ increases, $g(x)$ increases proportionally, so the function is increasing. Therefore, the function is increasing linear.",
+  "source": "https://cooksat.com/practice?questionId=bbb22cd5&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

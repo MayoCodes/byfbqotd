@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cad965df",
+  "capturedAt": "2026-11-13T23:27:00.012Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn $2010$, a biologist began monitoring a bacteria colony. The graph gives the estimated population $y$, in thousands, of the colony $x$ years after monitoring began in $2010$, where $0 \\le x \\le 5$.\n\nBased on the graph, which of the following is closest to the estimated population $3$ years after monitoring began in $2010$?",
+  "choices": {
+    "A": "$5,000$",
+    "B": "$7,600$",
+    "C": "$7.6$",
+    "D": "$10,000$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The x-axis represents years after monitoring began in $2010$, and the y-axis represents population in thousands. Therefore, the estimated population $3$ years after monitoring began corresponds to the y-coordinate of the point on the graph with x-coordinate $3$. That point has a y-coordinate of approximately $7.6$. Since the y-axis represents population in thousands, the estimated population is $7.6$ thousand, or $7{,}600$.",
+  "source": "https://cooksat.com/practice?questionId=cad965df&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/cad965df/1-14908b99b06aab44.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ab666d4f",
+  "capturedAt": "2026-11-13T23:26:32.991Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the energy output, in kilojoules, of a solar panel for some levels of sunlight intensity, in kilolux ($klx$).\n\nWhich of the following is closest to the energy output, in kilojoules, of the solar panel when the sunlight intensity is $7$ $klx$?",
+  "choices": {
+    "A": "$480$",
+    "B": "$520$",
+    "C": "$560$",
+    "D": "$600$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In the scatterplot, the x-axis represents sunlight intensity, in kilolux, and the y-axis represents energy output, in kilojoules. Therefore, the energy output, in kilojoules, when the sunlight intensity is $7$ $\\text{klx}$ is the y-coordinate of the point with x-coordinate $7$. That point has a y-coordinate of approximately $520$. Therefore, the energy output is closest to $520$ kilojoules.",
+  "source": "https://cooksat.com/practice?questionId=ab666d4f&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ab666d4f/1-877ca3495458b88c.png",
+      "kind": "diagram"
+    }
+  ]
+}

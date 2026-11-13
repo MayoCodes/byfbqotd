@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4948d6e9",
+  "capturedAt": "2026-11-13T23:25:23.932Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Association or Trend",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A librarian starts the afternoon with a full cart of books that need to be returned to the shelves. The librarian shelves the books at a constant rate throughout the afternoon. Which type of model is best to model the number of books remaining on the cart at any given time throughout the afternoon?",
+  "choices": {
+    "A": "A linear model with a positive slope",
+    "B": "A linear model with a negative slope",
+    "C": "An exponential growth model",
+    "D": "An exponential decay model"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Because the librarian works at a constant rate, the situation is best represented by a linear model. The number of books remaining on the cart depends on how long the librarian has been working, so time would be the variable on the horizontal axis and the number of remaining books would be the variable on the vertical axis. Since the number of books on the cart decreases as time increases, the slope of the graph is negative.",
+  "source": "https://cooksat.com/practice?questionId=4948d6e9&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

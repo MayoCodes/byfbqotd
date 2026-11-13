@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "88e1a5a1",
+  "capturedAt": "2026-11-13T23:26:04.519Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nEach dot in the scatterplot shown represents the number of years of experience $x$ and the number of patents filed $y$ by each engineer in a group of engineers. The graph of which of the following equations is a line that most closely fits the data?",
+  "choices": {
+    "A": "$y = 1.40x - 1.40$",
+    "B": "$y = 1.40x + 2.75$",
+    "C": "$y = 2.75x - 2.75$",
+    "D": "$y = 2.75x + 1.40$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A line that most closely fits the data has approximately equal numbers of data points above and below it. Fitting a line to the data shown yields an approximate slope of $3$ and a $y$-intercept near the point $(0, 1)$. Writing the equation in slope-intercept form $y = mx + b$, where $m$ is the slope and $b$ is the $y$-coordinate of the $y$-intercept, the equation $y = 2.75x + 1.40$ fits the data most closely.",
+  "source": "https://cooksat.com/practice?questionId=88e1a5a1&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/88e1a5a1/1-cec0a7220ce266e7.png",
+      "kind": "diagram"
+    }
+  ]
+}

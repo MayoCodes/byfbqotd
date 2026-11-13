@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1ed43a48",
+  "capturedAt": "2026-11-13T23:24:52.349Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$. A line of best fit for the data is also shown. At $x = 42$, which of the following is closest to the y-value predicted by the line of best fit?",
+  "choices": {
+    "A": "$0.9$",
+    "B": "$4.2$",
+    "C": "$5.3$",
+    "D": "$6.4$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. At $x = 42$, the line of best fit has a y-value between $5$ and $6$. The only choice with a value between $5$ and $6$ is choice C.",
+  "source": "https://cooksat.com/practice?questionId=1ed43a48&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1ed43a48/1-bced08698a01c94f.png",
+      "kind": "diagram"
+    }
+  ]
+}

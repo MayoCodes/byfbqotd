@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4937498d",
+  "capturedAt": "2026-11-13T23:25:22.365Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Association or Trend",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Each month, the resale value of a certain car decreases by $0.73%$ of its value the previous month. Which of the following functions best models how the resale value of the car changes over time?",
+  "choices": {
+    "A": "Decreasing exponential",
+    "B": "Decreasing linear",
+    "C": "Increasing exponential",
+    "D": "Increasing linear"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Because the resale value of the car decreases each month, the function that best models how the resale value changes over time is a decreasing function. It's given that each month, the resale value decreases by $0.73\\%$ of its value the previous month. Since the resale value changes by a fixed percentage of its previous value each month, the function that best models how the resale value changes over time is an exponential function. Therefore, the function that best models how the resale value of the car changes over time is a decreasing exponential function.",
+  "source": "https://cooksat.com/practice?questionId=4937498d&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

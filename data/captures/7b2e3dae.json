@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b2e3dae",
+  "capturedAt": "2026-11-13T23:25:57.958Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Best Model Type",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following equations is the most appropriate model for the data shown in the scatterplot?",
+  "choices": {
+    "A": "$y = (1.4)^x + 24$",
+    "B": "$y = 5(1.4)^x + 20$",
+    "C": "$y = 25(1.4)^x$",
+    "D": "$y = 25(1.4)^x + 20$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The data in the scatterplot show an exponential pattern increasing as $x$ increases. An exponential model of the form $y = a(b)^{x} + c$, where $a$, $b$, and $c$ are constants, can be evaluated at specific data points to determine which equation best fits. At $x = 0$, the scatterplot shows $y \\approx 25$. Substituting $0$ for $x$ in each choice gives: Choice A yields $(1) + 24 = 25$, Choice B yields $5(1) + 20 = 25$, Choice C yields $25(1) = 25$, and Choice D yields $25(1) + 20 = 45$. Choices A, B, and C match the $y$-value at $x = 0$, while Choice D does not. Testing another point, at $x = 4$, the scatterplot shows $y \\approx 39$. For Choice B, substituting $4$ for $x$ gives $y = 5(1.4)^{4} + 20 \\approx 5(3.84) + 20 \\approx 39.2$, which is very close to $39$. For Choice A, $y = (1.4)^{4} + 24 \\approx 27.8$, which is too small. For Choice C, $y = 25(1.4)^{4} \\approx 96$, which is far too large. Therefore, Choice B is the most appropriate model.",
+  "source": "https://cooksat.com/practice?questionId=7b2e3dae&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7b2e3dae/1-53df285d21dcacae.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "440aa459",
+  "capturedAt": "2026-11-13T23:25:19.757Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Best Model Type",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$. An equation for the exponential model shown can be written as $y = p ( q )^x$, where $p$ and $q$ are positive constants. Which of the following is closest to the value of $q$?",
+  "choices": {
+    "A": "$0.78$",
+    "B": "$1.57$",
+    "C": "$15.42$",
+    "D": "$88.24$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that an equation for the exponential model shown can be written as $y = p \\left( q \\right)^{x}$, where $p$ and $q$ are positive constants. For an exponential model written in this form, if the value of $q$ is greater than $0$ but less than $1$, the model is decreasing. If the value of $q$ is greater than $1$, the model is increasing. The exponential model shown is decreasing. Therefore, the value of $q$ is greater than $0$ but less than $1$. Of the given choices, only $0.78$ is a value greater than $0$ but less than $1$. Thus, $0.78$ is closest to the value of $q$.",
+  "source": "https://cooksat.com/practice?questionId=440aa459&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/440aa459/1-19e558274892db0f.png",
+      "kind": "diagram"
+    }
+  ]
+}

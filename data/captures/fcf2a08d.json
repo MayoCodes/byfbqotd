@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fcf2a08d",
+  "capturedAt": "2026-11-13T23:27:22.312Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA line of best fit for the given scatterplot has the equation $y=mx+c$, where $m$ and $c$ are constants. Which of the following could be the equation of this line of best fit?",
+  "choices": {
+    "A": "$y=0.24x+1.5$",
+    "B": "$y=-0.24x+1.5$",
+    "C": "$y=0.24x-1.5$",
+    "D": "$y=-0.24x-1.5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The scatterplot shows a negative linear association between $x$ and $y$, as $y$ values decrease when $x$ values increase. A line of best fit for this data must have a negative slope. Additionally, the $y$-intercept (the value of $y$ when $x=0$) should be approximately $1.5$, as indicated by the trend of the data. Of the given options, only the equation $y=-0.24x+1.5$ has both a negative slope ($-0.24$) and a positive $y$-intercept of $1.5$ that matches the data pattern.",
+  "source": "https://cooksat.com/practice?questionId=fcf2a08d&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/fcf2a08d/1-72df4c14b05a5e4d.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b0779df0",
+  "capturedAt": "2026-11-13T23:26:40.904Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the values of two variables, $x$ and $y$, for $12$ data points. The slope of the line of best fit for these data is predicted to be close to $0.4$, and the $y$-intercept of this line is predicted to be close to $0$. What is the predicted $y$-coordinate on the line of best fit when $x=6$?",
+  "choices": {
+    "A": "$0.4$",
+    "B": "$2.0$",
+    "C": "$2.4$",
+    "D": "$6.0$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The line of best fit can be modeled by the equation $y=mx+b$, where $m$ is the slope and $b$ is the $y$-intercept. It's given that the slope is predicted to be close to $0.4$ and the $y$-intercept is predicted to be close to $0$. Therefore, the equation is approximately $y=0.4x+0$, or $y=0.4x$. To find the predicted $y$-coordinate when $x=6$, substitute $6$ for $x$: $y=0.4(6)=2.4$. Therefore, the predicted $y$-coordinate on the line of best fit when $x=6$ is $2.4$.",
+  "source": "https://cooksat.com/practice?questionId=b0779df0&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b0779df0/1-a59d2104fc31f829.png",
+      "kind": "diagram"
+    }
+  ]
+}

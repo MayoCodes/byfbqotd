@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3903e795",
+  "capturedAt": "2026-11-13T23:25:08.848Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following equations best represents the line of best fit shown?",
+  "choices": {
+    "A": "$y = -1.5 - 1.2x$",
+    "B": "$y = -1.5 + 1.2x$",
+    "C": "$y = 1.5 - 1.2x$",
+    "D": "$y = 1.5 + 1.2x$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The line of best fit shown has a positive slope, trending upward from left to right, and intersects the y-axis at a positive y-value. The graph of an equation of the form $y = a + bx$, where $a$ and $b$ are constants, intersects the y-axis at a y-value of $a$ and has a slope of $b$. Of the given choices, only choice D represents a line that intersects the y-axis at a positive y-value, $1.5$, and has a positive slope, $1.2$.",
+  "source": "https://cooksat.com/practice?questionId=3903e795&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3903e795/1-67460a9d0c877acc.png",
+      "kind": "diagram"
+    }
+  ]
+}

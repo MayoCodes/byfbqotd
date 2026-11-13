@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "01d7b60b",
+  "capturedAt": "2026-11-13T23:24:39.952Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shown gives the age $x$, in years, and the height $y$, in feet, of $21$ trees in a park. Which of the following could be an equation for a line of best fit for the data?",
+  "choices": {
+    "A": "$y = 40x$",
+    "B": "$y = 20x + 60$",
+    "C": "$y = 40x + 60$",
+    "D": "$y = 80x + 60$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. From the shape of the cluster of points, the line of best fit should pass roughly through the points $(2, 140)$ and $(5, 260)$. The slope of this line of best fit is $\\frac{y_2 - y_1}{x_2 - x_1} = \\frac{260 - 140}{5 - 2}$, or $40$. The equation for the line of best fit, in slope-intercept form, is $y = 40x + b$ for some value of $b$. Using the point $(2, 140)$, substituting $2$ for $x$ and $140$ for $y$ gives $140 = 40(2) + b$, or $b = 60$. Therefore, an equation for the line of best fit is $y = 40x + 60$.",
+  "source": "https://cooksat.com/practice?questionId=01d7b60b&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/01d7b60b/1-9d0e695facf66d0f.png",
+      "kind": "diagram"
+    }
+  ]
+}

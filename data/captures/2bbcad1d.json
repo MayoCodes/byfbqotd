@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2bbcad1d",
+  "capturedAt": "2026-11-13T23:24:58.656Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A scatterplot shows the relationship between daily high temperature, in degrees Celsius, and the number of ice cream cones sold at a beach shop. The line of best fit is $y = 2.4x + 15$, where $x$ is the temperature and $y$ is the number of cones sold. According to the line of best fit, how many ice cream cones are predicted to be sold when the temperature is $25^°$C?\n\n$$0$$\n\n$$75$$",
+  "choices": {},
+  "correctAnswer": "$75$",
+  "explanation": "The correct answer is $75$. Substituting $x = 25$ into the equation $y = 2.4x + 15$ gives $y = 2.4(25) + 15 = 60 + 15 = 75$.",
+  "source": "https://cooksat.com/practice?questionId=2bbcad1d&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

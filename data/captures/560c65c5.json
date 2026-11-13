@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "560c65c5",
+  "capturedAt": "2026-11-13T23:25:31.358Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Nonlinear Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A study of $12$ people recorded the amount of time each person spent reading a book over a two-week period and the number of pages each person read during that time. The line of best fit for the data is $y=3.5x+12$, where $x$ is the amount of time, in hours, spent reading a book and $y$ is the number of pages read. What is the best interpretation of the slope of the line of best fit in this context?",
+  "choices": {
+    "A": "For each additional page read, the amount of time spent reading is predicted to increase by $3.5$ hours.",
+    "B": "For each additional hour spent reading a book, the number of pages read is predicted to increase by $12$.",
+    "C": "For each additional hour spent reading a book, the number of pages read is predicted to increase by $3.5$.",
+    "D": "For each additional page read, the amount of time spent reading is predicted to increase by $12$ hours."
+  },
+  "correctAnswer": "C",
+  "explanation": "In the equation $y = 3.5x + 12$, the slope is $3.5$. Since $x$ represents hours and $y$ represents pages, the slope indicates that for each increase of $1$ hour in reading time, the number of pages read increases by $3.5$ pages.",
+  "source": "https://cooksat.com/practice?questionId=560c65c5&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

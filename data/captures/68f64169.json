@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "68f64169",
+  "capturedAt": "2026-11-13T23:25:46.838Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Calculate Residual",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$. A line of best fit for the data is also shown.\n\nFor how many of the $10$ data points is the actual $y$-value greater than the $y$-value predicted by the line of best fit?",
+  "choices": {
+    "A": "$3$",
+    "B": "$4$",
+    "C": "$6$",
+    "D": "$9$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A data point whose actual $y$-value is greater than the $y$-value predicted by the line of best fit lies above the line. In the scatterplot shown, $6$ of the $10$ data points lie above the line of best fit. Therefore, $6$ data points have an actual $y$-value that is greater than the predicted $y$-value.",
+  "source": "https://cooksat.com/practice?questionId=68f64169&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/68f64169/1-a0acfbeaa21ac4a4.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "92bdf931",
+  "capturedAt": "2026-11-13T23:26:12.799Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Nonlinear Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher collected data on the diameter, in inches, and the weight, in pounds, of $50$ pumpkins. The equation $y = 0.3x + 5$ models the linear relationship between $x$, the diameter, and $y$, the predicted weight of the pumpkins. What does the number $5$ represent in the equation?",
+  "choices": {
+    "A": "The predicted weight of a pumpkin with a diameter of $0.3$ inches",
+    "B": "The predicted weight of a pumpkin with a diameter of $0$ inches",
+    "C": "The predicted increase in the weight of a pumpkin for each increase of $1$ inch in diameter",
+    "D": "The predicted increase in the weight of a pumpkin for each increase of $5$ inches in diameter"
+  },
+  "correctAnswer": "B",
+  "explanation": "In the linear equation $\\hat{y} = 0.3x + 5$, the constant term $5$ is the $y$-intercept. When $x = 0$, we have $\\hat{y} = 0.3(0) + 5 = 5$. Therefore, $5$ represents the predicted weight of a pumpkin with a diameter of $0$ inches.",
+  "source": "https://cooksat.com/practice?questionId=92bdf931&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

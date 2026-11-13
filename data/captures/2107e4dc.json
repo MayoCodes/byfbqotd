@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2107e4dc",
+  "capturedAt": "2026-11-13T23:24:54.253Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph above shows the relationship between the speed of a particular truck, in miles per hour, and its corresponding braking distance, in feet. Approximately how many feet greater will the truck's braking distance be when the truck is traveling at $50$ miles per hour than when the truck is traveling at $20$ miles per hour?",
+  "choices": {
+    "A": "$60$",
+    "B": "$110$",
+    "C": "$130$",
+    "D": "$230$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. According to the graph, when the truck is traveling at $50$ miles per hour, the braking distance is approximately $160$ feet, and when the truck is traveling at $20$ miles per hour, the braking distance is approximately $30$ feet. The difference between these braking distances is $160 - 30$, or $130$ feet.",
+  "source": "https://cooksat.com/practice?questionId=2107e4dc&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2107e4dc/1-125423b56a8a12f7.png",
+      "kind": "diagram"
+    }
+  ]
+}

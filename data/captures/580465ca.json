@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "580465ca",
+  "capturedAt": "2026-11-13T23:25:33.259Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Estimate Slope of Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA researcher collected data on the relationship between the number of hours a student spent studying and the improvement in the student's score on a mathematics test. The scatterplot shows the data collected, as well as a line of best fit. According to the line of best fit, what is the slope of the line that best represents the relationship between the number of hours a student spent studying and the resulting improvement in the student's score?",
+  "choices": {
+    "A": "$0.5$",
+    "B": "$1$",
+    "C": "$2$",
+    "D": "$4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The scatterplot shows the relationship between the number of hours a student spent studying and the improvement in the student's score on a mathematics test. The equation of the line of best fit is $y=x$, where $y$ represents the test score improvement, in points, and $x$ represents the number of hours spent studying. This equation is in the form $y=mx+b$, where $m$ is the slope and $b$ is the y-intercept. In this case, $m=1$ and $b=0$. Therefore, the slope of the line of best fit is $1$. This means that for each additional hour spent studying, the student's test score improves by approximately $1$ point on average.",
+  "source": "https://cooksat.com/practice?questionId=580465ca&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/580465ca/1-f7d38f86fcfc18a7.png",
+      "kind": "diagram"
+    }
+  ]
+}

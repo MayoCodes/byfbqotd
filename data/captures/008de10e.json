@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "008de10e",
+  "capturedAt": "2026-11-13T23:24:35.324Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$.\n\nWhich of the following graphs shows a line of best fit that is most appropriate for the data shown in the scatterplot?",
+  "choices": {
+    "A": "[Figure 2]",
+    "B": "[Figure 3]",
+    "C": "[Figure 4]",
+    "D": "[Figure 5]"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The data in the scatterplot show a positive correlation, where $y$-values increase as $x$-values increase. Therefore, an appropriate line of best fit must have a positive slope. Additionally, a line of best fit should have the data points distributed relatively evenly above and below the line, minimizing the overall vertical distances (residuals) between the points and the line. The line shown in choice B has a positive slope and passes through the data in a way that balances the points above and below the line throughout the range of $x$-values.",
+  "source": "https://cooksat.com/practice?questionId=008de10e&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/008de10e/1-fb7c59e069c49dd5.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/008de10e/2-5b0a8f58539afe6b.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/008de10e/3-ff8a50a29825b484.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/008de10e/4-966ff1a426826787.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 5",
+      "path": "data/capture-assets/008de10e/5-ad35e8a8701c8a33.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6830fa79",
+  "capturedAt": "2026-11-13T23:25:44.548Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shown gives the number of book checkouts at a city library each year from $1995$ to $2009$, where $t$ is the number of years since $1995$ and $n$ is the number of checkouts. A line of best fit is also shown. Which of the following could be an equation of the line of best fit shown?",
+  "choices": {
+    "A": "$n = 3,210 + 12,050t$",
+    "B": "$n = 6,420 + 12,050t$",
+    "C": "$n = 12,050 + 3,210t$",
+    "D": "$n = 12,050 + 6,420t$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. An equation of a line of best fit can be written in the form $y = a + bx$, where $a$ is the $y$-intercept and $b$ is the slope. In the scatterplot shown, the line of best fit intersects the $y$-axis at approximately $12{,}000$. The line of best fit also passes through the approximate point $(10, 44{,}000)$. Using the slope formula $b = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$ with the points $(0, 12{,}000)$ and $(10, 44{,}000)$, the slope is approximately $\\frac{44{,}000 - 12{,}000}{10 - 0}$, or $3{,}200$. Only choice C has a $y$-intercept near $12{,}000$ and a slope near $3{,}200$. Therefore, an equation of the line of best fit could be $n = 12{,}050 + 3{,}210t$.",
+  "source": "https://cooksat.com/practice?questionId=6830fa79&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6830fa79/1-d592943e12ead555.png",
+      "kind": "diagram"
+    }
+  ]
+}

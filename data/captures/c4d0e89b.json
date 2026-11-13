@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c4d0e89b",
+  "capturedAt": "2026-11-13T23:26:53.619Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Association or Trend",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nTwo investments were made as shown in the table above. The interest in Account X is compounded once per year. Which of the following is true about the investments?",
+  "choices": {
+    "A": "Account X always earns more money per year than Account Y.",
+    "B": "Account X always earns less money per year than Account Y.",
+    "C": "Account X earns more money per year than Account Y at first but eventually earns less money per year.",
+    "D": "Account X earns less money per year than Account Y at first but eventually earns more money per year."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Account X starts with $$800$ and earns interest at $5\\%$ per year, so in the first year Account X earns $(800)(0.05) =$ $$40$, which is greater than the $$35$ that Account Y earns that year. Compounding interest can be modeled by an increasing exponential function, so each year Account X will earn more money than it did the previous year. Therefore, each year Account X earns at least $$40$ in interest. Since Account Y always earns $$35$ each year, Account X always earns more money per year than Account Y.",
+  "source": "https://cooksat.com/practice?questionId=c4d0e89b&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c4d0e89b/1-d2ee519f3c2e505c.png",
+      "kind": "diagram"
+    }
+  ]
+}

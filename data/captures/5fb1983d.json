@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5fb1983d",
+  "capturedAt": "2026-11-13T23:25:37.646Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Calculate Average Rate of Change",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$, for data set P. A line of best fit for the data is also shown. Data set Q is created by subtracting $9$ units from the value of $y$ for each data point from data set P. Which of the following is closest to the $y$-coordinate of the $y$-intercept of the line of best fit for data set Q?",
+  "choices": {
+    "A": "$29.50$",
+    "B": "$38.50$",
+    "C": "$47.50$",
+    "D": "$56.50$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The line of best fit for data set P can be written as $y = mx + b$, where $b$ is the $y$-coordinate of the $y$-intercept. From the graph, the $y$-intercept of the line of best fit for data set P is approximately $47.50$. Subtracting $9$ from each $y$-value shifts the line vertically downward by $9$ units but does not change the slope. Therefore, the $y$-intercept of the line of best fit for data set Q is $47.50 - 9 = 38.50$.",
+  "source": "https://cooksat.com/practice?questionId=5fb1983d&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5fb1983d/1-2dd792677dbeaf8f.png",
+      "kind": "diagram"
+    }
+  ]
+}

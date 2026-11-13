@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "10df9f67",
+  "capturedAt": "2026-11-13T23:24:48.356Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe line graph shows the estimated number of red foxes in a wildlife preserve on June $1$ of each year from $2010$ to $2020$. Based on the line graph, in which year was the estimated number of red foxes in the wildlife preserve the greatest?",
+  "choices": {
+    "A": "$2010$",
+    "B": "$2015$",
+    "C": "$2016$",
+    "D": "$2020$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For the given line graph, the estimated number of red foxes is represented on the vertical axis. The greatest estimated number of red foxes in the wildlife preserve is indicated by the greatest height in the line graph. This height is achieved when the year is $2015$.",
+  "source": "https://cooksat.com/practice?questionId=10df9f67&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/10df9f67/1-49a86b9dbddddf49.png",
+      "kind": "diagram"
+    }
+  ]
+}

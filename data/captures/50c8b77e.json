@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50c8b77e",
+  "capturedAt": "2026-11-13T23:25:27.696Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher collected data on the number of hours students studied and their test scores. The line of best fit for the data is given by the equation $y = 8x + 52$, where $x$ represents the number of hours studied and $y$ represents the predicted test score. According to this model, what test score is predicted for a student who studies for $5$ hours?",
+  "choices": {
+    "A": "$40$",
+    "B": "$52$",
+    "C": "$60$",
+    "D": "$92$"
+  },
+  "correctAnswer": "D",
+  "explanation": "To find the predicted test score for $x = 5$ hours, substitute into the equation: $y = 8(5) + 52 = 40 + 52 = 92$.",
+  "source": "https://cooksat.com/practice?questionId=50c8b77e&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

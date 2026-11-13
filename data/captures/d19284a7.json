@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d19284a7",
+  "capturedAt": "2026-11-13T23:27:02.055Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Nonlinear Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A line of best fit with equation $y=0.8x+100$ is used to model the relationship between the two variables $x$ and $y$ for a set of data. Which statement is the best interpretation of the slope of the line of best fit?",
+  "choices": {
+    "A": "For each increase of 1 unit in $x$, the predicted value of $y$ increases by 0.8 units.",
+    "B": "For each increase of 1 unit in $x$, the predicted value of $y$ decreases by 0.8 units.",
+    "C": "For each increase of 1 unit in $y$, the predicted value of $x$ increases by 0.8 units.",
+    "D": "For each increase of 1 unit in $y$, the predicted value of $x$ decreases by 0.8 units."
+  },
+  "correctAnswer": "A",
+  "explanation": "In the equation $y = 0.8x + 100$, the slope is $0.8$. The slope represents the change in $y$ for each unit increase in $x$. Since the slope is positive, $y$ increases by $0.8$ units for each $1$-unit increase in $x$.",
+  "source": "https://cooksat.com/practice?questionId=d19284a7&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}

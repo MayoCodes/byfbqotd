@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2e8e4869",
+  "capturedAt": "2026-11-13T23:25:00.602Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the number of birds $y$ in a flock observed by a researcher at various wind speeds $x$, in kilometers per hour. Between which of the following consecutive wind speeds did the greatest increase in the observed number of birds take place?",
+  "choices": {
+    "A": "From $x = 42$ to $x = 48$",
+    "B": "From $x = 54$ to $x = 60$",
+    "C": "From $x = 66$ to $x = 72$",
+    "D": "From $x = 72$ to $x = 78$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The scatterplot shows increases in the observed number of birds from $x = 42$ to $x = 48$, from $x = 54$ to $x = 60$, and from $x = 66$ to $x = 72$. When $x = 66$, the observed number of birds was approximately $27$, and when $x = 72$, the observed number of birds was approximately $38$. This means the increase from $x = 66$ to $x = 72$ was approximately $38 - 27 = 11$ birds. The increases from $x = 42$ to $x = 48$ (approximately $35 - 28 = 7$) and from $x = 54$ to $x = 60$ (approximately $31 - 24 = 7$) were each smaller. Therefore, the greatest increase took place from $x = 66$ to $x = 72$.",
+  "source": "https://cooksat.com/practice?questionId=2e8e4869&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2e8e4869/1-4ba9e8bf2a2e06a8.png",
+      "kind": "diagram"
+    }
+  ]
+}

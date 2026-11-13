@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3c4efc09",
+  "capturedAt": "2026-11-13T23:25:15.293Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the percentage of individuals using the internet in two countries, A and B, between the years $2000$ and $2005$, where the value in the Year column represents the number of years since $2000$. Which of the following statements is true?",
+  "choices": {
+    "A": "The percentage of individuals using the internet in Country A was greater in $2001$ than in $2005$.",
+    "B": "The percentage of individuals using the internet in Country B increased by more than $1.0$ percentage point per year on average.",
+    "C": "In each year shown, the percentage of individuals using the internet in Country B was greater than the percentage in Country A.",
+    "D": "The percentage of individuals using the internet in Country A increased at a constant rate."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. In each row of the table, the value for Country B exceeds the value for Country A: $4.1 > 3.0$, $4.8 > 3.3$, $5.4 > 3.6$, $6.0 > 4.0$, $6.6 > 4.5$, and $7.1 > 5.0$.",
+  "source": "https://cooksat.com/practice?questionId=3c4efc09&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/3c4efc09/1-5c232c3f93e7acdb.png",
+      "kind": "diagram"
+    }
+  ]
+}

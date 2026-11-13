@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "10d4d0ef",
+  "capturedAt": "2026-11-13T23:24:45.943Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Interpret Slope of Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph shows the volume $y$, in gallons, of water in a tank $x$ minutes after water began flowing into the tank, for $0 \\le x \\le 8$. What is the average rate of change, in gallons per minute, in the volume of water in the tank from $x = 3$ to $x = 7$?\n\n$$0$$\n\n$$\\frac{3}{2},1.5,1.50$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{3}{2},1.5,1.50$",
+  "explanation": "The correct answer is $\\frac{3}{2}$. For the graph shown, $x$ represents time, in minutes, and $y$ represents volume, in gallons. The average rate of change, in gallons per minute, between two x-values is the difference in the corresponding y-values divided by the difference in the x-values. The graph shows that at $x = 3$, the corresponding y-value is $5$, and at $x = 7$, the corresponding y-value is $11$. It follows that the average rate of change from $x = 3$ to $x = 7$ is $\\frac{11 - 5}{7 - 3}$, which is equivalent to $\\frac{6}{4}$, or $\\frac{3}{2}$. Note that 3/2, 1.5, and 1.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=10d4d0ef&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/10d4d0ef/1-15df1d9373c9191d.png",
+      "kind": "diagram"
+    }
+  ]
+}

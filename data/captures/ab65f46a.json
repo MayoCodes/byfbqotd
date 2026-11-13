@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ab65f46a",
+  "capturedAt": "2026-11-13T23:26:30.884Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Calculate Residual",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$. A line of best fit for the data is also shown. Which of the following is closest to the difference between the $y$-coordinate of the data point with $x = 5$ and the $y$-value predicted by the line of best fit at $x = 5$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$3$",
+    "C": "$7$",
+    "D": "$9$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The data point with $x = 5$ has a $y$-coordinate of $9$. The $y$-value predicted by the line of best fit at $x = 5$ is approximately $7$. The difference between the $y$-coordinate of the data point and the $y$-value predicted by the line of best fit at $x = 5$ is $9 - 7$, or $2$.",
+  "source": "https://cooksat.com/practice?questionId=ab65f46a&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ab65f46a/1-8e98ab2775fcbac4.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "61c2866d",
+  "capturedAt": "2026-11-13T23:25:39.799Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe line graph shows the relative humidity, as a percent, at a certain location for each day during a four-day period. According to the line graph, for which day during this four-day period is the relative humidity $65%$?",
+  "choices": {
+    "A": "Monday",
+    "B": "Tuesday",
+    "C": "Wednesday",
+    "D": "Thursday"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. For the line graph shown, the relative humidity, as a percent, is represented on the vertical axis. According to the line graph, during this four-day period, the relative humidity is $65\\%$ for Thursday.",
+  "source": "https://cooksat.com/practice?questionId=61c2866d&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/61c2866d/1-6f6753eaf64f9772.png",
+      "kind": "diagram"
+    }
+  ]
+}

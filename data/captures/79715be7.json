@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "79715be7",
+  "capturedAt": "2026-11-13T23:25:55.789Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Calculate Residual",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$. A line of best fit is also shown. For how many of the $12$ data points does the line of best fit predict a greater $y$-value than the actual $y$-value?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. The line of best fit predicts a greater $y$-value than the actual $y$-value for any data point located below the line of best fit. For the scatterplot shown, $7$ of the $12$ data points are below the line of best fit. Therefore, the line of best fit predicts a greater $y$-value than the actual $y$-value for $7$ of the data points.",
+  "source": "https://cooksat.com/practice?questionId=79715be7&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/79715be7/1-120a0bbaf623dee5.png",
+      "kind": "diagram"
+    }
+  ]
+}

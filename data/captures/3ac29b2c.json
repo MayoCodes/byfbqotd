@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3ac29b2c",
+  "capturedAt": "2026-11-13T23:25:13.262Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Best Model Type",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nOf the following, which is the best model for the data in the scatterplot?",
+  "choices": {
+    "A": "$y = 3x^{2} - 12x - 16$",
+    "B": "$y = 3x^{2} - 12x + 16$",
+    "C": "$y = 3x^{2} + 12x - 16$",
+    "D": "$y = 3x^{2} + 12x + 16$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The graphical model that best fits the data in the scatterplot is one in which the number of data points above and below the model are approximately balanced. The scatterplot shows an upward-facing parabola with a $y$-intercept near $(0, 16)$ and a vertex with an approximate $x$-value of $2$. Of the given choices, only choice B gives an equation of an upward-facing parabola with a $y$-intercept at $(0, 16)$ (substituting $0$ for $x$ yields $y = 16$) and a vertex at $x = 2$ (substituting $2$ for $x$ yields $y = 12 - 24 + 16 = 4$). This is approximately the $y$-value of the vertex shown by the data.",
+  "source": "https://cooksat.com/practice?questionId=3ac29b2c&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3ac29b2c/1-280a49b380d5e921.png",
+      "kind": "diagram"
+    }
+  ]
+}

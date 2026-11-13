@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8773da99",
+  "capturedAt": "2026-11-13T23:26:00.445Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between the variables $x$ and $y$ for a data set. A line of best fit is also shown. Which of the following could be the equation for the line of best fit?",
+  "choices": {
+    "A": "$y=0.5x+0.5$",
+    "B": "$y=2x+2$",
+    "C": "$y=2x+0.5$",
+    "D": "$y=0.5x+2$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The line of best fit has a positive slope, so the equation for the line of best fit should have a positive coefficient for $x$. All four answer choices have positive slopes, but we can test which equation best fits the data by checking if the line passes through or near the visible points. The line of best fit shown passes through approximately $(0,2)$ and $(5,12)$. Testing $y=2x+2$: at $x=0$, $y=2(0)+2=2$; at $x=5$, $y=2(5)+2=12$. This equation fits the line shown, so $y=2x+2$ is the equation for the line of best fit.",
+  "source": "https://cooksat.com/practice?questionId=8773da99&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8773da99/1-b9631679500c92d7.png",
+      "kind": "diagram"
+    }
+  ]
+}

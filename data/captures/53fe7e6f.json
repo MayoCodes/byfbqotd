@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "53fe7e6f",
+  "capturedAt": "2026-11-13T23:25:29.484Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shown gives the average monthly electricity cost, in dollars, and the floor area, in square feet, for $8$ homes in a certain neighborhood. A line of best fit for the data is also shown. What average monthly electricity cost, in dollars, is predicted by the line of best fit for a home in this neighborhood with a floor area of $3,500$ square feet?",
+  "choices": {
+    "A": "\\26$",
+    "B": "\\30$",
+    "C": "\\34$",
+    "D": "\\38$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The line of best fit passes through the point $(3{,}500, 34)$. Therefore, the line of best fit predicts an average monthly electricity cost of \\34$for a home in this neighborhood with a floor area of$3{,}500$ square feet.",
+  "source": "https://cooksat.com/practice?questionId=53fe7e6f&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/53fe7e6f/1-3c89791224037cda.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b2f199d4",
+  "capturedAt": "2026-11-13T23:26:44.990Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe line graph shows the percent of trucks for sale at a dealership on a given day by model year. For what model year is the percent of trucks for sale the smallest?",
+  "choices": {
+    "A": "$2014$",
+    "B": "$2016$",
+    "C": "$2017$",
+    "D": "$2018$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. For the given line graph, the percent of trucks for sale at the dealership on a given day is represented on the vertical axis. The percent of trucks for sale is the smallest when the height of the line graph is the lowest. The lowest height of the line graph occurs for trucks with a model year of $2017$.",
+  "source": "https://cooksat.com/practice?questionId=b2f199d4&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b2f199d4/1-13a25e861be83cf2.png",
+      "kind": "diagram"
+    }
+  ]
+}

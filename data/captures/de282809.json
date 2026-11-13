@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "de282809",
+  "capturedAt": "2026-11-13T23:27:05.787Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between the height, in inches, of each of $9$ saplings on June $1$ and the number of leaves each sapling had. How many leaves did the $12$-inch sapling have?",
+  "choices": {
+    "A": "$18$",
+    "B": "$20$",
+    "C": "$22$",
+    "D": "$25$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For the scatterplot shown, the height, in inches, of each sapling is represented on the horizontal axis, and the number of leaves is represented on the vertical axis. The number of leaves the $12$-inch sapling had is represented by the vertical coordinate of the point with a horizontal coordinate of $12$. This point has a vertical coordinate of $18$. Therefore, the $12$-inch sapling had $18$ leaves.",
+  "source": "https://cooksat.com/practice?questionId=de282809&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/de282809/1-5be5cbf8fb84b2c3.png",
+      "kind": "diagram"
+    }
+  ]
+}

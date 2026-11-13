@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "35d4410d",
+  "capturedAt": "2026-11-13T23:25:02.838Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Estimate Slope of Line of Best Fit",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the given scatterplot, a line of best fit for the data is shown. Which of the following is closest to the slope of this line of best fit?",
+  "choices": {
+    "A": "$-2$",
+    "B": "$-0.5$",
+    "C": "$0.5$",
+    "D": "$2$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The line of best fit shown has a negative slope since as the value of $x$ increases, the value of $y$ decreases. The slope of a line in the xy-plane that passes through the points $\\left(x_{1}, y_{1}\\right)$ and $\\left(x_{2}, y_{2}\\right)$ can be calculated as $\\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. The line of best fit shown passes approximately through the points $\\left(0, 9\\right)$ and $\\left(12, 3\\right)$. Substituting these points into the slope formula yields $\\frac{3 - 9}{12 - 0} = \\frac{-6}{12} = -0.5$. Therefore, of the given choices, $-0.5$ is closest to the slope of this line of best fit.",
+  "source": "https://cooksat.com/practice?questionId=35d4410d&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/35d4410d/1-a3e7fcc9ae6f6d76.png",
+      "kind": "diagram"
+    }
+  ]
+}

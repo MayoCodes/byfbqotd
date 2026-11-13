@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "38af3691",
+  "capturedAt": "2026-11-13T23:25:06.889Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe line graph shows the number of new library card registrations at a certain community library from $2013$ through $2019$. Of the following, which year had the fewest new library card registrations?",
+  "choices": {
+    "A": "$2014$",
+    "B": "$2015$",
+    "C": "$2018$",
+    "D": "$2019$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The year with the fewest new library card registrations is the point with the lowest value on the vertical axis. This occurs at $2015$.",
+  "source": "https://cooksat.com/practice?questionId=38af3691&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/38af3691/1-fc48e6549d66f9b9.png",
+      "kind": "diagram"
+    }
+  ]
+}

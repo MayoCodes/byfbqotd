@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c75defbf",
+  "capturedAt": "2026-11-13T23:26:55.699Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A line of best fit passes through the points $(2, 2)$ and $(6, 12)$. Which equation best represents this line?",
+  "choices": {
+    "A": "$y = \\frac{5}{2}x + 3$",
+    "B": "$y = \\frac{5}{2}x - 3$",
+    "C": "$y = \\frac{2}{5}x - 3$",
+    "D": "$y = 2x - 3$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Calculate the slope: $m = \\frac{12-2}{6-2} = \\frac{10}{4} = \\frac{5}{2}$. Using point-slope form with $(2, 2)$: $y - 2 = \\frac{5}{2}(x - 2)$, which simplifies to $y = \\frac{5}{2}x - 3$.",
+  "source": "https://cooksat.com/practice?questionId=c75defbf&subject=math&domain=problem-solving-and-data-analysis&skills=two-variable_data_models_and_scatterplots&bank=cooksat",
+  "images": []
+}
