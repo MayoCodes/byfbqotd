@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f03632a7",
+  "capturedAt": "2026-11-13T22:39:08.546Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The length of a rectangle's diagonal is $sqrt(89)$, and the length of one of the rectangle's sides is $5$. What is the perimeter of the rectangle?",
+  "choices": {
+    "A": "$13$",
+    "B": "$26$",
+    "C": "$40$",
+    "D": "$89$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The diagonal of a rectangle divides the rectangle into two congruent right triangles, where the diagonal is the hypotenuse and the sides of the rectangle are the legs. By the Pythagorean theorem, the sum of the squares of the two legs equals the square of the hypotenuse. Let $x$ represent the length of the other side. Then $5^{2} + x^{2} = \\left(\\sqrt{89}\\right)^{2}$, which simplifies to $25 + x^{2} = 89$. Subtracting $25$ from both sides yields $x^{2} = 64$. Taking the positive square root yields $x = 8$. The perimeter of the rectangle is $2\\left(5 + 8\\right) = 2\\left(13\\right) = 26$.",
+  "source": "https://cooksat.com/practice?questionId=f03632a7&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

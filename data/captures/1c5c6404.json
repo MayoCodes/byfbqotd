@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1c5c6404",
+  "capturedAt": "2026-11-13T22:37:18.435Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In right triangle $ABC$, angle $C$ is a right angle. The length of side $AC$ is $6$ and angle $A$ measures $30^°$. What is the value of $B$?",
+  "choices": {
+    "A": "$(sqrt(3))/2$",
+    "B": "$\\frac{1}{2}$",
+    "C": "$sqrt(3)$",
+    "D": "$(2sqrt(3))/3$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Since angle $A = 30^\\circ$ and angle $C = 90^\\circ$, angle $B = 60^\\circ$. In this 30-60-90 triangle, side $AC$ (opposite the $60^\\circ$ angle at $B$) has length $6$. Using the 30-60-90 ratio of $1:\\sqrt{3}:2$, if the side opposite $60^\\circ$ is $6$, then the hypotenuse is $\\frac{6}{\\sqrt{3}} \\cdot 2 = \\frac{12}{\\sqrt{3}} = 4\\sqrt{3}$. Therefore, $\\sin B = \\sin 60^\\circ = \\frac{\\text{opposite}}{\\text{hypotenuse}} = \\frac{6}{4\\sqrt{3}} = \\frac{3}{2\\sqrt{3}} = \\frac{\\sqrt{3}}{2}$.",
+  "source": "https://cooksat.com/practice?questionId=1c5c6404&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

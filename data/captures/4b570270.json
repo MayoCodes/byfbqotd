@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4b570270",
+  "capturedAt": "2026-11-13T22:37:47.749Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the triangle shown, what is the tangent of angle $A$?",
+  "choices": {
+    "A": "$\\frac{3}{5}$",
+    "B": "$\\frac{3}{4}$",
+    "C": "$\\frac{4}{5}$",
+    "D": "$\\frac{4}{3}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The tangent of an angle equals the ratio of the opposite side to the adjacent side. For angle $A$, the opposite side is $BC = 18$ and the adjacent side is $AB = 24$. Therefore, $\\tan(A) = \\frac{18}{24} = \\frac{3}{4}$.",
+  "source": "https://cooksat.com/practice?questionId=4b570270&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4b570270/1-6f1e41fda77a26a4.png",
+      "kind": "diagram"
+    }
+  ]
+}

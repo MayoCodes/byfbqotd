@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cdfd2043",
+  "capturedAt": "2026-11-13T22:38:58.356Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the right triangle shown, what is the value of $(y)$?",
+  "choices": {
+    "A": "$\\frac{3}{5}$",
+    "B": "$\\frac{3}{4}$",
+    "C": "$\\frac{4}{5}$",
+    "D": "$\\frac{4}{3}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "First, find the hypotenuse using the Pythagorean theorem: $c^2 = 6^2 + 8^2 = 100$, so $c = 10$. For angle $y$, the adjacent side is $6$ and the hypotenuse is $10$. Therefore, $\\cos(y) = \\frac{\\text{adjacent}}{\\text{hypotenuse}} = \\frac{6}{10} = \\frac{3}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=cdfd2043&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/cdfd2043/1-28e4f4671784d791.png",
+      "kind": "diagram"
+    }
+  ]
+}

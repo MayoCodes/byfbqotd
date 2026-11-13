@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "442dd26b",
+  "capturedAt": "2026-11-13T22:37:42.124Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the right triangle shown above, what is the length of $KL$?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. Triangle $KLM$ has given angle measures of $30 ^\\circ$ and $90 ^\\circ$, so the third angle must be $60 ^\\circ$ because the measures of the angles of a triangle sum to $180 ^\\circ$. For any special right triangle with angles measuring $30 ^\\circ$, $60 ^\\circ$, and $90 ^\\circ$, the length of the hypotenuse (the side opposite the right angle) is $2x$, where $x$ is the length of the side opposite the $30 ^\\circ$ angle. Segment $\\overline{KL}$ is opposite the $30 ^\\circ$ angle. Therefore, $2(KL) = 14$ and $KL = 7$.",
+  "source": "https://cooksat.com/practice?questionId=442dd26b&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/442dd26b/1-c45e8016eaf18cc2.png",
+      "kind": "diagram"
+    }
+  ]
+}

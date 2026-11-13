@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d80104f4",
+  "capturedAt": "2026-11-13T22:39:02.342Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nRight triangle $PQR$ is shown. What is the value of $P$?",
+  "choices": {
+    "A": "$(sqrt(3))/(86)$",
+    "B": "$1/(sqrt(3))$",
+    "C": "$sqrt(3)$",
+    "D": "$43sqrt(3)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. In the triangle shown, the measure of angle $Q$ is $30 ^\\circ$ and angle $R$ is a right angle, so its measure is $90 ^\\circ$. Since the sum of the angles in a triangle is $180 ^\\circ$, the measure of angle $P$ is $180 ^\\circ - (30 + 90) ^\\circ$, or $60 ^\\circ$. In a $30$-$60$-$90$ right triangle, the sides are in the ratio $x : x\\sqrt{3} : 2x$, where $x$ is the length of the leg opposite the $30 ^\\circ$ angle, $x\\sqrt{3}$ is the length of the leg opposite the $60 ^\\circ$ angle, and $2x$ is the length of the hypotenuse. Since the hypotenuse has length $86$, it follows that $2x = 86$, or $x = 43$. Therefore, the leg opposite angle $Q$ has length $43$ and the leg opposite angle $P$ has length $43\\sqrt{3}$. The tangent of an acute angle is the ratio of the length of the leg opposite the angle to the length of the leg adjacent to the angle. The leg opposite angle $P$ has length $43\\sqrt{3}$ and the leg adjacent to angle $P$ has length $43$. Therefore, $\\tan P = \\frac{43\\sqrt{3}}{43} = \\sqrt{3}$.",
+  "source": "https://cooksat.com/practice?questionId=d80104f4&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d80104f4/1-0da8d7c70fb7d39c.png",
+      "kind": "diagram"
+    }
+  ]
+}

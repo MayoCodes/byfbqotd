@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fde2e6ea",
+  "capturedAt": "2026-11-13T22:39:14.367Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Complementary Angle Relationship",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn triangle $MNP$ above, point $K$ (not shown) lies on $MP$. What is the value of $( MNK) - ( KNP)$?\n\n$$0$$",
+  "choices": {},
+  "correctAnswer": "$0$",
+  "explanation": "The correct answer is $0$. Regardless of where point $K$ lies on $\\overline{MP}$, the sum of the measures of $\\angle MNK$ and $\\angle KNP$ equals the measure of $\\angle MNP$, which is $90 ^\\circ$. Thus, $\\angle MNK$ and $\\angle KNP$ are complementary angles. Since the cosine of an angle equals the sine of its complementary angle, $\\cos(\\angle MNK) = \\sin(\\angle KNP)$. Therefore, $\\cos(\\angle MNK) - \\sin(\\angle KNP) = 0$.",
+  "source": "https://cooksat.com/practice?questionId=fde2e6ea&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/fde2e6ea/1-e5be6b8dfe8040c6.png",
+      "kind": "diagram"
+    }
+  ]
+}

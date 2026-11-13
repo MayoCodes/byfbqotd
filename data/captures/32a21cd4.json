@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "32a21cd4",
+  "capturedAt": "2026-11-13T22:37:33.513Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A right triangle has legs with lengths of $15$ meters and $18$ meters. If the length of this triangle's hypotenuse, in meters, can be written in the form $3sqrt(d)$, where $d$ is an integer, what is the value of $d$?\n\n$$0$$\n\n$$61$$",
+  "choices": {},
+  "correctAnswer": "$61$",
+  "explanation": "The correct answer is $61$. In a right triangle, the square of the length of the hypotenuse equals the sum of the squares of the lengths of the two legs. Letting $h$ represent the length, in meters, of the hypotenuse, $h^{2} = 15^{2} + 18^{2}$. This is equivalent to $h^{2} = 549$. Taking the square root of both sides gives $h = \\sqrt{549}$, which can be rewritten as $h = \\sqrt{9 \\cdot 61} = \\sqrt{9} \\cdot \\sqrt{61} = 3\\sqrt{61}$. Since the hypotenuse can be written in the form $3\\sqrt{d}$, the value of $d$ is $61$.",
+  "source": "https://cooksat.com/practice?questionId=32a21cd4&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

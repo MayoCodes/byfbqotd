@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0e6915a5",
+  "capturedAt": "2026-11-13T22:37:16.012Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A right triangle has legs with lengths of $10$ centimeters and $15$ centimeters. If the length of this triangle's hypotenuse, in centimeters, can be written in the form $5sqrt(b)$, where $b$ is an integer, what is the value of $b$?\n\n$$0$$\n\n$$13$$",
+  "choices": {},
+  "correctAnswer": "$13$",
+  "explanation": "The correct answer is $13$. It's given that the legs of a right triangle have lengths $10$ centimeters and $15$ centimeters. In a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the two legs. If $h$ represents the length, in centimeters, of the hypotenuse, then $h^{2} = 10^{2} + 15^{2}$. This equation is equivalent to $h^{2} = 100 + 225$, or $h^{2} = 325$. Taking the positive square root of each side of this equation yields $h = \\sqrt{325}$. To simplify this radical, we factor $325$: $325 = 25 \\times 13 = 5^{2} \\times 13$. Therefore, $h = \\sqrt{5^{2} \\times 13} = \\sqrt{5^{2}} \\times \\sqrt{13} = 5\\sqrt{13}$. Since it's given that the length of the hypotenuse can be written in the form $5\\sqrt{b}$, where $b$ is an integer, it follows that $b = 13$.",
+  "source": "https://cooksat.com/practice?questionId=0e6915a5&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

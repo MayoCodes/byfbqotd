@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "21f43afc",
+  "capturedAt": "2026-11-13T22:37:26.693Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$JK = 300$$\n\n$$KL = 315$$\n\n$$LJ = 435$$\n\nThe side lengths of right triangle $JKL$ are given.\n\nTriangle $JKL$ is similar to triangle $MNP$, where $K$ corresponds to $N$ and $L$ corresponds to $P$. What is the value of $P$?",
+  "choices": {
+    "A": "$\\frac{(20)}{(29)}$",
+    "B": "$\\frac{(20)}{(21)}$",
+    "C": "$\\frac{(21)}{(29)}$",
+    "D": "$\\frac{(21)}{(20)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The hypotenuse of triangle $JKL$ is the longest side and is opposite the right angle. The longest side length given is $435$, which is the length of side $LJ$. Therefore, the hypotenuse of triangle $JKL$ is side $LJ$, so the right angle is angle $K$. The tangent of an acute angle in a right triangle is the ratio of the length of the opposite side to the length of the adjacent side. It follows that for angle $L$, the opposite side is $JK$ and the adjacent side is $KL$. Therefore, $\\tan L = \\frac{JK}{KL}$. Substituting $300$ for $JK$ and $315$ for $KL$ yields $\\tan L = \\frac{300}{315}$, which simplifies to $\\tan L = \\frac{20}{21}$. It's given that triangle $JKL$ is similar to triangle $MNP$, where $K$ corresponds to $N$ and $L$ corresponds to $P$. Since the tangent ratios of corresponding angles in similar triangles are equal, $\\tan P = \\tan L$. Thus, $\\tan P = \\frac{20}{21}$.",
+  "source": "https://cooksat.com/practice?questionId=21f43afc&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

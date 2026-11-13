@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4c0ee356",
+  "capturedAt": "2026-11-13T22:37:51.493Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In right triangle $ABC$, $C = 90^°$, $AC = 24$, and $BC = 7$. What is the value of $A$?",
+  "choices": {
+    "A": "$\\frac{7}{(25)}$",
+    "B": "$\\frac{7}{(24)}$",
+    "C": "$\\frac{(24)}{(25)}$",
+    "D": "$\\frac{(25)}{7}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Since $\\angle C = 90^\\circ$, we find the hypotenuse using the Pythagorean theorem: $AB = \\sqrt{AC^2 + BC^2} = \\sqrt{24^2 + 7^2} = \\sqrt{576 + 49} = \\sqrt{625} = 25$. For angle $A$, the opposite side is $BC = 7$ and the hypotenuse is $AB = 25$. Therefore, $\\sin A = \\frac{\\text{opposite}}{\\text{hypotenuse}} = \\frac{7}{25}$.",
+  "source": "https://cooksat.com/practice?questionId=4c0ee356&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

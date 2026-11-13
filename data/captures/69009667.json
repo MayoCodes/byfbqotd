@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "69009667",
+  "capturedAt": "2026-11-13T22:38:04.514Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The perimeter of an isosceles right triangle is $28 + 28sqrt(2)$ centimeters. What is the length, in centimeters, of the hypotenuse of this triangle?",
+  "choices": {
+    "A": "$14$",
+    "B": "$14sqrt(2)$",
+    "C": "$28$",
+    "D": "$28sqrt(2)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The perimeter of a triangle is the sum of the lengths of its sides. Since the given triangle is an isosceles right triangle, the length of each leg is the same and the length of the hypotenuse is equal to $\\sqrt{2}$ times the length of a leg. Let $x$ represent the length, in centimeters, of a leg of this isosceles right triangle. Therefore, the perimeter, in centimeters, of the triangle is $x + x + x\\sqrt{2}$, or $2x + x\\sqrt{2}$, which is equivalent to $x(2 + \\sqrt{2})$. It's given that the perimeter is $28 + 28\\sqrt{2}$ centimeters. Thus, $x(2 + \\sqrt{2}) = 28 + 28\\sqrt{2}$. Dividing both sides by $2 + \\sqrt{2}$ yields $x = \\frac{28 + 28\\sqrt{2}}{2 + \\sqrt{2}}$. Multiplying the right-hand side by $\\frac{2 - \\sqrt{2}}{2 - \\sqrt{2}}$ yields $x = \\frac{56 + 56\\sqrt{2} - 28\\sqrt{2} - 56}{2}$, or $x = 14\\sqrt{2}$. It follows that the length of a leg is $14\\sqrt{2}$ centimeters. Therefore, the length of the hypotenuse is $\\left(14\\sqrt{2}\\right)\\left(\\sqrt{2}\\right)$, or $28$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=69009667&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

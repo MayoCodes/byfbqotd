@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9e13d19c",
+  "capturedAt": "2026-11-13T22:38:32.174Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A right triangle has angle measures of $30^°$, $60^°$, and $90^°$. If the shortest side of the triangle is $x$ units and the perimeter of the triangle is $63 + 21sqrt(3)$ units, what is the value of $x$?\n\n$$0$$\n\n$$21$$",
+  "choices": {},
+  "correctAnswer": "$21$",
+  "explanation": "The correct answer is $21$. In a 30-60-90 triangle, the sides are in the ratio $1 : \\sqrt{3} : 2$. If the shortest side (opposite the $30^\\circ$ angle) has length $x$ units, then the side opposite the $60^\\circ$ angle has length $x\\sqrt{3}$ units, and the hypotenuse has length $2x$ units. The perimeter of the triangle is the sum of all three sides: $x + x\\sqrt{3} + 2x$. Combining like terms gives $3x + x\\sqrt{3}$, which can be factored as $x(3 + \\sqrt{3})$. The problem states that the perimeter is $63 + 21\\sqrt{3}$ units. Setting the two expressions equal: $x(3 + \\sqrt{3}) = 63 + 21\\sqrt{3}$. The right side can be factored as $21(3 + \\sqrt{3})$. Therefore, $x(3 + \\sqrt{3}) = 21(3 + \\sqrt{3})$. Dividing both sides by $(3 + \\sqrt{3})$ gives $x = 21$. To verify: if $x = 21$, the three sides are $21$, $21\\sqrt{3}$, and $42$ units, giving a perimeter of $21 + 21\\sqrt{3} + 42 = 63 + 21\\sqrt{3}$ units, which matches the given perimeter.",
+  "source": "https://cooksat.com/practice?questionId=9e13d19c&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

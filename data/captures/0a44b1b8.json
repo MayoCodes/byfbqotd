@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0a44b1b8",
+  "capturedAt": "2026-11-13T22:37:13.420Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nAn artist is designing an emblem for a school. The emblem is shown in the figure above. The emblem is in the shape of a trapezoid and consists of three congruent equilateral triangles. If the perimeter of the emblem is $30$ centimeters, what is the combined area of the shaded regions, in square centimeters, of the emblem?",
+  "choices": {
+    "A": "$3sqrt(3)$",
+    "B": "$9sqrt(3)$",
+    "C": "$18sqrt(3)$",
+    "D": "$36$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The emblem is a trapezoid consisting of three congruent equilateral triangles, and its perimeter of $30$ centimeters (cm) equals the sum of the lengths of $5$ sides of these triangles. Therefore, each side of an equilateral triangle has length $\\frac{30}{5} = 6$ cm. Dividing one equilateral triangle by its altitude creates two congruent $30 ^\\circ$-$60 ^\\circ$-$90 ^\\circ$ triangles. The shorter leg is half the side, or $3$ cm. By the Pythagorean theorem, the height is $\\sqrt{6^{2} - 3^{2}} = \\sqrt{27} = 3\\sqrt{3}$ cm. The area of one equilateral triangle is $\\frac{1}{2} \\times 6 \\times 3\\sqrt{3} = 9\\sqrt{3}$ square centimeters. The two shaded triangles together have area $2 \\times 9\\sqrt{3} = 18\\sqrt{3}$ square centimeters.",
+  "source": "https://cooksat.com/practice?questionId=0a44b1b8&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0a44b1b8/1-f8424becf8261ecd.png",
+      "kind": "diagram"
+    }
+  ]
+}

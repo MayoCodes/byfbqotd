@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8743439f",
+  "capturedAt": "2026-11-13T22:38:16.387Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A square is inscribed in a circle. The radius of the circle is $(14sqrt(2))/2$ centimeters. What is the side length, in centimeters, of the square?",
+  "choices": {
+    "A": "$14$",
+    "B": "$(14sqrt(2))/2$",
+    "C": "$14sqrt(2)$",
+    "D": "$28$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. When a square is inscribed in a circle, a diagonal of the square is a diameter of the circle. It's given that the radius of the circle is $\\frac{14\\sqrt{2}}{2}$ centimeters. Therefore, the length of a diameter of the circle is $2\\left(\\frac{14\\sqrt{2}}{2}\\right)$ centimeters, or $14\\sqrt{2}$ centimeters. It follows that the length of a diagonal of the square is $14\\sqrt{2}$ centimeters. A diagonal of a square separates the square into two right triangles in which the legs are the sides of the square and the hypotenuse is a diagonal. Since a square has $4$ congruent sides, each of these two right triangles has congruent legs and a hypotenuse of length $14\\sqrt{2}$ centimeters. Since each of these two right triangles has congruent legs, they are both $45$-$45$-$90$ triangles. In a $45$-$45$-$90$ triangle, the length of the hypotenuse is $\\sqrt{2}$ times the length of a leg. Let $s$ represent the length of a leg of one of these $45$-$45$-$90$ triangles. It follows that $14\\sqrt{2} = \\sqrt{2}\\left(s\\right)$. Dividing both sides of this equation by $\\sqrt{2}$ yields $14 = s$. Therefore, the side length of the square is $14$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=8743439f&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

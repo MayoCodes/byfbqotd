@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "88a18f86",
+  "capturedAt": "2026-11-13T22:38:18.449Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $PQR$, angle $Q$ is a right angle, the measure of angle $R$ is $41 ^°$, and the length of $QR$ is $24$ units. If the area, in square units, of triangle $PQR$ can be represented by the expression $k 41 ^°$, where $k$ is a constant, what is the value of $k$?\n\n$$0$$\n\n$$288$$",
+  "choices": {},
+  "correctAnswer": "$288$",
+  "explanation": "The correct answer is $288$. The tangent of an acute angle in a right triangle is the ratio of the length of the leg opposite the angle to the length of the leg adjacent to the angle. In triangle $PQR$, angle $Q$ is a right angle, so $\\overline{PQ}$ is the leg opposite angle $R$ and $\\overline{QR}$ is the leg adjacent to angle $R$. It follows that $\\tan R = \\frac{PQ}{QR}$. Since the measure of angle $R$ is $41 ^\\circ$ and the length of $\\overline{QR}$ is $24$ units, substituting gives $\\tan 41 ^\\circ = \\frac{PQ}{24}$. Multiplying both sides by $24$ yields $PQ = 24 \\tan 41 ^\\circ$. The area of a right triangle is half the product of the lengths of its legs, so the area of triangle $PQR$ is $\\frac{1}{2}(24)(24 \\tan 41 ^\\circ) = 288 \\tan 41 ^\\circ$ square units. Since the area equals $k \\tan 41 ^\\circ$, the value of $k$ is $288$.",
+  "source": "https://cooksat.com/practice?questionId=88a18f86&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9e68efd4",
+  "capturedAt": "2026-11-13T22:38:34.116Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $ABC$, $(B) = \\frac{(21)}{(75)}$ and angle $A$ is a right angle. What is the value of $(C)$?\n\n$$0$$\n\n$$\\frac{24}{25},.96,0.96,.960,0.960$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{24}{25},.96,0.96,.960,0.960$",
+  "explanation": "The correct answer is $\\frac{24}{25}$. It's given that angle $A$ is the right angle in triangle $ABC$. Therefore, the acute angles are angle $B$ and angle $C$, and the hypotenuse is side $BC$ (opposite the right angle). The cosine of an acute angle in a right triangle is the ratio of the length of the adjacent side to the length of the hypotenuse. It's given that $\\cos(B) = \\frac{21}{75}$, which can be rewritten as $\\cos(B) = \\frac{7}{25}$. Since the cosine of angle $B$ is a ratio, the length of the side adjacent to angle $B$ is $7n$ and the length of the hypotenuse is $25n$, where $n$ is a constant. Therefore, $AB = 7n$ and $BC = 25n$. By the Pythagorean theorem, $(AB)^{2} + (AC)^{2} = (BC)^{2}$. Substituting gives $(7n)^{2} + (AC)^{2} = (25n)^{2}$, or $49n^{2} + (AC)^{2} = 625n^{2}$. Subtracting $49n^{2}$ from both sides yields $(AC)^{2} = 576n^{2}$, so $AC = 24n$. Since $\\cos(C) = \\frac{AC}{BC}$, it follows that $\\cos(C) = \\frac{24n}{25n} = \\frac{24}{25}$. Note that 24/25, .96, 0.96, .960, and 0.960 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=9e68efd4&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

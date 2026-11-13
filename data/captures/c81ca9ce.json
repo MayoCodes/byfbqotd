@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c81ca9ce",
+  "capturedAt": "2026-11-13T22:38:53.431Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the right triangle shown, the length of $AC$ is $8$ inches, and the length of $BC$ is $15$ inches. What is the perimeter, in inches, of triangle $ABC$?",
+  "choices": {
+    "A": "$23$",
+    "B": "$40$",
+    "C": "$60$",
+    "D": "$120$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Using the Pythagorean theorem: $AB^2 = AC^2 + BC^2 = 8^2 + 15^2 = 64 + 225 = 289$, so $AB = 17$. The perimeter is $AC + BC + AB = 8 + 15 + 17 = 40$.",
+  "source": "https://cooksat.com/practice?questionId=c81ca9ce&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c81ca9ce/1-a11b1da99b351fd2.png",
+      "kind": "diagram"
+    }
+  ]
+}

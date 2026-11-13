@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "43be41f8",
+  "capturedAt": "2026-11-13T22:37:40.499Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In right triangle $ABC$, angle $C$ is a right angle. The length of side $AC$ is $12$ and the length of the hypotenuse $AB$ is $13$. What is the value of $B$?",
+  "choices": {
+    "A": "$\\frac{5}{(13)}$",
+    "B": "$\\frac{5}{(12)}$",
+    "C": "$\\frac{(12)}{(13)}$",
+    "D": "$\\frac{(13)}{(12)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Using the Pythagorean theorem, the length of side $BC$ is $\\sqrt{13^2 - 12^2} = \\sqrt{169 - 144} = \\sqrt{25} = 5$. In the right triangle, $\\sin B$ equals the ratio of the side opposite to angle $B$ (which is $AC = 12$) to the hypotenuse ($AB = 13$). Therefore, $\\sin B = \\frac{12}{13}$.",
+  "source": "https://cooksat.com/practice?questionId=43be41f8&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

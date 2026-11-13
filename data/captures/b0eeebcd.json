@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b0eeebcd",
+  "capturedAt": "2026-11-13T22:38:45.578Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the right triangle shown, angle $x$ measures $62°$ and the hypotenuse is $23$ millimeters. Which of the following is closest to the length, in millimeters, of the shorter leg?",
+  "choices": {
+    "A": "$10.8$",
+    "B": "$12.2$",
+    "C": "$20.3$",
+    "D": "$26.0$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Since angle $x = 62°$, the other acute angle is $90° - 62° = 28°$. The shorter leg is opposite the smaller angle (28°), which is also adjacent to angle $x$. Using cosine: shorter leg $= 23 \\cos(62°) \\approx 23(0.469) \\approx 10.8$.",
+  "source": "https://cooksat.com/practice?questionId=b0eeebcd&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b0eeebcd/1-9e5ce7f9d0d4f359.png",
+      "kind": "diagram"
+    }
+  ]
+}

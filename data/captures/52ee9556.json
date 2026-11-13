@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "52ee9556",
+  "capturedAt": "2026-11-13T22:37:53.235Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the triangle shown, what is the value of $y ^°$?\n\n$$0$$\n\n$$\\frac{19}{27},.7037,0.703,0.704$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{19}{27},.7037,0.703,0.704$",
+  "explanation": "The correct answer is $\\frac{19}{27}$. In a right triangle, the sine of an acute angle is defined as the ratio of the length of the side opposite the angle to the length of the hypotenuse. In the triangle shown, the length of the side opposite the angle with measure $y ^\\circ$ is $19$ units and the length of the hypotenuse is $27$ units. Therefore, the value of $\\sin y ^\\circ$ is $\\frac{19}{27}$. Note that 19/27, .7037, 0.703, and 0.704 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=52ee9556&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/52ee9556/1-d43901a66738e49a.png",
+      "kind": "diagram"
+    }
+  ]
+}

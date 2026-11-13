@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7568b709",
+  "capturedAt": "2026-11-13T22:38:08.264Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the right triangle shown, what is the value of $y$?",
+  "choices": {
+    "A": "$sqrt(2)$",
+    "B": "$sqrt(29)$",
+    "C": "$sqrt(58)$",
+    "D": "$29sqrt(2)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In the right triangle shown, both legs have a length of $29$. Since the two legs have the same length, this is an isosceles right triangle (a 45-45-90 triangle). In an isosceles right triangle, if each leg has length $a$, the hypotenuse has length $a\\sqrt{2}$. Here $a = 29$, so the hypotenuse is $29\\sqrt{2}$. Therefore, the value of $y$ is $29\\sqrt{2}$.",
+  "source": "https://cooksat.com/practice?questionId=7568b709&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7568b709/1-660fa30758b515e2.png",
+      "kind": "diagram"
+    }
+  ]
+}

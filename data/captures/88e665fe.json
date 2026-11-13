@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "88e665fe",
+  "capturedAt": "2026-11-13T22:38:20.343Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$JK = 72$$\n\n$$KL = 135$$\n\n$$LJ = 153$$\n\nThe side lengths of right triangle $JKL$ are given. Triangle $JKL$ is similar to triangle $PQR$, where $K$ corresponds to $Q$ and $L$ corresponds to $R$. What is the value of $R$?",
+  "choices": {
+    "A": "$\\frac{8}{(17)}$",
+    "B": "$\\frac{8}{(15)}$",
+    "C": "$\\frac{(15)}{(17)}$",
+    "D": "$\\frac{(15)}{8}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that right triangle $JKL$ is similar to triangle $PQR$, where $K$ corresponds to $Q$ and $L$ corresponds to $R$. The side lengths of right triangle $JKL$ are $JK = 72$, $KL = 135$, and $LJ = 153$. Corresponding angles in similar triangles are equal, so the measure of angle $L$ equals the measure of angle $R$. The hypotenuse of a right triangle is the longest side, so the hypotenuse of triangle $JKL$ is side $LJ$. The hypotenuse is opposite the right angle, so angle $K$ is the right angle. The side adjacent to angle $L$ (other than the hypotenuse) is $KL$, and the side opposite angle $L$ is $JK$. Therefore, $\\tan L = \\frac{JK}{KL} = \\frac{72}{135} = \\frac{8}{15}$. Since angle $L$ and angle $R$ have equal measures, $\\tan R = \\tan L = \\frac{8}{15}$.",
+  "source": "https://cooksat.com/practice?questionId=88e665fe&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

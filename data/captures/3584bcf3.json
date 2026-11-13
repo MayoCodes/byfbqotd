@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3584bcf3",
+  "capturedAt": "2026-11-13T22:37:35.966Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, $SRT$ is a right triangle with a right angle at $R$. The length of $ST$ is $160$. If the sine of angle $RST$ is equal to $\\frac{1}{2}$, what is the length of $SR$?",
+  "choices": {
+    "A": "$40$",
+    "B": "$80$",
+    "C": "$80sqrt(3)$",
+    "D": "$160$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Since the sine of angle $RST$ equals $\\frac{1}{2}$, angle $RST$ measures $30°$. In a right triangle, $\\sin(\\angle RST) = \\frac{\\text{opposite}}{\\text{hypotenuse}} = \\frac{RT}{ST} = \\frac{RT}{160} = \\frac{1}{2}$, so $RT = 80$. Using the Pythagorean theorem: $SR^2 + RT^2 = ST^2$, which gives $SR^2 + 80^2 = 160^2$. Solving: $SR^2 = 25600 - 6400 = 19200$, so $SR = \\sqrt{19200} = \\sqrt{6400 \\cdot 3} = 80\\sqrt{3}$.",
+  "source": "https://cooksat.com/practice?questionId=3584bcf3&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3584bcf3/1-7016b80b2053c62a.png",
+      "kind": "diagram"
+    }
+  ]
+}

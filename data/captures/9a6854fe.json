@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9a6854fe",
+  "capturedAt": "2026-11-13T22:38:30.312Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a right triangle, one of the acute angles measures $30^°$, and the length of the side opposite this angle is $8$ units. What is the length, in units, of the side adjacent to the $30^°$ angle?",
+  "choices": {
+    "A": "$4sqrt(3)$",
+    "B": "$16$",
+    "C": "$8sqrt(2)$",
+    "D": "$8sqrt(3)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Since $\\sin 30^\\circ = \\frac{\\text{opposite}}{\\text{hypotenuse}} = \\frac{1}{2}$, we have $\\frac{8}{\\text{hypotenuse}} = \\frac{1}{2}$, so the hypotenuse is $16$ units. Then $\\cos 30^\\circ = \\frac{\\text{adjacent}}{\\text{hypotenuse}} = \\frac{\\sqrt{3}}{2}$, so $\\frac{\\text{adjacent}}{16} = \\frac{\\sqrt{3}}{2}$. Therefore, the adjacent side is $16 \\cdot \\frac{\\sqrt{3}}{2} = 8\\sqrt{3}$ units.",
+  "source": "https://cooksat.com/practice?questionId=9a6854fe&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

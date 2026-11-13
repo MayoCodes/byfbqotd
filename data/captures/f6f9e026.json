@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f6f9e026",
+  "capturedAt": "2026-11-13T22:39:12.235Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn triangle $JKL$ shown, $KL < JL$. Which expression represents the length of $JK$?",
+  "choices": {
+    "A": "$25 K$",
+    "B": "$25 K$",
+    "C": "$\\frac{(25)}{( K)}$",
+    "D": "$\\frac{(25)}{( K)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Triangle $JKL$ is a right triangle with the right angle at $L$. For an acute angle in a right triangle, the sine of the angle equals the length of the opposite leg divided by the length of the hypotenuse, and the cosine of the angle equals the length of the adjacent leg divided by the length of the hypotenuse. It follows that $\\sin K = \\frac{JL}{JK}$ and $\\cos K = \\frac{KL}{JK}$, where $KL < JL$. The figure shows that the length of side $JL$ is $25$. Since only the equation $\\sin K = \\frac{JL}{JK}$ contains $JL$, substituting $25$ for $JL$ yields $\\sin K = \\frac{25}{JK}$. Multiplying both sides of this equation by $JK$ gives $JK \\cdot \\sin K = 25$. Dividing both sides by $\\sin K$ yields $JK = \\frac{25}{\\sin K}$. Therefore, the expression $\\frac{25}{\\sin K}$ represents the length of $\\overline{JK}$.",
+  "source": "https://cooksat.com/practice?questionId=f6f9e026&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f6f9e026/1-2c2e52c368d835af.png",
+      "kind": "diagram"
+    }
+  ]
+}

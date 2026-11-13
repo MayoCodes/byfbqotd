@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "59e0bd3a",
+  "capturedAt": "2026-11-13T22:37:56.820Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe lengths of the legs of a right triangle are shown. Which of the following is closest to the length of the triangle's hypotenuse?",
+  "choices": {
+    "A": "$4.1$",
+    "B": "$6.5$",
+    "C": "$9.8$",
+    "D": "$13$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The Pythagorean theorem states that for a right triangle, $a^{2} + b^{2} = c^{2}$, where $a$ and $b$ represent the lengths of the legs of the triangle and $c$ represents the length of its hypotenuse. In the triangle shown, the legs have lengths of $4$ and $9$. Substituting $4$ for $a$ and $9$ for $b$ in the equation $a^{2} + b^{2} = c^{2}$ yields $4^{2} + 9^{2} = c^{2}$, which is equivalent to $16 + 81 = c^{2}$, or $97 = c^{2}$. Taking the positive square root of both sides of this equation yields $\\sqrt{97} = c$. Thus, the value of $c$ is approximately $9.8$. Therefore, of the given choices, $9.8$ is the closest to the length of the triangle's hypotenuse.",
+  "source": "https://cooksat.com/practice?questionId=59e0bd3a&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/59e0bd3a/1-a4d9f3d0ae19373a.png",
+      "kind": "diagram"
+    }
+  ]
+}

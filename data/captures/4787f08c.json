@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4787f08c",
+  "capturedAt": "2026-11-13T22:37:43.959Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In right triangle $ABC$, the measure of $A$ is $90^°$, and $B = \\frac{5}{(13)}$. If the length of $BC$ is $52$ units, what is the length of $AC$?",
+  "choices": {
+    "A": "$5$",
+    "B": "$20$",
+    "C": "$48$",
+    "D": "$52$"
+  },
+  "correctAnswer": "B",
+  "explanation": "In right triangle $ABC$ with the right angle at $A$, $\\overline{BC}$ is the hypotenuse and $\\overline{AC}$ is the side opposite angle $B$. Since $\\sin B = \\frac{\\text{opposite}}{\\text{hypotenuse}} = \\frac{AC}{BC}$, we have $\\frac{5}{13} = \\frac{AC}{52}$. Cross-multiplying gives $13 \\cdot AC = 5 \\cdot 52 = 260$, so $AC = \\frac{260}{13} = 20$ units.",
+  "source": "https://cooksat.com/practice?questionId=4787f08c&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "81d33d71",
+  "capturedAt": "2026-11-13T22:38:14.481Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In right triangle $ABC$, angle $C$ is the right angle. The hypotenuse $AB$ has length $10$ units, and leg $AC$ has length $6$ units. What is the length, in units, of leg $BC$?\n\n$$0$$\n\n$$8$$",
+  "choices": {},
+  "correctAnswer": "$8$",
+  "explanation": "The correct answer is $8$. Since $\\triangle ABC$ is a right triangle with the right angle at $C$, the Pythagorean theorem can be applied: $AB^2 = AC^2 + BC^2$. Substituting the given values $AB = 10$ and $AC = 6$ gives $10^2 = 6^2 + BC^2$, which simplifies to $100 = 36 + BC^2$. Subtracting $36$ from both sides yields $BC^2 = 64$. Taking the positive square root of both sides gives $BC = 8$. Verification: $6^2 + 8^2 = 36 + 64 = 100 = 10^2$. The length of leg $BC$ is $8$ units.",
+  "source": "https://cooksat.com/practice?questionId=81d33d71&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

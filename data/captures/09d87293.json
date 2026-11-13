@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "09d87293",
+  "capturedAt": "2026-11-13T22:37:09.402Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the right triangle shown, what is the value of $P$?",
+  "choices": {
+    "A": "$\\frac{1}{(205)}$",
+    "B": "$\\frac{(48)}{(205)}$",
+    "C": "$\\frac{(205)}{(48)}$",
+    "D": "$205$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The sine of an acute angle in a right triangle is the ratio of the length of the side opposite that angle to the length of the hypotenuse. The hypotenuse of a right triangle is the side opposite the right angle. In right triangle $PQR$, side $QR$ is the side opposite angle $P$ and side $PQ$ is the hypotenuse. It's given that the length of side $QR$ is $48$ units and the length of side $PQ$ is $205$ units. Therefore, the value of $\\sin P$ is $\\frac{48}{205}$.",
+  "source": "https://cooksat.com/practice?questionId=09d87293&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/09d87293/1-90564f74528ee4e2.png",
+      "kind": "diagram"
+    }
+  ]
+}

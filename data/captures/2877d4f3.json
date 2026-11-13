@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2877d4f3",
+  "capturedAt": "2026-11-13T22:37:28.540Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the triangle shown, what is the value of $y ^°$?",
+  "choices": {
+    "A": "$\\frac{1}{(31)}$",
+    "B": "$\\frac{9}{(31)}$",
+    "C": "$\\frac{(22)}{9}$",
+    "D": "$\\frac{(31)}{9}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The tangent of an acute angle in a right triangle is defined as the ratio of the length of the side opposite the angle to the length of the side adjacent to the angle. In the triangle shown, the length of the side opposite the angle with measure $y ^\\circ$ is $31$ units and the length of the side adjacent to the angle with measure $y ^\\circ$ is $9$ units. Therefore, the value of $\\tan y ^\\circ$ is $\\frac{31}{9}$.",
+  "source": "https://cooksat.com/practice?questionId=2877d4f3&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2877d4f3/1-16e992ab67453155.png",
+      "kind": "diagram"
+    }
+  ]
+}

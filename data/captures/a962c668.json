@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a962c668",
+  "capturedAt": "2026-11-13T22:38:38.455Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A right triangle has one leg of length $3$ and a hypotenuse of length $5$. What is the length of the other leg of the triangle?\n\n$$0$$\n\n$$4$$",
+  "choices": {},
+  "correctAnswer": "$4$",
+  "explanation": "The correct answer is $4$. Using the Pythagorean theorem: $3^2 + b^2 = 5^2$, so $9 + b^2 = 25$. Therefore $b^2 = 16$, and $b = 4$.",
+  "source": "https://cooksat.com/practice?questionId=a962c668&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

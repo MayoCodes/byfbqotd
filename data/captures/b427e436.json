@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b427e436",
+  "capturedAt": "2026-11-13T22:38:47.814Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The tangent of one of the acute angles in a right triangle is $(sqrt(2))/2$. What is the tangent of the other acute angle of this triangle?",
+  "choices": {
+    "A": "$-2/(sqrt(2))$",
+    "B": "$-(sqrt(2))/2$",
+    "C": "$(sqrt(2))/2$",
+    "D": "$2/(sqrt(2))$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In a right triangle with legs of lengths $a$ and $b$, the tangent of one acute angle is $\\frac{a}{b}$ (opposite over adjacent), while the tangent of the other acute angle is $\\frac{b}{a}$. Thus, the tangents of the two acute angles in a right triangle are reciprocals of each other. The reciprocal of $\\frac{\\sqrt{2}}{2}$ is $\\frac{2}{\\sqrt{2}}$.",
+  "source": "https://cooksat.com/practice?questionId=b427e436&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

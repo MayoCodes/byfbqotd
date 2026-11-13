@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a016c82d",
+  "capturedAt": "2026-11-13T22:38:36.006Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the right triangle shown, what is the value of $y$?",
+  "choices": {
+    "A": "$sqrt(57)$",
+    "B": "$sqrt(114)$",
+    "C": "$sqrt(770)$",
+    "D": "$sqrt(1709)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The Pythagorean theorem states that in a right triangle, the sum of the squares of the lengths of the two legs is equal to the square of the length of the hypotenuse. The right triangle shown has legs with lengths of $22$ and $35$ and hypotenuse with length $y$. Therefore, by the Pythagorean theorem, $22^{2} + 35^{2} = y^{2}$, or $484 + 1{,}225 = y^{2}$, which is equivalent to $1{,}709 = y^{2}$. Taking the positive square root of both sides of this equation yields $y = \\sqrt{1{,}709}$. Therefore, the value of $y$ is $\\sqrt{1{,}709}$.",
+  "source": "https://cooksat.com/practice?questionId=a016c82d&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a016c82d/1-d4093da9466e309a.png",
+      "kind": "diagram"
+    }
+  ]
+}

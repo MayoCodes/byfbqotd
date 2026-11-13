@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dd653302",
+  "capturedAt": "2026-11-13T22:39:04.696Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure above, $Q = \\frac{5}{(12)}$. If $QR = 26$ and $TP = 12$, what is the length of $TS$?\n\n$$0$$\n\n$$5$$",
+  "choices": {},
+  "correctAnswer": "$5$",
+  "explanation": "The correct answer is $5$. Since $\\tan Q = \\frac{5}{12}$, triangle $PQR$ and triangle $TQS$ are both similar to a $5$-$12$-$13$ right triangle. Since $QR = 26$, which is $2$ times the hypotenuse of the $5$-$12$-$13$ triangle, the similarity ratio of triangle $PQR$ to the $5$-$12$-$13$ triangle is $2:1$. Therefore, the length of $\\overline{PR}$ (the side opposite to $\\angle Q$) is $5 \\times 2 = 10$, and the length of $\\overline{PQ}$ (the side adjacent to $\\angle Q$) is $12 \\times 2 = 24$. It is given that $TP = 12$. Since $PQ = TP + TQ$ and $PQ = 24$, it follows that $TQ = 12$, which means the similarity ratio of triangle $TQS$ to the $5$-$12$-$13$ triangle is $1:1$ ($\\overline{TQ}$ is the side adjacent to $\\angle Q$). Therefore, the length of $\\overline{TS}$, which is the side opposite to $\\angle Q$, is $5 \\times 1 = 5$.",
+  "source": "https://cooksat.com/practice?questionId=dd653302&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/dd653302/1-9b28c6328eb23830.png",
+      "kind": "diagram"
+    }
+  ]
+}

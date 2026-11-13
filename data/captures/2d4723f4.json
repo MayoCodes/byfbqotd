@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2d4723f4",
+  "capturedAt": "2026-11-13T22:37:30.954Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The perimeter of an equilateral triangle is $741$ millimeters. The three vertices of the triangle lie on a circle. The radius of the circle is $ksqrt(3)$ millimeters. What is the value of $k$?\n\n$$0$$\n\n$$\\frac{247}{3},82.33$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{247}{3},82.33$",
+  "explanation": "The correct answer is $\\frac{247}{3}$. Since the perimeter of a triangle is the sum of the lengths of its sides, and the given triangle is equilateral, the length of each side is $\\frac{741}{3}$, or $247$, millimeters (mm). A right triangle $PMO$ can be formed, where $M$ is the midpoint of one of the triangle's sides, $P$ is one of this side's endpoints, and $O$ is the center of the circle. It follows that $PM$ is $\\frac{247}{2}$ mm. Additionally, triangle $PMO$ has angles measuring $30 ^\\circ$, $60 ^\\circ$, and $90 ^\\circ$, where the measure of angle $OMP$ is $90 ^\\circ$ and the measure of angle $OPM$ is $30 ^\\circ$. It follows that the length of side $MO$ is half the length of hypotenuse $PO$, and the length of side $PM$ is $\\sqrt{3}$ times the length of side $MO$. It's given that $PO = k\\sqrt{3}$ mm. Therefore, $MO = \\frac{k\\sqrt{3}}{2}$ mm and $PM = \\frac{k\\sqrt{3}\\cdot\\sqrt{3}}{2}$ mm, which is equivalent to $PM = \\frac{3k}{2}$ mm. Since $PM = \\frac{247}{2}$ mm, it follows that $\\frac{3k}{2} = \\frac{247}{2}$. Multiplying both sides of this equation by $2$ yields $3k = 247$. Dividing both sides of this equation by $3$ yields $k = \\frac{247}{3}$. Note that 247/3 and 82.33 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=2d4723f4&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

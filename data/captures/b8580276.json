@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b8580276",
+  "capturedAt": "2026-11-13T22:38:49.624Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The length of a rectangle's diagonal is $6sqrt(26)$, and the length of the rectangle's shorter side is $6$. What is the length of the rectangle's longer side?",
+  "choices": {
+    "A": "$sqrt(26)$",
+    "B": "$12sqrt(13)$",
+    "C": "$30$",
+    "D": "$900$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A rectangle's diagonal divides the rectangle into two congruent right triangles, where the diagonal is the hypotenuse of each triangle. It's given that the length of the diagonal is $6\\sqrt{26}$ and the length of the shorter side is $6$. To find the length of the longer leg of each right triangle, apply the Pythagorean theorem, $a^{2} + b^{2} = c^{2}$, where $a$ and $b$ are the lengths of the legs and $c$ is the length of the hypotenuse. Substituting $6$ for $a$ and $6\\sqrt{26}$ for $c$ yields $6^{2} + b^{2} = \\left(6\\sqrt{26}\\right)^{2}$, which is equivalent to $36 + b^{2} = 36(26)$, or $36 + b^{2} = 936$. Subtracting $36$ from each side yields $b^{2} = 900$. Taking the positive square root of each side yields $b = 30$. Therefore, the length of the rectangle's longer side is $30$.",
+  "source": "https://cooksat.com/practice?questionId=b8580276&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

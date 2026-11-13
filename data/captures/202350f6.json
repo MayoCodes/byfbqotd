@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "202350f6",
+  "capturedAt": "2026-11-13T22:37:24.621Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Triangle $JKL$ is similar to triangle $PQR$, where angle $J$ corresponds to angle $P$ and angles $L$ and $R$ are right angles. The length of $JK$ is $3.4$ times the length of $PQ$. If $J = \\frac{9}{(40)}$, what is the value of $P$?\n\n$$0$$\n\n$$\\frac{9}{41},.2195,0.219,0.220$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{9}{41},.2195,0.219,0.220$",
+  "explanation": "The correct answer is $\\frac{9}{41}$. Since triangle $JKL$ is similar to triangle $PQR$ with angle $J$ corresponding to angle $P$, the tangents of corresponding angles are equal, so $\\tan P = \\tan J = \\frac{9}{40}$. In right triangle $PQR$, the right angle is at $R$, so the leg opposite angle $P$ is $\\overline{QR}$ and the leg adjacent to angle $P$ is $\\overline{PR}$. Therefore, the ratio of the length of $\\overline{QR}$ to the length of $\\overline{PR}$ is $\\frac{9}{40}$. If the lengths of $\\overline{QR}$ and $\\overline{PR}$ are $9$ and $40$, respectively, then by the Pythagorean theorem, $\\left(9\\right)^{2} + \\left(40\\right)^{2} = \\left(PQ\\right)^{2}$, or $1681 = \\left(PQ\\right)^{2}$. Taking the positive square root of both sides yields $PQ = 41$. The value of $\\sin P$ is the ratio of the length of the leg opposite angle $P$ to the length of the hypotenuse, which is $\\frac{QR}{PQ} = \\frac{9}{41}$. Note that 9/41, .2195, 0.219, and 0.220 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=202350f6&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

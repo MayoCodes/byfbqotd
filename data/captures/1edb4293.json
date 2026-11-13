@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1edb4293",
+  "capturedAt": "2026-11-13T22:37:22.737Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In a right triangle, the length of the hypotenuse is $13$ and the length of one leg is $5$. What is the length of the other leg?\n\n$$0$$\n\n$$12$$",
+  "choices": {},
+  "correctAnswer": "$12$",
+  "explanation": "The correct answer is $12$. In a right triangle, the Pythagorean theorem states that if $a$ and $b$ are the lengths of the legs and $c$ is the length of the hypotenuse, then $a^{2} + b^{2} = c^{2}$. It is given that the hypotenuse has length $13$ and one leg has length $5$. Let $x$ represent the length of the other leg. Substituting into the Pythagorean theorem gives $5^{2} + x^{2} = 13^{2}$. This simplifies to $25 + x^{2} = 169$. Subtracting $25$ from both sides yields $x^{2} = 144$. Taking the positive square root of both sides gives $x = 12$. Therefore, the length of the other leg is $12$.",
+  "source": "https://cooksat.com/practice?questionId=1edb4293&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

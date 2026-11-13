@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3fc9ccaf",
+  "capturedAt": "2026-11-13T22:37:38.778Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Complementary Angle Relationship",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In right triangle $JKL$, the sum of the measures of angle $J$ and angle $K$ is $90 ^°$. The value of $(J)$ is $(3sqrt(5))/7$. What is the value of $(K)$?",
+  "choices": {
+    "A": "$\\frac{2}{7}$",
+    "B": "$(3sqrt(5))/7$",
+    "C": "$(3sqrt(5))/2$",
+    "D": "$(7sqrt(5))/2$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The sine of an angle is equal to the cosine of its complementary angle. It's given that in right triangle $JKL$, the sum of the measures of angle $J$ and angle $K$ is $90 ^\\circ$; therefore, angles $J$ and $K$ are complementary angles. It follows that $\\sin(J) = \\cos(K)$. Since it's given that $\\sin(J) = \\frac{3\\sqrt{5}}{7}$, the value of $\\cos(K)$ is $\\frac{3\\sqrt{5}}{7}$.",
+  "source": "https://cooksat.com/practice?questionId=3fc9ccaf&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

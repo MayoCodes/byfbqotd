@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "082be965",
+  "capturedAt": "2026-11-13T22:37:06.848Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The perimeter of an equilateral triangle is $852$ centimeters. The height of this triangle is $n sqrt(3)$ centimeters, where $n$ is a constant. What is the value of $n$?\n\n$$0$$\n\n$$142$$",
+  "choices": {},
+  "correctAnswer": "$142$",
+  "explanation": "The correct answer is $142$. An equilateral triangle has three equal sides and three $60 ^\\circ$ angles. The altitude from one vertex divides the equilateral triangle into two congruent 30-60-90 right triangles, where the altitude is opposite the $60 ^\\circ$ angle. Since the altitude has length $n \\sqrt{3}$, the properties of 30-60-90 triangles give the side opposite the $30 ^\\circ$ angle a length of $n$ and the hypotenuse a length of $2n$. The hypotenuse is a side of the equilateral triangle, so each side of the equilateral triangle has length $2n$. The perimeter is $2n + 2n + 2n = 6n$. Since the perimeter is $852$, $6n = 852$, and dividing both sides by $6$ yields $n = 142$.",
+  "source": "https://cooksat.com/practice?questionId=082be965&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

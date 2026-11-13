@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7a2d5cab",
+  "capturedAt": "2026-11-13T22:38:10.370Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the isosceles right triangle shown, one leg has a length of $37$ and the other leg has a length of $x$. What is the value of $x$?",
+  "choices": {
+    "A": "$37$",
+    "B": "$45$",
+    "C": "$74$",
+    "D": "$82$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since the two acute angles have the same measure and the third angle is a right angle, the triangle shown is an isosceles right triangle. In an isosceles right triangle, the two legs have the same length. The figure shows that the length of one leg of the triangle is $37$ and the length of the other leg of the triangle is $x$. It follows that the value of $x$ is $37$.",
+  "source": "https://cooksat.com/practice?questionId=7a2d5cab&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7a2d5cab/1-5253ba91874f7297.png",
+      "kind": "diagram"
+    }
+  ]
+}

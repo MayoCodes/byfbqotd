@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "986fc648",
+  "capturedAt": "2026-11-13T22:38:28.412Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $PQR$, the measure of angle $Q$ is $90 ^°$ and $QS$ is an altitude of the triangle. The length of $PQ$ is $17$ and the length of $PR$ is $11$ greater than the length of $PQ$. What is the value of $\\frac{(QR)}{(QS)}$?",
+  "choices": {
+    "A": "$\\frac{(17)}{(28)}$",
+    "B": "$\\frac{(17)}{(45)}$",
+    "C": "$\\frac{(28)}{(17)}$",
+    "D": "$\\frac{(45)}{(17)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that in triangle $PQR$, the measure of angle $Q$ is $90 ^\\circ$ and the length of $\\overline{PQ}$ is $17$. It's also given that the length of $\\overline{PR}$ is $11$ greater than the length of $\\overline{PQ}$, so $PR = 17 + 11 = 28$. Since angle $Q$ is a right angle, $\\overline{PR}$ is the hypotenuse of the triangle. By the Pythagorean theorem, $PQ^{2} + QR^{2} = PR^{2}$. Substituting the known values yields $17^{2} + QR^{2} = 28^{2}$, or $289 + QR^{2} = 784$. Subtracting $289$ from both sides gives $QR^{2} = 495$, so $QR = \\sqrt{495}$. It's given that $QS$ is an altitude of the triangle. Since angle $Q$ is the right angle, $QS$ is the altitude from the right angle to the hypotenuse $\\overline{PR}$. The area of a triangle can be calculated using any base-height pair. Using $\\overline{PQ}$ as the base and $\\overline{QR}$ as the height, the area is $\\frac{1}{2} \\left( PQ \\right) \\left( QR \\right) = \\frac{1}{2} \\left( 17 \\right) \\left( \\sqrt{495} \\right)$. Using $\\overline{PR}$ as the base and $\\overline{QS}$ as the height, the area is $\\frac{1}{2} \\left( PR \\right) \\left( QS \\right) = \\frac{1}{2} \\left( 28 \\right) \\left( QS \\right)$. Setting these equal yields $\\frac{1}{2} \\left( 17 \\right) \\left( \\sqrt{495} \\right) = \\frac{1}{2} \\left( 28 \\right) \\left( QS \\right)$, which simplifies to $17 \\sqrt{495} = 28 \\cdot QS$. Therefore, $QS = \\frac{17 \\sqrt{495}}{28}$, and $\\frac{QR}{QS} = \\frac{\\sqrt{495}}{\\frac{17 \\sqrt{495}}{28}} = \\frac{\\sqrt{495} \\cdot 28}{17 \\sqrt{495}} = \\frac{28}{17}$.",
+  "source": "https://cooksat.com/practice?questionId=986fc648&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

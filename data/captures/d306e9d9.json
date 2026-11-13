@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d306e9d9",
+  "capturedAt": "2026-11-13T22:39:00.619Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangle $PQR$ is similar to triangle $STU$, where angle $P$ corresponds to angle $S$ and angles $Q$ and $T$ are right angles. If $(P) = \\frac{(260)}{(377)}$, what is the value of $(S)$?",
+  "choices": {
+    "A": "$\\frac{(260)}{(377)}$",
+    "B": "$\\frac{(273)}{(377)}$",
+    "C": "$\\frac{(377)}{(273)}$",
+    "D": "$\\frac{(377)}{(260)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. If two triangles are similar, then their corresponding angles are congruent. It's given that right triangle $PQR$ is similar to right triangle $STU$ and angle $P$ corresponds to angle $S$. It follows that angle $P$ is congruent to angle $S$, so the measure of angle $P$ is equal to the measure of angle $S$. The sine ratios of angles of equal measure are equal, so $\\sin(P) = \\sin(S)$. Since $\\sin(P) = \\frac{260}{377}$, $\\sin(S) = \\frac{260}{377}$.",
+  "source": "https://cooksat.com/practice?questionId=d306e9d9&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

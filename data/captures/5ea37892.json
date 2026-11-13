@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5ea37892",
+  "capturedAt": "2026-11-13T22:37:58.808Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A right triangle has legs with lengths of $7$ inches and $6$ inches. What is the length of this triangle's hypotenuse, in inches?",
+  "choices": {
+    "A": "$sqrt(26)$",
+    "B": "$sqrt(85)$",
+    "C": "$13$",
+    "D": "$85$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The Pythagorean theorem states that for a right triangle, $c^{2} = a^{2} + b^{2}$, where $c$ represents the length of the hypotenuse and $a$ and $b$ represent the lengths of the legs. It's given that a right triangle has legs with lengths of $7$ inches and $6$ inches. Substituting $7$ for $a$ and $6$ for $b$ in the formula $c^{2} = a^{2} + b^{2}$ yields $c^{2} = 7^{2} + 6^{2}$, which is equivalent to $c^{2} = 49 + 36$, or $c^{2} = 85$. Taking the square root of each side of this equation yields $c = \\pm \\sqrt{85}$. Since $c$ represents a length, $c$ must be positive. Therefore, the length of the triangle's hypotenuse, in inches, is $\\sqrt{85}$.",
+  "source": "https://cooksat.com/practice?questionId=5ea37892&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

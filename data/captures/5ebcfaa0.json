@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5ebcfaa0",
+  "capturedAt": "2026-11-13T22:38:00.592Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A right triangle has legs with lengths of $3$ feet and $4$ feet. What is the length, in feet, of the hypotenuse?",
+  "choices": {
+    "A": "$3$",
+    "B": "$4$",
+    "C": "$5$",
+    "D": "$7$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The Pythagorean theorem states that $c^{2} = a^{2} + b^{2}$ for a right triangle, where $c$ is the hypotenuse and $a$ and $b$ are the legs. Substituting $3$ for $a$ and $4$ for $b$ gives $c^{2} = 3^{2} + 4^{2} = 9 + 16 = 25$. Taking the positive square root gives $c = 5$ feet.",
+  "source": "https://cooksat.com/practice?questionId=5ebcfaa0&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

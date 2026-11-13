@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "68aca42f",
+  "capturedAt": "2026-11-13T22:38:02.571Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A rectangle is inscribed in a circle, and each vertex of the rectangle lies on the circle. The length of the diagonal of the rectangle is twice the length of the shorter side of the rectangle. If the area of the rectangle is $729sqrt(3)$ square units, what is the length, in units, of the diameter of the circle?\n\n$$0$$\n\n$$54$$",
+  "choices": {},
+  "correctAnswer": "$54$",
+  "explanation": "The correct answer is $54$. Since each vertex of the rectangle lies on the circle, the diagonal of the rectangle is a diameter of the circle. Let $s$ represent the length, in units, of the shorter side of the rectangle. Since the diagonal is twice the length of the shorter side, the diagonal has length $2s$. The diagonal, the shorter side, and the longer side of the rectangle form a right triangle in which the shorter side and longer side are the legs and the diagonal is the hypotenuse. By the Pythagorean theorem, $s^{2} + b^{2} = (2s)^{2}$, where $b$ is the length of the longer side. This gives $s^{2} + b^{2} = 4s^{2}$, so $b^{2} = 3s^{2}$, and $b = s\\sqrt{3}$. The area of the rectangle equals the product of its two side lengths, so $s \\cdot s\\sqrt{3} = 729\\sqrt{3}$, or $s^{2}\\sqrt{3} = 729\\sqrt{3}$. Dividing both sides by $\\sqrt{3}$ gives $s^{2} = 729$, so $s = 27$. The diameter of the circle equals the diagonal of the rectangle, which is $2s = 2(27) = 54$.",
+  "source": "https://cooksat.com/practice?questionId=68aca42f&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

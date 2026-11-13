@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "933bb46f",
+  "capturedAt": "2026-11-13T22:38:22.533Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In right triangle $ABC$ with the right angle at $B$, $A = \\frac{3}{5}$ and $AC = 20$. The altitude from $B$ to the hypotenuse $AC$ intersects $AC$ at point $D$. What is the length of $BD$?",
+  "choices": {
+    "A": "$8$",
+    "B": "$\\frac{(48)}{5}$",
+    "C": "$10$",
+    "D": "$12$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since $\\sin A = \\frac{3}{5}$ and hypotenuse $AC = 20$, the opposite side $BC = 20 \\cdot \\frac{3}{5} = 12$. Using the Pythagorean theorem: $AB = \\sqrt{20^2 - 12^2} = \\sqrt{256} = 16$. The area of triangle $ABC$ is $\\frac{1}{2} \\cdot AB \\cdot BC = \\frac{1}{2} \\cdot 16 \\cdot 12 = 96$. Using the altitude $BD$ to hypotenuse $AC$: Area $= \\frac{1}{2} \\cdot AC \\cdot BD = \\frac{1}{2} \\cdot 20 \\cdot BD = 96$. Therefore $BD = \\frac{192}{20} = \\frac{48}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=933bb46f&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

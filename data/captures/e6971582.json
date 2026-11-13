@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e6971582",
+  "capturedAt": "2026-11-13T22:39:06.733Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn triangle $JKL$, what is the value of $b ^°$?",
+  "choices": {
+    "A": "$\\frac{8}{(15)}$",
+    "B": "$\\frac{(15)}{8}$",
+    "C": "$\\frac{h}{8}$",
+    "D": "$\\frac{h}{(15)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The tangent of an acute angle in a right triangle is the ratio of the length of the side opposite that angle to the length of the side adjacent to that angle. In right triangle $JKL$, angle $b ^\\circ$ is located at vertex $L$. The side opposite angle $b ^\\circ$ is $\\overline{JK}$, which has length $8$, and the side adjacent to angle $b ^\\circ$ is $\\overline{KL}$, which has length $15$. Therefore, the value of $\\tan b ^\\circ$ is $\\frac{8}{15}$.",
+  "source": "https://cooksat.com/practice?questionId=e6971582&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/e6971582/1-39a766bc9ae2808c.png",
+      "kind": "diagram"
+    }
+  ]
+}

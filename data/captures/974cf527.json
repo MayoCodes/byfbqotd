@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "974cf527",
+  "capturedAt": "2026-11-13T22:38:26.529Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $ABC$, angle $C$ is a right angle. The length of $AB$, the hypotenuse, is $13$ units. The length of $BC$ is $5$ units. What is the length of $AC$?\n\n$$0$$\n\n$$12$$",
+  "choices": {},
+  "correctAnswer": "$12$",
+  "explanation": "The correct answer is $12$. Using the Pythagorean theorem: $AC^2 + BC^2 = AB^2$. Substituting: $AC^2 + 5^2 = 13^2$, so $AC^2 + 25 = 169$. Therefore $AC^2 = 144$, and $AC = 12$.",
+  "source": "https://cooksat.com/practice?questionId=974cf527&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "93adfe03",
+  "capturedAt": "2026-11-13T22:38:24.756Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Complementary Angle Relationship",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For two acute angles $P$ and $Q$, the measure of angle $Q$ is $27 ^°$ and $\\frac{( P)}{( Q)} = 1$. What is the measure, in degrees, of angle $P$?",
+  "choices": {
+    "A": "$27$",
+    "B": "$45$",
+    "C": "$63$",
+    "D": "$73$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The given equation $\\frac{\\cos P}{\\sin Q} = 1$ can be rewritten as $\\cos P = \\sin Q$. The cosine of any acute angle equals the sine of its complement, so angle $P$ and angle $Q$ are complementary, meaning $P + Q = 90$. Substituting $27$ for $Q$ yields $P + 27 = 90$, so $P = 63$. Therefore, the measure of angle $P$ is $63$ degrees.",
+  "source": "https://cooksat.com/practice?questionId=93adfe03&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

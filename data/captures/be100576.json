@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "be100576",
+  "capturedAt": "2026-11-13T22:38:51.430Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a right triangle, the length of the side opposite angle $A$ is $16$, and the length of the side adjacent to angle $A$ is $30$. What is $A$?",
+  "choices": {
+    "A": "$\\frac{8}{(17)}$",
+    "B": "$\\frac{8}{(15)}$",
+    "C": "$\\frac{(15)}{(17)}$",
+    "D": "$\\frac{(15)}{8}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The cosine of an acute angle in a right triangle is the ratio of the length of the adjacent side to the length of the hypotenuse. Using the Pythagorean theorem with opposite = 16 and adjacent = 30, the hypotenuse is $\\sqrt{16^2 + 30^2} = \\sqrt{1156} = 34$. Therefore, $\\cos A = \\frac{30}{34} = \\frac{15}{17}$.",
+  "source": "https://cooksat.com/practice?questionId=be100576&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "497d42df",
+  "capturedAt": "2026-11-13T22:37:45.772Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Complementary Angle Relationship",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For two acute angles, $M$ and $N$, $(M) = (N)$. The measures, in degrees, of $M$ and $N$ are $3x + 8$ and $2x + 12$, respectively. What is the value of $x$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$14$",
+    "C": "$26$",
+    "D": "$32$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For two acute angles, if the cosine of one angle equals the sine of the other angle, the angles are complementary; that is, their measures sum to $90$ degrees. Since $\\cos\\left(M\\right) = \\sin\\left(N\\right)$, it follows that $\\angle M$ and $\\angle N$ are complementary. Therefore, $(3x + 8) + (2x + 12) = 90$. Combining like terms gives $5x + 20 = 90$. Subtracting $20$ from both sides yields $5x = 70$. Dividing both sides by $5$ yields $x = 14$.",
+  "source": "https://cooksat.com/practice?questionId=497d42df&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

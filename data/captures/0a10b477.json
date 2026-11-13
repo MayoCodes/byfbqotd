@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0a10b477",
+  "capturedAt": "2026-11-13T22:37:11.153Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Complementary Angle Relationship",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nTriangle $PQR$ shown is a right triangle. Which of the following has the same value as $P$?",
+  "choices": {
+    "A": "$P$",
+    "B": "$Q$",
+    "C": "$P$",
+    "D": "$Q$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The sine of an acute angle in a right triangle equals the cosine of its complementary angle. In the triangle shown, angle $R$ is a right angle, so angles $P$ and $Q$ are complementary. Therefore, $\\cos Q$ has the same value as $\\sin P$.",
+  "source": "https://cooksat.com/practice?questionId=0a10b477&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0a10b477/1-bb4d567ae9e0a351.png",
+      "kind": "diagram"
+    }
+  ]
+}

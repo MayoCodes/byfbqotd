@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7ee1b5d6",
+  "capturedAt": "2026-11-13T22:38:12.588Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich equation shows the relationship between the side lengths of the given triangle?",
+  "choices": {
+    "A": "$m + n = 17$",
+    "B": "$mn = 17$",
+    "C": "$m^{2} - n^{2} = 17^{2}$",
+    "D": "$m^{2} + n^{2} = 17^{2}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The Pythagorean theorem states that in a right triangle, the sum of the squares of the lengths of the two legs is equal to the square of the length of the hypotenuse. That is, $a^{2} + b^{2} = c^{2}$, where $a$ and $b$ are the lengths of the legs and $c$ is the length of the hypotenuse. For the given right triangle, the lengths of the legs are $m$ and $n$, and the length of the hypotenuse is $17$. Substituting these values into the equation $a^{2} + b^{2} = c^{2}$ yields $m^{2} + n^{2} = 17^{2}$. Thus, the relationship between the side lengths of the given triangle is $m^{2} + n^{2} = 17^{2}$.",
+  "source": "https://cooksat.com/practice?questionId=7ee1b5d6&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/7ee1b5d6/1-f831ec19644d363e.png",
+      "kind": "diagram"
+    }
+  ]
+}

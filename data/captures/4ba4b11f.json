@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4ba4b11f",
+  "capturedAt": "2026-11-13T22:37:49.699Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In right triangle $RST$, angle $S$ is a right angle. If $R = \\frac{3}{5}$ and the length of side $ST$ is $48$ centimeters, what is the length, in centimeters, of side $RS$?",
+  "choices": {
+    "A": "$30$",
+    "B": "$36$",
+    "C": "$40$",
+    "D": "$60$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since $\\cos R = \\frac{3}{5}$ and cosine equals adjacent over hypotenuse, the ratio of $RS$ to $RT$ is $3:5$. With $ST = 48$, using the Pythagorean theorem or recognizing the $3$-$4$-$5$ triangle pattern (where $48$ corresponds to $4$ parts), we find the scale factor is $12$. Therefore, $RS = 3 \\times 12 = 36$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=4ba4b11f&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

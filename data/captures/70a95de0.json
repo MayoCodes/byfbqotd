@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "70a95de0",
+  "capturedAt": "2026-11-13T22:38:06.344Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An isosceles right triangle has a hypotenuse of length $46$ centimeters. What is the perimeter, in centimeters, of this triangle?",
+  "choices": {
+    "A": "$23sqrt(2)$",
+    "B": "$46sqrt(2)$",
+    "C": "$46 + 46sqrt(2)$",
+    "D": "$46 + 92sqrt(2)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since the triangle is an isosceles right triangle, the two legs that form the right angle have equal length. Let $x$ be the length, in centimeters, of each leg. By the Pythagorean theorem, $x^{2} + x^{2} = 46^{2}$, or $2x^{2} = 46^{2}$. Dividing both sides by $2$ yields $x^{2} = \\frac{46^{2}}{2} = \\frac{2 \\cdot 46^{2}}{4}$. Taking the positive square root gives $x = \\frac{46\\sqrt{2}}{2} = 23\\sqrt{2}$. The perimeter, in centimeters, is $46 + 2x = 46 + 2(23\\sqrt{2}) = 46 + 46\\sqrt{2}$.",
+  "source": "https://cooksat.com/practice?questionId=70a95de0&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

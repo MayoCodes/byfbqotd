@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "af6780a6",
+  "capturedAt": "2026-11-13T22:38:42.721Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Pythagorean Theorem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhat is the length of the other leg, in units, of the triangle shown?",
+  "choices": {
+    "A": "$10$",
+    "B": "$15$",
+    "C": "$20$",
+    "D": "$25$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The triangle shown is a right triangle with a leg of $15$ units and a hypotenuse of $25$ units. If the length of the other leg is $x$ units, then by the Pythagorean theorem, $x^2+15^2=25^2$. Therefore, $x^2+225=625$. Subtracting $225$ from both sides of this equation yields $x^2=400$. Taking the positive square root of both sides yields $x=20$. Thus the length of the other leg is $20$ units.",
+  "source": "https://cooksat.com/practice?questionId=af6780a6&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/af6780a6/1-aff6b98008180106.png",
+      "kind": "diagram"
+    }
+  ]
+}

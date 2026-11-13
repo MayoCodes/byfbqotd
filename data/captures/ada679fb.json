@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ada679fb",
+  "capturedAt": "2026-11-13T22:38:40.672Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Triangle $JKL$ is similar to triangle $MNP$, where angle $J$ corresponds to angle $M$ and angle $L$ corresponds to angle $P$. Angles $L$ and $P$ are right angles. If $(J) = \\frac{(40)}{9}$, what is the value of $(N)$?\n\n$$0$$\n\n$$\\frac{9}{40},.225,0.225$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{9}{40},.225,0.225$",
+  "explanation": "The correct answer is $\\frac{9}{40}$. It's given that triangle $JKL$ is similar to triangle $MNP$, where angle $J$ corresponds to angle $M$ and angle $L$ corresponds to angle $P$. In similar triangles, the tangents of corresponding angles are equal. Since angle $J$ and angle $M$ are corresponding angles, if $\\tan\\left(J\\right) = \\frac{40}{9}$, then $\\tan\\left(M\\right) = \\frac{40}{9}$. It's also given that angles $L$ and $P$ are right angles. It follows that triangle $MNP$ is a right triangle with acute angles $M$ and $N$. The tangent of one acute angle in a right triangle is the reciprocal of the tangent of the other acute angle in the triangle. Therefore, $\\tan\\left(N\\right) = \\frac{1}{\\tan\\left(M\\right)}$. Substituting $\\frac{40}{9}$ for $\\tan\\left(M\\right)$ in this equation yields $\\tan\\left(N\\right) = \\frac{1}{\\frac{40}{9}}$, or $\\tan\\left(N\\right) = \\frac{9}{40}$. Thus, if $\\tan\\left(J\\right) = \\frac{40}{9}$, the value of $\\tan\\left(N\\right)$ is $\\frac{9}{40}$. Note that 9/40, .225, and 0.225 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=ada679fb&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}

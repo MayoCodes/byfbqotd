@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cd3eff89",
+  "capturedAt": "2026-11-13T22:38:56.008Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the triangle shown, $JK = sqrt(129)$. What is the value of $J$?\n\n$$0$$\n\n$$\\frac{64}{65},.9846,0.984,0.985$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{64}{65},.9846,0.984,0.985$",
+  "explanation": "The correct answer is $\\frac{64}{65}$. It's given that the triangle is a right triangle with the right angle at vertex $K$. Therefore, the hypotenuse is side $JL$, which has length $65$. The sine of an acute angle in a right triangle is defined as the ratio of the length of the side opposite the angle to the length of the hypotenuse. The side opposite angle $J$ is side $KL$. It's given that $JK = \\sqrt{129}$. By the Pythagorean theorem, $(JK)^{2} + (KL)^{2} = (JL)^{2}$. Substituting $\\sqrt{129}$ for $JK$ and $65$ for $JL$ yields $(\\sqrt{129})^{2} + (KL)^{2} = (65)^{2}$, which is equivalent to $129 + (KL)^{2} = 4225$. Subtracting $129$ from both sides yields $(KL)^{2} = 4096$. Taking the square root of both sides yields $KL = 64$. Therefore, $\\sin J = \\frac{KL}{JL} = \\frac{64}{65}$. Note that 64/65, .9846, 0.984, and 0.985 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=cd3eff89&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/cd3eff89/1-c0a8792f9b446e5d.png",
+      "kind": "diagram"
+    }
+  ]
+}

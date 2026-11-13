@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "551e8935",
+  "capturedAt": "2026-11-13T22:37:55.010Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In $PQR$, $Q$ is a right angle and the length of $QR$ is $96$ centimeters. If $P = \\frac{5}{(13)}$, what is the length, in centimeters, of $PQ$?",
+  "choices": {
+    "A": "$8$",
+    "B": "$40$",
+    "C": "$96$",
+    "D": "$104$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In $\\triangle PQR$, $\\angle Q$ is a right angle, so $\\overline{PR}$ is the hypotenuse. Since $\\cos P = \\frac{5}{13}$ is the ratio of the length of the side adjacent to $\\angle P$ to the length of the hypotenuse, the ratio of the length of $\\overline{PQ}$ to the length of $\\overline{PR}$ is $5$ to $13$. Let the length of $\\overline{PQ}$ be $5a$ and the length of $\\overline{PR}$ be $13a$, where $a$ is a constant. By the Pythagorean theorem, $PQ^{2} + QR^{2} = PR^{2}$. Substituting yields $(5a)^{2} + QR^{2} = (13a)^{2}$, or $25a^{2} + QR^{2} = 169a^{2}$. Subtracting $25a^{2}$ from both sides gives $QR^{2} = 144a^{2}$, so $QR = 12a$. Therefore the ratio of the length of $\\overline{PQ}$ to the length of $\\overline{QR}$ is $5$ to $12$. Let $x$ represent the length, in centimeters, of $\\overline{PQ}$. Since $QR = 96$, $\\frac{x}{96} = \\frac{5}{12}$. Multiplying both sides by $96$ yields $x = \\frac{5(96)}{12} = 40$. Therefore, the length of $\\overline{PQ}$ is $40$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=551e8935&subject=math&domain=geometry-and-trigonometry&skills=right_triangles_and_trigonometry&bank=cooksat",
+  "images": []
+}
