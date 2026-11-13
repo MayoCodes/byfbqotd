@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e5eecc94",
+  "capturedAt": "2026-11-13T22:21:52.183Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Tangent Line to Circle",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle has center $P$, and points $R$ and $S$ lie on the circle. Line segments $RK$ and $SK$ are tangent to the circle at points $R$ and $S$, respectively. If the radius of the circle is $195$ centimeters and the perimeter of quadrilateral $PRKS$ is $1,886$ centimeters, what is the distance, in centimeters, between points $P$ and $K$?",
+  "choices": {
+    "A": "$195$",
+    "B": "$748$",
+    "C": "$773$",
+    "D": "$943$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the radius of the circle is $195$ centimeters. Since points $R$ and $S$ both lie on the circle, segments $PR$ and $PS$ are both radii, so each has length $195$ centimeters. Two segments that are tangent to a circle and have a common exterior endpoint have equal length, so segments $RK$ and $SK$ have equal length. Let $x$ represent the length of segment $RK$; then $x$ also represents the length of segment $SK$. Since the perimeter of quadrilateral $PRKS$ is $1{,}886$ centimeters, it follows that $1{,}886 = 195 + 195 + x + x$, or $1{,}886 = 390 + 2x$. Subtracting $390$ from both sides yields $1{,}496 = 2x$, and dividing by $2$ yields $x = 748$. A line segment that's tangent to a circle is perpendicular to the radius of the circle at the point of tangency, so $\\overline{PR}$ is perpendicular to $\\overline{RK}$, making $\\angle PRK$ a right angle. Therefore, triangle $PRK$ is a right triangle with legs of length $748$ centimeters and $195$ centimeters and hypotenuse $\\overline{PK}$. By the Pythagorean theorem, $PK^{2} = 748^{2} + 195^{2} = 559{,}504 + 38{,}025 = 597{,}529$. Taking the positive square root yields $PK = 773$. Therefore, the distance between points $P$ and $K$ is $773$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=e5eecc94&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

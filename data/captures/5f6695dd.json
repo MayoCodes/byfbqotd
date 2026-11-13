@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5f6695dd",
+  "capturedAt": "2026-11-13T22:20:44.539Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Radian/Degree Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The measure of angle $T$ is $135 ^°$. What is the measure, in radians, of angle $T$?",
+  "choices": {
+    "A": "$\\frac{1}{4}\\pi$",
+    "B": "$\\frac{3}{4}\\pi$",
+    "C": "$\\pi$",
+    "D": "$\\frac{3}{2}\\pi$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The measure of an angle, in radians, can be found by multiplying its measure, in degrees, by $\\frac{\\pi}{180}$. It's given that the measure of angle $T$ is $135 ^\\circ$. It follows that the measure, in radians, of angle $T$ is $135\\left(\\frac{\\pi}{180}\\right)$, or $\\frac{3}{4}\\pi$.",
+  "source": "https://cooksat.com/practice?questionId=5f6695dd&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

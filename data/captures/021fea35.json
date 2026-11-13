@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "021fea35",
+  "capturedAt": "2026-11-13T22:20:01.559Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Complete the Square to Standard Form",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The graph of $x^{2} + x + y^{2} + y = \\frac{(97)}{2}$ in the xy-plane is a circle. What is the length of the circle's radius?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. The equation of a circle in the xy-plane can be written in the form $\\left(x - h\\right)^{2} + \\left(y - k\\right)^{2} = r^{2}$, where $\\left(h, k\\right)$ is the center and $r$ is the radius. To complete the square on the $x$-terms, add the square of half the coefficient of $x$ to both sides. Half of $1$ is $\\frac{1}{2}$, and $\\left(\\frac{1}{2}\\right)^{2} = \\frac{1}{4}$. Adding $\\frac{1}{4}$ to both sides gives $\\left(x^{2} + x + \\frac{1}{4}\\right) + \\left(y^{2} + y\\right) = \\frac{97}{2} + \\frac{1}{4}$, or $\\left(x + \\frac{1}{2}\\right)^{2} + \\left(y^{2} + y\\right) = \\frac{97}{2} + \\frac{1}{4}$. Similarly, completing the square on the $y$-terms by adding $\\frac{1}{4}$ to both sides gives $\\left(x + \\frac{1}{2}\\right)^{2} + \\left(y + \\frac{1}{2}\\right)^{2} = \\frac{97}{2} + \\frac{1}{4} + \\frac{1}{4}$. The right side simplifies to $\\frac{97}{2} + \\frac{1}{2} = \\frac{98}{2} = 49$. So $\\left(x + \\frac{1}{2}\\right)^{2} + \\left(y + \\frac{1}{2}\\right)^{2} = 49 = 7^{2}$. Therefore, the length of the circle's radius is $7$.",
+  "source": "https://cooksat.com/practice?questionId=021fea35&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ecfa52a6",
+  "capturedAt": "2026-11-13T22:21:56.204Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Tangent Line to Circle",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the xy-plane has its center at $(2, 3)$. Line $j$ is tangent to this circle at the point $(6, 1)$. What is the slope of line $j$?",
+  "choices": {
+    "A": "$-2$",
+    "B": "$-\\frac{1}{2}$",
+    "C": "$\\frac{1}{2}$",
+    "D": "$2$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A line that is tangent to a circle is perpendicular to the radius of the circle at the point of tangency. It is given that the circle has its center at $(2, 3)$ and line $j$ is tangent to the circle at the point $(6, 1)$. The slope of a radius defined by the points $(q, r)$ and $(s, t)$ can be calculated as $\\frac{t - r}{s - q}$. The points $(6, 1)$ and $(2, 3)$ define the radius at the point of tangency. The slope of this radius is $\\frac{3 - 1}{2 - 6} = \\frac{2}{-4} = -\\frac{1}{2}$. If a line and a radius are perpendicular, the slope of the line must be the negative reciprocal of the slope of the radius. The negative reciprocal of $-\\frac{1}{2}$ is $2$. Thus, the slope of line $j$ is $2$.",
+  "source": "https://cooksat.com/practice?questionId=ecfa52a6&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

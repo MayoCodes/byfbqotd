@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "256e1abb",
+  "capturedAt": "2026-11-13T22:20:19.572Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Unit Circle Trig Values",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the value of $\\frac{(305\\pi )}{4}$?",
+  "choices": {
+    "A": "$(sqrt(2))/2$",
+    "B": "$1$",
+    "C": "$sqrt(2)$",
+    "D": "$2$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The sine of an angle is equal to the sine of $n(2\\pi)$ radians more than the angle, where $n$ is an integer constant. Since $\\frac{305\\pi}{4}$ is equivalent to $38(2\\pi) + \\frac{\\pi}{4}$ (because $38 \\times 8 = 304$, so $\\frac{305\\pi}{4} - \\frac{304\\pi}{4} = \\frac{\\pi}{4}$), $\\sin\\left(\\frac{305\\pi}{4}\\right)$ can be rewritten as $\\sin\\left(38(2\\pi) + \\frac{\\pi}{4}\\right)$, which is equal to $\\sin\\left(\\frac{\\pi}{4}\\right)$. Therefore, the value of $\\sin\\left(\\frac{305\\pi}{4}\\right)$ is $\\frac{\\sqrt{2}}{2}$. Alternate approach: The sine of a number $t$ is the y-coordinate of the point resulting from traveling a distance of $t$ counterclockwise from the point $(1, 0)$ around a unit circle centered at the origin. A unit circle has circumference $2\\pi$, so traveling $\\frac{305\\pi}{4}$ counterclockwise means traveling around the circle $38$ full times plus an additional $\\frac{\\pi}{4}$, landing at the point $\\left(\\frac{\\sqrt{2}}{2}, \\frac{\\sqrt{2}}{2}\\right)$. The y-coordinate of this point is $\\frac{\\sqrt{2}}{2}$.",
+  "source": "https://cooksat.com/practice?questionId=256e1abb&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

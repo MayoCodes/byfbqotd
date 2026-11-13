@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dbdef70c",
+  "capturedAt": "2026-11-13T22:21:48.235Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nPoint $P$ is the center of the circle above, and the measure of $PQR$ is $35^°$. If the length of $PS$ is $18$, what is the length of arc $QR$?",
+  "choices": {
+    "A": "$7\\pi$",
+    "B": "$11\\pi$",
+    "C": "$14\\pi$",
+    "D": "$18\\pi$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Segments $\\overline{PQ}$ and $\\overline{PR}$ are radii of the circle centered at $P$, so they have equal lengths and $\\triangle PQR$ is isosceles with congruent base angles $\\angle PQR$ and $\\angle PRQ$. Since $\\angle PQR = 35^\\circ$, it follows that $\\angle PRQ = 35^\\circ$. The three angles of a triangle sum to $180^\\circ$, so the measure of $\\angle QPR$ is $180^\\circ - 35^\\circ - 35^\\circ = 110^\\circ$. Converting to radians, $110^\\circ = \\frac{110\\pi}{180} = \\frac{11\\pi}{18}$ radians. Since $\\overline{PS}$ is a radius, the radius is $18$. The length of arc $\\stackrel\\frown{QR}$ equals $r\\theta = 18 \\cdot \\frac{11\\pi}{18} = 11\\pi$.",
+  "source": "https://cooksat.com/practice?questionId=dbdef70c&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/dbdef70c/1-e0d444b2e175d7ed.png",
+      "kind": "diagram"
+    }
+  ]
+}

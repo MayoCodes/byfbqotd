@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b966b720",
+  "capturedAt": "2026-11-13T22:21:38.770Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Translation and Transformation",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the $xy$-plane, an equation of circle $M$ is $(x + 11)^{2} + (y + 23)^{2} = 64$. Circle $V$ is obtained by shifting circle $M$ to the right $4$ units. An equation defining circle $V$ is $(x + h)^{2} + (y + k)^{2} = 64$, where $h$ and $k$ are constants. What is the value of $h$?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. The equation of a circle in the $xy$-plane can be written as $(x - h)^{2} + (y - k)^{2} = r^{2}$, where the center of the circle is $(h, k)$ and the radius is $r$. Circle $M$ has equation $(x + 11)^{2} + (y + 23)^{2} = 64$, which can be rewritten as $(x - (-11))^{2} + (y - (-23))^{2} = 8^{2}$. Therefore, the center of circle $M$ is $(-11, -23)$. Circle $V$ is obtained by shifting circle $M$ to the right $4$ units, which means adding $4$ to the $x$-coordinate of the center. The center of circle $V$ is $(-11 + 4, -23)$, or $(-7, -23)$. Since the radius remains the same, the equation of circle $V$ is $(x - (-7))^{2} + (y - (-23))^{2} = 64$, or $(x + 7)^{2} + (y + 23)^{2} = 64$. Comparing this to the given form $(x + h)^{2} + (y + k)^{2} = 64$, it follows that $h = 7$.",
+  "source": "https://cooksat.com/practice?questionId=b966b720&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

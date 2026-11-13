@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "38848cc9",
+  "capturedAt": "2026-11-13T22:20:26.400Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Translation and Transformation",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nCircle $M$ shown is defined by the equation $x^{2} + (y - 3)^{2} = 11$. Circle $N$ (not shown) has the same radius but is translated $67$ units to the right. If the equation of circle $N$ is $(x - h)^{2} + (y - k)^{2} = a$, where $h$, $k$, and $a$ are constants, what is the value of $5a$?\n\n$$0$$\n\n$$55$$",
+  "choices": {},
+  "correctAnswer": "$55$",
+  "explanation": "The correct answer is $55$. The equation of a circle in the $xy$-plane can be written as $(x - h)^{2} + (y - k)^{2} = r^{2}$, where the center of the circle is $(h, k)$ and the radius is $r$. Circle $M$ is defined by $x^{2} + (y - 3)^{2} = 11$, which can be written as $(x - 0)^{2} + (y - 3)^{2} = (\\sqrt{11})^{2}$. Therefore, circle $M$ has center $(0, 3)$ and radius $\\sqrt{11}$. Circle $N$ has the same radius but is translated $67$ units to the right. Translating a circle to the right increases the $x$-coordinate of its center, so circle $N$ has center $(67, 3)$ and radius $\\sqrt{11}$. Since the radius of circle $N$ is $\\sqrt{11}$, the value of $a$ in the equation $(x - h)^{2} + (y - k)^{2} = a$ is $(\\sqrt{11})^{2} = 11$. Therefore, $5a = 5(11) = 55$.",
+  "source": "https://cooksat.com/practice?questionId=38848cc9&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/38848cc9/1-802c1c1cf78e2de3.png",
+      "kind": "diagram"
+    }
+  ]
+}

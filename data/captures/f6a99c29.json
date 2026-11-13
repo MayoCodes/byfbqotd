@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f6a99c29",
+  "capturedAt": "2026-11-13T22:22:00.154Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Complete the Square to Standard Form",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, the equation $x^{2}-6x+y^{2}=7$ represents a circle. Which of the following is the standard form of this equation?",
+  "choices": {
+    "A": "$(x-3)^{2}+y^{2}=7$",
+    "B": "$(x-3)^{2}+y^{2}=16$",
+    "C": "$(x-6)^{2}+y^{2}=16$",
+    "D": "$(x+3)^{2}+y^{2}=16$"
+  },
+  "correctAnswer": "B",
+  "explanation": "To convert to standard form $(x-h)^{2}+(y-k)^{2}=r^{2}$, complete the square for the $x$ terms. For $x^{2}-6x$, take half of $-6$ to get $-3$, then square it to get $9$. Adding $9$ to both sides: $x^{2}-6x+9+y^{2}=7+9$, which factors as $(x-3)^{2}+y^{2}=16$.",
+  "source": "https://cooksat.com/practice?questionId=f6a99c29&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

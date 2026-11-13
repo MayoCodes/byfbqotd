@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4683a64d",
+  "capturedAt": "2026-11-13T22:20:34.734Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The equation $(x + 4)^{2} + (y + 9)^{2} = 169$ defines a circle in the $xy$-plane. What is the radius of the circle?\n\n$$0$$\n\n$$13$$",
+  "choices": {},
+  "correctAnswer": "$13$",
+  "explanation": "The correct answer is $13$. A circle with equation $(x - a)^{2} + (y - b)^{2} = r^{2}$, where $a$, $b$, and $r$ are constants, has center $(a, b)$ and radius $r$. Therefore, the radius of the given circle is $\\sqrt{169}$, or $13$.",
+  "source": "https://cooksat.com/practice?questionId=4683a64d&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

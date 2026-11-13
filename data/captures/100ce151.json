@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "100ce151",
+  "capturedAt": "2026-11-13T22:20:05.886Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Radian/Degree Conversion",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The number of radians in a $1,080$-degree angle can be written as $n\\pi$, where $n$ is a constant. What is the value of $n$?\n\n$$0$$\n\n$$6$$",
+  "choices": {},
+  "correctAnswer": "$6$",
+  "explanation": "The correct answer is $6$. There are $\\pi$ radians in a $180 ^\\circ$ angle. An angle measure of $1{,}080 ^\\circ$ is $6$ times greater than an angle measure of $180 ^\\circ$, since $1{,}080 \\div 180 = 6$. Therefore, the number of radians in a $1{,}080 ^\\circ$ angle is $6\\pi$, and the value of $n$ is $6$.",
+  "source": "https://cooksat.com/practice?questionId=100ce151&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

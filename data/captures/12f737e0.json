@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "12f737e0",
+  "capturedAt": "2026-11-13T22:20:12.033Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle has center $P$, and points $M$ and $N$ lie on the circle. The measure of arc $MN$ is $72 ^°$ and the length of this arc is $6$ centimeters. What is the circumference, in centimeters, of the circle?",
+  "choices": {
+    "A": "$6$",
+    "B": "$12$",
+    "C": "$18$",
+    "D": "$30$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The length of an arc is equal to the fraction of the circle's circumference that corresponds to the central angle of the arc. The measure of arc $MN$ is $72 ^\\circ$, which is $\\frac{72}{360}$, or $\\frac{1}{5}$, of the full $360 ^\\circ$ of the circle. Therefore, the length of arc $MN$ is $\\frac{1}{5}$ of the circumference of the circle. Since the length of arc $MN$ is $6$ centimeters, it follows that $\\frac{1}{5}$ of the circumference is $6$ centimeters. Multiplying both sides by $5$ gives a circumference of $30$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=12f737e0&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1ed07fa0",
+  "capturedAt": "2026-11-13T22:20:15.740Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nPoints $R$, $S$, and $T$ lie on the circle shown. On this circle, minor arc $RS$ has a length of $47$ centimeters and major arc $RTS$ has a length of $188$ centimeters. What is the circumference, in centimeters, of the circle shown?",
+  "choices": {
+    "A": "$47$",
+    "B": "$141$",
+    "C": "$188$",
+    "D": "$235$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since the endpoints of minor arc $RS$ and major arc $RTS$ are the same, and the arcs together form a full circle, the sum of the lengths of these two arcs is equal to the circumference of the circle. It's given that the length of minor arc $RS$ is $47$ centimeters and the length of major arc $RTS$ is $188$ centimeters. Therefore, the circumference of the circle, in centimeters, is $47 + 188$, or $235$.",
+  "source": "https://cooksat.com/practice?questionId=1ed07fa0&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1ed07fa0/1-786eecccafe151e2.png",
+      "kind": "diagram"
+    }
+  ]
+}

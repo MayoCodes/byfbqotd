@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0303d97e",
+  "capturedAt": "2026-11-13T22:20:04.217Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Unit Circle Trig Values",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Point $N$ is the center of a unit circle in the $xy$-plane, and its coordinates are $(0, 0)$. Point $B$ lies on the unit circle, and its coordinates are $(0, 1)$. Point $Q$ on the unit circle is obtained by rotating point $B$ $\\frac{(5\\pi )}{4}$ radians about the origin in the counterclockwise direction. What are the coordinates of point $Q$?",
+  "choices": {
+    "A": "$(-(sqrt(2))/2, -(sqrt(2))/2)$",
+    "B": "$(-(sqrt(2))/2, (sqrt(2))/2)$",
+    "C": "$((sqrt(2))/2, -(sqrt(2))/2)$",
+    "D": "$((sqrt(2))/2, (sqrt(2))/2)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Point $B$ has coordinates $(0, 1)$, which corresponds to an angle of $\\frac{\\pi}{2}$ radians on the unit circle. Rotating point $B$ counterclockwise by $\\frac{5\\pi}{4}$ radians yields a final angle of $\\frac{\\pi}{2} + \\frac{5\\pi}{4}$. Converting to a common denominator gives $\\frac{2\\pi}{4} + \\frac{5\\pi}{4} = \\frac{7\\pi}{4}$ radians. Since $\\frac{3\\pi}{2} < \\frac{7\\pi}{4} < 2\\pi$, this angle is in the fourth quadrant. The reference angle is $2\\pi - \\frac{7\\pi}{4} = \\frac{\\pi}{4}$. In the fourth quadrant, cosine is positive and sine is negative. For a reference angle of $\\frac{\\pi}{4}$, the cosine is $\\frac{\\sqrt{2}}{2}$ and the sine magnitude is $\\frac{\\sqrt{2}}{2}$. Therefore, the coordinates of point $Q$ are $\\left(\\frac{\\sqrt{2}}{2}, -\\frac{\\sqrt{2}}{2}\\right)$.",
+  "source": "https://cooksat.com/practice?questionId=0303d97e&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

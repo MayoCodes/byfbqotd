@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6ebb99cf",
+  "capturedAt": "2026-11-13T22:20:52.421Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A circle in the xy-plane has its center at $(3, -5)$ and has a radius of $7$. An equation of this circle is $x^{2} + y^{2} + ax + by + c = 0$, where $a$, $b$, and $c$ are constants. What is the value of $c$?\n\n$$0$$\n\n$$-15$$",
+  "choices": {},
+  "correctAnswer": "$-15$",
+  "explanation": "The correct answer is $-15$. The standard form of a circle with center $(h, k)$ and radius $r$ is $(x - h)^2 + (y - k)^2 = r^2$. Substituting the given values: $(x - 3)^2 + (y + 5)^2 = 49$. Expanding: $x^2 - 6x + 9 + y^2 + 10y + 25 = 49$. Rearranging: $x^2 + y^2 - 6x + 10y - 15 = 0$. Therefore, $c = -15$.",
+  "source": "https://cooksat.com/practice?questionId=6ebb99cf&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

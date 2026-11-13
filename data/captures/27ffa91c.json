@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "27ffa91c",
+  "capturedAt": "2026-11-13T22:20:21.369Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the xy-plane has the equation $(x - 17)^{2} + (y - m)^{2} = 121$. Which of the following gives the center of the circle and its radius?",
+  "choices": {
+    "A": "The center is at $(17, m)$ and the radius is $11$.",
+    "B": "The center is at $(17, m)$ and the radius is $121$.",
+    "C": "The center is at $(m, 17)$ and the radius is $11$.",
+    "D": "The center is at $(m, 17)$ and the radius is $121$."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For a circle in the xy-plane that has the equation $\\left(x - h\\right)^{2} + \\left(y - k\\right)^{2} = r^{2}$, where $h$, $k$, and $r$ are constants, $\\left(h, k\\right)$ is the center of the circle and the positive value of $r$ is the radius of the circle. In the given equation, $h = 17$, $k = m$, and $r^{2} = 121$. Taking the square root of each side of $r^{2} = 121$ yields $r = \\pm 11$. Therefore, the center of the circle is at $\\left(17, m\\right)$ and the radius is $11$.",
+  "source": "https://cooksat.com/practice?questionId=27ffa91c&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

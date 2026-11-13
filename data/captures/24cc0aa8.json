@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "24cc0aa8",
+  "capturedAt": "2026-11-13T22:20:17.526Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Radian/Degree Conversion",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "An angle has a measure of $\\frac{(5\\pi )}{6}$ radians. What is the measure of the angle, in degrees? (Disregard the degree symbol when entering your answer.)\n\n$$0$$\n\n$$150$$",
+  "choices": {},
+  "correctAnswer": "$150$",
+  "explanation": "The correct answer is $150$. The measure of an angle, in degrees, can be found by multiplying its measure, in radians, by $\\frac{180\\text{ degrees}}{\\pi\\text{ radians}}$. Multiplying the given angle measure, $\\frac{5\\pi}{6}$ radians, by $\\frac{180\\text{ degrees}}{\\pi\\text{ radians}}$ yields $\\left(\\frac{5\\pi}{6}\\text{ radians}\\right)\\left(\\frac{180\\text{ degrees}}{\\pi\\text{ radians}}\\right)$. The $\\pi$ terms cancel, giving $\\frac{5 \\times 180}{6}\\text{ degrees}$. This simplifies to $\\frac{900}{6}\\text{ degrees}$, which equals $150$ degrees.",
+  "source": "https://cooksat.com/practice?questionId=24cc0aa8&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

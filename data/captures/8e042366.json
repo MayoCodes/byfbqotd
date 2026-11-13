@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8e042366",
+  "capturedAt": "2026-11-13T22:21:13.399Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Radian/Degree Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The measure of angle $G$ is $\\frac{(2\\pi )}{3}$ radians. The measure of angle $Z$ is $\\frac{(5\\pi )}{(12)}$ radians greater than the measure of angle $G$. What is the measure of angle $Z$, in degrees?",
+  "choices": {
+    "A": "$75$",
+    "B": "$120$",
+    "C": "$195$",
+    "D": "$390$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The measure of angle $Z$ equals $\\frac{2\\pi}{3} + \\frac{5\\pi}{12}$ radians. Rewriting $\\frac{2\\pi}{3}$ with a denominator of $12$ gives $\\frac{8\\pi}{12}$, so the sum is $\\frac{8\\pi}{12} + \\frac{5\\pi}{12} = \\frac{13\\pi}{12}$ radians. Converting to degrees by multiplying by $\\frac{180}{\\pi}$ yields $\\frac{13\\pi}{12} \\times \\frac{180}{\\pi} = 195$ degrees.",
+  "source": "https://cooksat.com/practice?questionId=8e042366&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

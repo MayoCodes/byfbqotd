@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a1929fe1",
+  "capturedAt": "2026-11-13T22:21:23.251Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Radian/Degree Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the $xy$-plane above, points $V$, $X$, $Y$, and $W$ lie on the circle with center $C$. The degree measures of $VCX$ and $YCW$ are each $40 ^°$. What is the radian measure of $XCY$?",
+  "choices": {
+    "A": "$\\frac{4}{9} \\pi$",
+    "B": "$\\frac{1}{2} \\pi$",
+    "C": "$\\frac{5}{9} \\pi$",
+    "D": "$\\frac{7}{9} \\pi$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Because points $W$, $C$, and $V$ all lie on the $x$-axis, they form a line. Since the angles on a line add up to $180 ^\\circ$, and it's given that $\\angle VCX$ and $\\angle YCW$ each measure $40 ^\\circ$, it follows that the measure of $\\angle XCY$ is $180 ^\\circ - 40 ^\\circ - 40 ^\\circ = 100 ^\\circ$. Since the arc of a complete circle is $360 ^\\circ$ or $2 \\pi$ radians, a proportion can be set up to convert the measure of $\\angle XCY$ from degrees to radians: $\\frac{360 ^\\circ}{2 \\pi \\text{ radians}} = \\frac{100 ^\\circ}{x \\text{ radians}}$, where $x$ is the radian measure of $\\angle XCY$. Multiplying each side of the proportion by $2 \\pi x$ gives $360 x = 200 \\pi$. Solving for $x$ gives $x = \\frac{200 \\pi}{360}$, or $\\frac{5}{9} \\pi$.",
+  "source": "https://cooksat.com/practice?questionId=a1929fe1&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a1929fe1/1-9f77ce6969f42d22.png",
+      "kind": "diagram"
+    }
+  ]
+}

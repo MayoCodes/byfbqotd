@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "30051ba0",
+  "capturedAt": "2026-11-13T22:20:24.706Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Translation and Transformation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the xy-plane, circle $Q$ is the graph of the equation $(x-5)^{2} + (y-2)^{2} = 9$. Circle $V$ has the same center as circle $Q$ but has a radius that is twice the radius of circle $Q$. Which equation represents circle $V$?",
+  "choices": {
+    "A": "$(x-5)^{2} + (y-2)^{2} = 18$",
+    "B": "$(x-5)^{2} + (y-2)^{2} = 36$",
+    "C": "$(x-10)^{2} + (y-4)^{2} = 18$",
+    "D": "$(x-10)^{2} + (y-4)^{2} = 36$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The equation of a circle in the $xy$-plane can be written as $(x-h)^{2} + (y-k)^{2} = r^{2}$, where the center is $(h, k)$ and the radius is $r$. Circle $Q$ has equation $(x-5)^{2} + (y-2)^{2} = 9$, which can be written as $(x-5)^{2} + (y-2)^{2} = 3^{2}$. Therefore, circle $Q$ has center $(5, 2)$ and radius $3$. Circle $V$ has the same center but a radius that is twice the radius of circle $Q$, so circle $V$ has center $(5, 2)$ and radius $2(3) = 6$. Substituting $5$ for $h$, $2$ for $k$, and $6$ for $r$ into the equation $(x-h)^{2} + (y-k)^{2} = r^{2}$ yields $(x-5)^{2} + (y-2)^{2} = 6^{2}$, or $(x-5)^{2} + (y-2)^{2} = 36$.",
+  "source": "https://cooksat.com/practice?questionId=30051ba0&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

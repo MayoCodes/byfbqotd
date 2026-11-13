@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fdf23336",
+  "capturedAt": "2026-11-13T22:22:01.830Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Geometry with Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$(x - 5)^{2} + (y + 13)^{2} = 64$$\n\nThe graph of the given equation is a circle in the xy-plane. The point $(p, q)$ lies on the circle. Which of the following is a possible value for $p$?",
+  "choices": {
+    "A": "$-13$",
+    "B": "$-5$",
+    "C": "$4$",
+    "D": "$15$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. An equation of the form $\\left(x - h\\right)^{2} + \\left(y - k\\right)^{2} = r^{2}$, where $h$, $k$, and $r$ are constants, represents a circle in the xy-plane with center $\\left(h, k\\right)$ and radius $r$. Therefore, the circle represented by the given equation has center $\\left(5, -13\\right)$ and radius $8$. Since the center of the circle has an x-coordinate of $5$ and the radius of the circle is $8$, the least possible x-coordinate for any point on the circle is $5 - 8$, or $-3$. Similarly, the greatest possible x-coordinate for any point on the circle is $5 + 8$, or $13$. Therefore, if the point $\\left(p, q\\right)$ lies on the circle, it must be true that $-3 \\leq p \\leq 13$. Of the given choices, only $4$ satisfies this inequality.",
+  "source": "https://cooksat.com/practice?questionId=fdf23336&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

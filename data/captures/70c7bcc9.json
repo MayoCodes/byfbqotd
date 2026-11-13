@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "70c7bcc9",
+  "capturedAt": "2026-11-13T22:20:54.566Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Tangent Line to Circle",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the xy-plane has its center at $(2, -3)$. Line $k$ is tangent to this circle at the point $(-5, 1)$. Which of the following points also lies on line $k$?",
+  "choices": {
+    "A": "$(-1, 8)$",
+    "B": "$(-1, 5)$",
+    "C": "$(2, 5)$",
+    "D": "$(-12, 5)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The points $(2, -3)$ and $(-5, 1)$ are the endpoints of the radius of the circle at the point of tangency. The slope of the line segment containing points $(a, b)$ and $(c, d)$ can be calculated as $\\frac{d - b}{c - a}$. Substituting $(2, -3)$ for $(a, b)$ and $(-5, 1)$ for $(c, d)$ yields $\\frac{1 - (-3)}{-5 - 2}$, or $-\\frac{4}{7}$. Thus, the slope of this radius is $-\\frac{4}{7}$. A line tangent to a circle is perpendicular to the radius at the point of tangency, so the slope of line $k$ is the negative reciprocal of $-\\frac{4}{7}$, which is $\\frac{7}{4}$. A point lies on line $k$ if the slope of the line segment connecting the point and $(-5, 1)$ is $\\frac{7}{4}$. Substituting $(-1, 8)$ for $(a, b)$ and $(-5, 1)$ for $(c, d)$ in $\\frac{d - b}{c - a}$ yields $\\frac{1 - 8}{-5 - (-1)}$, or $\\frac{-7}{-4} = \\frac{7}{4}$. Therefore, the point $(-1, 8)$ lies on line $k$.",
+  "source": "https://cooksat.com/practice?questionId=70c7bcc9&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

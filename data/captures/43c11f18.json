@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "43c11f18",
+  "capturedAt": "2026-11-13T22:20:32.883Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle has center $P$, and points $M$ and $N$ lie on the circle. The measure of arc $MN$ is $60 ^°$ and the length of arc $MN$ is $7$ centimeters. What is the circumference, in centimeters, of the circle?",
+  "choices": {
+    "A": "$7$",
+    "B": "$14$",
+    "C": "$42$",
+    "D": "$49$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the measure of arc $MN$ is $60 ^\\circ$ and the length of arc $MN$ is $7$ centimeters. The arc measure of the full circle is $360 ^\\circ$. If $x$ represents the circumference, in centimeters, of the circle, it follows that $\\frac{60}{360} = \\frac{7}{x}$, or $\\frac{1}{6} = \\frac{7}{x}$. Multiplying both sides of this equation by $6x$ yields $x = 6(7)$, or $x = 42$. Therefore, the circumference of the circle is $42$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=43c11f18&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

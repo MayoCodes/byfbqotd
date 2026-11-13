@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ae246e16",
+  "capturedAt": "2026-11-13T22:21:30.312Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Complete the Square to Standard Form",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the xy-plane, the equation $x^{2} - 4x + y^{2} + 6y = 12$ represents a circle. What is the radius of this circle?",
+  "choices": {
+    "A": "$3$",
+    "B": "$4$",
+    "C": "$5$",
+    "D": "$12$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Complete the square for both variables: $x^2 - 4x + 4 + y^2 + 6y + 9 = 12 + 4 + 9$, which gives $(x-2)^2 + (y+3)^2 = 25$. Since the standard form is $(x-h)^2 + (y-k)^2 = r^2$, we have $r^2 = 25$, so $r = 5$.",
+  "source": "https://cooksat.com/practice?questionId=ae246e16&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

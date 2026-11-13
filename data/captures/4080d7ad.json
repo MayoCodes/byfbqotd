@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4080d7ad",
+  "capturedAt": "2026-11-13T22:20:28.511Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Tangent Line to Circle",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the xy-plane, circle $O$ has center at the origin. Point $A(5, 12)$ lies on the circle. What is the radius of circle $O$?",
+  "choices": {
+    "A": "$6.5$",
+    "B": "$13$",
+    "C": "$15$",
+    "D": "$26$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since $A(5, 12)$ lies on circle $O$ centered at the origin, the radius can be found using the distance formula: $r = \\sqrt{(5-0)^2 + (12-0)^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$. Therefore, the radius of circle $O$ is $13$.",
+  "source": "https://cooksat.com/practice?questionId=4080d7ad&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

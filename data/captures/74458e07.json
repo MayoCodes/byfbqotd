@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "74458e07",
+  "capturedAt": "2026-11-13T22:21:02.300Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the xy-plane has center $(2, -1)$ and contains the point $(-3, 5)$. What is the radius of this circle?",
+  "choices": {
+    "A": "$sqrt(61)$",
+    "B": "$sqrt(41)$",
+    "C": "$6$",
+    "D": "$11$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The radius is the distance from the center $(2, -1)$ to the point $(-3, 5)$. Using the distance formula: $r = \\sqrt{(-3-2)^2 + (5-(-1))^2} = \\sqrt{(-5)^2 + (6)^2} = \\sqrt{25 + 36} = \\sqrt{61}$.",
+  "source": "https://cooksat.com/practice?questionId=74458e07&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

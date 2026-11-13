@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b3d29c4",
+  "capturedAt": "2026-11-13T22:21:09.722Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the xy-plane has its center at $(12, 19)$ and has a radius of $8m$. Which equation represents this circle?",
+  "choices": {
+    "A": "$(x-12)^{2} + (y-19)^{2} = 8m$",
+    "B": "$(x-12)^{2} + (y-19)^{2} = 8m^{2}$",
+    "C": "$(x-12)^{2} + (y-19)^{2} = 64m$",
+    "D": "$(x-12)^{2} + (y-19)^{2} = 64m^{2}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The equation of a circle in the xy-plane can be written as $(x-h)^{2} + (y-k)^{2} = r^{2}$, where the center of the circle is $(h, k)$ and the radius of the circle is $r$. It's given that this circle has a center at $(12, 19)$ and a radius of $8m$. Substituting $12$ for $h$, $19$ for $k$, and $8m$ for $r$ in $(x-h)^{2} + (y-k)^{2} = r^{2}$ yields $(x-12)^{2} + (y-19)^{2} = (8m)^{2}$, or $(x-12)^{2} + (y-19)^{2} = 64m^{2}$. Therefore, the equation that represents this circle is $(x-12)^{2} + (y-19)^{2} = 64m^{2}$.",
+  "source": "https://cooksat.com/practice?questionId=7b3d29c4&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

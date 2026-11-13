@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7a8a85be",
+  "capturedAt": "2026-11-13T22:21:07.811Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Unit Circle Trig Values",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the value of $\\frac{(77\\pi )}{3}$?",
+  "choices": {
+    "A": "$-sqrt(3)$",
+    "B": "$-(sqrt(3))/3$",
+    "C": "$(sqrt(3))/3$",
+    "D": "$sqrt(3)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A trigonometric ratio can be found using the unit circle, that is, a circle with radius $1$ unit. If a central angle of a unit circle in the xy-plane centered at the origin has its initial side on the positive x-axis and its terminal side intersects the circle at a point $\\left(x, y\\right)$, then the tangent of the angle equals the y-coordinate divided by the x-coordinate. There are $2\\pi$ radians in a full revolution. Dividing $\\frac{77\\pi}{3}$ by $2\\pi$ gives $\\frac{77}{6}$, which is equivalent to $12 + \\frac{5}{6}$. Therefore, the angle $\\frac{77\\pi}{3}$ is the result of $12$ complete revolutions from the positive x-axis followed by a rotation of $\\frac{5\\pi}{3}$ radians, so $\\frac{77\\pi}{3}$ and $\\frac{5\\pi}{3}$ are coterminal and $\\tan\\left(\\frac{77\\pi}{3}\\right) = \\tan\\left(\\frac{5\\pi}{3}\\right)$. Since $\\frac{5\\pi}{3}$ is greater than $\\frac{3\\pi}{2}$ and less than $2\\pi$, its terminal side lies in quadrant IV and forms a reference angle of $\\frac{\\pi}{3}$, or $60 ^\\circ$, with the positive x-axis. Therefore, the terminal side intersects the unit circle at $\\left(\\frac{1}{2}, -\\frac{\\sqrt{3}}{2}\\right)$. It follows that $\\tan\\left(\\frac{5\\pi}{3}\\right) = \\frac{-\\frac{\\sqrt{3}}{2}}{\\frac{1}{2}} = -\\sqrt{3}$. Therefore, the value of $\\tan\\left(\\frac{77\\pi}{3}\\right)$ is $-\\sqrt{3}$.",
+  "source": "https://cooksat.com/practice?questionId=7a8a85be&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

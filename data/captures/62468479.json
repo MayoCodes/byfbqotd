@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "62468479",
+  "capturedAt": "2026-11-13T22:20:46.753Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Geometry with Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the $xy$-plane has equation $(x - 2)^{2} + (y + 4)^{2} = 36$. Which of the following points does NOT lie in the interior of the circle?",
+  "choices": {
+    "A": "$(0, 0)$",
+    "B": "$(2, -4)$",
+    "C": "$(5, -1)$",
+    "D": "$(8, -1)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The circle with equation $(x - 2)^{2} + (y + 4)^{2} = 36$ has center $(2, -4)$ and radius $6$. For a point to be inside the circle, the distance from that point to the center must be less than the radius, $6$. The distance between $(8, -1)$ and $(2, -4)$ is $\\sqrt{(8 - 2)^{2} + (-1 - (-4))^{2}} = \\sqrt{(6)^{2} + (3)^{2}} = \\sqrt{45}$, which is greater than $6$. Therefore, $(8, -1)$ does NOT lie in the interior of the circle.",
+  "source": "https://cooksat.com/practice?questionId=62468479&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cfd2b89f",
+  "capturedAt": "2026-11-13T22:21:42.178Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Geometry with Triangles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, a circle is centered at $(0,0)$ and has a radius of $3$. Which of the following points lies on this circle?",
+  "choices": {
+    "A": "$(3,0)$",
+    "B": "$(0,4)$",
+    "C": "$(4,0)$",
+    "D": "$(2,2)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The equation of a circle centered at $(0,0)$ with radius $3$ is $x^2+y^2=9$. For point $(3,0)$: $3^2+0^2=9+0=9$. Since this equals $9$, the point $(3,0)$ lies on the circle.",
+  "source": "https://cooksat.com/practice?questionId=cfd2b89f&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

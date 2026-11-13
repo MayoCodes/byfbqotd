@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b187a50d",
+  "capturedAt": "2026-11-13T22:21:34.815Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Radian/Degree Conversion",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "An angle has a measure of $\\frac{(14\\pi )}{(15)}$ radians. What is the measure of the angle, in degrees?\n\n$$0$$\n\n$$168$$",
+  "choices": {},
+  "correctAnswer": "$168$",
+  "explanation": "The correct answer is $168$. The measure of an angle, in degrees, can be found by multiplying its measure, in radians, by $\\frac{180 \\text{ degrees}}{\\pi \\text{ radians}}$. Multiplying $\\frac{14\\pi}{15}$ radians by $\\frac{180 \\text{ degrees}}{\\pi \\text{ radians}}$ yields $\\frac{14 \\cdot 180}{15} = 168$ degrees.",
+  "source": "https://cooksat.com/practice?questionId=b187a50d&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a45e2f83",
+  "capturedAt": "2026-11-13T22:21:25.500Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle has a radius of $3$. The measure of the central angle of the sector is $150^°$. What is the area of the sector of the circle, in square units?",
+  "choices": {
+    "A": "$9\\pi$",
+    "B": "$\\frac{(5\\pi )}{4}$",
+    "C": "$\\frac{(15\\pi )}{4}$",
+    "D": "$\\frac{(45\\pi )}{4}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The area of a sector is $A=\\frac{\\theta}{360^\\circ} \\cdot \\pi r^2$. Substituting $\\theta = 150^\\circ$ and $r = 3$ gives $A = \\frac{150^\\circ}{360^\\circ} \\cdot \\pi \\cdot 3^2 = \\frac{5}{12} \\cdot 9\\pi = \\frac{45\\pi}{12} = \\frac{15\\pi}{4}$.",
+  "source": "https://cooksat.com/practice?questionId=a45e2f83&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c8f7437f",
+  "capturedAt": "2026-11-13T22:21:40.436Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Translation and Transformation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $x^{2} + ( y - 3 )^{2} = 36$ represents circle $P$. Circle $Q$ is obtained by shifting circle $P$ down $8$ units in the xy-plane. Which of the following equations represents circle $Q$?",
+  "choices": {
+    "A": "$( x - 8 )^{2} + ( y - 3 )^{2} = 36$",
+    "B": "$( x + 8 )^{2} + ( y - 3 )^{2} = 36$",
+    "C": "$x^{2} + ( y - 11 )^{2} = 36$",
+    "D": "$x^{2} + ( y + 5 )^{2} = 36$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The graph in the xy-plane of an equation of the form $\\left( x - h \\right)^{2} + \\left( y - k \\right)^{2} = r^{2}$ is a circle with center $\\left( h, k \\right)$ and radius $r$. The given equation $x^{2} + \\left( y - 3 \\right)^{2} = 36$ can be rewritten as $x^{2} + \\left( y - 3 \\right)^{2} = 6^{2}$, so circle $P$ has center $\\left( 0, 3 \\right)$ and radius $6$. Shifting circle $P$ down $8$ units is a rigid vertical translation that does not change its size or shape. Since circle $Q$ is obtained by shifting circle $P$ down $8$ units, circle $Q$ has the same radius as circle $P$, and if $\\left( h, k \\right)$ is the center of circle $P$, then $\\left( h, k - 8 \\right)$ is the center of circle $Q$. Therefore, circle $Q$ has radius $6$ and center $\\left( 0, 3 - 8 \\right)$, or $\\left( 0, -5 \\right)$. Thus, circle $Q$ can be represented by $x^{2} + \\left( y - \\left( -5 \\right) \\right)^{2} = 6^{2}$, or $x^{2} + \\left( y + 5 \\right)^{2} = 36$.",
+  "source": "https://cooksat.com/practice?questionId=c8f7437f&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

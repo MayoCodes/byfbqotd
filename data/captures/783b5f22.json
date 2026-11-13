@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "783b5f22",
+  "capturedAt": "2026-11-13T22:21:06.137Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the $xy$-plane has its center at $(13, 17)$ and has a radius of $7m$. Which equation represents this circle?",
+  "choices": {
+    "A": "$(x - 13)^{2} + (y - 17)^{2} = 7m$",
+    "B": "$(x - 13)^{2} + (y - 17)^{2} = 7m^{2}$",
+    "C": "$(x - 13)^{2} + (y - 17)^{2} = 49m$",
+    "D": "$(x - 13)^{2} + (y - 17)^{2} = 49m^{2}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A circle in the $xy$-plane can be represented by an equation of the form $(x - h)^{2} + (y - k)^{2} = r^{2}$, where $(h, k)$ is the center of the circle and $r$ is the radius. It's given that the circle has its center at $(13, 17)$ and has a radius of $7m$. Therefore, $h = 13$, $k = 17$, and $r = 7m$. Substituting these values into the equation $(x - h)^{2} + (y - k)^{2} = r^{2}$ yields $(x - 13)^{2} + (y - 17)^{2} = (7m)^{2}$, which simplifies to $(x - 13)^{2} + (y - 17)^{2} = 49m^{2}$.",
+  "source": "https://cooksat.com/practice?questionId=783b5f22&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

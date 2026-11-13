@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "42b7b1e5",
+  "capturedAt": "2026-11-13T22:20:31.046Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, a circle with radius $7$ has center $(4, -9)$. Which of the following is an equation of the circle?",
+  "choices": {
+    "A": "$(x - 4)^{2} + (y + 9)^{2} = 7$",
+    "B": "$(x - 4)^{2} + (y + 9)^{2} = 49$",
+    "C": "$(x + 4)^{2} + (y - 9)^{2} = 7$",
+    "D": "$(x + 4)^{2} + (y - 9)^{2} = 49$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. An equation of a circle is $(x - h)^{2} + (y - k)^{2} = r^{2}$, where the center of the circle is $(h, k)$ and the radius is $r$. It's given that the center of this circle is $(4, -9)$ and the radius is $7$. Substituting these values into the equation gives $(x - 4)^{2} + (y - (-9))^{2} = 7^{2}$, or $(x - 4)^{2} + (y + 9)^{2} = 49$.",
+  "source": "https://cooksat.com/practice?questionId=42b7b1e5&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

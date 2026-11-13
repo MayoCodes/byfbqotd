@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5dbc609c",
+  "capturedAt": "2026-11-13T22:20:42.289Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Complete the Square to Standard Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, a circle has the equation $x^{2} + y^{2} - 12x + 16y + 19 = 0$. What is the area of the circle?",
+  "choices": {
+    "A": "$36\\pi$",
+    "B": "$324\\pi$",
+    "C": "$144\\pi$",
+    "D": "$81\\pi$"
+  },
+  "correctAnswer": "D",
+  "explanation": "To find the area, we first need to find the radius by rewriting the equation in standard form $(x-h)^2 + (y-k)^2 = r^2$. Completing the square for $x$: $x^2 - 12x = (x-6)^2 - 36$. Completing the square for $y$: $y^2 + 16y = (y+8)^2 - 64$. Substituting: $(x-6)^2 - 36 + (y+8)^2 - 64 + 19 = 0$, which simplifies to $(x-6)^2 + (y+8)^2 = 81$. Thus $r^2 = 81$, so $r = 9$. The area is $\\pi r^2 = \\pi(9)^2 = 81\\pi$.",
+  "source": "https://cooksat.com/practice?questionId=5dbc609c&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

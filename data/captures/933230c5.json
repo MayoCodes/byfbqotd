@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "933230c5",
+  "capturedAt": "2026-11-13T22:21:19.435Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Complete the Square to Standard Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} + 10x + y^{2} - 8y - 8 = 0$$\n\nIn the $xy$-plane, the graph of the given equation is a circle. If this circle is inscribed in a square, what is the perimeter of the square?",
+  "choices": {
+    "A": "$14$",
+    "B": "$28$",
+    "C": "$56$",
+    "D": "$196$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The equation of a circle in the $xy$-plane can be written in the form $(x - h)^{2} + (y - k)^{2} = r^{2}$, where $(h, k)$ is the center of the circle and $r$ is the radius. Completing the square on the given equation: half the coefficient of $x$ is $5$, and squaring gives $25$; half the coefficient of $y$ is $-4$, and squaring gives $16$. Adding $25$ and $16$ to both sides yields $(x^{2} + 10x + 25) + (y^{2} - 8y + 16) = 8 + 25 + 16$, which simplifies to $(x + 5)^{2} + (y - 4)^{2} = 49$. Therefore, the radius of the circle is $\\sqrt{49} = 7$. When a circle is inscribed in a square, the circle touches all four sides of the square, so the diameter of the circle equals the side length of the square. The diameter is $2(7) = 14$, so the side length of the square is $14$. The perimeter of the square is $4(14) = 56$.",
+  "source": "https://cooksat.com/practice?questionId=933230c5&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

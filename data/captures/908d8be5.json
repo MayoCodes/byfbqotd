@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "908d8be5",
+  "capturedAt": "2026-11-13T22:21:15.320Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn a circle with center $M$, the circumference is $48$. If $PMR = 90 ^°$, what is the length of minor arc $PR$?",
+  "choices": {
+    "A": "$12$",
+    "B": "$16$",
+    "C": "$24$",
+    "D": "$48$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A circle has $360$ degrees of arc. In the circle shown, $M$ is the center and $\\angle PMR$ is a central angle. From the figure, the two diameters that meet to form $\\angle PMR$ are perpendicular, so the measure of $\\angle PMR$ is $90 ^\\circ$. Therefore, the length of minor arc $\\widehat{PR}$ is $\\frac{90}{360}$ of the circumference of the circle. Since the circumference is $48$, the length of minor arc $\\widehat{PR}$ is $\\frac{90}{360} \\times 48 = 12$.",
+  "source": "https://cooksat.com/practice?questionId=908d8be5&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/908d8be5/1-e7b587fa23d2e497.png",
+      "kind": "diagram"
+    }
+  ]
+}

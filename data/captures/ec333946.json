@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ec333946",
+  "capturedAt": "2026-11-13T22:21:54.237Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Points $M$ and $N$ lie on a circle with radius $1$, and arc $MN$ has length $\\frac{(\\pi )}{4}$. What fraction of the circumference of the circle is the length of arc $MN$?\n\n$$0$$\n\n$$\\frac{1}{8},.125,0.125$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{1}{8},.125,0.125$",
+  "explanation": "The correct answer is $\\frac{1}{8}$. The circumference, $C$, of a circle is $C = 2 \\pi r$, where $r$ is the length of the radius of the circle. For the given circle with a radius of $1$, the circumference is $C = 2 \\pi \\times 1$, or $C = 2 \\pi$. To find what fraction of the circumference the length of arc $MN$ is, divide the length of the arc by the circumference, which gives $\\frac{\\pi}{4} \\div 2 \\pi$. This division can be represented by $\\frac{\\pi}{4} \\times \\frac{1}{2 \\pi} = \\frac{1}{8}$. Note that 1/8, .125, and 0.125 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=ec333946&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

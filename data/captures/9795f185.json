@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9795f185",
+  "capturedAt": "2026-11-13T22:21:21.488Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Translation and Transformation",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Circle $P$ in the xy-plane has the equation $(x + 7)^{2} + (y - 3)^{2} = 9$. Circle $Q$ has the same center as circle $P$. The radius of circle $Q$ is three times the radius of circle $P$. The equation defining circle $Q$ in the xy-plane is $(x + 7)^{2} + (y - 3)^{2} = n$, where $n$ is a constant. What is the value of $n$?\n\n$$0$$\n\n$$81$$",
+  "choices": {},
+  "correctAnswer": "$81$",
+  "explanation": "The correct answer is $81$. An equation of a circle in the xy-plane can be written as $(x - t)^{2} + (y - u)^{2} = r^{2}$, where the center of the circle is $(t, u)$ and the radius of the circle is $r$. The equation of circle $P$ is $(x + 7)^{2} + (y - 3)^{2} = 9$, which is equivalent to $(x + 7)^{2} + (y - 3)^{2} = 3^{2}$. Therefore, the center of circle $P$ is $(-7, 3)$ and the radius of circle $P$ is $3$. Since circle $Q$ has the same center as circle $P$ and a radius three times that of circle $P$, the center of circle $Q$ is $(-7, 3)$ and the radius of circle $Q$ is $3(3)$, or $9$. Substituting $-7$ for $t$, $3$ for $u$, and $9$ for $r$ into $(x - t)^{2} + (y - u)^{2} = r^{2}$ yields $(x + 7)^{2} + (y - 3)^{2} = 9^{2}$, which is equivalent to $(x + 7)^{2} + (y - 3)^{2} = 81$. Therefore, the value of $n$ is $81$.",
+  "source": "https://cooksat.com/practice?questionId=9795f185&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

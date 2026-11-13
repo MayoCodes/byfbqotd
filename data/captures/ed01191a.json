@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ed01191a",
+  "capturedAt": "2026-11-13T22:21:58.135Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Tangent Line to Circle",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the diagram, circle $O$ has center $O$ and radius $10$. Triangle $ABC$ is inscribed in the circle such that $AB$ is a diameter. If $AC = 12$, what is the area of triangle $ABC$?",
+  "choices": {
+    "A": "$60$",
+    "B": "$96$",
+    "C": "$120$",
+    "D": "$192$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since $\\overline{AB}$ is a diameter of the circle, angle $ACB$ is a right angle by Thales' theorem. The diameter is $AB = 2 \\times 10 = 20$. Using the Pythagorean theorem with hypotenuse $AB = 20$ and leg $AC = 12$: $BC^2 = 20^2 - 12^2 = 400 - 144 = 256$, so $BC = 16$. The area of the right triangle is $\\frac{1}{2} \\times 12 \\times 16 = 96$.",
+  "source": "https://cooksat.com/practice?questionId=ed01191a&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ed01191a/1-e0904f8e393ef55d.png",
+      "kind": "diagram"
+    }
+  ]
+}

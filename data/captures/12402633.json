@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "12402633",
+  "capturedAt": "2026-11-13T22:20:09.920Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Geometry with Triangles",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the xy-plane, the graph of the equation $(x - 7)^{2} + (y - 12)^{2} = 16$ is a circle. The point $(3, d)$, where $d$ is a constant, lies on this circle. What is the value of $d$?\n\n$$0$$\n\n$$12$$",
+  "choices": {},
+  "correctAnswer": "$12$",
+  "explanation": "The correct answer is $12$. It's given that in the xy-plane, the graph of the equation $(x - 7)^{2} + (y - 12)^{2} = 16$ is a circle. It's also given that the point $(3, d)$, where $d$ is a constant, lies on this circle. It follows that the ordered pair $(3, d)$ makes the equation $(x - 7)^{2} + (y - 12)^{2} = 16$ true. Substituting $3$ for $x$ and $d$ for $y$ in this equation yields $(3 - 7)^{2} + (d - 12)^{2} = 16$, or $16 + (d - 12)^{2} = 16$. Subtracting $16$ from each side of this equation yields $(d - 12)^{2} = 0$. It follows that the value of $d$ is $12$.",
+  "source": "https://cooksat.com/practice?questionId=12402633&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

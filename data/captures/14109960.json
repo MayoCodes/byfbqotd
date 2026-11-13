@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "14109960",
+  "capturedAt": "2026-11-13T22:20:13.953Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Translation and Transformation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $x^{2} + ( y - 3 )^{2} = 49$ represents circle $M$. Circle $P$ is obtained by shifting circle $M$ down $7$ units in the xy-plane. Which of the following equations represents circle $P$?",
+  "choices": {
+    "A": "$x^{2} + ( y - 10 )^{2} = 49$",
+    "B": "$x^{2} + ( y + 4 )^{2} = 49$",
+    "C": "$( x - 7 )^{2} + ( y - 3 )^{2} = 49$",
+    "D": "$( x + 7 )^{2} + ( y - 3 )^{2} = 49$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The standard form of an equation of a circle in the xy-plane is $\\left( x - h \\right)^{2} + \\left( y - k \\right)^{2} = r^{2}$, where the center is $\\left( h, k \\right)$ and the radius is $r$. The equation of circle $M$, $x^{2} + \\left( y - 3 \\right)^{2} = 49$, can be rewritten as $\\left( x - 0 \\right)^{2} + \\left( y - 3 \\right)^{2} = 7^{2}$. So circle $M$ has center $\\left( 0, 3 \\right)$ and radius $7$. Shifting circle $M$ down $7$ units decreases the $y$-coordinate of its center by $7$, leaving the radius and $x$-coordinate unchanged. Therefore, the center of circle $P$ is $\\left( 0, 3 - 7 \\right)$, or $\\left( 0, -4 \\right)$, and its radius is $7$. Substituting $0$ for $h$, $-4$ for $k$, and $7$ for $r$ in the standard form yields $\\left( x - 0 \\right)^{2} + \\left( y - \\left( -4 \\right) \\right)^{2} = 7^{2}$, or $x^{2} + \\left( y + 4 \\right)^{2} = 49$.",
+  "source": "https://cooksat.com/practice?questionId=14109960&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

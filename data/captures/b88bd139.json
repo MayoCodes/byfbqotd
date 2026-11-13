@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b88bd139",
+  "capturedAt": "2026-11-13T22:21:36.547Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Complete the Square to Standard Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} + 18 x + y^{2} = 8 y + 96$$\n\nIn the xy-plane, the graph of the given equation is a circle. What is the length of the circle's radius?",
+  "choices": {
+    "A": "$sqrt(96)$",
+    "B": "$sqrt(177)$",
+    "C": "$sqrt(193)$",
+    "D": "$sqrt(289)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that in the xy-plane, the graph of the given equation is a circle. The equation of a circle in the xy-plane can be written in the form $\\left( x - h \\right)^{2} + \\left( y - k \\right)^{2} = r^{2}$, where $\\left( h , k \\right)$ is the center of the circle and $r$ is the length of the circle's radius. Subtracting $8 y$ from both sides of the equation $x^{2} + 18 x + y^{2} = 8 y + 96$ yields $x^{2} + 18 x + y^{2} - 8 y = 96$. By completing the square, this equation can be rewritten as $\\left( x^{2} + 18 x + \\left( \\frac{18}{2} \\right)^{2} \\right) + \\left( y^{2} - 8 y + \\left( \\frac{- 8}{2} \\right)^{2} \\right) = 96 + \\left( \\frac{18}{2} \\right)^{2} + \\left( \\frac{- 8}{2} \\right)^{2}$. This equation can be rewritten as $\\left( x^{2} + 18 x + 81 \\right) + \\left( y^{2} - 8 y + 16 \\right) = 96 + 81 + 16$, or $\\left( x + 9 \\right)^{2} + \\left( y - 4 \\right)^{2} = 193$. Therefore, $r^{2} = 193$. Taking the square root of both sides of this equation yields $r = \\sqrt{193}$ and $r = - \\sqrt{193}$. Since $r$ is the length of the circle's radius, $r$ must be positive. Therefore, the length of the circle's radius is $\\sqrt{193}$.",
+  "source": "https://cooksat.com/practice?questionId=b88bd139&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

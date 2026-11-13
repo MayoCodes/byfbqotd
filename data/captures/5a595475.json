@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5a595475",
+  "capturedAt": "2026-11-13T22:20:38.644Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Geometry with Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following equations represents a circle in the xy-plane that intersects the y-axis at exactly one point?",
+  "choices": {
+    "A": "$x^{2} + (y - 7)^{2} = 25$",
+    "B": "$(x - 5)^{2} + (y - 7)^{2} = 25$",
+    "C": "$(x - 7)^{2} + (y - 5)^{2} = 25$",
+    "D": "$(x - 9)^{2} + (y - 7)^{2} = 25$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The graph of $(x - h)^{2} + (y - k)^{2} = r^{2}$ in the xy-plane is a circle with center $(h, k)$ and radius $r$. A circle intersects the y-axis at exactly one point when the perpendicular distance from the center to the y-axis equals the radius; that is, $r = |h|$. The equation in choice B is $(x - 5)^{2} + (y - 7)^{2} = 25$, or $(x - 5)^{2} + (y - 7)^{2} = 5^{2}$, so $h = 5$, $k = 7$, and $r = 5$. Since $|h| = |5| = 5 = r$, the circle is tangent to the y-axis and intersects it at exactly one point.",
+  "source": "https://cooksat.com/practice?questionId=5a595475&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

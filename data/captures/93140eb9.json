@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "93140eb9",
+  "capturedAt": "2026-11-13T22:21:17.248Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Tangent Line to Circle",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the $xy$-plane has its center at $(4, 6)$. Line $k$ is tangent to this circle at the point $(a, -3)$, where $a$ is a constant. The slope of line $k$ is $\\frac{7}{5}$. What is the value of $a$?",
+  "choices": {
+    "A": "$-\\frac{(83)}{5}$",
+    "B": "$-\\frac{(43)}{5}$",
+    "C": "$\\frac{(73)}{7}$",
+    "D": "$\\frac{(83)}{5}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A line that is tangent to a circle is perpendicular to the radius of the circle at the point of tangency. The circle has its center at $(4, 6)$ and line $k$ is tangent to the circle at $(a, -3)$, so the slope of the radius from $(4, 6)$ to $(a, -3)$ is $\\frac{-3 - 6}{a - 4}$, or $\\frac{-9}{a - 4}$. Since the slope of line $k$ is $\\frac{7}{5}$, the slope of the radius must be the negative reciprocal, $-\\frac{5}{7}$. This gives the equation $\\frac{-9}{a - 4} = -\\frac{5}{7}$. Cross-multiplying yields $-9(7) = -5(a - 4)$, or $-63 = -5a + 20$. Subtracting $20$ from both sides gives $-83 = -5a$, and dividing both sides by $-5$ yields $a = \\frac{83}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=93140eb9&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

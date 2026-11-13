@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "77880511",
+  "capturedAt": "2026-11-13T22:21:04.222Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Unit Circle Trig Values",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the $xy$-plane, an angle in standard position with measure $t$ radians has its vertex at the origin $C$ of a unit circle. The initial ray of the angle passes through point $M$ with coordinates $(1, 0)$, and the terminal ray of the angle passes through point $N$ on the unit circle with coordinates $(-4/(sqrt(65)), -7/(sqrt(65)))$. What is the value of $\\frac{( t)}{( t)}$?\n\n$$0$$\n\n$$\\frac{4}{7},.5714,0.571$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{4}{7},.5714,0.571$",
+  "explanation": "Because the angle is in standard position on a unit circle, the coordinates of the point where its terminal ray meets the circle are $(\\cos t, \\sin t)$. Therefore $\\cos t = -\\frac{4}{\\sqrt{65}}$ and $\\sin t = -\\frac{7}{\\sqrt{65}}$. It follows that $\\frac{\\cos t}{\\sin t} = \\frac{-4/\\sqrt{65}}{-7/\\sqrt{65}} = \\frac{4}{7}$. Note that $\\frac{4}{7}$, $0.5714$, and $.5714$ are all acceptable forms of the answer.",
+  "source": "https://cooksat.com/practice?questionId=77880511&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

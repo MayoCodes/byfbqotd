@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aca461f0",
+  "capturedAt": "2026-11-13T22:21:27.702Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe circle shown has center $M$, circumference $84\\pi$, and diameters $AC$ and $BD$. The length of arc $DA$ is twice the length of arc $AB$. What is the length of arc $BC$?",
+  "choices": {
+    "A": "$14\\pi$",
+    "B": "$21\\pi$",
+    "C": "$28\\pi$",
+    "D": "$42\\pi$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since $\\overline{AC}$ and $\\overline{BD}$ are diameters of the circle, $\\overline{MA}$, $\\overline{MB}$, $\\overline{MC}$, and $\\overline{MD}$ are radii and are therefore congruent. Since $\\angle DMA$ and $\\angle BMC$ are vertical angles, they are congruent, so arcs $DA$ and $BC$ are congruent. Similarly, $\\angle AMB$ and $\\angle CMD$ are vertical angles, so arcs $AB$ and $CD$ are congruent. Let $x$ represent the length of arc $AB$; then arc $CD$ also has length $x$. It is given that the length of arc $DA$ is twice the length of arc $AB$, so arc $DA$ has length $2x$, and by congruence arc $BC$ also has length $2x$. The four arcs together form the full circumference, so $x + x + 2x + 2x = 84\\pi$, which gives $6x = 84\\pi$, and therefore $x = 14\\pi$. The length of arc $BC$ is $2(14\\pi) = 28\\pi$.",
+  "source": "https://cooksat.com/practice?questionId=aca461f0&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/aca461f0/1-a0496b48e3febb5e.png",
+      "kind": "diagram"
+    }
+  ]
+}

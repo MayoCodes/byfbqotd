@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "af0f6119",
+  "capturedAt": "2026-11-13T22:21:33.058Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Translation and Transformation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Circle $M$ has equation $(x + 5)^{2} + (y - 8)^{2} = 9$. In the $xy$-plane, circle $P$ is obtained by translating circle $M$ up $6$ units. Which equation represents circle $P$?",
+  "choices": {
+    "A": "$(x + 5)^{2} + (y - 2)^{2} = 9$",
+    "B": "$(x + 5)^{2} + (y - 14)^{2} = 9$",
+    "C": "$(x - 1)^{2} + (y - 8)^{2} = 9$",
+    "D": "$(x - 11)^{2} + (y - 8)^{2} = 9$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The equation of a circle in the $xy$-plane can be written as $(x - h)^{2} + (y - k)^{2} = r^{2}$, where $(h, k)$ is the center and $r$ is the radius. Circle $M$ has equation $(x + 5)^{2} + (y - 8)^{2} = 9$, which can be rewritten as $(x - (-5))^{2} + (y - 8)^{2} = 3^{2}$. Therefore, circle $M$ has center $(-5, 8)$ and radius $3$. Translating a circle up increases the $y$-coordinate of its center while the $x$-coordinate and radius remain unchanged. Translating circle $M$ up $6$ units gives a center of $(-5, 8 + 6)$, or $(-5, 14)$. Substituting $-5$ for $h$, $14$ for $k$, and $3$ for $r$ into $(x - h)^{2} + (y - k)^{2} = r^{2}$ yields $(x - (-5))^{2} + (y - 14)^{2} = 3^{2}$, or $(x + 5)^{2} + (y - 14)^{2} = 9$.",
+  "source": "https://cooksat.com/practice?questionId=af0f6119&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2d70fc1f",
+  "capturedAt": "2026-11-13T22:20:22.949Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Geometry with Triangles",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A circle in the xy-plane has a diameter with endpoints $(-3, 4)$ and $(-3, 18)$. An equation of this circle is $(x + 3)^{2} + (y - 11)^{2} = s^{2}$, where $s$ is a positive constant. What is the value of $s$?\n\n$$0$$\n\n$$7$$",
+  "choices": {},
+  "correctAnswer": "$7$",
+  "explanation": "The correct answer is $7$. The standard form of an equation of a circle in the xy-plane is $\\left(x - h\\right)^{2} + \\left(y - k\\right)^{2} = s^{2}$, where $h$, $k$, and $s$ are constants, the coordinates of the center of the circle are $\\left(h, k\\right)$, and the length of the radius of the circle is $s$. It's given that an equation of the circle is $\\left(x + 3\\right)^{2} + \\left(y - 11\\right)^{2} = s^{2}$. Therefore, the center of this circle is $\\left(-3, 11\\right)$. It's given that the endpoints of a diameter of the circle are $\\left(-3, 4\\right)$ and $\\left(-3, 18\\right)$. The length of the radius is the distance from the center of the circle to an endpoint of a diameter, which can be found using the distance formula, $\\sqrt{\\left(x_{1} - x_{2}\\right)^{2} + \\left(y_{1} - y_{2}\\right)^{2}}$. Substituting the center $\\left(-3, 11\\right)$ and one endpoint $\\left(-3, 4\\right)$ gives $\\sqrt{\\left(-3 - \\left(-3\\right)\\right)^{2} + \\left(11 - 4\\right)^{2}} = \\sqrt{0^{2} + 7^{2}} = 7$. Therefore, the value of $s$ is $7$.",
+  "source": "https://cooksat.com/practice?questionId=2d70fc1f&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

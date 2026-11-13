@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "72a3f71b",
+  "capturedAt": "2026-11-13T22:20:58.343Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Complete the Square to Standard Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the xy-plane, the equation $x^{2} + y^{2} - 8x + 6y = 0$ defines a circle. A line passes through the center of this circle and the point $(1, -5)$. What is the slope of this line?",
+  "choices": {
+    "A": "$-\\frac{2}{3}$",
+    "B": "$\\frac{1}{3}$",
+    "C": "$\\frac{2}{3}$",
+    "D": "$\\frac{3}{2}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "First, rewrite the circle equation in standard form by completing the square. For $x$: $x^{2} - 8x + 16 = (x - 4)^{2}$. For $y$: $y^{2} + 6y + 9 = (y + 3)^{2}$. The equation becomes $(x - 4)^{2} + (y + 3)^{2} = 25$, so the center is $(4, -3)$. The slope of the line through $(4, -3)$ and $(1, -5)$ is $\\frac{-5 - (-3)}{1 - 4} = \\frac{-2}{-3} = \\frac{2}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=72a3f71b&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

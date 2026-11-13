@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6320abe6",
+  "capturedAt": "2026-11-13T22:20:49.099Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Unit Circle Trig Values",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the value of $36\\pi$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$\\frac{1}{2}$",
+    "C": "$(sqrt(3))/2$",
+    "D": "$1$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The cosine of a number $t$ is the x-coordinate of the point arrived at by traveling a distance of $t$ units counterclockwise around the unit circle from the starting point $\\left(1, 0\\right)$. Since the unit circle has a circumference of $2\\pi$ units, one full rotation around the circle is equal to a distance of $2\\pi$ units. Therefore, a distance of $36\\pi$ units around the circle from the starting point $\\left(1, 0\\right)$ would result in exactly $18$ full rotations, arriving back at the point $\\left(1, 0\\right)$. So, $\\cos 36\\pi$ is equal to the x-coordinate of the point $\\left(1, 0\\right)$, which is $1$.",
+  "source": "https://cooksat.com/practice?questionId=6320abe6&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}

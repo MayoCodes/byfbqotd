@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d47c5cb9",
+  "capturedAt": "2026-11-13T22:21:46.284Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the xy-plane has its center at $(1, 2)$ and passes through the point $(4, 6)$. What is the radius of the circle?",
+  "choices": {
+    "A": "$3$",
+    "B": "$5$",
+    "C": "$7$",
+    "D": "$10$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The radius is the distance from the center $(1, 2)$ to the point $(4, 6)$ on the circle. Using the distance formula: $r = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.",
+  "source": "https://cooksat.com/practice?questionId=d47c5cb9&subject=math&domain=geometry-and-trigonometry&skills=circles&bank=cooksat",
+  "images": []
+}
