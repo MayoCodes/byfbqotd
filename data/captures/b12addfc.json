@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b12addfc",
+  "capturedAt": "2026-11-13T23:36:27.249Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent from Data Tables/Graphs",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table above shows a summary of $1,500$ responses to a survey question. Based on the table, how many of those surveyed primarily commute to work by either car or bus?",
+  "choices": {
+    "A": "$900$",
+    "B": "$1,035$",
+    "C": "$1,050$",
+    "D": "$1,065$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. According to the table, $48\\%$ of those surveyed primarily commute by car and $22\\%$ primarily commute by bus. Therefore, $70\\%$ of the $1{,}500$ respondents commute by either car or bus, and $70\\%$ of $1{,}500$ is $1{,}050$.",
+  "source": "https://cooksat.com/practice?questionId=b12addfc&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b12addfc/1-2d600edaf4aead7a.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b18c7003",
+  "capturedAt": "2026-11-13T23:36:31.572Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent Change Rate",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A homeowner's monthly electricity bill was $$62.50$. Due to a rate adjustment, his monthly bill is now $$66.75$. To the nearest tenth of a percent, by what percent did the amount of the homeowner's electricity bill increase?",
+  "choices": {
+    "A": "$4.3%$",
+    "B": "$6.4%$",
+    "C": "$6.5%$",
+    "D": "$6.8%$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find the percent increase of the homeowner's electricity bill, the absolute increase of the bill, in dollars, is divided by the original amount of the bill, and the result is multiplied by $100\\%$, as follows: $\\frac{66.75 - 62.50}{62.50} = \\frac{4.25}{62.50} = 0.068$; $0.068 \\times 100\\% = 6.8\\%$.",
+  "source": "https://cooksat.com/practice?questionId=b18c7003&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

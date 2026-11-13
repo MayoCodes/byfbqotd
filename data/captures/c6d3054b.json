@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c6d3054b",
+  "capturedAt": "2026-11-13T23:36:45.482Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent from Two Values",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A high school has $48$ classrooms. Of these classrooms, $18$ are on the first floor, and the remaining classrooms are on the second floor. What percentage of the classrooms are on the second floor?",
+  "choices": {
+    "A": "$37.5%$",
+    "B": "$50%$",
+    "C": "$62.5%$",
+    "D": "$75%$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The number of classrooms on the second floor is $48 - 18 = 30$. The percentage of classrooms on the second floor is $\\frac{30}{48} \\times 100\\% = 62.5\\%$.",
+  "source": "https://cooksat.com/practice?questionId=c6d3054b&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "24214cde",
+  "capturedAt": "2026-11-13T23:34:58.373Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Whole from a Percent",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In a crate of fruits, $75%$ of the fruits are ripe. There are $120$ ripe fruits in the crate. How many total fruits are in the crate?\n\n$$0$$\n\n$$160$$",
+  "choices": {},
+  "correctAnswer": "$160$",
+  "explanation": "The correct answer is $160$. Let $n$ represent the total number of fruits in the crate. It's given that $75\\%$ of the fruits are ripe and that there are $120$ ripe fruits in the crate. Therefore, $75\\%$ of $n$ is $120$. Since $75\\%$ can be rewritten as $\\frac{75}{100}$, it follows that $\\frac{75}{100} n = 120$. Multiplying both sides of this equation by $100$ yields $75n = 12{,}000$. Dividing both sides of this equation by $75$ yields $n = 160$. Therefore, there are $160$ total fruits in the crate.",
+  "source": "https://cooksat.com/practice?questionId=24214cde&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

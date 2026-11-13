@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c40aab73",
+  "capturedAt": "2026-11-13T23:36:42.218Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent Expression or Multiplier",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The expression $0.18w$ represents the result of decreasing a positive quantity $w$ by what percent?",
+  "choices": {
+    "A": "$1.8%$",
+    "B": "$8.2%$",
+    "C": "$18%$",
+    "D": "$82%$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. When a quantity $w$ is decreased by $p\\%$, the result can be represented by the expression $w\\left(1 - \\frac{p}{100}\\right)$, or $w(1 - 0.01p)$. It's given that the expression $0.18w$ represents the result of decreasing $w$ by a certain percent. This means $w(1 - 0.01p) = 0.18w$. Dividing both sides by $w$ yields $1 - 0.01p = 0.18$. Subtracting $1$ from both sides gives $-0.01p = -0.82$, or $0.01p = 0.82$. Therefore, $p = 82$. Thus, the expression $0.18w$ represents the result of decreasing $w$ by $82\\%$.",
+  "source": "https://cooksat.com/practice?questionId=c40aab73&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

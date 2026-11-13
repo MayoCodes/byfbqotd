@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "85b85ee7",
+  "capturedAt": "2026-11-13T23:36:04.662Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent Expression or Multiplier",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The volume of container X is $672%$ of the volume of container Y, and the volume of container X is $0.840%$ of the volume of container Z. If the volume of container Z is $p%$ of the volume of container Y, what is the value of $p$?\n\n$$0$$\n\n$$80000$$",
+  "choices": {},
+  "correctAnswer": "$80000$",
+  "explanation": "The correct answer is $80000$. Let $X$, $Y$, and $Z$ represent the volumes of containers X, Y, and Z, respectively. It's given that the volume of container X is $672\\%$ of the volume of container Y. Therefore, $X = \\frac{672}{100} Y$, which is equivalent to $X = 6.72 Y$. It's also given that the volume of container X is $0.840\\%$ of the volume of container Z. Therefore, $X = \\frac{0.840}{100} Z$, which is equivalent to $X = 0.0084 Z$. Since both expressions equal $X$, it follows that $6.72 Y = 0.0084 Z$. Dividing both sides of this equation by $0.0084$ yields $Z = \\frac{6.72}{0.0084} Y$, or $Z = 800 Y$. If the volume of container Z is $p\\%$ of the volume of container Y, then $Z = \\frac{p}{100} Y$. It follows that $\\frac{p}{100} = 800$. Multiplying both sides of this equation by $100$ yields $p = 80000$.",
+  "source": "https://cooksat.com/practice?questionId=85b85ee7&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

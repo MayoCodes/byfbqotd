@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ed7559e2",
+  "capturedAt": "2026-11-13T23:41:08.034Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Original Value Before Percent Change",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher studying firefly populations counted the number of fireflies in a meadow each day for $52$ days. On March $10$, there were $144$ fireflies in the meadow. The percent increase in the number of fireflies in the meadow from January $18$ to March $10$ was $12.50%$. How many fireflies were in the meadow on January $18$?",
+  "choices": {
+    "A": "$18$",
+    "B": "$126$",
+    "C": "$127$",
+    "D": "$128$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. It's given that on March $10$ there were $144$ fireflies in the meadow and that the percent increase in the number of fireflies from January $18$ to March $10$ was $12.50\\%$. This can be represented by the equation $144 = \\left(1 + \\frac{12.50}{100}\\right)x$, where $x$ represents the number of fireflies in the meadow on January $18$. This equation can be rewritten as $144 = 1.125x$. Dividing both sides of this equation by $1.125$ yields $x = 128$. Therefore, there were $128$ fireflies in the meadow on January $18$.",
+  "source": "https://cooksat.com/practice?questionId=ed7559e2&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

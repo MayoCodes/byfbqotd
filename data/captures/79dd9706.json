@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "79dd9706",
+  "capturedAt": "2026-11-13T23:35:52.602Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A store purchases a particular model of laptop at a wholesale price of $P$ dollars and marks it for sale at a retail price that is $150%$ of the wholesale price. During a special sale, a customer purchases the laptop with a $36%$ discount off the retail price, and the store additionally charges a $5%$ sales tax on the discounted sale price. What percent of the original wholesale price $P$ does the customer end up paying?\n\n$$0$$\n\n$$100.8$$",
+  "choices": {},
+  "correctAnswer": "$100.8$",
+  "explanation": "The correct answer is $100.8$. The store purchases the laptop at a wholesale price of $P$ dollars. The retail price is $150\\%$ of the wholesale price, which means the retail price is $(1.50)P$, or $1.5P$ dollars. During the special sale, the customer receives a $36\\%$ discount off the retail price. The discount amount is $(0.36)(1.5P) = 0.54P$ dollars. Therefore, the discounted sale price is $1.5P - 0.54P = 0.96P$ dollars. The store then charges a $5\\%$ sales tax on the discounted sale price. The tax amount is $(0.05)(0.96P) = 0.048P$ dollars. The total amount the customer pays is $0.96P + 0.048P = 1.008P$ dollars. To express this as a percent of the original wholesale price $P$, we note that $1.008P = 100.8\\%$ of $P$. Therefore, the customer ends up paying $100.8$ percent of the original wholesale price.",
+  "source": "https://cooksat.com/practice?questionId=79dd9706&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

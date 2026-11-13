@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b3679bc",
+  "capturedAt": "2026-11-13T23:35:04.478Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Original Value Before Percent Change",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A number $m$ is increased by $8%$. If the result is $270$, what is the value of $m$?",
+  "choices": {
+    "A": "$150$",
+    "B": "$248$",
+    "C": "$250$",
+    "D": "$292$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The decimal equivalent of $8\\%$ is $0.08$. Since increasing the number $m$ by $8\\%$ yields $270$, this situation can be represented by the equation $m \\times (1 + 0.08) = 270$, or $m \\times 1.08 = 270$. Dividing both sides of this equation by $1.08$ yields $m = 250$.",
+  "source": "https://cooksat.com/practice?questionId=2b3679bc&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

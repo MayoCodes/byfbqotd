@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7d7f842c",
+  "capturedAt": "2026-11-13T23:35:56.883Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Percent of a Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is $25%$ of $800$?",
+  "choices": {
+    "A": "$80$",
+    "B": "$200$",
+    "C": "$800$",
+    "D": "$1,000$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. $25\\%$ of a quantity means $\\frac{25}{100}$ times the quantity. Therefore, $25\\%$ of $800$ can be represented as $\\frac{25}{100}(800)$, which is equivalent to $0.25(800)$, or $200$.",
+  "source": "https://cooksat.com/practice?questionId=7d7f842c&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

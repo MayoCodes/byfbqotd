@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "69e896a5",
+  "capturedAt": "2026-11-13T23:35:38.162Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A company's revenue increased by $20%$ in the first year. In the second year, the revenue decreased by some percentage. After these two years, the company's revenue was exactly $90%$ of its original revenue. What was the percentage decrease in the second year?",
+  "choices": {
+    "A": "$10%$",
+    "B": "$15%$",
+    "C": "$25%$",
+    "D": "$20%$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Let $R$ be the original revenue. After a $20\\%$ increase, the revenue becomes $1.20R$. Let $x$ be the decimal form of the percentage decrease in the second year. Then the revenue after the second year is $1.20R(1-x) = 0.90R$. Dividing both sides by $R$ gives $1.20(1-x) = 0.90$. Solving for $x$: $1-x = \\frac{0.90}{1.20} = 0.75$, so $x = 0.25 = 25\\%$.",
+  "source": "https://cooksat.com/practice?questionId=69e896a5&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

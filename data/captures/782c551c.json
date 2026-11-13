@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "782c551c",
+  "capturedAt": "2026-11-13T23:35:50.768Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent Expression or Multiplier",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which of the following represents the result of increasing the quantity $w$ by $14%$, where $w > 0$?",
+  "choices": {
+    "A": "$0.14w$",
+    "B": "$1.14w$",
+    "C": "$w + 0.14$",
+    "D": "$w + 14$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Increasing the positive quantity $w$ by $14\\%$ is the result of adding $14\\%$ of $w$ to $w$. $14\\%$ of $w$ can be represented algebraically as $\\frac{14}{100} \\times w$, or $0.14w$. Adding this expression to $w$ yields $w + 0.14w$, or $1.14w$.",
+  "source": "https://cooksat.com/practice?questionId=782c551c&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

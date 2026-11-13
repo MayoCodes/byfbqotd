@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b846bab9",
+  "capturedAt": "2026-11-13T23:36:35.129Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent Expression or Multiplier",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In $2012$, a book club had a collection of $80$ books, each classified as either hardcover or paperback. From $2012$ to $2022$, the number of hardcover books in the collection increased by approximately $62%$, and the number of paperback books in the collection increased by approximately $38%$. The total number of books in the collection increased by approximately $55%$. Which equation best represents this situation, where $h$ represents the number of hardcover books in the collection in $2012$ and $p$ represents the number of paperback books in the collection in $2012$?",
+  "choices": {
+    "A": "$1.55h + 0.62p = 80(1.38)$",
+    "B": "$1.38h + 1.62p = 80(1.55)$",
+    "C": "$1.62h + 1.38p = 80(1.55)$",
+    "D": "$1.62h + 1.55p = 80(1.38)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that from $2012$ to $2022$, the number of hardcover books increased by approximately $62\\%$. Therefore, the number of hardcover books in $2022$ is $100\\%$ of the number in $2012$ plus an additional $62\\%$, which equals $162\\%$ of the $2012$ number. This can be written as $1.62h$, where $h$ represents the number of hardcover books in $2012$. Similarly, the number of paperback books increased by approximately $38\\%$, so the number in $2022$ is $138\\%$ of the $2012$ number, or $1.38p$, where $p$ represents the number of paperback books in $2012$. The total number of books in $2022$ is therefore $1.62h + 1.38p$. It's also given that the total number of books increased by approximately $55\\%$ from $2012$ to $2022$. Since there were $80$ books in $2012$, the total in $2022$ is $155\\%$ of $80$, or $80(1.55)$. Therefore, the equation is $1.62h + 1.38p = 80(1.55)$.",
+  "source": "https://cooksat.com/practice?questionId=b846bab9&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5c6683cc",
+  "capturedAt": "2026-11-13T23:35:30.435Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The price of an item increased by $15%$ from year 1 to year 2. The price then increased by $10%$ from year 2 to year 3. If the price in year 1 was $p$ dollars, which of the following represents the price, in dollars, in year 3?",
+  "choices": {
+    "A": "$1.25p$",
+    "B": "$1.265p$",
+    "C": "$1.15p$",
+    "D": "$1.35p$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The price in year 2 is $p + 0.15p = 1.15p$ dollars. The price in year 3 is $1.15p + 0.10(1.15p) = 1.15p(1 + 0.10) = 1.15p(1.10) = 1.265p$ dollars.",
+  "source": "https://cooksat.com/practice?questionId=5c6683cc&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

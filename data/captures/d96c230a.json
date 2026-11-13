@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d96c230a",
+  "capturedAt": "2026-11-13T23:40:54.287Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The monthly rent of an apartment was $$2,000$. The rent increased by $5%$ at the end of the first year. At the end of the second year, the rent increased by $3%$ of the rent at the end of the first year. What was the monthly rent, in dollars, at the end of the second year?",
+  "choices": {
+    "A": "$2,100$",
+    "B": "$2,160$",
+    "C": "$2,163$",
+    "D": "$2,200$"
+  },
+  "correctAnswer": "C",
+  "explanation": "First, calculate the rent after the first year: $$2{,}000 \\times 1.05$ = $$2{,}100$. Then, apply the second increase to this new amount: $$2{,}100 \\times 1.03$ = $$2{,}163$. The successive percentage increases multiply: $$2{,}000 \\times 1.05 \\times 1.03$ = $$2{,}163$.",
+  "source": "https://cooksat.com/practice?questionId=d96c230a&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

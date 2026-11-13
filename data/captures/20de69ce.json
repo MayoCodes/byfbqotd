@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "20de69ce",
+  "capturedAt": "2026-11-13T23:34:52.216Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent Change Rate",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A shirt that originally sold for $$25$ was marked down to $$22.50$. What is the percent decrease in the price of the shirt?",
+  "choices": {
+    "A": "$10%$",
+    "B": "$11%$",
+    "C": "$25%$",
+    "D": "$90%$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The decrease in price is $$25$ $-$ $$22.50$ $=$ $$2.50$. The percent decrease is $\\frac{\\text{decrease}}{\\text{original}} \\times 100\\%$ $=$ $\\frac{2.50}{25} \\times 100\\%$ $=$ $0.1 \\times 100\\% = 10\\%$.",
+  "source": "https://cooksat.com/practice?questionId=20de69ce&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

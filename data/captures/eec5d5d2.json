@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eec5d5d2",
+  "capturedAt": "2026-11-13T23:41:13.438Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The number of people who attended a play on Friday was $20%$ more than the number of people who attended the play on Thursday. The number of people who attended the play on Saturday was $10%$ more than the number who attended on Friday. If $n$ people attended the play on Thursday, which expression represents the number of people who attended the play on Saturday?",
+  "choices": {
+    "A": "$1.30n$",
+    "B": "$1.32n$",
+    "C": "$1.44n$",
+    "D": "$1.50n$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Friday's attendance was $20\\%$ more than Thursday's: $1.2n$. Saturday's attendance was $10\\%$ more than Friday's: $(1.2n)(1.1) = 1.32n$. Therefore, Saturday's attendance is represented by $1.32n$.",
+  "source": "https://cooksat.com/practice?questionId=eec5d5d2&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

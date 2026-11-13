@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bed0f6a4",
+  "capturedAt": "2026-11-13T23:36:38.518Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent Expression or Multiplier",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The membership of a local club increased by $12%$ from $2020$ to $2021$. If the $2021$ membership is $m$ times the $2020$ membership, what is the value of $m$?",
+  "choices": {
+    "A": "$0.012$",
+    "B": "$0.12$",
+    "C": "$1.12$",
+    "D": "$1.2$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the membership of the club increased by $12\\%$ from $2020$ to $2021$. Therefore, the $2021$ membership includes $100\\%$ of the $2020$ membership plus an additional $12\\%$ of the $2020$ membership. This means the $2021$ membership is $112\\%$ of the $2020$ membership. Thus, the $2021$ membership is $\\frac{112}{100}$, or $1.12$, times the $2020$ membership. Therefore, the value of $m$ is $1.12$.",
+  "source": "https://cooksat.com/practice?questionId=bed0f6a4&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

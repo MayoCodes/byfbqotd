@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "175a6630",
+  "capturedAt": "2026-11-13T23:34:38.570Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Percent of a Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Priya and Jonas each have book collections. The number of books in Priya's collection is $300%$ of the number of books in Jonas's collection. If there are $240$ books in Jonas's collection, how many books are in Priya's collection?",
+  "choices": {
+    "A": "$80$",
+    "B": "$240$",
+    "C": "$720$",
+    "D": "$960$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the number of books in Priya's collection is $300\\%$ of the number of books in Jonas's collection and that Jonas's collection has $240$ books. The number of books in Priya's collection can be calculated by multiplying the number of books in Jonas's collection by $\\frac{300}{100}$. Therefore, the number of books in Priya's collection is $240\\left(\\frac{300}{100}\\right)$, which is equivalent to $240(3)$, or $720$.",
+  "source": "https://cooksat.com/practice?questionId=175a6630&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

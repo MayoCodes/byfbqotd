@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a0903897",
+  "capturedAt": "2026-11-13T23:36:16.605Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A store initially priced a jacket at $$150$. The jacket went on sale for $20%$ off the original price. After the sale, the store applied an additional $10%$ discount on the sale price. What is the final price of the jacket after both discounts, in dollars?\n\n$$0$$\n\n$$108$$",
+  "choices": {},
+  "correctAnswer": "$108$",
+  "explanation": "The correct answer is $108$. It's given that a jacket was initially priced at $150$ dollars and went on sale for $20\\%$ off the original price. The discount amount from the first sale is $(0.20)(150)$, or $30$ dollars. Subtracting this discount from the original price gives a sale price of $150 - 30 = 120$ dollars. It's also given that after the sale, an additional $10\\%$ discount was applied to the sale price. The additional discount amount is $(0.10)(120)$, or $12$ dollars. Subtracting this from the sale price gives the final price: $120 - 12 = 108$ dollars. Therefore, the final price of the jacket after both discounts is $108$ dollars.",
+  "source": "https://cooksat.com/practice?questionId=a0903897&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

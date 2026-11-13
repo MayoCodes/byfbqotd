@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2eac6e88",
+  "capturedAt": "2026-11-13T23:35:06.824Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Calculate After Percent Increase/Decrease",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The population of a city was $310,000$ in 2021. The population increased by $3%$ from 2021 to 2022. What was the population of the city in 2022?",
+  "choices": {
+    "A": "$3,100$",
+    "B": "$9,300$",
+    "C": "$313,100$",
+    "D": "$319,300$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The population increased by $3\\%$ of $310{,}000$, which is $0.03 \\times 310{,}000 = 9{,}300$. Adding this increase to the original population gives $310{,}000 + 9{,}300 = 319{,}300$.",
+  "source": "https://cooksat.com/practice?questionId=2eac6e88&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1cabf792",
+  "capturedAt": "2026-11-13T23:34:47.745Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In 1995, a company's revenue was $$1,440,000$. By 2005, the company's revenue had increased by $60%$. From 2005 to 2015, the company's revenue increased by an additional $25%$. What was this company's revenue, in dollars, in 2015?",
+  "choices": {
+    "A": "$2,160,000$",
+    "B": "$2,304,000$",
+    "C": "$2,664,000$",
+    "D": "$2,880,000$"
+  },
+  "correctAnswer": "D",
+  "explanation": "First, calculate the 2005 revenue: a $60\\%$ increase means multiplying by $1.60$, so 1.60 \\times \\1{,}440{,}000 = $2{,}304{,}000$. Then, calculate the 2015 revenue: a$25%$increase means multiplying by$1.25$, so$1.25 \\times $2{,}304{,}000 = $2{,}880{,}000$.",
+  "source": "https://cooksat.com/practice?questionId=1cabf792&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

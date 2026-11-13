@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ded62609",
+  "capturedAt": "2026-11-13T23:40:55.971Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Percent of a Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Last year, $400$ people were members of a community gardening club. This year, the number of members is $163%$ of last year's number. How many members are in the community gardening club this year?",
+  "choices": {
+    "A": "$237$",
+    "B": "$563$",
+    "C": "$652$",
+    "D": "$752$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The number of members this year is $163\\%$ of last year's number, which is $400$. $163\\%$ of $400$ can be expressed as $\\left(\\frac{163}{100}\\right)\\left(400\\right)$, or $\\left(1.63\\right)\\left(400\\right)$, which equals $652$. Therefore, $652$ members are in the community gardening club this year.",
+  "source": "https://cooksat.com/practice?questionId=ded62609&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

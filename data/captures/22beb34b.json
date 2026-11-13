@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "22beb34b",
+  "capturedAt": "2026-11-13T23:34:54.374Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent from Two Values",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A bag contains $20$ marbles. Of these marbles, $4$ are red, $9$ are blue, and $7$ are white. What percent of the marbles in the bag are red?",
+  "choices": {
+    "A": "$5%$",
+    "B": "$10%$",
+    "C": "$25%$",
+    "D": "$20%$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The percentage of red marbles is calculated by dividing the number of red marbles by the total number of marbles: $\\frac{4}{20} = \\frac{1}{5} = 0.20$. Converting to percentage: $0.20 \\times 100\\% = 20\\%$.",
+  "source": "https://cooksat.com/practice?questionId=22beb34b&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

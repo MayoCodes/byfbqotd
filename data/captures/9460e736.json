@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9460e736",
+  "capturedAt": "2026-11-13T23:36:11.131Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A plant is $20$ centimeters tall. The plant is expected to grow $15%$ taller each month for the next $4$ months. What is the expected height of the plant, in centimeters, $4$ months from now? (Round your answer to the nearest centimeter.)",
+  "choices": {
+    "A": "$32$",
+    "B": "$35$",
+    "C": "$40$",
+    "D": "$44$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Since the plant grows $15\\%$ taller each month, its height is multiplied by $1.15$ each month. After $4$ months, the height is $20 \\times (1.15)^4 = 20 \\times 1.74900625 \\approx 34.98$ centimeters, which rounds to $35$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=9460e736&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e85cecc9",
+  "capturedAt": "2026-11-13T23:41:04.181Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent from Data Tables/Graphs",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of students in each grade at a high school in 2018 and 2020. The number of 12th-grade students in 2018 was what percent of the total number of students at the school in 2020?",
+  "choices": {
+    "A": "$25%$",
+    "B": "$26%$",
+    "C": "$20%$",
+    "D": "$18%$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The number of 12th-grade students in 2018 was 90. The total number of students in 2020 is $105 + 115 + 110 + 120 = 450$. The percent is $\\frac{90}{450} \\times 100\\% = 20\\%$.",
+  "source": "https://cooksat.com/practice?questionId=e85cecc9&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e85cecc9/1-95a86a12511149ea.png",
+      "kind": "diagram"
+    }
+  ]
+}

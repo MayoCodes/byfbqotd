@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0e627677",
+  "capturedAt": "2026-11-13T23:34:35.989Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent from Data Tables/Graphs",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the balance in a savings account at the end of each year and the annual interest rate for $2019$, $2020$, and $2021$. The balance is based on the interest rate for the year and the amount in the account at the beginning of the year. No deposits or withdrawals are made. The interest rate for $2022$ will be between $2.2%$ and $2.4%$, inclusive. If $n$ is the balance at the end of $2022$, which inequality represents all possible values of $n$?",
+  "choices": {
+    "A": "$1,046.53 \\le n \\le 1,069.56$",
+    "B": "$1,046.53 \\le n \\le 1,070.60$",
+    "C": "$1,069.55 \\le n \\le 1,071.65$",
+    "D": "$1,070.60 \\le n \\le 1,071.65$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The balance at the end of $2022$ depends on the interest rate for that year. Since the interest rate will be between $2.2\\%$ and $2.4\\%$, inclusive, we calculate the minimum and maximum possible balances. The minimum occurs at $2.2\\%$: $1{,}046.53 \\times 1.022 = 1{,}069.55$ dollars. The maximum occurs at $2.4\\%$: $1{,}046.53 \\times 1.024 = 1{,}071.65$ dollars. Therefore, the inequality $1{,}069.55 \\leq n \\leq 1{,}071.65$ represents all possible values of $n$.",
+  "source": "https://cooksat.com/practice?questionId=0e627677&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/0e627677/1-3b765a94f5d4d205.png",
+      "kind": "diagram"
+    }
+  ]
+}

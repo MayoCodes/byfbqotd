@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "33d2bc6a",
+  "capturedAt": "2026-11-13T23:35:08.620Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Original Value Before Percent Change",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A biologist studying a population of frogs counted the number of frogs in a pond each day for $51$ days. On April $20$, there were $171$ frogs in the pond. The percent increase in the number of frogs in the pond from March $1$ to April $20$ was $18.75%$. How many frogs were in the pond on March $1$?",
+  "choices": {
+    "A": "$9$",
+    "B": "$32$",
+    "C": "$139$",
+    "D": "$144$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Let $x$ represent the number of frogs in the pond on March $1$. It's given that the percent increase from March $1$ to April $20$ was $18.75\\%$, so the number of frogs on April $20$ can be expressed as $x(1 + 0.1875)$, or $1.1875x$. It's also given that there were $171$ frogs on April $20$. Therefore, $1.1875x = 171$. Dividing both sides of this equation by $1.1875$ yields $x = 144$. Thus, there were $144$ frogs in the pond on March $1$.",
+  "source": "https://cooksat.com/practice?questionId=33d2bc6a&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e098880e",
+  "capturedAt": "2026-11-13T23:40:59.017Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent Expression or Multiplier",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The membership of a community club increased by $4%$ from $2022$ to $2023$. If the $2023$ membership is $m$ times the $2022$ membership, what is the value of $m$?",
+  "choices": {
+    "A": "$0.04$",
+    "B": "$0.4$",
+    "C": "$1.04$",
+    "D": "$1.4$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Let $x$ be the $2022$ membership of the community club. It's given that the membership increased by $4\\%$ from $2022$ to $2023$. The increase in membership can be written as $(0.04)x$. The $2023$ membership is the sum of the $2022$ membership and the increase, which can be written as $x + (0.04)x$, or $1.04x$. Therefore, the value of $m$ is $1.04$.",
+  "source": "https://cooksat.com/practice?questionId=e098880e&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

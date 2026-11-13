@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a0b2b3d2",
+  "capturedAt": "2026-11-13T23:36:18.604Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A company's revenue increased by $40%$ from $2020$ to $2021$, then increased by $64%$ from $2021$ to $2022$. The company's revenue in $2021$ was $$420,000$. What was the net percentage increase in revenue from $2020$ to $2022$?",
+  "choices": {
+    "A": "$89.6%$",
+    "B": "$104.0%$",
+    "C": "$129.6%$",
+    "D": "$164.0%$"
+  },
+  "correctAnswer": "C",
+  "explanation": "If the $2021$ revenue was $$420{,}000$ and this represents a $40\\%$ increase from $2020$, then the $2020$ revenue was $\\frac{420{,}000}{1.40} = 300{,}000$. The $2022$ revenue is $1.64$ times the $2021$ revenue: $1.64 \\times 420{,}000 = 688{,}800$. The net increase from $2020$ to $2022$ is $688{,}800 - 300{,}000 = 388{,}800$, which is $\\frac{388{,}800}{300{,}000} \\times 100\\% = 129.6\\%$ of the original $2020$ revenue.",
+  "source": "https://cooksat.com/practice?questionId=a0b2b3d2&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

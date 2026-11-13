@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "43b03ea9",
+  "capturedAt": "2026-11-13T23:35:22.602Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Whole from a Percent",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$24$ is $20%$ of what number?",
+  "choices": {
+    "A": "$44$",
+    "B": "$100$",
+    "C": "$120$",
+    "D": "$216$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Let $x$ represent the number that $24$ is $20\\%$ of. It follows that $\\frac{24}{x} = \\frac{20}{100}$. Multiplying each side of this equation by $x$ yields $24 = \\frac{20x}{100}$. Multiplying each side of this equation by $100$ yields $2{,}400 = 20x$. Dividing each side of this equation by $20$ yields $120 = x$. Therefore, $24$ is $20\\%$ of $120$.",
+  "source": "https://cooksat.com/practice?questionId=43b03ea9&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

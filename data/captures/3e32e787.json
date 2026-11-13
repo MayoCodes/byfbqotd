@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3e32e787",
+  "capturedAt": "2026-11-13T23:35:16.350Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent Expression or Multiplier",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "One hour after a chemical reaction begins, the mass of a substance is $82%$ of its mass at the start of the reaction. Which expression best represents the mass of the substance one hour after the start of the reaction, where $w$ is its mass at the start of the reaction?",
+  "choices": {
+    "A": "$0.082w$",
+    "B": "$0.82w$",
+    "C": "$8.2w$",
+    "D": "$82w$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the mass of the substance one hour after the start of the reaction is $82\\%$ of its mass at the start of the reaction. Since $w$ is the mass at the start of the reaction, it follows that the mass one hour after the start can be represented by the expression $\\frac{82}{100}w$, or $0.82w$.",
+  "source": "https://cooksat.com/practice?questionId=3e32e787&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b103b8c9",
+  "capturedAt": "2026-11-13T23:36:25.218Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A store sells two types of shirts, Type X and Type Y. Of all the shirts in the store, $40%$ are Type X shirts. Of all the Type X shirts, $30%$ are on sale. What percentage of all shirts in the store are Type X shirts on sale?",
+  "choices": {
+    "A": "$10%$",
+    "B": "$12%$",
+    "C": "$30%$",
+    "D": "$70%$"
+  },
+  "correctAnswer": "B",
+  "explanation": "It's given that $40\\%$ of all shirts are Type X. It's also given that of all Type X shirts, $30\\%$ are on sale. To find what percentage of all shirts are Type X shirts on sale, calculate $30\\%$ of $40\\%$: $(0.30)(0.40) = 0.12$, which equals $12\\%$.",
+  "source": "https://cooksat.com/practice?questionId=b103b8c9&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

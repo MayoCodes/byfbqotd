@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "84d0c6d5",
+  "capturedAt": "2026-11-13T23:36:02.136Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The value of $y$ is $60%$ greater than the value of $x$. The value of $z$ is $25%$ less than the value of $y$. The value of $z$ is what percent of the value of $x$?\n\n$$0$$\n\n$$120$$",
+  "choices": {},
+  "correctAnswer": "$120$",
+  "explanation": "The correct answer is $120$. It's given that the value of $y$ is $60\\%$ greater than the value of $x$. This means $y = x + 0.60x = 1.6x$. It's also given that the value of $z$ is $25\\%$ less than the value of $y$. This means $z = y - 0.25y = 0.75y$. Substituting the expression for $y$ in terms of $x$ gives $z = 0.75(1.6x) = 1.2x$. To find what percent of $x$ the value $z$ represents, we recognize that $z = 1.2x$ means $z$ is $1.2$ times $x$, which is equivalent to $120\\%$ of $x$. Therefore, $z$ is $120$ percent of $x$.",
+  "source": "https://cooksat.com/practice?questionId=84d0c6d5&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

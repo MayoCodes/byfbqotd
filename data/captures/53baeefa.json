@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "53baeefa",
+  "capturedAt": "2026-11-13T23:35:26.119Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Percent of a Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "During the first week a library was open, $800,000$ books were checked out. During the same week, $12%$ of the books checked out were not renewed. If checkouts and the non-renewal rate remain the same for each of the next $7$ weeks, about how many books will not be renewed during this $8$-week period?",
+  "choices": {
+    "A": "$96,000$",
+    "B": "$672,000$",
+    "C": "$768,000$",
+    "D": "$5,632,000$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Of the $800{,}000$ books checked out during the first week, $12\\%$ were not renewed, so $800{,}000 \\times 0.12 = 96{,}000$ books were not renewed during the first week. If books were checked out and not renewed at the same rate for each of the next $7$ weeks, then a total of $96{,}000 \\times 8 = 768{,}000$ books were not renewed during the $8$-week period.",
+  "source": "https://cooksat.com/practice?questionId=53baeefa&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

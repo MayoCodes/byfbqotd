@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "22db76fc",
+  "capturedAt": "2026-11-13T23:34:56.189Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Original Value Before Percent Change",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "After $25%$ of the original number of books on a shelf were removed from the shelf, $360$ books remained on the shelf. How many books were removed from the shelf?",
+  "choices": {
+    "A": "$90$",
+    "B": "$120$",
+    "C": "$480$",
+    "D": "$1,440$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Let $x$ represent the original number of books on the shelf. Since $25\\%$ of the books were removed, $\\frac{25}{100}x$, or $0.25x$, books were removed, and $x - 0.25x$, or $0.75x$, books remained. It's given that $360$ books remained, so $0.75x = 360$. Dividing both sides by $0.75$ yields $x = 480$. Substituting $480$ for $x$ in the expression $0.25x$ yields $0.25(480)$, or $120$. Therefore, $120$ books were removed from the shelf.",
+  "source": "https://cooksat.com/practice?questionId=22db76fc&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

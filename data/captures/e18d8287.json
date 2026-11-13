@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e18d8287",
+  "capturedAt": "2026-11-13T23:41:00.883Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A store is having a sale where all items are discounted by $30%$. A customer has a coupon that provides an additional discount off the sale price. After applying both the sale discount and the coupon, the customer pays $56%$ of the original price. What percent discount does the coupon provide off the sale price?",
+  "choices": {},
+  "correctAnswer": "$$20$$",
+  "explanation": "The correct answer is $20$. It's given that items are discounted by $30\\%$, so customers pay $70\\%$ of the original price, which can be written as $0.70$ times the original price. It's also given that after applying an additional coupon discount, the customer pays $56\\%$ of the original price, or $0.56$ times the original price. If the coupon provides a discount of $p\\%$ off the sale price, then the customer pays $(100-p)\\%$ of the sale price, which can be written as $\\frac{100-p}{100}$ times the sale price. Therefore, the final price can be expressed as $0.70 \\times \\frac{100-p}{100}$ times the original price. Setting this equal to $0.56$ times the original price gives $0.70 \\times \\frac{100-p}{100} = 0.56$. Dividing both sides by $0.70$ yields $\\frac{100-p}{100} = 0.8$. Multiplying both sides by $100$ gives $100-p = 80$. Therefore, $p = 20$. This means the coupon provides a $20\\%$ discount off the sale price. We can verify: If an item originally costs $$100$, after the $30\\%$ store discount it costs $$100 \\times 0.70$ = $$70$. With a $20\\%$ coupon discount off the sale price, the final cost is $$70 \\times 0.80$ = $$56$, which is $56\\%$ of the original $$100$ price, confirming our answer.",
+  "source": "https://cooksat.com/practice?questionId=e18d8287&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

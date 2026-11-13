@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eeca5c0c",
+  "capturedAt": "2026-11-13T23:41:15.881Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent from Two Values",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "During the first week of a book sale, the price of a novel was $$12.50$. During the second week of the sale, the price of the novel was $$15.75$. The price of the novel during the second week was $p%$ of the price of the novel during the first week. What is the value of $p$?",
+  "choices": {
+    "A": "$26$",
+    "B": "$74$",
+    "C": "$126$",
+    "D": "$226$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that the price of the novel was $$12.50$ during the first week and $$15.75$ during the second week, and that the second-week price was $p\\%$ of the first-week price. It follows that $$15.75$ is $p\\%$ of $$12.50$. Therefore, $15.75 = \\left(\\frac{p}{100}\\right)(12.50)$. Multiplying both sides by $100$ gives $1{,}575 = 12.50 p$. Dividing both sides by $12.50$ yields $p = 126$.",
+  "source": "https://cooksat.com/practice?questionId=eeca5c0c&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

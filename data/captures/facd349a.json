@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "facd349a",
+  "capturedAt": "2026-11-13T23:41:19.733Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A store marks up the wholesale price of a jacket by $25%$ to set its retail price. Later, the store offers a $20%$ discount on the retail price, and the jacket sells for $$80$. What was the wholesale price of the jacket, in dollars?",
+  "choices": {},
+  "correctAnswer": "$$80$$",
+  "explanation": "The correct answer is $80$. Let the wholesale price be $w$ dollars. The store marks up the wholesale price by $25\\%$ to set the retail price, so the retail price is $w + 0.25w = 1.25w$ dollars. The store then offers a $20\\%$ discount on the retail price, which means the jacket sells for $80\\%$ of the retail price. Therefore, the sale price is $0.8(1.25w) = 80$. Simplifying the left side gives $1.0w = 80$, so $w = 80$. Verification: If the wholesale price is $$80$, then the retail price after a $25\\%$ markup is $$80$(1.25) = $$100$. A $20\\%$ discount on $$100$ gives a sale price of $$100$(0.8) = $$80$, which matches the given information. Therefore, the wholesale price was $$80$.",
+  "source": "https://cooksat.com/practice?questionId=facd349a&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

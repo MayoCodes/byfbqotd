@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "276f3bad",
+  "capturedAt": "2026-11-13T23:35:02.246Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent Change Rate",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The salary at a company increased from $$50,000$ to $$70,000$. What was the percent increase in the salary?",
+  "choices": {
+    "A": "$29%$",
+    "B": "$35%$",
+    "C": "$40%$",
+    "D": "$140%$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The percent increase is calculated by finding the difference ($70{,}000 - $50{,}000 = $$20{,}000$), dividing by the original salary ($\\frac{20{,}000}{50{,}000} = 0.4$), and multiplying by $100$ to get $40\\%$.",
+  "source": "https://cooksat.com/practice?questionId=276f3bad&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

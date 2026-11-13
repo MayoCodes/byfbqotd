@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b187d209",
+  "capturedAt": "2026-11-13T23:36:29.418Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Calculate After Percent Increase/Decrease",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A recipe requires $\\frac{3}{4}$ teaspoon of salt. If a chef wants to make a batch that requires $30%$ more salt, how many teaspoons of salt should the chef use?",
+  "choices": {
+    "A": "$\\frac{9}{(40)}$",
+    "B": "$\\frac{(15)}{(16)}$",
+    "C": "$\\frac{(39)}{(40)}$",
+    "D": "$\\frac{(21)}{(20)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "To find 30% more salt, calculate 30% of $\\frac{3}{4}$: $0.3 \\times \\frac{3}{4} = \\frac{9}{40}$. Add this to the original: $\\frac{3}{4} + \\frac{9}{40} = \\frac{30}{40} + \\frac{9}{40} = \\frac{39}{40}$ teaspoon.",
+  "source": "https://cooksat.com/practice?questionId=b187d209&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

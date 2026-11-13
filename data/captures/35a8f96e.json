@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "35a8f96e",
+  "capturedAt": "2026-11-13T23:35:10.320Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Calculate After Percent Increase/Decrease",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "What number is $35%$ greater than $240$?\n\n$$0$$\n\n$$324$$",
+  "choices": {},
+  "correctAnswer": "$324$",
+  "explanation": "The correct answer is $324$. For a number to be $35\\%$ greater than $240$, it follows that the number is $\\left(100\\% \\text{ of } 240\\right) + \\left(35\\% \\text{ of } 240\\right)$, which can be written as $\\frac{100}{100}\\left(240\\right) + \\frac{35}{100}\\left(240\\right)$. This expression is equivalent to $1\\left(240\\right) + 0.35\\left(240\\right)$, or $1.35\\left(240\\right)$, which is equal to $324$. Therefore, $324$ is $35\\%$ greater than $240$.",
+  "source": "https://cooksat.com/practice?questionId=35a8f96e&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

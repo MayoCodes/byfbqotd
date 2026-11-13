@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f0c2aadf",
+  "capturedAt": "2026-11-13T23:41:17.619Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent from Data Tables/Graphs",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA town has one kindergarten. The table shows the number of students enrolled in the kindergarten for the years $2016$ through $2019$. If the number of students enrolled in $2020$ is $4$ percent greater than the number enrolled in $2019$, how many students are enrolled in $2020$?",
+  "choices": {
+    "A": "$254$",
+    "B": "$260$",
+    "C": "$268$",
+    "D": "$279$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The number of students in $2019$ was $250$. A $4$ percent increase gives $250 \\times 1.04 = 260$ students in $2020$.",
+  "source": "https://cooksat.com/practice?questionId=f0c2aadf&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/f0c2aadf/1-7511f8e0e4659133.png",
+      "kind": "diagram"
+    }
+  ]
+}

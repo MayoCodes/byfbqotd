@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b7bd5377",
+  "capturedAt": "2026-11-13T23:36:33.464Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Percent of a Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Marisol bought $250$ feet of ribbon. She used $60%$ of this ribbon to wrap packages. How many feet of ribbon did Marisol use to wrap packages?",
+  "choices": {
+    "A": "$12$",
+    "B": "$15$",
+    "C": "$150$",
+    "D": "$190$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The number of feet of ribbon Marisol used can be calculated by multiplying the total amount of ribbon by the proportion she used. Since she used $60\\%$ of the ribbon, the proportion is $\\frac{60}{100}$, or $0.6$. Multiplying $250$ by this proportion gives $250(0.6)$, or $150$ feet.",
+  "source": "https://cooksat.com/practice?questionId=b7bd5377&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

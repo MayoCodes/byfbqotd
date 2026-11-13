@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "af3fe26b",
+  "capturedAt": "2026-11-13T23:36:22.919Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Whole from a Percent",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A community library received a donation of books. Of the books donated, $40%$ are novels, $30%$ are biographies, $20%$ are reference books, and the remaining $8$ books are textbooks. How many more novels were donated than biographies?\n\n$$0$$\n\n$$8$$",
+  "choices": {},
+  "correctAnswer": "$8$",
+  "explanation": "The correct answer is $8$. The $8$ textbooks represent $(100 - 40 - 30 - 20)\\% = 10\\%$ of the books donated. If $x$ books were donated, then $0.10x = 8$. Thus, there were $\\frac{8}{0.10} = 80$ books donated in total. It follows that $0.40 \\times 80 = 32$ novels and $0.30 \\times 80 = 24$ biographies were donated. Therefore, there were $32 - 24 = 8$ more novels donated than biographies.",
+  "source": "https://cooksat.com/practice?questionId=af3fe26b&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

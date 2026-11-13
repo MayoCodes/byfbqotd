@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3bcc31fb",
+  "capturedAt": "2026-11-13T23:35:13.850Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "An investment of $$75$ decreases in value by $15%$ during the first year. During the second year, the investment increases in value by $20%$. The final value is what percent of the original investment?\n\n$$0$$\n\n$$102$$",
+  "choices": {},
+  "correctAnswer": "$102$",
+  "explanation": "The correct answer is $102$. It's given that the original investment is $$75$ and it decreases in value by $15\\%$ during the first year. The value after the first year can be calculated as $75(1 - 0.15)$, which equals $75(0.85)$, or $$63.75$. During the second year, the investment increases in value by $20\\%$. Therefore, the final value is $63.75(1 + 0.20)$, which equals $63.75(1.20)$, or $$76.50$. To find what percent the final value is of the original investment, divide the final value by the original value and multiply by $100$: $\\frac{76.50}{75} \\times 100 = 1.02 \\times 100 = 102$. Therefore, the final value is $102$ percent of the original investment.",
+  "source": "https://cooksat.com/practice?questionId=3bcc31fb&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

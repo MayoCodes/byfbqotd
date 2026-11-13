@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1866fdc0",
+  "capturedAt": "2026-11-13T23:34:42.019Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Calculate After Percent Increase/Decrease",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A store is having a sale where all items are marked $25%$ off. If a jacket originally costs $$80$, what is the sale price of the jacket in dollars after the discount?\n\n$$0$$\n\n$$60$$",
+  "choices": {},
+  "correctAnswer": "$60$",
+  "explanation": "The correct answer is $60$. It's given that all items are marked $25\\%$ off and the jacket originally costs $$80$. To find the sale price, first calculate the discount amount by finding $25\\%$ of $$80$. Since $25\\%$ can be written as $\\frac{25}{100}$ or $0.25$, the discount amount is $0.25 \\times 80 = 20$ dollars. Subtracting the discount from the original price gives the sale price: $80 - 20 = 60$ dollars. Therefore, the sale price of the jacket is $60$ dollars.\n\nVerification: The discount of $$20$ represents $25\\%$ of $$80$, since $\\frac{20}{80} = \\frac{1}{4} = 0.25 = 25\\%$. The sale price is $80 - $20 = $$60$.",
+  "source": "https://cooksat.com/practice?questionId=1866fdc0&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

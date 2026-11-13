@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8c939fd6",
+  "capturedAt": "2026-11-13T23:36:06.823Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent from Two Values",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table summarizes the number of items in each category. The number of items in category Y is $p%$ of the number of items in category W. What is the value of $p$?\n\n$$0$$\n\n$$268$$",
+  "choices": {},
+  "correctAnswer": "$268$",
+  "explanation": "The correct answer is $268$. It's given in the table that there are $225$ items in category W and $603$ items in category Y. It's also given that the number of items in category Y is $p\\%$ of the number of items in category W. Therefore, $603$ is $p\\%$ of $225$, which can be represented by $603 = \\left(\\frac{p}{100}\\right)\\left(225\\right)$, or $603 = 2.25p$. Dividing both sides of this equation by $2.25$ yields $268 = p$. Therefore, the value of $p$ is $268$.",
+  "source": "https://cooksat.com/practice?questionId=8c939fd6&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/8c939fd6/1-e6938b3cb9351e5d.png",
+      "kind": "diagram"
+    }
+  ]
+}

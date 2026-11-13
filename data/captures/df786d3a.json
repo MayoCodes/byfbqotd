@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "df786d3a",
+  "capturedAt": "2026-11-13T23:40:57.480Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Percent of a Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A delivery driver receives a gratuity from each order. On average, the gratuity is $18%$ of the order total. At this rate, which of the following is closest to the gratuity the driver can expect when an order total is $$46.40$?",
+  "choices": {
+    "A": "$$6.00$",
+    "B": "$$8.00$",
+    "C": "$$10.00$",
+    "D": "$$12.00$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. If the order total is $$46.40$, $18\\%$ of the total can be found by multiplying $46.40$ by the decimal conversion of $18\\%$, $46.40 \\times 0.18 = 8.352$. The exact amount $$8.35$ is closest in value to $$8.00$.",
+  "source": "https://cooksat.com/practice?questionId=df786d3a&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

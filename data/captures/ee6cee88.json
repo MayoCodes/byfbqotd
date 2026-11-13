@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ee6cee88",
+  "capturedAt": "2026-11-13T23:41:11.256Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The price of a concert ticket increased by $10%$ at the start of the year, then decreased by $20%$ at mid-year, and finally increased by $10%$ at the end of the year. After all these changes, the price of the ticket was $$1,064.80$. What was the original price of the ticket, in dollars, at the beginning of the year, before any changes?",
+  "choices": {
+    "A": "$900$",
+    "B": "$968$",
+    "C": "$1,100$",
+    "D": "$1,050$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Let the original price be $P$. After a $10\\%$ increase: $1.10P$. After a $20\\%$ decrease: $(1.10P)(0.80) = 0.88P$. After a $10\\%$ increase: $(0.88P)(1.10) = 0.968P$. Since the final price is $$1{,}064.80$, we have $0.968P = 1{,}064.80$. Solving: $P = 1{,}064.80 \\div 0.968 = 1{,}100$. Therefore, the original price was $$1{,}100$.",
+  "source": "https://cooksat.com/practice?questionId=ee6cee88&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

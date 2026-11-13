@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7805b90a",
+  "capturedAt": "2026-11-13T23:35:48.710Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent from Data Tables/Graphs",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shown gives the average price of a movie ticket in the United States for $6$ different years. Based on the table, what was the percent increase in the average movie ticket price from $1995$ to $2005$?",
+  "choices": {
+    "A": "$28.6%$",
+    "B": "$35%$",
+    "C": "$40%$",
+    "D": "$71.4%$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. According to the table, the average movie ticket price in $1995$ was $$2.50$ and in $2005$ it was $$3.50$. The percent increase is therefore $100 \\times \\left(\\frac{3.50 - 2.50}{2.50}\\right) = 100 \\times \\left(\\frac{1.00}{2.50}\\right) = 40\\%$.",
+  "source": "https://cooksat.com/practice?questionId=7805b90a&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/7805b90a/1-28ad93df6713e22f.png",
+      "kind": "diagram"
+    }
+  ]
+}

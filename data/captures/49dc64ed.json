@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "49dc64ed",
+  "capturedAt": "2026-11-13T23:35:24.239Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent Change Rate",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A shirt originally priced at $$40.00$ is on sale for $$34.00$. What is the percent decrease in the price of the shirt?",
+  "choices": {
+    "A": "$6%$",
+    "B": "$15%$",
+    "C": "$17%$",
+    "D": "$85%$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The percent decrease is calculated by dividing the decrease in price by the original price and multiplying by $100\\%$. The decrease is $$40.00$ $-$ $$34.00$ $=$ $$6.00$. Therefore, the percent decrease is $\\frac{6.00}{40.00} \\times 100\\% = 0.15 \\times 100\\% = 15\\%$.",
+  "source": "https://cooksat.com/practice?questionId=49dc64ed&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

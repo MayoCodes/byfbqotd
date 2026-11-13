@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c4027cc2",
+  "capturedAt": "2026-11-13T23:36:40.327Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In 2015, there were an equal number of seniors and juniors at a high school. By 2020, the number of seniors had increased by $80%$ and the number of juniors had decreased by $25%$. The number of juniors in 2020 is what percent less than the number of seniors in 2020? (Disregard the percent sign when entering your answer. For example, if your answer is $25%$, enter $25$.)\n\n$$0$$\n\n$$\\frac{175}{3},58.33$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{175}{3},58.33$",
+  "explanation": "The correct answer is $\\frac{175}{3}$ (or $58.33$). Let the original number of seniors and juniors each be $100$. In 2020, the number of seniors is $100 \\times 1.80 = 180$. The number of juniors is $100 \\times 0.75 = 75$. The percent less is $\\frac{180 - 75}{180} \\times 100 = \\frac{105}{180} \\times 100 = \\frac{175}{3}\\%$, which equals $58.33\\%$.",
+  "source": "https://cooksat.com/practice?questionId=c4027cc2&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

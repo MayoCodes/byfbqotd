@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8f58c46b",
+  "capturedAt": "2026-11-13T23:36:09.186Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent Change Rate",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$360$ is $q%$ greater than $40$. What is the value of $q$?\n\n$$0$$\n\n$$800$$",
+  "choices": {},
+  "correctAnswer": "$800$",
+  "explanation": "The correct answer is $800$. It's given that $360$ is $q\\%$ greater than $40$. It follows that $360 = \\left(1 + \\frac{q}{100}\\right)(40)$. Dividing both sides of this equation by $40$ yields $9 = 1 + \\frac{q}{100}$. Subtracting $1$ from both sides yields $8 = \\frac{q}{100}$. Multiplying both sides by $100$ yields $q = 800$. Therefore, the value of $q$ is $800$.",
+  "source": "https://cooksat.com/practice?questionId=8f58c46b&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

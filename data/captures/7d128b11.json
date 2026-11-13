@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7d128b11",
+  "capturedAt": "2026-11-13T23:35:55.269Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Calculate After Percent Increase/Decrease",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Last month, a store sold a certain product for $$45$. This month, the price of the product is $40%$ greater than the price last month. What is the price of the product this month, in dollars?\n\n$$0$$\n\n$$63$$",
+  "choices": {},
+  "correctAnswer": "$63$",
+  "explanation": "The correct answer is $63$. It's given that the store sold a certain product for $$45$ last month and that the price of the product this month is $40\\%$ greater than the price last month. It follows that the price this month is $$45$ plus $40\\%$ of $$45$, which is equal to $45 + 45(\\frac{40}{100})$, or $45 + 45(0.4)$. This expression is equivalent to $45 + 18$, or $63$. Therefore, the price of the product this month is $$63$.",
+  "source": "https://cooksat.com/practice?questionId=7d128b11&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

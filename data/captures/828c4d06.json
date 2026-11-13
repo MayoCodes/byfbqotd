@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "828c4d06",
+  "capturedAt": "2026-11-13T23:36:00.111Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent Change Rate",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The value of $w$ is $1.28$ times $100$. The value of $w$ is what percent greater than $100$?",
+  "choices": {
+    "A": "$12.8$",
+    "B": "$28$",
+    "C": "$128$",
+    "D": "$228$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the value of $w$ is $1.28$ times $100$. This can be written as $w = \\left(1.28\\right)\\left(100\\right)$, which is equivalent to $w = \\left(1 + 0.28\\right)(100)$, or $w = \\left(1 + \\frac{28}{100}\\right)\\left(100\\right)$. It follows that the value of $w$ is $100\\%$ of $100$ plus $28\\%$ of $100$. Therefore, the value of $w$ is $28\\%$ greater than $100$.",
+  "source": "https://cooksat.com/practice?questionId=828c4d06&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

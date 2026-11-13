@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cddb83e3",
+  "capturedAt": "2026-11-13T23:36:49.062Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent from Data Tables/Graphs",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the total yearly sales, in thousands of dollars, for Company A and Company B from 2018 to 2022. What is the average percent increase in total yearly sales for Company B from one year to the next over the period shown?",
+  "choices": {
+    "A": "$15%$",
+    "B": "$20%$",
+    "C": "$25%$",
+    "D": "$27%$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Calculate the percent increase for each year-to-year transition. From 2018 to 2019: $\\frac{1250-1000}{1000} \\times 100 = 25\\%$. From 2019 to 2020: $\\frac{1500-1250}{1250} \\times 100 = 20\\%$. From 2020 to 2021: $\\frac{1800-1500}{1500} \\times 100 = 20\\%$. From 2021 to 2022: $\\frac{2070-1800}{1800} \\times 100 = 15\\%$. The average is $\\frac{25 + 20 + 20 + 15}{4} = \\frac{80}{4} = 20\\%$.",
+  "source": "https://cooksat.com/practice?questionId=cddb83e3&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/cddb83e3/1-90cedc58f5c975fb.png",
+      "kind": "diagram"
+    }
+  ]
+}

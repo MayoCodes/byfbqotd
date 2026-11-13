@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1f17ec91",
+  "capturedAt": "2026-11-13T23:34:50.289Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Calculate After Percent Increase/Decrease",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A store is having a sale where all prices are reduced by $20%$. If a shirt originally costs $$50$, what is the sale price of the shirt in dollars?\n\n$$0$$\n\n$$40$$",
+  "choices": {},
+  "correctAnswer": "$40$",
+  "explanation": "The correct answer is $40$. It's given that all prices are reduced by $20\\%$ and the shirt originally costs $$50$. To find the sale price, first calculate the discount amount. The discount is $20\\%$ of $$50$, which can be calculated as $50(\\frac{20}{100})$, or $50(0.20)$, which equals $$10$. Subtracting the discount from the original price gives the sale price: $$50$-$$10$=$$40$. Therefore, the sale price of the shirt is $$40$.",
+  "source": "https://cooksat.com/practice?questionId=1f17ec91&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

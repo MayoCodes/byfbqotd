@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cf189ebd",
+  "capturedAt": "2026-11-13T23:36:52.226Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A laboratory monitored the population of a bacterial culture over three days. From Day 1 to Day 2, the population increased by $p$ percent. From Day 2 to Day 3, the population decreased by $30%$. If the population on Day 3 was $84$ bacteria and the population on Day 1 was $100$ bacteria, what is the value of $p$?",
+  "choices": {
+    "A": "$8$",
+    "B": "$12$",
+    "C": "$20$",
+    "D": "$30$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Working backwards from Day 3: if the population was $84$ after a $30\\%$ decrease, then the Day 2 population was $84 \\div 0.70 = 120$ bacteria. The increase from Day 1 to Day 2 was $120 - 100 = 20$ bacteria. Therefore, $p = \\frac{20}{100} \\times 100\\% = 20\\%$.",
+  "source": "https://cooksat.com/practice?questionId=cf189ebd&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

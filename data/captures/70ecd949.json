@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "70ecd949",
+  "capturedAt": "2026-11-13T23:35:43.282Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent from Two Values",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The number of trees in a forest in $2020$ was $1.36$ times the number of trees in this forest in $2010$. If the number of trees in this forest in $2010$ is $q%$ of the number of trees in this forest in $2020$, what is the value of $q$, to the nearest whole number?\n\n$$0$$\n\n$$74$$",
+  "choices": {},
+  "correctAnswer": "$74$",
+  "explanation": "The correct answer is $74$. Let $x$ represent the number of trees in the forest in $2010$ and let $y$ represent the number of trees in the forest in $2020$. It's given that the number of trees in this forest in $2020$ was $1.36$ times the number of trees in this forest in $2010$. It follows that the equation $y = 1.36x$ represents this situation. Dividing both sides of this equation by $1.36$ yields $\\frac{y}{1.36} = x$, or $\\left(\\frac{1}{1.36}\\right)y = x$. Therefore, the number of trees in this forest in $2010$ is $\\frac{1}{1.36}$ times the number of trees in this forest in $2020$. If the number of trees in this forest in $2010$ is $q\\%$ of the number of trees in this forest in $2020$, then $x = \\frac{q}{100}y$. It follows that $\\frac{1}{1.36} = \\frac{q}{100}$, or $\\frac{100}{1.36} = q$, which means $q$ is approximately equal to $73.53$. Therefore, the value of $q$, to the nearest whole number, is $74$.",
+  "source": "https://cooksat.com/practice?questionId=70ecd949&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

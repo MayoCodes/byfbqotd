@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "414c62f3",
+  "capturedAt": "2026-11-13T23:35:19.908Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A retailer purchases an item at a wholesale price and marks it up by $m$ percent. Due to slow sales, the retailer then discounts the marked price by $30$ percent. If the final selling price is $91$ percent of the original wholesale price, what is the value of $m$?\n\n$$0$$\n\n$$30$$",
+  "choices": {},
+  "correctAnswer": "$30$",
+  "explanation": "Let $w$ represent the wholesale price.\n\nApply the markup of $m\\%$\nAfter the markup, the price is:\n$w \\cdot \\left(1 + \\frac{m}{100}\\right)$\n\nApply the discount of $30\\%$\nAfter the discount, the final price is:\n$w \\cdot \\left(1 + \\frac{m}{100}\\right) \\cdot (1 - 0.30) = w \\cdot \\left(1 + \\frac{m}{100}\\right) \\cdot 0.70$\n\nSet equal to $91\\%$ of wholesale\n$w \\cdot \\left(1 + \\frac{m}{100}\\right) \\cdot 0.70 = 0.91w$\n\nDivide both sides by $w$ (since $w > 0$)\n$\\left(1 + \\frac{m}{100}\\right) \\cdot 0.70 = 0.91$\n\nDivide both sides by $0.70$\n$1 + \\frac{m}{100} = \\frac{0.91}{0.70} = 1.30$\n\nSolve for $m$\n$\\frac{m}{100} = 1.30 - 1 = 0.30$\n$m = 30$\n\nVerification: With $m = 30\\%$ markup and $30\\%$ discount:\n\nAfter markup: $w \\cdot 1.30 = 1.30w$\n\nAfter discount: $1.30w \\cdot 0.70 = 0.91w$\n\nThe value of $m$ is $30$.",
+  "source": "https://cooksat.com/practice?questionId=414c62f3&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5bdfee46",
+  "capturedAt": "2026-11-13T23:35:27.967Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The number of members at a gym increased by $25%$ from $2017$ to $2018$ and then increased by $20%$ from $2018$ to $2019$. If the number of members at the gym in $2019$ was $1,800$, what was the number of members at the gym in $2017$?",
+  "choices": {
+    "A": "$1,080$",
+    "B": "$1,200$",
+    "C": "$1,440$",
+    "D": "$1,500$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Let $x$ be the number of members in $2017$. After a $25\\%$ increase, the $2018$ membership is $1.25x$. After a $20\\%$ increase from $2018$ to $2019$, the $2019$ membership is $1.20(1.25x) = 1.50x$. Setting this equal to $1{,}800$ gives $1.50x = 1{,}800$, so $x = 1{,}200$.",
+  "source": "https://cooksat.com/practice?questionId=5bdfee46&subject=math&domain=problem-solving-and-data-analysis&skills=percentages&bank=cooksat",
+  "images": []
+}
