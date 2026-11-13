@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "474ac98b",
+  "capturedAt": "2026-11-13T22:11:22.786Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Surface Area of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A right rectangular prism has a square base and a height of 36 inches. The total surface area of the prism is $P$ in$^{2}$. Two identical copies of this prism are glued together along a square base, and the resulting prism has a total surface area of $\\frac{7}{4} P$ in$^{2}$. What is the side length, in inches, of each square base?\n\n$$0$$\n\n$$24$$",
+  "choices": {},
+  "correctAnswer": "$24$",
+  "explanation": "Let $s$ be the side length of the square base. Each prism has surface area $P = 2s^2 + 4(36)s = 2s^2 + 144s$. Gluing the prisms along a square base hides two square faces, so the combined surface area is $2P - 2s^2$. Setting this equal to $\\frac{7}{4}P$: $2P - 2s^2 = \\frac{7}{4}P$, which simplifies to $\\frac{1}{4}P = 2s^2$. Substituting $P = 2s^2 + 144s$ gives $\\frac{1}{4}(2s^2 + 144s) = 2s^2$, so $2s^2 + 144s = 8s^2$, yielding $6s^2 = 144s$ and $s = 24$.",
+  "source": "https://cooksat.com/practice?questionId=474ac98b&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

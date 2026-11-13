@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5b814416",
+  "capturedAt": "2026-11-13T22:11:45.922Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Coordinate Geometry Area",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe three points shown define a circle. The circumference of this circle is $k\\pi$, where $k$ is a constant. What is the value of $k$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$6$",
+    "C": "$8$",
+    "D": "$16$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since the three points define a circle, the center is equidistant from all three. The point $(6, 7)$ is halfway between $(6, 3)$ and $(6, 11)$, at a distance of $4$ units from each. The point $(6, 7)$ is also $4$ units from $(2, 7)$. Since $(6, 7)$ is equidistant from all three given points, it is the center of the circle, and the radius is $4$. The circumference of a circle with radius $r$ is $2\\pi r$, so the circumference is $2\\pi(4) = 8\\pi$. Since the circumference is $k\\pi$, the value of $k$ is $8$.",
+  "source": "https://cooksat.com/practice?questionId=5b814416&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5b814416/1-918ac2a40efddb98.png",
+      "kind": "diagram"
+    }
+  ]
+}

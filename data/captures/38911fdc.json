@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "38911fdc",
+  "capturedAt": "2026-11-13T22:11:08.396Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Right rectangular prism $M$ is similar to right rectangular prism $N$. The surface area of right rectangular prism $M$ is $60$ square centimeters ($cm^{2}$), and the surface area of right rectangular prism $N$ is $1,500$ $cm^{2}$. The volume of right rectangular prism $N$ is $1,250$ cubic centimeters ($cm^{3}$). What is the sum of the volumes, in $cm^{3}$, of right rectangular prism $M$ and right rectangular prism $N$?\n\n$$0$$\n\n$$1260$$",
+  "choices": {},
+  "correctAnswer": "$1260$",
+  "explanation": "The correct answer is $1260$. Since prisms $M$ and $N$ are similar, all linear measurements of prism $N$ are $k$ times the corresponding linear measurements of prism $M$, where $k$ is a positive constant. Therefore, the surface area of prism $N$ is $k^{2}$ times the surface area of prism $M$, and the volume of prism $N$ is $k^{3}$ times the volume of prism $M$. It's given that the surface area of prism $N$ is $1{,}500$ $\\text{cm}^2$ and the surface area of prism $M$ is $60$ $\\text{cm}^2$, which implies that $1{,}500 = 60k^{2}$. Dividing both sides of this equation by $60$ yields $k^{2} = 25$. Since $k$ is a positive constant, $k = 5$. It's given that the volume of prism $N$ is $1{,}250$ $\\text{cm}^3$. Therefore, the volume of prism $M$ is $\\frac{1{,}250}{k^{3}}$ $\\text{cm}^3$, which is equivalent to $\\frac{1{,}250}{5^{3}}$ $\\text{cm}^3$, or $\\frac{1{,}250}{125}$ $\\text{cm}^3$, which equals $10$ $\\text{cm}^3$. Thus, the sum of the volumes, in $\\text{cm}^3$, of the two prisms is $10 + 1{,}250$, or $1{,}260$.",
+  "source": "https://cooksat.com/practice?questionId=38911fdc&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

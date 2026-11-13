@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "80308c73",
+  "capturedAt": "2026-11-13T22:12:18.501Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The circumference of circle $A$ is $2$ times the circumference of circle $B$. The area of circle $A$ is $x$ times the area of circle $B$. What is the value of $x$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$4$",
+    "C": "$2\\pi$",
+    "D": "$4\\pi$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Let $r_A$ and $r_B$ be the radii of circles $A$ and $B$, respectively. Since the circumference of circle $A$ is $2$ times the circumference of circle $B$, it follows that $2\\pi r_A = 2(2\\pi r_B)$, which simplifies to $r_A = 2r_B$. The area of circle $A$ is $\\pi r_A^2$ and the area of circle $B$ is $\\pi r_B^2$. Therefore, $x = \\frac{\\pi r_A^2}{\\pi r_B^2} = \\frac{r_A^2}{r_B^2} = \\frac{(2r_B)^2}{r_B^2} = \\frac{4r_B^2}{r_B^2} = 4$.",
+  "source": "https://cooksat.com/practice?questionId=80308c73&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

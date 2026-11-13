@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "51e0d406",
+  "capturedAt": "2026-11-13T22:11:29.769Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If the area of a circle is $64\\pi$ square inches, what is the radius, in inches, of the circle?",
+  "choices": {
+    "A": "$4$",
+    "B": "$8$",
+    "C": "$16$",
+    "D": "$32$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The area of a circle is given by the formula $A = \\pi r^2$, where $r$ is the radius. Substituting $64\\pi$ for $A$ gives $64\\pi = \\pi r^2$. Dividing both sides by $\\pi$ yields $64 = r^2$. Taking the square root of both sides gives $r = 8$ inches.",
+  "source": "https://cooksat.com/practice?questionId=51e0d406&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7893eb7d",
+  "capturedAt": "2026-11-13T22:12:11.654Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The perimeter of an obtuse triangle is $34$ centimeters. The lengths of two sides of this triangle are $8$ centimeters and $11$ centimeters. What is the length, in centimeters, of the third side of this triangle?",
+  "choices": {
+    "A": "$15$",
+    "B": "$19$",
+    "C": "$23$",
+    "D": "$26$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The perimeter of a triangle is the sum of the lengths of its three sides. It's given that the perimeter is $34$ centimeters and two sides have lengths $8$ centimeters and $11$ centimeters. Therefore, the third side has length $34 - 8 - 11 = 15$ centimeters. This can be verified using the triangle inequality, which states that the sum of the lengths of any two sides of a triangle must be greater than the length of the third side: $8 + 11 = 19 > 15$, $8 + 15 = 23 > 11$, and $11 + 15 = 26 > 8$. All three inequalities are satisfied, so the third side is $15$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=7893eb7d&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

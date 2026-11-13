@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "81758993",
+  "capturedAt": "2026-11-13T22:12:22.311Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Right rectangular prism $A$ is similar to right rectangular prism $B$. The surface area of prism $A$ is $48$ square centimeters, and the surface area of prism $B$ is $192$ square centimeters. The volume of prism $B$ is $384$ cubic centimeters. What is the volume, in cubic centimeters, of prism $A$?\n\n$$0$$\n\n$$48$$",
+  "choices": {},
+  "correctAnswer": "$48$",
+  "explanation": "The correct answer is $48$. When two solid figures are similar, all corresponding linear dimensions are related by a constant scale factor $k$. This means that their surface areas are related by $k^2$ and their volumes are related by $k^3$. It's given that prism $A$ is similar to prism $B$, with surface area of $A$ equal to $48$ square centimeters and surface area of $B$ equal to $192$ square centimeters. Therefore, the ratio of surface areas is $\\frac{192}{48} = 4$. Since surface area scales by $k^2$, we have $k^2 = 4$, which gives $k = 2$. This means all linear dimensions of prism $B$ are $2$ times the corresponding dimensions of prism $A$. Since volume scales by $k^3$, the ratio of volumes is $k^3 = 2^3 = 8$. It's given that the volume of prism $B$ is $384$ cubic centimeters. Therefore, the volume of prism $A$ is $\\frac{384}{8} = 48$ cubic centimeters.",
+  "source": "https://cooksat.com/practice?questionId=81758993&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

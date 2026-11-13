@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "043d4e92",
+  "capturedAt": "2026-11-13T22:10:41.977Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Coordinate Geometry Area",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe line segment shown in the $xy$-plane represents one of the legs of a right triangle. The area of this triangle is $36sqrt(17)$ square units.\n\nWhat is the length, in units, of the other leg of this triangle?",
+  "choices": {
+    "A": "$3sqrt(17)$",
+    "B": "$12$",
+    "C": "$24$",
+    "D": "$(24sqrt(17))/5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The line segment has endpoints at $(-5, 2)$ and $(7, 5)$. Using the distance formula, the length of this segment is $\\sqrt{(7 - (-5))^{2} + (5 - 2)^{2}} = \\sqrt{12^{2} + 3^{2}} = \\sqrt{144 + 9} = \\sqrt{153} = 3\\sqrt{17}$. Since this segment is one leg of a right triangle with area $36\\sqrt{17}$ square units, using the formula $A = \\frac{1}{2} \\times \\text{leg}_{1} \\times \\text{leg}_{2}$ gives $36\\sqrt{17} = \\frac{1}{2} \\times 3\\sqrt{17} \\times \\text{leg}_{2}$. Multiplying both sides by $2$ yields $72\\sqrt{17} = 3\\sqrt{17} \\times \\text{leg}_{2}$. Dividing both sides by $3\\sqrt{17}$ gives $\\text{leg}_{2} = 24$.",
+  "source": "https://cooksat.com/practice?questionId=043d4e92&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/043d4e92/1-05393a851755f539.png",
+      "kind": "diagram"
+    }
+  ]
+}

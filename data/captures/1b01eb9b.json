@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1b01eb9b",
+  "capturedAt": "2026-11-13T22:10:50.210Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Surface Area of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The base of a rectangular pyramid is a square with a side length of $6$ inches. The height of the pyramid is $4$ inches. What is the surface area, in square inches, of the pyramid?",
+  "choices": {
+    "A": "$60$",
+    "B": "$96$",
+    "C": "$108$",
+    "D": "$132$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The surface area equals the base area plus the four triangular faces. The base area is $6^2 = 36$ square inches. To find the area of each triangular face, we need the slant height from the apex to the midpoint of a base edge. This forms a right triangle with vertical leg $4$ inches (pyramid height) and horizontal leg $3$ inches (half the base side). By the Pythagorean theorem, the slant height is $\\sqrt{4^2 + 3^2} = \\sqrt{25} = 5$ inches. Each triangular face has area $\\frac{1}{2}(6)(5) = 15$ square inches. The four faces contribute $4(15) = 60$ square inches. Total surface area: $36 + 60 = 96$ square inches.",
+  "source": "https://cooksat.com/practice?questionId=1b01eb9b&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

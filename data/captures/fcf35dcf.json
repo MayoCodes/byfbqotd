@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fcf35dcf",
+  "capturedAt": "2026-11-13T22:13:27.505Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume with Algebraic Expressions",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle is inscribed in a square. If the side length of the square is $6$ inches, what is the area, in square inches, of the region that is inside the square but outside the circle?",
+  "choices": {
+    "A": "$36 - 36\\pi$",
+    "B": "$36 - 9\\pi$",
+    "C": "$9\\pi$",
+    "D": "$36$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The area of the region inside the square but outside the circle equals the area of the square minus the area of the circle. The square has area $6^2 = 36$ square inches. Since the circle is inscribed in the square, the circle's diameter equals the square's side length of $6$ inches, so the radius is $3$ inches. The circle's area is $\\pi r^2 = \\pi(3)^2 = 9\\pi$ square inches. Therefore, the region has area $36 - 9\\pi$ square inches.",
+  "source": "https://cooksat.com/practice?questionId=fcf35dcf&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

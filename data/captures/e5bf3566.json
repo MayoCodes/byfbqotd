@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e5bf3566",
+  "capturedAt": "2026-11-13T22:13:24.165Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular garden plot has an area of $2,000$ square meters. A landscape designer creates a scale diagram of the garden plot, where the length of each side of the diagram is $\\frac{1}{(20)}$ times the length of the corresponding side of the actual garden plot. What is the area, in square meters, of the scale diagram?",
+  "choices": {
+    "A": "$5$",
+    "B": "$20$",
+    "C": "$100$",
+    "D": "$400$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that the length of each side of the scale diagram is $\\frac{1}{20}$ times the length of the corresponding side of the actual garden plot. Therefore, the area of the scale diagram is $\\left(\\frac{1}{20}\\right)^{2}$, or $\\frac{1}{400}$, times the area of the actual garden plot. Since the area of the garden plot is $2{,}000$ square meters, the area, in square meters, of the scale diagram is $\\left(\\frac{1}{400}\\right)(2{,}000)$, or $5$.",
+  "source": "https://cooksat.com/practice?questionId=e5bf3566&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

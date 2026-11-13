@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2111c1b3",
+  "capturedAt": "2026-11-13T22:10:53.882Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangle has a width of $7$ inches. The length of the rectangle is $3$ inches more than the width. What is the area, in square inches, of the rectangle?",
+  "choices": {
+    "A": "$10$",
+    "B": "$34$",
+    "C": "$49$",
+    "D": "$70$"
+  },
+  "correctAnswer": "D",
+  "explanation": "It's given that the rectangle has a width of $7$ inches and the length is $3$ inches more than the width. Therefore, the length is $7 + 3 = 10$ inches. The area of a rectangle is given by $A = lw$, where $l$ is the length and $w$ is the width. Substituting $10$ for $l$ and $7$ for $w$ yields $A = 10 \\times 7 = 70$. Therefore, the area of the rectangle is $70$ square inches.",
+  "source": "https://cooksat.com/practice?questionId=2111c1b3&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

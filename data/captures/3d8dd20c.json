@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3d8dd20c",
+  "capturedAt": "2026-11-13T22:11:21.184Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the area of a rectangle with a length of $23$ meters $(m)$ and a width of $9 m$?",
+  "choices": {
+    "A": "$32 m^{2}$",
+    "B": "$64 m^{2}$",
+    "C": "$207 m^{2}$",
+    "D": "$1,024 m^{2}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The area of a rectangle with length $l$ and width $w$ is given by the formula $A = lw$. The rectangle has a length of $23 \\text{ m}$ and a width of $9 \\text{ m}$. Therefore, the area is $A = 23(9)$, or $207 \\text{ m}^{2}$.",
+  "source": "https://cooksat.com/practice?questionId=3d8dd20c&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

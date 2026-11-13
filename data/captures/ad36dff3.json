@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ad36dff3",
+  "capturedAt": "2026-11-13T22:12:51.151Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale. The area of triangle $PQR$ is $252$ square inches. What is the height $h$, in inches, of this triangle?",
+  "choices": {
+    "A": "$14$",
+    "B": "$18$",
+    "C": "$36$",
+    "D": "$72$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The area $A$ of a triangle is given by the formula $A = \\frac{1}{2} b h$, where $b$ is the length of the base and $h$ is the height. It's given that the area of triangle $PQR$ is $252$ square inches and the base $PR$ has a length of $14$ inches. Substituting $252$ for $A$ and $14$ for $b$ in the formula $A = \\frac{1}{2} b h$ yields $252 = \\frac{1}{2} (14) h$, or $252 = 7 h$. Dividing both sides of this equation by $7$ yields $36 = h$. Therefore, the height $h$, in inches, of this triangle is $36$.",
+  "source": "https://cooksat.com/practice?questionId=ad36dff3&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ad36dff3/1-39c8985d9487fa3c.png",
+      "kind": "diagram"
+    }
+  ]
+}

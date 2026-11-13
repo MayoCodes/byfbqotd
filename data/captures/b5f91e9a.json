@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b5f91e9a",
+  "capturedAt": "2026-11-13T22:12:52.852Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The length of a rectangle is $36$ centimeters, and the width is $25$ centimeters. What is the area, in square centimeters, of the rectangle?",
+  "choices": {
+    "A": "$11$",
+    "B": "$122$",
+    "C": "$450$",
+    "D": "$900$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The area of a rectangle is found using the formula $A = lw$, where $l$ is the length and $w$ is the width. Substituting $36$ for $l$ and $25$ for $w$ yields $A = 36 \\times 25 = 900$ square centimeters.",
+  "source": "https://cooksat.com/practice?questionId=b5f91e9a&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

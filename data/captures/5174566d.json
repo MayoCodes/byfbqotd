@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5174566d",
+  "capturedAt": "2026-11-13T22:11:28.054Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An engineer designs right cylindrical storage tanks in which the height is $7$ feet greater than the radius. Which of the following expresses the volume, $V$, in cubic feet, of one such tank, where $r$ is the radius, in feet?",
+  "choices": {
+    "A": "$V = \\pi r^{2} + 7 \\pi r$",
+    "B": "$V = \\pi (3r)^{3}$",
+    "C": "$V = 7 \\pi r^{3}$",
+    "D": "$V = \\pi r^{3} + 7 \\pi r^{2}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The volume, $V$, of a right cylinder is given by $V = \\pi r^{2} h$, where $r$ is the radius of the base and $h$ is the height. Since the height is $7$ feet greater than the radius, $h = r + 7$. Substituting gives $V = \\pi r^{2}(r + 7)$. Distributing $\\pi r^{2}$ yields $V = \\pi r^{3} + 7 \\pi r^{2}$.",
+  "source": "https://cooksat.com/practice?questionId=5174566d&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

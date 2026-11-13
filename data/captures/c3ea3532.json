@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c3ea3532",
+  "capturedAt": "2026-11-13T22:13:04.196Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A circle has a radius of $3.7$ centimeters. The area of the circle is $c\\pi$ square centimeters, where $c$ is a constant. What is the value of $c$?\n\n$$0$$\n\n$$13.69$$",
+  "choices": {},
+  "correctAnswer": "$13.69$",
+  "explanation": "The correct answer is $13.69$. The area, $A$, of a circle is given by the formula $A = \\pi r^{2}$, where $r$ is the radius of the circle. It's given that the area of the circle is $c\\pi$ square centimeters, where $c$ is a constant, and the radius of the circle is $3.7$ centimeters. Substituting $c\\pi$ for $A$ and $3.7$ for $r$ in the formula $A = \\pi r^{2}$ yields $c\\pi = \\pi\\left(3.7^{2}\\right)$. Dividing both sides of this equation by $\\pi$ yields $c = 13.69$. Therefore, the value of $c$ is $13.69$.",
+  "source": "https://cooksat.com/practice?questionId=c3ea3532&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

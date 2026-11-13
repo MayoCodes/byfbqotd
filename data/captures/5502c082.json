@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5502c082",
+  "capturedAt": "2026-11-13T22:11:32.915Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Rectangle $JKLM$ is similar to rectangle $WXYZ$. The length of each side of rectangle $WXYZ$ is $3$ times the length of its corresponding side of rectangle $JKLM$. The area of rectangle $JKLM$ is $7$ square inches. What is the area, in square inches, of rectangle $WXYZ$?",
+  "choices": {
+    "A": "$10$",
+    "B": "$21$",
+    "C": "$63$",
+    "D": "$189$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. When two rectangles are similar, if the scale factor between their corresponding side lengths is $k$, the scale factor between their areas is $k^{2}$. It's given that each side of rectangle $WXYZ$ is $3$ times the length of its corresponding side of rectangle $JKLM$, so the scale factor is $3$. It follows that the scale factor between their areas is $3^{2}$, or $9$. Since the area of rectangle $JKLM$ is $7$ square inches, the area of rectangle $WXYZ$ is $7(9)$, or $63$ square inches.",
+  "source": "https://cooksat.com/practice?questionId=5502c082&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "253ae67f",
+  "capturedAt": "2026-11-13T22:10:55.546Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Surface Area of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The height of a right circular cylinder is $8$ inches longer than its radius, and the surface area of the cylinder is $768\\pi$ square inches. What is the cylinder's radius, in inches?",
+  "choices": {
+    "A": "$12$",
+    "B": "$16$",
+    "C": "$20$",
+    "D": "$24$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The surface area of a right circular cylinder with radius $r$ and height $h$ is given by $2\\pi r^{2} + 2\\pi rh$, where $2\\pi r^{2}$ represents the combined area of the two circular bases and $2\\pi rh$ represents the lateral surface area. It's given that the height is $8$ inches longer than the radius, so $h = r + 8$. It's also given that the surface area is $768\\pi$ square inches. Substituting $r + 8$ for $h$ in the surface area formula yields $2\\pi r^{2} + 2\\pi r(r + 8) = 768\\pi$. Expanding the left side gives $2\\pi r^{2} + 2\\pi r^{2} + 16\\pi r = 768\\pi$, which simplifies to $4\\pi r^{2} + 16\\pi r = 768\\pi$. Dividing both sides by $4\\pi$ yields $r^{2} + 4r = 192$, or $r^{2} + 4r - 192 = 0$. Using the quadratic formula, $r = \\frac{-4 \\pm \\sqrt{16 + 768}}{2} = \\frac{-4 \\pm \\sqrt{784}}{2} = \\frac{-4 \\pm 28}{2}$. This gives $r = \\frac{24}{2} = 12$ or $r = \\frac{-32}{2} = -16$. Since the radius must be a positive value, $r = -16$ can be discarded as a solution, leaving $r = 12$. Therefore, the cylinder's radius is $12$ inches.",
+  "source": "https://cooksat.com/practice?questionId=253ae67f&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

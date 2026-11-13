@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bf765b59",
+  "capturedAt": "2026-11-13T22:13:01.088Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Each base of a right rectangular prism has a length of $23$ centimeters and a width of $9$ centimeters. The prism has a volume of $2,898$ cubic centimeters. What is the height, in centimeters, of the prism?",
+  "choices": {
+    "A": "$14$",
+    "B": "$23$",
+    "C": "$161$",
+    "D": "$207$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The volume, $V$, of a right rectangular prism is given by $V = lwh$, where $l$ is the length, $w$ is the width, and $h$ is the height. Substituting $23$ for $l$, $9$ for $w$, and $2{,}898$ for $V$ gives $2{,}898 = (23)(9)(h)$, or $2{,}898 = 207h$. Dividing each side by $207$ yields $h = 14$. Therefore, the height of the prism is $14$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=bf765b59&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

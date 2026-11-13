@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8dce300a",
+  "capturedAt": "2026-11-13T22:12:27.356Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume with Algebraic Expressions",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A cube has an edge length of $68$ centimeters. A solid sphere with a radius of $34$ centimeters is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic centimeter, what is the volume of the space in the cube not taken up by the sphere?",
+  "choices": {
+    "A": "$149,796$",
+    "B": "$164,636$",
+    "C": "$186,284$",
+    "D": "$314,432$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The volume of a cube with edge length $s$ is $s^{3}$. Therefore, the volume of the given cube is $68^{3} = 314{,}432$ cubic centimeters. The volume of a sphere with radius $r$ is $\\frac{4}{3}\\pi r^{3}$. Therefore, the volume of the given sphere is $\\frac{4}{3}\\pi(34)^{3} \\approx 164{,}636$ cubic centimeters. The volume of the space in the cube not taken up by the sphere is the difference between the volume of the cube and the volume of the sphere: $314{,}432 - 164{,}636 = 149{,}796$ cubic centimeters.",
+  "source": "https://cooksat.com/practice?questionId=8dce300a&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

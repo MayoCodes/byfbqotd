@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "293a6b88",
+  "capturedAt": "2026-11-13T22:11:00.085Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular garden plot has an area of $384$ square feet. The length of the garden plot is $48$ feet. What is the width, in feet, of this garden plot?",
+  "choices": {
+    "A": "$8$",
+    "B": "$48$",
+    "C": "$192$",
+    "D": "$336$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The area $A$, in square feet, of a rectangle is the product of its length $l$, in feet, and its width $w$, in feet; thus, $A = lw$. It's given that the area of the garden plot is $384$ square feet and the length is $48$ feet. Substituting $384$ for $A$ and $48$ for $l$ in the equation $A = lw$ yields $384 = 48w$. Dividing both sides of this equation by $48$ yields $8 = w$. Therefore, the width, in feet, of the garden plot is $8$.",
+  "source": "https://cooksat.com/practice?questionId=293a6b88&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

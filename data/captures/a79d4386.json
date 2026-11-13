@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a79d4386",
+  "capturedAt": "2026-11-13T22:12:42.541Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A square has sides of length $4$ centimeters. If the length of each side is multiplied by $3$, what is the area, in square centimeters, of the new square?",
+  "choices": {
+    "A": "$48$",
+    "B": "$108$",
+    "C": "$144$",
+    "D": "$576$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The original square has sides of length $4$ cm, so its area is $4 \\times 4 = 16$ square centimeters. When each side is multiplied by $3$, the new side length is $4 \\times 3 = 12$ cm. The area of the new square is $12 \\times 12 = 144$ square centimeters.",
+  "source": "https://cooksat.com/practice?questionId=a79d4386&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

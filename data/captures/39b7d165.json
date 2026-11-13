@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "39b7d165",
+  "capturedAt": "2026-11-13T22:11:10.377Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Two right rectangular prisms, A and B, each have a square base. The volume of prism A is $48$ cubic inches. Prism B has a base with side length twice that of prism A, and a height that is $\\frac{3}{4}$ the height of prism A. What is the volume, in cubic inches, of prism B?",
+  "choices": {
+    "A": "$36$",
+    "B": "$72$",
+    "C": "$96$",
+    "D": "$144$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Let prism A have base side length $s$ and height $h$. Then $V_A = s^2h = 48$. Prism B has base side length $2s$ and height $\\frac{3}{4}h$. Therefore, $V_B = (2s)^2 \\cdot \\frac{3}{4}h = 4s^2 \\cdot \\frac{3}{4}h = 3s^2h = 3(48) = 144$ cubic inches.",
+  "source": "https://cooksat.com/practice?questionId=39b7d165&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

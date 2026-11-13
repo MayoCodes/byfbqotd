@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5b1aad2e",
+  "capturedAt": "2026-11-13T22:11:42.309Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table gives the perimeters of similar triangles $PQR$ and $JKL$, where $PQ$ corresponds to $JK$. The length of $PQ$ is $8$. What is the length of $JK$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$8$",
+    "C": "$32$",
+    "D": "$38$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since triangle $PQR$ is similar to triangle $JKL$ with $\\overline{PQ}$ corresponding to $\\overline{JK}$, the ratio of the perimeters equals the ratio of corresponding sides. Let $n$ represent the length of $\\overline{JK}$. Then $\\frac{30}{120} = \\frac{8}{n}$, or $\\frac{1}{4} = \\frac{8}{n}$. Multiplying both sides by $n$ gives $\\frac{n}{4} = 8$, and multiplying both sides by $4$ yields $n = 32$. Therefore, the length of $\\overline{JK}$ is $32$.",
+  "source": "https://cooksat.com/practice?questionId=5b1aad2e&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/5b1aad2e/1-83e16bdbf039352e.png",
+      "kind": "diagram"
+    }
+  ]
+}

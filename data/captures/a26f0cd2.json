@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a26f0cd2",
+  "capturedAt": "2026-11-13T22:12:30.622Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangle has a perimeter of $48$ inches. The width of the rectangle is $\\frac{3}{5}$ of its length. What is the area of the rectangle, in square inches?",
+  "choices": {
+    "A": "$15$",
+    "B": "$\\frac{(384)}{5}$",
+    "C": "$108$",
+    "D": "$135$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Let the length be $l$ inches. Then the width is $w = \\frac{3}{5}l$ inches. The perimeter formula gives $2l + 2w = 48$. Substituting: $2l + 2(\\frac{3}{5}l) = 48$, which simplifies to $2l + \\frac{6}{5}l = 48$. Converting to a common denominator: $\\frac{10}{5}l + \\frac{6}{5}l = \\frac{16}{5}l = 48$. Solving: $l = 48 \\cdot \\frac{5}{16} = 15$ inches. Therefore $w = \\frac{3}{5}(15) = 9$ inches. The area is $A = 15 \\times 9 = 135$ square inches.",
+  "source": "https://cooksat.com/practice?questionId=a26f0cd2&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

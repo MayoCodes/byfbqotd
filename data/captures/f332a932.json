@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f332a932",
+  "capturedAt": "2026-11-13T22:13:25.726Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular prism has a height of $40$ inches and a square base with a side length of $15$ inches. Both the height and the side length of the base are increased by the same percent. If the volume of the prism is increased by $72.8%$, by what percent were the height and side length increased?",
+  "choices": {
+    "A": "$20%$",
+    "B": "$24.3%$",
+    "C": "$31.5%$",
+    "D": "$41.6%$"
+  },
+  "correctAnswer": "A",
+  "explanation": "If both dimensions are increased by $x\\%$, they are multiplied by $(1 + x/100)$. Since volume equals side length squared times height, the volume is multiplied by $(1 + x/100)^3$. A $72.8\\%$ increase means the volume is multiplied by $1.728$. Therefore $(1 + x/100)^3 = 1.728$. Taking the cube root: $1 + x/100 = \\sqrt[3]{1.728} = 1.2$. Thus $x/100 = 0.2$, so $x = 20\\%$.",
+  "source": "https://cooksat.com/practice?questionId=f332a932&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

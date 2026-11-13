@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5e8d667d",
+  "capturedAt": "2026-11-13T22:11:47.944Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular prism has dimensions such that its volume is $144$ cubic inches. If the prism's base is a square with side length $s$ inches, and its height is $(s+13)$ inches, what is the side length $s$ of the square base?",
+  "choices": {
+    "A": "$3$",
+    "B": "$4$",
+    "C": "$6$",
+    "D": "$12$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The volume of a rectangular prism with a square base of side length $s$ and height $(s+13)$ is given by $V = s^2(s+13)$. Setting this equal to $144$ gives $s^2(s+13) = 144$. Testing $s = 3$: $3^2(3+13) = 9 \\times 16 = 144$, which satisfies the equation. Therefore, $s = 3$ inches.",
+  "source": "https://cooksat.com/practice?questionId=5e8d667d&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

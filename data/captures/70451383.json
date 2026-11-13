@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "70451383",
+  "capturedAt": "2026-11-13T22:11:58.619Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular prism has dimensions of $5$ cm by $4$ cm by $3$ cm. If the length is increased by $20%$ while the width and height remain the same, what is the new volume in cubic centimeters?",
+  "choices": {
+    "A": "$60$",
+    "B": "$66$",
+    "C": "$72$",
+    "D": "$78$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The original length is $5$ cm. A $20\\%$ increase gives new length = $5 + 0.20(5) = 5 + 1 = 6$ cm. The new volume is $V = lwh = 6 \\cdot 4 \\cdot 3 = 72$ cubic centimeters.",
+  "source": "https://cooksat.com/practice?questionId=70451383&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a8bd6347",
+  "capturedAt": "2026-11-13T22:12:47.830Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A parallelogram has a base of $18$ inches. The height of the parallelogram is $\\frac{2}{3}$ of the base. What is the area, in square inches, of the parallelogram?",
+  "choices": {
+    "A": "$108$",
+    "B": "$144$",
+    "C": "$216$",
+    "D": "$324$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The area of a parallelogram is base times height. The base is $18$ inches, and the height is $\\frac{2}{3}$ of the base, which is $\\frac{2}{3} \\times 18 = 12$ inches. Therefore, the area is $18 \\times 12 = 216$ square inches.",
+  "source": "https://cooksat.com/practice?questionId=a8bd6347&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

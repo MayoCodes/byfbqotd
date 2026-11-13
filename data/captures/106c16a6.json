@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "106c16a6",
+  "capturedAt": "2026-11-13T22:10:47.027Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Surface Area of 3D Solid",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A cube has a side length of $5$ units. What is the surface area of the cube, in square units?\n\n$$0$$\n\n$$150$$",
+  "choices": {},
+  "correctAnswer": "$150$",
+  "explanation": "The correct answer is $150$. The surface area, $A$, of a cube is calculated using the formula $A = 6s^2$, where $s$ is the side length of the cube. A cube has $6$ faces, and each face is a square with area $s^2$. It's given that the side length is $5$ units. Substituting $5$ for $s$ in the formula $A = 6s^2$ yields $A = 6(5^2)$, which simplifies to $A = 6(25)$, or $A = 150$. Therefore, the surface area of the cube, in square units, is $150$.",
+  "source": "https://cooksat.com/practice?questionId=106c16a6&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

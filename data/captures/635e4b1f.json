@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "635e4b1f",
+  "capturedAt": "2026-11-13T22:11:53.394Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A circle has a radius of 5 units. The circumference can be expressed as $k\\pi$ units, where $k$ is a constant. What is the value of $k$?\n\n$$0$$\n\n$$10$$",
+  "choices": {},
+  "correctAnswer": "$10$",
+  "explanation": "The correct answer is $10$. The formula for the circumference of a circle is $C = 2\\pi r$, where $r$ is the radius. Given that the radius $r$ is 5 units, substituting into the formula yields $C = 2\\pi(5) = 10\\pi$ units. Since the circumference is expressed as $k\\pi$ units, we have $k\\pi = 10\\pi$, which means $k = 10$.",
+  "source": "https://cooksat.com/practice?questionId=635e4b1f&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

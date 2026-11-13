@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "da72acc8",
+  "capturedAt": "2026-11-13T22:13:19.240Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A cylinder has a diameter of $10$ centimeters and a height of $14$ centimeters. What is the volume, in cubic centimeters, of the cylinder?",
+  "choices": {
+    "A": "$25\\pi$",
+    "B": "$70\\pi$",
+    "C": "$350\\pi$",
+    "D": "$1400\\pi$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The volume, $V$, of a cylinder is given by $V = \\pi r^{2} h$, where $r$ is the radius of the circular base and $h$ is the height. The radius is half of the diameter, so $r = \\frac{10}{2} = 5$ centimeters. Substituting $r = 5$ and $h = 14$ gives $V = \\pi (5)^{2}(14) = \\pi (25)(14) = 350\\pi$ cubic centimeters.",
+  "source": "https://cooksat.com/practice?questionId=da72acc8&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "00ee56e4",
+  "capturedAt": "2026-11-13T22:10:35.318Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle has circumference $12\\pi$. What is the area of the circle?",
+  "choices": {
+    "A": "$6\\pi$",
+    "B": "$12\\pi$",
+    "C": "$36\\pi$",
+    "D": "$144\\pi$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Given circumference $C = 12\\pi$, use $C = 2\\pi r$ to find $r$: $12\\pi = 2\\pi r$, so $r = 6$. Then the area is $A = \\pi r^2 = \\pi(6)^2 = 36\\pi$.",
+  "source": "https://cooksat.com/practice?questionId=00ee56e4&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

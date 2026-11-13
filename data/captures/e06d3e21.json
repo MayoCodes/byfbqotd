@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e06d3e21",
+  "capturedAt": "2026-11-13T22:13:20.837Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Right circular cylinder X has a radius of $2$ centimeters and a volume of $64$ cubic centimeters. Right circular cylinder Y is similar to cylinder X and has a radius of $6$ centimeters. What is the volume, in cubic centimeters, of cylinder Y?\n\n$$0$$\n\n$$1728$$",
+  "choices": {},
+  "correctAnswer": "$1728$",
+  "explanation": "The correct answer is $1728$. When two three-dimensional figures are similar, all corresponding linear dimensions have the same ratio $k$, and the ratio of their volumes is $k^3$. It's given that cylinder Y is similar to cylinder X. The radius of cylinder X is $2$ centimeters and the radius of cylinder Y is $6$ centimeters. Therefore, the ratio of corresponding linear dimensions is $k = \\frac{6}{2} = 3$. Since the ratio of the volumes of similar three-dimensional figures is the cube of the ratio of corresponding linear dimensions, the ratio of the volume of cylinder Y to the volume of cylinder X is $k^3 = 3^3 = 27$. It's given that the volume of cylinder X is $64$ cubic centimeters. Therefore, the volume of cylinder Y is $27 \\times 64 = 1728$ cubic centimeters.",
+  "source": "https://cooksat.com/practice?questionId=e06d3e21&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

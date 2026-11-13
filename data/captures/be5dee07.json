@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "be5dee07",
+  "capturedAt": "2026-11-13T22:12:59.523Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The circumference of a circle is $18\\pi$ centimeters. What is the area, in square centimeters, of the circle?",
+  "choices": {
+    "A": "$9\\pi$",
+    "B": "$18\\pi$",
+    "C": "$81\\pi$",
+    "D": "$324\\pi$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The circumference formula is $C = \\pi d$, so $18\\pi = \\pi d$ gives $d = 18$ cm. The radius is half the diameter: $r = 9$ cm. Using the area formula $A = \\pi r^2$, we get $A = \\pi(9)^2 = 81\\pi$ square centimeters.",
+  "source": "https://cooksat.com/practice?questionId=be5dee07&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

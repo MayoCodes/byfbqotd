@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8829c5a4",
+  "capturedAt": "2026-11-13T22:12:25.806Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Rectangles $PQRS$ and $WXYZ$ are similar. The length of each side of $WXYZ$ is $5$ times the length of the corresponding side of $PQRS$. The area of $PQRS$ is $60$ square units. What is the area, in square units, of $WXYZ$?",
+  "choices": {
+    "A": "$12$",
+    "B": "$60$",
+    "C": "$300$",
+    "D": "$1,500$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The area of a rectangle is given by $bh$, where $b$ is the base length and $h$ is the height. Let $x$ represent the base length, in units, of rectangle $\\text{PQRS}$, and let $y$ represent its height, in units. Then the area of $\\text{PQRS}$ is $xy$ square units. Since each side of $\\text{WXYZ}$ is $5$ times the corresponding side of $\\text{PQRS}$, the base of $\\text{WXYZ}$ is $5x$ units and its height is $5y$ units. Therefore, the area of $\\text{WXYZ}$ is $(5x)(5y) = 25xy$ square units. Since the area of $\\text{PQRS}$ is $60$ square units, $xy = 60$. Substituting $60$ for $xy$ in $25xy$ yields $25(60) = 1{,}500$. Therefore, the area of $\\text{WXYZ}$ is $1{,}500$ square units.",
+  "source": "https://cooksat.com/practice?questionId=8829c5a4&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

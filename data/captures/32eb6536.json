@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "32eb6536",
+  "capturedAt": "2026-11-13T22:11:03.486Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A right circular cylinder has a volume of $560$ cubic inches. The area of the base of the cylinder is $35$ square inches. What is the height, in inches, of the cylinder?",
+  "choices": {
+    "A": "$16$",
+    "B": "$35$",
+    "C": "$280$",
+    "D": "$19,600$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The volume, $V$, of a right circular cylinder is given by the formula $V = \\pi r^{2} h$, where $\\pi r^{2}$ is the area of the base of the cylinder and $h$ is the height. It's given that the cylinder has a volume of $560$ cubic inches and the area of the base is $35$ square inches. Substituting $560$ for $V$ and $35$ for $\\pi r^{2}$ in the formula $V = \\pi r^{2} h$ yields $560 = 35 h$. Dividing both sides of this equation by $35$ yields $16 = h$. Therefore, the height of the cylinder, in inches, is $16$.",
+  "source": "https://cooksat.com/practice?questionId=32eb6536&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

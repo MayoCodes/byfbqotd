@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3bf06384",
+  "capturedAt": "2026-11-13T22:11:15.265Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Coordinate Geometry Area",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe line segment shown in the $xy$-plane represents one of the legs of a right triangle. The area of this triangle is $36sqrt(13)$ square units. What is the length, in units, of the other leg of this triangle?",
+  "choices": {
+    "A": "$12$",
+    "B": "$3sqrt(13)$",
+    "C": "$24$",
+    "D": "$18sqrt(13)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The length of a segment in the $xy$-plane can be found using the distance formula, $\\sqrt{\\left(x_{2}-x_{1}\\right)^{2}+\\left(y_{2}-y_{1}\\right)^{2}}$, where $\\left(x_{1},y_{1}\\right)$ and $\\left(x_{2},y_{2}\\right)$ are the endpoints of the segment. The segment shown has endpoints at $(-4, 2)$ and $(5, 8)$. Substituting these values into the distance formula yields $\\sqrt{\\left(5-(-4)\\right)^{2}+\\left(8-2\\right)^{2}}$, or $\\sqrt{9^{2}+6^{2}}$, which is equivalent to $\\sqrt{81+36}$, or $\\sqrt{117}$. This can be simplified to $3\\sqrt{13}$. Let $x$ represent the length, in units, of the other leg of this triangle. The area, $A$, of a right triangle can be calculated using the formula $A=\\frac{1}{2}bh$, where $b$ and $h$ are the lengths of the legs of the triangle. It's given that the area of the triangle is $36\\sqrt{13}$ square units. Substituting $36\\sqrt{13}$ for $A$, $3\\sqrt{13}$ for $b$, and $x$ for $h$ in the formula $A=\\frac{1}{2}bh$ yields $36\\sqrt{13}=\\frac{1}{2}\\left(3\\sqrt{13}\\right)(x)$. Multiplying both sides of this equation by $2$ yields $72\\sqrt{13}=3\\sqrt{13}\\,x$. Dividing both sides of this equation by $3\\sqrt{13}$ yields $x=\\frac{72\\sqrt{13}}{3\\sqrt{13}}$, or $x=24$. Therefore, the length, in units, of the other leg of this triangle is $24$.",
+  "source": "https://cooksat.com/practice?questionId=3bf06384&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3bf06384/1-42aba9164eea8f1c.png",
+      "kind": "diagram"
+    }
+  ]
+}

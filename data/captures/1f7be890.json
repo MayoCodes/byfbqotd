@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1f7be890",
+  "capturedAt": "2026-11-13T22:10:52.166Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe prism shown has length $4$ units, width $2$ units, and height $3$ units. What is the volume, in cubic units, of the prism?",
+  "choices": {
+    "A": "$6$",
+    "B": "$12$",
+    "C": "$18$",
+    "D": "$24$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The volume $V$ of a rectangular prism with length $l$, width $w$, and height $h$ can be calculated using the formula $V=lwh$. The prism shown has a length of $4$ units, a width of $2$ units, and a height of $3$ units, so its volume is $4\\cdot 2\\cdot 3$, or $24$, cubic units.",
+  "source": "https://cooksat.com/practice?questionId=1f7be890&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1f7be890/1-b36c85571da81194.png",
+      "kind": "diagram"
+    }
+  ]
+}

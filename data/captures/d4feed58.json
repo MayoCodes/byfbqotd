@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d4feed58",
+  "capturedAt": "2026-11-13T22:13:12.524Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular prism has a length of $4$ centimeters, a width of $6$ centimeters, and a height of $5$ centimeters. What is the volume, in cubic centimeters, of the prism?",
+  "choices": {
+    "A": "$15$",
+    "B": "$60$",
+    "C": "$80$",
+    "D": "$120$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The volume of a rectangular prism is $V = l \\times w \\times h$. Substituting the given values: $V = 4 \\times 6 \\times 5 = 24 \\times 5 = 120$ cubic centimeters.",
+  "source": "https://cooksat.com/practice?questionId=d4feed58&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "523ddf00",
+  "capturedAt": "2026-11-13T22:11:31.340Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A landscaper designs a square garden tile. The side length of the tile is $6.4h$ feet, where $h$ is the height, in feet, of a planter. Which equation gives the area $A$, in square feet, of the tile?",
+  "choices": {
+    "A": "$A = (4)(6.4h)$",
+    "B": "$A = (h + 6.4)(h + 6.4)$",
+    "C": "$A = (6.4h)(6.4h)$",
+    "D": "$A = (\\frac{(6.4)}{h})(\\frac{(6.4)}{h})$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The area $A$, in square feet, of a square can be found using the formula $A = s^{2}$, where $s$ is the side length, in feet, of the square. It's given that the side length of the tile is $6.4h$ feet. Substituting $6.4h$ for $s$ in the formula $A = s^{2}$ yields $A = (6.4h)^{2}$, or $A = (6.4h)(6.4h)$. Therefore, the equation that gives the area $A$, in square feet, of the tile is $A = (6.4h)(6.4h)$.",
+  "source": "https://cooksat.com/practice?questionId=523ddf00&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

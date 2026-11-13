@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fd6e4b7f",
+  "capturedAt": "2026-11-13T22:13:30.644Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A sphere has a radius of $\\frac{(11)}{3}$ meters. What is the volume, in cubic meters, of the sphere?",
+  "choices": {
+    "A": "$\\frac{(3\\pi )}{(11)}$",
+    "B": "$\\frac{(44\\pi )}{9}$",
+    "C": "$\\frac{(22\\pi )}{3}$",
+    "D": "$5,324\\pi 81$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The volume, $V$, of a sphere can be found using the formula $V = \\frac{4}{3}\\pi r^{3}$, where $r$ is the radius of the sphere. It's given that the sphere has a radius of $\\frac{11}{3}$ meters. Substituting $\\frac{11}{3}$ for $r$ in the formula $V = \\frac{4}{3}\\pi r^{3}$ yields $V = \\frac{4}{3}\\pi\\left(\\frac{11}{3}\\right)^{3}$, which is equivalent to $V = \\frac{4}{3}\\pi\\left(\\frac{1{,}331}{27}\\right)$, or $V = \\frac{5{,}324\\pi}{81}$. Therefore, the volume, in cubic meters, of the sphere is $\\frac{5{,}324\\pi}{81}$.",
+  "source": "https://cooksat.com/practice?questionId=fd6e4b7f&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

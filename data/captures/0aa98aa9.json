@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0aa98aa9",
+  "capturedAt": "2026-11-13T22:10:45.252Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The sides of a rectangle are such that the length is $9$ inches more than $6$ times the width, in inches. If the width of the rectangle is $7$ inches, what is the area, in square inches, of the rectangle?\n\n$$0$$\n\n$$357$$",
+  "choices": {},
+  "correctAnswer": "$357$",
+  "explanation": "The correct answer is $357$. It's given that the width of the rectangle is $7$ inches. It's also given that the length is $9$ inches more than $6$ times the width, in inches. Therefore, the length of the rectangle is $6(7) + 9$, or $51$, inches. The area, $A$, of a rectangle is given by $A = lw$, where $l$ is the length of the rectangle and $w$ is its width. Substituting $51$ for $l$ and $7$ for $w$ in the equation $A = lw$ yields $A = (51)(7)$, or $A = 357$. Therefore, the area, in square inches, of the rectangle is $357$.",
+  "source": "https://cooksat.com/practice?questionId=0aa98aa9&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

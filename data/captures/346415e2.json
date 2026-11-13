@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "346415e2",
+  "capturedAt": "2026-11-13T22:11:06.734Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume with Algebraic Expressions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A solid right circular cylinder has a radius of $5$ meters and a height of $12$ meters. A cylindrical hole with a radius of $2$ meters is drilled through the center of the solid from top to bottom. What is the volume of the solid material remaining after the hole is drilled? Express your answer in the form $k\\pi$ where $k$ is an integer, and enter the value of $k$.\n\n$$0$$\n\n$$252$$",
+  "choices": {},
+  "correctAnswer": "$252$",
+  "explanation": "The correct answer is $252$. The volume of a cylinder is given by $V = \\pi r^2 h$. The original solid cylinder has radius $5$ meters and height $12$ meters, giving a volume of $\\pi(5)^2(12) = 300\\pi$ cubic meters. The cylindrical hole has radius $2$ meters and height $12$ meters, giving a volume of $\\pi(2)^2(12) = 48\\pi$ cubic meters. The remaining solid volume is $300\\pi - 48\\pi = 252\\pi$ cubic meters. Since the answer is in the form $k\\pi$ where $k = 252$, the value to enter is $252$.",
+  "source": "https://cooksat.com/practice?questionId=346415e2&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ac154ad8",
+  "capturedAt": "2026-11-13T22:12:49.587Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular prism has a volume of $240$ cubic feet. The base of the prism is a rectangle with a length of $16$ feet and a width of $6$ feet. What is the height of the prism, in feet?",
+  "choices": {
+    "A": "$\\frac{5}{3}$",
+    "B": "$\\frac{5}{2}$",
+    "C": "$\\frac{(10)}{3}$",
+    "D": "$15$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The volume of a rectangular prism equals the area of the base times the height. The base is a rectangle with length $16$ feet and width $6$ feet, so the base area is $16 \\times 6 = 96$ square feet. Let $h$ represent the height. Since the volume is $240$ cubic feet, we have $96h = 240$. Dividing both sides by $96$ gives $h = \\frac{240}{96} = \\frac{5}{2}$ feet.",
+  "source": "https://cooksat.com/practice?questionId=ac154ad8&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

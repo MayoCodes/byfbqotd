@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a7b1daf9",
+  "capturedAt": "2026-11-13T22:12:44.119Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $ABC$, side $AC$ is $13$ centimeters, side $BC$ is $15$ centimeters, and side $AB$ is $14$ centimeters. What is the perimeter, in centimeters, of triangle $ABC$?",
+  "choices": {
+    "A": "$27$",
+    "B": "$28$",
+    "C": "$29$",
+    "D": "$42$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The perimeter of a triangle is the sum of all three side lengths: $13 + 15 + 14 = 42$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=a7b1daf9&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "253e74b0",
+  "capturedAt": "2026-11-13T22:10:57.964Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A storage container is shaped like a rectangular prism with a length of $6$ feet, a width of $6$ feet, and a height of $6$ feet. Small boxes are also shaped like rectangular prisms, each with a length of $2$ feet, a width of $2$ feet, and a height of $3$ feet. What is the maximum number of small boxes that can fit inside the storage container by volume?",
+  "choices": {
+    "A": "$12$",
+    "B": "$15$",
+    "C": "$18$",
+    "D": "$27$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The volume of the storage container is $6 \\times 6 \\times 6 = 216$ cubic feet. The volume of one small box is $2 \\times 2 \\times 3 = 12$ cubic feet. The maximum number of boxes is $\\frac{216}{12} = 18$.",
+  "source": "https://cooksat.com/practice?questionId=253e74b0&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

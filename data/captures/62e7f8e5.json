@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "62e7f8e5",
+  "capturedAt": "2026-11-13T22:11:51.458Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table gives the areas and perimeters of two similar rectangles, where $n$ is a constant.\n\nWhat is the value of $n$?",
+  "choices": {
+    "A": "$756$",
+    "B": "$2,268$",
+    "C": "$4,536$",
+    "D": "$6,804$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that rectangles P and Q are similar. For similar figures, if the scale factor between corresponding side lengths is $k$, then the scale factor between their areas is $k^{2}$ and the scale factor between their perimeters is $k$. The table shows that the area of rectangle P is $845$ square inches and the area of rectangle Q is $7{,}605$ square inches. Therefore, $k^{2} = \\frac{7{,}605}{845} = 9$, which gives $k = 3$. Since the perimeter of rectangle P is $252$ inches and the perimeter of rectangle Q is $n$ inches, it follows that $n = 3\\left(252\\right) = 756$. Therefore, the value of $n$ is $756$.",
+  "source": "https://cooksat.com/practice?questionId=62e7f8e5&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/62e7f8e5/1-5d56e7dd4a481b97.png",
+      "kind": "diagram"
+    }
+  ]
+}

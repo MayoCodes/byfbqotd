@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5722e116",
+  "capturedAt": "2026-11-13T22:11:36.527Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In a materials science experiment, researchers analyzed $18$ blocks of a lightweight foam cut in the shape of a cube. The length of the edge of one of these cubes is $5.000$ centimeters. This cube has a density of $0.125$ grams per cubic centimeter. What is the mass of this cube, in grams?\n\n$$0$$\n\n$$\\frac{125}{8},15.62,15.63$$",
+  "choices": {},
+  "correctAnswer": "$\\frac{125}{8},15.62,15.63$",
+  "explanation": "The correct answer is $\\frac{125}{8}$. The volume, $V$, of a cube can be found using the formula $V = s^{3}$, where $s$ is the edge length of the cube. It's given that the edge length is $5.000$ centimeters. Substituting $5.000$ for $s$ yields $V = (5.000)^{3} = 125.000$ cubic centimeters. The relationship between mass, density, and volume is given by mass $=$ density $\\times$ volume. It's given that the density is $0.125$ grams per cubic centimeter. Substituting $0.125$ for the density and $125.000$ for the volume yields mass $= 0.125 \\times 125.000 = 15.625$ grams, or $\\frac{125}{8}$ grams. Note that 125/8, 15.62, and 15.63 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=5722e116&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

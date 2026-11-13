@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c3a7364a",
+  "capturedAt": "2026-11-13T22:13:02.621Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A right rectangular prism has a height of $12$ inches. The length of the prism's base is $t$ inches, which is $5$ inches more than the width of the prism's base. Which function $V$ gives the volume of the prism, in cubic inches, in terms of the length of the prism's base?",
+  "choices": {
+    "A": "$V(t) = t(t+12)(t+5)$",
+    "B": "$V(t) = t(t+12)(t-5)$",
+    "C": "$V(t) = 12t(t+5)$",
+    "D": "$V(t) = 12t(t-5)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The volume of a right rectangular prism is equal to the product of its length, width, and height. It's given that the height of the prism is $12$ inches and the length of the prism's base is $t$ inches, which is $5$ inches more than the width of the prism's base. Since the length is $5$ inches more than the width, the width must be $5$ inches less than the length. Therefore, the width of the prism's base is $t-5$ inches. The volume of the prism, in cubic inches, is the product of length, width, and height: $t(t-5)(12)$, which can be rewritten as $12t(t-5)$. Thus, the function $V$ that gives the volume of this right rectangular prism, in cubic inches, in terms of the length of the prism's base is $V(t)=12t(t-5)$.",
+  "source": "https://cooksat.com/practice?questionId=c3a7364a&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

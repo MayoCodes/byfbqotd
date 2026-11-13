@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "934db1e7",
+  "capturedAt": "2026-11-13T22:12:28.908Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A right square prism has a height of $18$ units. The volume of the prism is $4,050$ cubic units. What is the length, in units, of an edge of the base?\n\n$$0$$\n\n$$15$$",
+  "choices": {},
+  "correctAnswer": "$15$",
+  "explanation": "The correct answer is $15$. The volume, $V$, of a right square prism can be calculated using the formula $V = s^{2} h$, where $s$ represents the length of an edge of the base and $h$ represents the height of the prism. It's given that the volume of the prism is $4{,}050$ cubic units and the height is $18$ units. Substituting $4{,}050$ for $V$ and $18$ for $h$ in the formula $V = s^{2} h$ yields $4{,}050 = \\left( s^{2} \\right) \\left( 18 \\right)$. Dividing both sides of this equation by $18$ yields $225 = s^{2}$. Taking the square root of both sides of this equation yields two solutions: $s = -15$ and $s = 15$. The length can't be negative, so $s = 15$. Therefore, the length, in units, of an edge of the base is $15$.",
+  "source": "https://cooksat.com/practice?questionId=934db1e7&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

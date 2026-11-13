@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "04130dab",
+  "capturedAt": "2026-11-13T22:10:39.580Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle has a circumference of $24\\pi$ inches. What is the area, in square inches, of this circle?",
+  "choices": {
+    "A": "$36\\pi$",
+    "B": "$144$",
+    "C": "$144\\pi$",
+    "D": "$576\\pi$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The circumference of a circle is $C = 2\\pi r$. Substituting $24\\pi$ for $C$ gives $24\\pi = 2\\pi r$. Dividing both sides by $2\\pi$ gives $r = 12$. The area of a circle is $A = \\pi r^2$, so $A = \\pi(12)^2 = 144\\pi$ square inches.",
+  "source": "https://cooksat.com/practice?questionId=04130dab&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

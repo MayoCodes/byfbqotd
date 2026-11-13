@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a76ef833",
+  "capturedAt": "2026-11-13T22:12:40.725Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume with Algebraic Expressions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A cube has an edge length of $56$ centimeters. A solid sphere with a radius of $28$ centimeters is placed inside the cube so that the sphere touches the center of each face of the cube. To the nearest cubic centimeter, what is the volume of the space inside the cube not occupied by the sphere?",
+  "choices": {
+    "A": "$83,664$",
+    "B": "$91,952$",
+    "C": "$116,347$",
+    "D": "$175,616$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The volume of a cube is $V = s^{3}$, where $s$ is the edge length. The volume of the given cube is $56^{3} = 175{,}616$ cubic centimeters. The volume of a sphere is $V = \\frac{4}{3}\\pi r^{3}$, where $r$ is the radius. The volume of the given sphere is $\\frac{4}{3}\\pi (28)^{3} = \\frac{4}{3}\\pi (21{,}952) \\approx 91{,}952$ cubic centimeters. The volume of the space inside the cube not occupied by the sphere is the difference between the volume of the cube and the volume of the sphere: $175{,}616 - 91{,}952 = 83{,}664$ cubic centimeters.",
+  "source": "https://cooksat.com/practice?questionId=a76ef833&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

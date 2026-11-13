@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "72d2f013",
+  "capturedAt": "2026-11-13T22:12:06.957Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Coordinate Geometry Area",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe three points shown define a circle. The circumference of this circle is $k\\pi$, where $k$ is a constant. What is the value of $k$?\n\n$$0$$\n\n$$10$$",
+  "choices": {},
+  "correctAnswer": "$10$",
+  "explanation": "The correct answer is $10$. It's given that the three points shown define a circle, so the center of that circle is an equal distance from each of the three points. The point $(7, 6)$ is halfway between the points $(7, 1)$ and $(7, 11)$, and is a distance of $5$ units from each of those two points. The point $(7, 6)$ is also a distance of $5$ units from $(2, 6)$. Because the point $(7, 6)$ is the same distance from all three points shown, it must be the center of the circle. Since that distance is $5$, it follows that the radius of the circle is $5$. The circumference of a circle with radius $r$ is equal to $2\\pi r$. It follows that the circumference of the given circle is $2\\pi(5)$, or $10\\pi$. It's given that the circumference of the circle is $k\\pi$. Therefore, the value of $k$ is $10$.",
+  "source": "https://cooksat.com/practice?questionId=72d2f013&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/72d2f013/1-32d6359d85c83d95.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "715ecf62",
+  "capturedAt": "2026-11-13T22:12:03.575Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Surface Area of 3D Solid",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A right rectangular prism has a length of $5$ units, a width of $3$ units, and a height of $4$ units. What is the total surface area, in square units, of the prism?\n\n$$0$$\n\n$$94$$",
+  "choices": {},
+  "correctAnswer": "$94$",
+  "explanation": "The correct answer is $94$. The surface area, $S$, of a right rectangular prism is given by the formula $S = 2(lw + lh + wh)$, where $l$ is the length, $w$ is the width, and $h$ is the height of the prism. It's given that the prism has a length of $5$ units, a width of $3$ units, and a height of $4$ units. Substituting $5$ for $l$, $3$ for $w$, and $4$ for $h$ in the formula yields $S = 2(5 \\times 3 + 5 \\times 4 + 3 \\times 4)$. Calculating each product gives $5 \\times 3 = 15$, $5 \\times 4 = 20$, and $3 \\times 4 = 12$. Therefore, $S = 2(15 + 20 + 12)$, which simplifies to $S = 2(47)$, or $S = 94$. Thus, the total surface area of the prism, in square units, is $94$.",
+  "source": "https://cooksat.com/practice?questionId=715ecf62&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

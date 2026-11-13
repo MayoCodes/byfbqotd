@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5eaa1395",
+  "capturedAt": "2026-11-13T22:11:49.599Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular prism has a volume of $1,500$ cubic centimeters. If the height of the prism is $10$ centimeters and the length of the base is $5$ centimeters more than the width, what is the length of the base, in centimeters?",
+  "choices": {
+    "A": "$10$",
+    "B": "$15$",
+    "C": "$20$",
+    "D": "$25$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Let $w$ represent the width of the base. Since the length is $5$ centimeters more than the width, the length is $w+5$. The volume formula for a rectangular prism is $V=lwh$. Substituting the given values: $1{,}500=(w+5)(w)(10)$, which simplifies to $1{,}500=10w^2+50w$. Dividing by $10$ gives $150=w^2+5w$, or $w^2+5w-150=0$. Factoring yields $(w+15)(w-10)=0$, so $w=10$ (width must be positive). Therefore, the length is $w+5=10+5=15$ centimeters.",
+  "source": "https://cooksat.com/practice?questionId=5eaa1395&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

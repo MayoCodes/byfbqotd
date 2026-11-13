@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fd4acbc7",
+  "capturedAt": "2026-11-13T22:13:29.050Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The area of a rectangle is $92$ square centimeters. The length of the longest side of the rectangle is $23$ centimeters. What is the length, in centimeters, of the shortest side of this rectangle?\n\n$$0$$\n\n$$4$$",
+  "choices": {},
+  "correctAnswer": "$4$",
+  "explanation": "The correct answer is $4$. The area of a rectangle can be calculated by multiplying the length of its longest side by the length of its shortest side. It's given that the area of the rectangle is $92$ square centimeters and the length of the longest side of the rectangle is $23$ centimeters. Let $x$ represent the length, in centimeters, of the shortest side of this rectangle. It follows that $92 = 23x$. Dividing both sides of this equation by $23$ yields $4 = x$. Therefore, the length, in centimeters, of the shortest side of the rectangle is $4$.",
+  "source": "https://cooksat.com/practice?questionId=fd4acbc7&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5a91986e",
+  "capturedAt": "2026-11-13T22:11:40.096Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe figure shown is a right circular cylinder with a radius of $r$ and height of $h$. A second right circular cylinder (not shown) has a volume that is $175$ times as large as the volume of the cylinder shown. Which of the following could represent the radius $R$, in terms of $r$, and the height $H$, in terms of $h$, of the second cylinder?",
+  "choices": {
+    "A": "$R = 5r$ and $H = 7h$",
+    "B": "$R = 7r$ and $H = 5h$",
+    "C": "$R = 7r$ and $H = 25h$",
+    "D": "$R = 25r$ and $H = 7h$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The volume of a right circular cylinder is equal to $\\pi a^{2} b$, where $a$ is the radius of a base of the cylinder and $b$ is the height of the cylinder. It's given that the cylinder shown has a radius of $r$ and a height of $h$. It follows that the volume of the cylinder shown is equal to $\\pi r^{2} h$. It's given that the second right circular cylinder has a radius of $R$ and a height of $H$. It follows that the volume of the second cylinder is equal to $\\pi R^{2} H$. Choice A gives $R = 5 r$ and $H = 7 h$. Substituting $5 r$ for $R$ and $7 h$ for $H$ in the expression that represents the volume of the second cylinder yields $\\pi \\left( 5 r \\right)^{2} \\left( 7 h \\right)$, or $\\pi \\left( 25 r^{2} \\right) \\left( 7 h \\right)$, which is equivalent to $\\pi \\left( 175 r^{2} h \\right)$, or $175 \\left( \\pi r^{2} h \\right)$. This expression is equal to $175$ times the volume of the cylinder shown, $\\pi r^{2} h$. Therefore, $R = 5 r$ and $H = 7 h$ could represent the radius $R$, in terms of $r$, and the height $H$, in terms of $h$, of the second cylinder.",
+  "source": "https://cooksat.com/practice?questionId=5a91986e&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5a91986e/1-52f61e37344686e7.png",
+      "kind": "diagram"
+    }
+  ]
+}

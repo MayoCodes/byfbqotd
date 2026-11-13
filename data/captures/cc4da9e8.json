@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cc4da9e8",
+  "capturedAt": "2026-11-13T22:13:07.373Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The area of a square is $288$ square feet. What is the perimeter of the square, in feet?",
+  "choices": {
+    "A": "$12sqrt(2)$",
+    "B": "$24sqrt(2)$",
+    "C": "$48sqrt(2)$",
+    "D": "$48$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The area of a square is equal to the side length squared. Since the area is $288$, the side length is $\\sqrt{288} = \\sqrt{144 \\cdot 2} = 12\\sqrt{2}$ feet. The perimeter of a square is $4$ times the side length, so the perimeter is $4 \\cdot 12\\sqrt{2} = 48\\sqrt{2}$ feet.",
+  "source": "https://cooksat.com/practice?questionId=cc4da9e8&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

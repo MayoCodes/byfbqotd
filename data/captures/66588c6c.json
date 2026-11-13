@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "66588c6c",
+  "capturedAt": "2026-11-13T22:11:56.873Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A right circular cylinder has a volume of $36,501\\pi$ cubic inches. The height of the cylinder is $3$ times its radius. What is the radius, in inches, of the cylinder?",
+  "choices": {
+    "A": "$23$",
+    "B": "$69$",
+    "C": "$529$",
+    "D": "$1,587$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The volume, $V$, of a right circular cylinder is given by $V = \\pi r^{2} h$, where $r$ is the radius and $h$ is the height of the cylinder. It's given that the height of the cylinder is $3$ times its radius, so $h = 3r$. Substituting $3r$ for $h$ in the formula $V = \\pi r^{2} h$ yields $V = \\pi r^{2}(3r)$, or $V = 3\\pi r^{3}$. It's given that the volume is $36{,}501\\pi$ cubic inches. Substituting $36{,}501\\pi$ for $V$ in the equation $V = 3\\pi r^{3}$ yields $36{,}501\\pi = 3\\pi r^{3}$. Dividing both sides of this equation by $\\pi$ yields $36{,}501 = 3r^{3}$. Dividing both sides by $3$ yields $12{,}167 = r^{3}$. Taking the cube root of both sides yields $r = 23$. Therefore, the radius of the cylinder is $23$ inches.",
+  "source": "https://cooksat.com/practice?questionId=66588c6c&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

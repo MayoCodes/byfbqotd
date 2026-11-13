@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "86dac4a0",
+  "capturedAt": "2026-11-13T22:12:24.016Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Parallelogram $ABCD$ has a base of $x+2$ units and a height of $3$ units. Parallelogram $EFGH$ is similar to parallelogram $ABCD$, and the area of parallelogram $EFGH$ is $4$ times the area of parallelogram $ABCD$. The height of parallelogram $EFGH$ is $6$ units. What is the base, in units, of parallelogram $EFGH$?",
+  "choices": {
+    "A": "$2x+4$",
+    "B": "$4x+8$",
+    "C": "$x+2$",
+    "D": "$x+4$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The area of parallelogram $ABCD$ is $(x+2)(3) = 3x+6$ square units. Since the area of parallelogram $EFGH$ is $4$ times the area of parallelogram $ABCD$, the area of $EFGH$ is $4(3x+6) = 12x+24$ square units. For a parallelogram, area equals base times height. With height $6$ units, the base of $EFGH$ is $\\frac{12x+24}{6} = 2x+4$ units. This can be verified by recognizing that when similar figures have areas in ratio $4:1$, their corresponding linear dimensions are in ratio $2:1$ (since $2^2 = 4$), so the base of $EFGH$ is $2(x+2) = 2x+4$ units.",
+  "source": "https://cooksat.com/practice?questionId=86dac4a0&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

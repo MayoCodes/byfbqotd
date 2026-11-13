@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "58d95662",
+  "capturedAt": "2026-11-13T22:11:38.073Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle has a diameter of $12$ inches. What is the circumference, in inches, of this circle?",
+  "choices": {
+    "A": "$6\\pi$",
+    "B": "$12\\pi$",
+    "C": "$18\\pi$",
+    "D": "$36\\pi$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The radius is half the diameter: $r = \\frac{12}{2} = 6$ inches. The circumference is given by $C = 2\\pi r = 2\\pi(6) = 12\\pi$ inches.",
+  "source": "https://cooksat.com/practice?questionId=58d95662&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

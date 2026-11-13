@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4cffc3ae",
+  "capturedAt": "2026-11-13T22:11:24.664Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "For a right circular cone with apex $P$, $Q$ is a point on the circumference of the base, and segment $PQ$ is the slant height of the cone. If the length of segment $PQ$ is $78$ inches, the height of the cone is $39$ inches, and the volume of the cone is $n\\pi$ cubic inches, what is the value of $n$?\n\n$$0$$\n\n$$59319$$",
+  "choices": {},
+  "correctAnswer": "$59319$",
+  "explanation": "The correct answer is $59319$. For a right circular cone, the radius $r$ of the base, the height $h$, and the slant height $s$ form a right triangle, where $r^{2} + h^{2} = s^{2}$. It's given that the height is $39$ inches and the length of segment $PQ$, which is the slant height, is $78$ inches. Substituting $39$ for $h$ and $78$ for $s$ in the equation $r^{2} + h^{2} = s^{2}$ yields $r^{2} + (39)^{2} = (78)^{2}$, or $r^{2} + 1{,}521 = 6{,}084$. Subtracting $1{,}521$ from both sides yields $r^{2} = 4{,}563$. The volume $V$, in cubic inches, of a right circular cone is given by $V = \\frac{1}{3} \\pi r^{2} h$, where $r$ is the radius of the base and $h$ is the height. Substituting $4{,}563$ for $r^{2}$ and $39$ for $h$ yields $V = \\frac{1}{3} \\pi (4{,}563)(39)$, or $V = \\frac{1}{3} \\pi (177{,}957)$, which simplifies to $V = 59{,}319 \\pi$. It's given that the volume is $n\\pi$ cubic inches, so $n = 59{,}319$.",
+  "source": "https://cooksat.com/practice?questionId=4cffc3ae&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

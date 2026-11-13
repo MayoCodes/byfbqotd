@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "01415fda",
+  "capturedAt": "2026-11-13T22:10:37.177Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A rectangular banner has an area of $475$ square inches. An enlarged version of the banner is made in which the length and width of the original banner are each increased by $20%$. What is the area of the enlarged version, in square inches?\n\n$$0$$\n\n$$684$$",
+  "choices": {},
+  "correctAnswer": "$684$",
+  "explanation": "The correct answer is $684$. It's given that the length and width of the original banner are each increased by $20\\%$. Increasing a dimension by $20\\%$ means multiplying it by $1.2$, so the scale factor between corresponding dimensions is $k = 1.2$. When two similar rectangles have corresponding side lengths that differ by a scale factor of $k$, their areas differ by a scale factor of $k^{2}$. Therefore, the area of the enlarged version is $(1.2)^{2}$ times the area of the original, which equals $1.44$ times the original area. It's given that the original banner has an area of $475$ square inches, so the area of the enlarged version is $475(1.44) = 684$ square inches.",
+  "source": "https://cooksat.com/practice?questionId=01415fda&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

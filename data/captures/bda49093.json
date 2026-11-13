@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bda49093",
+  "capturedAt": "2026-11-13T22:12:57.769Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe figure shows the lengths, in inches (in), of the edges of a right rectangular prism. The volume $V$ of a right rectangular prism is $lwh$, where $l$ is the length of the prism, $w$ is the width of the prism, and $h$ is the height of the prism. What is the volume, in cubic inches, of the prism?",
+  "choices": {
+    "A": "$11$",
+    "B": "$20$",
+    "C": "$25$",
+    "D": "$40$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The volume of a right rectangular prism is $lwh$. The prism shown has a length of $5$ in, a width of $4$ in, and a height of $2$ in. Thus, $lwh = 5 \\times 4 \\times 2$, or $40$ cubic inches.",
+  "source": "https://cooksat.com/practice?questionId=bda49093&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/bda49093/1-0cd75b83b0a5e163.png",
+      "kind": "diagram"
+    }
+  ]
+}

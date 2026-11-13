@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bd19a5c9",
+  "capturedAt": "2026-11-13T22:12:56.003Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Surface Area of 3D Solid",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The surface area of a cube is $216$ square centimeters. What is the volume, in cubic centimeters, of the cube?",
+  "choices": {
+    "A": "$36$",
+    "B": "$216$",
+    "C": "$324$",
+    "D": "$1296$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The surface area of a cube with side length $s$ is $6s^2$. Setting this equal to $216$: $6s^2 = 216$. Dividing both sides by $6$ gives $s^2 = 36$. Taking the square root gives $s = 6$. The volume is $s^3 = 6^3 = 216$ cubic centimeters.",
+  "source": "https://cooksat.com/practice?questionId=bd19a5c9&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

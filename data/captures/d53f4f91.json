@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d53f4f91",
+  "capturedAt": "2026-11-13T22:13:14.092Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Surface Area of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The surface area of a cube is $6(\\frac{b}{4})^{2}$, where $b$ is a positive constant. Which of the following gives the perimeter of one face of the cube?",
+  "choices": {
+    "A": "$\\frac{b}{4}$",
+    "B": "$b$",
+    "C": "$4b$",
+    "D": "$6b$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. A cube has $6$ faces of equal area, so if the total surface area of a cube is $6\\left(\\frac{b}{4}\\right)^2$, then the area of one face is $\\left(\\frac{b}{4}\\right)^2$. The area of one square face of a cube equals the square of its edge length; therefore, if the area of one face is $\\left(\\frac{b}{4}\\right)^2$, then the edge length of the cube is $\\frac{b}{4}$. Since each face of a cube is a square, the perimeter of one face equals four times the edge length, which gives $4\\left(\\frac{b}{4}\\right)=b$.",
+  "source": "https://cooksat.com/practice?questionId=d53f4f91&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5523ae0d",
+  "capturedAt": "2026-11-13T22:11:34.691Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Two similar rectangular prisms, $A$ and $B$, have proportional dimensions. Prism $A$ has a length of $3$ cm, a width of $2$ cm, and a height of $5$ cm. If the volume of prism $B$ is $8$ times the volume of prism $A$, and prism $B$ has a length of $6$ cm and a width of $4$ cm, what is the height, in centimeters, of prism $B$?",
+  "choices": {
+    "A": "$5$",
+    "B": "$10$",
+    "C": "$20$",
+    "D": "$40$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The volume of prism $A$ is $(3)(2)(5) = 30$ cubic cm. Since the volume of prism $B$ is $8$ times this, the volume of $B$ is $8 \\cdot 30 = 240$ cubic cm. If the height of prism $B$ is $h$, then $(6)(4)(h) = 240$, which gives $24h = 240$, so $h = 10$ cm. Alternatively, since the volume ratio is $8 = 2^3$, the linear scale factor is $2$, so the height of $B$ is $2 \\cdot 5 = 10$ cm.",
+  "source": "https://cooksat.com/practice?questionId=5523ae0d&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a7c2e250",
+  "capturedAt": "2026-11-13T22:12:45.711Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Coordinate Geometry Area",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the $xy$-plane shown, square $PQRS$ has its diagonals on the $x$- and $y$-axes. What is the area, in square units, of the square $PQRS$?",
+  "choices": {
+    "A": "$8$",
+    "B": "$16$",
+    "C": "$32$",
+    "D": "$64$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The two diagonals of square $PQRS$ divide the square into $4$ congruent right triangles, where each triangle has a vertex at the origin of the graph shown. The formula for the area of a triangle is $A = \\frac{1}{2} \\times bh$, where $b$ is the base length of the triangle and $h$ is the height of the triangle. Each of the $4$ congruent right triangles has a height of $4$ units and a base length of $4$ units. Therefore, the area of each triangle is $A = \\frac{1}{2} \\times 4 \\times 4$, or $8$ square units. Since the $4$ right triangles are congruent, the area of each is $\\frac{1}{4}$ of the area of square $PQRS$. It follows that the area of the square $PQRS$ is equal to $4 \\times 8$, or $32$ square units.",
+  "source": "https://cooksat.com/practice?questionId=a7c2e250&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a7c2e250/1-d1a97221a17c2014.png",
+      "kind": "diagram"
+    }
+  ]
+}

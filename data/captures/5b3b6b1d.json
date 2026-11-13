@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5b3b6b1d",
+  "capturedAt": "2026-11-13T22:11:44.092Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nRectangles $JKLM$ and $PQRS$ shown are similar, where $J$, $K$, $L$, and $M$ correspond to $P$, $Q$, $R$, and $S$, respectively. What is the length, in inches $( in )$, of $JM$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$19$",
+    "C": "$21$",
+    "D": "$42$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Because the rectangles are similar with $J$, $K$, $L$, and $M$ corresponding to $P$, $Q$, $R$, and $S$, the side $\\overline{JK}$ corresponds to $\\overline{PQ}$ and the side $\\overline{JM}$ corresponds to $\\overline{PS}$. The figure shows $JK = 18$ inches and $PQ = 6$ inches, so the scale factor from $PQRS$ to $JKLM$ is $\\frac{18}{6} = 3$. Since $PS = 7$ inches, it follows that $JM = 3(7) = 21$ inches.",
+  "source": "https://cooksat.com/practice?questionId=5b3b6b1d&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5b3b6b1d/1-2806c8ffb92fb6ad.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d278a5a8",
+  "capturedAt": "2026-11-13T22:13:10.987Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A triangular prism has a height of $12$ centimeters $(cm)$ and a volume of $420 cm^{3}$. What is the area, in $cm^{2}$, of the base of the prism? (The volume of a triangular prism is equal to $Bh$, where $B$ is the area of the base and $h$ is the height of the prism.)\n\n$$0$$\n\n$$35$$",
+  "choices": {},
+  "correctAnswer": "$35$",
+  "explanation": "The correct answer is $35$. It's given that a triangular prism has a volume of $420$ cubic centimeters $\\left(\\text{cm}^{3}\\right)$ and the volume of a triangular prism is equal to $Bh$, where $B$ is the area of the base and $h$ is the height of the prism. Therefore, $420 = Bh$. It's also given that the triangular prism has a height of $12 \\text{ cm}$. Therefore, $h = 12$. Substituting $12$ for $h$ in the equation $420 = Bh$ yields $420 = B\\left(12\\right)$. Dividing both sides of this equation by $12$ yields $35 = B$. Therefore, the area, in $\\text{cm}^{2}$, of the base of the prism is $35$.",
+  "source": "https://cooksat.com/practice?questionId=d278a5a8&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

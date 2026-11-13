@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "653e4ef1",
+  "capturedAt": "2026-11-13T22:11:54.972Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, triangle $PQR$ is similar to triangle $XYZ$, where $P$ corresponds to $X$ and $Q$ corresponds to $Y$. The length of $PQ$ is $14$, and the perimeter of triangle $PQR$ is $40$. The length of $XY$ is $98$. What is the perimeter of triangle $XYZ$?",
+  "choices": {
+    "A": "$280$",
+    "B": "$560$",
+    "C": "$1,960$",
+    "D": "$13,720$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since triangle $PQR$ is similar to triangle $XYZ$ with $P$ corresponding to $X$ and $Q$ corresponding to $Y$, $\\overline{PQ}$ corresponds to $\\overline{XY}$. For similar triangles, the ratio of perimeters equals the ratio of corresponding side lengths. The scale factor from $\\overline{PQ}$ to $\\overline{XY}$ is $\\frac{98}{14} = 7$. Let $p$ represent the perimeter of triangle $XYZ$. Then $\\frac{p}{40} = 7$, so $p = 7 \\times 40 = 280$.",
+  "source": "https://cooksat.com/practice?questionId=653e4ef1&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/653e4ef1/1-bd51659b06554fc1.png",
+      "kind": "diagram"
+    }
+  ]
+}

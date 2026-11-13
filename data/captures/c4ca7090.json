@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c4ca7090",
+  "capturedAt": "2026-11-13T22:13:05.754Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An artist is making a square mosaic. The artist will use $9$ square tiles, each with a side length of $6$ inches, to make the mosaic. What is the area, in square inches, of the mosaic?",
+  "choices": {
+    "A": "$36$",
+    "B": "$54$",
+    "C": "$162$",
+    "D": "$324$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The area of each square tile is $6^2 = 36$ square inches. Since the mosaic uses $9$ tiles, the total area is $9 \\times 36 = 324$ square inches.",
+  "source": "https://cooksat.com/practice?questionId=c4ca7090&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

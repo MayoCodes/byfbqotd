@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "711c3bda",
+  "capturedAt": "2026-11-13T22:12:02.024Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The circumference of the base of a right circular cylinder is $16\\pi$ feet, and the height of the cylinder is $9$ feet. What is the volume, in cubic feet, of the cylinder?",
+  "choices": {
+    "A": "$72\\pi$",
+    "B": "$144\\pi$",
+    "C": "$576\\pi$",
+    "D": "$2,304\\pi$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The volume, $V$, of a right circular cylinder is given by $V = \\pi r^{2} h$, where $r$ is the radius of the base and $h$ is the height. It's given that $h = 9$. The circumference, $C$, of a circle is given by $C = 2\\pi r$. Substituting $16\\pi$ for $C$ yields $16\\pi = 2\\pi r$. Dividing each side by $2\\pi$ yields $r = 8$. Substituting $8$ for $r$ and $9$ for $h$ in $V = \\pi r^{2} h$ yields $V = \\pi(8)^{2}(9) = 576\\pi$. Therefore, the volume of the cylinder is $576\\pi$ cubic feet.",
+  "source": "https://cooksat.com/practice?questionId=711c3bda&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

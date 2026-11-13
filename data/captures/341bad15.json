@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "341bad15",
+  "capturedAt": "2026-11-13T22:11:05.179Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The length of each side of a square is $73$ inches. Which expression gives the area, in square inches, of the square?",
+  "choices": {
+    "A": "$2 \\times 73$",
+    "B": "$4 \\times 73$",
+    "C": "$73 \\times 73$",
+    "D": "$2 \\times 73 \\times 73$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The area of a square is given by $s^{2}$, where $s$ is the length of each side of the square. It's given that the length of each side of the square is $73$ inches. It follows that the area, in square inches, of the square is $(73)^{2}$, or $73 \\cdot 73$. Therefore, the expression that gives the area, in square inches, of the square is $73 \\cdot 73$.",
+  "source": "https://cooksat.com/practice?questionId=341bad15&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

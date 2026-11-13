@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a55a7c47",
+  "capturedAt": "2026-11-13T22:12:37.526Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Right rectangular prism M is similar to right rectangular prism N. The surface area of right rectangular prism M is $52$ square centimeters ($cm^{2}$), and the surface area of right rectangular prism N is $832$ $cm^{2}$. The volume of right rectangular prism N is $1,280$ cubic centimeters ($cm^{3}$). What is the sum of the volumes, in $cm^{3}$, of right rectangular prism M and right rectangular prism N?\n\n$$0$$\n\n$$1300$$",
+  "choices": {},
+  "correctAnswer": "$1300$",
+  "explanation": "The correct answer is $1300$. Since prisms M and N are similar, all linear measurements of prism N are $k$ times the respective linear measurements of prism M, where $k$ is a positive constant. Therefore, the surface area of prism N is $k^{2}$ times the surface area of prism M, and the volume of prism N is $k^{3}$ times the volume of prism M. Since the surface area of prism N is $832$ $\\text{cm}^2$ and the surface area of prism M is $52$ $\\text{cm}^2$, it follows that $832 = 52k^{2}$. Dividing both sides by $52$ gives $k^{2} = 16$. Since $k$ is positive, $k = 4$. The volume of prism N is $1{,}280$ $\\text{cm}^3$, so the volume of prism M is $\\frac{1{,}280}{k^{3}} = \\frac{1{,}280}{64} = 20$ $\\text{cm}^3$. Thus, the sum of the volumes is $1{,}280 + 20 = 1{,}300$ $\\text{cm}^3$.",
+  "source": "https://cooksat.com/practice?questionId=a55a7c47&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

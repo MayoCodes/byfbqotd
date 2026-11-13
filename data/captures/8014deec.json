@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8014deec",
+  "capturedAt": "2026-11-13T22:12:16.854Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular flower bed has a length of $8$ feet and a width of $5$ feet. What is the perimeter, in feet, of the flower bed?",
+  "choices": {
+    "A": "$13$",
+    "B": "$21$",
+    "C": "$26$",
+    "D": "$40$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The perimeter of a rectangle is found using the formula $P = 2l + 2w$, where $l$ is the length and $w$ is the width. Substituting $8$ for $l$ and $5$ for $w$ gives $P = 2(8) + 2(5) = 16 + 10 = 26$ feet.",
+  "source": "https://cooksat.com/practice?questionId=8014deec&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}

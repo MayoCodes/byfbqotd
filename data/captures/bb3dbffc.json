@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bb3dbffc",
+  "capturedAt": "2026-11-13T22:12:54.420Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A right circular cylinder has a height of $12$ units and a volume of $108\\pi$ cubic units. What is the radius, in units, of the base of the cylinder?\n\n$$0$$\n\n$$3$$",
+  "choices": {},
+  "correctAnswer": "$3$",
+  "explanation": "The correct answer is $3$. The volume $V$ of a right circular cylinder is given by the formula $V = \\pi r^2 h$, where $r$ is the radius of the base and $h$ is the height. It's given that the volume is $108\\pi$ cubic units and the height is $12$ units. Substituting these values into the formula yields $108\\pi = \\pi r^2 (12)$. Dividing both sides by $\\pi$ gives $108 = 12r^2$. Dividing both sides by $12$ yields $9 = r^2$. Taking the square root of both sides gives $r = 3$. Therefore, the radius of the base of the cylinder is $3$ units.",
+  "source": "https://cooksat.com/practice?questionId=bb3dbffc&subject=math&domain=geometry-and-trigonometry&skills=area_and_volume&bank=cooksat",
+  "images": []
+}
