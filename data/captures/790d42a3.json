@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "790d42a3",
+  "capturedAt": "2026-11-13T23:52:42.179Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Identify Valid Scope of Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A study was conducted on the heights of different types of trees in a forest. A random sample of trees were selected and tagged so that none were measured more than once. The sample contained $220$ oak trees, of which $45%$ were taller than $15$ meters. Which of the following conclusions is best supported by the sample data?",
+  "choices": {
+    "A": "The average height of all trees in the forest is approximately $15$ meters.",
+    "B": "Approximately $45%$ of all trees in the forest are taller than $15$ meters.",
+    "C": "Approximately $45%$ of all oak trees in the forest are taller than $15$ meters.",
+    "D": "The majority of all trees in the forest are shorter than $15$ meters."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The sample of $220$ oak trees was selected at random from all the oak trees in the forest, and since $45\\%$ of the oak trees in the sample were taller than $15$ meters, it can be concluded that approximately $45\\%$ of all oak trees in the forest are taller than $15$ meters.",
+  "source": "https://cooksat.com/practice?questionId=790d42a3&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

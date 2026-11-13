@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "865a2f22",
+  "capturedAt": "2026-11-13T23:52:48.999Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Estimate Population Count from Sample",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A certain vineyard contains $348$ one-square-meter plots. To estimate the number of grapevines in the vineyard, a biologist randomly selects $5$ different plots and determines the number of grapevines in each plot. The numbers of grapevines in the sample plots are $18$, $24$, $12$, $31$, and $20$. Based on the mean of the sample, which of the following ranges contains the best estimate for the number of grapevines in the entire vineyard?",
+  "choices": {
+    "A": "$4,000$ to $5,000$",
+    "B": "$6,500$ to $7,000$",
+    "C": "$7,000$ to $7,500$",
+    "D": "$10,500$ to $11,000$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The mean of the $5$ samples is $\\frac{18 + 24 + 12 + 31 + 20}{5} = \\frac{105}{5} = 21$ grapevines per plot. The best estimate for the total number of grapevines in the vineyard is the product of the mean number of grapevines per plot in the sample and the total number of plots in the vineyard. This is $(21)(348) = 7{,}308$, which is between $7{,}000$ and $7{,}500$.",
+  "source": "https://cooksat.com/practice?questionId=865a2f22&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ba76aeb4",
+  "capturedAt": "2026-11-13T23:53:03.398Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Evaluate Value Against Confidence Interval",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A company with $12,000$ employees conducted a survey to determine support for a new workplace policy. A random sample of $250$ employees was selected, and $42%$ of those surveyed supported the policy change. The margin of error for this estimate is $4%$. Based on this information, which of the following is the best estimate for the number of all employees at the company who support the policy change?",
+  "choices": {
+    "A": "Between $4,560$ and $5,520$",
+    "B": "Between $95$ and $115$",
+    "C": "Between $4,200$ and $5,040$",
+    "D": "Between $5,040$ and $5,520$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The sample proportion is $42\\%$ with a margin of error of $4\\%$, so the true population proportion plausibly lies between $42\\% - 4\\% = 38\\%$ and $42\\% + 4\\% = 46\\%$. To estimate the number of all $12{,}000$ employees who support the policy, we calculate $0.38 \\times 12{,}000 = 4{,}560$ for the lower bound and $0.46 \\times 12{,}000 = 5{,}520$ for the upper bound. Therefore, the best estimate is between $4{,}560$ and $5{,}520$ employees.",
+  "source": "https://cooksat.com/practice?questionId=ba76aeb4&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

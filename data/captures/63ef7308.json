@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "63ef7308",
+  "capturedAt": "2026-11-13T23:52:38.979Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Estimate Population Count from Sample",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In District Y, Ms. Alvarez's homeroom consists of $24$ students, and $29.2$ percent of the students in her homeroom reported that they have a part-time job. The average homeroom size in the district is $24$. If the students in Ms. Alvarez's homeroom are representative of students in the district's homerooms and there are $1,500$ homerooms in the district, which of the following best estimates the number of students in the district who do not have a part-time job?",
+  "choices": {
+    "A": "$10,500$",
+    "B": "$18,000$",
+    "C": "$25,500$",
+    "D": "$36,000$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It is given that $29.2\\%$ of the $24$ students in Ms. Alvarez's homeroom reported having a part-time job. Since $29.2\\%$ of $24$ is $7.008$, there must be $7$ students in the homeroom who reported having a part-time job and $24 - 7 = 17$ students who do not. Because Ms. Alvarez's homeroom is representative of all homerooms in the district and the average homeroom size is $24$, each homeroom has about $17$ students without a part-time job. With $1{,}500$ homerooms in the district, the best estimate is $17 \\times 1{,}500 = 25{,}500$.",
+  "source": "https://cooksat.com/practice?questionId=63ef7308&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

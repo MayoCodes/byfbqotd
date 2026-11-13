@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "80887d84",
+  "capturedAt": "2026-11-13T23:52:43.880Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Evaluate Value Against Confidence Interval",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A random sample of $500$ students at a large university was selected and asked whether they plan to attend graduate school. Based on the sample, it is estimated that $58%$ of all students at the university plan to attend graduate school, with an associated margin of error of $4%$. If there are $12,000$ students at the university, which of the following is closest to the plausible range for the number of students who plan to attend graduate school?",
+  "choices": {
+    "A": "$6,960$ to $7,440$",
+    "B": "$6,960$ only",
+    "C": "$6,480$ to $7,440$",
+    "D": "$6,480$ only"
+  },
+  "correctAnswer": "C",
+  "explanation": "The estimate is $58\\%$ with a margin of error of $4\\%$, so plausible values for the proportion range from $58\\% - 4\\% = 54\\%$ to $58\\% + 4\\% = 62\\%$. Applying this to the population of $12{,}000$ students: lower bound is $0.54 \\times 12{,}000 = 6{,}480$ students, and upper bound is $0.62 \\times 12{,}000 = 7{,}440$ students. Therefore, the plausible range is $6{,}480$ to $7{,}440$ students.",
+  "source": "https://cooksat.com/practice?questionId=80887d84&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

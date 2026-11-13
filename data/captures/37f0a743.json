@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "37f0a743",
+  "capturedAt": "2026-11-13T23:52:34.147Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Margin of Error and Sample Size",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A marketing analyst surveyed a random sample of $400$ customers and found that $68%$ of them were satisfied with a new product, with an associated margin of error of $4.6$ percentage points. A second analyst surveyed a random sample of $100$ customers from the same population and found that $72%$ were satisfied, with an associated margin of error of $9.2$ percentage points. Which of the following best explains why the second survey has a larger margin of error?",
+  "choices": {
+    "A": "The second survey has a larger margin of error because its sample size is smaller.",
+    "B": "The second survey has a larger margin of error because $72%$ is greater than $68%$.",
+    "C": "The second survey has a larger margin of error because the first survey was conducted first.",
+    "D": "The second survey has a larger margin of error because the analysts used different methods."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The margin of error decreases as sample size increases. Since the second survey used a sample of only $100$ customers compared to the first survey's $400$ customers, the second survey has a larger margin of error.",
+  "source": "https://cooksat.com/practice?questionId=37f0a743&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

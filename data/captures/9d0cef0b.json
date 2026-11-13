@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9d0cef0b",
+  "capturedAt": "2026-11-13T23:52:53.011Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Margin of Error and Sample Size",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe results of two random samples of residents' responses to a city ballot measure are shown in the table. The samples were drawn from the same population, and the margins of error were calculated using the same method. Which of the following is the most appropriate reason that the margin of error for sample Q is greater than the margin of error for sample P?",
+  "choices": {
+    "A": "Sample Q had a larger sample size.",
+    "B": "Sample Q had a lower percent of favorable responses.",
+    "C": "Sample Q had a larger number of responses that could not be recorded.",
+    "D": "Sample Q had a smaller sample size."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Sample size is an appropriate reason for a change in the margin of error. In general, a smaller sample size produces a larger margin of error because the sample is less likely to be representative of the population. Therefore, sample Q having a smaller sample size than sample P best explains why sample Q's margin of error is greater.",
+  "source": "https://cooksat.com/practice?questionId=9d0cef0b&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/9d0cef0b/1-d9962a485a97840a.png",
+      "kind": "diagram"
+    }
+  ]
+}

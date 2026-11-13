@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d5e6071c",
+  "capturedAt": "2026-11-13T23:53:08.917Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Estimate Population Count from Sample",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "There are $80$ members in a chess club. A sample of the chess club members was selected at random and asked whether they plan to participate in an upcoming weekend tournament. Of those surveyed, $35%$ responded that they plan to participate in the tournament. Based on this survey, which of the following is the best estimate of the total number of chess club members who plan to participate in the tournament?",
+  "choices": {
+    "A": "$28$",
+    "B": "$35$",
+    "C": "$52$",
+    "D": "$80$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. It's given that $35\\%$ of the members surveyed responded that they plan to participate in the tournament. Therefore, the proportion of chess club members who plan to participate in the tournament, based on the survey, is $0.35$. Since there are $80$ total members in the chess club, the best estimate for the total number of these members who plan to participate in the tournament is $80\\left(0.35\\right)$, or $28$.",
+  "source": "https://cooksat.com/practice?questionId=d5e6071c&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fac6a5fc",
+  "capturedAt": "2026-11-13T23:53:19.367Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Evaluate Value Against Confidence Interval",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher conducted a survey of $500$ adults who live in a certain city. The survey respondents were selected at random, and based on the sample, it was estimated that $58%$ of all adults in the city have a library card, with an associated margin of error of $3%$. If there are $1,500$ adults total in the city, which of the following is the most plausible conclusion about the number of adults in the city who have a library card?",
+  "choices": {
+    "A": "The number is between $870$ and $915$.",
+    "B": "The number is between $855$ and $885$.",
+    "C": "The number is between $825$ and $915$.",
+    "D": "The number is exactly $870$."
+  },
+  "correctAnswer": "C",
+  "explanation": "With an estimate of $58\\%$ and a margin of error of $3\\%$, plausible values for the percentage of adults with library cards are between $58\\% - 3\\% = 55\\%$ and $58\\% + 3\\% = 61\\%$. For a population of $1{,}500$ adults, this gives $0.55 \\times 1{,}500 = 825$ to $0.61 \\times 1{,}500 = 915$ adults.",
+  "source": "https://cooksat.com/practice?questionId=fac6a5fc&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

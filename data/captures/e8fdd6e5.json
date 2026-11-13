@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e8fdd6e5",
+  "capturedAt": "2026-11-13T23:53:14.450Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A city official wants to estimate the percent of registered voters in the city who are undecided about an upcoming ballot measure. A random sample of $550$ registered voters in the city were surveyed. Based on the sample, it is estimated that $12.4%$ of all registered voters in the city are undecided about the measure, with an associated margin of error of $3.16%$. Based on the estimate and associated margin of error, which of the following is the most appropriate conclusion about all registered voters in the city?",
+  "choices": {
+    "A": "$3.16%$ of the registered voters are undecided.",
+    "B": "It is plausible that between $9.24%$ and $15.56%$ of the registered voters are undecided.",
+    "C": "$12.4%$ of the registered voters are undecided.",
+    "D": "It is plausible that more than $15.56%$ of the registered voters are undecided."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the estimated percent of undecided registered voters is $12.4\\%$, with an associated margin of error of $3.16\\%$. It follows that plausible values for the percent of undecided registered voters are between $(12.4 - 3.16)\\%$ and $(12.4 + 3.16)\\%$. Therefore, the most appropriate conclusion is that it is plausible that between $9.24\\%$ and $15.56\\%$ of the registered voters are undecided.",
+  "source": "https://cooksat.com/practice?questionId=e8fdd6e5&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

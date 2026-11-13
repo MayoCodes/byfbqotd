@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "83990dd1",
+  "capturedAt": "2026-11-13T23:52:47.346Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A survey was conducted in Brookline to estimate the percent of adult residents who favor the installation of a new bike lane on a main avenue in their town. Based on the survey, it is estimated that $42%$ of all adult residents of Brookline favor the installation of a new bike lane on a main avenue in their town, with an associated margin of error of $5%$. Which of the following is the most appropriate conclusion about all adult residents of Brookline?",
+  "choices": {
+    "A": "The installation of a new bike lane on a main avenue in the town is favored by exactly $37%$ of all adult residents of Brookline.",
+    "B": "Plausible values for the percent of all adult residents of Brookline who favor the installation of a new bike lane on a main avenue in their town are between $37%$ and $47%$.",
+    "C": "Plausible values for the percent of all adult residents of Brookline who favor the installation of a new bike lane on a main avenue in their town are either less than $37%$ or more than $47%$.",
+    "D": "The installation of a new bike lane on a main avenue in the town is favored by more than $47%$ of all adult residents of Brookline."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that an estimated $42\\%$ of all adult residents of Brookline favor the installation of a new bike lane on a main avenue in their town, with an associated margin of error of $5\\%$. It follows that the percent of all adult residents of Brookline who favor the installation is $42\\%$ plus or minus $5\\%$. The lower bound of this estimation is $42 - 5$, or $37\\%$. The upper bound of this estimation is $42 + 5$, or $47\\%$. Therefore, plausible values for the percent of all adult residents of Brookline who favor the installation of a new bike lane on a main avenue in their town are between $37\\%$ and $47\\%$.",
+  "source": "https://cooksat.com/practice?questionId=83990dd1&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

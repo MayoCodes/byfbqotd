@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a54985d5",
+  "capturedAt": "2026-11-13T23:52:57.828Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Estimate Population Count from Sample",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A librarian surveyed $60$ patrons who were selected at random from all the patrons who visited the library yesterday. Of those selected, $18$ patrons reported that they had borrowed an ebook. If $2,000$ patrons visited the library yesterday, which of the following is the most appropriate conclusion?",
+  "choices": {
+    "A": "Exactly $120$ patrons must have borrowed an ebook yesterday.",
+    "B": "Exactly $600$ patrons must have borrowed an ebook yesterday.",
+    "C": "The best estimate for the number of patrons who borrowed an ebook yesterday is $120$.",
+    "D": "The best estimate for the number of patrons who borrowed an ebook yesterday is $600$."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The librarian randomly selected $60$ patrons from a total of $2{,}000$, and $18$ of those $60$ reported borrowing an ebook. The fraction of sampled patrons who borrowed an ebook is $\\frac{18}{60} = \\frac{3}{10}$. Scaling this proportion to the full population gives $\\frac{3}{10} \\times 2{,}000 = 600$. Because this value is based on a random sample, it is an estimate, not an exact count. Therefore, the best estimate for the number of patrons who borrowed an ebook is $600$.",
+  "source": "https://cooksat.com/practice?questionId=a54985d5&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

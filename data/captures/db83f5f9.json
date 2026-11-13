@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db83f5f9",
+  "capturedAt": "2026-11-13T23:53:10.704Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Evaluate Value Against Confidence Interval",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A wildlife conservation group is studying the wingspan of eagles in a national park. A random sample of $50$ eagles was measured, and the sample data showed a mean wingspan of $84$ inches with an associated margin of error of $3$ inches. The park is estimated to contain approximately $2,400$ eagles total. Based on this sample, if $w$ represents a plausible value for the total combined wingspan, in feet, of all eagles in the park, which of the following gives the most appropriate range for $w$? ($1$ foot $= 12$ inches)",
+  "choices": {
+    "A": "$194,400 < w < 208,800$",
+    "B": "$16,600 < w < 17,000$",
+    "C": "$16,200 < w < 17,400$",
+    "D": "$5,400 < w < 5,800$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The margin of error gives a plausible range for the mean wingspan: $84 - 3 = 81$ inches to $84 + 3 = 87$ inches. For $2{,}400$ eagles, the total wingspan ranges from $81 \\times 2{,}400 = 194{,}400$ inches to $87 \\times 2{,}400 = 208{,}800$ inches. Converting to feet by dividing by $12$ (since $1$ foot $= 12$ inches): $194{,}400 \\div 12 = 16{,}200$ feet to $208{,}800 \\div 12 = 17{,}400$ feet.",
+  "source": "https://cooksat.com/practice?questionId=db83f5f9&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

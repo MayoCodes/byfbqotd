@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2cae2c29",
+  "capturedAt": "2026-11-13T23:52:32.368Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the mean battery life of a sample of digital cameras of four brands. The margin of error for each sample mean is $1.5$ hours. Which of the following could NOT be the difference between the mean battery life for all digital cameras of Brand R and the mean battery life for all digital cameras of Brand S?",
+  "choices": {
+    "A": "$0.3$ hour",
+    "B": "$1.7$ hours",
+    "C": "$2.0$ hours",
+    "D": "$3.7$ hours"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Brand R's population mean is plausibly between $4.5$ and $7.5$ hours, and Brand S's is plausibly between $5.0$ and $8.0$ hours. For the signed difference R − S, the greatest value is $7.5 − 5.0 = 2.5$ hours, and the least value is $4.5 − 8.0 = -3.5$ hours. Thus the absolute difference can be as large as $3.5$ hours. Since $3.7$ hours exceeds that maximum, it could NOT be the difference.",
+  "source": "https://cooksat.com/practice?questionId=2cae2c29&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2cae2c29/1-dfeb8fd741245106.png",
+      "kind": "diagram"
+    }
+  ]
+}

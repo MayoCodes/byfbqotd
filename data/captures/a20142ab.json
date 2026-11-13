@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a20142ab",
+  "capturedAt": "2026-11-13T23:52:55.400Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Evaluate Value Against Confidence Interval",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a survey of $400$ adults selected at random, $250$ reported they are satisfied with their current job. The survey has an associated margin of error of $3.5$ percentage points. Based on this survey, which of the following best represents a plausible range for the number of adults satisfied with their current job in a population of $3,000$?",
+  "choices": {
+    "A": "$1,770$ to $1,860$",
+    "B": "$1,845$ to $1,905$",
+    "C": "$1,875$ to $2,010$",
+    "D": "$1,770$ to $1,980$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The sample proportion is $\\frac{250}{400} = 0.625$, or $62.5\\%$. With a margin of error of $3.5$ percentage points, plausible values for the population proportion range from $62.5\\% - 3.5\\% = 59\\%$ to $62.5\\% + 3.5\\% = 66\\%$. For a population of $3{,}000$, this gives $0.59 \\times 3{,}000 = 1{,}770$ to $0.66 \\times 3{,}000 = 1{,}980$ satisfied adults.",
+  "source": "https://cooksat.com/practice?questionId=a20142ab&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "57bec4a3",
+  "capturedAt": "2026-11-13T23:52:37.346Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher surveyed a random sample of $150$ high school students about whether they participate in after-school activities. Based on the sample, $64%$ of students participate in after-school activities, with an associated margin of error of $8$ percentage points. Which of the following is the most appropriate conclusion about the percentage of all students at the high school who participate in after-school activities?",
+  "choices": {
+    "A": "Exactly $64%$ of all students participate in after-school activities.",
+    "B": "It is plausible that between $56%$ and $72%$ of all students participate in after-school activities.",
+    "C": "It is plausible that between $56%$ and $64%$ of all students participate in after-school activities.",
+    "D": "It is plausible that fewer than $56%$ or more than $72%$ of all students participate in after-school activities."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The sample proportion is $64\\%$ with a margin of error of $8$ percentage points. The plausible range for the population proportion is $64\\% - 8\\% = 56\\%$ to $64\\% + 8\\% = 72\\%$.",
+  "source": "https://cooksat.com/practice?questionId=57bec4a3&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

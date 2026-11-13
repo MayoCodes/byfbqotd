@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ab902cdd",
+  "capturedAt": "2026-11-13T23:52:59.815Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the estimated percentage of people in a country who used the Internet in each of the years from $2004$ through $2007$. The margin of error for each estimate is approximately $0.5$ percentage point. Which of the following could be the percentage of people in the country who used the Internet in $2006$?",
+  "choices": {
+    "A": "$15.4$",
+    "B": "$15.8$",
+    "C": "$16.6$",
+    "D": "$17.9$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The table shows that $16.9\\%$ of people in the country used the Internet in $2006$, and the margin of error for this estimate is about $0.5$ percentage point. Therefore, the actual percentage could have been as low as $16.9 - 0.5 = 16.4$ percent or as high as $16.9 + 0.5 = 17.4$ percent. Since $16.6$ falls within this range, it could be the actual percentage.",
+  "source": "https://cooksat.com/practice?questionId=ab902cdd&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/ab902cdd/1-69dcc2594692c2a6.png",
+      "kind": "diagram"
+    }
+  ]
+}

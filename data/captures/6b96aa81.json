@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6b96aa81",
+  "capturedAt": "2026-11-13T23:52:40.573Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Identify Valid Scope of Generalization",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A survey of a random sample of $1,000$ residents of City A found that $56%$ of the respondents would prefer to shop at a new store that was recently built in the city rather than at an older store in the city. The city has a total population of $50,000$ residents. Based on this survey, which of the following conclusions is most appropriate?",
+  "choices": {
+    "A": "Approximately $56%$ of all residents in cities of similar size would prefer to shop at newer stores rather than older stores.",
+    "B": "Exactly $56%$ of all residents in City A prefer to shop at the new store rather than the older store.",
+    "C": "It can be estimated that a majority of all residents in City A would prefer to shop at the new store rather than the older store.",
+    "D": "The survey cannot be used to make estimates about all residents of City A because the sample size is too small relative to the population."
+  },
+  "correctAnswer": "C",
+  "explanation": "Since the sample was selected randomly from City A residents, the results can be generalized to all residents of City A. The sample proportion of $56\\%$ (which is a majority) provides a reasonable estimate that a majority of all City A residents would prefer the new store. This conclusion appropriately limits the inference to the population from which the sample was drawn and recognizes that the sample provides an estimate rather than an exact value.",
+  "source": "https://cooksat.com/practice?questionId=6b96aa81&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "81947181",
+  "capturedAt": "2026-11-13T23:52:45.713Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A sample consisting of $840$ adults who own cars was selected at random for a study. Based on the sample, it is estimated that $47%$ of all adults who own cars use their cars for daily commutes, with an associated margin of error of $2.68%$. Which of the following is the most plausible conclusion about all adults who own cars?",
+  "choices": {
+    "A": "Less than $44.32%$ of all adults who own cars use their cars for daily commutes.",
+    "B": "Between $44.32%$ and $49.68%$ of all adults who own cars use their cars for daily commutes.",
+    "C": "Since the sample included adults who own cars and not just those who use their cars for daily commutes, no conclusion can be made.",
+    "D": "Since the sample did not include all the people who use cars for daily commutes, no conclusion can be made."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that based on a sample selected at random, it's estimated that $47\\%$ of all adults who own cars use their cars for daily commutes, with an associated margin of error of $2.68\\%$. Subtracting the margin of error from the estimate and adding the margin of error to the estimate gives an interval of plausible values for the true percentage of all adults who own cars who use their cars for daily commutes. This means it's plausible that between $47\\% - 2.68\\%$, or $44.32\\%$, and $47\\% + 2.68\\%$, or $49.68\\%$, of all adults who own cars use their cars for daily commutes. Therefore, of the given choices, the most plausible conclusion is that between $44.32\\%$ and $49.68\\%$ of all adults who own cars use their cars for daily commutes.",
+  "source": "https://cooksat.com/practice?questionId=81947181&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

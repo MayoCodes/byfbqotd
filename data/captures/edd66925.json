@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "edd66925",
+  "capturedAt": "2026-11-13T23:53:16.080Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A random sample of $430$ students at a school was asked whether they prefer to eat dinner at home or at a restaurant. Based on the sample, it is estimated that $80%$ of all students at the school prefer to eat dinner at home, with an associated margin of error of $4$ percentage points. Which of the following is a plausible conclusion about all students at the school?",
+  "choices": {
+    "A": "More than $84%$ of all students prefer to eat dinner at home.",
+    "B": "Between $76%$ and $84%$ of all students prefer to eat dinner at home.",
+    "C": "Between $76%$ and $80%$ of all students prefer to eat dinner at home.",
+    "D": "Fewer than $76%$ of all students prefer to eat dinner at home."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The estimate of $80\\%$ with a margin of error of $4$ percentage points means the actual percentage is plausibly between $80\\% - 4\\% = 76\\%$ and $80\\% + 4\\% = 84\\%$.",
+  "source": "https://cooksat.com/practice?questionId=edd66925&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

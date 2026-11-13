@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9a7f57a5",
+  "capturedAt": "2026-11-13T23:52:50.842Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Estimate Population Count from Sample",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA random sample of $500$ shoppers at a shopping center were asked whether they prefer Brand X or Brand Y coffee. The results are shown in the table above. The shopping center serves a total of $8,000$ regular shoppers. Based on the table, what is the best estimate of the number of shoppers who prefer Brand X?",
+  "choices": {},
+  "correctAnswer": "$$3600$$",
+  "explanation": "The correct answer is $3600$. According to the table, of the $500$ shoppers randomly sampled, the total number of adults and seniors who prefer Brand X is $173 + 52 = 225$. The best estimate of the total number of shoppers who prefer Brand X is the fraction of sampled shoppers who prefer Brand X, $\\frac{225}{500}$, multiplied by the total population of $8{,}000$. Therefore, the answer is $\\left(\\frac{225}{500}\\right) \\times 8{,}000 = 3{,}600$.",
+  "source": "https://cooksat.com/practice?questionId=9a7f57a5&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/9a7f57a5/1-b0da131ec5213950.png",
+      "kind": "diagram"
+    }
+  ]
+}

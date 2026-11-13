@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "092d23bc",
+  "capturedAt": "2026-11-13T23:52:28.207Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Evaluate Value Against Confidence Interval",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher is studying the prevalence of a particular health condition in a city with a population of $6,000$ adults. The researcher surveys a random sample of $400$ adults from the city and finds that $140$ adults in the sample have the health condition. The proportion of adults in the city who have the health condition is estimated with an associated margin of error of $7$ percentage points. Based on this estimate and margin of error, which of the following represents the most plausible range for the number of adults in the entire city who have the health condition?",
+  "choices": {
+    "A": "Between $2,000$ and $2,200$ adults",
+    "B": "Between $1,890$ and $2,310$ adults",
+    "C": "Between $1,960$ and $2,240$ adults",
+    "D": "Between $1,680$ and $2,520$ adults"
+  },
+  "correctAnswer": "D",
+  "explanation": "The sample proportion is $\\frac{140}{400}=0.35$ or $35\\%$. With a margin of error of $7$ percentage points, the plausible range for the population proportion is between $35\\%-7\\%=28\\%$ and $35\\%+7\\%=42\\%$. Scaling to the city's population of $6{,}000$ adults gives a range from $0.28 \\times 6{,}000=1{,}680$ to $0.42 \\times 6{,}000=2{,}520$ adults.",
+  "source": "https://cooksat.com/practice?questionId=092d23bc&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

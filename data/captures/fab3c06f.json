@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fab3c06f",
+  "capturedAt": "2026-11-13T23:53:17.713Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A librarian surveyed a random sample of patrons about how many books they checked out last year. Based on the responses, the estimated mean was found to be $7.2$ books, with an associated margin of error of $0.8$ books. Which of the following is the best conclusion from these data?",
+  "choices": {
+    "A": "It is likely that all patrons checked out between $6.4$ and $8.0$ books.",
+    "B": "It is likely that most patrons checked out exactly $7.2$ books.",
+    "C": "It is not possible that any patron checked out fewer than $5$ books.",
+    "D": "It is plausible that the mean number of books checked out for all patrons is between $6.4$ and $8.0$."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The estimated mean has an associated margin of error because the population mean can't be determined precisely from a sample. Instead, an interval can be constructed within which it is plausible that the population mean lies. Since the estimated mean is $7.2$ books with an associated margin of error of $0.8$ books, it is plausible that the mean number of books checked out for all patrons is between $7.2 - 0.8$ and $7.2 + 0.8$, or between $6.4$ and $8.0$.",
+  "source": "https://cooksat.com/practice?questionId=fab3c06f&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

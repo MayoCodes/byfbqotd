@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0270ebd8",
+  "capturedAt": "2026-11-13T23:52:24.038Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher conducted a survey to estimate the percentage of all adults in a town who own at least one car. The population of the town is $22,000$ adults. Of the $1,800$ adults surveyed, $1,134$ reported owning at least one car. If the margin of error of the survey is $4.5%$, which of the following is the most appropriate conclusion about the percentage of all adults in the town who own at least one car?",
+  "choices": {
+    "A": "It is likely between $58.5%$ and $67.5%$.",
+    "B": "It is likely between $54%$ and $72%$.",
+    "C": "It is likely between $60%$ and $66%$.",
+    "D": "It is likely between $63%$ and $72%$."
+  },
+  "correctAnswer": "A",
+  "explanation": "The percentage of adults surveyed who own at least one car is $\\frac{1{,}134}{1{,}800} = 0.63 = 63\\%$. With a margin of error of $4.5\\%$, the plausible values for the population percentage are $63\\% \\pm 4.5\\%$, which gives the interval from $58.5\\%$ to $67.5\\%$.",
+  "source": "https://cooksat.com/practice?questionId=0270ebd8&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

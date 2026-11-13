@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "caccb8e0",
+  "capturedAt": "2026-11-13T23:53:07.126Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Estimate Population Count from Sample",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A random sample of $40$ residents from a city with a population of $12,683$ were asked to name their preferred mode of commuting. If $9$ residents in the sample named biking as their preferred mode, about how many residents in the city would be expected to name biking?",
+  "choices": {
+    "A": "$360$",
+    "B": "$2,900$",
+    "C": "$6,300$",
+    "D": "$9,800$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Let $x$ be the number of residents in the entire city expected to name biking. Since the sample of $40$ residents was selected at random, the proportion who named biking should be approximately the same in the sample and in the city population. This gives $\\frac{9}{40} = \\frac{x}{12{,}683}$. Cross-multiplying yields $9 \\times 12{,}683 = 40x$, so $x = \\frac{114{,}147}{40} \\approx 2{,}854$. The choice closest to $2{,}854$ is $2{,}900$.",
+  "source": "https://cooksat.com/practice?questionId=caccb8e0&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

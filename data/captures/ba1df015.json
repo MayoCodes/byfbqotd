@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ba1df015",
+  "capturedAt": "2026-11-13T23:53:01.713Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A quality control inspector at a factory tested a random sample of light bulbs to estimate the mean lifetime of all light bulbs produced that day. Based on the sample, the mean lifetime was estimated to be $1,200$ hours, with an associated margin of error of $45$ hours. Which of the following is the most appropriate conclusion about the mean lifetime of all light bulbs produced that day?",
+  "choices": {
+    "A": "The mean lifetime is at least $1,200$ hours.",
+    "B": "The mean lifetime is exactly $1,200$ hours.",
+    "C": "The mean lifetime is between $1,110$ hours and $1,290$ hours.",
+    "D": "The mean lifetime is between $1,155$ hours and $1,245$ hours."
+  },
+  "correctAnswer": "D",
+  "explanation": "The estimated mean lifetime is $1{,}200$ hours with a margin of error of $45$ hours. Plausible values for the mean lifetime are between $1{,}200 - 45 = 1{,}155$ hours and $1{,}200 + 45 = 1{,}245$ hours.",
+  "source": "https://cooksat.com/practice?questionId=ba1df015&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

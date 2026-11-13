@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c358cb12",
+  "capturedAt": "2026-11-13T23:53:05.272Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Estimate Population Count from Sample",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A school district employs $80$ teachers. A researcher surveyed a random sample of $30$ teachers and found that $12$ of those surveyed favored a new attendance policy. Based on the sample, which of the following is the best estimate of the number of teachers in the district who favor the new policy?",
+  "choices": {
+    "A": "$12$",
+    "B": "$20$",
+    "C": "$32$",
+    "D": "$50$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Because the sample of teachers was randomly selected, the proportion of the sample who favor the new policy is expected to be approximately equal to the proportion of all teachers in the district who favor it. Since $12$ of the $30$ surveyed, or $40\\%$, favored the policy, the estimated number of teachers in the district who favor the policy is $80 \\times 0.4$, or $32$.",
+  "source": "https://cooksat.com/practice?questionId=c358cb12&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

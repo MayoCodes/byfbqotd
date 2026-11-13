@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dc96ba92",
+  "capturedAt": "2026-11-13T23:53:12.829Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A random sample was selected from a population to estimate the proportion of the population that prefers a certain product. Based on the sample, the estimated proportion is $0.37$, with an associated margin of error of $0.05$. Based on this estimate and margin of error, which of the following is the most appropriate conclusion about the proportion of the population that prefers the product?",
+  "choices": {
+    "A": "It is plausible that the proportion is less than $0.32$.",
+    "B": "It is plausible that the proportion is between $0.32$ and $0.42$.",
+    "C": "It is plausible that the proportion is greater than $0.42$.",
+    "D": "The proportion is exactly $0.37$."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The estimated proportion is $0.37$ with an associated margin of error of $0.05$. Subtracting the margin of error from the estimate and adding the margin of error to the estimate yields an interval of plausible values for the true population proportion: $0.37 - 0.05 = 0.32$ and $0.37 + 0.05 = 0.42$. Therefore, it is plausible that the proportion of the population that prefers the product is between $0.32$ and $0.42$.",
+  "source": "https://cooksat.com/practice?questionId=dc96ba92&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

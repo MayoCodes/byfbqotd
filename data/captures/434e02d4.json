@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "434e02d4",
+  "capturedAt": "2026-11-13T23:52:35.746Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Estimate Population Count from Sample",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher examined a random sample of $25$ trees in a large park. The researcher found that $6$ of these trees showed signs of disease. If there are $375$ trees in the park, which of the following is the best estimate of the number of trees that show signs of disease?",
+  "choices": {
+    "A": "$5$",
+    "B": "$7$",
+    "C": "$15$",
+    "D": "$90$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In the random sample of $25$ trees, $6$ showed signs of disease. The proportion of trees in the sample that showed signs of disease is $\\frac{6}{25}$, or $0.24$. Since the sample was selected randomly, this proportion is expected to be approximately equal to the proportion of all trees in the park that show signs of disease. Since there are $375$ trees in the park, the best estimate of the number of trees that show signs of disease is $(0.24)(375)$, or $90$.",
+  "source": "https://cooksat.com/practice?questionId=434e02d4&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

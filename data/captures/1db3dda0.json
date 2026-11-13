@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1db3dda0",
+  "capturedAt": "2026-11-13T23:52:30.550Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher surveyed a random sample of $20$ students at a university about the number of courses they were enrolled in. The mean number of courses for the sample was $4.2$, with an associated margin of error of $0.6$. Which of the following is the most plausible conclusion about the mean number of courses for all students at the university?",
+  "choices": {
+    "A": "It is plausible that the mean number of courses for all students at the university is between $3.6$ and $4.8$.",
+    "B": "It is plausible that the mean number of courses for all students at the university is between $4.2$ and $4.8$.",
+    "C": "It is plausible that the mean number of courses for all students at the university is between $3.6$ and $4.2$.",
+    "D": "It is plausible that the mean number of courses for all students at the university is between $3.0$ and $5.4$."
+  },
+  "correctAnswer": "A",
+  "explanation": "The margin of error creates a plausible range for the population mean by adding and subtracting from the sample mean. With a sample mean of $4.2$ and a margin of error of $0.6$, the plausible range is $4.2 - 0.6 = 3.6$ to $4.2 + 0.6 = 4.8$.",
+  "source": "https://cooksat.com/practice?questionId=1db3dda0&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}

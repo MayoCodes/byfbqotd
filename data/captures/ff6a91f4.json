@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff6a91f4",
+  "capturedAt": "2026-11-13T23:53:21.197Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A researcher recorded the price of a $1$-pound bag of organic almonds at $45$ randomly selected stores in Oregon. The mean price of a $1$-pound bag of organic almonds in Oregon was estimated to be $$7.62$, with an associated margin of error of $$0.15$. Which of the following is a plausible statement about the mean price of a $1$-pound bag of organic almonds for all stores that sell this product in Oregon?",
+  "choices": {
+    "A": "It is less than $$7.47$.",
+    "B": "It is between $$7.47$ and $$7.77$.",
+    "C": "It is either less than $$7.47$ or greater than $$7.77$.",
+    "D": "It is greater than $$7.77$."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that the mean price of a $1$-pound bag of organic almonds in Oregon was estimated to be $$7.62$, with an associated margin of error of $$0.15$. It follows that plausible values for this mean price are between $7.62 - \\ 0.15 and \\$$7.62 + \\ 0.15$. Therefore, it's plausible that the mean price of a$1-pound bag of organic almonds for all stores that sell this product in Oregon is between \\$$7.47 and $$7.77$.",
+  "source": "https://cooksat.com/practice?questionId=ff6a91f4&subject=math&domain=problem-solving-and-data-analysis&skills=inference_from_sample_statistics_and_margin_of_error&bank=cooksat",
+  "images": []
+}
