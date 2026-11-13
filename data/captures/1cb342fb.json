@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1cb342fb",
+  "capturedAt": "2026-11-13T23:49:26.008Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Conditional Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A jar contains a total of $350$ marbles. Each marble is colored either red, blue, or green. If one of these marbles is selected at random, the probability of selecting a red marble is $0.32$ and the probability of selecting a blue marble is $0.28$. How many of the marbles are green?",
+  "choices": {},
+  "correctAnswer": "$$140$$",
+  "explanation": "The correct answer is $140$. It's given that the jar contains a total of $350$ marbles, each colored red, blue, or green, and that the probability of selecting a red marble is $0.32$ and the probability of selecting a blue marble is $0.28$. It follows that there are $0.32(350)$, or $112$, red marbles and $0.28(350)$, or $98$, blue marbles. The number of green marbles is the total number of marbles minus the number of red and blue marbles. Therefore, the number of green marbles is $350 - 112 - 98$, or $140$.",
+  "source": "https://cooksat.com/practice?questionId=1cb342fb&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

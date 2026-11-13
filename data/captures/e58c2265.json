@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e58c2265",
+  "capturedAt": "2026-11-13T23:50:46.115Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nTo the nearest tenth of a percent, what percent of cities that require a city license do not have a property tax?",
+  "choices": {
+    "A": "$8.0%$",
+    "B": "$12.9%$",
+    "C": "$14.5%$",
+    "D": "$16.1%$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The sum of the number of cities that require a city license is $47 + 8 = 55$. Of these cities, $8$ do not have a property tax. Therefore, $\\frac{8}{55} = 0.1454\\ldots$, or about $14.5\\%$, of cities that require a city license do not have a property tax.",
+  "source": "https://cooksat.com/practice?questionId=e58c2265&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e58c2265/1-779b590fdfc0f266.png",
+      "kind": "diagram"
+    }
+  ]
+}

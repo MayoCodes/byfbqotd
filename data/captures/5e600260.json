@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5e600260",
+  "capturedAt": "2026-11-13T23:49:45.116Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shown gives information about $14$ houseplants on display at a garden store. If one of the houseplants is selected at random, what is the probability that the houseplant selected will be an outdoor plant that is small?",
+  "choices": {
+    "A": "$\\frac{1}{7}$",
+    "B": "$\\frac{2}{7}$",
+    "C": "$\\frac{1}{3}$",
+    "D": "$\\frac{4}{7}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. According to the table, there are $2$ houseplants that are both outdoor and small. The total number of houseplants is $14$. Therefore, the probability of randomly selecting an outdoor plant that is small is $\\frac{2}{14} = \\frac{1}{7}$.",
+  "source": "https://cooksat.com/practice?questionId=5e600260&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/5e600260/1-9e1c62a6c28514bd.png",
+      "kind": "diagram"
+    }
+  ]
+}

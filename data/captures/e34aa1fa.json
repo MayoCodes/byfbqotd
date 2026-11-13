@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e34aa1fa",
+  "capturedAt": "2026-11-13T23:50:41.629Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the distribution of $100$ students based on whether they play a sport and whether they play a musical instrument. If a student is selected at random, what is the probability that the student plays a sport or plays an instrument?",
+  "choices": {
+    "A": "$\\frac{6}{(25)}$",
+    "B": "$\\frac{2}{5}$",
+    "C": "$\\frac{3}{5}$",
+    "D": "$\\frac{(19)}{(25)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The students who play a sport or an instrument include everyone except those who do neither. The number who do neither is $24$. Therefore, the number who play at least one is $100 - 24 = 76$. The probability is $\\frac{76}{100} = \\frac{19}{25}$.",
+  "source": "https://cooksat.com/practice?questionId=e34aa1fa&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e34aa1fa/1-409de5249fa793c7.png",
+      "kind": "diagram"
+    }
+  ]
+}

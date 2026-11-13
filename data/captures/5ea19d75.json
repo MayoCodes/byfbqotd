@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5ea19d75",
+  "capturedAt": "2026-11-13T23:49:47.152Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table summarizes the number of households with and without a pet in a random sample of $500$ households. What is the probability that a household chosen at random from the sample has a pet and has more than one person?",
+  "choices": {
+    "A": "$0.13$",
+    "B": "$0.39$",
+    "C": "$0.52$",
+    "D": "$0.75$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The number of households that have a pet and have more than one person is $195$. The total number of households in the sample is $65 + 35 + 195 + 205 = 500$. The probability is $\\frac{195}{500} = 0.39$.",
+  "source": "https://cooksat.com/practice?questionId=5ea19d75&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/5ea19d75/1-9852e6b4f88c2eff.png",
+      "kind": "diagram"
+    }
+  ]
+}

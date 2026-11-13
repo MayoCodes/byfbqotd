@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "71546132",
+  "capturedAt": "2026-11-13T23:49:55.147Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Each face of a fair $18$-sided die is labeled with a number from $1$ through $18$, with a different number appearing on each face. If the die is rolled one time, what is the probability of rolling a $5$?",
+  "choices": {
+    "A": "$\\frac{1}{(18)}$",
+    "B": "$\\frac{5}{(18)}$",
+    "C": "$\\frac{(13)}{(18)}$",
+    "D": "$\\frac{(17)}{(18)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The total number of possible outcomes for rolling a fair $18$-sided die is $18$. The number of possible outcomes for rolling a $5$ is $1$. The probability of rolling a $5$ is the number of possible outcomes for rolling a $5$ divided by the total number of possible outcomes, or $\\frac{1}{18}$.",
+  "source": "https://cooksat.com/practice?questionId=71546132&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

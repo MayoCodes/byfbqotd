@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5d8901bf",
+  "capturedAt": "2026-11-13T23:49:43.227Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Conditional Probability from Two-Way Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A shelf contains a total of $80$ books. A book is to be chosen at random from the shelf. If the probability that a mystery book will be chosen is $0.45$, how many books on the shelf are mystery books?",
+  "choices": {
+    "A": "$35$",
+    "B": "$36$",
+    "C": "$44$",
+    "D": "$45$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Multiplying the total number of books on the shelf by the probability of selecting a mystery book gives the number of mystery books on the shelf. Since the shelf contains a total of $80$ books and the probability that a mystery book will be selected is $0.45$, there are a total of $0.45 \\times 80 = 36$ mystery books on the shelf.",
+  "source": "https://cooksat.com/practice?questionId=5d8901bf&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

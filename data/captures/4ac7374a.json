@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4ac7374a",
+  "capturedAt": "2026-11-13T23:49:39.948Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At a particular greenhouse, $17$ out of every $100$ seeds of a certain plant germinate successfully. A seed from this batch will be selected at random. What is the probability of selecting a seed that germinates successfully?",
+  "choices": {
+    "A": "$11,700$",
+    "B": "$\\frac{1}{(17)}$",
+    "C": "$\\frac{(17)}{(100)}$",
+    "D": "$\\frac{(17)}{(10)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. It's given that $17$ out of every $100$ seeds germinate successfully. It follows that if the greenhouse has $k$ seeds, then the number of seeds that germinate successfully is $\\frac{17}{100}k$, for some constant $k$. If a seed is selected at random, the probability of selecting a seed that germinates successfully is given by the number of germinating seeds, $\\frac{17}{100}k$, divided by the total number of seeds, $k$. Therefore, the probability is $\\frac{\\frac{17}{100}k}{k}$, or $\\frac{17}{100}$.",
+  "source": "https://cooksat.com/practice?questionId=4ac7374a&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

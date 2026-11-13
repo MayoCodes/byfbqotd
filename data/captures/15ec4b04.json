@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "15ec4b04",
+  "capturedAt": "2026-11-13T23:49:19.782Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nEach of $143$ seashells can be classified as one of three types, as shown in the frequency table. If one of the seashells is selected at random, what is the probability of selecting a seashell of type Q?",
+  "choices": {
+    "A": "$\\frac{7}{(143)}$",
+    "B": "$\\frac{(52)}{(143)}$",
+    "C": "$\\frac{(84)}{(143)}$",
+    "D": "$\\frac{(136)}{(143)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. If one of the seashells is selected at random, the probability of selecting a seashell of type Q is equal to the number of seashells of type Q divided by the total number of seashells. According to the table, there are $7$ seashells of type Q, and it's given that the total number of seashells is $143$. Therefore, if one of the seashells is selected at random, the probability of selecting a seashell of type Q is $\\frac{7}{143}$.",
+  "source": "https://cooksat.com/practice?questionId=15ec4b04&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/15ec4b04/1-367a2e6d839288be.png",
+      "kind": "diagram"
+    }
+  ]
+}

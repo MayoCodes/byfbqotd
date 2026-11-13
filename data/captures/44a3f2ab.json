@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "44a3f2ab",
+  "capturedAt": "2026-11-13T23:49:36.249Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nEach of $142$ rocks can be classified as one of three types, as shown in the frequency table.\n\nIf one of the rocks is selected at random, what is the probability of selecting a rock of type metamorphic?",
+  "choices": {
+    "A": "$\\frac{5}{(142)}$",
+    "B": "$\\frac{(53)}{(142)}$",
+    "C": "$\\frac{(84)}{(142)}$",
+    "D": "$\\frac{(137)}{(142)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. If a rock is selected at random, the probability of selecting a rock of type metamorphic is the count of metamorphic rocks divided by the total count of rocks. It's given that there are $142$ rocks. It follows that the total count of rocks is $142$. In the frequency table shown, type metamorphic has a frequency of $5$. It follows that the count of metamorphic rocks is $5$. Therefore, if a rock is selected at random, the probability of selecting a rock of type metamorphic is $\\frac{5}{142}$.",
+  "source": "https://cooksat.com/practice?questionId=44a3f2ab&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/44a3f2ab/1-6e4abe85c95d3e82.png",
+      "kind": "diagram"
+    }
+  ]
+}

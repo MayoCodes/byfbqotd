@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "81299245",
+  "capturedAt": "2026-11-13T23:50:06.813Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A jar contains $5$ strawberry candies, $7$ lemon candies, and $8$ mint candies. Two candies are selected at random without replacement. Given that the first candy selected is strawberry, what is the probability that the second candy selected is either lemon or mint?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{15}{19},.7894,.7895,0.789$$",
+  "explanation": "The correct answer is $\\frac{15}{19}$. After a strawberry candy is removed, $19$ candies remain: $4$ strawberry, $7$ lemon, and $8$ mint. The number of favorable outcomes is $7 + 8 = 15$. The probability is $\\frac{15}{19} \\approx 0.789$.",
+  "source": "https://cooksat.com/practice?questionId=81299245&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e10394b7",
+  "capturedAt": "2026-11-13T23:50:39.566Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table summarizes the distribution of size and pattern for $200$ marbles of equal mass. If one of these marbles is selected at random, what is the probability of selecting a small marble? (Express your answer as a decimal or fraction, not as a percent.)",
+  "choices": {},
+  "correctAnswer": "$$\\frac{1}{4},.25,0.25$$",
+  "explanation": "The correct answer is $\\frac{1}{4}$. It's given that there are a total of $200$ marbles of equal mass, which is the total number of possible outcomes. According to the table, there are a total of $50$ small marbles. The probability of an event occurring is the ratio of the number of favorable outcomes to the total number of possible outcomes. By definition, the probability of selecting a small marble is given by $\\frac{50}{200}$, or $\\frac{1}{4}$. Note that 1/4, .25, and 0.25 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=e10394b7&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e10394b7/1-f9b986b711e151a1.png",
+      "kind": "diagram"
+    }
+  ]
+}

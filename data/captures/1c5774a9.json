@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1c5774a9",
+  "capturedAt": "2026-11-13T23:49:23.596Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nIn a study of commuting habits, $612$ randomly selected adult commuters were asked about the length of their typical commute and whether they use public transit daily. The data are summarized in the table shown. If one of the $612$ commuters surveyed is selected at random, what is the probability that the commuter uses public transit daily?",
+  "choices": {
+    "A": "$\\frac{1}{(612)}$",
+    "B": "$\\frac{(264)}{(612)}$",
+    "C": "$\\frac{(264)}{(348)}$",
+    "D": "$\\frac{(348)}{(612)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. If one of the commuters surveyed is selected at random, the probability that the commuter uses public transit daily is equal to the quotient of the total number of commuters who reported using public transit daily, $348$, and the total number of commuters surveyed, $612$. Therefore, this probability is equal to $\\frac{348}{612}$.",
+  "source": "https://cooksat.com/practice?questionId=1c5774a9&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/1c5774a9/1-0ede7bc28f25c263.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99951c83",
+  "capturedAt": "2026-11-13T23:50:15.029Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A bag contains $12$ marbles, each labeled with one of the $12$ integers from $1$ to $12$, with a different integer on each marble. If one marble is selected at random from the bag, what is the probability that the selected marble will be labeled with the integer $7$? (Express your answer as a decimal or fraction, not as a percent.)",
+  "choices": {},
+  "correctAnswer": "$$\\frac{1}{12},.0833,0.083$$",
+  "explanation": "The correct answer is $\\frac{1}{12}$. If one marble is selected at random from the bag, the probability that the selected marble will be labeled with the integer $7$ is equal to the number of marbles labeled with $7$ divided by the total number of marbles. Since each marble is labeled with a different integer from $1$ to $12$, there is $1$ marble labeled with the integer $7$, and there are $12$ marbles in total. Thus, the probability is $\\frac{1}{12}$. Note that 1/12, .0833, and 0.083 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=99951c83&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

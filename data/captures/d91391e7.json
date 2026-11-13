@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d91391e7",
+  "capturedAt": "2026-11-13T23:50:37.196Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of students at a school classified by gender and dominant hand. What is the probability that a randomly selected student is male, given that the student is left-handed?",
+  "choices": {
+    "A": "$\\frac{1}{(10)}$",
+    "B": "$\\frac{2}{5}$",
+    "C": "$\\frac{3}{5}$",
+    "D": "$\\frac{9}{(10)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The total number of left-handed students is $12 + 18 = 30$. Of those, $18$ are male. The probability is $\\frac{18}{30} = \\frac{3}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=d91391e7&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d91391e7/1-4c1222e7332f6c37.png",
+      "kind": "diagram"
+    }
+  ]
+}

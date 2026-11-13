@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b730d9b",
+  "capturedAt": "2026-11-13T23:50:04.343Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nHuman blood can be classified into four common blood types—A, B, AB, and O. It is also characterized by the presence $(+)$ or absence $(-)$ of the rhesus factor. The table shown gives the distribution of blood type and rhesus factor for a group of people. If one of these people who is rhesus negative $(-)$ is chosen at random, the probability that the person has blood type B is $\\frac{1}{8}$. What is the value of $x$?",
+  "choices": {},
+  "correctAnswer": "$$13$$",
+  "explanation": "The correct answer is $13$. In this group, $\\frac{1}{8}$ of the people who are rhesus negative have blood type B. The total number of people who are rhesus negative in the group is $x + 3 + 6 + 2$, and there are $3$ people who are rhesus negative with blood type B. Therefore, $\\frac{3}{x + 3 + 6 + 2} = \\frac{1}{8}$. Combining like terms in the denominator yields $\\frac{3}{x + 11} = \\frac{1}{8}$. Multiplying both sides of this equation by $8$ yields $\\frac{24}{x + 11} = 1$, and multiplying both sides of this equation by $(x + 11)$ yields $24 = x + 11$. Subtracting $11$ from both sides of this equation yields $x = 13$.",
+  "source": "https://cooksat.com/practice?questionId=7b730d9b&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/7b730d9b/1-b862a4c0f0269ad3.png",
+      "kind": "diagram"
+    }
+  ]
+}

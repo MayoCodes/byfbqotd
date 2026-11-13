@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0a02013d",
+  "capturedAt": "2026-11-13T23:49:15.364Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A jar contains $48$ marbles: $18$ are yellow, $20$ are green, and $10$ are purple. If one marble is randomly selected and removed from the jar, and that marble is yellow, what is the probability that a second marble randomly selected from the jar will also be yellow?",
+  "choices": {
+    "A": "$\\frac{(17)}{(47)}$",
+    "B": "$\\frac{3}{8}$",
+    "C": "$\\frac{(18)}{(47)}$",
+    "D": "$\\frac{9}{(23)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Given that the first marble selected was yellow, there are now $18 - 1 = 17$ yellow marbles remaining and $48 - 1 = 47$ total marbles remaining in the jar. Therefore, the probability that the second marble selected is also yellow is $\\frac{17}{47}$.",
+  "source": "https://cooksat.com/practice?questionId=0a02013d&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

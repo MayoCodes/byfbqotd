@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c454fa05",
+  "capturedAt": "2026-11-13T23:50:27.514Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In a bag, there are 3 red balls, 4 blue balls, and 5 green balls. If one ball is randomly selected from the bag, what is the probability that the ball is either red or blue? (Express your answer as a decimal or fraction, not as a percent.)",
+  "choices": {},
+  "correctAnswer": "$$\\frac{7}{12},.5833,0.583$$",
+  "explanation": "The correct answer is $\\frac{7}{12}$. To find the probability that the ball is either red or blue, first determine the total number of balls in the bag. There are $3$ red balls, $4$ blue balls, and $5$ green balls, giving a total of $3 + 4 + 5$, or $12$ balls. Next, find the number of favorable outcomes, which is the number of ways to select either a red or a blue ball. There are $3$ red balls and $4$ blue balls, so the number of favorable outcomes is $3 + 4$, or $7$. The probability of an event is the ratio of the number of favorable outcomes to the total number of possible outcomes. Therefore, the probability of selecting a ball that is either red or blue is $\\frac{7}{12}$. This fraction is already in simplest form. Note that 7/12, .5833, and 0.583 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=c454fa05&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "365feb45",
+  "capturedAt": "2026-11-13T23:49:34.580Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a certain club with $12$ members, $3$ of the members play a musical instrument. If one of the $12$ members is selected at random, what is the probability that the selected member plays a musical instrument?",
+  "choices": {
+    "A": "$\\frac{1}{(12)}$",
+    "B": "$\\frac{1}{4}$",
+    "C": "$\\frac{1}{3}$",
+    "D": "$4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The probability that the selected member plays a musical instrument is calculated by dividing the number of members who play a musical instrument by the total number of members. It's given that $3$ of the $12$ members play a musical instrument. Therefore, the probability is $\\frac{3}{12}$, which is equivalent to $\\frac{1}{4}$.",
+  "source": "https://cooksat.com/practice?questionId=365feb45&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

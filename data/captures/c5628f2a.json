@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c5628f2a",
+  "capturedAt": "2026-11-13T23:50:31.180Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "There are $25$ marbles in a jar: $5$ red marbles, $9$ green marbles, and $11$ yellow marbles. If one of these marbles is selected at random, what is the probability of selecting a green marble?",
+  "choices": {
+    "A": "$\\frac{5}{(25)}$",
+    "B": "$\\frac{9}{(25)}$",
+    "C": "$\\frac{(11)}{(25)}$",
+    "D": "$\\frac{(16)}{(25)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. There are $25$ marbles in the jar and $9$ of the marbles are green. If one marble from the jar is selected at random, the probability of selecting a green marble is the number of green marbles in the jar divided by the total number of marbles in the jar. Therefore, the probability of selecting a green marble is $\\frac{9}{25}$.",
+  "source": "https://cooksat.com/practice?questionId=c5628f2a&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

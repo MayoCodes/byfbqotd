@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d11ac6b7",
+  "capturedAt": "2026-11-13T23:50:32.899Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table summarizes patrons who visited a library last week by membership type and number of books borrowed. If a patron from last week is selected at random, what is the probability that the selected patron is a non-student?",
+  "choices": {
+    "A": "$\\frac{(48)}{(160)}$",
+    "B": "$\\frac{(70)}{(160)}$",
+    "C": "$\\frac{(90)}{(160)}$",
+    "D": "$\\frac{(112)}{(160)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Based on the table, there are a total of $160$ patrons who visited the library last week, and $112$ of these patrons are non-students. If a patron from last week is selected at random, the probability that the selected patron is a non-student is equal to the number of non-student patrons divided by the total number of patrons. Therefore, the probability that the selected patron is a non-student is $\\frac{112}{160}$.",
+  "source": "https://cooksat.com/practice?questionId=d11ac6b7&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d11ac6b7/1-7e8740adbb6e8727.png",
+      "kind": "diagram"
+    }
+  ]
+}

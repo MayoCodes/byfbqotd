@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b115ed0e",
+  "capturedAt": "2026-11-13T23:50:18.984Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of participants in a survey grouped by age. If one of the participants is selected at random, what is the probability that the participant is in the $20$ to $29$ age group?",
+  "choices": {
+    "A": "$\\frac{1}{5}$",
+    "B": "$\\frac{6}{(25)}$",
+    "C": "$\\frac{7}{(25)}$",
+    "D": "$\\frac{2}{5}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The total number of participants is $70 + 84 + 98 + 98 = 350$. There are $84$ participants in the $20$ to $29$ age group. The probability is $\\frac{84}{350} = \\frac{6}{25}$.",
+  "source": "https://cooksat.com/practice?questionId=b115ed0e&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b115ed0e/1-d549c203d5998375.png",
+      "kind": "diagram"
+    }
+  ]
+}

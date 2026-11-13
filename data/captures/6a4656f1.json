@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6a4656f1",
+  "capturedAt": "2026-11-13T23:49:53.071Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A school's robotics club has $60$ members. Each member specializes in either hardware or software. Additionally, each member is classified as either a beginner or advanced. Among the members, $30$ are beginners and $30$ are advanced. Of the $30$ beginners, $12$ specialize in hardware and $18$ specialize in software. Of the $30$ advanced members, $21$ specialize in hardware and $9$ specialize in software. If a member who specializes in hardware is selected at random, what is the probability that the selected member is advanced? (Express your answer as a decimal or fraction, not as a percent.)",
+  "choices": {},
+  "correctAnswer": "$$\\frac{7}{11},.6363,.6364,0.636$$",
+  "explanation": "The correct answer is $\\frac{7}{11}$. This is a conditional probability question. We need to find the probability that a member is advanced, given that the member specializes in hardware. From the given information, we can determine that there are $12 + 21 = 33$ members total who specialize in hardware (this is our restricted sample space). Of these $33$ hardware specialists, $21$ are classified as advanced. The conditional probability is the number of favorable outcomes (hardware AND advanced) divided by the total number of outcomes in the restricted sample space (hardware total). Therefore, the probability is $\\frac{21}{33}$, which simplifies to $\\frac{7}{11}$ by dividing both numerator and denominator by $3$. Note that 7/11, .6363, .6364, and 0.636 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=6a4656f1&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

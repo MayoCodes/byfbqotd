@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c50ec913",
+  "capturedAt": "2026-11-13T23:50:29.220Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A jar contains $5$ green, $8$ orange, $26$ purple, and $26$ pink marbles. If one of these marbles is selected at random, what is the probability of selecting a marble that is neither purple nor pink?",
+  "choices": {
+    "A": "$\\frac{1}{5}$",
+    "B": "$\\frac{4}{(13)}$",
+    "C": "$\\frac{8}{(13)}$",
+    "D": "$\\frac{4}{5}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. There are $5$ green, $8$ orange, $26$ purple, and $26$ pink marbles in the jar, for a total of $5 + 8 + 26 + 26$, or $65$, marbles. A marble that is neither purple nor pink must be green or orange. The number of green or orange marbles is $5 + 8$, or $13$. Therefore, the probability of selecting a marble that is neither purple nor pink is $\\frac{13}{65}$, which is equivalent to $\\frac{1}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=c50ec913&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

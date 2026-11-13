@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "94e64e61",
+  "capturedAt": "2026-11-13T23:50:10.714Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of books in a library by format and genre. A book is selected at random. Given that the book is fiction, what is the probability that it is a paperback?",
+  "choices": {
+    "A": "$\\frac{3}{(10)}$",
+    "B": "$\\frac{(12)}{(25)}$",
+    "C": "$\\frac{(21)}{(40)}$",
+    "D": "$\\frac{4}{7}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Given that the book is fiction, there are $105$ fiction books total. Of those, $60$ are paperback. The probability is $\\frac{60}{105} = \\frac{4}{7}$.",
+  "source": "https://cooksat.com/practice?questionId=94e64e61&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/94e64e61/1-47fd26f8cf948ad0.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4e0edb1b",
+  "capturedAt": "2026-11-13T23:49:41.597Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A botanist planted $47$ seedlings, of which $41$ seedlings germinated within $10$ days of planting. If a seedling from this group is selected at random, what is the probability of selecting a seedling that germinated within $10$ days of planting?",
+  "choices": {
+    "A": "$\\frac{(41)}{(100)}$",
+    "B": "$\\frac{(41)}{(47)}$",
+    "C": "$\\frac{(47)}{(100)}$",
+    "D": "$\\frac{(47)}{(41)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. If a seedling from the group is selected at random, the probability of selecting a seedling that germinated within $10$ days of planting is the count of seedlings that germinated within $10$ days divided by the total count of seedlings. It's given that $41$ seedlings germinated within $10$ days of planting. It's also given that the botanist planted $47$ seedlings in total. Therefore, the probability of selecting a seedling that germinated within $10$ days of planting is $\\frac{41}{47}$.",
+  "source": "https://cooksat.com/practice?questionId=4e0edb1b&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c0180277",
+  "capturedAt": "2026-11-13T23:50:25.683Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$-22$, $13$, $-5$, $-8$\n\nA data set of four numbers is shown. If a number from this data set is selected at random, what is the probability of selecting a negative number?",
+  "choices": {
+    "A": "$0$",
+    "B": "$\\frac{1}{4}$",
+    "C": "$\\frac{3}{4}$",
+    "D": "$1$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The probability of selecting a negative number is the number of negative numbers in the data set divided by the total number of numbers in the data set. There are $3$ negative numbers in this data set: $-22$, $-5$, and $-8$. There are $4$ total numbers in this data set. Thus, if a number from this data set is selected at random, the probability of selecting a negative number is $\\frac{3}{4}$.",
+  "source": "https://cooksat.com/practice?questionId=c0180277&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bf7a95b2",
+  "capturedAt": "2026-11-13T23:50:23.627Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nOn Saturday, a movie theater had $160$ customers. The table above summarizes whether or not the customers on Saturday purchased a membership, a snack, both, or neither. Based on the data in the table, what is the probability that a movie theater customer selected at random on that day did not purchase a membership?",
+  "choices": {
+    "A": "$\\frac{(25)}{(95)}$",
+    "B": "$\\frac{(25)}{(65)}$",
+    "C": "$\\frac{(40)}{(65)}$",
+    "D": "$\\frac{(65)}{(160)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The total number of movie theater customers on Saturday was $160$. The table shows that the number of customers who did not purchase a membership was $65$. Finding the ratio of the number of customers who did not purchase a membership to the total number of customers gives the probability that a customer selected at random on that day did not purchase a membership, which is $\\frac{65}{160}$.",
+  "source": "https://cooksat.com/practice?questionId=bf7a95b2&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/bf7a95b2/1-17e1f0199a48bcd1.png",
+      "kind": "diagram"
+    }
+  ]
+}

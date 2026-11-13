@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "28eb039c",
+  "capturedAt": "2026-11-13T23:49:30.582Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the distribution of two types of plants at two different stores. If a plant represented in the table is selected at random, what is the probability of selecting a plant from store X, given that the plant is a rose? (Express your answer as a decimal or fraction, not as a percent.)",
+  "choices": {},
+  "correctAnswer": "$$\\frac{3}{4},.75,0.75,.750,0.750$$",
+  "explanation": "The correct answer is $\\frac{3}{4}$. Based on the table, there are a total of $80$ roses, and $60$ of these roses are from store X. The probability of selecting at random a plant from store X, given that the plant is a rose, is equal to the number of roses from store X divided by the total number of roses, which can be written as $\\frac{60}{80}$, or $\\frac{3}{4}$. Note that 3/4, .75, 0.75, .750, and 0.750 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice?questionId=28eb039c&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/28eb039c/1-698786c64bab1985.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b418161",
+  "capturedAt": "2026-11-13T23:49:32.631Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of coffee shops in a certain city classified by whether they have outdoor seating and whether they offer Wi-Fi. If one of these coffee shops is selected at random, what is the probability that it has outdoor seating but does not offer Wi-Fi?",
+  "choices": {
+    "A": "$\\frac{7}{(37)}$",
+    "B": "$\\frac{7}{(22)}$",
+    "C": "$\\frac{7}{(13)}$",
+    "D": "$\\frac{(15)}{(22)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The total number of coffee shops in the city is $15 + 7 + 9 + 6 = 37$. According to the table, $7$ of these have outdoor seating but do not offer Wi-Fi. Therefore, if a coffee shop is selected at random, the probability that it has outdoor seating but does not offer Wi-Fi is $\\frac{7}{37}$.",
+  "source": "https://cooksat.com/practice?questionId=2b418161&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2b418161/1-f530e22d7871865f.png",
+      "kind": "diagram"
+    }
+  ]
+}

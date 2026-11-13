@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "11f0d386",
+  "capturedAt": "2026-11-13T23:49:17.323Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nIf one of the days on which there was no flight delay is selected at random, what is the probability the day was a weekend day?",
+  "choices": {
+    "A": "$\\frac{3}{(25)}$",
+    "B": "$\\frac{1}{5}$",
+    "C": "$\\frac{3}{5}$",
+    "D": "$\\frac{4}{5}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. There were $90$ days with no flight delay. Of those $90$ days, $18$ were weekend days. Because the day is selected at random, each day has an equal chance of being selected, so the probability is $\\frac{18}{90} = \\frac{1}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=11f0d386&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/11f0d386/1-91419cd0fcd31afa.png",
+      "kind": "diagram"
+    }
+  ]
+}

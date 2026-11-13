@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d1b0ac2b",
+  "capturedAt": "2026-11-13T23:50:35.031Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shown gives the number of students in a sample of $53$ college students classified by the number of hours they spent studying in a given week. Of those students who spent at least $20$ hours studying that week, what fraction spent at least $30$ hours studying?",
+  "choices": {
+    "A": "$\\frac{(13)}{(53)}$",
+    "B": "$\\frac{(13)}{(40)}$",
+    "C": "$\\frac{(13)}{(27)}$",
+    "D": "$\\frac{(27)}{(40)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The sample space is restricted to the students who spent at least $20$ hours studying. The sum of the values in the final four rows of the table is $15 + 12 + 8 + 5 = 40$, the total number of students in the sample space. The number of students who spent at least $30$ hours studying is the sum of the values in the final two rows: $8 + 5 = 13$. Thus, the fraction of the $40$ students who spent at least $20$ hours studying who spent at least $30$ hours studying is $\\frac{13}{40}$.",
+  "source": "https://cooksat.com/practice?questionId=d1b0ac2b&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d1b0ac2b/1-111766b61e0ed5b8.png",
+      "kind": "diagram"
+    }
+  ]
+}

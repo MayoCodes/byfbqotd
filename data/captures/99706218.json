@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99706218",
+  "capturedAt": "2026-11-13T23:50:12.858Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Reverse Probability - Find Count",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA survey taken by $1,000$ community members asked whether they visit the local library at least once per week. The table above summarizes all $1,000$ responses from the community members surveyed. How many of the adults surveyed responded that they do not visit the library at least once per week?",
+  "choices": {
+    "A": "$65$",
+    "B": "$350$",
+    "C": "$650$",
+    "D": "$715$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The table summarizes all $1{,}000$ responses. If $285$ are adults who visit the library at least once per week, $190$ are teens who visit, and $175$ are teens who do not visit, then $1{,}000 - 285 - 190 - 175 = 350$ adults do not visit the library at least once per week.",
+  "source": "https://cooksat.com/practice?questionId=99706218&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/99706218/1-beeb9ec4a35d52a8.png",
+      "kind": "diagram"
+    }
+  ]
+}

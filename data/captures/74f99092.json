@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "74f99092",
+  "capturedAt": "2026-11-13T23:49:58.497Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a garden with $11$ tulips, $3$ tulips are red. If a tulip from this garden is selected at random, what is the probability of selecting a tulip that is red?",
+  "choices": {
+    "A": "$\\frac{1}{(11)}$",
+    "B": "$\\frac{3}{(11)}$",
+    "C": "$\\frac{8}{(11)}$",
+    "D": "$\\frac{(11)}{(11)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. If a tulip from the garden is selected at random, the probability of selecting a tulip that is red is equal to the number of red tulips in the garden divided by the total number of tulips in the garden. Since there are $3$ red tulips in a garden with $11$ total tulips, the probability of selecting a tulip that is red from this garden is $\\frac{3}{11}$.",
+  "source": "https://cooksat.com/practice?questionId=74f99092&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

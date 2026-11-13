@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e88acd65",
+  "capturedAt": "2026-11-13T23:50:49.791Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the distribution of registered vehicles in a certain county by weight class.\n\nIf a registered vehicle in this county is selected at random, which of the following is closest to the probability of selecting a heavy-duty vehicle, given that the vehicle is not a motorcycle?",
+  "choices": {
+    "A": "$0.23$",
+    "B": "$0.30$",
+    "C": "$0.34$",
+    "D": "$0.77$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The condition restricts the sample space to vehicles that are not motorcycles, which includes the three weight classes: light-duty, medium-duty, and heavy-duty. The proportion of vehicles in this restricted sample space is $26\\% + 28\\% + 23\\% = 77\\%$. Of these, the proportion that are heavy-duty is $23\\%$. Therefore, the conditional probability is $\\frac{23}{77} \\approx 0.299$, which is closest to $0.30$.",
+  "source": "https://cooksat.com/practice?questionId=e88acd65&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e88acd65/1-08c4313a5594c4f3.png",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "719bec63",
+  "capturedAt": "2026-11-13T23:49:56.833Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Conditional Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "On March $1$, $2018$, there were $61$ million mobile phone subscribers in Caldonia. The major mobile carriers were Zentel, Orova, Linkwave, Brightcom, and Norstar. By December $1$, $2018$, the number of mobile phone subscribers in Caldonia had increased to $73$ million. If a mobile phone subscriber in Caldonia on December $1$, $2018$, is selected at random, the probability that the person selected was a Zentel subscriber is $0.38$. There were $n$ million Zentel subscribers in Caldonia on December $1$, $2018$. To the nearest integer, what is the value of $n$?",
+  "choices": {},
+  "correctAnswer": "$$28$$",
+  "explanation": "The correct answer is $28$. It's given that in Caldonia on December $1$, $2018$, the probability of selecting a Zentel subscriber from all mobile phone subscribers is $0.38$, that there were $n$ million, or $n(1{,}000{,}000)$, Zentel subscribers, and that there were $73$ million, or $73{,}000{,}000$, mobile phone subscribers. The probability of selecting a Zentel subscriber from all mobile phone subscribers can be found by dividing the number of Zentel subscribers by the total number of mobile phone subscribers. Therefore, the equation $\\frac{n(1{,}000{,}000)}{73{,}000{,}000} = 0.38$ can be used to solve for $n$. Dividing $1{,}000{,}000$ from the numerator and denominator of the expression on the left-hand side yields $\\frac{n}{73} = 0.38$. Multiplying both sides of this equation by $73$ yields $n = 0.38 \\times 73 = 27.74$, which, to the nearest integer, is $28$.",
+  "source": "https://cooksat.com/practice?questionId=719bec63&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

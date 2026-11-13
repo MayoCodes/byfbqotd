@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "78515011",
+  "capturedAt": "2026-11-13T23:50:00.215Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table summarizes the employees at a company by employment status and commute type. If an employee at the company is selected at random, what is the probability that the selected employee is full-time?",
+  "choices": {
+    "A": "$\\frac{(44)}{(162)}$",
+    "B": "$\\frac{(57)}{(162)}$",
+    "C": "$\\frac{(105)}{(162)}$",
+    "D": "$\\frac{(118)}{(162)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The probability that a randomly selected employee is full-time equals the number of full-time employees divided by the total number of employees. According to the table, there are $162$ employees in total, and $118$ of them are full-time. Therefore, the probability that the selected employee is full-time is $\\frac{118}{162}$.",
+  "source": "https://cooksat.com/practice?questionId=78515011&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/78515011/1-24e6ba9474ae79ac.png",
+      "kind": "diagram"
+    }
+  ]
+}

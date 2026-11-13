@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8db2467b",
+  "capturedAt": "2026-11-13T23:50:08.732Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table summarizes the admission decisions at a university for $2,000$ applicants who applied to a certain program last year. What is the probability that a randomly selected applicant was female, given that the applicant was admitted?",
+  "choices": {
+    "A": "$\\frac{3}{(20)}$",
+    "B": "$\\frac{1}{3}$",
+    "C": "$\\frac{1}{2}$",
+    "D": "$\\frac{2}{3}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The total number of admitted applicants is $150 + 300 = 450$. Of those, $150$ were female. The probability that an admitted applicant was female is $\\frac{150}{450} = \\frac{1}{3}$.",
+  "source": "https://cooksat.com/practice?questionId=8db2467b&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/8db2467b/1-18329910019e0834.png",
+      "kind": "diagram"
+    }
+  ]
+}

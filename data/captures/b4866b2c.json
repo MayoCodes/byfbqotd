@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b4866b2c",
+  "capturedAt": "2026-11-13T23:50:21.560Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of students in each grade who participate in each music program at a school. A student from the music program is selected at random. Given that the student is not a junior, what is the probability that the student is in choir?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{3}{8},.375,0.375$$",
+  "explanation": "The correct answer is $\\frac{3}{8}$. First, find the total number of students who are not juniors: $(25 + 15 + 20) + (20 + 30 + 10) = 60 + 60 = 120$. Of those, the number in choir is $15 + 30 = 45$. The probability is $\\frac{45}{120} = \\frac{3}{8}$.",
+  "source": "https://cooksat.com/practice?questionId=b4866b2c&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b4866b2c/1-060a75d495782cb1.png",
+      "kind": "diagram"
+    }
+  ]
+}

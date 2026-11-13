@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ebef362c",
+  "capturedAt": "2026-11-13T23:50:51.915Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A garden has $7$ rows of roses and $4$ rows of tulips. Each row of roses has $6$ red flowers and $5$ white flowers. Each row of tulips has $8$ red flowers and $9$ white flowers. A flower from one of these rows will be selected at random. What is the probability of selecting a tulip, given that the flower is red?",
+  "choices": {
+    "A": "$\\frac{8}{(119)}$",
+    "B": "$\\frac{4}{(11)}$",
+    "C": "$\\frac{(16)}{(37)}$",
+    "D": "$\\frac{8}{(17)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. If a flower from one of these rows is selected at random, the probability of selecting a tulip, given that the flower is red, is equal to the number of red tulips divided by the total number of red flowers. It's given that there are $7$ rows of roses, and each row of roses has $6$ red flowers. This means that there are a total of $7(6)$, or $42$, red roses. It's given that there are $4$ rows of tulips, and each row of tulips has $8$ red flowers. This means that there are a total of $4(8)$, or $32$, red tulips. It follows that there are a total of $42 + 32$, or $74$, red flowers. Therefore, the probability of selecting a tulip, given that the flower is red, is $\\frac{32}{74}$, or $\\frac{16}{37}$.",
+  "source": "https://cooksat.com/practice?questionId=ebef362c&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

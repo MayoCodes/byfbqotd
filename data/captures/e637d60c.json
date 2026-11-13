@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e637d60c",
+  "capturedAt": "2026-11-13T23:50:48.016Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A playlist contains $4$ rock songs, $6$ pop songs, and $10$ jazz songs. If one song is played at random, what is the probability that it is either rock or pop?",
+  "choices": {
+    "A": "$\\frac{1}{5}$",
+    "B": "$\\frac{3}{(10)}$",
+    "C": "$\\frac{1}{2}$",
+    "D": "$\\frac{3}{5}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The total number of songs is $4 + 6 + 10 = 20$. The number of songs that are either rock or pop is $4 + 6 = 10$. The probability is $\\frac{10}{20} = \\frac{1}{2}$.",
+  "source": "https://cooksat.com/practice?questionId=e637d60c&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

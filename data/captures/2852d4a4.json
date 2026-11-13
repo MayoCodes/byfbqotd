@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2852d4a4",
+  "capturedAt": "2026-11-13T23:49:28.449Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Conditional Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At a concert venue, there are a total of $275$ attendees. Each attendee is seated in either section X, section Y, or section Z. If one of these attendees is selected at random, the probability of selecting an attendee seated in section X is $0.32$, and the probability of selecting an attendee seated in section Y is $0.40$. How many attendees are seated in section Z?",
+  "choices": {
+    "A": "$28$",
+    "B": "$77$",
+    "C": "$88$",
+    "D": "$110$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. It's given that there are $275$ attendees at a concert venue and each attendee is seated in either section X, section Y, or section Z. If the probability of selecting an attendee in section X is $0.32$, then $(0.32)(275)$, or $88$, attendees are seated in section X. If the probability of selecting an attendee in section Y is $0.40$, then $(0.40)(275)$, or $110$, attendees are seated in section Y. It follows that there are $88 + 110$, or $198$, attendees in sections X and Y. Therefore, there are $275 - 198$, or $77$, attendees in section Z.",
+  "source": "https://cooksat.com/practice?questionId=2852d4a4&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

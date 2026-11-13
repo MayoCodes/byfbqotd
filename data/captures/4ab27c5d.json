@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4ab27c5d",
+  "capturedAt": "2026-11-13T23:49:38.168Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A jar contains $n$ red marbles and $8$ blue marbles. If one of these marbles is selected at random, what is the probability of selecting a red marble, in terms of $n$?",
+  "choices": {
+    "A": "$\\frac{8}{(n + 8)}$",
+    "B": "$\\frac{8}{n}$",
+    "C": "$\\frac{n}{(n + 8)}$",
+    "D": "$\\frac{n}{8}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since the jar contains $n$ red marbles and $8$ blue marbles, the total number of marbles is $n + 8$. The probability of selecting a red marble at random is equal to the number of red marbles divided by the total number of marbles. Therefore, the probability of selecting a red marble, in terms of $n$, is $\\frac{n}{n + 8}$.",
+  "source": "https://cooksat.com/practice?questionId=4ab27c5d&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}

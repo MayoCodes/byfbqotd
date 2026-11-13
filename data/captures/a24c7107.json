@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a24c7107",
+  "capturedAt": "2026-11-13T23:50:16.735Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nIn a survey, $100$ students were asked whether they prefer rock music or pop music. The results are shown in the table. Based on the table, what is the probability that a randomly selected student from this survey is male, given that the student prefers rock music?",
+  "choices": {
+    "A": "$\\frac{1}{6}$",
+    "B": "$\\frac{1}{5}$",
+    "C": "$\\frac{5}{(11)}$",
+    "D": "$\\frac{5}{6}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. This is a conditional probability question. Given that the student prefers rock music, we look only at the rock music column. The total number of students who prefer rock music is $10 + 50 = 60$. Of these, $50$ are male. Therefore, the probability is $\\frac{50}{60} = \\frac{5}{6}$.",
+  "source": "https://cooksat.com/practice?questionId=a24c7107&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/a24c7107/1-bc30c94d9144b251.png",
+      "kind": "diagram"
+    }
+  ]
+}

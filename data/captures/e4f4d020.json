@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e4f4d020",
+  "capturedAt": "2026-11-13T23:50:43.948Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table gives the distribution of favorite flower and age group for $120$ participants in a gardening survey. If one of these participants is selected at random, what is the probability of selecting a participant whose favorite flower is a rose?",
+  "choices": {
+    "A": "$\\frac{1}{(15)}$",
+    "B": "$\\frac{1}{5}$",
+    "C": "$\\frac{4}{5}$",
+    "D": "$\\frac{5}{6}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. If one of these participants is selected at random, the probability of selecting a participant whose favorite flower is a rose is given by the number of participants who chose rose divided by the total number of participants. The given table indicates that the number of participants who chose rose is $24$, and the total number of participants is $120$. Thus, the probability is $\\frac{24}{120}$, or $\\frac{1}{5}$.",
+  "source": "https://cooksat.com/practice?questionId=e4f4d020&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/e4f4d020/1-42f4dfc7937c5fc5.png",
+      "kind": "diagram"
+    }
+  ]
+}

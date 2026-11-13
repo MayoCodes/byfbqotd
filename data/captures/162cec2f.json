@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "162cec2f",
+  "capturedAt": "2026-11-13T23:49:21.664Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA geology student collected a total of $30$ rocks. The frequency table shows how many of these rocks are of certain types. If one of these rocks is selected at random, what is the probability it is a sedimentary rock?",
+  "choices": {
+    "A": "$0.10$",
+    "B": "$0.40$",
+    "C": "$0.60$",
+    "D": "$0.67$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. This probability is calculated by dividing the number of sedimentary rocks by the total number of rocks collected. It's given that a total of $30$ rocks were collected and that there are $12$ sedimentary rocks. Therefore, the probability of selecting a sedimentary rock at random is $\\frac{12}{30}$, which is equivalent to $0.40$.",
+  "source": "https://cooksat.com/practice?questionId=162cec2f&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/162cec2f/1-52ff550a59f5ae1f.png",
+      "kind": "diagram"
+    }
+  ]
+}

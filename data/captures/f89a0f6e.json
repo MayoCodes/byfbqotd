@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f89a0f6e",
+  "capturedAt": "2026-11-13T23:50:53.691Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Conditional Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A company has $150$ employees. Each employee works in one of three departments: sales, marketing, or engineering. If one employee is selected at random, the probability of selecting someone from sales is $0.40$ and the probability of selecting someone from marketing is $0.36$. How many employees work in engineering?",
+  "choices": {
+    "A": "$24$",
+    "B": "$36$",
+    "C": "$54$",
+    "D": "$60$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The probability of selecting an engineering employee is $1 - 0.40 - 0.36 = 0.24$. The number of engineering employees is $150 \\times 0.24 = 36$.",
+  "source": "https://cooksat.com/practice?questionId=f89a0f6e&subject=math&domain=problem-solving-and-data-analysis&skills=probability_and_conditional_probability&bank=cooksat",
+  "images": []
+}
