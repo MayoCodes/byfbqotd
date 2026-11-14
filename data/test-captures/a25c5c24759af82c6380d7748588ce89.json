@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a25c5c24759af82c6380d7748588ce89",
+  "capturedAt": "2026-11-14T00:26:22.340Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale.\n\nWhich expression represents the length of side $DE$?",
+  "choices": {
+    "A": "$18 64°$",
+    "B": "$18 64°$",
+    "C": "$\\frac{(18)}{( 64°)}$",
+    "D": "$\\frac{(18)}{( 64°)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. In right triangle $DEF$ with the right angle at $E$, the side $DE$ is opposite the $64°$ angle at vertex $F$, and the hypotenuse $DF$ has length $18$. The sine of an angle in a right triangle is defined as the ratio of the length of the opposite side to the length of the hypotenuse: $\\sin(64°) = \\frac{DE}{18}$. Solving this equation for $DE$ by multiplying both sides by $18$ gives $DE = 18\\sin(64°)$. Therefore, the expression $18\\sin 64°$ correctly represents the length of side $DE$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=312465e9",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a25c5c24759af82c6380d7748588ce89/1-8d21c9a1fd7bd3e6.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 17,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

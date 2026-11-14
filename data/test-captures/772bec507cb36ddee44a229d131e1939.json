@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "772bec507cb36ddee44a229d131e1939",
+  "capturedAt": "2026-11-14T00:26:14.607Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $5(5-6x)+3=4(5-6x)+24$, what is the value of $5 - 6x$?",
+  "choices": {
+    "A": "$-21$",
+    "B": "$1$",
+    "C": "$3$",
+    "D": "$21$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The expression $(5-6x)$ appears as a factor on both sides of the equation, so it can be treated as a single variable. Let $u = 5-6x$. Substituting $u$ into the equation gives $5u + 3 = 4u + 24$. Subtracting $4u$ from both sides yields $u + 3 = 24$. Subtracting $3$ from both sides gives $u = 21$. Therefore, the value of $5-6x$ is $21$. This approach avoids expanding the products and solving for $x$, which would be more computationally intensive.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=71c2e24f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 11,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

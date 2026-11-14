@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "36a60a3bbb62abf34bd1e792dcd17ef7",
+  "capturedAt": "2026-11-14T00:25:07.461Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Social Science/History",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Many studies have found a negative association between minimum wage increases and unemployment rates in labor markets across North America. But economists Ingrid Bergman and Erik Andersson did not find this correlation in a study conducted in Sweden, leading some researchers to hypothesize that the pattern is particular to North America. However, Liam Johnson and colleagues reported minimum wage increases and unemployment moving in opposite directions in a study conducted in Nigeria, and several other studies from outside North America have yielded similar results, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "economic characteristics unique to Sweden likely result in minimum wage increases and unemployment rates both being significantly higher there than elsewhere.",
+    "B": "the labor markets examined in Bergman and Andersson's study may be more similar to the labor markets examined in studies conducted in Asia than to those examined in Johnson and colleagues' study.",
+    "C": "there may be circumstances specific to the labor markets examined in Bergman and Andersson's study that disrupted a general negative association between minimum wage increases and unemployment rates.",
+    "D": "labor markets outside North America are more likely to show a positive association between minimum wage increases and unemployment rates than a negative association."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most logically completes the text's discussion of minimum wage and unemployment studies. The passage establishes that many North American studies found a negative association between minimum wage increases and unemployment rates. When Bergman and Andersson's Swedish study failed to find this correlation, some hypothesized the pattern was particular to North America. However, Johnson's Nigerian study and several other studies from outside North America also found the negative association, suggesting the Swedish study is an anomaly. Choice C explains this by proposing that specific circumstances in the Swedish labor markets disrupted the general pattern observed globally.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=490aea00",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 13,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

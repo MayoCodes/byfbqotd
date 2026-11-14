@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3034f3e8660c9df511bb41a6b765b830",
+  "capturedAt": "2026-11-14T00:26:01.514Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3(2x - 5) = 4x + 7$$\n\nWhat value of $x$ is the solution to the given equation?",
+  "choices": {
+    "A": "$-11$",
+    "B": "$-1$",
+    "C": "$1$",
+    "D": "$11$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Distributing on the left side gives $6x - 15 = 4x + 7$. Subtracting $4x$ from both sides gives $2x - 15 = 7$. Adding $15$ to both sides gives $2x = 22$. Dividing both sides by $2$ gives $x = 11$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=cb5a0216",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

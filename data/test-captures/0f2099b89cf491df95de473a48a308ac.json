@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0f2099b89cf491df95de473a48a308ac",
+  "capturedAt": "2026-11-14T00:26:09.040Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$g(t) = 25t + 150$$\n\nThe function $g$ gives the estimated balance, in dollars, of a savings account $t$ months after the account was opened. Which statement is the best interpretation of $150$ in this context?",
+  "choices": {
+    "A": "The account will receive deposits for $150$ months.",
+    "B": "The balance in the account is estimated to reach a maximum of $$150$.",
+    "C": "The initial deposit in the account was $$150$.",
+    "D": "The balance in the account increases by $$150$ each month."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The function $g(t) = 25t + 150$ is in the slope-intercept form, where $150$ is the constant term, also known as the y-intercept. The y-intercept represents the value of the function when $t = 0$. In this context, $t$ represents the number of months after the account was opened, so $t = 0$ corresponds to the moment when the account was first opened. Substituting $t = 0$ into the function gives $g(0) = 25(0) + 150 = 150$. Therefore, $150$ represents the estimated balance in dollars when the account was opened, which is the initial deposit. This interpretation aligns with the meaning of the y-intercept as the starting value in a linear function modeling growth or accumulation over time.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=41d949b0",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

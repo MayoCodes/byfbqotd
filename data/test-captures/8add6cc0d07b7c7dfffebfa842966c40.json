@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8add6cc0d07b7c7dfffebfa842966c40",
+  "capturedAt": "2026-11-14T00:25:06.205Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Ornithologist Dr. Ingrid Lindqvist and colleagues analyzed flight patterns of Arctic terns from two breeding colonies: one near Tromsø, Norway, and one near Reykjavik, Iceland. Tracking data and feather samples formed during adulthood suggest that mature Norwegian terns fly at similar altitudes as mature Icelandic terns during foraging trips. However, sample N-23, which formed while the tern was still a juvenile, had an isotopic signature suggesting the bird had flown at altitudes of approximately 800 meters, while Icelandic juveniles typically fly at altitudes of at least 1,200 meters. Because air temperature decreases as altitude increases, a biology student hypothesized that the Norwegian juvenile terns experience warmer flight conditions than Icelandic juvenile terns do.",
+  "prompt": "Which finding, if true, would most directly weaken the student's hypothesis?",
+  "choices": {
+    "A": "Arctic terns from the Norwegian colony tend to migrate southward to warmer waters immediately after breeding, whereas Icelandic terns do not.",
+    "B": "Because of warm ocean currents off the Icelandic coast, the air over Iceland at 1,200 meters is on average warmer than the air over Norway at 800 meters.",
+    "C": "There aren't enough suitable nesting areas at elevations of at least 400 meters in Iceland for terns to build their nests at that height.",
+    "D": "Within any single region, the rate at which air temperature decreases with altitude is roughly the same over both Norway and Iceland."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it directly contradicts the conclusion the student draws. The student assumes that flying at a lower altitude (800 meters) guarantees that Norwegian juveniles experience warmer conditions than Icelandic juveniles flying at 1,200 meters. But this reasoning treats altitude as the only factor affecting temperature. Choice B shows that, because of warm ocean currents, the air the Icelandic juveniles actually fly through at 1,200 meters is on average warmer than the air the Norwegian juveniles fly through at 800 meters. This compares the two populations at the exact altitudes named in the stimulus and reverses the temperature outcome the student predicted, directly weakening the hypothesis.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=10f20b3d",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 12,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

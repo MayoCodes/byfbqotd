@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "482993fea14a41013a921daa6e445760",
+  "capturedAt": "2026-11-14T00:25:50.095Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Classified as a cumulus cloud, the cumulonimbus formation consists of towering vertical development with a distinctive anvil-shaped top. The smaller cumulus humilis, by comparison, consists of rounded, puffy shapes with flat bases, a cloud type ______ to in meteorology as a \"fair weather\" cloud.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "referred",
+    "B": "is referred",
+    "C": "having referred",
+    "D": "refers"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because the blank appears within an appositive noun phrase (\"a cloud type ______ to in meteorology as a 'fair weather' cloud\") that modifies \"cumulus humilis.\" Appositives are noun phrases, not independent clauses, so they cannot contain a finite verb. The past participle \"referred\" functions as a passive modifier within the noun phrase, forming the construction \"a cloud type referred to...as,\" similar to phrases like \"a book written by Shakespeare\" or \"a method used in research.\"",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=a7cba2d6",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

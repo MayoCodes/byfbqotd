@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6c95a8544ce7168a3c7a107d2aeafb22",
+  "capturedAt": "2026-11-14T00:26:06.520Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = \\frac{3}{7}x - \\frac{5}{7}$. What is the value of $h(21)$?",
+  "choices": {
+    "A": "$\\frac{(37)}{7}$",
+    "B": "$\\frac{(58)}{7}$",
+    "C": "$\\frac{(53)}{7}$",
+    "D": "$\\frac{(68)}{7}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To find the value of $h(21)$, substitute $21$ for $x$ in the function definition $h(x) = \\frac{3}{7}x - \\frac{5}{7}$. This gives $h(21) = \\frac{3}{7}(21) - \\frac{5}{7}$. Multiplying $\\frac{3}{7}$ by $21$ yields $\\frac{3 \\times 21}{7} = \\frac{63}{7}$. Subtracting $\\frac{5}{7}$ from $\\frac{63}{7}$ gives $\\frac{63}{7} - \\frac{5}{7} = \\frac{63 - 5}{7} = \\frac{58}{7}$. Therefore, the value of $h(21)$ is $\\frac{58}{7}$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=5d7b3b8e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

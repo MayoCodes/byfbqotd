@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "80d2c1f55b0520ba162ca952d350150a",
+  "capturedAt": "2026-11-14T00:26:07.772Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(t) = t^{2} + 3t + 47$. What is the value of $g(3)$?",
+  "choices": {},
+  "correctAnswer": "$$65$$",
+  "explanation": "The correct answer is $65$. To find the value of $g(3)$, substitute $t = 3$ into the function $g(t) = t^2 + 3t + 47$. This gives $g(3) = 3^2 + 3(3) + 47$. Evaluating each term: $3^2 = 9$, $3(3) = 9$, and the constant term is $47$. Adding these values together: $9 + 9 + 47 = 65$. Therefore, $g(3) = 65$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=fc6b2342",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4ec9bfcdf6771a609c9f1cc0751f927d",
+  "capturedAt": "2026-11-14T00:25:12.801Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In 1812, the Symphony No. 1 in D major was published under the pseudonym \"A Russian Composer.\" Now, we know that ______",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "was the composer's real name Pyotr Ilyich Tchaikovsky?",
+    "B": "the composer's real name was Pyotr Ilyich Tchaikovsky.",
+    "C": "was the composer's real name Pyotr Ilyich Tchaikovsky.",
+    "D": "the composer's real name was Pyotr Ilyich Tchaikovsky?"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is forming a grammatically complete noun clause. The phrase 'we know that' introduces a noun clause that must be in declarative (statement) form, not interrogative (question) form. Choice B correctly provides a declarative clause with standard subject-verb order ('the composer's real name was') and appropriate end punctuation (period), making 'we know that the composer's real name was Pyotr Ilyich Tchaikovsky' a grammatically correct sentence.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=0ddefbc0",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 17,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

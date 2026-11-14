@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1012b74d8d22ff592ca6c54f431032c3",
+  "capturedAt": "2026-11-14T00:26:26.476Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The positive number $x$ is $3,600%$ of the number $z$, and $z$ is $20%$ of the number $y$. If $x - y = wz$, where $w$ is a constant, what is the value of $w$?",
+  "choices": {},
+  "correctAnswer": "$$31$$",
+  "explanation": "The correct answer is $31$. To find the value of $w$, the relationships between the variables must be expressed algebraically. The statement 'x is $3{,}600\\%$ of z' means $x = 3{,}600\\% \\times z = \\frac{3{,}600}{100} \\times z = 36z$. The statement 'z is $20\\%$ of y' means $z = 0.20y$, which can be rewritten by dividing both sides by $0.20$ to get $y = \\frac{z}{0.20} = 5z$. Substituting these expressions into the equation $x - y = wz$ gives $36z - 5z = wz$. Combining like terms on the left side yields $31z = wz$. Since $z$ is a positive number, dividing both sides by $z$ gives $w = 31$. Therefore, the value of the constant $w$ is $31$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=f9e0e370",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 20,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

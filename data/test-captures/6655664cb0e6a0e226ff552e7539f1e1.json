@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6655664cb0e6a0e226ff552e7539f1e1",
+  "capturedAt": "2026-11-14T00:26:40.012Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$|2x - 5| = y + 3$$\n\n$$y = 3x - 14$$\n\nThe solution to the given system of equations is $(x, y)$, where $x > 0$ and $y > 0$. What is the value of $x + y$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$6$",
+    "C": "$10$",
+    "D": "$14$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Substituting $y = 3x - 14$ into the first equation gives $|2x - 5| = (3x - 14) + 3 = 3x - 11$. Since the right side must be nonnegative, $x \\geq \\frac{11}{3}$. For $x \\geq \\frac{11}{3}$, we have $2x - 5 > 0$, so $|2x - 5| = 2x - 5$. This gives $2x - 5 = 3x - 11$, so $x = 6$. Then $y = 3(6) - 14 = 4$. Therefore, $x + y = 6 + 4 = 10$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=00970ffd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 8,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

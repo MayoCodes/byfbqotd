@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "00c658aaf3ff259b9484c1fb90665f0c",
+  "capturedAt": "2026-11-14T00:26:21.108Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Translation and Transformation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the xy-plane, circle $Q$ is the graph of the equation $(x-5)^{2} + (y-4)^{2} = 9$. Circle $R$ has the same center as circle $Q$ but has a radius that is twice the radius of circle $Q$. Which equation represents circle $R$?",
+  "choices": {
+    "A": "$(x-5)^{2} + (y-4)^{2} = 18$",
+    "B": "$(x-5)^{2} + (y-4)^{2} = 36$",
+    "C": "$(x-10)^{2} + (y-8)^{2} = 9$",
+    "D": "$(x-10)^{2} + (y-8)^{2} = 18$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The standard form of a circle equation is $(x-h)^2 + (y-k)^2 = r^2$, where $(h,k)$ is the center and $r$ is the radius. For circle $Q$, the equation $(x-5)^2 + (y-4)^2 = 9$ shows the center is $(5,4)$ and $r^2 = 9$, so $r = \\sqrt{9} = 3$. Circle $R$ has the same center $(5,4)$ but a radius that is twice the radius of circle $Q$, which means the radius of circle $R$ is $2(3) = 6$. In the equation form, this radius must be squared, giving $r^2 = 6^2 = 36$. Therefore, the equation of circle $R$ is $(x-5)^2 + (y-4)^2 = 36$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=df3cea4b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

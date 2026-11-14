@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f0cfdf74c93402cb4fe7be7e998ab483",
+  "capturedAt": "2026-11-14T00:25:55.209Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In 1985, marine biologists estimated the population of humpback whales in the North Atlantic using only visual observations from small boats and basic hand-drawn charts. ______ this apparently rudimentary technique yielded a remarkably accurate estimate: when the 1985 count was compared to a census conducted with satellite tracking and AI analysis thirty years later, the two figures differed by less than 8 percent.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Still,",
+    "B": "Similarly,",
+    "C": "In other words,",
+    "D": "Fittingly,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because \"Still\" appropriately signals a concessive relationship between the two sentences. The first sentence establishes that the 1985 method used only basic visual observations and hand-drawn charts, which might suggest limitations in accuracy. However, the second sentence reveals that this \"apparently rudimentary technique\" actually produced remarkably accurate results, differing by less than 8 percent from modern satellite and AI methods. \"Still\" effectively conveys this contrast: despite what readers might expect from such simple methods, the technique nevertheless yielded precise estimates.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=f21c0611",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 23,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f2ac2f2536e13c8009efda7e7e5cb42d",
+  "capturedAt": "2026-11-14T00:25:20.304Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Marilyn Diptych is a 1962 silkscreen print by American artist Andy Warhol.\n• It features repeated images of actress Marilyn Monroe.\n• Screen printing is a technique in which a stencil is first attached to a mesh screen made of silk, nylon, or other materials.\n• Ink is then pushed through the mesh onto a print surface.\n• Serigraphy is a type of screen printing that uses a silk mesh as the screen.",
+  "prompt": "The student wants to describe the process of screen printing. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Screen printing is a technique that can use silk, polyester, and other materials as the mesh screen, not just nylon.",
+    "B": "Warhol used a screen printing technique called serigraphy, pushing ink through a mesh stencil onto canvas.",
+    "C": "Warhol used screen printing to create the 1962 silkscreen Marilyn Diptych.",
+    "D": "In screen printing, a stencil is attached to a mesh screen, which is then used to transfer ink onto a print surface."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively describes the process of screen printing by presenting the technique's key steps in logical order. The sentence synthesizes procedural information from the notes—attaching a stencil to mesh, then transferring ink through the screen onto a surface—into a clear, sequential description. This directly accomplishes the goal of explaining how screen printing works as a process, rather than simply listing materials or providing examples of the technique's use.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=4bbf993e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 23,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "70e0c204f55d29f294860fa67cbc202d",
+  "capturedAt": "2026-11-14T00:26:36.037Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Radical Equation",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $x^{2} = n-root(5x^n + 150)$, where $n$ is a positive integer constant and $x > 0$, what is the value of $x^{3}n$?",
+  "choices": {},
+  "correctAnswer": "$$3375$$",
+  "explanation": "The correct answer is $3375$. Raising both sides to the power $n$ gives $(x^2)^n = 5x^n + 150$, which simplifies to $x^{2n} = 5x^n + 150$. Let $u = x^n$. Then $u^2 = 5u + 150$, or $u^2 - 5u - 150 = 0$. Factoring: $(u - 15)(u + 10) = 0$, so $u = 15$ or $u = -10$. Since $x > 0$, we have $x^n > 0$, so $x^n = 15$. Therefore, $x^{3n} = (x^n)^3 = 15^3 = 3375$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=d535c576",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

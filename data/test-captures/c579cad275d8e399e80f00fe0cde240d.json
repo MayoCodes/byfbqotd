@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c579cad275d8e399e80f00fe0cde240d",
+  "capturedAt": "2026-11-14T00:26:56.306Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Percent Expression or Multiplier",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The percent increase in population of a certain bacterial colony from $2$ hours to $6$ hours was $825%$. If this bacterial colony's population was $m$ cells at $2$ hours, which expression represents its population, in cells, at $6$ hours?",
+  "choices": {
+    "A": "$1.83m$",
+    "B": "$8.25m$",
+    "C": "$9.25m$",
+    "D": "$0.08m$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. When a quantity increases by a certain percent, the final value equals the original value multiplied by $(1 +$ the percent increase expressed as a decimal$)$. A percent increase of $825\\%$ is equivalent to $8.25$ as a decimal. Therefore, the population at $6$ hours is $m \\times (1 + 8.25) = m \\times 9.25 = 9.25m$ cells. This can be understood as the colony retaining its original $m$ cells (represented by the $1$) plus gaining an additional $8.25m$ cells (represented by the $8.25$), for a total of $9.25m$ cells.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=4dc27d73",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

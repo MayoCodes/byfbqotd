@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a08b31fa1aa79b0880048c1837d2e303",
+  "capturedAt": "2026-11-14T00:25:33.069Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Identify Main Purpose",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The CRISPR-Cas9 gene-editing system, first adapted for use in human cells in 2013, is a molecular tool that allows scientists to make precise changes to DNA sequences. Some researchers have raised concerns about the off-target effects of CRISPR-Cas9 editing, noting that the system occasionally cuts DNA at unintended locations, potentially causing harmful mutations. But other researchers contend that the system should not be evaluated by the standard of perfect precision but as a remarkably efficient tool, similar to other established genetic techniques, such as zinc finger nucleases, that also carry some risk of off-target activity.",
+  "prompt": "Which choice best states the main purpose of the text?",
+  "choices": {
+    "A": "To present a reason the unusual mechanism that CRISPR-Cas9 uses makes it one of the most controversial scientific tools.",
+    "B": "To argue that the CRISPR-Cas9 system should have the scientific acceptance of zinc finger nucleases.",
+    "C": "To describe a characteristic of the CRISPR-Cas9 system and offer two differing viewpoints on this characteristic.",
+    "D": "To explain why many scientists find CRISPR-Cas9 to be remarkably useful despite flaws in the system's design."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because the text introduces a characteristic of CRISPR-Cas9—its off-target effects—and presents two different perspectives on this characteristic. Some researchers view off-target cuts as a concerning flaw, while others argue the system should be evaluated as an efficient tool comparable to other techniques with similar limitations. The text presents both viewpoints without advocating for either position.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=4fb7cf1b",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 6,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

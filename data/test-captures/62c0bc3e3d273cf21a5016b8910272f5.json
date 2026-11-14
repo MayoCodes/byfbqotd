@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "62c0bc3e3d273cf21a5016b8910272f5",
+  "capturedAt": "2026-11-14T00:26:48.290Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the exponential function $f$, the value of $f(1)$ is $k$, where $k$ is a constant. Which of the following equivalent forms of the function $f$ shows the value of $k$ as the coefficient or the base?",
+  "choices": {
+    "A": "$f(x) = 40(1.5)^x+1$",
+    "B": "$f(x) = 60(1.5)^x$",
+    "C": "$f(x) = 90(1.5)^x-1$",
+    "D": "$f(x) = 135(1.5)^x-2$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The question asks which form shows the value of $k$ (where $f(1)=k$) as the coefficient or base. To find $f(1)$, substitute $x=1$ into each expression. For choice C: $f(1) = 90(1.5)^{1-1} = 90(1.5)^0 = 90(1) = 90$. Therefore, $k=90$. In this form, when $x=1$, the exponent becomes $0$, and since any nonzero number raised to the power of $0$ equals $1$, the exponential factor equals $1$, leaving only the coefficient $90$. This means $k$ is displayed directly as the coefficient in this form.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=6c70056c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

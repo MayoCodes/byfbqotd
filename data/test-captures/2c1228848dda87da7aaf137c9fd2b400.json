@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2c1228848dda87da7aaf137c9fd2b400",
+  "capturedAt": "2026-11-14T00:26:18.367Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The town of Riverside is installing a decorative water fountain in the central park. The equation $y = -10(x-3.5)^{2} + 122.5$ gives the estimated height $y$, in feet, of the water stream $x$ seconds after it is launched into the air. Which of the following is the best interpretation of the vertex of the graph of the equation in the $xy$-plane?",
+  "choices": {
+    "A": "The water stream reaches an estimated maximum height of $122.5$ feet $10$ seconds after it is launched into the air.",
+    "B": "The water stream reaches an estimated maximum height of $3.5$ feet $122.5$ seconds after it is launched into the air.",
+    "C": "The water stream reaches an estimated maximum height of $10$ feet $122.5$ seconds after it is launched into the air.",
+    "D": "The water stream reaches an estimated maximum height of $122.5$ feet $3.5$ seconds after it is launched into the air."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The equation $y = -10(x-3.5)^2 + 122.5$ is in vertex form $y = a(x-h)^2 + k$, where the vertex is $(h, k) = (3.5, 122.5)$. Since $a = -10 < 0$, the parabola opens downward and the vertex represents the maximum. In context, the water stream reaches its maximum height of $122.5$ feet at $3.5$ seconds after launch.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=9ad4b02e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 14,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "27297820ddebb8a6f1b009237edb2843",
+  "capturedAt": "2026-11-14T00:26:59.107Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$f(x) = 6(x + 3)$\n$g(x) = 6x^{3} - px^{2} + 3px - 162$\n\nFor the given functions $f$ and $g$, $p$ is a constant. If $f(x) \\times g(x) = 36(x^{4} - 81)$, what is the value of $p$?",
+  "choices": {},
+  "correctAnswer": "$$18$$",
+  "explanation": "The correct answer is $18$. First, factor the right side: $x^4 - 81 = (x^2 - 9)(x^2 + 9) = (x - 3)(x + 3)(x^2 + 9)$. So $f(x) \\cdot g(x) = 36(x - 3)(x + 3)(x^2 + 9)$. Since $f(x) = 6(x + 3)$, divide both sides by $f(x)$: $g(x) = \\frac{36(x - 3)(x + 3)(x^2 + 9)}{6(x + 3)} = 6(x - 3)(x^2 + 9)$. Expanding: $(x - 3)(x^2 + 9) = x^3 + 9x - 3x^2 - 27 = x^3 - 3x^2 + 9x - 27$. So $g(x) = 6x^3 - 18x^2 + 54x - 162$. Comparing with $g(x) = 6x^3 - px^2 + 3px - 162$: the coefficient of $x^2$ gives $-px^2 = -18x^2$, so $p = 18$. We can verify this is correct by checking the coefficient of $x$: $3px = 3(18)x = 54x$, which matches.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=f91ca6dd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 22,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

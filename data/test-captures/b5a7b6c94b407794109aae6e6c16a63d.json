@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b5a7b6c94b407794109aae6e6c16a63d",
+  "capturedAt": "2026-11-14T00:25:14.052Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma After Introductory Clause",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While the hyacinth macaw (Anodorhynchus hyacinthinus) can be found in places like the Cerrado savanna of Paraguay and the Amazon Basin in ______ than 90 percent of this endangered parrot species is found in the Pantanal region of Bolivia. There, wildlife biologist Dr. Neiva Guedes is on the front lines of conservation efforts to bring macaws back from near extinction.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Brazil, more",
+    "B": "Brazil; more",
+    "C": "Brazil. More",
+    "D": "Brazil more"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation between a dependent clause and an independent clause. The sentence beginning with 'While' creates a dependent clause that must be properly connected to the independent clause 'more than 90 percent of this endangered parrot species is found in the Pantanal region of Bolivia.' Choice A correctly uses a comma after 'Brazil' to separate the introductory dependent clause from the independent clause, conforming to Standard English conventions.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=33b51d2c",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 18,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

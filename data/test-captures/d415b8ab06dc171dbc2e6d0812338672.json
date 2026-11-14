@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d415b8ab06dc171dbc2e6d0812338672",
+  "capturedAt": "2026-11-14T00:25:38.148Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Deciduous trees absorb up to 25 percent of their trunk diameter in water from the soil per week during the growing season. So in one week, a sugar maple with a trunk diameter of 40 centimeters could absorb 10 centimeters worth of soil water, while an American beech with a trunk diameter of 80 centimeters could absorb 20 centimeters worth. Over the last century, groundwater levels in many forests have declined, and contrary to some scientists' expectations, so have deciduous tree populations. Hydrologist Marcus Lee and colleagues resolve this apparent discrepancy by pointing out that deciduous trees cycle water into the atmosphere through transpiration, helping support cloud formation, which, in turn, sustains regional rainfall patterns.",
+  "prompt": "Based on the text, what can most reasonably be concluded about sugar maples and American beeches?",
+  "choices": {
+    "A": "As water absorption by sugar maples has decreased, the water absorption of American beeches has increased.",
+    "B": "The American beech described in the text could absorb more water per week than the sugar maple described in the text could.",
+    "C": "Both sugar maples and American beeches can absorb water, but of the two only the sugar maple can also contribute to cloud formation.",
+    "D": "Populations of both sugar maples and American beeches have declined significantly over the last century due to decreasing levels of water in the atmosphere."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it is directly supported by the numerical examples in the text. According to the passage, the sugar maple described, which has a trunk diameter of 40 centimeters, could absorb 10 centimeters worth of soil water per week, while the American beech described, which has a trunk diameter of 80 centimeters, could absorb 20 centimeters worth in the same period. Since 20 centimeters is greater than 10 centimeters, the described American beech could absorb more water per week than the described sugar maple.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=14442607",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

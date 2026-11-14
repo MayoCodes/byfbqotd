@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a03b1d014fbfe3dd2d192c1dbe63996d",
+  "capturedAt": "2026-11-14T00:26:38.741Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $PQR$ and triangle $STU$, the measures of angles $Q$ and $T$ are each $40$°. The lengths of $QR$ and $TU$ are each $28$ centimeters, and $\\frac{(QR)}{(QP)} = \\frac{(TU)}{(TS)}$. Which additional piece of information would be necessary to prove that triangle $PQR$ is congruent to triangle $STU$?",
+  "choices": {
+    "A": "The lengths of $PQ$ and $ST$ are each $14$ centimeters.",
+    "B": "The measures of angles $R$ and $U$ are each $50$°.",
+    "C": "The measures of angles $P$ and $S$ are each $90$°.",
+    "D": "No additional information is necessary."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The given information is sufficient to prove congruence using the Side-Angle-Side (SAS) congruence postulate. Given that $\\overline{QR} = \\overline{TU} = 28$ centimeters and the ratio $\\frac{QR}{QP} = \\frac{TU}{TS}$, we can determine that $\\overline{QP} = \\overline{TS}$. Since $QR = TU$, substituting into the ratio gives $\\frac{28}{QP} = \\frac{28}{TS}$, which simplifies to $QP = TS$. Now we have two pairs of corresponding sides that are equal: $\\overline{QR} = \\overline{TU}$ and $\\overline{QP} = \\overline{TS}$. Additionally, the angle between these sides in each triangle is equal: angle $Q =$ angle $T = 40$°. Since angle $Q$ is formed by sides $\\overline{QP}$ and $\\overline{QR}$, and angle $T$ is formed by sides $\\overline{TS}$ and $\\overline{TU}$, these are the included angles between the equal sides. By the SAS congruence postulate, triangle $PQR$ is congruent to triangle $STU$. Therefore, no additional information is necessary to prove the triangles congruent.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=62ebb747",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "07ab7dfd2cd62378b4609b305289d534",
+  "capturedAt": "2026-11-14T00:26:31.901Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Calculate Average Rate of Change",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between two variables, $x$ and $y$, for data set A. A line of best fit for the data is also shown. Data set B is created by subtracting $13$ units from the value of $y$ for each data point from data set A. Which of the following is closest to the $y$-coordinate of the $y$-intercept of the line of best fit for data set B?",
+  "choices": {
+    "A": "$55.25$",
+    "B": "$34.25$",
+    "C": "$47.25$",
+    "D": "$21.25$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. When a constant value is subtracted from all $y$-coordinates in a dataset, the line of best fit shifts vertically downward by that same constant amount. The scatterplot shows that the line of best fit for data set A has a $y$-intercept of approximately $47.25$. Since data set B is created by subtracting $13$ units from the $y$-value of each point in data set A, the $y$-intercept of the line of best fit for data set B will be $47.25 - 13 = 34.25$. Therefore, the $y$-coordinate of the $y$-intercept of the line of best fit for data set B is closest to $34.25$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=c3bc717e",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/07ab7dfd2cd62378b4609b305289d534/1-e42549c9f0744693.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

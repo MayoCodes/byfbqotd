@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fd8bae939aaaddb0e9b7c613c9e68547",
+  "capturedAt": "2026-11-14T00:26:34.780Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Multi-Step Unit Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A metal block has a mass of $432$ grams and a volume of $36$ cubic centimeters. What is the density, in grams per cubic centimeter, of the metal block?",
+  "choices": {
+    "A": "$12$",
+    "B": "$396$",
+    "C": "$468$",
+    "D": "$15,552$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Density is defined as mass divided by volume, expressed by the formula $d = \\frac{m}{v}$, where $d$ is density, $m$ is mass, and $v$ is volume. The metal block has a mass of $432$ grams and a volume of $36$ cubic centimeters. Substituting these values into the formula gives $d = \\frac{432}{36}$. Performing the division: $432 \\div 36 = 12$. Therefore, the density of the metal block is $12$ grams per cubic centimeter.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=816c2431",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 4,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

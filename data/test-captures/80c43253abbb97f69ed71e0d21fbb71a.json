@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "80c43253abbb97f69ed71e0d21fbb71a",
+  "capturedAt": "2026-11-14T00:25:51.465Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The forests of the Pacific Northwest seem to be supporting diverse ecosystems. In a 2021 study, ecologists, examining relationships between the annual rainfall a region was ______ surveyed old-growth forests across Oregon and Washington. They found that areas with higher precipitation levels contained more species of fungi than drier areas did.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "receiving and the region's biodiversity",
+    "B": "receiving, and the region's biodiversity",
+    "C": "receiving and the region's biodiversity,",
+    "D": "receiving, and the region's biodiversity,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The phrase \"the annual rainfall a region was receiving and the region's biodiversity\" is a compound noun phrase serving as the object of \"between.\" No comma is needed before \"and\" because it joins two noun phrases, not independent clauses. The comma after \"biodiversity\" is required to mark the end of this noun phrase before the main verb \"surveyed\" begins.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=1c268cab",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 20,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

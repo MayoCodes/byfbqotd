@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3cafd3f5fdf9315d0c8845d30e88a537",
+  "capturedAt": "2026-11-14T00:26:50.774Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $f(x)$ has zeros at $x = -4$ and $x = 2$ only. If $f(x) \\le 0$ when $x > -4$ and $f(x) = -x^{3} + ax^{2} + bx + c$, what is the value of $c$?",
+  "choices": {},
+  "correctAnswer": "$$-16$$",
+  "explanation": "The correct answer is $-16$. Since $f(x)$ is a cubic with leading coefficient $-1$ and has only two zeros at $x = -4$ and $x = 2$, one zero must be repeated. For $f(x) \\leq 0$ when $x > -4$, the function must touch but not cross the x-axis at $x = 2$, meaning $x = 2$ is a repeated root. Therefore, $f(x) = -(x + 4)(x - 2)^2$. Expanding: $(x - 2)^2 = x^2 - 4x + 4$. Then $(x + 4)(x^2 - 4x + 4) = x^3 - 4x^2 + 4x + 4x^2 - 16x + 16 = x^3 - 12x + 16$. So $f(x) = -(x^3 - 12x + 16) = -x^3 + 12x - 16$. Therefore, $c = -16$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=c2cd68ee",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

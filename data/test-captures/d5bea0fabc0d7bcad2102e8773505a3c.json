@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d5bea0fabc0d7bcad2102e8773505a3c",
+  "capturedAt": "2026-11-14T00:25:19.058Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "A 2005 study of foraging ants observed the insects following pheromone trails laid by scout ants to reach food sources efficiently. This is an example of social learning that benefits the collective. ______ the insect world is at times susceptible to the spread of outdated information, often with unfavorable results: a 2012 study of honeybees concluded that following waggle dances communicating locations of depleted flower patches caused the bees to waste energy visiting empty sites unnecessarily.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In other words,",
+    "B": "Conversely,",
+    "C": "Indeed,",
+    "D": "Consequently,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'conversely' logically signals a contrast between opposite scenarios. The first sentence describes a beneficial outcome of social learning—ants following pheromone trails to reach food sources efficiently. The sentence following the blank introduces an opposite situation where social learning leads to unfavorable results—bees following waggle dances to depleted flower patches and wasting energy. 'Conversely' appropriately signals this shift from a positive example to a negative one.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=183b2dae",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 22,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

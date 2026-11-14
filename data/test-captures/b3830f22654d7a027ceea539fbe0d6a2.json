@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b3830f22654d7a027ceea539fbe0d6a2",
+  "capturedAt": "2026-11-14T00:26:30.445Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Apply Rate to Find Quantity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe bar graph shows the distribution of fruit type for the $600$ pieces of fruit that a grocery store has in stock. For which two types of fruits is the total number of fruits of the two types exactly $\\frac{2}{5}$ of the grocery store's stock?",
+  "choices": {
+    "A": "Orange and grape",
+    "B": "Apple and orange",
+    "C": "Orange and peach",
+    "D": "Grape and peach"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To find which two fruit types together represent exactly $\\frac{2}{5}$ of the store's stock, first calculate the target number: $\\frac{2}{5} \\times 600 = \\frac{1200}{5} = 240$ pieces of fruit. From the bar graph, the values are: Apple = $50$, Orange = $90$, Banana = $200$, Grape = $150$, and Peach = $110$. Testing the combinations given in the answer choices: Apple and orange = $50 + 90 = 140$, orange and grape = $90 + 150 = 240$, orange and peach = $90 + 110 = 200$, and grape and peach = $150 + 110 = 260$. Only orange and grape sum to exactly $240$ pieces, which equals $\\frac{2}{5}$ of the $600$ total pieces in stock.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=9a297427",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b3830f22654d7a027ceea539fbe0d6a2/1-0c8de797d19d914b.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

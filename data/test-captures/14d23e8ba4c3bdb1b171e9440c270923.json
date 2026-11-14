@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "14d23e8ba4c3bdb1b171e9440c270923",
+  "capturedAt": "2026-11-14T00:25:47.609Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In a chapter titled \"The Coral Gardens\" from Rachel Carson's The Sea Around Us, the author describes the intricate formations of reef ecosystems, the symbiotic relationships between coral and algae, and the gradual processes of calcium deposition. Such descriptions, rendered precisely yet poetically by Carson, who worked as a marine biologist for the U.S. Fish and Wildlife Service in the 1940s, ______ the interconnectedness of oceanic life.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "reveals",
+    "B": "was revealing",
+    "C": "to reveal",
+    "D": "reveal"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is subject-verb agreement. The subject of the sentence is \"Such descriptions,\" which is plural. Although a long modifying clause (\"rendered precisely yet poetically by Carson, who worked as a marine biologist for the U.S. Fish and Wildlife Service in the 1940s\") intervenes between the subject and the verb, the verb must still agree in number with \"descriptions.\" The plural verb \"reveal\" correctly agrees with the plural subject \"Such descriptions.\"",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=a4805c44",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 17,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

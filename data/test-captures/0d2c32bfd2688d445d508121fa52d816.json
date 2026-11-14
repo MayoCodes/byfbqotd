@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0d2c32bfd2688d445d508121fa52d816",
+  "capturedAt": "2026-11-14T00:26:47.022Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f(x)$ is given as\n$f(x) = q((x - 10)^{2} + r)((x - 10)^{2} + s)$\nThe graph of $y = f(x)$ passes through $(13, 18)$ and $(5, 24)$. What is the value of $f(7) + f(15)$?",
+  "choices": {
+    "A": "$36$",
+    "B": "$42$",
+    "C": "$48$",
+    "D": "$72$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The function $f(x) = q((x - 10)^2 + r)((x - 10)^2 + s)$ depends only on $(x - 10)^2$, so $f(x)$ is symmetric about $x = 10$. For $x = 13$: $(13 - 10)^2 = 9$. For $x = 7$: $(7 - 10)^2 = 9$. Since both give the same value of $(x - 10)^2$, we have $f(7) = f(13) = 18$. Similarly, for $x = 5$: $(5 - 10)^2 = 25$. For $x = 15$: $(15 - 10)^2 = 25$. So $f(15) = f(5) = 24$. Therefore, $f(7) + f(15) = 18 + 24 = 42$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=21261c44",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

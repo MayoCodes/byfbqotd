@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f5c979069dc12c6894961ca0c05e67a4",
+  "capturedAt": "2026-11-14T00:25:00.585Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The Valley of Mexico is home to the axolotl (Ambystoma mexicanum), one of several amphibian species that can only be found in this region. Due to the unique conditions of its native lake environment, the axolotl became highly specialized as it adapted to retain its larval features throughout its entire lifespan. However, like many highly specialized species, the axolotl is particularly vulnerable to environmental stressors, such as disease, pollution, invasive species, and habitat destruction, that disrupt the delicately balanced ecosystems in which these amphibians live.",
+  "prompt": "Based on the text, why is the axolotl a highly unusual amphibian?",
+  "choices": {
+    "A": "It lives exclusively in the most geographically isolated lakes in the Valley of Mexico.",
+    "B": "It adapted over time to retain larval features throughout its entire lifespan.",
+    "C": "It adapted over time to share a habitat with other highly unusual amphibian species in Mexico.",
+    "D": "It lives in a habitat that is exposed to numerous environmental stressors."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it directly states the reason the passage gives for the axolotl's unusual nature. The text explicitly explains that 'the axolotl became highly specialized as it adapted to retain its larval features throughout its entire lifespan.' This adaptation—called neoteny—is identified as the specific characteristic that makes the species highly specialized.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=d5ef416e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 8,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

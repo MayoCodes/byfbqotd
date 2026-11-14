@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d89da3e3618fedb817de12712972febd",
+  "capturedAt": "2026-11-14T00:26:23.786Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The product of a positive number $y$ and the number that is $12$ less than $y$ is equal to $220$. What is the value of $y$?",
+  "choices": {},
+  "correctAnswer": "$$22$$",
+  "explanation": "The correct answer is $22$. The problem states that the product of a positive number $y$ and the number that is $12$ less than $y$ equals $220$. This translates to the equation $y(y-12)=220$. Expanding the left side gives $y^2-12y=220$. Rearranging to standard form: $y^2-12y-220=0$. To factor this quadratic, we need two numbers that multiply to $-220$ and sum to $-12$. Since $220=2^2\\times5\\times11$, the factor pairs include $10\\times22$. Testing: $(-22)\\times10=-220$ and $(-22)+10=-12$, which works. Therefore, the equation factors as $(y-22)(y+10)=0$. By the zero product property, $y-22=0$ or $y+10=0$, giving $y=22$ or $y=-10$. Since the problem specifies a positive number, $y=-10$ is rejected. Therefore, $y=22$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=38f140ed",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

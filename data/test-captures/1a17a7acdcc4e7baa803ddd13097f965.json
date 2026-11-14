@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1a17a7acdcc4e7baa803ddd13097f965",
+  "capturedAt": "2026-11-14T00:25:34.330Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "With its integration of satellite imagery and ground-based monitoring, the Amazon Deforestation Tracking System is representative of the Brazilian National Institute for Space Research's conservation efforts in the late 2010s and early 2020s. Through programs bridging remote sensing and field research, the institute achieved its greatest international recognition. A decade earlier, however, the institute had first established itself as a leader in rainforest conservation through traditional aerial surveys of the Cerrado region, where it was originally headquartered. The influence of this hands-on, observation-based approach can be detected in the emphasis on ground-truth verification in the Deforestation Tracking System, one of the institute's most celebrated initiatives from this period.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It explores the institute's lifelong interest in satellite technology, then debates whether aerial surveys influenced the Deforestation Tracking System.",
+    "B": "It discusses a particular period in the institute's conservation work, then considers the methods used in an earlier period of its history.",
+    "C": "It enthusiastically recommends the institute's earliest conservation programs, then expresses disappointment with its later initiatives.",
+    "D": "It praises the Deforestation Tracking System, then notes how remarkably similar that program is to systems the institute developed earlier in its history."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most accurately describes the overall structure of the text. The text begins by discussing the institute's work in the late 2010s and early 2020s, focusing on the Amazon Deforestation Tracking System and programs that brought international recognition. The temporal marker \"A decade earlier, however\" then shifts the focus backward to the institute's earlier work conducting aerial surveys in the Cerrado region. The text concludes by connecting these two periods, showing how the hands-on methods from the earlier period influenced the ground-truth verification approach in the later system.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=c0800d29",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 7,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

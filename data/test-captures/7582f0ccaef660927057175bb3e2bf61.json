@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7582f0ccaef660927057175bb3e2bf61",
+  "capturedAt": "2026-11-14T00:25:48.852Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Discussing the ecological adaptations of desert plants, botanist Maria Santos noted that all the species in the Sonoran ecosystem—including the tree with waxy leaves and deep taproots, the palo verde; the cactus with accordion-like pleats and spines, the saguaro; and the shrub with resinous coating, ______ may have developed these traits as responses to extreme aridity over millions of years of evolution.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "creosote;",
+    "B": "creosote—",
+    "C": "creosote",
+    "D": "creosote,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The em dash after 'ecosystem' opens a parenthetical list that interrupts the main clause ('all the species in the Sonoran ecosystem ... may have developed these traits'). An interruption opened with an em dash must be closed with a matching em dash, and B supplies it after the final item, 'creosote,' returning the reader to the main clause at 'may have developed.'",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=38434055",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 18,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

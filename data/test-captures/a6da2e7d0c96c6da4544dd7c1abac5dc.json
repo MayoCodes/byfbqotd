@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a6da2e7d0c96c6da4544dd7c1abac5dc",
+  "capturedAt": "2026-11-14T00:26:19.603Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Graph of Function",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of $y = g(x)$ is shown where $g(x) = ax^{3} + bx^{2} + cx + d$ and $a, b, c$, and $d$ are constants. For how many distinct values of $x$ does $g(x) = 0$ ?",
+  "choices": {
+    "A": "Two",
+    "B": "One",
+    "C": "Three",
+    "D": "Four"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The zeros of a function are the values of $x$ where $g(x) = 0$, which correspond to the $x$-intercepts of the graph (points where the curve crosses or touches the $x$-axis). Examining the graph, the cubic curve intersects the $x$-axis at exactly two distinct points: one intersection occurs at $x = -2$ and another at $x = 3$. Therefore, there are two distinct values of $x$ for which $g(x) = 0$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=7cfc3085",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a6da2e7d0c96c6da4544dd7c1abac5dc/1-74106b6d355b6217.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

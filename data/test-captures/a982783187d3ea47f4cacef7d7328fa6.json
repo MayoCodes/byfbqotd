@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a982783187d3ea47f4cacef7d7328fa6",
+  "capturedAt": "2026-11-14T00:26:13.159Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table gives the perimeters of similar triangles $ABC$ and $PQR$, where $AB$ corresponds to $PQ$. The length of $AB$ is $6$. What is the length of $PQ$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$6$",
+    "C": "$18$",
+    "D": "$54$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. For similar triangles, corresponding sides are proportional, and the ratio of corresponding sides equals the ratio of their perimeters. From the table, triangle $ABC$ has perimeter $30$ and triangle $PQR$ has perimeter $90$. The scaling factor is $\\frac{90}{30} = 3$. Since $\\overline{AB}$ corresponds to $\\overline{PQ}$ and the length of $\\overline{AB}$ is $6$, the length of $\\overline{PQ}$ is $6 \\times 3 = 18$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=ff8d66f1",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/a982783187d3ea47f4cacef7d7328fa6/1-d0037f8e99029ac8.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 10,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

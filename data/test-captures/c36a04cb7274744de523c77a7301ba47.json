@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c36a04cb7274744de523c77a7301ba47",
+  "capturedAt": "2026-11-14T00:26:25.034Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, $PR = RS$. The measure of $PRS$ is $116°$, and the measure of $PTQ$ is $39°$. If the measure of $TQR$ is $x°$, what is the value of $x$?",
+  "choices": {},
+  "correctAnswer": "$$71$$",
+  "explanation": "The correct answer is $71$. Since $PR = RS$, triangle $PRS$ is isosceles with the vertex angle at $R$. The base angles are equal: $\\angle RPS = \\angle RSP = \\frac{180° - 116°}{2} = 32°$. In triangle $PTQ$, $\\angle TQR$ is an exterior angle. By the exterior angle theorem, an exterior angle equals the sum of the two non-adjacent interior angles. Therefore, $\\angle TQR = \\angle TPQ + \\angle PTQ = 32° + 39° = 71°$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=495eb6b4",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c36a04cb7274744de523c77a7301ba47/1-ecd0a4e58c5de733.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

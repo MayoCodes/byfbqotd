@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cebc319634a05776d95048642d71d21c",
+  "capturedAt": "2026-11-14T00:26:04.029Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The width of a certain rectangular garden is $47$ meters. The garden's length is $4$ times its width. Which of the following systems of equations represents this situation, where $x$ is the length of the garden, in meters, and $y$ is the width of the garden, in meters?",
+  "choices": {
+    "A": "$x = 4y$\n\n$y = 47$",
+    "B": "$y = 4x$\n\n$y = 47$",
+    "C": "$x = 4y$\n\n$x = 47$",
+    "D": "$y = 4x$\n\n$x = 47$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The problem states that the width of the garden is $47$ meters, and since $y$ represents the width, this translates to the equation $y = 47$. The problem also states that the garden's length is $4$ times its width. Since $x$ represents the length and $y$ represents the width, 'length is $4$ times width' translates to $x = 4y$. Therefore, the system of equations $x = 4y$ and $y = 47$ correctly represents this situation, where the first equation captures the proportional relationship between length and width, and the second equation states the given constant value of the width.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=8cbf8e72",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

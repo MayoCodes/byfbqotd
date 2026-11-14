@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e3a3c385a5f6c70227a9bbaf440cdd7a",
+  "capturedAt": "2026-11-14T00:26:05.263Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the linear function $f$, the graph of $y = f(x)$ in the $xy$-plane has a slope of $-72$ and passes through the point $(0, 0)$. Which equation defines $f$?",
+  "choices": {
+    "A": "$f(x) = -72x$",
+    "B": "$f(x) = -36x$",
+    "C": "$f(x) = -18x$",
+    "D": "$f(x) = x$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The slope-intercept form of a linear function is $f(x) = mx + b$, where $m$ is the slope and $b$ is the $y$-intercept. The question states that the slope is $-72$, so $m = -72$. Since the graph passes through the point $(0, 0)$, this means when $x = 0$, $f(x) = 0$. Substituting these values into the slope-intercept form gives $0 = -72(0) + b$, which simplifies to $b = 0$. Therefore, the equation that defines $f$ is $f(x) = -72x + 0$, or simply $f(x) = -72x$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=e9ba4733",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

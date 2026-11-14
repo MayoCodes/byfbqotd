@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ae30730699de49bfe0f6230b08453b11",
+  "capturedAt": "2026-11-14T00:25:17.808Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Every US state has an associated state bird, which is typically discovered by ornithologists and then passed through the state legislature to receive its official designation. For example, California's California condor was first scientifically described in 1797 and formally designated in 1953, and New Mexico's greater roadrunner was documented in the 1800s and designated in 1949. ______ years pass between a bird's discovery and official designation, as the legislative process can be notoriously slow.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Often,",
+    "B": "Therefore,",
+    "C": "Similarly,",
+    "D": "Indeed,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because 'Often' logically signals that the statement describes a frequent occurrence. The passage provides two specific examples of delays between bird discovery and official designation—the California condor (discovered 1797, designated 1953) and the greater roadrunner (discovered in the 1800s, designated 1949). The sentence following the blank generalizes from these examples, stating that 'years pass between a bird's discovery and official designation.' 'Often' appropriately introduces this generalization about how frequently such delays occur.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=801ce5ad",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 21,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

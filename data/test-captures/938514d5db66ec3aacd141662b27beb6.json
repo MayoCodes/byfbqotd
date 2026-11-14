@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "938514d5db66ec3aacd141662b27beb6",
+  "capturedAt": "2026-11-14T00:25:16.532Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "A black granite wall emerges from the earth in the Vietnam Veterans Memorial, a monument designed by American ______ Maya Lin.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "architect:",
+    "B": "architect",
+    "C": "architect—",
+    "D": "architect,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation with essential appositives. The name 'Maya Lin' functions as an essential appositive that specifies which American architect designed the memorial. Because the name is essential (restrictive) information identifying the specific architect, it should not be set off by punctuation. Choice B correctly places no punctuation between 'architect' and 'Maya Lin.'",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=e0e57800",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 20,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

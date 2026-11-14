@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0d04c35656c8019767d81873be5eaaed",
+  "capturedAt": "2026-11-14T00:25:09.976Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Pronoun-Antecedent Agreement",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "After much deliberation, ______ finally made a decision: the members of the selection committee for the 1954 Nobel Prize in Physics would award that year's prize to Max Born of Germany \"for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wave function.\"",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "anyone",
+    "B": "you",
+    "C": "they",
+    "D": "it"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is pronoun-antecedent agreement. The plural pronoun 'they' correctly refers to the plural antecedent 'the members of the selection committee,' which appears after the colon. This sentence structure uses a pronoun before its antecedent is explicitly stated, with the colon introducing the clarification of who 'they' are. The plural 'they' appropriately matches the plural noun phrase 'the members of the selection committee' in both number and semantic appropriateness for referring to a group of people.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=9f78b2b4",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 15,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

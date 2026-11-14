@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f8503e8aecbbe25db989ee1c0e80da44",
+  "capturedAt": "2026-11-14T00:25:39.386Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nEnvironmental scientist Dr. Kenji Nakamura and colleagues developed a computational model to predict soil moisture levels at various monitoring sites on a scale from 1 (very dry) to 4 (saturated). They then deployed sensors at multiple sites to measure actual moisture levels using the same scale and calculated the correlation between the readings predicted by the model and those reported by the sensors, with higher correlations indicating that predicted readings were closer to reported readings. Assuming sites S1 and S3 reported equal moisture readings for the wetland ecosystem, the graph indicates that the model predicted ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+  "choices": {
+    "A": "S1's and S3's readings for wetland ecosystems would equal one another.",
+    "B": "S1's and S3's readings for wetland ecosystems would differ from one another.",
+    "C": "S1 would report higher moisture levels in wetland ecosystems than in grassland ecosystems.",
+    "D": "S1 would report lower moisture levels in wetland ecosystems than in grassland ecosystems."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it uses data from the graph to logically complete the statement. The graph shows that S1's correlation for wetland ecosystems is 0.38 while S3's correlation is 0.08. Since the text states that both sites reported equal actual moisture readings, the substantial difference in correlations indicates that the model's predicted readings for these sites must have differed from each other. If the model had predicted equal readings and both sites reported equal actual readings, their correlations would be similar, not substantially different as shown in the graph.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=48840f8c",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f8503e8aecbbe25db989ee1c0e80da44/1-f904aae8f35414be.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 11,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

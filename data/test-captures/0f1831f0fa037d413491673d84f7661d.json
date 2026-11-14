@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0f1831f0fa037d413491673d84f7661d",
+  "capturedAt": "2026-11-14T00:26:11.913Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$(45(n+7))/(5(n+7))$$\n\nThe given expression is equivalent to $d$, where $d$ is a constant and $n > -7$. What is the value of $d$?",
+  "choices": {},
+  "correctAnswer": "$$9$$",
+  "explanation": "The correct answer is $9$. To simplify the given rational expression $\\frac{45(n+7)}{5(n+7)}$, we identify the common factor $(n+7)$ in both the numerator and the denominator. Since $n > -7$, we know that $n+7 \\neq 0$, which means the factor $(n+7)$ can be canceled from both the numerator and denominator. Applying the fundamental property of fractions, $\\frac{45(n+7)}{5(n+7)} = \\frac{45}{5} \\cdot \\frac{n+7}{n+7} = \\frac{45}{5} \\cdot 1 = \\frac{45}{5}$. Dividing $45$ by $5$ gives $9$. Therefore, the expression simplifies to the constant $d = 9$. This result is independent of the value of $n$ (as long as $n > -7$), confirming that the expression is equivalent to a constant.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=2105c67e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 9,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "042809820164291a41690680854dce79",
+  "capturedAt": "2026-11-14T00:25:11.552Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Pronoun-Antecedent Agreement",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In March of 2003, the novel The Kite Runner was a literary sensation. Having dominated the bestseller lists for twelve weeks, ______ reached No. 3 on the New York Times list of best-selling fiction.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "those",
+    "B": "they",
+    "C": "each",
+    "D": "it"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun 'it' correctly refers back to the singular antecedent 'the novel.' The participial phrase 'Having dominated the bestseller lists for twelve weeks' modifies the subject of the main clause, and 'it' appropriately continues the reference to the singular noun 'novel' while serving as the subject of 'reached.'",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=3ad63a7c",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 16,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

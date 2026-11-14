@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9bb65c0b04d623201d9d55166ade05c3",
+  "capturedAt": "2026-11-14T00:26:45.565Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the distribution of student participation in two activities at two different schools. If a student represented in the table is selected at random, what is the probability of selecting a student from school $X$, given that the student participates in chess? (Express your answer as a decimal or fraction, not as a percent.)",
+  "choices": {},
+  "correctAnswer": "$$\\frac{24}{40},\\frac{3}{5},.6,0.6,0.60$$",
+  "explanation": "The correct answer is $\\frac{24}{40}$, which simplifies to $\\frac{3}{5}$ or $0.6$. This is a conditional probability problem where we need to find $P(\\text{School } X | \\text{chess})$. The phrase 'given that the student participates in chess' means we restrict our sample space to only students who participate in chess. From the table, the total number of students who participate in chess is $40$. Of these $40$ chess participants, $24$ are from school $X$. Therefore, the conditional probability is $\\frac{24}{40} = \\frac{3}{5} = 0.6$. Note that 24/40, 3/5, .6, 0.6, and 0.60 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=3a2d49a1",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/9bb65c0b04d623201d9d55166ade05c3/1-a40284d1dff38508.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

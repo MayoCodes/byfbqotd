@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c2d158a8df82d5b8152487cf2acc3f1d",
+  "capturedAt": "2026-11-14T00:25:35.644Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Complementary Text",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nStudies contributing to the body of evidence that ecosystems benefit from biodiversity have routinely focused on species richness within established habitats (from old-growth forests to coral reefs), but ecologist David Tilman and colleagues have demonstrated the benefit of considering edge habitats. Greater ecosystem resilience was observed in regions where researchers monitored transitional zones between forests and grasslands than in regions where only core habitats were assessed.\n\nText 2\nEcosystem assessment research commonly draws on a model that categorizes habitats within three distinct zones. The innermost zone holds core habitats (e.g., dense forest interiors), the next holds buffer zones that are moderately disturbed but still functional (e.g., selectively logged areas), and the outermost holds degraded areas too altered to be counted as part of the functioning ecosystem.",
+  "prompt": "Based on the texts, what would Tilman and colleagues (Text 1) most likely say about the discussion of the model in Text 2?",
+  "choices": {
+    "A": "It underscores that most research on ecosystem health fails to capture a category of habitat that has the capacity to contribute positively to ecosystem resilience.",
+    "B": "It reflects an overemphasis on habitat degradation in researchers' evaluations of the relative importance of various zones in an ecosystem assessment.",
+    "C": "It explains researchers' observations that core habitats typically exhibit greater biodiversity than transitional zones between habitats would.",
+    "D": "It emphasizes distinctions among types of buffer zones that aren't adequately represented in ecosystem research, since most studies categorize habitats as either core or degraded."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it accurately captures the limitation of the model that Tilman's research would highlight. Text 1 indicates that Tilman and colleagues found greater ecosystem resilience in transitional zones between forests and grasslands—edge habitats that represent boundaries between distinct ecosystem types. However, Text 2's model categorizes habitats into only three zones: core habitats, buffer zones (moderately disturbed areas within ecosystems), and degraded areas. This model lacks a category for the transitional edge habitats that Tilman found contribute positively to ecosystem resilience. Tilman would likely note that the model fails to capture this important habitat type.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=7671eabb",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 8,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

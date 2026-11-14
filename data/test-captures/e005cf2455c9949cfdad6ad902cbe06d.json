@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e005cf2455c9949cfdad6ad902cbe06d",
+  "capturedAt": "2026-11-14T00:26:00.265Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Use Quotation for Purpose",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The ratio of the total volume of a gas to the combined volume of all gases in a mixture is called the volume fraction.\n• The volume fraction of oxygen (O₂) in Earth's atmosphere is approximately 209,500 parts per million (ppm).\n• This indicates that oxygen makes up about 20.95% of atmospheric gases by volume.\n• The ratio of the total number of moles of a gas to the total number of moles of all gases in a mixture is called the mole fraction.\n• The mole fraction of oxygen in Earth's atmosphere is approximately 0.2095.\n• This indicates that oxygen makes up about 20.95% of atmospheric gases by mole count.",
+  "prompt": "The student wants to emphasize a similarity between volume fraction and mole fraction. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "In Earth's atmosphere, the volume fraction of oxygen is 209,500 ppm, and the mole fraction is approximately 0.2095.",
+    "B": "While volume fraction is a measure of relative volume and mole fraction is a measure of relative mole count, both indicate the relative abundance of gases in a mixture.",
+    "C": "Both volume fraction and mole fraction express the relative abundance of oxygen in Earth's atmosphere as a ratio of oxygen's total volume to the combined volume of all gases.",
+    "D": "The volume fraction of oxygen indicates its relative volume; in addition, the element's mole fraction indicates the relative number of oxygen molecules."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively emphasizes the similarity between volume fraction and mole fraction. The sentence explicitly acknowledges that the two concepts measure different properties (relative volume versus relative mole count) while highlighting what they fundamentally share: both indicate the relative abundance of gases in a mixture. This approach is particularly effective because the notes show that both measurements yield the same result for oxygen (20.95% of Earth's atmosphere), demonstrating that despite using different measurement approaches, they quantify the same underlying property.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=ca203f84",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 27,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

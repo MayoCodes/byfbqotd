@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3dca974096eb7b312b25bcf37a03e127",
+  "capturedAt": "2026-11-14T00:26:02.765Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $5y^{8} - 3y^{6} + 8y^{5}$?",
+  "choices": {
+    "A": "$y^{6}(5y^{2} - 3)$",
+    "B": "$3y^{8}(5 + 8y^{6} - 1)$",
+    "C": "$8y^{5}(5y^{3} - 3y + 1)$",
+    "D": "$y^{5}(5y^{3} - 3y + 8)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To factor a polynomial, identify the greatest common factor (GCF) of all terms. The expression $5y^8 - 3y^6 + 8y^5$ has three terms with the variable $y$ raised to powers $8$, $6$, and $5$. The GCF is $y^5$ (the lowest power of $y$ present in all terms). The coefficients $5$, $-3$, and $8$ have no common factor other than $1$. Factoring out $y^5$ from each term: $5y^8 \\div y^5 = 5y^3$, $-3y^6 \\div y^5 = -3y$, and $8y^5 \\div y^5 = 8$. Therefore, the expression factors as $y^5(5y^3 - 3y + 8)$. This can be verified by distributing: $y^5 \\cdot 5y^3 = 5y^8$, $y^5 \\cdot (-3y) = -3y^6$, and $y^5 \\cdot 8 = 8y^5$, which gives the original expression.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=14ffcfb3",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

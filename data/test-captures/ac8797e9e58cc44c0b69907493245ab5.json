@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ac8797e9e58cc44c0b69907493245ab5",
+  "capturedAt": "2026-11-14T00:26:44.325Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$-x - ky = -368$$\n\n$$2x - ky = 73$$\n\nIn the given system of equations, $k$ is a constant. In the xy-plane, the graphs of these equations intersect at the point $(r, 17)$, where $r$ is a constant. What is the value of $k$?",
+  "choices": {},
+  "correctAnswer": "$$13$$",
+  "explanation": "The correct answer is $13$. Since the graphs of the two equations intersect at the point $(r, 17)$, both equations are satisfied when $y = 17$ and $x = r$. Substituting $y = 17$ into both equations gives $-x - 17k = -368$ and $2x - 17k = 73$. To eliminate the term with $k$, subtract the first equation from the second: $(2x - 17k) - (-x - 17k) = 73 - (-368)$, which simplifies to $2x - 17k + x + 17k = 441$, or $3x = 441$. Dividing both sides by $3$ gives $x = 147$. Since the intersection point is $(r, 17)$, it follows that $r = 147$. Substituting $x = 147$ and $y = 17$ into the first equation gives $-147 - 17k = -368$. Adding $147$ to both sides yields $-17k = -221$. Dividing both sides by $-17$ gives $k = 13$. Therefore, the value of $k$ is $13$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=72626f38",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

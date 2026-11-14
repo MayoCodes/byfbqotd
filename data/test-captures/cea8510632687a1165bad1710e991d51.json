@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cea8510632687a1165bad1710e991d51",
+  "capturedAt": "2026-11-14T00:25:42.577Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Some industrial processes release perfluoroalkyl substances (PFAS), which can persist in groundwater and soil for decades. In a 2019 study, Fiona Murphy and colleagues found that PFAS can accumulate in the tissues of earthworms (Lumbricus terrestris). While accumulation of manufactured chemicals may be inherently concerning, it has been hypothesized that PFAS bioaccumulation in invertebrates like L. terrestris could serve as a valuable proxy indicator, obviating the need for researchers to conduct costly and invasive sampling of mammalian species—such as meadow voles (Microtus pennsylvanicus), commonly used in regulatory compliance testing—for PFAS contamination, as environmental protection guidelines currently require.",
+  "prompt": "Which finding, if true, would most directly weaken the hypothesis presented in the text?",
+  "choices": {
+    "A": "Compared with M. pennsylvanicus, L. terrestris can accumulate detectable PFAS concentrations with significantly fewer negative effects.",
+    "B": "The rate of PFAS uptake in L. terrestris differs from the rate of PFAS uptake in M. pennsylvanicus in a way that is not yet well understood by researchers.",
+    "C": "L. terrestris has been shown to accumulate several other types of industrial contaminants in addition to PFAS, whereas M. pennsylvanicus has been shown to accumulate only PFAS.",
+    "D": "When L. terrestris and M. pennsylvanicus are exposed to similar levels of PFAS, concentrations of PFAS in animals of both species show little variation from individual to individual."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because the hypothesis depends on earthworm PFAS measurements standing in for the mammalian measurements that regulatory guidelines require. If PFAS uptake rates differ between L. terrestris and M. pennsylvanicus in a way researchers do not yet understand, then a PFAS concentration measured in an earthworm cannot be reliably translated into the contamination level a meadow vole sample would reveal, so earthworm sampling could not substitute for mammalian sampling.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=da51e446",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 13,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

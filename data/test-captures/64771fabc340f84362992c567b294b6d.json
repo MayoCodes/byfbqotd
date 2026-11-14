@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "64771fabc340f84362992c567b294b6d",
+  "capturedAt": "2026-11-14T00:26:33.539Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$4(3x - 5) - 2(6x + 1) = kx + 7$$\n\nIn the given equation, $k$ is a constant. The equation has no solution. What is the value of $k$?",
+  "choices": {
+    "A": "$-22$",
+    "B": "$-12$",
+    "C": "$0$",
+    "D": "$12$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Distributing on the left side: $4(3x - 5) = 12x - 20$ and $-2(6x + 1) = -12x - 2$. The left side simplifies to $12x - 20 - 12x - 2 = -22$. The equation becomes $-22 = kx + 7$. For the equation to have no solution, the variable terms must be equal on both sides while the constant terms are not equal. Since the left side has no $x$ term (coefficient of $x$ is $0$), we need $k = 0$ on the right side. This gives $-22 = 7$, which is false for all values of $x$, meaning no solution exists.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=0ab7865f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

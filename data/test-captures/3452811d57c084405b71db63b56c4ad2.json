@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3452811d57c084405b71db63b56c4ad2",
+  "capturedAt": "2026-11-14T00:26:53.628Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$\\frac{1}{(3ab)} + abc = \\frac{1}{(2bc)}$ In the given equation, $a$, $b$, and $c$ are positive numbers. Which expression is equivalent to $b$?",
+  "choices": {
+    "A": "$\\frac{(3a-2c)}{(6a^{2}c^{2})}$",
+    "B": "$\\frac{1}{(2ac^{2}-3a^{2}c)}$",
+    "C": "$sqrt(\\frac{(3a-2c)}{(6a^{2}c^{2})})$",
+    "D": "$sqrt(\\frac{1}{(2ac^{2}-3a^{2}c)})$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The correct answer is C. To solve the equation $\\frac{1}{3ab} + abc = \\frac{1}{2bc}$ for $b$, first find the least common denominator of all terms, which is $6abc$. Multiplying the entire equation by $6abc$ yields: $\\frac{6abc}{3ab} + (6abc)(abc) = \\frac{6abc}{2bc}$. Simplifying each term gives $2c + 6a^2b^2c^2 = 3a$. Rearranging to isolate terms containing $b$: $6a^2b^2c^2 = 3a - 2c$. Dividing both sides by $6a^2c^2$ gives $b^2 = \\frac{3a - 2c}{6a^2c^2}$. Taking the square root of both sides yields $b = \\sqrt{\\frac{3a - 2c}{6a^2c^2}}$ (using the positive root since $a$, $b$, and $c$ are positive). Therefore, the expression equivalent to $b$ is $\\sqrt{\\frac{3a-2c}{6a^2c^2}}$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=c007339a",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 18,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

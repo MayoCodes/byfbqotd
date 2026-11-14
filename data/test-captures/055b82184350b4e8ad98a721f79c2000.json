@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "055b82184350b4e8ad98a721f79c2000",
+  "capturedAt": "2026-11-14T00:26:28.949Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe dot plot shows the distribution of test scores for students in Class A. For Class B, each student's score was $15$ points higher than the corresponding score of a student in Class A, and Class B has the same number of students as Class A. Which of the following is true about the test scores in Class B?",
+  "choices": {
+    "A": "The range is $31$ points.",
+    "B": "The mean is $15$ points greater than the mean of Class A.",
+    "C": "The standard deviation is greater than the standard deviation of Class A.",
+    "D": "The median is the same as the median of Class A."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. When a constant value is added to every data point in a dataset, the mean of the dataset increases by that constant, while measures of spread (such as range and standard deviation) remain unchanged. From the dot plot, Class A has scores of $4$ (frequency $6$), $8$ (frequency $4$), $12$ (frequency $3$), $16$ (frequency $5$), and $20$ (frequency $6$), for a total of $24$ students. The sum of all scores in Class A is $4(6) + 8(4) + 12(3) + 16(5) + 20(6) = 24 + 32 + 36 + 80 + 120 = 292$ points. Therefore, the mean of Class A is $\\frac{292}{24} \\approx 12.17$ points. Since each student's score in Class B is $15$ points higher than the corresponding student in Class A, the mean of Class B is $12.17 + 15 \\approx 27.17$ points. This represents an increase of exactly $15$ points from the mean of Class A, confirming that the mean of Class B is $15$ points greater than the mean of Class A.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=29a67031",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/055b82184350b4e8ad98a721f79c2000/1-160ff94383edf0f3.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 22,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

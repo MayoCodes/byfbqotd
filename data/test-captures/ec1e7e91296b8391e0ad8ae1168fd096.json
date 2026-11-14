@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ec1e7e91296b8391e0ad8ae1168fd096",
+  "capturedAt": "2026-11-14T00:25:52.734Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "With an estimated volume of about 26.5 million cubic kilometers, the Antarctic ice sheet represents the largest freshwater reservoir on Earth. Glaciers like those in Antarctica contribute only a small fraction of current sea level ______ the accelerating rate of ice melt and thermal expansion of ocean water threatening to dramatically increase coastal flooding in the coming decades.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "rise; though,",
+    "B": "rise, though;",
+    "C": "rise, though",
+    "D": "rise, though,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The transitional adverb 'though' introduces a contrasting idea that modifies the preceding independent clause. What follows 'though' is a participial phrase ('the accelerating rate...threatening'), not an independent clause, since 'threatening' functions as a participle rather than a main verb. When a transitional adverb like 'though' appears mid-sentence to introduce contrasting information, it must be set off with commas on both sides, creating the correct pattern: 'rise, though, the accelerating rate.'",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=2f1ac9d9",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 21,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

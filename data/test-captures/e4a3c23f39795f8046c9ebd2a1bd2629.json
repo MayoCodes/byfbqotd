@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e4a3c23f39795f8046c9ebd2a1bd2629",
+  "capturedAt": "2026-11-14T00:26:27.708Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Equation to Table",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Line $m$ is defined by $3x + 4y = 48$. Line $n$ is parallel to line $m$ in the $xy$-plane. An equation of line $n$ is $18x + sy = 20$, where $s$ is a constant. If line $n$ passes through the point $(0, c)$, what is the value of $c$?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{5}{6},.8333,0.833$$",
+  "explanation": "The correct answer is $\\frac{5}{6}$. Since line $n$ is parallel to line $m$, they must have equal slopes. First, find the slope of line $m$ by converting to slope-intercept form: $3x + 4y = 48$ becomes $4y = -3x + 48$, so $y = -\\frac{3}{4}x + 12$, giving slope $-\\frac{3}{4}$. For line $n$: $18x + sy = 20$ becomes $sy = -18x + 20$, so $y = -\\frac{18}{s}x + \\frac{20}{s}$, giving slope $-\\frac{18}{s}$. Setting the slopes equal: $-\\frac{3}{4} = -\\frac{18}{s}$, which gives $\\frac{3}{4} = \\frac{18}{s}$. Cross-multiplying yields $3s = 72$, so $s = 24$. Now line $n$ has equation $18x + 24y = 20$. Since line $n$ passes through the point $(0, c)$, substitute $x = 0$ into the equation: $18(0) + 24c = 20$, which gives $24c = 20$. Dividing both sides by $24$ yields $c = \\frac{20}{24} = \\frac{5}{6}$. Note that 5/6, .8333, and 0.833 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=a44d0892",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 21,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

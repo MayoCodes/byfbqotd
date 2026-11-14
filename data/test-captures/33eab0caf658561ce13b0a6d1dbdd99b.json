@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "33eab0caf658561ce13b0a6d1dbdd99b",
+  "capturedAt": "2026-11-14T00:26:15.894Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$a + 45 = b$$\n\n$$(a + 45)^{2} = b$$\n\nA solution to the given system of equations is $(a, b)$. What is a possible value of $a$?",
+  "choices": {
+    "A": "$1$",
+    "B": "$0$",
+    "C": "$-44$",
+    "D": "$45$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since both equations equal $b$, the expressions $a + 45$ and $(a + 45)^2$ can be set equal to each other: $a + 45 = (a + 45)^2$. Let $u = a + 45$. Then the equation becomes $u = u^2$, which can be rewritten as $u^2 - u = 0$. Factoring gives $u(u - 1) = 0$, so $u = 0$ or $u = 1$. This means $a + 45 = 0$ or $a + 45 = 1$. Solving these gives $a = -45$ or $a = -44$. Both values are valid solutions to the system. Checking $a = -44$: when $a = -44$, $b = -44 + 45 = 1$, and $(a + 45)^2 = 1^2 = 1$, confirming both equations are satisfied. Therefore, $a = -44$ is a possible value of $a$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=3ebf4fc8",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 12,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

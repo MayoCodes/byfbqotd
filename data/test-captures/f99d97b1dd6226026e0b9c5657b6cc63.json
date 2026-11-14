@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f99d97b1dd6226026e0b9c5657b6cc63",
+  "capturedAt": "2026-11-14T00:26:49.538Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Graph of Function",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 16(\\frac{p}{4})^x+r - q$$\n\nHow many times does the graph of the given equation in the $xy$-plane cross the $x$-axis, where $p$, $q$, and $r$ are positive constants such that $p > 8$ and $q > r$?",
+  "choices": {
+    "A": "Zero",
+    "B": "Two",
+    "C": "One",
+    "D": "Three"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The given equation is an exponential function of the form $y = 16\\left(\\frac{p}{4}\\right)^{x+r} - q$. Since $p > 8$, the base satisfies $\\frac{p}{4} > \\frac{8}{4} = 2 > 1$, which means this is an exponential growth function. As $x$ approaches negative infinity, the exponential term $\\left(\\frac{p}{4}\\right)^{x+r}$ approaches $0$, so $y$ approaches $16(0) - q = -q$. Since $q$ is positive, this means $y$ approaches a negative value. As $x$ approaches positive infinity, the exponential term grows without bound, so $y$ approaches positive infinity. Because exponential functions with base greater than $1$ are strictly increasing and continuous, the function values increase smoothly from near $-q$ (negative) to positive infinity. Therefore, the function must cross the $x$-axis (where $y = 0$) exactly once.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=1a38395e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

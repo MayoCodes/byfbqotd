@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c2c4d1c90b4b732f0bc5f43518aff25b",
+  "capturedAt": "2026-11-14T00:25:08.734Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Dr. Ava Mitchell et al. conducted an analysis of carbon sequestration trends in tropical rainforests worldwide, focusing on the relationship between canopy density and carbon storage capacity. They examined forests across the tropics, with groupings based on regionally distinct rainfall patterns, soil types, and ecological constraints—including the wet lowland forests of the Amazon Basin in Brazil, seasonal monsoon forests in Thailand, volcanic-soil forests in Indonesia, and ancient laterite-soil forests in the Congo Basin. A prevalent trend emerged: as a forest plot's canopy density increased, so did its carbon storage capacity. This finding implies that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "even when they were substantial, known inter-regional differences in characteristics of forest ecosystems had a limited effect on carbon sequestration patterns in tropical rainforests worldwide.",
+    "B": "the observed relationship is heavily influenced by forest characteristics that were particular to the Amazon Basin, making it unlikely that a similarly strong relationship between canopy density and carbon storage would be found in tropical forests in other regions.",
+    "C": "the effects of variations in rainfall and soil composition on carbon sequestration patterns were less evident in comparisons between forest plots within a region than in comparisons between groups of plots across regions of the tropics.",
+    "D": "despite regional differences in their rainfall patterns and soil composition, tropical rainforests shared common ecological constraints that encouraged high carbon storage in densely canopied areas."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it logically follows from the evidence presented. The passage describes how researchers examined forests across different tropical regions with varying characteristics—including different rainfall patterns (wet lowland forests in Brazil, seasonal forests in Thailand) and different soil types (volcanic soils in Indonesia, ancient laterite soils in the Congo Basin). Despite these known regional differences, a consistent pattern emerged: increased canopy density correlated with increased carbon storage. This consistency across diverse conditions implies that inter-regional differences had limited effect on the observed relationship.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=0ff9b662",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 14,
+    "subject": "English",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

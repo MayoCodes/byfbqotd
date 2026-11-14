@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "763efb73e3e3e97bb175b71599ed2421",
+  "capturedAt": "2026-11-14T00:26:54.965Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2x^{2} - 18x + 23 = 0$$\n\nOne solution to the given equation can be written as $a + \\frac{1}{2}sqrt(b)$, where $a$ and $b$ are constants. What is the value of $a + b$?",
+  "choices": {
+    "A": "$\\frac{9}{2} + 140$",
+    "B": "$\\frac{9}{2} + 35$",
+    "C": "$\\frac{(23)}{2}$",
+    "D": "$149$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The correct answer is B. Using the quadratic formula with $a = 2$, $b = -18$, and $c = 23$: $x = \\frac{18 \\pm \\sqrt{(-18)^2 - 4(2)(23)}}{2(2)} = \\frac{18 \\pm \\sqrt{324 - 184}}{4} = \\frac{18 \\pm \\sqrt{140}}{4}$. Separating this into two fractions: $x = \\frac{18}{4} \\pm \\frac{\\sqrt{140}}{4} = \\frac{9}{2} \\pm \\frac{\\sqrt{140}}{4}$. To match the form $a + \\frac{1}{2}\\sqrt{b}$, we need to rewrite $\\frac{\\sqrt{140}}{4}$. Factor out $\\frac{1}{2}$: $\\frac{\\sqrt{140}}{4} = \\frac{1}{2} \\cdot \\frac{\\sqrt{140}}{2} = \\frac{1}{2}\\sqrt{\\frac{140}{4}} = \\frac{1}{2}\\sqrt{35}$. Therefore, one solution is $x = \\frac{9}{2} + \\frac{1}{2}\\sqrt{35}$, which means $a = \\frac{9}{2}$ and $b = 35$. Thus, $a + b = \\frac{9}{2} + 35 = \\frac{9}{2} + \\frac{70}{2} = \\frac{79}{2}$.\n\nChoice A is incorrect. This results from incorrectly simplifying $\\frac{\\sqrt{140}}{4}$ as $\\frac{1}{2}\\sqrt{140}$, which is not algebraically correct since $\\frac{\\sqrt{140}}{4} = \\frac{1}{4}\\sqrt{140}$, not $\\frac{1}{2}\\sqrt{140}$.\n\nChoice C is incorrect. This may result from computational errors or incorrectly manipulating the terms from the quadratic formula.\n\nChoice D is incorrect. This results from using $a = 9$ instead of $a = \\frac{9}{2}$ and computing $9 + 140 = 149$.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=ea2560bb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}

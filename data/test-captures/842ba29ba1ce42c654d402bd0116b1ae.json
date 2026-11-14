@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "842ba29ba1ce42c654d402bd0116b1ae",
+  "capturedAt": "2026-11-14T00:26:42.873Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the right triangle shown, what is the value of $( x)^{2} + ( x)^{2} + x \\times x$?",
+  "choices": {},
+  "correctAnswer": "1.564; 1.565",
+  "explanation": "The correct answer is $1.565$ (or $1.564$). By the Pythagorean identity, $(\\sin x)^2 + (\\cos x)^2 = 1$. For the second part, $\\tan x \\cdot \\cos x = \\frac{\\sin x}{\\cos x} \\cdot \\cos x = \\sin x$. From the triangle, $\\sin x = \\frac{48}{85}$. Therefore, $(\\sin x)^2 + (\\cos x)^2 + \\tan x \\cdot \\cos x = 1 + \\sin x = 1 + \\frac{48}{85} = \\frac{85}{85} + \\frac{48}{85} = \\frac{133}{85} = 1.5647$. Note that 1.564 and 1.565 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/6?questionId=417f2a73",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/842ba29ba1ce42c654d402bd0116b1ae/1-05f88b7869079b0a.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "6",
+    "title": "Practice Test 6"
+  }
+}
