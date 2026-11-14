@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b7f8b0f7e76a0eb401df6f46b97aee4",
+  "capturedAt": "2026-11-14T02:01:10.467Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangle has a length that is $45$ times its width. The function $y = (45w)(w)$ represents this situation, where $y$ is the area, in square feet, of the rectangle and $y > 0$. Which of the following is the best interpretation of $45w$ in this context?",
+  "choices": {
+    "A": "The length of the rectangle, in feet",
+    "B": "The area of the rectangle, in square feet",
+    "C": "The difference between the length and the width of the rectangle, in feet",
+    "D": "The width of the rectangle, in feet"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The problem states that the length of the rectangle is $45$ times its width. If $w$ represents the width, then the length can be expressed algebraically as $45w$. The function $y = (45w)(w)$ represents the area of the rectangle, which is calculated by multiplying length times width: $\\text{Area} = \\text{length} \\times \\text{width} = (45w) \\times w$. Therefore, the expression $45w$ directly represents the length of the rectangle, in feet.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=6d88d47d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 10,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

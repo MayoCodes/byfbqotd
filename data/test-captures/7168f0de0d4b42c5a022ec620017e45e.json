@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7168f0de0d4b42c5a022ec620017e45e",
+  "capturedAt": "2026-11-14T02:01:40.950Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = 5x^{2} - bx - 8$$\n\nWhich of the following equations is equivalent to the given equation, where $b$ is a positive constant?",
+  "choices": {
+    "A": "$y = 5(x + \\frac{b}{(10)})^{2} - 8 - \\frac{(b^{2})}{(20)}$",
+    "B": "$y = 5(x - \\frac{b}{(10)})^{2} + 8$",
+    "C": "$y = 5(x - \\frac{b}{(10)})^{2} - 8 - \\frac{(b^{2})}{(20)}$",
+    "D": "$y = 5(x + \\frac{b}{(10)})^{2} + 8$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To convert the given equation from standard form to vertex form, complete the square. First, factor the leading coefficient $5$ from the terms containing $x$: $y = 5\\left(x^2 - \\frac{b}{5}x\\right) - 8$. To complete the square, take half of the coefficient of $x$ (which is $-\\frac{b}{5}$), giving $-\\frac{b}{10}$, and square it to get $\\frac{b^2}{100}$. Add and subtract this value inside the parentheses: $y = 5\\left(x^2 - \\frac{b}{5}x + \\frac{b^2}{100} - \\frac{b^2}{100}\\right) - 8$. Factor the perfect square trinomial: $y = 5\\left(\\left(x - \\frac{b}{10}\\right)^2 - \\frac{b^2}{100}\\right) - 8$. Distribute the $5$: $y = 5\\left(x - \\frac{b}{10}\\right)^2 - \\frac{5b^2}{100} - 8 = 5\\left(x - \\frac{b}{10}\\right)^2 - \\frac{b^2}{20} - 8$. This can be rewritten as $y = 5\\left(x - \\frac{b}{10}\\right)^2 - 8 - \\frac{b^2}{20}$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=1764b79a",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 17,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

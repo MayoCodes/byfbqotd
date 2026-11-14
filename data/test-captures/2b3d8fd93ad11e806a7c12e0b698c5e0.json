@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b3d8fd93ad11e806a7c12e0b698c5e0",
+  "capturedAt": "2026-11-14T02:01:04.144Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Radical Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$sqrt(k)+17=25$$\n\nWhat is the solution to the given equation?",
+  "choices": {
+    "A": "$4$",
+    "B": "$64$",
+    "C": "$16$",
+    "D": "$8$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The correct answer is B. To solve the equation $\\sqrt{k} + 17 = 25$, first isolate the square root by subtracting $17$ from both sides: $\\sqrt{k} = 8$. Then square both sides to eliminate the square root: $(\\sqrt{k})^2 = 8^2$, which gives $k = 64$. To verify: $\\sqrt{64} + 17 = 8 + 17 = 25$.\n\nChoice A is incorrect. This may result from solving incorrectly or confusing the value of $k$ with other calculations in the problem.\n\nChoice C is incorrect. This may result from doubling $8$ instead of squaring it, giving $8 \\times 2 = 16$ rather than $8^2 = 64$.\n\nChoice D is incorrect. This is the value of $\\sqrt{k}$, not $k$ itself. After finding $\\sqrt{k} = 8$, you must square both sides to get $k = 8^2 = 64$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=28e49d17",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ec23ae494c9da005e2bcff882f52169f",
+  "capturedAt": "2026-11-14T02:01:08.111Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA water tank was filled with an initial amount of water. Over the next several hours, water was continuously added to the tank at a steady rate, and no water was removed during this time. The graph of the function $f$ shown, where $y = f(x)$, estimates the volume of water, in liters, in this water tank $x$ hours since the initial fill. To the nearest whole liter, what is the amount of the initial water estimated by the graph?",
+  "choices": {},
+  "correctAnswer": "$$25$$",
+  "explanation": "The correct answer is $25$. The initial amount of water in the tank corresponds to the volume at time $x = 0$ hours, which is the y-intercept of the function $f$. On the graph, the line intersects the y-axis at the point $(0, 25)$. This means that when $x = 0$, $y = 25$. Therefore, the initial amount of water in the tank was $25$ liters. Since $25$ is already a whole number, no rounding is necessary.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=6e649b82",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ec23ae494c9da005e2bcff882f52169f/1-e842583090795641.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

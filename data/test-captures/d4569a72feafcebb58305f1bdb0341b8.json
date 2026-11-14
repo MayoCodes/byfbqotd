@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d4569a72feafcebb58305f1bdb0341b8",
+  "capturedAt": "2026-11-14T02:01:27.197Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A chemist has Solution A with a concentration of $15%$ acid and Solution B with a concentration of $35%$ acid. She combines the two solutions to create $80$ milliliters of a mixture that is $22%$ acid. What is the ratio of the volume of Solution A to the volume of Solution B in the mixture?",
+  "choices": {
+    "A": "$\\frac{(13)}{7}$",
+    "B": "$\\frac{7}{(13)}$",
+    "C": "$\\frac{(13)}{4}$",
+    "D": "$\\frac{(11)}{9}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Let $a$ represent the volume of Solution A and $b$ represent the volume of Solution B, both in milliliters. The total volume gives the equation $a + b = 80$. The total acid content gives the equation $0.15a + 0.35b = 0.22(80) = 17.6$. From the first equation, $a = 80 - b$. Substituting into the second equation: $0.15(80 - b) + 0.35b = 17.6$, which simplifies to $12 - 0.15b + 0.35b = 17.6$, then $12 + 0.20b = 17.6$. Solving gives $0.20b = 5.6$, so $b = 28$. Therefore, $a = 80 - 28 = 52$. The ratio of Solution A to Solution B is $\\frac{52}{28} = \\frac{13}{7}$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=85415dbb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 4,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

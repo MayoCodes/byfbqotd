@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "48f78db6dbd1862a89c3580455a3a2b6",
+  "capturedAt": "2026-11-14T02:01:06.114Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f(x) = -40x + 380$ gives the predicted amount of water $f(x)$, in gallons, remaining in a tank $x$ hours after it begins to drain. What is the predicted amount of water, in gallons, remaining in the tank $3$ hours after it begins to drain?",
+  "choices": {
+    "A": "$260$",
+    "B": "$120$",
+    "C": "$280$",
+    "D": "$500$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To find the predicted amount of water remaining in the tank $3$ hours after it begins to drain, substitute $x = 3$ into the function $f(x) = -40x + 380$. This gives $f(3) = -40(3) + 380$. Multiplying first: $-40(3) = -120$. Then adding: $-120 + 380 = 260$. Therefore, the predicted amount of water remaining in the tank $3$ hours after it begins to drain is $260$ gallons.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=9543f5fd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

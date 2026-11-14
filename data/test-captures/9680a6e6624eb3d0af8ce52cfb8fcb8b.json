@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9680a6e6624eb3d0af8ce52cfb8fcb8b",
+  "capturedAt": "2026-11-14T02:00:24.353Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Dating to around 540 CE, the Byzantine mosaics are eight magnificent mosaics depicting biblical scenes that adorn the interior of the Basilica of San Vitale in Ravenna, Italy. Attempting to explain the mosaics' symbolism, art historian and professor of Byzantine studies Dr. Alessandro ______ that while some have interpreted the mosaics as imperial propaganda, such imagery in that era was typically featured in religious rather than political contexts.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Benedetti, who noted",
+    "B": "Benedetti, noted",
+    "C": "Benedetti noted",
+    "D": "Benedetti, noting"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of punctuation between a subject and a verb. The singular verb 'noted' is the main verb of the sentence, with 'art historian and professor of Byzantine studies Dr. Alessandro Benedetti' as its subject. No punctuation should intervene between a subject and its verb, so no comma is needed between 'Benedetti' and 'noted.' The verb 'noted' correctly introduces the that-clause explaining Benedetti's observation about the mosaics' symbolism.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=9c3b9251",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 19,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

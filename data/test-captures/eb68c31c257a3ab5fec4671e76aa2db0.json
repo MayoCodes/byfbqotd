@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eb68c31c257a3ab5fec4671e76aa2db0",
+  "capturedAt": "2026-11-14T02:01:30.156Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Solution from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graphs of $y = 2x - 1$ and $y = -x + 5$ are shown. Point $Q$ (not shown) has coordinates $(2, 1)$ and lies in the shaded region. The coordinates of $Q$ satisfy which of the following inequalities?\n\nI. $y < 2x - 1$\n\nII. $y > -x + 5$",
+  "choices": {
+    "A": "I and II",
+    "B": "II only",
+    "C": "I only",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To determine which inequalities are satisfied by point $Q(2, 1)$, we substitute the coordinates into each inequality. For inequality I: $y < 2x - 1$, substituting gives $1 < 2(2) - 1$, which simplifies to $1 < 4 - 1$, or $1 < 3$. This is true, so inequality I is satisfied. For inequality II: $y > -x + 5$, substituting gives $1 > -(2) + 5$, which simplifies to $1 > -2 + 5$, or $1 > 3$. This is false, so inequality II is not satisfied. Since point $Q$ satisfies inequality I but not inequality II, the correct answer is I only.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=27f4513f",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/eb68c31c257a3ab5fec4671e76aa2db0/1-420d888829c7b1ac.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

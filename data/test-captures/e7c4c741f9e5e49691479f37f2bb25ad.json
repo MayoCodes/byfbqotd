@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e7c4c741f9e5e49691479f37f2bb25ad",
+  "capturedAt": "2026-11-14T02:01:29.181Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The density $D$ of a substance, in grams per cubic centimeter, is given by the formula $D = \\frac{m}{V}$, where $m$ is the mass, in grams, and $V$ is the volume, in cubic centimeters. A baker is making a layered dessert by combining honey and cream in a container. Honey has a density of $1.4$ grams per cubic centimeter, and cream has a density of $1.0$ gram per cubic centimeter. The two liquids separate into distinct layers due to their different densities. If the total volume of the mixture is $500$ cubic centimeters and the total mass is $580$ grams, what is the volume, in cubic centimeters, of the honey layer?",
+  "choices": {
+    "A": "$200$",
+    "B": "$300$",
+    "C": "$280$",
+    "D": "$250$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Using the density formula $D = \\frac{m}{V}$, the mass of each substance can be expressed as $m = DV$. Let $V_H$ represent the volume of honey and $V_C$ represent the volume of cream. The mass of honey is $1.4V_H$ and the mass of cream is $1.0V_C$. Two equations can be set up: $V_H + V_C = 500$ (total volume) and $1.4V_H + 1.0V_C = 580$ (total mass). From the first equation, $V_C = 500 - V_H$. Substituting into the second equation: $1.4V_H + 1.0(500 - V_H) = 580$, which simplifies to $1.4V_H + 500 - V_H = 580$, then $0.4V_H = 80$, so $V_H = 200$ cubic centimeters.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=7219bfca",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 6,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

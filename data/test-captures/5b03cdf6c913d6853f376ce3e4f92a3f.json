@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5b03cdf6c913d6853f376ce3e4f92a3f",
+  "capturedAt": "2026-11-14T02:00:22.371Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "As ballet dancer Misty Copeland honed her technical abilities—acquiring a sophisticated extension and precise control over turnout, port de bras, and ______ she earned comparisons to ballet legend Margot Fonteyn, one of her personal heroes. The comparisons highlight how Copeland, a ballet star, had transcended genre boundaries with her dancing prowess.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "elevation:",
+    "B": "elevation",
+    "C": "elevation,",
+    "D": "elevation—"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is paired punctuation for interrupting elements. An em dash after 'abilities' opens a parenthetical participial phrase ('acquiring a sophisticated extension and precise control over turnout, port de bras, and elevation'). Standard conventions require a closing em dash to complete the pair and signal where the interruption ends, allowing the main clause to resume with 'she earned comparisons.'",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=c3e0cc60",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 17,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

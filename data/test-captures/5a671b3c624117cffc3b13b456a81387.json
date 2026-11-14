@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5a671b3c624117cffc3b13b456a81387",
+  "capturedAt": "2026-11-14T02:01:02.105Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Setup Only",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Alex has $a$ points and Jordan has $j$ points in a game. Alex has $3$ times as many points as Jordan, and together they have a total of $48$ points. Which system of equations represents this situation?",
+  "choices": {
+    "A": "$a = 3j \\\\ a + j = 48$",
+    "B": "$j = 3a \\\\ a + j = 48$",
+    "C": "$a = 48j \\\\ a + j = 3$",
+    "D": "$j = 48a \\\\ a + j = 3$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The problem states two relationships that must be translated into equations. First, 'Alex has $3$ times as many points as Jordan' means Alex's points equal $3$ times Jordan's points, which translates to $a = 3j$. Second, 'together they have a total of $48$ points' means the sum of their points equals $48$, which translates to $a + j = 48$. Therefore, the system of equations is $a = 3j$ and $a + j = 48$. To verify: if Jordan has $j = 12$ points, then Alex has $a = 3(12) = 36$ points, and their total is $36 + 12 = 48$ points, which satisfies both conditions.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=2b59059c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

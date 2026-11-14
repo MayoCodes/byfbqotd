@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff277beb4340dcd4580b507a8bfbd939",
+  "capturedAt": "2026-11-14T02:00:54.911Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The Lena River in Siberia flows eastward toward the sunrise, which is the same direction as Earth's rotation at that latitude. ______ the Lena's flow is described as equatorial. The Nile River in Africa, by contrast, flows generally northward, perpendicular to the equator, so its flow is described with a different directional term: meridional.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Nevertheless,",
+    "B": "In reality,",
+    "C": "Hence,",
+    "D": "Next,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because 'Hence' logically signals a consequence or result. The text establishes that the Lena River flows eastward, the same direction as Earth's rotation at that latitude. The classification 'equatorial' is a direct consequence of this directional alignment. The transition word 'Hence' properly connects the cause (eastward flow matching Earth's rotation) to its effect (the equatorial classification), creating a clear causal relationship between the directional characteristic and the resulting terminology.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=2001d8be",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 22,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

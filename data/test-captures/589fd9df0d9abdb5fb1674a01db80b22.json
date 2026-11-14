@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "589fd9df0d9abdb5fb1674a01db80b22",
+  "capturedAt": "2026-11-14T02:00:55.941Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "For several centuries after the rise of haute cuisine in seventeenth-century France, French remained the default language in which most culinary terminology was established. ______ professional chefs today, such as the chef Marco Romano, encounter a wide range of French terms—from mise en place (everything in its place) to sauté (to jump or fry quickly)—when following many nineteenth-century culinary texts.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "However,",
+    "B": "Granted,",
+    "C": "Lastly,",
+    "D": "Thus,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because 'Thus' logically signals a consequence or result, which fits the relationship between the two sentences. The first sentence establishes that French was the default culinary language for several centuries, and the second sentence describes a direct result of this historical dominance: modern professional chefs encounter French terms like mise en place and sauté in nineteenth-century texts. This is a straightforward cause-and-effect relationship where the historical fact leads to the present-day reality.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=7735a83f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 23,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

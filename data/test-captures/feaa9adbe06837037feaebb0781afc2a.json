@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "feaa9adbe06837037feaebb0781afc2a",
+  "capturedAt": "2026-11-14T02:00:50.876Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Among the small magazines flourishing in Chicago's dynamic literary scene in the 1920s was ______ by Harriet Monroe and featuring poetry by Carl Sandburg, Ezra Pound, and T.S. Eliot; verse by Wallace Stevens and Marianne Moore; and editorial essays penned by Monroe, this magazine promoted the work of influential modernist poets of the era.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Poetry; founded",
+    "B": "Poetry. Founded",
+    "C": "Poetry founded",
+    "D": "Poetry, founded"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. A period separates the introductory statement naming the magazine ('Among the small magazines...was Poetry') from the complete sentence that follows ('Founded by Harriet Monroe and featuring poetry...this magazine promoted...'). The capitalized 'Founded' properly begins the new sentence, which has its own subject ('this magazine') and verb ('promoted').",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=4a3203b9",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 18,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

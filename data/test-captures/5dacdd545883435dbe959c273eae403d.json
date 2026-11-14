@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5dacdd545883435dbe959c273eae403d",
+  "capturedAt": "2026-11-14T02:01:13.489Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A circle has a circumference of $67\\pi$ inches. What is the diameter, in inches, of the circle?",
+  "choices": {},
+  "correctAnswer": "$$67$$",
+  "explanation": "The correct answer is $67$. The circumference of a circle is given by the formula $C = \\pi d$, where $C$ is the circumference and $d$ is the diameter. Substituting the given circumference into the formula gives $67\\pi = \\pi d$. Dividing both sides of the equation by $\\pi$ yields $d = \\frac{67\\pi}{\\pi} = 67$. Therefore, the diameter of the circle is $67$ inches.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=133c450f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 13,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

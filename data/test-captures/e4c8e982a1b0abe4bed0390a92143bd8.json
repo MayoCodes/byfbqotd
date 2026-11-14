@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e4c8e982a1b0abe4bed0390a92143bd8",
+  "capturedAt": "2026-11-14T02:00:57.104Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Euglena gracilis, a single-celled organism found in freshwater environments that was first observed in detail in 1674, is classified as an autotroph. Autotrophs are generally considered distinct from heterotrophs, or organisms that obtain energy by consuming other organisms. ______ Euglena gracilis notably exhibits both photosynthetic capabilities and heterotrophic feeding behaviors depending on environmental conditions.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Exemplifying this distinction,",
+    "B": "Underscoring this difference,",
+    "C": "Supporting this claim,",
+    "D": "Blurring this line,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because 'Blurring this line' logically signals that Euglena gracilis complicates the distinction between autotrophs and heterotrophs established in the previous sentence. The text states that autotrophs are 'generally considered distinct from' heterotrophs, but then reveals that Euglena 'exhibits both photosynthetic capabilities and heterotrophic feeding behaviors.' By possessing characteristics of both categories, Euglena makes the boundary between them unclear, effectively blurring the line between autotrophs and heterotrophs.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=b482643f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 24,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

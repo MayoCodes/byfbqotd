@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "729fecd4f30cc0a7733d67dd00f97e8c",
+  "capturedAt": "2026-11-14T02:01:14.558Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $\\frac{(x - 23)}{(15)} = \\frac{(x - 23)}{5}$, what is the value of $x + 23$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$46$",
+    "C": "$23$",
+    "D": "$3$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For two fractions with identical numerators to be equal, either the denominators must be equal or the numerator must equal zero. Since the denominators are $15$ and $5$, which are not equal, the only way for $\\frac{x - 23}{15} = \\frac{x - 23}{5}$ to be true is if the numerator $x - 23 = 0$. Solving this equation gives $x = 23$. Therefore, $x + 23 = 23 + 23 = 46$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=829c0281",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 14,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

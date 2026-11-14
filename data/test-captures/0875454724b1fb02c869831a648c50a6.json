@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0875454724b1fb02c869831a648c50a6",
+  "capturedAt": "2026-11-14T02:00:38.380Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Describe Difference Between Views",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nVincent van Gogh's 1885 painting The Potato Eaters depicts a peasant family gathered around a humble meal in dim lamplight. The dark, earthy tones and rough brushwork convey a sense of dignity in poverty. Art historian Layla Hassan argues that the painting reflects van Gogh's deep sympathy for the working class and his belief that peasants possessed an authentic connection to the land that urban society had lost. The somber mood and emphasis on shared labor, Hassan suggests, reveal van Gogh's conviction that rural life embodied moral values absent from industrialized cities.\n\nText 2\nWhile The Potato Eaters is often interpreted as van Gogh's personal statement about peasant life, art historian Omar Khoury cautions against such readings. Van Gogh created the painting during a period when he was desperately seeking approval from established art dealers in Paris, who favored images of rural subjects that appealed to urban buyers. The painting's style and subject matter, Khoury argues, were heavily influenced by market demands and artistic conventions of the time, making it difficult to determine van Gogh's authentic personal views about the peasantry from this work alone.",
+  "prompt": "Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view the painting The Potato Eaters?",
+  "choices": {
+    "A": "The author of Text 1 implies that the style and subject matter of the painting are atypical of van Gogh's body of work, whereas the author of Text 2 claims that the painting is representative of van Gogh as a painter.",
+    "B": "The author of Text 1 suggests that the painting can reveal information about van Gogh's opinions, whereas the author of Text 2 believes that the circumstances of the painting's production prohibit such an interpretation.",
+    "C": "The author of Text 1 claims that the painting is an accurate representation of actual peasant life, whereas the author of Text 2 identifies several embellishments that van Gogh made to idealize the scene.",
+    "D": "The author of Text 1 focuses on the painting's symbolic representation of rural values, whereas the author of Text 2 emphasizes its realistic portrayal of peasant living conditions."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it accurately captures the methodological disagreement between the two texts. Text 1 presents Hassan's view that the painting's artistic choices 'reveal van Gogh's conviction' about rural life—treating the artwork as evidence of his personal beliefs. Text 2 presents Khoury's opposing view: because van Gogh was influenced by market demands and seeking dealer approval, 'it difficult to determine van Gogh's authentic personal views' from the work. Text 1 treats the painting as a window into the artist's opinions; Text 2 argues that external circumstances obscure his true intent.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=8830b0b1",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 6,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

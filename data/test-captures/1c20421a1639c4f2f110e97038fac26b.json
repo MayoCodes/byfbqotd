@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1c20421a1639c4f2f110e97038fac26b",
+  "capturedAt": "2026-11-14T02:00:10.790Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Function of Underlined Portion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The detection of novel exoplanets, such as Proxima Centauri b, has led astronomers to consider the prospect of cataloging all potentially habitable worlds. In 2023, Priya Reddy calculated the historical rates at which newly detected exoplanets have entered the scientific literature, expanding the \"catalog of Earth-like worlds.\" Using a conservative estimate of the number of detectable planets in habitable zones and assuming a doubling of the historical pace of detection, Reddy found that under these hypothetical conditions, all such planets could be identified and cataloged by 2055.",
+  "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?",
+  "choices": {
+    "A": "It provides details about the qualification later in the sentence regarding the prospect of cataloging all potentially habitable worlds.",
+    "B": "It introduces information that helps explain why the detection of novel exoplanets has rapidly expanded the catalog of Earth-like worlds.",
+    "C": "It makes a comparison between the past and current rates at which new exoplanets have entered the scientific literature.",
+    "D": "It emphasizes the point implicitly made earlier in the text that technological limitations are the primary constraint on expanding the catalog of Earth-like worlds."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because the underlined portion provides details about the qualification later in the sentence. The underlined phrase establishes two methodological parameters: 'a conservative estimate of the number of detectable planets' and 'assuming a doubling of the historical pace of detection.' These conditions directly qualify Reddy's conclusion, as confirmed by 'under these hypothetical conditions' that immediately follows. The sentence structure moves from methodology (the underlined assumptions) to qualified conclusion (all planets 'could be identified and cataloged by 2055'). Without these qualifying conditions, the prediction would be presented as certain rather than contingent upon specific assumptions.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=4fcc8d60",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 6,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

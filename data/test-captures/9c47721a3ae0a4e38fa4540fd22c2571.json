@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9c47721a3ae0a4e38fa4540fd22c2571",
+  "capturedAt": "2026-11-14T02:01:26.051Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Radian/Degree Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The measure of angle K is $\\frac{(\\pi )}{(12)}$ radians. If the measure of angle K is $5m$ degrees, where $m$ is a constant, what is the value of $m$?",
+  "choices": {
+    "A": "$15$",
+    "B": "$5$",
+    "C": "$12$",
+    "D": "$3$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To convert from radians to degrees, use the conversion factor $\\frac{180°}{\\pi \\text{ radians}}$. Converting $\\frac{\\pi}{12}$ radians to degrees: $\\frac{\\pi}{12} \\text{ radians} \\times \\frac{180°}{\\pi \\text{ radians}} = \\frac{\\pi \\times 180°}{12 \\times \\pi} = \\frac{180°}{12} = 15°$. Since the measure of angle K is also given as $5m$ degrees, we can set up the equation $15 = 5m$. Dividing both sides by $5$ gives $m = \\frac{15}{5} = 3$. Therefore, the value of $m$ is $3$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=ab2410b1",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

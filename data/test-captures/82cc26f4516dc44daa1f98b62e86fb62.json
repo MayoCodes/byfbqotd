@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "82cc26f4516dc44daa1f98b62e86fb62",
+  "capturedAt": "2026-11-14T02:01:16.535Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $t$ passes through the point $(0, 0)$ and is parallel to the line represented by the equation $y = 42x + 8$. If line $t$ also passes through the point $(7, k)$, what is the value of $k$?",
+  "choices": {},
+  "correctAnswer": "$$294$$",
+  "explanation": "The correct answer is $294$. In the $xy$-plane, two parallel lines have equal slopes. The given line $y = 42x + 8$ has a slope of $42$. Since line $t$ is parallel to this line, line $t$ also has a slope of $42$. Line $t$ passes through the origin $(0, 0)$, so its equation is $y = 42x$ (the $y$-intercept is $0$). To find the value of $k$ when line $t$ passes through the point $(7, k)$, substitute $x = 7$ into the equation: $k = 42(7) = 294$. Therefore, the value of $k$ is $294$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=6c5002a2",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

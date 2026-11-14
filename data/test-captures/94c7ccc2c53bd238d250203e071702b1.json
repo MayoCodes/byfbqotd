@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "94c7ccc2c53bd238d250203e071702b1",
+  "capturedAt": "2026-11-14T02:01:20.965Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nTriangle $ABC$ is similar to triangle $DEF$, where $A$ corresponds to $D$ and $C$ corresponds to $F$. What is the value of $D$?",
+  "choices": {
+    "A": "$\\frac{(56)}{(65)}$",
+    "B": "$\\frac{(33)}{(56)}$",
+    "C": "$\\frac{(56)}{(33)}$",
+    "D": "$\\frac{(33)}{(65)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. First, identify the right angle in triangle $ABC$. Since $CA = 585$ is the longest side, it must be the hypotenuse, so the right angle is at vertex $B$. This can be verified: $AB^2 + BC^2 = 297^2 + 504^2 = 88{,}209 + 254{,}016 = 342{,}225 = 585^2 = CA^2$. Since triangle $ABC$ is similar to triangle $DEF$ with $A$ corresponding to $D$ and $C$ corresponding to $F$, the angles at corresponding vertices are equal. Therefore, $\\angle A = \\angle D$, and $\\tan D = \\tan A$. For angle $A$ in triangle $ABC$, the opposite side is $BC = 504$ and the adjacent side is $AB = 297$. Therefore, $\\tan A = \\frac{\\text{opposite}}{\\text{adjacent}} = \\frac{BC}{AB} = \\frac{504}{297}$. To simplify, note that $504 = 56 \\times 9$ and $297 = 33 \\times 9$, so the GCD is $9$. Thus, $\\tan A = \\frac{504}{297} = \\frac{56}{33}$, and therefore $\\tan D = \\frac{56}{33}$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=a6307537",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/94c7ccc2c53bd238d250203e071702b1/1-3d463edd4a6b1183.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 20,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

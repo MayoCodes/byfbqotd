@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6eac907fffc411c7eb8699f9388af6e4",
+  "capturedAt": "2026-11-14T02:01:00.086Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Researchers Sullivan, Tyler Washington, and Brooks sought to explore the relationship between ocean temperature changes and coral bleaching patterns.\n• They used satellite imaging technology that tracks thermal variations in marine environments.\n• The imaging system had been calibrated to detect ocean temperature fluctuations (excluding other environmental variables).\n• Finding: The system spontaneously identified coral bleaching events that correlated with temperature changes but not with other environmental factors.\n• Conclusion: Coral bleaching patterns may arise as a direct consequence of ocean temperature variations.",
+  "prompt": "The student wants to present the aim of the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Using satellite imaging technology, the researchers sought to explore the relationship between ocean temperature changes and coral bleaching patterns.",
+    "B": "The researchers used satellite imaging technology, which spontaneously identified coral bleaching events that correlated with temperature changes but not with other environmental factors.",
+    "C": "By using satellite imaging technology, the researchers aimed to establish that ocean temperature changes arise as a consequence of coral bleaching patterns.",
+    "D": "The researchers used satellite imaging technology to demonstrate that coral bleaching events correlate with a wide range of environmental factors."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it directly presents the study's aim by stating that the researchers 'sought to explore the relationship between ocean temperature changes and coral bleaching patterns.' This information comes from the first note, which describes what the researchers set out to investigate before conducting the study. The verb 'sought to explore' clearly indicates the research objective, distinguishing the aim from the findings or conclusions presented in later notes.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=c0f312c5",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 27,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

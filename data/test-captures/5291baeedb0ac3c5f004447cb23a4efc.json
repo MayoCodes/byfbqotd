@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5291baeedb0ac3c5f004447cb23a4efc",
+  "capturedAt": "2026-11-14T02:01:09.465Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$cases y = -9x + 21 \\\\ y = -15x + 33 cases$$\n\nWhat is the solution $(x, y)$ to the given system of equations?",
+  "choices": {
+    "A": "$(33, 21)$",
+    "B": "$(21, 33)$",
+    "C": "$(2, 3)$",
+    "D": "$(3, 2)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To solve this system of equations, set the two expressions for $y$ equal to each other: $-9x + 21 = -15x + 33$. Adding $15x$ to both sides gives $6x + 21 = 33$. Subtracting $21$ from both sides gives $6x = 12$. Dividing both sides by $6$ gives $x = 2$. Substituting $x = 2$ into the first equation gives $y = -9(2) + 21 = -18 + 21 = 3$. Therefore, the solution to the system is $(2, 3)$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=06cde361",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 9,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e9b18c4041cb7cc5dd2b901bdca9cd3c",
+  "capturedAt": "2026-11-14T02:01:37.748Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A phone company offers two data plans. Plan A has a $$35$ activation fee and costs $$45$ per month. Plan B has no activation fee but costs $$55$ per month. After how many complete months will the total amount paid under Plan A first be less than the total amount paid under Plan B?",
+  "choices": {
+    "A": "$4$",
+    "B": "$3$",
+    "C": "$5$",
+    "D": "$7$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The total cost for Plan A after $m$ months is $35 + 45m$ dollars. The total cost for Plan B after $m$ months is $55m$ dollars. To find when Plan A costs less than Plan B, solve the inequality $35 + 45m < 55m$. Subtracting $45m$ from both sides gives $35 < 10m$. Dividing both sides by $10$ gives $3.5 < m$, or equivalently $m > 3.5$. Since $m$ must be a whole number of complete months, the smallest integer greater than $3.5$ is $4$. To verify: at $m = 3$ months, Plan A costs $35 + 45(3) = 170$ dollars and Plan B costs $55(3) = 165$ dollars, so Plan A is still more expensive. At $m = 4$ months, Plan A costs $35 + 45(4) = 215$ dollars and Plan B costs $55(4) = 220$ dollars, so Plan A is now less expensive. Therefore, after $4$ complete months, Plan A first costs less than Plan B.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=2c1b37c5",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

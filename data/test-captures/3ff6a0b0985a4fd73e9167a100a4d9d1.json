@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3ff6a0b0985a4fd73e9167a100a4d9d1",
+  "capturedAt": "2026-11-14T02:01:46.130Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Geometry with Triangles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe circle shown has its center at $(0, 0)$ and passes through the point $(10, 0)$. What is the value of $k$?",
+  "choices": {
+    "A": "$sqrt(68)$",
+    "B": "$sqrt(84)$",
+    "C": "$sqrt(96)$",
+    "D": "$sqrt(116)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since the circle has its center at the origin $(0, 0)$ and passes through the point $(10, 0)$, the radius is $r = 10$. The equation of the circle is $x^2 + y^2 = 100$. Since the point $(4, k)$ also lies on the circle, substituting these coordinates gives $4^2 + k^2 = 100$. Simplifying: $16 + k^2 = 100$, so $k^2 = 84$. Since the point $(4, k)$ is shown in the upper half of the circle, $k$ is positive, so $k = \\sqrt{84}$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=1aa04529",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3ff6a0b0985a4fd73e9167a100a4d9d1/1-41974a65d24d7506.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 22,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a8a5ac5c08d0d368f2bc1338f172f17c",
+  "capturedAt": "2026-11-14T02:01:34.528Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In a museum, $36.0%$ of the square footage is exhibit space and the remaining square footage is storage space. Climate control systems are installed in exactly $45.0%$ of the square footage of the exhibit space, and climate control systems are installed in exactly $25.0%$ of the square footage of the storage space. If climate control systems are installed in exactly $p%$ of the square footage of the museum, what is the value of $p$?",
+  "choices": {},
+  "correctAnswer": "$$32.2,32.20,\\frac{161}{5}$$",
+  "explanation": "The correct answer is $\\frac{161}{5}$. To find the percentage of the museum with climate control, we must calculate the weighted contributions from both exhibit space and storage space. First, the storage space percentage is $100\\% - 36.0\\% = 64.0\\%$ of the museum. The climate-controlled portion from exhibit space is $36.0\\% \\times 45.0\\% = 0.360 \\times 0.450 = 0.1620$, which equals $16.20\\%$ of the total museum. The climate-controlled portion from storage space is $64.0\\% \\times 25.0\\% = 0.640 \\times 0.250 = 0.1600$, which equals $16.00\\%$ of the total museum. Adding these gives $16.20\\% + 16.00\\% = 32.20\\%$. Therefore, $p = 32.2$. Note that 32.2, 32.20, and 161/5 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=092ab257",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

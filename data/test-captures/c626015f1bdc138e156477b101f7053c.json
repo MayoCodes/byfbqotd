@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c626015f1bdc138e156477b101f7053c",
+  "capturedAt": "2026-11-14T02:01:01.109Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Compute Rate from Given Values",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The length of each side of square X is $135$ centimeters. The length of each side of square Y is double the length of each side of square X. What is the length, in centimeters, of each side of square Y?",
+  "choices": {
+    "A": "$135$",
+    "B": "$137$",
+    "C": "$270$",
+    "D": "$540$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To find the length of each side of square Y, the length of each side of square X must be doubled. The question states that the length of each side of square X is $135$ centimeters, and 'double' means to multiply by $2$. Therefore, the length of each side of square Y is $135 \\times 2 = 270$ centimeters.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=65f330b7",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

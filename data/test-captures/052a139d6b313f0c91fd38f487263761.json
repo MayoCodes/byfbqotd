@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "052a139d6b313f0c91fd38f487263761",
+  "capturedAt": "2026-11-14T02:00:15.850Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nA student in an environmental science course is analyzing the decrease since 1970 in annual rainfall in various regions due to both climate change and the influence of shifting weather patterns. The first task in this research is to establish how the decrease in Kenya compares to that in other regions. The student finds that ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the student's conclusion?",
+  "choices": {
+    "A": "though the decrease in rainfall in Kenya was less than that in Iceland and Chile, it was greater than that in Morocco.",
+    "B": "though the decrease in rainfall in Kenya was not as great as that in Iceland, it was greater than that in Morocco and Chile.",
+    "C": "the percent decrease in rainfall was greater in Kenya than it was in Iceland, Morocco, or Chile.",
+    "D": "while the amount of rainfall rose in Kenya between 1970 and 2023, it declined in Iceland, Morocco, and Chile."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it accurately uses data from the table to compare Kenya's rainfall decrease to other regions. According to the 'Change in rainfall' column, Kenya experienced a 62 cm decrease, which was smaller than Iceland's 98 cm decrease but larger than both Morocco's 47 cm decrease and Chile's 28 cm decrease. Choice B correctly captures all three of these comparative relationships, providing a complete and accurate characterization of how Kenya's decrease compares to the other regions shown in the table.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=b16793fb",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/052a139d6b313f0c91fd38f487263761/1-b99c137eefff2098.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 11,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

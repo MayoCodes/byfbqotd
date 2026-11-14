@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "de05dc3317a5795545fb55a859ebfa60",
+  "capturedAt": "2026-11-14T02:00:21.379Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Composers Philip Glass and Leonard Bernstein both contributed movements to the symphonic work Confluence, which premiered at New York's Carnegie Hall in 1985. This cross-genre collaboration brought together the distinct features of Glass's minimalist composition and Bernstein's symphonic ______ the harmonic complexity and artistic experimentation within the music world.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "tradition, showcasing",
+    "B": "tradition. Showcasing",
+    "C": "tradition. Which showcased",
+    "D": "tradition, it showcased"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The participial phrase 'showcasing the harmonic complexity and artistic experimentation within the music world' modifies the preceding clause about the collaboration. A comma properly connects the main clause to this participial phrase, which provides additional descriptive information about the nature of the cross-genre collaboration without creating a sentence boundary error.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=cc64fce0",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 16,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

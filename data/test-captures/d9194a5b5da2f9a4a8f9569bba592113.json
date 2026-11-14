@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d9194a5b5da2f9a4a8f9569bba592113",
+  "capturedAt": "2026-11-14T02:01:22.121Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is defined by the given equation $f(x) = 15(3)^x + 9(3)^x$. Which of the following equivalent forms of $f$ displays, as a coefficient or a base, the y-coordinate of the y-intercept of the graph of $y = f(x)$ in the xy-plane?",
+  "choices": {
+    "A": "$f(x) = 24(3)^x$",
+    "B": "$f(x) = 3(5(3)^x + 3(3)^x)$",
+    "C": "$f(x) = 15(9)^\\frac{x}{2} + 9(9)^\\frac{x}{2}$",
+    "D": "$f(x) = 135(3)^x-2 + 81(3)^x-2$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The function $f(x) = 15(3)^x + 9(3)^x$ can be simplified by combining like terms. Since both terms have the same base and exponent, $(3)^x$, the coefficients can be added: $15(3)^x + 9(3)^x = (15 + 9)(3)^x = 24(3)^x$. The y-intercept of the graph of $y = f(x)$ occurs when $x = 0$. Substituting $x = 0$ into $f(x) = 24(3)^x$ gives $f(0) = 24(3)^0 = 24(1) = 24$. In this form, the y-coordinate of the y-intercept, $24$, is displayed as the coefficient of $(3)^x$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=9f37d727",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 21,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

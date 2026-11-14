@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d63fb26777b9e3ba7b29177c4d77b789",
+  "capturedAt": "2026-11-14T02:00:30.397Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Dead Sea on the Jordan-Israel border is one of the world's saltiest bodies of water.\n• The northern basin of the sea has a higher concentration of salt than the southern basin.\n• Algae called Dunaliella salina live in the southern basin.\n• Archaea called Halobacterium salinarum live in the southern basin.",
+  "prompt": "The student wants to emphasize a difference between Dunaliella salina and Halobacterium salinarum. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The northern basin of the Dead Sea has a higher concentration of salt than does the southern basin.",
+    "B": "Dunaliella salina and Halobacterium salinarum are different types of organisms: Dunaliella salina are algae, whereas Halobacterium salinarum are archaea.",
+    "C": "Dunaliella salina are algae that live in the southern basin of the Dead Sea.",
+    "D": "Dunaliella salina and Halobacterium salinarum both live in the Dead Sea's southern basin."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it directly emphasizes the key difference between the two organisms. The sentence explicitly identifies that Dunaliella salina and Halobacterium salinarum are 'different types of organisms,' drawing on information from notes 3 and 4. The use of 'whereas' signals a clear contrast between the two: Dunaliella salina are classified as algae while Halobacterium salinarum are classified as archaea. This structural contrast with the contrasting conjunction effectively accomplishes the stated goal of emphasizing difference.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=f33ba7f8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 25,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

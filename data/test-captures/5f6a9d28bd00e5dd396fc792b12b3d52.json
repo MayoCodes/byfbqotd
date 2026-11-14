@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5f6a9d28bd00e5dd396fc792b12b3d52",
+  "capturedAt": "2026-11-14T02:01:35.519Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Calculate Residual",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows data set A, which consists of the heights $y$, in centimeters, of a tomato plant at various times, $x$, in weeks. The equation of a line of best fit for the relationship in data set A can be written as $y = -3.2 + 6.4x$, where $2 \\le x \\le 6$. The plant was measured again at $10$ weeks and had a height of $45$ centimeters. Data set B consists of all the data points in data set A as well as the data point $(10, 45)$. The equation of a line of best fit for data set B can be written as $y = r + sx$, where $r$ and $s$ are constants and $2 \\le x \\le 10$. Assuming the equations of the lines of best fit are calculated in the same way, which of the following is the best estimate for the value of $s$?",
+  "choices": {
+    "A": "$9.6$",
+    "B": "$6.4$",
+    "C": "$4.6$",
+    "D": "$12.8$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The equation of the line of best fit for data set A is $y = -3.2 + 6.4x$, which has a slope of $6.4$. Using this equation, the predicted height at $x = 10$ weeks would be $y = -3.2 + 6.4(10) = -3.2 + 64 = 60.8$ centimeters. However, the actual measured height at $10$ weeks was only $45$ centimeters, which is below the predicted value. When a data point falls below the line of best fit and is added to the data set, it pulls the line of best fit downward, resulting in a smaller slope. Therefore, the slope $s$ of the new line of best fit for data set B must be less than the original slope of $6.4$. Among the given choices, only $4.6$ is less than $6.4$, making it the best estimate for $s$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=4cf47378",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5f6a9d28bd00e5dd396fc792b12b3d52/1-730d57d5d466e2a8.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7c1396af9f7e0145b05c700dfe191849",
+  "capturedAt": "2026-11-14T02:00:51.865Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Kenji Yamamoto's architectural design Infinite Boundaries employs ma, a principle of spatial organization used in traditional Japanese architecture. Often, the relationship between ma's essential positive and transitional elements (the primary and secondary spatial components, respectively) and its defined structural sequences ______ a contemplative atmosphere.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "have evoked",
+    "B": "evoke",
+    "C": "evokes",
+    "D": "evoking"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is subject-verb agreement. The subject of the sentence is the singular noun 'relationship,' which requires the singular verb 'evokes.' Although plural nouns like 'elements,' 'components,' and 'sequences' appear in intervening prepositional phrases between the subject and verb, the verb must agree with the head noun 'relationship.' The present tense 'evokes' is appropriate because the sentence describes a general, timeless characteristic of the design principle.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=2d6940cc",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4d1b7f7a3ed8a49f6937ca5de4582841",
+  "capturedAt": "2026-11-14T02:01:19.766Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Calculate Residual",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nFor how many of the $9$ students is the actual test score greater than the test score predicted by the line of best fit?",
+  "choices": {
+    "A": "$8$",
+    "B": "$6$",
+    "C": "$4$",
+    "D": "$5$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A data point whose actual test score is greater than the test score predicted by the line of best fit is a point that lies above the line of best fit. Examining the scatterplot, there are $9$ data points total. Counting the points that lie above the line of best fit: the point at approximately $(2.5, 70)$ is above the line; the point at approximately $(4.2, 78)$ is above the line; the point at approximately $(6.8, 84)$ is above the line; the point at approximately $(8.5, 90)$ is above the line; and the point at approximately $(9.5, 92)$ is above the line. The remaining $4$ points are either on the line or below it. Therefore, exactly $5$ students have actual test scores greater than the scores predicted by the line of best fit.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=dfe569c3",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4d1b7f7a3ed8a49f6937ca5de4582841/1-1b5cba9584f71713.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

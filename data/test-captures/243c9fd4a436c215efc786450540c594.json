@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "243c9fd4a436c215efc786450540c594",
+  "capturedAt": "2026-11-14T02:01:03.105Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A laboratory is treating a bacterial culture with antibiotics. When the treatment started, there were $3,600$ bacteria in the culture. At the end of each hour for $3$ hours after the treatment started, the number of bacteria in the culture had decreased by $\\frac{1}{2}$ of the bacteria in the culture at the end of the previous hour. Which equation gives the number of bacteria, $b$, in the culture $h$ hours after the treatment started, where $0 \\le h < 3$ ?",
+  "choices": {
+    "A": "$b = \\frac{h^{1}}{2}$",
+    "B": "$b = 3,600(\\frac{1}{2})^h$",
+    "C": "$b = 1,800(\\frac{1}{2})^h$",
+    "D": "$b = 3,600^h$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. An exponential decay function has the form $y = a \\cdot b^x$, where $a$ is the initial value when $x = 0$ and $b$ is the decay factor (with $0 < b < 1$ for decay). In this problem, the initial number of bacteria when $h = 0$ (when treatment started) is $3{,}600$, so $a = 3{,}600$. The phrase \"decreased by $\\frac{1}{2}$ of the bacteria in the culture at the end of the previous hour\" means that at the end of each hour, the number of bacteria is multiplied by $\\left(1 - \\frac{1}{2}\\right) = \\frac{1}{2}$, so the decay factor is $b = \\frac{1}{2}$. Therefore, the equation is $b = 3{,}600\\left(\\frac{1}{2}\\right)^h$. This can be verified: after $h = 1$ hour, $b = 3{,}600\\left(\\frac{1}{2}\\right)^1 = 1{,}800$ bacteria, which correctly represents a decrease by half of the initial $3{,}600$. After $h = 2$ hours, $b = 3{,}600\\left(\\frac{1}{2}\\right)^2 = 900$ bacteria, which correctly represents a decrease by half of the $1{,}800$ bacteria from the previous hour.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=p7m1q03",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

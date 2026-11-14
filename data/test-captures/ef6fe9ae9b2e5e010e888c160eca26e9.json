@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ef6fe9ae9b2e5e010e888c160eca26e9",
+  "capturedAt": "2026-11-14T02:01:25.049Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Sarah deposited a total of $8,400$ into two savings accounts last year by depositing $x$ dollars once each month into one account and $y$ dollars twice each month into the other account. Which equation represents this situation?",
+  "choices": {
+    "A": "$8,400 = 12x + 12y$",
+    "B": "$8,400 = 12x + 24y$",
+    "C": "$8,400 = 24x + 12y$",
+    "D": "$8,400 = 24x + 24y$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To construct an equation representing this situation, we need to express the total amount deposited in terms of the two deposit patterns. For the first account, Sarah deposits $x$ dollars once each month. Over $12$ months (one year), this account receives $12$ deposits of $x$ dollars each, contributing a total of $12x$ dollars. For the second account, Sarah deposits $y$ dollars twice each month. Over $12$ months, this means $2 \\times 12 = 24$ deposits of $y$ dollars each, contributing a total of $24y$ dollars. The sum of contributions from both accounts equals the total deposited: $12x + 24y = 8{,}400$. Therefore, the equation $8{,}400 = 12x + 24y$ correctly represents this situation.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=f16c67fd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

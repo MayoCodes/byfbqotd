@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a547c96c80daefbdaf2a2c6bbc3158f6",
+  "capturedAt": "2026-11-14T02:00:19.151Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nPieris (cabbage white butterflies) have generation times of 25-30 days, so seasonal changes in precipitation and other environmental conditions can drive seasonal fluctuations in physical traits. The table supports this assertion because ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the assertion?",
+  "choices": {
+    "A": "the average humidity was lower in March than in April.",
+    "B": "the average female thorax width was 3.24 mm in August but was 3.51 mm in April.",
+    "C": "the average male thorax width was smaller in March than in August.",
+    "D": "the average male thorax width was consistently smaller than the average female thorax width in all four months in the table."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it effectively uses data from the table to support the assertion that Pieris butterflies can show seasonal fluctuations in physical traits. The table shows that the average male thorax width was 2.78 mm in March and 2.95 mm in August, so this physical trait varied across months.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=4431fc7c",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/a547c96c80daefbdaf2a2c6bbc3158f6/1-32aeb38a65f54301.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 14,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

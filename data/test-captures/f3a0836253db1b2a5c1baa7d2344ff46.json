@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f3a0836253db1b2a5c1baa7d2344ff46",
+  "capturedAt": "2026-11-14T02:01:38.736Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A theater company developed a plan to set the ticket price for an event. The company determined that for a ticket price of $$90.00$, zero tickets would be sold. For each $$1.50$ decrease in the ticket price, the number of tickets sold would increase by one. For a revenue of exactly $$1,344.00$, which of the following could be the number of tickets sold? $(revenue = price \\times number of tickets sold)$",
+  "choices": {
+    "A": "$32$",
+    "B": "$33$",
+    "C": "$896$",
+    "D": "$1,350$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The ticket price can be expressed as a function of the number of tickets sold. If $n$ tickets are sold, the price has decreased by $n$ increments of $$1.50$ from the starting price of $$90.00$, so the price is $p(n) = 90 - 1.5n$ dollars. The revenue is the product of price and quantity: $R(n) = n \\cdot p(n) = n(90 - 1.5n) = 90n - 1.5n^2$ dollars. Setting the revenue equal to $$1{,}344.00$ gives $90n - 1.5n^2 = 1344$. Rearranging: $1.5n^2 - 90n + 1344 = 0$. Dividing by $1.5$: $n^2 - 60n + 896 = 0$. Using the quadratic formula: $n = \\frac{60 \\pm \\sqrt{3600 - 3584}}{2} = \\frac{60 \\pm \\sqrt{16}}{2} = \\frac{60 \\pm 4}{2}$. This gives $n = 32$ or $n = 28$. Since $32$ is among the answer choices, the number of tickets sold could be $32$. Verification: for $n = 32$, the price is $90 - 1.5(32) = 90 - 48 = 42$ dollars, and the revenue is $32 \\times 42 = 1344$ dollars.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=2f2eb841",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "59eb1de47acfe199e9f55022be340477",
+  "capturedAt": "2026-11-14T02:01:33.540Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Rectangles $PQRS$ and $WXYZ$ are similar. The length of each side of $WXYZ$ is $4$ times the length of the corresponding side of $PQRS$. The area of $PQRS$ is $80$ square units. What is the area, in square units, of $WXYZ$?",
+  "choices": {
+    "A": "$1,280$",
+    "B": "$16$",
+    "C": "$320$",
+    "D": "$20$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. When two figures are similar, the ratio of their areas equals the square of the ratio of their corresponding linear dimensions. Since each side of rectangle $WXYZ$ is $4$ times the corresponding side of rectangle $PQRS$, the linear scale factor is $k = 4$. The area scale factor is therefore $k^2 = 4^2 = 16$. To find the area of $WXYZ$, multiply the area of $PQRS$ by the area scale factor: Area of $WXYZ = 80 \\times 16 = 1{,}280$ square units. This can be verified by considering that if $PQRS$ has dimensions $l \\times w$ with area $lw = 80$, then $WXYZ$ has dimensions $4l \\times 4w$ with area $(4l)(4w) = 16lw = 16(80) = 1{,}280$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=d6529cdd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

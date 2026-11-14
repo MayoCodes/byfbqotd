@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a9fd90360c7c8738e47fcd86700c17e8",
+  "capturedAt": "2026-11-14T02:00:59.084Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Morning Tea is a 1959 black-and-white woodcut print by Japanese American artist Hideo Yoshida.\n• It depicts a serene, everyday scene (a family gathering for a meal).\n• Ominira Wa (\"Our Freedom\") is a 2003 black-and-white woodcut print by Nigerian artist Adeola Balogun.\n• It features a scene with an explicitly political point of view (protesters marching for Nigerian independence).\n• Relief printing is a technique in which an image is carved onto a printing block, covered in ink or paint, and stamped onto paper.\n• Woodcutting is a type of relief printing that uses a wooden block as the printing block.",
+  "prompt": "The student wants to contrast the subject matter of the two prints. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The print by Balogun is a black-and-white woodcut; by contrast, Yoshida's is a relief print.",
+    "B": "Yoshida made Morning Tea in 1959, while Balogun made Ominira Wa (\"Our Freedom\") later, in 2003.",
+    "C": "Balogun's print expresses an explicitly political point of view, while Yoshida's depicts a serene, everyday scene.",
+    "D": "The scenes depicted in both works were first carved onto a printing block, then stamped onto paper; however, one work is a woodcut, while the other is a relief print."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively contrasts the subject matter of the two prints. The notes indicate that Yoshida's Morning Tea depicts 'a serene, everyday scene (a family gathering for a meal),' while Balogun's Ominira Wa features 'a scene with an explicitly political point of view (protesters marching for Nigerian independence).' Choice C directly articulates this thematic contrast between the peaceful domestic subject of Yoshida's work and the politically charged content of Balogun's work, accomplishing the student's stated goal.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=2fef8a2e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 26,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

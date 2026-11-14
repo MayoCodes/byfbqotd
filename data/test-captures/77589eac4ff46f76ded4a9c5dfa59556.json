@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "77589eac4ff46f76ded4a9c5dfa59556",
+  "capturedAt": "2026-11-14T02:01:11.501Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A microbiologist placed an initial population of $50$ Escherichia coli, a type of bacteria, into a petri dish and monitored the population over time. When the number of Escherichia coli in the dish reached $160%$ of the initial population, the microbiologist transferred $60%$ of the Escherichia coli to a second dish. How many Escherichia coli did the microbiologist transfer to the second dish at this time?",
+  "choices": {},
+  "correctAnswer": "$$48$$",
+  "explanation": "The correct answer is $48$. First, calculate the population when it reached $160\\%$ of the initial population: $50 \\times 1.60 = 80$ bacteria. Alternatively, this can be calculated as $50 \\times \\frac{160}{100} = 50 \\times \\frac{8}{5} = \\frac{400}{5} = 80$ bacteria. Next, the microbiologist transferred $60\\%$ of this population to the second dish. Calculate $60\\%$ of $80$: $80 \\times 0.60 = 48$ bacteria. Alternatively, $80 \\times \\frac{60}{100} = 80 \\times \\frac{3}{5} = \\frac{240}{5} = 48$ bacteria. Therefore, the microbiologist transferred $48$ Escherichia coli to the second dish.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=4cbcd994",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 11,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

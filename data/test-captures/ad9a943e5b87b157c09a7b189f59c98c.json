@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ad9a943e5b87b157c09a7b189f59c98c",
+  "capturedAt": "2026-11-14T02:01:05.129Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 5x^{3} + 9$. What is the value of $g(3)$?",
+  "choices": {},
+  "correctAnswer": "$$144$$",
+  "explanation": "The correct answer is $144$. To find $g(3)$, substitute $x = 3$ into the function $g(x) = 5x^3 + 9$. This gives $g(3) = 5(3)^3 + 9$. First, calculate the exponent: $3^3 = 3 \\times 3 \\times 3 = 27$. Next, multiply by the coefficient: $5 \\times 27 = 135$. Finally, add the constant term: $135 + 9 = 144$. Therefore, $g(3) = 144$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=a4839947",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

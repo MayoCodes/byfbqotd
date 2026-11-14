@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a56693fca568d824d12c9b771c34a976",
+  "capturedAt": "2026-11-14T02:01:24.069Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = 23 - x$. What is the value of $h(7)$?",
+  "choices": {
+    "A": "$16$",
+    "B": "$7$",
+    "C": "$23$",
+    "D": "$30$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To find the value of $h(7)$, substitute $x = 7$ into the function definition $h(x) = 23 - x$. This gives $h(7) = 23 - 7 = 16$. Therefore, the value of $h(7)$ is $16$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=90165e8c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

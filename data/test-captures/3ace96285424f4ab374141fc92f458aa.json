@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3ace96285424f4ab374141fc92f458aa",
+  "capturedAt": "2026-11-14T02:01:43.917Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nOne of these students will be selected at random. What is the probability of selecting a student who chose Subject X, given that the student is in at least Grade $10$?",
+  "choices": {
+    "A": "$\\frac{1}{5}$",
+    "B": "$\\frac{1}{2}$",
+    "C": "$\\frac{2}{5}$",
+    "D": "$\\frac{3}{(10)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. This is a conditional probability problem where we need to find P(Subject X | at least Grade 10). The condition 'at least Grade 10' means we only consider students in Grade 10 or Grade 11+, which restricts our sample space. From the table, students who chose Subject X and are at least Grade 10: $10$ students in Grade 10 plus $5$ students in Grade 11+ gives $10 + 5 = 15$ students. The total number of students at least Grade 10 is the sum of the Grade 10 and Grade 11+ columns: $25 + 25 = 50$ students. Therefore, the conditional probability is $\\frac{15}{50}$. Simplifying by dividing both numerator and denominator by their greatest common divisor of $5$: $\\frac{15}{50} = \\frac{15 \\div 5}{50 \\div 5} = \\frac{3}{10}$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=018b2895",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/3ace96285424f4ab374141fc92f458aa/1-3df874fc6896d18b.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

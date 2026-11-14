@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "987a6c4dd1ab54b380766e8f6a5b4933",
+  "capturedAt": "2026-11-14T02:00:42.353Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nMost marine animal species remain at depths less than 200 meters, which is not surprising given the energy demands that extreme water pressure puts on a diving animal. But not all marine animals are limited to such shallow depths, as we can see most clearly in the example of the ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the example?",
+  "choices": {
+    "A": "blue whale, which has a greater maximum diving depth than the sunfish.",
+    "B": "sperm whale, which has a maximum diving depth of 2,250 meters.",
+    "C": "blue whale, which has a maximum diving depth of 150 meters.",
+    "D": "yellowfin tuna, which has a maximum diving depth below 200 meters."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the example. The passage establishes that most marine animals remain at depths less than 200 meters, then introduces an exception: not all marine animals are limited to such shallow depths. The text requires an example that demonstrates this exception most clearly. According to the table, the sperm whale is capable of deep diving and has a maximum diving depth of 2,250 meters, by far the greatest depth among the animals listed and over ten times the 200-meter threshold. This provides the most dramatic and effective illustration of the exception being discussed.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=67934161",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/987a6c4dd1ab54b380766e8f6a5b4933/1-eeeb81dbf06ffcc2.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

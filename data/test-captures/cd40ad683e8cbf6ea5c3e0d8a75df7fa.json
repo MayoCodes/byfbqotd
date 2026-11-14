@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cd40ad683e8cbf6ea5c3e0d8a75df7fa",
+  "capturedAt": "2026-11-14T02:01:17.541Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Geometry with Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Circles A and B are graphed in the $xy$-plane. Circle A is represented by the equation $(x+6)^{2} + (y-3)^{2} = 9$ and intersects the $x$-axis at the point $(r, s)$. Circle B has its center at $(r, s)$ and has a radius of the same length as circle A. Which equation represents circle B?",
+  "choices": {
+    "A": "$x^{2} + (y+3)^{2} = 9$",
+    "B": "$x^{2} + (y-3)^{2} = 9$",
+    "C": "$(x-6)^{2} + y^{2} = 9$",
+    "D": "$(x+6)^{2} + y^{2} = 9$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The standard form of a circle equation is $(x-h)^2 + (y-k)^2 = r^2$, where $(h, k)$ is the center and $r$ is the radius. Circle A has equation $(x+6)^2 + (y-3)^2 = 9$, which can be written as $(x-(-6))^2 + (y-3)^2 = 3^2$. Therefore, circle A has center $(-6, 3)$ and radius $3$. To find where circle A intersects the $x$-axis, substitute $y = 0$ into the equation: $(x+6)^2 + (0-3)^2 = 9$, which simplifies to $(x+6)^2 + 9 = 9$, so $(x+6)^2 = 0$. This gives $x = -6$. Since the point is on the $x$-axis where $y = 0$, the intersection point $(r, s) = (-6, 0)$. Circle B has its center at $(-6, 0)$ and has the same radius as circle A, which is $3$. Using the standard form with center $(-6, 0)$ and radius $3$: $(x-(-6))^2 + (y-0)^2 = 3^2$, which simplifies to $(x+6)^2 + y^2 = 9$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=75444132",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 17,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

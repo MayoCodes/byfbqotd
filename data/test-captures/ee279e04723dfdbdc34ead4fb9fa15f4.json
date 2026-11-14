@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ee279e04723dfdbdc34ead4fb9fa15f4",
+  "capturedAt": "2026-11-14T02:01:36.755Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the product of all values of $x$ that satisfy the equation $|3x - 12| = 2x + 8$?",
+  "choices": {
+    "A": "$16$",
+    "B": "$\\frac{(104)}{5}$",
+    "C": "$20$",
+    "D": "$-16$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The equation $|3x - 12| = 2x + 8$ can be solved by considering two cases. Case 1: $3x - 12 = 2x + 8$. Solving gives $x = 20$. Check: $|3(20) - 12| = |48| = 48$ and $2(20) + 8 = 48$, so $x = 20$ is valid. Case 2: $3x - 12 = -(2x + 8)$. This gives $3x - 12 = -2x - 8$, so $5x = 4$ and $x = \\frac{4}{5}$. Check: $|3(\\frac{4}{5}) - 12| = |\\frac{12}{5} - 12| = |-\\frac{48}{5}| = \\frac{48}{5}$ and $2(\\frac{4}{5}) + 8 = \\frac{48}{5}$, so $x = \\frac{4}{5}$ is valid. Both solutions are valid, so the product is $20 \\times \\frac{4}{5} = \\frac{80}{5} = 16$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=32307430",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

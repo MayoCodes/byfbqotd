@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ced92d4a3ee44e5d056f5efe37720b77",
+  "capturedAt": "2026-11-14T02:00:11.778Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Despite awaiting independent verification, the apparent detection in 2023 of dimethyl sulfide (DMS)—a gas that on Earth predominantly originates from marine biological activity—in exoplanet K2-18b's atmosphere remains controversial, in part because K2-18b is considered unsuitable for life as we know it. To evaluate such a finding's plausibility, Clara Sousa-Silva et al. modeled multiple abiotic DMS pathways, including geological, atmospheric, and radiochemical reactions, but none adequately explain the observed concentrations of DMS. If K2-18b DMS does exist, it would indicate insufficiencies in the current consensus on K2-18b's atmospheric chemistry.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It compares the levels of a particular gas on K2-18b and Earth, sketches the chemical processes that account for differences in these levels, and then addresses some of the practical challenges of studying the presence of this gas on K2-18b more closely.",
+    "B": "It explains why the consensus view of a particular gas in K2-18b's atmosphere has recently become controversial, expands on a scientific team's reasons for questioning that consensus, and then suggests that future observations of K2-18b's atmosphere will likely be needed to settle the controversy.",
+    "C": "It introduces an unexpected observation of a particular gas in K2-18b's atmosphere, presents an effort to investigate possible mechanisms that could explain that observation, and then notes an implication of that investigation's findings.",
+    "D": "It outlines recent efforts to confirm the presence of a particular gas in K2-18b's atmosphere, summarizes a research team's evaluations of those efforts' methodological shortcomings, and then explains why that team remains skeptical of the gas's future detection."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it accurately captures the text's three-part structure. First, the text introduces an unexpected observation: the controversial DMS detection in K2-18b's atmosphere, unexpected because DMS on Earth 'predominantly originates from marine biological activity' yet K2-18b is 'considered unsuitable for life.' Second, it presents an investigative effort: Sousa-Silva et al.'s modeling of 'multiple abiotic DMS pathways.' Third, it notes an implication: if DMS exists on K2-18b, it 'would indicate insufficiencies in the current consensus' about the planet's atmospheric chemistry.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=9f10f470",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 7,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

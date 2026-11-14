@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b9dcd0b5261a62c4058da3254ce61cf",
+  "capturedAt": "2026-11-14T02:01:15.557Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "For what value of $n$ is $n-root(x^{21})$ equivalent to $\\frac{x^{3}}{5}$, where $x > 1$?",
+  "choices": {},
+  "correctAnswer": "$$35$$",
+  "explanation": "The correct answer is $35$. The relationship between radical notation and rational exponents states that $\\sqrt[n]{x^m} = x^{\\frac{m}{n}}$ for positive values of $x$ and positive integer $n$. Applying this rule to $\\sqrt[n]{x^{21}}$ gives $x^{\\frac{21}{n}}$. Since this expression must be equivalent to $x^{\\frac{3}{5}}$, the exponents must be equal: $\\frac{21}{n} = \\frac{3}{5}$. Cross-multiplying gives $21 \\cdot 5 = 3 \\cdot n$, which simplifies to $105 = 3n$. Dividing both sides by $3$ yields $n = 35$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=471e765f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

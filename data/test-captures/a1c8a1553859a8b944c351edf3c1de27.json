@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a1c8a1553859a8b944c351edf3c1de27",
+  "capturedAt": "2026-11-14T02:01:18.543Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare Standard Deviations or Spread",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following statements must be true?\n\nI. The median of Class 1 is equal to the median of Class 2.\n\nII. The standard deviation of Class 1 is equal to the standard deviation of Class 2.",
+  "choices": {
+    "A": "I and II",
+    "B": "I only",
+    "C": "II only",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To determine the truth of statement I, we find the median for each class.\n\nClass 1: The scores are $10$ (1), $11$ (2), $12$ (4), $13$ (7), $14$ (4), $15$ (2), $16$ (1). The total number of data points is $1+2+4+7+4+2+1 = 21$. The median is the $\\frac{21+1}{2} = 11^{\\text{th}}$ value. Counting from the left, $1+2+4 = 7$ values are less than or equal to $12$. Adding the $7$ values at $13$, we have $7+7 = 14$ values less than or equal to $13$. Thus, the $11^{\\text{th}}$ value is $13$. So, the median of Class 1 is $13$.\n\nClass 2: The scores are $10$ (1), $11$ (2), $12$ (3), $13$ (7), $14$ (3), $15$ (2), $16$ (1). The total number of data points is $1+2+3+7+3+2+1 = 19$. The median is the $\\frac{19+1}{2} = 10^{\\text{th}}$ value. Counting from the left, $1+2+3 = 6$ values are less than or equal to $12$. Adding the $7$ values at $13$, we have $6+7 = 13$ values less than or equal to $13$. Thus, the $10^{\\text{th}}$ value is $13$. So, the median of Class 2 is $13$.\n\nSince both medians are $13$, statement I is true.\n\nTo determine the truth of statement II, we compare the spread of the data sets. Standard deviation measures how spread out the data points are from the mean. Both distributions are symmetric and centered at $13$. Class 1 has scores that are more concentrated around the mean of $13$ compared to Class 2. For example, at scores $12$ and $14$, Class 1 has $4$ dots each, while Class 2 has $3$ dots each. This indicates that Class 1 has less variability or a smaller spread than Class 2. Therefore, the standard deviation of Class 1 is less than the standard deviation of Class 2. Statement II is false.\n\nSince only statement I is true, the correct answer is B.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=f7b5f0f7",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a1c8a1553859a8b944c351edf3c1de27/1-cbdfc8783ca87690.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

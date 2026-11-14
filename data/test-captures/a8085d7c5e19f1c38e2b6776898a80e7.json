@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a8085d7c5e19f1c38e2b6776898a80e7",
+  "capturedAt": "2026-11-14T02:00:23.362Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In the book Foundations of Phonological Systems (1992), Canadian linguist Dr. Michelle Nakamura argued that every phoneme has a counterpart that can be substituted for it. For example, a linguist could replace the /p/ sound for the /b/ sound while ______ phoneme is a given phoneme's counterpart can be determined using a language visualization tool called the phoneme chart.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "transcribing which",
+    "B": "transcribing, which",
+    "C": "transcribing and which",
+    "D": "transcribing. Which"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it correctly uses a period to separate two independent clauses. The first clause, 'a linguist could replace the /p/ sound for the /b/ sound while transcribing,' expresses a complete thought. The second clause, 'Which phoneme is a given phoneme's counterpart can be determined using a language visualization tool,' is also independent—the noun clause 'which phoneme is a given phoneme's counterpart' serves as the subject of the verb 'can be determined.' The period properly marks the boundary between these two complete sentences.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=3f9f23f6",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 18,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

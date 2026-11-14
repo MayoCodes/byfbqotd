@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c15327c2b4f9b4bc455b429341668bfe",
+  "capturedAt": "2026-11-14T02:00:52.857Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Preserved within the renowned scriptoriums of Canterbury, an English cathedral town influential during medieval times, is The Canterbury Chronicle, one of the abbey's hundreds of thousands of historical codices, each of which ______ scholars insight into Canterbury's role as a center of religious scholarship and artistry.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are providing",
+    "B": "provide",
+    "C": "providing",
+    "D": "provides"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is subject-verb agreement. The singular verb 'provides' agrees in number with the singular subject 'each.' In the relative clause 'each of which ______ scholars insight,' the subject is the singular indefinite pronoun 'each,' which always takes a singular verb regardless of any plural nouns in modifying phrases. Although 'codices' is plural, it appears in the prepositional phrase 'of which' and does not determine verb agreement.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=4159e781",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 20,
+    "subject": "English",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

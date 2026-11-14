@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "08acbd3705570cea74ae132248337052",
+  "capturedAt": "2026-11-14T02:01:39.732Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe equation of the graph shown is $y = a^x + b$, where $a$ and $b$ are constants. What is the value of $a - b$?",
+  "choices": {},
+  "correctAnswer": "$$10$$",
+  "explanation": "The correct answer is $10$. For an exponential function of the form $y = a^x + b$, the constant $b$ represents a vertical translation, which means the horizontal asymptote of the graph is at $y = b$. From the graph, as $x$ approaches negative infinity, the curve flattens and approaches $y = -2$. Therefore, $b = -2$. The graph passes through the point $(1, 6)$, which is clearly marked. Substituting this point and $b = -2$ into the equation gives $6 = a^1 + (-2)$, which simplifies to $6 = a - 2$. Adding $2$ to both sides yields $a = 8$. Therefore, $a - b = 8 - (-2) = 8 + 2 = 10$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=edb981c2",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/08acbd3705570cea74ae132248337052/1-1fd3107542b311bd.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

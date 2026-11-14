@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "03e7e8ce34055f973c15a037386aa3e9",
+  "capturedAt": "2026-11-14T02:01:12.505Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the polynomial function $g$, the graph of $y=g(x)$ in the $xy$-plane passes through the points $(-2, 0)$, $(3, 0)$, and $(5, 0)$. Which of the following must be a factor of $g(x)$?",
+  "choices": {
+    "A": "$x + 3$",
+    "B": "$x + 5$",
+    "C": "$x - 3$",
+    "D": "$x - 2$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The Factor Theorem states that if a polynomial function has a zero at $x = a$ (meaning the graph passes through the point $(a, 0)$), then $(x - a)$ is a factor of the polynomial. The question states that the graph of $y = g(x)$ passes through the point $(3, 0)$, which means $x = 3$ is a zero of $g(x)$. Applying the Factor Theorem with $a = 3$ gives the factor $(x - 3)$. Therefore, $(x - 3)$ must be a factor of $g(x)$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=9b0d1be0",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 12,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

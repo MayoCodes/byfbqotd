@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1e8378e2a057742c7108c89f463f4029",
+  "capturedAt": "2026-11-14T02:01:41.939Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $d = 4t + 180$ gives the depth $d$, in meters, of a submarine below the ocean surface, where $t$ is the number of minutes after the submarine begins descending. By how many meters does the submarine's depth below the surface increase over a period of $15$ minutes?",
+  "choices": {
+    "A": "$240$",
+    "B": "$195$",
+    "C": "$60$",
+    "D": "$4$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. In the linear equation $d = 4t + 180$, the coefficient of $t$ represents the rate of change of depth with respect to time, which is $4$ meters per minute. This means the submarine descends $4$ meters deeper for each minute that passes. To find the total increase in depth over $15$ minutes, multiply the rate by the time interval: $4 \\text{ meters per minute} \\times 15 \\text{ minutes} = 60 \\text{ meters}$. Therefore, the submarine's depth increases by $60$ meters over a period of $15$ minutes. Note that the constant term $180$ represents the initial depth at $t = 0$ and does not affect the change in depth over the time interval.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=43e71605",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 18,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dc3b3f31f08e39f47d4e213aea98e4af",
+  "capturedAt": "2026-11-14T02:01:42.929Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A line intersects two parallel lines, forming four acute angles and four obtuse angles. The measure of one of the acute angles is $(5x - 290)^°$. The sum of the measures of one of the acute angles and three of the obtuse angles is $(-10x + w)^°$. What is the value of $w$?",
+  "choices": {},
+  "correctAnswer": "$$1120$$",
+  "explanation": "The correct answer is $1120$. When a transversal line intersects two parallel lines, it forms eight angles: four acute angles that are all congruent to each other, and four obtuse angles that are all congruent to each other. Additionally, each acute angle and each obtuse angle form a linear pair, meaning they are supplementary and their measures sum to $180^{\\circ}$. Given that one acute angle measures $(5x - 290)^{\\circ}$, each obtuse angle measures $180^{\\circ} - (5x - 290)^{\\circ} = 180 - 5x + 290 = (-5x + 470)^{\\circ}$. The sum of one acute angle and three obtuse angles is: $(5x - 290) + 3(-5x + 470) = 5x - 290 + 3(-5x) + 3(470) = 5x - 290 - 15x + 1410 = -10x + 1120$. Since this sum is given as $(-10x + w)^{\\circ}$, matching the expressions gives $-10x + 1120 = -10x + w$, so $w = 1120$.",
+  "source": "https://cooksat.com/practice-test-review/7?questionId=c0ee0711",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "7",
+    "title": "Practice Test 7"
+  }
+}
