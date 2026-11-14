@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c3eb712739306847dc8c771986f1a453",
+  "capturedAt": "2026-11-14T02:08:41.594Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nDr. Mia Roberts, Dr. Marcus Mensah, and their team surveyed three groups of people in Portland, Oregon—directors of community health programs, health professionals involved in public health initiatives (e.g., physicians and community health associations), and local residents—to compare their views about the extent to which community health programs contribute to 25 health or social outcomes that the team identified. The table shows the rankings each group gave to five of these outcomes, with a ranking of 1 indicating that a group perceives community health programs benefit that outcome the most. Using only the rankings shown in the table, a public health administrator in Portland who is promoting a new community health program concludes that informational materials aimed at program directors should emphasize the program's benefit to the improvement of mental health services.",
+  "prompt": "Which choice best describes data in the table that support the public health administrator's conclusion?",
+  "choices": {
+    "A": "The promotion of health equity was ranked lower for program directors than it was for local residents.",
+    "B": "The improvement of mental health services was ranked higher for program directors than it was for health professionals.",
+    "C": "The improvement of mental health services was ranked higher for program directors than were the other four outcomes.",
+    "D": "The enhancement of community engagement was ranked higher for program directors than was the improvement of mental health services."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it describes data that directly support the administrator's strategy of emphasizing mental health services to program directors. According to the table, program directors ranked improvement of mental health services as 3 out of 25 outcomes, while the other four outcomes shown received rankings of 16, 12, 18, and 7. Since lower numbers indicate higher perceived benefit, mental health services represents program directors' highest priority among these five outcomes, making it the most strategic benefit to highlight in materials designed to appeal to this specific audience.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=0e2a1205",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c3eb712739306847dc8c771986f1a453/1-4940904efd552f2c.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 9,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

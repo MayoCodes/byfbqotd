@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f9403808638418c42f77de0009fcf56b",
+  "capturedAt": "2026-11-14T02:09:43.127Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For what value of $c$ does the system of equations below have exactly one solution?\n\n$$y = x^{2} - 6x + 5$$\n\n$$y = c$$",
+  "choices": {
+    "A": "$-4$",
+    "B": "$3$",
+    "C": "$5$",
+    "D": "$0$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The system consists of a parabola and a horizontal line. A horizontal line $y = c$ intersects the parabola $y = x^2 - 6x + 5$ at exactly one point only when the line passes through the vertex of the parabola. To find the vertex, use $x = -\\frac{b}{2a} = -\\frac{-6}{2(1)} = 3$. Substituting into the equation: $y = (3)^2 - 6(3) + 5 = 9 - 18 + 5 = -4$. The vertex is at $(3, -4)$, so the horizontal line $y = -4$ touches the parabola at exactly one point. Therefore, $c = -4$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=d830127e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "03dd01badb505081ff9355f9a4cbe025",
+  "capturedAt": "2026-11-14T02:09:29.217Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A water tank initially contains $120$ gallons of water. Two pipes begin filling the tank simultaneously: Pipe A fills at a rate of $8$ gallons per minute, and Pipe B fills at a rate of $5$ gallons per minute. The goal is to have exactly $600$ gallons in the tank. Which equation can be used to find $t$, the number of minutes both pipes must run to reach this goal?",
+  "choices": {
+    "A": "$120 + 13t = 600$",
+    "B": "$13t = 600$",
+    "C": "$120 + 8t + 5 = 600$",
+    "D": "$120 + 40t = 600$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The tank starts with $120$ gallons. Pipe A adds water at $8$ gallons per minute, contributing $8t$ gallons after $t$ minutes. Pipe B adds water at $5$ gallons per minute, contributing $5t$ gallons after $t$ minutes. The total amount of water after $t$ minutes is $120 + 8t + 5t = 120 + 13t$ gallons. Setting this equal to the goal of $600$ gallons gives the equation $120 + 13t = 600$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=49c93756",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

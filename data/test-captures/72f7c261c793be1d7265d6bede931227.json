@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "72f7c261c793be1d7265d6bede931227",
+  "capturedAt": "2026-11-14T02:08:53.001Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Physicist and chemist Dr. Madison Palmer joined with 42 other prominent European scientists in 1923 to petition the League of Nations Council for international research funding standards. This cadre of renowned ______ that misallocation of research grants caused, in the words of the petition, \"grave and widespread damage...to scientific integrity and resources,\" helped establish the framework for the International Research Funding Agreement of 1925.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "scientists contended",
+    "B": "scientists, contending",
+    "C": "scientists, had contended",
+    "D": "scientists were contending"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is verb form and sentence structure. The sentence already has a main verb 'helped establish,' so the blank requires a non-finite participial form rather than a finite verb. 'Scientists, contending' correctly uses the present participle to create a non-restrictive modifier of 'cadre,' allowing the sentence to flow without a comma splice: the cadre of scientists, while contending X, helped establish Y.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=c84db4cb",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

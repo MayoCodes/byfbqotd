@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c199da506ee02dfcff73c920516629b6",
+  "capturedAt": "2026-11-14T02:08:25.736Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In electrical engineering, the value known as resistance is useful for calculating the current flowing through components in a circuit. The tungsten wire (W-type) ______ have resistance values of 220 and 470 ohms, respectively.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "resistor, and the carbon film (CF-type) resistor",
+    "B": "resistor and the carbon film (CF-type) resistor",
+    "C": "resistor; and the carbon film (CF-type) resistor",
+    "D": "resistor: and the carbon film (CF-type) resistor"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The tungsten wire resistor and the carbon film resistor form a compound subject joined by “and.” No punctuation should separate the two coordinated parts of this subject.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=61c0f992",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 21,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bded9e326d2c73b1688290c0efac2010",
+  "capturedAt": "2026-11-14T02:09:15.858Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn triangle $ABC$, what is the value of $\\theta ^°$ ?",
+  "choices": {
+    "A": "$\\frac{h}{3}$",
+    "B": "$\\frac{4}{3}$",
+    "C": "$\\frac{3}{4}$",
+    "D": "$\\frac{h}{4}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The tangent of an angle in a right triangle is defined as the ratio of the length of the side opposite the angle to the length of the side adjacent to the angle. In triangle $ABC$, the right angle is at vertex $B$. From the perspective of angle $\\theta^{\\circ}$ at vertex $C$, the opposite side is $AB$, which has length $3$, and the adjacent side is $BC$, which has length $4$. Therefore, $\\tan \\theta^{\\circ} = \\frac{\\text{opposite}}{\\text{adjacent}} = \\frac{AB}{BC} = \\frac{3}{4}$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=30867d35",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/bded9e326d2c73b1688290c0efac2010/1-f6728a0a88a2de88.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 13,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

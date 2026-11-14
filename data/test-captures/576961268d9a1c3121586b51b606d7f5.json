@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "576961268d9a1c3121586b51b606d7f5",
+  "capturedAt": "2026-11-14T02:09:50.875Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Find Missing Value Given Mean",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$a, 15, 22, 31, b, 45, 53, 72, c$$\n\nFor the given data set, the values are listed in ascending order, where $a$, $b$, and $c$ are constants. For this data set, the mean is $42$, the median is $35$, and the range is $85$. What is the value of $c$?",
+  "choices": {
+    "A": "$10$",
+    "B": "$35$",
+    "C": "$95$",
+    "D": "$105$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Since there are $9$ values in the data set and they are in ascending order, the median is the $5$th value. Therefore, $b = 35$. The range equals the maximum minus the minimum: $c - a = 85$. The mean equals the sum divided by the count: $\\frac{a + 15 + 22 + 31 + 35 + 45 + 53 + 72 + c}{9} = 42$. This gives $a + c + 273 = 378$, so $a + c = 105$. Now solve the system: $a + c = 105$ and $c - a = 85$. Adding these equations: $2c = 190$, so $c = 95$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=1155bb8e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 22,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

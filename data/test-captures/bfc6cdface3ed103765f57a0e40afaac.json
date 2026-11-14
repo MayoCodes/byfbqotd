@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bfc6cdface3ed103765f57a0e40afaac",
+  "capturedAt": "2026-11-14T02:09:18.192Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A ball is launched from a height of $84$ feet above the ground. A quadratic function $f$ models the height above the ground, in feet, of the ball $t$ seconds after it is launched. According to the model, $3$ seconds after the ball is launched, it reaches a maximum height of $228$ feet above the ground. Which equation defines $f$?",
+  "choices": {
+    "A": "$f(t) = -16(t + 228)^{2} - 3$",
+    "B": "$f(t) = -16(t - 228)^{2} + 3$",
+    "C": "$f(t) = -16(t + 3)^{2} - 228$",
+    "D": "$f(t) = -16(t - 3)^{2} + 228$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The correct answer is D. The vertex form of a quadratic function is $f(t) = a(t - h)^2 + k$, where $(h, k)$ is the vertex of the parabola. For projectile motion problems, the coefficient $a = -16$, and the negative value indicates the parabola opens downward. According to the problem, the ball reaches a maximum height of $228$ feet at $t = 3$ seconds, which means the vertex is at $(3, 228)$. Therefore, $h = 3$ and $k = 228$, giving the equation $f(t) = -16(t - 3)^2 + 228$. To verify this is correct, check the initial height when $t = 0$: $f(0) = -16(0 - 3)^2 + 228 = -16(9) + 228 = -144 + 228 = 84$ feet, which matches the given initial height.\n\nChoice A is incorrect and may result from confusing the time and height values. This equation places the vertex at $(-228, -3)$, meaning the maximum height would occur at $t = -228$ seconds (before launch) at a height of $-3$ feet (below ground), neither of which makes sense in this context.\n\nChoice B is incorrect and may result from reversing the vertex coordinates. This equation places the vertex at $(228, 3)$, meaning a maximum height of $3$ feet at $t = 228$ seconds, which reverses the given information.\n\nChoice C is incorrect and may result from using incorrect signs. This equation places the vertex at $(-3, -228)$, meaning the maximum would occur at $t = -3$ seconds at a height of $-228$ feet below ground, both of which contradict the problem.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=48f4ea9c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

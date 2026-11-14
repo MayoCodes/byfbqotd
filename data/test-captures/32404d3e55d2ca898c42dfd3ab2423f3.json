@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "32404d3e55d2ca898c42dfd3ab2423f3",
+  "capturedAt": "2026-11-14T02:08:22.407Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "On March 8, 2019, the archaeological expedition departed from base camp, commencing Expedition ______ six weeks and four days, the excavation concluded at the National Museum in Cairo.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "AX-47, it lasted",
+    "B": "AX-47, lasting",
+    "C": "AX-47 lasting",
+    "D": "AX-47. Lasting"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between sentences. A period is needed to separate two independent clauses. The first sentence ('On March 8, 2019, the archaeological expedition departed from base camp, commencing Expedition AX-47') is complete with its subject ('expedition') and verb ('departed'). The second sentence begins with the participial phrase 'Lasting six weeks and four days,' which modifies the subject 'the excavation,' followed by the verb 'concluded.' The period correctly marks the boundary between these two independent clauses.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=cf55b898",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 18,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

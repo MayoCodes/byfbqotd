@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "48aa3fcf0634a2fe9c0d7c6c67d0986f",
+  "capturedAt": "2026-11-14T02:08:39.494Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Describe Overall Text Relationship",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nSurgeonfish (Acanthurus coeruleus) are native to Caribbean coral reefs, where stable conditions have historically limited invasive species establishment. As ocean temperatures have risen in recent decades, however, red lionfish (Pterois volitans) have colonized Caribbean waters. Previous research conducted in Indo-Pacific reef ecosystems has documented warming-induced increases in sea surface temperatures benefiting invasive fish species more than native reef fish.\n\nText 2\nAt a site near Montego Bay, Jamaica, Elena Cordova and David Foster tracked A. coeruleus and P. volitans, along with other native and invasive species, over several years. They observed that although average sea surface temperatures were substantially higher in some years of the study than in others, neither A. coeruleus nor P. volitans showed any significant variation in population density from year to year.",
+  "prompt": "Which choice best describes the relationship between the two texts?",
+  "choices": {
+    "A": "Text 2 explains a study that suggests an alternative explanation for the trend observed in the research discussed in Text 1.",
+    "B": "Text 2 describes a methodology that helps researchers avoid a problem encountered in the studies discussed in Text 1.",
+    "C": "Text 2 presents a finding that casts doubt on the generalizability of the research discussed in Text 1.",
+    "D": "Text 2 discusses an observation that challenges the validity of the findings described in Text 1."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it accurately characterizes how Text 2 relates to Text 1. Text 1 establishes that previous Indo-Pacific research found warming benefits invasive fish species more than native reef fish. Text 2 presents Caribbean findings that contradict this pattern: neither the native surgeonfish nor the invasive lionfish showed population density variation despite substantial year-to-year temperature changes. Importantly, Text 2 doesn't invalidate the Indo-Pacific research but demonstrates those findings may not apply universally to all reef ecosystems, thereby casting doubt on their generalizability.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=a3e6e8a8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 7,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

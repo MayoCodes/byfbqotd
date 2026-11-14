@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8d1bb70c9284e12cf65035646d7dc4c1",
+  "capturedAt": "2026-11-14T02:09:30.267Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A gym offers two membership plans. Plan A has a $$25$ registration fee and costs $$40$ per month. Plan B has an $$85$ registration fee and costs $$30$ per month. After how many months will the total cost of both plans be equal?",
+  "choices": {
+    "A": "$6$",
+    "B": "$60$",
+    "C": "$4$",
+    "D": "$3$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Let $m$ represent the number of months. The total cost of Plan A is $25 + 40m$ dollars, and the total cost of Plan B is $85 + 30m$ dollars. Setting these equal: $25 + 40m = 85 + 30m$. Subtracting $30m$ from both sides: $25 + 10m = 85$. Subtracting $25$ from both sides: $10m = 60$. Dividing by $10$: $m = 6$. After $6$ months, both plans cost $25 + 40(6) = 265$ dollars.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=6ba8838c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

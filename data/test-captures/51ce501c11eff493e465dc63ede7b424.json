@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "51ce501c11eff493e465dc63ede7b424",
+  "capturedAt": "2026-11-14T02:08:23.462Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Spanning as much as 1,280 meters between towers, the main cables of the Golden Gate suspension bridge contain thousands of parallel wire strands that provide structural ______ in diameter from the anchorages to the midpoint, these cables allow the bridge to support massive loads with efficient use of steel, distributing tension evenly across the entire span.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "integrity. Varying",
+    "B": "integrity varying",
+    "C": "integrity, varying",
+    "D": "integrity, while varying"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between sentences. The first clause about cables providing structural integrity is a complete independent sentence. The period correctly marks the boundary between this sentence and the next, which begins with the participial phrase 'Varying in diameter from the anchorages to the midpoint' that modifies 'these cables.' This creates proper sentence boundaries while maintaining the logical connection between the cables' structural integrity and their varying diameter.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=70a5f8a1",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 19,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

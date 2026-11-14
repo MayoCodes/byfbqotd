@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e6cc4a47b1e7692a14fea1efa7b0da5a",
+  "capturedAt": "2026-11-14T02:09:14.821Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The area $A$, in square meters, of a rectangular garden can be represented by the expression $w(w + 45)$, where $w$ is the width, in meters, of the garden. Which expression represents the length, in meters, of the garden?",
+  "choices": {
+    "A": "$45$",
+    "B": "$w(w + 45)$",
+    "C": "$(w + 45)$",
+    "D": "$w$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The area of a rectangle is calculated by multiplying its length by its width: $A = \\text{length} \\times \\text{width}$. The question states that the area $A$ can be represented by the expression $w(w + 45)$ and that $w$ represents the width in meters. Since the expression is in factored form, it represents the product of two factors: $w$ and $(w + 45)$. Given that $w$ is the width, the other factor $(w + 45)$ must be the length. Therefore, the length of the garden is represented by the expression $(w + 45)$ meters.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=p8m1q12",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 12,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

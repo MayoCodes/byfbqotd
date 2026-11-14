@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1d14434984559f46cc125fc0886f6751",
+  "capturedAt": "2026-11-14T02:09:21.692Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Solution from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe shaded region shown represents the solutions to which inequality?",
+  "choices": {
+    "A": "$y > -2x + 8$",
+    "B": "$y < 8x - 2$",
+    "C": "$y < -2x + 8$",
+    "D": "$y > 8x - 2$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To identify the inequality, we must first determine the equation of the boundary line. The dashed line passes through two points: $(0, 8)$ and $(3, 2)$. Using the slope formula $m = \\frac{y_2 - y_1}{x_2 - x_1}$, we calculate $m = \\frac{2 - 8}{3 - 0} = \\frac{-6}{3} = -2$. Since the line passes through the y-intercept at $(0, 8)$, the equation of the boundary line is $y = -2x + 8$. To determine the inequality symbol, we observe that the region above the line is shaded. When a region above a boundary line is shaded, this represents $y$ greater than the line equation. Additionally, since the boundary line is dashed rather than solid, the inequality is strict (does not include equality). Therefore, the inequality representing the shaded region is $y > -2x + 8$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=1886b70d",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1d14434984559f46cc125fc0886f6751/1-08c7d800c614204a.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

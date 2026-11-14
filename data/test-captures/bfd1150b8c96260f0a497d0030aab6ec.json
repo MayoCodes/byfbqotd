@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bfd1150b8c96260f0a497d0030aab6ec",
+  "capturedAt": "2026-11-14T02:09:28.167Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The functions $f$ and $g$ are defined by $f(x) = 3x - 7$ and $g(x) = x^{2} + 2$. If $f(g(a)) = 20$, what is the positive value of $a$?",
+  "choices": {
+    "A": "$sqrt(7)$",
+    "B": "$sqrt(21)$",
+    "C": "$3$",
+    "D": "$sqrt(3)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct answer is A. First, find $g(a) = a^2 + 2$. Then substitute into $f$: $f(g(a)) = f(a^2 + 2) = 3(a^2 + 2) - 7$. Set this equal to $20$: $3(a^2 + 2) - 7 = 20$. Expanding: $3a^2 + 6 - 7 = 20$, which simplifies to $3a^2 - 1 = 20$. Adding $1$ to both sides: $3a^2 = 21$. Dividing by $3$: $a^2 = 7$. Taking the positive square root: $a = \\sqrt{7}$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=cb18f9e8",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

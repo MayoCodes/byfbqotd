@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "af0f005f6682be8b4d7fcbd4b51c16c8",
+  "capturedAt": "2026-11-14T02:09:49.821Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $ABC$, point $D$ lies on side $AB$ and point $E$ lies on side $AC$ such that $DE$ is parallel to $BC$. If $AD = 6$, $DB = 9$, and $DE = 8$, what is the length of $BC$?",
+  "choices": {
+    "A": "$20$",
+    "B": "$12$",
+    "C": "$15$",
+    "D": "$\\frac{(40)}{3}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $\\overline{DE} \\parallel \\overline{BC}$, triangles $ADE$ and $ABC$ are similar by the AA similarity criterion (they share angle $A$, and corresponding angles formed by the parallel lines are equal). For similar triangles, corresponding sides are proportional. The ratio of corresponding sides is $\\frac{AD}{AB} = \\frac{DE}{BC}$. First, find $AB = AD + DB = 6 + 9 = 15$. Then set up the proportion: $\\frac{6}{15} = \\frac{8}{BC}$. Simplifying: $\\frac{2}{5} = \\frac{8}{BC}$. Cross-multiplying: $2 \\cdot BC = 40$, so $BC = 20$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=272d42cb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 21,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

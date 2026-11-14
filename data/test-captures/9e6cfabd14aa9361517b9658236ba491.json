@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9e6cfabd14aa9361517b9658236ba491",
+  "capturedAt": "2026-11-14T02:09:20.527Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$cases -1.2y = 0.6x - 14.4 \\\\ 5y = -4x + 6 cases$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $x$?",
+  "choices": {},
+  "correctAnswer": "$$-36$$",
+  "explanation": "The correct answer is $-36$. To solve this system of equations for $x$, use the elimination method. First, eliminate the decimals from the first equation by multiplying both sides by $10$: $-12y = 6x - 144$. Now the system is $-12y = 6x - 144$ and $5y = -4x + 6$. To eliminate $y$, multiply the first equation by $5$ to get $-60y = 30x - 720$, and multiply the second equation by $12$ to get $60y = -48x + 72$. Adding these two equations gives $0 = -18x - 648$. Solving for $x$: $18x = -648$, so $x = -36$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=e5062e14",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 17,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

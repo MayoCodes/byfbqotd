@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a354343df59208b7971bbfb4594931a7",
+  "capturedAt": "2026-11-14T02:09:35.846Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $2^{3}x = 64$, what is the value of $2^{2}x+1$?",
+  "choices": {
+    "A": "$16$",
+    "B": "$32$",
+    "C": "$64$",
+    "D": "$128$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. First, solve for $x$ by rewriting $64$ as a power of $2$: $2^{3x} = 2^6$, so $3x = 6$ and $x = 2$. Then substitute into the expression $2^{2x+1}$: $2^{2(2)+1} = 2^{4+1} = 2^5 = 32$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=5755ca5d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 8,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

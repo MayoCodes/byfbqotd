@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "84fdd6974761171eef1418726377f0bc",
+  "capturedAt": "2026-11-14T02:08:46.341Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While birds collectively exhibit the highest ratio of feather complexity to wing size among avian species, a team led by ornithologist Erik Lindqvist demonstrates that for eight million years following the Permian-Triassic extinction, that ratio in fact decreased for birds as they evolved to occupy newly available atmospheric niches and their wings increased in size more rapidly than their plumage grew complex. Competition for flight efficiency tends to favor sophisticated feathers and thus intricate, specialized plumage, but during this period, the abundance of aerial resources relative to avian population numbers likely reduced competition and facilitated an increase in wing size. Lindqvist and his team reason that as population numbers expanded, competition intensified, creating conditions that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "favored an evolutionary increase in feather complexity relative to wing size among birds.",
+    "B": "restricted aerial resources so drastically that birds struggled to secure enough space to maintain complex plumage.",
+    "C": "encouraged birds with complex plumage to adapt to a range of atmospheric niches.",
+    "D": "heightened the advantage that large wing size conferred on birds in certain atmospheric niches."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it logically completes the causal argument. The passage establishes that 'Competition for flight efficiency tends to favor sophisticated feathers and thus intricate, specialized plumage,' but during low competition, wings grew faster than plumage complexity increased. When 'population numbers expanded, competition intensified,' the stated principle should reassert itself: intensified competition would favor increased feather complexity relative to wing size—exactly what Choice A describes.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=78187549",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 13,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4bd64fbacbacaf449c0d7f7e4c4a8554",
+  "capturedAt": "2026-11-14T02:09:42.083Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A shipping company charges a flat fee of $$8$ plus $$0.50$ per pound for packages. A customer has a budget of at most $$25$ for shipping. Which inequality represents all possible weights $w$, in pounds, that the customer can ship within this budget?",
+  "choices": {
+    "A": "$8 + 0.50w \\le 25$",
+    "B": "$8 + 0.50w \\ge 25$",
+    "C": "$8w + 0.50 \\le 25$",
+    "D": "$0.50w \\le 25$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The total shipping cost consists of a flat fee of $$8$ plus $$0.50$ for each pound, which can be expressed as $8 + 0.50w$ dollars. The phrase \"at most $$25$\" means the total cost must be less than or equal to $$25$. Therefore, the inequality is $8 + 0.50w \\leq 25$. Solving this inequality: $0.50w \\leq 17$, so $w \\leq 34$ pounds. Any weight up to $34$ pounds will keep the customer within budget.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=afa1d63c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

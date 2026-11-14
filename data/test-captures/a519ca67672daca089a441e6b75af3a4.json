@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a519ca67672daca089a441e6b75af3a4",
+  "capturedAt": "2026-11-14T02:08:16.864Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Humanities/Arts",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Elena Romano and colleagues had painters and non-painters with clinically typical vision view digital reproductions of landscape paintings and portraits in popular styles like impressionism and realism and adjust the brightness to optimize their viewing enjoyment. The researchers found that for a given reproduction that a painter and non-painter identified as their favorite among those included in the study, optimal brightness tended to be higher for the painter than for the non-painter. Thus, if a painter and non-painter both identified Monet's \"Water Lilies\" as their favorite reproduction and the painter preferred to view it at a brightness of 520 lux, the non-painter would be expected to ______.",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "enjoy viewing the landscape paintings at 520 lux more than viewing \"Water Lilies\" at 520 lux",
+    "B": "prefer viewing other paintings at 520 lux over viewing \"Water Lilies\" at that brightness",
+    "C": "find viewing \"Water Lilies\" at 520 lux less enjoyable than viewing it at a lower brightness",
+    "D": "not find it enjoyable to view any reproductions at a brightness as low as 520 lux"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most logically applies the study's finding to the hypothetical scenario. Romano and colleagues found that for the same favorite reproduction, optimal brightness tended to be higher for painters than for non-painters. In the scenario, 520 lux is the painter's optimal brightness for 'Water Lilies.' Following the established pattern, the non-painter's optimal brightness would be lower than 520 lux. Therefore, viewing at 520 lux would be above the non-painter's optimal level, making it less enjoyable than viewing at a lower brightness that better matches their preference.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=6edef516",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 13,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c2c444210d18f7002585eb0ccfd4d0ab",
+  "capturedAt": "2026-11-14T02:09:13.778Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Line $m$ is defined by $y = -\\frac{(17)}{4}x + 5$. Line $n$ is perpendicular to line $m$ in the $xy$-plane. What is the slope of line $n$?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{4}{17},.2352,.2353,0.235$$",
+  "explanation": "The correct answer is $\\frac{4}{17}$. The equation of line $m$ is given in slope-intercept form $y = mx + b$, where $m$ is the slope. Therefore, the slope of line $m$ is $-\\frac{17}{4}$. When two lines are perpendicular in the coordinate plane, their slopes are negative reciprocals of each other. This means if one line has slope $m_1$, the perpendicular line has slope $m_2 = -\\frac{1}{m_1}$. To find the slope of line $n$, calculate the negative reciprocal of $-\\frac{17}{4}$: $m_n = -\\frac{1}{-\\frac{17}{4}} = -1 \\times \\left(-\\frac{4}{17}\\right) = \\frac{4}{17}$. As a decimal, this equals approximately $0.235$. Note that 4/17, .2352, .2353, and 0.235 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=2918d27a",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 11,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "41c225a4b890e24b5bf85875819db590",
+  "capturedAt": "2026-11-14T02:09:06.970Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$62, 68, 71, 75, 79, 83, 87$$\n\nThe given list shows the daily high temperatures, in degrees Fahrenheit, recorded over $7$ days. Which of the following data sets has the same median as the given list?",
+  "choices": {
+    "A": "$64, 70, 74, 78, 82, 85, 88$",
+    "B": "$63, 69, 75, 79, 81, 84, 89$",
+    "C": "$61, 67, 73, 75, 80, 82, 86$",
+    "D": "$65, 70, 72, 73, 75, 75, 82$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The median of a data set is the middle value when the values are arranged in order. For a data set with $7$ values (an odd number), the median is the $4$th value when arranged in ascending order. The given list is already in order: $62, 68, 71, 75, 79, 83, 87$. Counting to the $4$th position gives $75$ as the median. Now checking each answer choice: Choice A has $4$th value $78$, Choice B has $4$th value $79$, Choice C has $4$th value $75$, and Choice D has $4$th value $73$. Only Choice C has the same median ($75$) as the given list.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=84a81f49",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

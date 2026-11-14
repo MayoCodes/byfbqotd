@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0d80c90d104e437f418401d89e021594",
+  "capturedAt": "2026-11-14T02:09:33.401Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of $f(x) = a(x - h)^{2} + k$ is shown, where $a$, $h$, and $k$ are constants. What is the value of $a$?",
+  "choices": {
+    "A": "$-1$",
+    "B": "$1$",
+    "C": "$5$",
+    "D": "$2$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. From the graph, the vertex of the parabola is at $(2, 5)$, so $h = 2$ and $k = 5$. The equation becomes $f(x) = a(x - 2)^2 + 5$. The parabola opens downward, so $a$ must be negative. To find the value of $a$, use another point on the graph. The parabola passes through $(0, 1)$. Substituting: $1 = a(0 - 2)^2 + 5$, which gives $1 = 4a + 5$. Solving: $4a = -4$, so $a = -1$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=98cdeeab",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/0d80c90d104e437f418401d89e021594/1-d8bd522f9dca5f39.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 6,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b4c9d190fbb5c01ad78b40c9619f645f",
+  "capturedAt": "2026-11-14T02:09:47.552Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A circle has center $O$, and points $A$ and $B$ lie on the circle. The measure of arc $AB$ is $45$ degrees, and the length of arc $AB$ is $5\\pi$ units. What is the length, in units, of the radius of the circle?",
+  "choices": {},
+  "correctAnswer": "$$20$$",
+  "explanation": "The correct answer is $20$. The arc length formula relates the arc length $s$, the central angle $\\theta$ (in degrees), and the radius $r$: $s = \\frac{\\theta}{360} \\times 2\\pi r$. Substituting the given values: $5\\pi = \\frac{45}{360} \\times 2\\pi r$. Simplifying $\\frac{45}{360} = \\frac{1}{8}$: $5\\pi = \\frac{1}{8} \\times 2\\pi r = \\frac{\\pi r}{4}$. Multiplying both sides by $4$: $20\\pi = \\pi r$. Dividing both sides by $\\pi$: $r = 20$ units.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=7722a133",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

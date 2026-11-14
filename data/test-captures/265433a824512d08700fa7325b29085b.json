@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "265433a824512d08700fa7325b29085b",
+  "capturedAt": "2026-11-14T02:08:26.809Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While some archaeologists have identified the ancient city of Vilcabamba as containing invaluable Incan artifacts, it's unlikely that researchers will be able to study its treasures anytime soon—the city is buried beneath dense Amazonian jungle in a region with no road access. ______ archaeologists must first focus on preserving and studying artifacts from sites already accessible to researchers.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "For example,",
+    "B": "Likewise,",
+    "C": "Next,",
+    "D": "Instead,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. 'Instead' logically signals a contrast between what researchers might ideally want to do (study Vilcabamba's invaluable artifacts) and what they must pragmatically do given the obstacles. The first sentence establishes that Vilcabamba contains valuable artifacts but is inaccessible, while the second sentence proposes focusing on accessible sites as an alternative course of action. 'Instead' correctly indicates this shift from an impractical option to a practical alternative, capturing the relationship of 'given we cannot do X, we should do Y instead.'",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=ba7ad3c8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 22,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

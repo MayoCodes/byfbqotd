@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6536ba349a5bab80c45feeb94691e480",
+  "capturedAt": "2026-11-14T02:08:31.048Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• National parks provide essential visitor services to help people explore natural areas safely.\n• Before modern management systems, parks were overseen by individual park rangers.\n• Dylan Cooper was a park ranger at Yellowstone National Park in Wyoming.\n• She held this position for twenty-three years (1932–1955).\n• Grace Mensah was a park ranger at Yosemite National Park in California.\n• She held this position for fifty-three years (1898–1951).",
+  "prompt": "The student wants to compare the length of time Dylan Cooper and Grace Mensah worked as park rangers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Dylan Cooper and Grace Mensah were both park rangers at a time when such a person was needed to oversee a park.",
+    "B": "From 1932 to 1955, the natural areas of Wyoming were more safely explored thanks to park rangers Dylan Cooper and Grace Mensah.",
+    "C": "Dylan Cooper worked as a park ranger for twenty-three years, but Grace Mensah did so for even longer: fifty-three years.",
+    "D": "Before modern management systems, park rangers like Dylan Cooper, who served for twenty-three years, and Grace Mensah were essential to ensuring safe exploration for visitors."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it directly compares the durations of both rangers' service using explicit numerical values and comparative language. The sentence presents Cooper's twenty-three years of service, then uses the contrastive conjunction 'but' followed by 'for even longer' to establish that Mensah's fifty-three years exceeded Cooper's tenure. This structure makes the comparison clear and emphasizes the difference in service lengths, effectively accomplishing the student's stated goal.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=1e50538f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 26,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

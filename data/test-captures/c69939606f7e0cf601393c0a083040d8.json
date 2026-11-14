@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c69939606f7e0cf601393c0a083040d8",
+  "capturedAt": "2026-11-14T02:09:02.486Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $x + y = 120$ represents the number of minutes spent on homework, $x$, and the number of minutes spent on leisure activities, $y$, during a $120$-minute after-school period. If $75$ minutes are spent on homework, how many minutes are spent on leisure activities?",
+  "choices": {
+    "A": "$75$",
+    "B": "$45$",
+    "C": "$195$",
+    "D": "$120$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The equation $x + y = 120$ represents the total time allocation where $x$ is homework time and $y$ is leisure time. Given that $x = 75$ minutes are spent on homework, substitute this value into the equation: $75 + y = 120$. To solve for $y$, subtract $75$ from both sides: $y = 120 - 75 = 45$. Therefore, $45$ minutes are spent on leisure activities.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=09d4c01e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

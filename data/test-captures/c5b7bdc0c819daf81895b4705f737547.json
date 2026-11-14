@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c5b7bdc0c819daf81895b4705f737547",
+  "capturedAt": "2026-11-14T02:09:09.050Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Percent of a Value",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A bookstore has $500$ books in its inventory. Of these books, $64%$ are fiction, $45%$ are available as audiobooks, and $24%$ are fiction books that are also available as audiobooks. How many fiction books are NOT available as audiobooks?",
+  "choices": {},
+  "correctAnswer": "$$200$$",
+  "explanation": "The correct answer is $200$. First, find the number of fiction books: $64\\%$ of $500 = 0.64 \\times 500 = 320$ books. Next, find the number of fiction books that are also available as audiobooks: $24\\%$ of $500 = 0.24 \\times 500 = 120$ books. The fiction books that are NOT available as audiobooks are those in the fiction category but not in the overlap. Subtract the overlap from the total fiction: $320 - 120 = 200$ books. Therefore, $200$ fiction books are not available as audiobooks.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=1dca2abb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

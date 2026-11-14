@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "38246e62bf9387ed6a065eb84f430276",
+  "capturedAt": "2026-11-14T02:09:05.871Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 5(3)^x$. What is the value of $g(x)$ when $x = 4$?",
+  "choices": {
+    "A": "$135$",
+    "B": "$81$",
+    "C": "$405$",
+    "D": "$243$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To find the value of $g(x)$ when $x = 4$, substitute $4$ for $x$ in the function definition: $g(4) = 5(3)^4$. Following the order of operations, first calculate the exponent: $3^4 = 3 \\times 3 \\times 3 \\times 3 = 9 \\times 9 = 81$. Then multiply by the coefficient: $5 \\times 81 = 405$. Therefore, $g(4) = 405$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=e1d77611",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

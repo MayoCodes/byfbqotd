@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8cb18732050e7d9e2c901d2dcb002e41",
+  "capturedAt": "2026-11-14T02:08:17.909Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Sofia Bergman and team studied the effect of artificial lighting on loggerhead sea turtles (Caretta caretta), coastal marine reptiles that are sensitive to luminosity changes in their environment. Hypothesizing that elevated light levels affect nesting behaviors among sea turtles, Bergman's team compared turtle nesting site selection in natural light conditions with those behaviors in two artificial light exposure conditions—beach lighting and beach lighting coupled with floodlights. Both exposure conditions resulted in significant decreases in the number and proximity to water of nesting sites (associated with successful reproduction) relative to natural conditions. However, differences between nesting behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "beach lighting contributes so much to the overall light level that the addition of floodlights has little effect on the sea turtles' visual environment.",
+    "B": "the sea turtles weren't as sensitive to artificial lighting as the researchers had predicted.",
+    "C": "floodlights can be detected at significantly greater distances from shore than beach lighting can.",
+    "D": "sea turtles nest closer to the water in the presence of beach lighting alone than in the presence of beach lighting coupled with floodlights."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most logically explains why the two artificial lighting conditions produced negligible differences in nesting behaviors. The text indicates that both beach lighting alone and beach lighting with floodlights significantly disrupted nesting compared to natural conditions, but the two artificial conditions were nearly identical in their effects. This pattern suggests a ceiling effect: if beach lighting already elevates the light level to a point where it maximally disrupts the turtles' behavior, adding floodlights would provide little additional impact on the turtles' visual environment, resulting in similar behavioral responses.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=79ff056f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 14,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

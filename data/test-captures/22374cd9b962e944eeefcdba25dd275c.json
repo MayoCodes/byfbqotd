@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "22374cd9b962e944eeefcdba25dd275c",
+  "capturedAt": "2026-11-14T02:08:48.424Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Adopted in 1841, Monaco's 158-word national anthem, in contrast to Greece's, which was composed in 1823 and contains a far greater number (6,516) of words, ______ as the 2nd shortest in the world. Such data are studied by musicologists like Elena Marchetti, who can use them to draw broader conclusions.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "ranks",
+    "B": "have ranked",
+    "C": "rank",
+    "D": "are ranking"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb 'ranks' agrees in number with the singular subject 'Monaco's 158-word national anthem.' Though the subject and verb are separated by a lengthy interrupting clause ('in contrast to Greece's, which was composed in 1823 and contains a far greater number (6,516) of words'), the subject remains singular and requires the third-person singular present tense verb 'ranks.'",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=58b3aae1",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 15,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

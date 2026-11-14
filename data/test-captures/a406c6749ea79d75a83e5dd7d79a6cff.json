@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a406c6749ea79d75a83e5dd7d79a6cff",
+  "capturedAt": "2026-11-14T02:09:11.402Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Interpret Coefficient or Constant",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph in the $xy$-plane models the possible combinations of base $x$, in centimeters (cm), and height $y$, in centimeters, for a triangle with a perimeter of $30$ cm. Which statement is the best interpretation of the point $(5, 10)$ in this context?",
+  "choices": {
+    "A": "The base is $10$ cm less than the perimeter, and the height is $5$ cm less than the perimeter.",
+    "B": "The base is $5$ cm, and the height is $10$ cm.",
+    "C": "The base is $10$ cm, and the height is $5$ cm.",
+    "D": "The base is $5$ cm less than the perimeter, and the height is $10$ cm less than the perimeter."
+  },
+  "correctAnswer": "B",
+  "explanation": "The correct answer is B. In the coordinate plane, a point $(x, y)$ represents the x-coordinate on the horizontal axis and the y-coordinate on the vertical axis. The graph shows the x-axis labeled as base in centimeters and the y-axis labeled as height in centimeters. Therefore, the point $(5, 10)$ means $x = 5$ and $y = 10$, so the base is $5$ cm and the height is $10$ cm.\n\nChoice A is incorrect and may result from reversing the coordinates and misinterpreting them as differences from the perimeter. The coordinates represent actual measurements, not differences.\n\nChoice C is incorrect and results from reversing the coordinates. The point $(5, 10)$ means the first value ($5$) corresponds to the x-axis (base) and the second value ($10$) corresponds to the y-axis (height), not the reverse.\n\nChoice D is incorrect and results from misinterpreting the coordinates as amounts to subtract from the perimeter. The coordinates $(5, 10)$ represent the actual values of base and height, not their differences from the perimeter of $30$ cm.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=b4bc63e7",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a406c6749ea79d75a83e5dd7d79a6cff/1-f058fc8584a0398f.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 9,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

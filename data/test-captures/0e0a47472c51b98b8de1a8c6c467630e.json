@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0e0a47472c51b98b8de1a8c6c467630e",
+  "capturedAt": "2026-11-14T02:09:23.588Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$f(x) = \\frac{(b - 24)}{x} + 5$$\n\nIn the given function $f$, $b$ is a constant. The graph of function $f$ in the $xy$-plane, where $y = f(x)$, is translated $4$ units up and $7$ units to the left to produce the graph of $y = g(x)$. Which equation defines function $g$?",
+  "choices": {
+    "A": "$g(x) = \\frac{(b - 24)}{(x - 7)} + 9$",
+    "B": "$g(x) = \\frac{(b - 24)}{(x + 7)} + 9$",
+    "C": "$g(x) = \\frac{(b - 28)}{(x - 7)} + 5$",
+    "D": "$g(x) = \\frac{(b - 28)}{(x + 7)} + 5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. When a function is translated horizontally, the input $x$ is replaced by $(x - h)$ for a shift $h$ units to the right, or $(x + h)$ for a shift $h$ units to the left. When a function is translated vertically, a constant is added to the output: adding $k$ shifts the graph up $k$ units, and subtracting $k$ shifts it down $k$ units. For function $f(x) = \\frac{b - 24}{x} + 5$, translating $7$ units to the left requires replacing $x$ with $(x + 7)$. Translating $4$ units up requires adding $4$ to the function output, so the constant term changes from $+5$ to $+5 + 4 = +9$. Therefore, $g(x) = \\frac{b - 24}{x + 7} + 9$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=eac8fefd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

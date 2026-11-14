@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "159ec1ae2752d22eb6a9efa84372441a",
+  "capturedAt": "2026-11-14T02:09:46.511Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $2x^{2} + bx + 18 = 0$ has exactly one real solution. What is the positive value of $b$?",
+  "choices": {
+    "A": "$12$",
+    "B": "$144$",
+    "C": "$6$",
+    "D": "$36$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A quadratic equation has exactly one real solution when its discriminant equals zero. For the equation $2x^2 + bx + 18 = 0$, the discriminant is $b^2 - 4ac = b^2 - 4(2)(18) = b^2 - 144$. Setting the discriminant equal to zero: $b^2 - 144 = 0$, so $b^2 = 144$. Taking the square root: $b = \\pm 12$. Since the question asks for the positive value, $b = 12$. To verify: when $b = 12$, the equation $2x^2 + 12x + 18 = 0$ simplifies to $x^2 + 6x + 9 = 0$, which factors as $(x + 3)^2 = 0$, giving exactly one solution $x = -3$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=4ca3d4b4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 18,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

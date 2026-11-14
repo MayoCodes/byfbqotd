@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c53ca253abcd8250777fa08f9417f910",
+  "capturedAt": "2026-11-14T02:09:19.274Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Complete the Square to Standard Form",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} + 38x + y^{2} = 0$$\n\nIn the $xy$-plane, the graph of the given equation is a circle. What are the coordinates $(x, y)$ of the center of the circle?",
+  "choices": {
+    "A": "$(0, 19)$",
+    "B": "$(0, -19)$",
+    "C": "$(19, 0)$",
+    "D": "$(-19, 0)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The standard form of a circle's equation is $(x - h)^2 + (y - k)^2 = r^2$, where $(h, k)$ is the center and $r$ is the radius. To convert the given equation $x^2 + 38x + y^2 = 0$ to standard form, complete the square for the $x$ terms. The coefficient of the $x$ term is $38$. Taking half of this coefficient gives $\\frac{38}{2} = 19$, and squaring this result gives $19^2 = 361$. Adding and subtracting $361$ to complete the square: $x^2 + 38x + 361 - 361 + y^2 = 0$, which simplifies to $(x + 19)^2 + y^2 = 361$. Rewriting this in standard form gives $(x - (-19))^2 + (y - 0)^2 = 19^2$. Therefore, the center of the circle is at $(h, k) = (-19, 0)$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=33f87490",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

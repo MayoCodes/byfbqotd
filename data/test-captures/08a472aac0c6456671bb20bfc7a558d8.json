@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "08a472aac0c6456671bb20bfc7a558d8",
+  "capturedAt": "2026-11-14T02:09:03.532Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A certain medication must be stored at a temperature of at least $2$ degrees Celsius but no more than $8$ degrees Celsius. Which inequality represents this situation, where $t$ is the storage temperature of the medication, in degrees Celsius?",
+  "choices": {
+    "A": "$t \\ge 2$",
+    "B": "$2 \\le t \\le 8$",
+    "C": "$t \\ge 8$",
+    "D": "$t \\le 12$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The phrase 'at least 2 degrees Celsius' means the temperature must be greater than or equal to $2$, which translates to $t \\geq 2$ or equivalently $2 \\leq t$. The phrase 'no more than 8 degrees Celsius' means the temperature must be less than or equal to $8$, which translates to $t \\leq 8$. Since both conditions must be satisfied simultaneously, they are combined into the compound inequality $2 \\leq t \\leq 8$. This compound inequality states that $t$ is greater than or equal to $2$ AND less than or equal to $8$, which precisely represents the storage temperature requirements described in the problem.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=51df9a6e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

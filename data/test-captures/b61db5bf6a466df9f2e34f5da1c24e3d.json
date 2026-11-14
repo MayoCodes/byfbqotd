@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b61db5bf6a466df9f2e34f5da1c24e3d",
+  "capturedAt": "2026-11-14T02:08:42.902Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nA National Youth Survey Institute study conducted in June 2024 found that two out of five children and teens participate in at least one organized summer activity (a structured program or activity during summer break), while more than half of those who participate engage in more than one type of activity. The study asked participants which types of activities they preferred and organized them into several categories. The table presents the percentages of people who prefer particular types of summer activities among those who choose to participate in organized programs, indexed by age bracket.",
+  "prompt": "Which choice best presents a conclusion about the preferences of summer activity participants that is best supported by information in the text and the table?",
+  "choices": {
+    "A": "The majority of children and teens who prefer activities related to outdoor sports also participate in multiple additional activity categories.",
+    "B": "Among all children and teens, people become less likely to participate in organized summer activities as they age, regardless of the type of activity.",
+    "C": "Activity participants between the ages of 6 and 9 are more likely to prefer outdoor sports than activity participants between the ages of 10 and 12 are.",
+    "D": "Activity participants between the ages of 13 and 15 are more likely to prefer activities related to creative arts and less likely to prefer activities related to technology and gaming than activity participants between the ages of 10 and 12 are."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because both claims are directly supported by the table data. For creative arts, participants ages 13-15 show 59% preference compared to 54% for ages 10-12, confirming higher preference. For technology and gaming, participants ages 13-15 show 57% preference compared to 64% for ages 10-12, confirming lower preference. Both comparisons are accurate.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=89fc2fc2",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b61db5bf6a466df9f2e34f5da1c24e3d/1-bf4ab660e9ceef4a.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

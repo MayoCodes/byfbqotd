@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "586292ce0c1700935dc61fe16bb6b5f2",
+  "capturedAt": "2026-11-14T02:09:45.478Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For what value of $k$ does the following system of equations have no solution?\n\n$$3x + 6y = 12$$\n\n$$kx + 4y = 5$$",
+  "choices": {
+    "A": "$2$",
+    "B": "$4$",
+    "C": "$6$",
+    "D": "$\\frac{1}{2}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A system of linear equations has no solution when the lines are parallel, meaning they have the same slope but different y-intercepts. Converting the first equation to slope-intercept form: $3x + 6y = 12$ becomes $y = -\\frac{1}{2}x + 2$, so the slope is $-\\frac{1}{2}$. Converting the second equation: $kx + 4y = 5$ becomes $y = -\\frac{k}{4}x + \\frac{5}{4}$, so the slope is $-\\frac{k}{4}$. For the lines to be parallel: $-\\frac{k}{4} = -\\frac{1}{2}$, which gives $k = 2$. When $k = 2$, both lines have slope $-\\frac{1}{2}$ but different y-intercepts ($2$ and $\\frac{5}{4}$), so the system has no solution.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=58f2e280",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 17,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

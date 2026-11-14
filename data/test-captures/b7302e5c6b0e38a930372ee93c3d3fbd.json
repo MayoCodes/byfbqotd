@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b7302e5c6b0e38a930372ee93c3d3fbd",
+  "capturedAt": "2026-11-14T02:08:59.309Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• 1925: American oceanographer Dr. James Holloway and a small crew embarked on an expedition to the Mariana Trench.\n• 1926: Holloway's submersible Triton became trapped at extreme depth and was damaged beyond repair.\n• 1927: After more harrowing deep-sea challenges, the entire crew was rescued.\n• 1962: Historian Maya Foster wrote a book called Triton: Holloway's Journey to the Abyss.\n• 1998: Filmmaker Adrian Blake released a documentary called The Triton: Holloway's Historic Deep-Sea Mission.\n• 2024: The wreckage of Triton was discovered at the bottom of the Pacific Ocean's Mariana Trench.",
+  "prompt": "The student wants to provide a historical overview of the Holloway expedition. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Maya Foster wrote about the history of Holloway's 1925–27 expedition in the book Triton: Holloway's Journey to the Abyss (1962); years later, in 1998, Adrian Blake released a documentary about the expedition.",
+    "B": "In 1925, the Holloway expedition traveled to the Mariana Trench, where, in 1927, they rescued the crew of a submersible that had been damaged, Triton (the wreckage of which was discovered in 2024).",
+    "C": "Leaving in 1925 for the Mariana Trench, Holloway and his crew underwent many harrowing deep-sea challenges, including losing their submersible in 1926, before being rescued in 1927.",
+    "D": "Holloway's expedition has inspired a 1962 book, a 1998 film, and a 2024 discovery."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it provides a chronological historical overview of the expedition itself from 1925 to 1927. The sentence presents the key events in sequence: the expedition's departure to the Mariana Trench in 1925, the loss of their submersible Triton in 1926, and the crew's rescue in 1927. This effectively synthesizes the most important information from the notes to convey what actually happened during the expedition years.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=eaf16f48",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 25,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

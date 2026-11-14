@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d0043fc310bf8c0f1db028c697a70c3a",
+  "capturedAt": "2026-11-14T02:09:37.933Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "At a company, $70%$ of employees work full-time and the remaining employees work part-time. Exactly $40%$ of full-time employees participate in the retirement plan. If exactly $31%$ of all employees at the company participate in the retirement plan, what percent of part-time employees participate in the retirement plan?",
+  "choices": {},
+  "correctAnswer": "$$10$$",
+  "explanation": "The correct answer is $10$. Since $70\\%$ of employees are full-time, the remaining $30\\%$ are part-time. Let $p$ represent the percent of part-time employees who participate in the retirement plan. The total percentage of employees participating equals the sum of contributions from each group: $(0.70)(0.40) + (0.30)(p/100) = 0.31$. The full-time contribution is $0.70 \\times 0.40 = 0.28$, or $28\\%$ of all employees. This gives $0.28 + 0.30(p/100) = 0.31$. Subtracting $0.28$ from both sides: $0.30(p/100) = 0.03$. Solving: $p/100 = 0.10$, so $p = 10$. Therefore, $10\\%$ of part-time employees participate in the retirement plan.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=a206d43c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

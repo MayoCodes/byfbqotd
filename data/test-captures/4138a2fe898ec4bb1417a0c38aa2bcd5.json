@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4138a2fe898ec4bb1417a0c38aa2bcd5",
+  "capturedAt": "2026-11-14T02:09:17.144Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The equation $x(x - 15)(x + 8)(x - 4)^{2} = 0$ is given. What is the greatest solution to the given equation?",
+  "choices": {},
+  "correctAnswer": "$$15$$",
+  "explanation": "The correct answer is $15$. By the Zero Product Property, if a product of factors equals zero, then at least one of the factors must equal zero. Setting each factor equal to zero gives the following solutions: From $x = 0$, we get $x = 0$. From $x - 15 = 0$, we get $x = 15$. From $x + 8 = 0$, we get $x = -8$. From $(x - 4)^2 = 0$, we get $x - 4 = 0$, which gives $x = 4$. The complete set of solutions is $\\{-8, 0, 4, 15\\}$. Comparing these values, the greatest solution is $15$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=2f097c3d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 14,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e02cab1739859fa819cfba5f2896147e",
+  "capturedAt": "2026-11-14T02:08:07.163Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In the diagnosis of liver disease, the roles of blood enzyme analysis and CT scanning as diagnostic tools are ______: when elevated enzyme levels detected through blood analysis indicate general liver dysfunction, physicians can use CT images of that specific organ tissue to precisely identify which regions are affected.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "thorough",
+    "B": "repetitive",
+    "C": "equivalent",
+    "D": "synergistic"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most logically completes the text's description of how blood enzyme analysis and CT scanning function together. In this context, 'synergistic' means working together to produce a combined effect greater than the sum of separate effects. The text establishes that blood enzyme analysis detects 'elevated enzyme levels' that 'indicate general liver dysfunction,' providing biochemical evidence that something is wrong. Physicians then use this information to guide CT scanning, which 'precisely identif[ies] which regions are affected,' providing spatial localization. Each method contributes distinct, essential information—one detects that dysfunction exists, the other pinpoints where it exists—creating a complementary relationship that enables comprehensive diagnosis.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=37902b09",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 4,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

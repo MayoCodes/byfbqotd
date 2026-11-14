@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "550eaf49410881148716885881c024f7",
+  "capturedAt": "2026-11-14T02:09:04.573Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale.\nIn the figure shown, line $m$ is parallel to line $n$. What is the value of $y$?",
+  "choices": {},
+  "correctAnswer": "$$34$$",
+  "explanation": "The correct answer is $34$. When two parallel lines are cut by a transversal, alternate interior angles are congruent. In this figure, lines $m$ and $n$ are parallel, and line $p$ is a transversal that intersects both lines. The angle measuring $34$ degrees at the intersection of line $n$ and line $p$ (in the lower-right interior position) and the angle measuring $y$ degrees at the intersection of line $m$ and line $p$ (in the upper-left interior position) are alternate interior angles. Since alternate interior angles formed by parallel lines and a transversal are equal, $y = 34$ degrees.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=6796f44c",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/550eaf49410881148716885881c024f7/1-712c182f2d2d1c91.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

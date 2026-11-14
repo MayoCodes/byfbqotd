@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d375de62be03dee428aac6fdaa76a3ea",
+  "capturedAt": "2026-11-14T02:09:31.308Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(x^{2} - 9)}{(x^{2} + 5x + 6)}$ for all values of $x$ where the expression is defined?",
+  "choices": {
+    "A": "$\\frac{(x - 3)}{(x + 2)}$",
+    "B": "$\\frac{(x + 3)}{(x + 2)}$",
+    "C": "$\\frac{(x - 3)}{(x - 2)}$",
+    "D": "$\\frac{(x - 3)}{(x + 3)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Factor the numerator using the difference of squares: $x^2 - 9 = (x + 3)(x - 3)$. Factor the denominator by finding two numbers that multiply to $6$ and add to $5$: $x^2 + 5x + 6 = (x + 2)(x + 3)$. The expression becomes $\\frac{(x + 3)(x - 3)}{(x + 2)(x + 3)}$. Since $(x + 3)$ appears in both the numerator and denominator, it can be cancelled (for $x \\neq -3$), giving $\\frac{x - 3}{x + 2}$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=5882d999",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 4,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

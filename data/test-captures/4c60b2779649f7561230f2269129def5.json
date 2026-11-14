@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4c60b2779649f7561230f2269129def5",
+  "capturedAt": "2026-11-14T02:08:55.093Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The early American telegraph system of the 1800s was famously uncoordinated. Messages sent using the Morse code system employed by the American Telegraph Company in the Eastern states couldn't be transmitted on Western Union lines in the Western territories, which used the Vail code system, without performing time-consuming retransmissions. ______ historians refer to this complicated system as the \"wire web confusion.\"",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Rather,",
+    "B": "Hence,",
+    "C": "For example,",
+    "D": "Likewise,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'Hence' logically signals that the historians' terminology is a consequence of the problems described in the previous sentence. The passage establishes that the telegraph system was uncoordinated, with incompatible code systems requiring time-consuming retransmissions. As a direct result of these coordination problems, historians labeled the system 'wire web confusion.' The causal relationship between the system's complications and the descriptive name historians gave it makes 'Hence' the most logical transition.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=bd6d55ea",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 21,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

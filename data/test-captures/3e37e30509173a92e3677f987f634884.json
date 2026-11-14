@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3e37e30509173a92e3677f987f634884",
+  "capturedAt": "2026-11-14T02:08:40.552Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Thermal regulation theory (TRT) holds that aquatic mammals' activity patterns reflect cost-benefit trade-offs that vary by species and with dynamic environmental conditions. One such condition is water temperature, which K.L. Laidre and M.P. Heide-Jørgensen found to be negatively associated with foraging by sea otters but R.L. Davis and colleagues found to be positively associated with foraging by river otters. This discrepancy is explicable in terms of TRT: the river otters' higher metabolic rate means that elevated water temperature benefits them more than it benefits the sea otters.",
+  "prompt": "Information in the text best supports which statement about river otters?",
+  "choices": {
+    "A": "If the river otters' foraging behavior under elevated water temperature actually reflects a cost-benefit trade-off, their behavior should be more similar to that of sea otters than it is.",
+    "B": "If the advantages that the river otters gain from elevated water temperature explain the change in their foraging behavior, those advantages are likely shared by some other species that do not have high metabolic rates.",
+    "C": "If elevated water temperature imposed the same costs on the river otters that it imposes on sea otters, there would be no association between water temperature and the river otters' foraging.",
+    "D": "If elevated water temperature creates any disadvantages for the river otters, those disadvantages are more than compensated for by the advantages that the river otters gain."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it logically follows from the text's discussion of cost-benefit trade-offs in river otters. The text states that water temperature is positively associated with river otter foraging, meaning they forage more as temperature increases. According to TRT's cost-benefit framework, if an organism increases an energetically demanding behavior like foraging under certain conditions, the net benefit must be positive. Therefore, any disadvantages imposed by elevated water temperature must be outweighed by the advantages river otters gain through their higher metabolic rate.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=b0533ad9",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 8,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cb4bdccb71746e3ecb90bb303f518d96",
+  "capturedAt": "2026-11-14T02:09:25.714Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The binomial $a + 24b$ is a factor of which of the following?",
+  "choices": {
+    "A": "$a^{2} + 25ab + 24b^{2}$",
+    "B": "$a^{2} + 25ab + 25b^{2}$",
+    "C": "$a^{2} + 72ab + 72b^{2}$",
+    "D": "$a^{2} + 50ab + 75b^{2}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For a binomial of the form $(a + mb)$ to be a factor of a quadratic trinomial in two variables, the trinomial must be expressible as $(a + mb)(a + nb)$ for some value $n$. Expanding this product gives $(a + mb)(a + nb) = a^2 + nab + mab + mnb^2 = a^2 + (m+n)ab + mnb^2$. For the given factor $(a + 24b)$, we have $m = 24$. Examining choice A: $a^2 + 25ab + 24b^2$, we can factor this by finding two numbers that multiply to $24$ and add to $25$. These numbers are $24$ and $1$ because $24 \\times 1 = 24$ and $24 + 1 = 25$. Therefore, $a^2 + 25ab + 24b^2 = (a + 24b)(a + b)$, confirming that $(a + 24b)$ is indeed a factor of this trinomial.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=cb4d3519",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 21,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

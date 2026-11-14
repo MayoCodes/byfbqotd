@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fc8179330418c8d7bb5bf151a6e547ec",
+  "capturedAt": "2026-11-14T02:09:48.592Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An exponential model for the number of bacteria in a petri dish estimates that there were $500$ cells in the dish initially, and that at the end of each $4$ hour period for the next $36$ hours, the number of cells in the petri dish was $150%$ more than the number at the end of the previous $4$ hour period. Which of the following equations represents this model, where $C$ is the number of cells in the petri dish after initial observation, and $0 \\le t \\le 36$?",
+  "choices": {
+    "A": "$C = 500(2.50)^{4}t$",
+    "B": "$C = 500(1.50)^\\frac{t}{4}$",
+    "C": "$C = 500(2.50)^\\frac{t}{4}$",
+    "D": "$C = 500(1.50)^{4}t$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The phrase \"$150\\%$ more than\" means the new amount equals the previous amount plus $150\\%$ of the previous amount, which is $100\\% + 150\\% = 250\\% = 2.50$ times the previous amount. So the growth factor per $4$-hour period is $2.50$. Since the growth occurs every $4$ hours, after $t$ hours there have been $t/4$ growth periods. The exponential model is $C = 500 \\cdot (2.50)^{t/4}$. To verify: at $t = 0$, $C = 500(2.50)^0 = 500$. At $t = 4$, $C = 500(2.50)^1 = 1250$, which is indeed $150\\%$ more than $500$ (since $500 + 1.5 \\times 500 = 1250$).",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=cd315484",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

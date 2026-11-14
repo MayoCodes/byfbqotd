@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fd892fa463a6e73ef74be07b1942445c",
+  "capturedAt": "2026-11-14T02:09:26.790Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a linear equation is shown. If a system of two linear equations is created using the equation of the line shown and the equation $x - 2y = 6$, how many solutions $(x, y)$ will the resulting system have?",
+  "choices": {
+    "A": "Infinitely many",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Zero"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The graph shows a line passing through the points $(0, 4)$ and $(6, 7)$. To find the equation of this line, first calculate the slope: $m = \\frac{7 - 4}{6 - 0} = \\frac{3}{6} = \\frac{1}{2}$. Using the slope-intercept form with y-intercept $4$, the equation is $y = \\frac{1}{2}x + 4$. Multiplying both sides by $2$ gives $2y = x + 8$, which can be rewritten as $x - 2y = -8$. The given equation is $x - 2y = 6$. Comparing these two equations, both have the form $x - 2y = c$, where the coefficients of $x$ and $y$ are identical but the constants are different ($-8$ and $6$). This means the two lines have the same slope but different y-intercepts, so they are parallel and never intersect. Therefore, the system has zero solutions.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=e1d06f08",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/fd892fa463a6e73ef74be07b1942445c/1-e354019e9296a701.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 22,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

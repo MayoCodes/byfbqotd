@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "18fb5e5b4564dfe0f34a2934b5d546e9",
+  "capturedAt": "2026-11-14T02:08:14.516Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nThe National Youth Soccer League is an organization famous for its annual tournament championships held across multiple age divisions, including the U12 Division. A student is writing an essay on participation trends in the organization. The student claims that from 2018 to 2021 the organization's popularity consistently peaked among players in a certain age range before declining among older players as soccer activities began to compete with academic demands and other interests.",
+  "prompt": "Which choice best describes data from the table that support the student's claim?",
+  "choices": {
+    "A": "Only once between 2018 and 2021 did the number of U18 Division players in the league exceed the number of U12 Division players.",
+    "B": "For each year from 2018 to 2021, there were fewer U16 Division players in the league than there were U12 Division players.",
+    "C": "Throughout the years from 2018 to 2021, the number of U8 Division players in the league exceeded the number of U18 Division players.",
+    "D": "There were 1,247,000 U12 Division players in the league in 2018 but 1,089,000 in 2021."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it effectively uses data from the table to support the student's claim about consistent peak participation in a certain age range before declining among older players. The table shows that U12 Division participation (1,247,000 to 1,089,000) substantially exceeded U16 Division participation (48,000 to 49,000) in every year from 2018 to 2021. This pattern demonstrates that participation consistently peaked in the U12 age range (10-12 years) before declining in the next older division (U16, ages 14-16), supporting the claim's assertion about regular peak participation followed by decline as players age.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=4a1720d6",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/18fb5e5b4564dfe0f34a2934b5d546e9/1-57b27054fab9ea18.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 11,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

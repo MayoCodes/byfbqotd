@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "22cc5452bad739f999a583cc8dacb074",
+  "capturedAt": "2026-11-14T02:08:20.244Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Possessive Determiners",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The New Brunswick Museum, a natural history museum in Saint John, New Brunswick, is one of more than fifty museums in the Canadian province. These museums present a wide range of information about New Brunswick, showcasing everything from the province's geology to ______ shipbuilding to its wildlife.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "their",
+    "B": "they're",
+    "C": "its",
+    "D": "it's"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is pronoun-antecedent agreement and possessive form. The antecedent is 'New Brunswick,' a singular noun referring to one province. The sentence requires a possessive determiner to indicate New Brunswick's shipbuilding, and 'its' is the correct singular possessive form (without an apostrophe). This maintains parallel structure with 'the province's geology' and 'its wildlife,' all three using possessive forms to show attributes of the province.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=0200c867",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 16,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

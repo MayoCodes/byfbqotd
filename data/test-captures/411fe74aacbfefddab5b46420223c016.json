@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "411fe74aacbfefddab5b46420223c016",
+  "capturedAt": "2026-11-14T02:09:34.794Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Special Right Triangles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The perimeter of an isosceles right triangle is $18 + 18sqrt(2)$ feet. What is the length, in feet, of the hypotenuse of the triangle?",
+  "choices": {
+    "A": "$9$",
+    "B": "$9sqrt(2)$",
+    "C": "$18$",
+    "D": "$18sqrt(2)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The correct answer is C. In an isosceles right triangle, the two legs are equal in length. Let each leg have length $a$. By the Pythagorean theorem, the hypotenuse has length $a\\sqrt{2}$. The perimeter is $a + a + a\\sqrt{2} = 2a + a\\sqrt{2}$. Setting this equal to the given perimeter: $2a + a\\sqrt{2} = 18 + 18\\sqrt{2}$. Factoring both sides: $a(2 + \\sqrt{2}) = 18(1 + \\sqrt{2})$. Solving for $a$: $a = \\frac{18(1 + \\sqrt{2})}{2 + \\sqrt{2}}$. To rationalize, multiply the numerator and denominator by $(2 - \\sqrt{2})$: $a = \\frac{18(1 + \\sqrt{2})(2 - \\sqrt{2})}{(2 + \\sqrt{2})(2 - \\sqrt{2})}$. The denominator simplifies to $(2 + \\sqrt{2})(2 - \\sqrt{2}) = 4 - 2 = 2$. The numerator becomes $18(1 + \\sqrt{2})(2 - \\sqrt{2}) = 18(2 - \\sqrt{2} + 2\\sqrt{2} - 2) = 18\\sqrt{2}$. Therefore, $a = \\frac{18\\sqrt{2}}{2} = 9\\sqrt{2}$. The hypotenuse is $a\\sqrt{2} = 9\\sqrt{2} \\cdot \\sqrt{2} = 9 \\cdot 2 = 18$ feet.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=f4cd0cd9",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

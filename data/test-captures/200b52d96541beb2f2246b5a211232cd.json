@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "200b52d96541beb2f2246b5a211232cd",
+  "capturedAt": "2026-11-14T02:09:38.972Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "One of the factors of $6t^{4} + 23t^{2} + 20$ is $at^{2} + b$, where $a$ and $b$ are positive constants. Which of the following is a possible value of $ab$?",
+  "choices": {
+    "A": "$10$",
+    "B": "$8$",
+    "C": "$7$",
+    "D": "$4$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The expression $6t^4 + 23t^2 + 20$ is a quadratic in form, with $t^4$ and $t^2$ terms. To factor it, let $u = t^2$, giving $6u^2 + 23u + 20$. To factor this quadratic, find two numbers whose product is $(6)(20) = 120$ and whose sum is $23$. These numbers are $8$ and $15$, since $8 \\times 15 = 120$ and $8 + 15 = 23$. Rewriting the middle term: $6u^2 + 8u + 15u + 20$. Factoring by grouping: $2u(3u + 4) + 5(3u + 4) = (3u + 4)(2u + 5)$. Substituting $u = t^2$ back gives $(3t^2 + 4)(2t^2 + 5)$. The two factors are $3t^2 + 4$ and $2t^2 + 5$. For the factor $3t^2 + 4$, we have $a = 3$ and $b = 4$, so $ab = 12$. For the factor $2t^2 + 5$, we have $a = 2$ and $b = 5$, so $ab = 10$. Since $10$ appears in the answer choices, a possible value of $ab$ is $10$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=8f0948b2",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

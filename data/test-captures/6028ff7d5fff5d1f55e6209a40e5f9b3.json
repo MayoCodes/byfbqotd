@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6028ff7d5fff5d1f55e6209a40e5f9b3",
+  "capturedAt": "2026-11-14T02:09:41.042Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the linear function $h$, $h(5) = 14$ and $h(x + 1) - h(x) = 7$. Which equation defines $h$?",
+  "choices": {
+    "A": "$h(x) = 5x + 14$",
+    "B": "$h(x) = 7x - 21$",
+    "C": "$h(x) = 5x + 7$",
+    "D": "$h(x) = 7x - 35$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For a linear function, the expression $h(x+1) - h(x)$ equals the slope of the function. Since $h(x+1) - h(x) = 7$, the slope is $m = 7$. A linear function has the form $h(x) = mx + b$, where $m$ is the slope and $b$ is the y-intercept. Substituting $m = 7$ gives $h(x) = 7x + b$. To find $b$, use the condition $h(5) = 14$. Substituting $x = 5$ into $h(x) = 7x + b$ gives $h(5) = 7(5) + b = 35 + b$. Since $h(5) = 14$, we have $14 = 35 + b$. Subtracting $35$ from both sides gives $b = 14 - 35 = -21$. Therefore, the equation defining $h$ is $h(x) = 7x - 21$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=5ac966ac",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

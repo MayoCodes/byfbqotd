@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f902566a3e094ae8b4f94a419a5a5dc0",
+  "capturedAt": "2026-11-14T02:09:40.002Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. A triangle has two sides with lengths $7$ and $12$. Which inequality represents all possible lengths, $s$, of the third side of the triangle?",
+  "choices": {
+    "A": "$s < 19$",
+    "B": "$5 < s < 19$",
+    "C": "$s > 5$",
+    "D": "$s < 5$ or $s > 19$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. By the triangle inequality theorem, the sum of any two sides must be greater than the third side. This creates three inequalities: $7 + 12 > s$, which gives $s < 19$; $7 + s > 12$, which gives $s > 5$; and $12 + s > 7$, which gives $s > -5$. Since side lengths must be positive, the third inequality is automatically satisfied. Combining the first two inequalities gives $5 < s < 19$. This means the third side must be greater than $5$ (the difference of the two given sides) and less than $19$ (the sum of the two given sides).",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=a4dae3eb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

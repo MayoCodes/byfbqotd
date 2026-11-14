@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c0d6863ba3f10079aeac5769c39f1018",
+  "capturedAt": "2026-11-14T02:08:37.371Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Implementing renewable energy subsidies, such as the solar panel program in Brandenburg, Germany, is a common economic policy tool, but because subsidies require substantial government expenditure, it's widely thought that they hinder economic growth. This perception is driven in part by the fact that cost-benefit analyses often don't capture the multiplier effects of manufacturing linked to subsidized industries. But Arjun Desai et al. found that production associated with Brandenburg's solar program stimulates local demand for goods and services in other economic sectors, resulting in, for instance, increased employment in component manufacturing in nearby regions.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It explains how subsidies typically affect economic growth in the regions where they are implemented, summarizes the findings of several economic studies that support this explanation, and then concedes that a particular subsidy program is an exception to the general trend.",
+    "B": "It introduces a widely held belief about the effect subsidies have on the economy, proposes a reason for that belief's prevalence, and then details a study whose findings seemingly conflict with that belief.",
+    "C": "It makes a generalization about the difficulty of using subsidies to reconcile economic and environmental priorities, demonstrates why most subsidy programs fall short of achieving that goal, and then holds up a particular program as an example of how that goal can be achieved.",
+    "D": "It states a hypothesis that accounts for why subsidies generally negatively impact local economies, outlines how a research team's findings support that hypothesis, and then suggests how a novel methodology led a separate team of researchers to a different conclusion."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it accurately describes the text's three-part structure. First, it introduces a widely held belief: 'it's widely thought that they [subsidies] hinder economic growth.' Second, it proposes a reason for that belief's prevalence: 'This perception is driven in part by the fact that cost-benefit analyses often don't capture the multiplier effects' of subsidized industries. Third, it details a study whose findings conflict with that belief: Desai et al. found that Brandenburg's solar program 'stimulates local demand for goods and services in other economic sectors,' demonstrating positive rather than negative economic impacts.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=5d11b3ae",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 5,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

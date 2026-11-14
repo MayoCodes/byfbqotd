@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "584a5e36eaf7b1ee2ea4f0be8824f0f9",
+  "capturedAt": "2026-11-14T02:09:36.892Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is defined by $f(x) = \\frac{(6x^{2})}{(4x^{2} - 9k^{2})} + \\frac{(3x)}{(2x + 3k)}$, where $k$ is a positive constant. What is the value of $f(\\frac{k}{2})$?",
+  "choices": {
+    "A": "$\\frac{3}{(16)}$",
+    "B": "$\\frac{3}{8}$",
+    "C": "$\\frac{9}{(16)}$",
+    "D": "$\\frac{3}{4}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. First, factor the denominator of the first fraction: $4x^2 - 9k^2 = (2x + 3k)(2x - 3k)$. Substitute $x = \\frac{k}{2}$ into each term. For the first term, the numerator is $6\\left(\\frac{k}{2}\\right)^2 = \\frac{3k^2}{2}$. The denominator factors become $(2 \\cdot \\frac{k}{2} + 3k)(2 \\cdot \\frac{k}{2} - 3k) = (k + 3k)(k - 3k) = (4k)(-2k) = -8k^2$. So the first term equals $\\frac{3k^2/2}{-8k^2} = -\\frac{3}{16}$. For the second term, the numerator is $3 \\cdot \\frac{k}{2} = \\frac{3k}{2}$ and the denominator is $2 \\cdot \\frac{k}{2} + 3k = 4k$. So the second term equals $\\frac{3k/2}{4k} = \\frac{3}{8}$. Adding: $-\\frac{3}{16} + \\frac{3}{8} = -\\frac{3}{16} + \\frac{6}{16} = \\frac{3}{16}$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=44930b9a",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 9,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

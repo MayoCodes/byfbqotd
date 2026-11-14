@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "468ad3d18280b81159ad8be34df84e6c",
+  "capturedAt": "2026-11-14T02:08:38.447Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Function of Underlined Portion",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Typically, conventional bioplastics are petroleum based, but environmental scientists searching for a truly sustainable alternative have used engineered Escherichia coli bacteria that secrete long chains of polylactic acid (PLA), forming a dense biopolymer film that functions like plastic packaging except in flexibility. The standard process for increasing flexibility involves high-temperature treatment, which consumes substantial energy and generates carbon emissions, so employing such a method would contradict the environmental benefits of the biopolymer approach. To address this, Dr. Sofia Lindqvist and colleagues worked to modify the E. coli bacteria to produce temperature-responsive proteins within the biopolymer structure, thereby allowing the material to achieve flexibility without external heat treatment.",
+  "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?",
+  "choices": {
+    "A": "To illustrate how the researchers adapted the biopolymer approach to overcome a potential impediment to their main goal as presented in the text.",
+    "B": "To concede that the researchers' main goal as described in the text will be challenging to achieve due to the standard flexibility treatment being impractical for use on a biopolymer.",
+    "C": "To indicate the characteristic of conventional petroleum-based plastics that makes those plastics poorly suited to achieve the researchers' main goal as presented in the text.",
+    "D": "To describe a consideration that led the researchers to employ an alternative approach to treating a biopolymer that allowed them to achieve their main goal as presented in the text."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accurately describes the function of the underlined portion. The researchers' main goal is developing a truly sustainable alternative to petroleum-based plastics. The underlined sentence explains that standard high-temperature flexibility treatment would 'contradict the environmental benefits of the biopolymer approach' because it consumes substantial energy and generates carbon emissions. This consideration directly motivated the subsequent action: 'To address this,' the researchers modified E. coli bacteria to produce temperature-responsive proteins, achieving flexibility without external heat treatment and thereby accomplishing their sustainability goal.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=6e4c9e9f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 6,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

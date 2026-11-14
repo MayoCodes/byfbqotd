@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "71f53dd3f705d95f1295f45a21e2a431",
+  "capturedAt": "2026-11-14T02:09:10.091Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nFor the triangles shown, triangle $DEF$ is stretched by a scale factor of $4$ to obtain triangle $PQR$, where $m = 23$. What is the measure, in degrees, of angle $P$?",
+  "choices": {
+    "A": "$45$",
+    "B": "$41$",
+    "C": "$15$",
+    "D": "$49$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct answer is A. When a triangle is scaled (stretched or shrunk), the corresponding angles remain equal. Since angle $D = 45°$ and angle $D$ corresponds to angle $P$ in the scaled triangle, angle $P = 45°$. The scale factor affects only side lengths, not angle measures.\n\nChoice B is incorrect and may result from incorrectly subtracting the scale factor from the angle measure: $45 - 4 = 41$ degrees. However, the scale factor affects only the lengths of sides, not the measures of angles.\n\nChoice C is incorrect. This may result from incorrectly dividing the angle by some value, but scaling preserves angle measures exactly, so angle $P$ must equal angle $D$, which is $45$ degrees.\n\nChoice D is incorrect and may result from incorrectly adding the scale factor to the angle measure: $45 + 4 = 49$ degrees. However, the scale factor affects only the lengths of sides, not the measures of angles.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=592fa740",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/71f53dd3f705d95f1295f45a21e2a431/1-ba56834694905009.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

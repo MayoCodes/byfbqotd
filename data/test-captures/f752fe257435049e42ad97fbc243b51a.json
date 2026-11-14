@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f752fe257435049e42ad97fbc243b51a",
+  "capturedAt": "2026-11-14T02:09:32.352Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A survey asked $200$ students about their preferred study method and grade level. Of the $120$ juniors surveyed, $45$ prefer studying in groups. Of the $80$ seniors surveyed, $52$ prefer studying in groups. If a student who prefers studying in groups is randomly selected from those surveyed, what is the probability that the student is a senior?",
+  "choices": {
+    "A": "$\\frac{(52)}{(97)}$",
+    "B": "$\\frac{(52)}{(80)}$",
+    "C": "$\\frac{(45)}{(97)}$",
+    "D": "$\\frac{(52)}{(200)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. This is a conditional probability question asking for P(Senior | prefers groups). First, find the total number of students who prefer studying in groups: $45$ juniors $+ 52$ seniors $= 97$ students. Of these $97$ students who prefer groups, $52$ are seniors. Therefore, the probability that a randomly selected student who prefers groups is a senior is $\\frac{52}{97}$.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=01d1a059",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}

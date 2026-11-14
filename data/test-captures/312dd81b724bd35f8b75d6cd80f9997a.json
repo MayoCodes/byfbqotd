@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "312dd81b724bd35f8b75d6cd80f9997a",
+  "capturedAt": "2026-11-14T02:08:49.807Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Marine biologists Dr. Elena Voss and Dr. Michael Tanaka systematically studied historical records of white patches on coral reefs known as bleaching events. Their work in the early 2000s led to the identification of a period from 1982 to 1998—now known as the Voss-Tanaka ______ bleaching events were remarkably frequent, a pattern that marine ecologists continue to analyze.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Period—when",
+    "B": "Period when",
+    "C": "Period: when",
+    "D": "Period, when"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the use of punctuation to separate sentence elements. The em dash after 'Period' correctly introduces the restrictive clause 'when bleaching events were remarkably frequent,' which defines and identifies the Voss-Tanaka Period. This dash parallels the earlier em dash after '1998' that introduces the parenthetical name of the period, creating a balanced punctuation structure. The dash effectively separates the proper noun from its essential defining clause while maintaining the sentence's flow and clarity.",
+  "source": "https://cooksat.com/practice-test-review/8?questionId=3b8a6c3d",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 16,
+    "subject": "English",
+    "testId": "8",
+    "title": "Practice Test 8"
+  }
+}
