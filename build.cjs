@@ -9,6 +9,11 @@ let bank=buildQuestionBank(fs.readFileSync(path.join(__dirname,'data/questions.c
 const captureDirectory=path.join(__dirname,'data/captures');
 const captures=fs.existsSync(captureDirectory)?fs.readdirSync(captureDirectory).filter(name=>name.endsWith('.json')).sort().map(name=>JSON.parse(fs.readFileSync(path.join(captureDirectory,name),'utf8'))):[];
 bank=mergeCaptures(bank,captures);
+const testDir=path.join(__dirname,'data/test-captures');
+const testCaptures=fs.existsSync(testDir)?fs.readdirSync(testDir).filter(f=>f.endsWith('.json')).sort().map(f=>JSON.parse(fs.readFileSync(path.join(testDir,f),'utf8'))):[];
+const testBank=mergeCaptures({questions:[]},testCaptures);
+require('./lib/visual-layout.cjs').addVisualLayout(testBank,testCaptures,relative=>fs.readFileSync(path.join(__dirname,relative)));
+const testCatalog=require('./lib/test-catalog.cjs').buildTestCatalog(testCaptures,testBank.questions);
 require('./lib/visual-layout.cjs').addVisualLayout(bank,captures,relative=>fs.readFileSync(path.join(__dirname,relative)));
 fs.mkdirSync(output,{recursive:true});
 fs.copyFileSync(path.join(__dirname,'index.html'),path.join(output,'index.html'));
@@ -32,6 +37,7 @@ const runBundle=await require('esbuild').build({entryPoints:[path.join(__dirname
 const runEntry=path.basename(Object.entries(runBundle.metafile.outputs).find(([,info])=>info.entryPoint)[0]);
 const pages={
  'question-bank.html':html,
+ 'tests.html':fs.readFileSync(path.join(__dirname,'tests.html'),'utf8'),
  'assignment.html':fs.readFileSync(path.join(__dirname,'assignment.html'),'utf8'),
  'daily-challenge.html':fs.readFileSync(path.join(__dirname,'daily-challenge.html'),'utf8'),
  'dashboard.html':fs.readFileSync(path.join(__dirname,'dashboard.html'),'utf8'),
@@ -49,7 +55,7 @@ for(const [filename,source] of Object.entries(pages)){
  fs.writeFileSync(path.join(output,filename),page);
 }
 
-for(const capture of captures){
+for(const capture of [...captures,...testCaptures]){
   if(capture.published===false)continue;
   for(const image of capture.images||[]){
     // mergeCaptures validates image paths before any source files are read.
@@ -59,6 +65,8 @@ for(const capture of captures){
     fs.copyFileSync(path.join(__dirname,image.path),target);
   }
 }
+fs.writeFileSync(path.join(output,'practice-tests.json'),JSON.stringify(testCatalog));
+fs.writeFileSync(path.join(output,'practice-test-questions.json'),JSON.stringify(testBank));
 fs.writeFileSync(path.join(output,'question-bank.json'),JSON.stringify(bank));
 fs.writeFileSync(path.join(output,'_headers'),'/question-bank.json\n  Cache-Control: no-cache, must-revalidate\n/question-bank\n  Cache-Control: no-cache, must-revalidate\n/question-bank.html\n  Cache-Control: no-cache, must-revalidate\n/assets/*\n  Cache-Control: no-cache, must-revalidate\n');
 console.log(`Built Friprep: ${bank.questions.length} questions; ${bank.skippedRows} incomplete/duplicate CSV rows skipped.`);

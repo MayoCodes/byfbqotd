@@ -107,3 +107,9 @@ Set `DESMOS_API_KEY` in the deployment environment before building. For local bu
 After submitting an assignment, students see their percentage, correct/incorrect/unanswered counts, answer comparisons, and the source explanations. Submitted work opens directly in this review screen on later visits. Scores use the saved submission and current answer key; this feedback does not overwrite teacher-posted grades.
 
 The main URL now opens My study space: Google sign-in for guests and the saved dashboard for signed-in accounts. `/dashboard` remains available, and the daily challenge is at `/daily-challenge` (source: `daily-challenge.html`). Assignment headers use separate grid tracks and adapt to the available space when Desmos is docked.
+
+### Practice tests
+
+Open a **completed CookSAT test review**, reload the existing Friprep Capture extension, and choose its **Tests** tab. Capture all four modules or one named module. Capture uses the visible review dialogs, leaves CookSAT answers and scores untouched, and can resume from its saved queue. **Publish all** writes test questions under `data/test-captures/`; then deploy `main` manually. The public **Tests** page enables a module once all its questions are published, and enables a whole test once all four modules are ready.
+
+Test attempts have separate module timers, local answer checkpoints, locked completed modules, and an end-of-test percentage with explanations. They reuse the assignment screen and do not require new Firebase rules. Practice percentages are not scaled SAT scores. Only publish question content you have permission to share.
