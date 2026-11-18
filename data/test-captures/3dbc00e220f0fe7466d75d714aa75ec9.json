@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3dbc00e220f0fe7466d75d714aa75ec9",
+  "capturedAt": "2026-11-18T13:25:51.172Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Multi-Word Phrase",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Atmospheric scientist Dr. Jennifer Tanaka and team investigated moisture content of a variety of clouds, including cumulus humilis and a species from the altocumulus category, in a study ______ a previous observation: Tanaka had taken spectroscopic measurements of various cloud formations while flying in a research aircraft and found that the clouds all appeared to contain more moisture than models predicted, raising questions about condensation dynamics in atmospheric systems.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "published in",
+    "B": "mentioned in",
+    "C": "contradicted by",
+    "D": "prompted by"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most logically completes the text's discussion of the relationship between the study and Tanaka's observation. In this context, 'prompted by' means caused or initiated by. The text establishes that Tanaka first made an observation that clouds contained more moisture than predicted, and this observation 'raised questions about condensation dynamics'—indicating it served as the catalyst for the subsequent formal study. 'Prompted by' precisely captures this causal relationship.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=2c4dfca4",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 3,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

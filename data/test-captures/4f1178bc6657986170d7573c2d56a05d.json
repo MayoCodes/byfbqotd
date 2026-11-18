@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4f1178bc6657986170d7573c2d56a05d",
+  "capturedAt": "2026-11-18T13:26:20.741Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Around 240 BCE, ancient Greek scholars determined the Earth's circumference using a clever method. First, they measured the angle of the sun's shadow at noon in one city and recorded this measurement. ______ they compared this angle to shadow measurements from a city directly north, using the angular difference and known distance between cities to calculate the circumference.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In other words,",
+    "B": "Then,",
+    "C": "Instead,",
+    "D": "First of all,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'Then' logically signals temporal sequence in the procedure described. The passage presents a two-step method: the sentence before the blank states 'First, they measured the angle of the sun's shadow at noon in one city,' and the sentence after describes the subsequent action of comparing measurements from two cities to calculate circumference. 'Then' is the standard transition for indicating the next step following 'First,' creating the clear sequential structure 'First X, then Y' that matches the chronological progression of the scholars' method.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=ccac6ec1",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 22,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

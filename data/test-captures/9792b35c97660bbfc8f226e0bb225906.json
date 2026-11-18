@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9792b35c97660bbfc8f226e0bb225906",
+  "capturedAt": "2026-11-18T13:26:23.233Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Nellis Solar Array in Nevada uses an active water cooling system to maintain photovoltaic panel efficiency.\n• Active water cooling technology requires a consistent water supply to function effectively.\n• The use of active water cooling systems at solar facilities is limited because many locations lack reliable water access.\n• The Topaz Solar Farm in California uses a passive air cooling system.\n• Passive air cooling technology can maintain adequate panel performance without requiring water resources.\n• Passive air cooling systems require significantly larger installation footprints than active water cooling systems.",
+  "prompt": "The student wants to compare the disadvantages of the cooling systems used at the Nellis and Topaz solar facilities. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The system at the Nellis facility requires a consistent water supply, while the system at the Topaz facility can operate without water resources.",
+    "B": "Unlike the Topaz facility, the Nellis facility uses an active water cooling system, which requires a less common resource: consistent water supply.",
+    "C": "The system used at the Topaz facility overcomes the water access limitations of the Nellis facility's system but requires a larger installation footprint.",
+    "D": "Compared with the system used at the Nellis facility, the system used at the Topaz facility has a notable disadvantage: its space requirements."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively compares the disadvantages of both cooling systems. The sentence explicitly identifies the Nellis facility's disadvantage ('water access limitations') and the Topaz facility's disadvantage ('requires a larger installation footprint'), presenting both systems' limiting factors in a clear parallel structure. This directly accomplishes the goal of comparing disadvantages by acknowledging that while Topaz solves one problem (water dependency), it introduces another (space requirements), allowing readers to understand the trade-offs between the two cooling technologies.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=3a68821c",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 26,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

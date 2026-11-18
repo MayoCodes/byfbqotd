@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0c736b68417d9b3da5c55288f3c89695",
+  "capturedAt": "2026-11-18T13:26:49.027Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The expression $4(7x + 12)(x - 3) - (5x + 13)$ can be written in the form $ax^{2} + bx + c$, where $a$, $b$, and $c$ are constants. What is the value of $b$?",
+  "choices": {},
+  "correctAnswer": "$$-41$$",
+  "explanation": "The correct answer is $-41$. To find the value of $b$, the expression must be expanded and written in standard form. First, expand the product $(7x + 12)(x - 3)$ using the distributive property: $(7x + 12)(x - 3) = 7x(x) + 7x(-3) + 12(x) + 12(-3) = 7x^2 - 21x + 12x - 36 = 7x^2 - 9x - 36$. Next, multiply this result by $4$: $4(7x^2 - 9x - 36) = 28x^2 - 36x - 144$. Then subtract the binomial $(5x + 13)$: $28x^2 - 36x - 144 - (5x + 13) = 28x^2 - 36x - 144 - 5x - 13$. Combining like terms gives $28x^2 + (-36x - 5x) + (-144 - 13) = 28x^2 - 41x - 157$. In the form $ax^2 + bx + c$, the coefficient $b$ is the coefficient of the $x$ term, which is $-41$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=5c4cea02",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

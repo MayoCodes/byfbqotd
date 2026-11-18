@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "74b11fe5b2cdfab2e67b646281da53db",
+  "capturedAt": "2026-11-18T13:26:48.421Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A pharmacist mixed a solution that is $0.3%$ isopropyl alcohol by volume with a solution that is $0.1%$ isopropyl alcohol by volume to obtain a new solution, which has a volume of $100$ milliliters and contains $0.18$ milliliters of isopropyl alcohol. How many milliliters of $0.3%$ isopropyl alcohol solution did the pharmacist use?",
+  "choices": {
+    "A": "$0.36$",
+    "B": "$60$",
+    "C": "$40$",
+    "D": "$99.82$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. This is a mixture problem that requires setting up a system of two linear equations. Let $x$ represent the volume in milliliters of the $0.3\\%$ solution and $y$ represent the volume in milliliters of the $0.1\\%$ solution. First, convert the percentages to decimals: $0.3\\% = 0.003$ and $0.1\\% = 0.001$. The total volume of the mixture gives the first equation: $x + y = 100$. The total amount of isopropyl alcohol in the mixture gives the second equation: $0.003x + 0.001y = 0.18$. From the first equation, $y = 100 - x$. Substituting this into the second equation: $0.003x + 0.001(100 - x) = 0.18$. Expanding: $0.003x + 0.1 - 0.001x = 0.18$. Combining like terms: $0.002x = 0.08$. Dividing both sides by $0.002$: $x = \\frac{0.08}{0.002} = 40$. Therefore, the pharmacist used $40$ milliliters of the $0.3\\%$ isopropyl alcohol solution.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=3c58eba2",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

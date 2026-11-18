@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "93b8faa7536bc5c1cb985727e27bbc89",
+  "capturedAt": "2026-11-18T13:26:45.714Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $ABC$, the measure of angle $A$ is $45^°$, the measure of angle $B$ is $x^°$, and the measure of angle $C$ is $(2x + 3)^°$. Point $M$ lies on $AB$, point $N$ lies on $BC$, and $MN$ is parallel to $AC$. What is the measure, in degrees, of angle $BNM$? (Disregard the degree symbol when entering your answer.)",
+  "choices": {},
+  "correctAnswer": "$$91$$",
+  "explanation": "The correct answer is $91$. The sum of the interior angles of a triangle is $180$ degrees. In triangle $ABC$, angle $A$ measures $45^{\\circ}$, angle $B$ measures $x^{\\circ}$, and angle $C$ measures $(2x + 3)^{\\circ}$. Therefore, $45 + x + (2x + 3) = 180$. Combining like terms gives $48 + 3x = 180$. Subtracting $48$ from both sides yields $3x = 132$, so $x = 44$. Thus, angle $B$ measures $44^{\\circ}$ and angle $C$ measures $2(44) + 3 = 88 + 3 = 91^{\\circ}$. Since $\\overline{MN}$ is parallel to $\\overline{AC}$ and $\\overline{BC}$ acts as a transversal cutting these parallel lines, angles $BNM$ and $C$ are corresponding angles. Corresponding angles formed by parallel lines and a transversal are congruent, so angle $BNM$ measures $91^{\\circ}$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=32981f72",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

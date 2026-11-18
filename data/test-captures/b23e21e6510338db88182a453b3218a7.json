@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b23e21e6510338db88182a453b3218a7",
+  "capturedAt": "2026-11-18T13:26:17.059Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The melting point of pure gallium ______ approximately 86 degrees Fahrenheit. When gallium is heated above this temperature, it will begin to liquefy and become molten.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "is—",
+    "B": "is;",
+    "C": "is,",
+    "D": "is"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because the conventions being tested are punctuation use between a linking verb and its essential complement. No punctuation is needed after the linking verb 'is.' The phrase 'approximately 86 degrees Fahrenheit' is the essential predicate complement that completes the verb's meaning—it tells us what the melting point equals. Without this complement, the sentence would be incomplete: 'The melting point of pure gallium is' leaves the reader expecting essential information. Standard English requires direct connection between a linking verb and its required complement without any intervening punctuation.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=26ed1514",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 16,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

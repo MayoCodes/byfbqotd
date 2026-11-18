@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8bec9093778635bf19df10c51fc9d5cf",
+  "capturedAt": "2026-11-18T13:26:26.984Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(t) = 5t - 7$. If $g(b) + 2 = 4b$, what is the value of $b$?",
+  "choices": {
+    "A": "$-2$",
+    "B": "$5$",
+    "C": "$4$",
+    "D": "$9$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The function $g$ is defined as $g(t) = 5t - 7$. To find $g(b)$, substitute $b$ for $t$ in the function definition: $g(b) = 5b - 7$. The given equation is $g(b) + 2 = 4b$. Substituting the expression for $g(b)$ gives $(5b - 7) + 2 = 4b$. Simplifying the left side: $5b - 7 + 2 = 5b - 5$, so the equation becomes $5b - 5 = 4b$. Subtracting $4b$ from both sides yields $b - 5 = 0$, which gives $b = 5$. Therefore, the value of $b$ is $5$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=3e6a422d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

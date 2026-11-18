@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3025dff0d7f9b745992b1361513989f1",
+  "capturedAt": "2026-11-18T13:26:30.364Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The sides of a rectangle are such that the length is $7$ inches more than $6$ times the width, in inches. If the width of the rectangle is $4$ inches, what is the area, in square inches, of the rectangle?",
+  "choices": {},
+  "correctAnswer": "$$124$$",
+  "explanation": "The correct answer is $124$. The area of a rectangle is calculated using the formula $A = l \\times w$, where $l$ is the length and $w$ is the width. The problem states that the length is $7$ inches more than $6$ times the width. This relationship can be expressed algebraically as $l = 6w + 7$. Given that the width is $4$ inches, we substitute $w = 4$ into the expression: $l = 6(4) + 7 = 24 + 7 = 31$ inches. Now that we have both dimensions, we can calculate the area: $A = 31 \\times 4 = 124$ square inches.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=85825a03",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 10,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

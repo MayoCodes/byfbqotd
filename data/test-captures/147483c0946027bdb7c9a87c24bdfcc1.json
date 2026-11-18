@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "147483c0946027bdb7c9a87c24bdfcc1",
+  "capturedAt": "2026-11-18T13:26:05.385Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Diego Rivera (1886-1957) was a celebrated Mexican artist.\n• He is best known for creating murals and frescoes that depict Mexican society and history.\n• Rivera's mural Man at the Crossroads was made with fresco technique.\n• He created this mural in 1934.",
+  "prompt": "The student wants to specify the year that Diego Rivera created the mural Man at the Crossroads. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Diego Rivera, a celebrated artist, was born in 1886.",
+    "B": "Diego Rivera created the fresco mural Man at the Crossroads in 1934.",
+    "C": "Diego Rivera was a celebrated artist who created frescoes as well as murals.",
+    "D": "Celebrated artist Diego Rivera is best known for creating murals and frescoes that depict Mexican society and history."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it directly accomplishes the stated goal by specifying when Diego Rivera created the mural Man at the Crossroads. The sentence synthesizes information from notes 3 and 4, mentioning both the specific artwork by name and its creation year: 'Diego Rivera created the fresco mural Man at the Crossroads in 1934.' This provides exactly the temporal specification the student needs while also identifying the particular work in question.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=1bd2ebee",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 25,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

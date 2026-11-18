@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "06d72368fd10e0cf0cfb02c4322014a5",
+  "capturedAt": "2026-11-18T13:26:01.683Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "When documenting mineral composition at Vatnajökull glacier in Iceland, researcher Dr. Omar Nazari and his colleagues discovered a very rare mineral from the zeolite group and, after detailed analysis, knew exactly what species it belonged ______ stilbite-Ca.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "to and",
+    "B": "to:",
+    "C": "to;",
+    "D": "to"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of a colon to introduce a specific identification. The researchers 'knew exactly what species it belonged to,' and the colon correctly signals that what follows is the definitive answer: the mineral species name 'stilbite-Ca.' The preposition 'to' completes the verb phrase 'belonged to,' and the colon then introduces the specification that completes the statement.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=93ea5e8f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 19,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

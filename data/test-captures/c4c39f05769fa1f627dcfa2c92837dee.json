@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c4c39f05769fa1f627dcfa2c92837dee",
+  "capturedAt": "2026-11-18T13:26:49.659Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. If a triangle has side lengths of $7$ and $15$, which inequality represents the possible lengths, $x$, of the third side of the triangle?",
+  "choices": {
+    "A": "$8 < x < 22$",
+    "B": "$x > 22$",
+    "C": "$x < 22$",
+    "D": "$x < 8$ or $x > 22$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. According to the triangle inequality theorem, the sum of any two sides of a triangle must be greater than the third side. Let the side lengths be $7$, $15$, and $x$. We must satisfy three conditions: (1) $7 + 15 > x \\implies 22 > x$ (or $x < 22$), (2) $7 + x > 15 \\implies x > 15 - 7 \\implies x > 8$, and (3) $15 + x > 7 \\implies x > 7 - 15 \\implies x > -8$. The third condition is always true for any positive length $x$, and the condition $x > 8$ is stronger. Combining $x < 22$ and $x > 8$, we get the compound inequality $8 < x < 22$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=1ffa6a9d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

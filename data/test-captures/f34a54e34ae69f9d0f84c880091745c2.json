@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f34a54e34ae69f9d0f84c880091745c2",
+  "capturedAt": "2026-11-18T13:26:32.663Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A line in the $xy$-plane passes through the points $(5, 2)$, $(0, 6)$, and $(k, 0)$. What is the value of $k$ ?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{15}{2},7.5,7.50$$",
+  "explanation": "The correct answer is $\\frac{15}{2}$. Since all three points lie on the same line, the slope between any two pairs of points must be equal. First, calculate the slope using the points $(5, 2)$ and $(0, 6)$: $m = \\frac{6 - 2}{0 - 5} = \\frac{4}{-5} = -\\frac{4}{5}$. Now, use this slope with the points $(0, 6)$ and $(k, 0)$ to set up an equation: $-\\frac{4}{5} = \\frac{0 - 6}{k - 0} = \\frac{-6}{k}$. Cross-multiplying gives $-4k = -30$, so $k = \\frac{30}{4} = \\frac{15}{2}$. As a decimal, this equals $7.5$. Note that 15/2, 7.5, and 7.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=e5c9a2e2",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 13,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "17b897c2d27882839df6b643818478e9",
+  "capturedAt": "2026-11-18T13:26:44.889Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of the equation $y = 3^x + k$ is shown, where $k$ is a constant. What is the value of $k$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$5$",
+    "C": "$-4$",
+    "D": "$-5$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The vertical shift constant $k$ in the exponential function $y = 3^x + k$ determines the horizontal asymptote of the graph. For the parent function $y = 3^x$, the horizontal asymptote is $y = 0$. When $k$ is added, the entire graph shifts vertically by $k$ units, moving the horizontal asymptote to $y = k$. From the graph, as $x$ decreases (moving left on the x-axis), the curve approaches but never reaches the horizontal line $y = 4$. This means the horizontal asymptote is at $y = 4$. Therefore, $k = 4$. This can be verified by checking the y-intercept: at $x = 0$, the graph shows the point $(0, 5)$, and substituting into the equation gives $y = 3^0 + k = 1 + k = 1 + 4 = 5$, which confirms that $k = 4$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=1d4d3e7e",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/17b897c2d27882839df6b643818478e9/1-e6b3bb569eb0854d.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 9,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

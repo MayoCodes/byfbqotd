@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bf282eabf6416cf390779628618166f7",
+  "capturedAt": "2026-11-18T13:26:27.610Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 3x - \\frac{1}{6}$. What is the $y$-intercept of the graph of $y = g(x)$ in the $xy$-plane?",
+  "choices": {
+    "A": "$(0, -\\frac{1}{6})$",
+    "B": "$(0, -3)$",
+    "C": "$(0, 3)$",
+    "D": "$(0, 6)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The $y$-intercept of a graph is the point where the graph crosses the $y$-axis, which occurs when $x = 0$. To find the $y$-intercept of the graph of $y = g(x)$, substitute $x = 0$ into the function: $g(0) = 3(0) - \\frac{1}{6} = 0 - \\frac{1}{6} = -\\frac{1}{6}$. Therefore, the $y$-intercept is the point $(0, -\\frac{1}{6})$. Alternatively, since the function is in the form $g(x) = mx + b$ where $m = 3$ is the slope and $b = -\\frac{1}{6}$ is the $y$-intercept, the $y$-coordinate of the $y$-intercept can be identified directly as $-\\frac{1}{6}$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=9d42786f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

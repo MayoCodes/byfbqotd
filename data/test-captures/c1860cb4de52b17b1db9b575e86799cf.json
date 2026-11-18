@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c1860cb4de52b17b1db9b575e86799cf",
+  "capturedAt": "2026-11-18T13:26:13.804Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nIn the 1970s and 1980s, growing awareness of environmental degradation prompted governments worldwide to create formal institutions for environmental oversight. Researcher Kevin Tanaka studied how developing nations responded to this trend. After examining establishment dates for national environmental protection agencies across multiple regions, Tanaka concluded that early-adopting developing nations likely influenced the environmental policy decisions of other developing nations that established similar agencies in subsequent years.",
+  "prompt": "Which choice best describes data from the table that support the researcher's conclusion?",
+  "choices": {
+    "A": "Brazil, Kenya, and South Korea all established national environmental protection agencies in the same decade.",
+    "B": "Brazil established its national environmental protection agency before Kenya did, and Kenya established its agency before South Korea did.",
+    "C": "South Korea established its national environmental protection agency later than any other country listed in the table.",
+    "D": "Kenya established its national environmental protection agency in 1984, the midpoint between Brazil's and South Korea's establishment dates."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it describes data that support Tanaka's conclusion about a pattern of influence among developing nations. The table shows Brazil established its agency in 1981, Kenya in 1984, and South Korea in 1987—a chronological sequence. This ordering directly supports the claim that early-adopting nations influenced later ones, as nations establishing agencies first could serve as models for those that followed.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=2f66f2b6",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c1860cb4de52b17b1db9b575e86799cf/1-605e58a74773f480.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 11,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

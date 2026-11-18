@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e7c3ed23e9c8873b4482f60c2c9d835d",
+  "capturedAt": "2026-11-18T13:26:39.932Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 4(\\frac{1}{5} - x)^{2} + \\frac{2}{5}$. What is the value of $g(\\frac{1}{5})$?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{2}{5},0.4,.4,0.40$$",
+  "explanation": "The correct answer is $\\frac{2}{5}$. To find $g\\left(\\frac{1}{5}\\right)$, substitute $x = \\frac{1}{5}$ into the function definition: $g\\left(\\frac{1}{5}\\right) = 4\\left(\\frac{1}{5} - \\frac{1}{5}\\right)^2 + \\frac{2}{5}$. Evaluating the expression inside the parentheses gives $\\frac{1}{5} - \\frac{1}{5} = 0$. Therefore, $g\\left(\\frac{1}{5}\\right) = 4(0)^2 + \\frac{2}{5} = 4(0) + \\frac{2}{5} = 0 + \\frac{2}{5} = \\frac{2}{5}$. As a decimal, $\\frac{2}{5} = 0.4$. Note that 2/5, 0.4, .4, and 0.40 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=b3ce8a37",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cdfd42d71e1b575e34d09ece7d281890",
+  "capturedAt": "2026-11-18T13:26:03.527Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Oregon is one of several US states to enact policies supporting the implementation of hybrid learning models, educational systems combining in-person and online instruction. Many scholars testify to the pedagogical effectiveness of the hybrid approach while acknowledging its limitations. ______ those who declare the model fundamentally flawed can discount demonstrable benefits, while those who champion it may minimize its limitations.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Ultimately, these complex issues require complex solutions;",
+    "B": "Nevertheless, how these challenges might be overcome remains contentious;",
+    "C": "That said, some experts overlook such nuance;",
+    "D": "Thus, the scholars are skeptical about the hybrid model's viability;"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it logically signals the shift from balanced scholarship to polarized positions. The phrase 'That said' is a qualifying transition that introduces a contrasting perspective, and 'some experts overlook such nuance' explicitly describes what distinguishes the polarized camps from the balanced scholars. The first sentence establishes that 'many scholars' acknowledge both the hybrid model's effectiveness and its limitations, while the second sentence describes two groups who each ignore half of this nuanced view—one declaring the model 'fundamentally flawed' (ignoring benefits) and the other championing it (minimizing limitations).",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=9a924e80",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 22,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

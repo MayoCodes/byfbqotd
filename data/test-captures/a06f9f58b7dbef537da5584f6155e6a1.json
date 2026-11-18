@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a06f9f58b7dbef537da5584f6155e6a1",
+  "capturedAt": "2026-11-18T13:26:28.857Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, line $t$ intersects lines $p$ and $q$. If $a = 125°$, which additional piece of information is sufficient to prove that lines $p$ and $q$ are parallel?",
+  "choices": {
+    "A": "$b = 55°$",
+    "B": "$c + d = 180°$",
+    "C": "$a + c = 180°$",
+    "D": "$c = 125°$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. When a line intersects two parallel lines, corresponding angles are equal. Angles $a$ and $c$ are corresponding angles because they are in the same position at each intersection. If $c = 125°$, then $a = c$, which proves that lines $p$ and $q$ are parallel.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=fcef3150",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a06f9f58b7dbef537da5584f6155e6a1/1-34a22a2abd66c0ca.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

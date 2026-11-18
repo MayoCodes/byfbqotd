@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6234e231598f6aaae5308cbe9696ac2e",
+  "capturedAt": "2026-11-18T13:26:34.099Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale. The area of triangle $DEF$ is $180$ square inches, and the length of side $DF$ is $12$ inches. What is the height $h$, in inches, of this triangle?",
+  "choices": {
+    "A": "$12$",
+    "B": "$15$",
+    "C": "$30$",
+    "D": "$60$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The area of a triangle is given by $A = \\frac{1}{2}bh$, where $b$ is the base and $h$ is the height. The base $\\overline{DF}$ has length $12$ inches, and the area is $180$ square inches. Substituting: $180 = \\frac{1}{2}(12)h$, which simplifies to $180 = 6h$. Dividing both sides by $6$ gives $h = 30$ inches.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=81399ffd",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6234e231598f6aaae5308cbe9696ac2e/1-86418d19bea87cb5.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

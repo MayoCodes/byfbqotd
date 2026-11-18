@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9545ed0801f7971c0dae442ba663286b",
+  "capturedAt": "2026-11-18T13:26:38.011Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(t) = 72(0.15)^t$. For any positive integer $k$, the value of $g(k)$ is $q%$ less than the value of $g(k - 1)$. What is the value of $q$?",
+  "choices": {
+    "A": "$15$",
+    "B": "$43$",
+    "C": "$85$",
+    "D": "$72$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To find the percent decrease from $g(k-1)$ to $g(k)$, we need to determine the ratio $\\frac{g(k)}{g(k-1)}$. Substituting the function definition: $\\frac{g(k)}{g(k-1)} = \\frac{72(0.15)^k}{72(0.15)^{k-1}}$. The coefficient $72$ cancels out: $\\frac{(0.15)^k}{(0.15)^{k-1}}$. Using the quotient rule for exponents, $(0.15)^k \\div (0.15)^{k-1} = (0.15)^{k-(k-1)} = (0.15)^1 = 0.15$. This means $g(k) = 0.15 \\cdot g(k-1)$, so $g(k)$ is $15\\%$ of $g(k-1)$. If $g(k)$ is $15\\%$ of the previous value, then it has decreased by $100\\% - 15\\% = 85\\%$. Therefore, $q = 85$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=8e48569f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 21,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

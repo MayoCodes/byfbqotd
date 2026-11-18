@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "98323c3fb9eefb463282fbbc050acdb4",
+  "capturedAt": "2026-11-18T13:26:43.447Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} + 6x = 31$$\n\nWhat is one of the solutions to the given equation?",
+  "choices": {
+    "A": "$-3 + 2sqrt(10)$",
+    "B": "$sqrt(31)$",
+    "C": "$40$",
+    "D": "$31 + sqrt(3)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Complete the square by adding $9$ to both sides: $x^2 + 6x + 9 = 40$, which gives $(x + 3)^2 = 40$. Taking the square root: $x + 3 = \\pm\\sqrt{40} = \\pm 2\\sqrt{10}$. Therefore, $x = -3 \\pm 2\\sqrt{10}$. One solution is $-3 + 2\\sqrt{10}$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=4baeb532",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

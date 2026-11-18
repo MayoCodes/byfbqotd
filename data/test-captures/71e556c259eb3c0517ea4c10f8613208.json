@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "71e556c259eb3c0517ea4c10f8613208",
+  "capturedAt": "2026-11-18T13:26:34.876Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$y = 3x + 8$$\n\n$$5x + y = 64$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $x + y$?",
+  "choices": {},
+  "correctAnswer": "$$36$$",
+  "explanation": "The correct answer is $36$. Substitute $y = 3x + 8$ into the second equation: $5x + (3x + 8) = 64$. Combining like terms: $8x + 8 = 64$. Subtracting $8$ from both sides: $8x = 56$. Dividing by $8$: $x = 7$. Substituting back: $y = 3(7) + 8 = 29$. Therefore, $x + y = 7 + 29 = 36$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=a7247b37",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

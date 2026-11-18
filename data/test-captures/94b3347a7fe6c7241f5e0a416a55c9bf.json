@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "94b3347a7fe6c7241f5e0a416a55c9bf",
+  "capturedAt": "2026-11-18T13:26:31.000Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nWhich of the following could describe this function?",
+  "choices": {
+    "A": "Decreasing exponential",
+    "B": "Decreasing linear",
+    "C": "Increasing exponential",
+    "D": "Increasing linear"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To determine the type of function, we must analyze how $g(x)$ changes as $x$ increases. First, observe that as $x$ increases from $1$ to $4$, the values of $g(x)$ decrease: $8100 > 2700 > 900 > 300$. This eliminates choices C and D, which describe increasing functions. To distinguish between decreasing linear and decreasing exponential, we check whether consecutive values have a constant difference (linear) or constant ratio (exponential). Calculate the ratios of consecutive $g(x)$ values: $\\frac{2700}{8100} = \\frac{1}{3}$, $\\frac{900}{2700} = \\frac{1}{3}$, and $\\frac{300}{900} = \\frac{1}{3}$. Since the ratio is constant at $\\frac{1}{3}$, the function is exponential. We can verify it is not linear by checking differences: $2700 - 8100 = -5400$, $900 - 2700 = -1800$, and $300 - 900 = -600$. These differences are not constant, confirming the function is not linear. Because the function has a constant ratio less than $1$ and the values decrease, this is a decreasing exponential function.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=d13d268d",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/94b3347a7fe6c7241f5e0a416a55c9bf/1-c72b1afbda0c3fed.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 11,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

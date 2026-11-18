@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "00d3efb9e948f7eec27057c2992a2751",
+  "capturedAt": "2026-11-18T13:25:54.248Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Identify Shared Conclusion",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nAs part of a study of native grasses in the Great Plains tallgrass prairie ecosystem, fresh leaf tissue samples from identified species were collected at the Konza Prairie Biological Station in Kansas. Based on flavonoid profiling, on average the big bluestem and switchgrass samples had similar concentrations of quercetin and luteolin, which distinguished these species' profiles from that of indiangrass.\n\nText 2\nAlthough flavonoid profile alone is not sufficient to distinguish between samples from big bluestem and those from switchgrass, the relative abundances of phytoliths (microscopic silica structures produced by plants), such as bilobate and cross-shaped morphotypes, in soil cores at Tallgrass Lake in the Flint Hills region show that big bluestem, switchgrass, or both were the dominant grasses in the lake's watershed for all layers of soil examined, going as far back as 3,100 years.",
+  "prompt": "Which conclusion about biochemical profiles is supported by information in both Text 1 and Text 2?",
+  "choices": {
+    "A": "Some compounds in the big bluestem and switchgrass profiles are more likely than others to be preserved for long time spans.",
+    "B": "Each of the grass species in the Tallgrass Lake watershed has a distinctive and unique biochemical profile.",
+    "C": "The profiles for big bluestem and switchgrass contain similar concentrations of various compounds.",
+    "D": "The profiles of grasses in and around the Flint Hills region show that big bluestem and switchgrass have historically been more prevalent than indiangrass in the area."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it synthesizes information from both texts about the biochemical similarity between big bluestem and switchgrass. Text 1 explicitly states that 'the big bluestem and switchgrass samples had similar concentrations of quercetin and luteolin,' establishing comparable levels of specific flavonoid compounds. Text 2 reinforces this by stating that 'flavonoid profile alone is not sufficient to distinguish between samples from big bluestem and those from switchgrass,' which implies their profiles contain similar concentrations. Both texts independently support that these species have biochemical profiles with similar compound concentrations.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=c4082277",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 8,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

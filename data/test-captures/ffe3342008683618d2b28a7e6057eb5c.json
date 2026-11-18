@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ffe3342008683618d2b28a7e6057eb5c",
+  "capturedAt": "2026-11-18T13:26:12.827Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nScientists collected information about loggerhead sea turtles in Canaveral National Seashore in Florida. This information included each turtle's sex, age, and carapace length. Among the turtles whose information is shown in the table, the youngest one was the turtle with identification number ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "372.",
+    "B": "389.",
+    "C": "341.",
+    "D": "365."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to identify the youngest turtle. The table presents four loggerhead sea turtles with ages of 8, 15, 19, and 24 years. The youngest turtle is the one with the minimum age value. The Age column shows that 8 years is the smallest value in the dataset. Cross-referencing this age to the corresponding row shows that the turtle with age 8 has identification number 365, making turtle 365 the youngest turtle among those shown in the table.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=94fb8f22",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/ffe3342008683618d2b28a7e6057eb5c/1-0889bc62fe698ede.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

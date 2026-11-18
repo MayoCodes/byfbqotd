@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "567c73e440e0bf0de9ffed7ef2e8bf54",
+  "capturedAt": "2026-11-18T13:26:41.187Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The student council needs to raise at least $$120$ for a field trip. The council raises $$75$ during Week 1 and raises enough additional money during Week 2 to fund the field trip. Which inequality represents the additional amount, $h$, in dollars, that the council raises during Week 2?",
+  "choices": {
+    "A": "$h + 75 \\le 120$",
+    "B": "$h + 75 \\ge 120$",
+    "C": "$h - 75 \\le 120$",
+    "D": "$h - 75 \\ge 120$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The phrase 'at least $$120$' means the total amount raised must be greater than or equal to $120$ dollars, which translates to the inequality symbol $\\ge$. The student council raises $$75$ during Week 1 and an additional amount $h$ dollars during Week 2, so the total amount raised is $75 + h$ dollars. Setting up the inequality: the total amount raised must be at least $$120$, which gives $h + 75 \\ge 120$. This inequality correctly represents that the sum of the Week 1 amount and the Week 2 amount must meet or exceed the $$120$ requirement for the field trip.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=9a95c24d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 4,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

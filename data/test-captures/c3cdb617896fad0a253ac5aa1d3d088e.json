@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c3cdb617896fad0a253ac5aa1d3d088e",
+  "capturedAt": "2026-11-18T13:26:42.669Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Complementary Angle Relationship",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the right triangle shown, angle $B$ is a right angle. What is the value of $( A)( C) + ( A)( C)$?",
+  "choices": {
+    "A": "$\\frac{(120)}{(169)}$",
+    "B": "$\\frac{(144)}{(169)}$",
+    "C": "$1$",
+    "D": "$\\frac{(288)}{(169)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. In a right triangle, the two acute angles are complementary, so $A + C = 90°$. This means $\\sin A = \\cos C$ and $\\cos A = \\sin C$. Substituting: $(\\sin A)(\\cos C) + (\\cos A)(\\sin C) = (\\sin A)(\\sin A) + (\\cos A)(\\cos A) = \\sin^2 A + \\cos^2 A = 1$ by the Pythagorean identity. Alternatively, using the given side lengths: $\\sin A = \\frac{12}{13}$, $\\cos A = \\frac{5}{13}$, $\\sin C = \\frac{5}{13}$, $\\cos C = \\frac{12}{13}$. Then $(\\frac{12}{13})(\\frac{12}{13}) + (\\frac{5}{13})(\\frac{5}{13}) = \\frac{144 + 25}{169} = \\frac{169}{169} = 1$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=b77af7eb",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c3cdb617896fad0a253ac5aa1d3d088e/1-0267d1043db75090.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 6,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

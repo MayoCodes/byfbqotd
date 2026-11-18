@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fc1ec00668aebccdf075c3dddd67fff4",
+  "capturedAt": "2026-11-18T13:26:10.964Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Describe Difference Between Views",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nStanford University and the technology company Microsoft are two of the many institutions offering training programs in digital literacy for educators. But what results do such programs produce? In a study of elementary school teachers in Singapore, researchers Emma Sullivan and Connor Walsh addressed this question and convincingly demonstrated that participants showed significantly increased confidence in integrating technology into instruction as a result of receiving digital literacy training.\n\nText 2\nWhile studies of digital literacy training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. For instance, a 2018 study by Emma Sullivan and Connor Walsh found benefits of digital literacy education for elementary teachers in Singapore, but the study included no control group of teachers who did not receive training, making it unclear whether the training actually had an effect.",
+  "prompt": "Based on the texts, the author of Text 1 and the author of Text 2 would most likely disagree about the answer to which question?",
+  "choices": {
+    "A": "Is the cost of conducting digital literacy training programs typically offset by the programs' benefits?",
+    "B": "Did Sullivan and Walsh report that participants who received the digital literacy training showed increased confidence in integrating technology?",
+    "C": "Did Sullivan and Walsh's study provide persuasive evidence that its results are attributable to the digital literacy training participants received?",
+    "D": "Are there convincing experimental results showing that different types of digital literacy training programs are associated with different outcomes?"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it identifies the fundamental disagreement between the two texts regarding the persuasiveness of Sullivan and Walsh's evidence. Text 1 states that the researchers 'convincingly demonstrated' that participants showed increased confidence as a result of the training, presenting the study as strong evidence of a causal relationship. Text 2, however, critiques this same study for lacking a control group, concluding that this flaw makes it 'unclear whether the training actually had an effect.' The author of Text 1 would answer 'yes' to this question—the study convincingly shows causation—while the author of Text 2 would answer 'no'—the study's design prevents confident causal conclusions.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=d34ec9db",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 7,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

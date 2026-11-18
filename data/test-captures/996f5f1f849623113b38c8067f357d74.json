@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "996f5f1f849623113b38c8067f357d74",
+  "capturedAt": "2026-11-18T13:25:56.092Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "African elephants consume up to 20 percent of their total body mass in grass and seeds per day. So in one day, a savanna elephant weighing 6,000 kg could eat 1,200 kg, while a forest elephant weighing 4,000 kg could consume a substantial 800 kg. Over the last century, elephant populations have declined sharply, and contrary to some ecologists' expectations, so have populations of many grass species. Dr. Connor Murphy and colleagues resolve this apparent discrepancy by pointing out that elephants cycle nutrients through their dung and disperse seeds across vast distances, helping support flowering plant populations, which, in turn, sustain diverse grass species.",
+  "prompt": "Based on the text, what is one likely effect of the change in elephant populations over the last century?",
+  "choices": {
+    "A": "The maximum body sizes of savanna and forest elephants have increased over the last century.",
+    "B": "The quantity of grass needed to support a single forest elephant has increased over the last century.",
+    "C": "Populations of flowering plants that grasses depend on have declined over the last century.",
+    "D": "The nutrient richness of the grasses that elephants eat has declined over the last century."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it identifies the intermediate step in the ecological causal chain described in the text. The passage explains that elephants 'cycle nutrients through their dung and disperse seeds,' which helps 'support flowering plant populations,' which 'in turn, sustain diverse grass species.' When elephant populations decline, this predicts less nutrient cycling and seed dispersal, leading to declining flowering plant populations—the mechanism that explains why grass populations also declined.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=c50b78e8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 11,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

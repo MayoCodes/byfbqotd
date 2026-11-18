@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b056f925bfa4a79ad048d04b688417c9",
+  "capturedAt": "2026-11-18T13:26:41.814Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Nonlinear Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following is the best interpretation of the slope of the line of best fit in this context?",
+  "choices": {
+    "A": "The test score is predicted to increase by $15$ percentage points for every additional $5$ hours studied per week.",
+    "B": "The number of hours studied is predicted to increase by $60$ hours every $20$ weeks.",
+    "C": "The number of hours studied is predicted to increase by $15$ hours every $5$ weeks.",
+    "D": "The test score is predicted to increase by $100$ percentage points for every additional $5$ hours studied per week."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The slope of a line represents the rate of change of the dependent variable with respect to the independent variable. In this context, the test score $y$ (dependent variable) depends on the number of hours studied $x$ (independent variable). From the scatterplot, the line of best fit passes approximately through the points $(0, 40)$ and $(20, 100)$. The slope is calculated as $\\frac{\\Delta y}{\\Delta x} = \\frac{100 - 40}{20 - 0} = \\frac{60}{20} = 3$ percentage points per hour. To express this in terms of every $5$ hours studied: $3 \\times 5 = 15$ percentage points per $5$ hours. Therefore, the test score is predicted to increase by $15$ percentage points for every additional $5$ hours studied per week, which correctly interprets the slope in context with the appropriate dependent and independent variables.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=5264a928",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b056f925bfa4a79ad048d04b688417c9/1-d615abc31f992f3b.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

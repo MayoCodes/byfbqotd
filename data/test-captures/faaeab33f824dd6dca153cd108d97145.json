@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "faaeab33f824dd6dca153cd108d97145",
+  "capturedAt": "2026-11-18T13:26:26.365Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The equation $84 = 2x + 2y$ gives the perimeter of a rectangular swimming pool that has length $x$, in meters, and width $y$, in meters. The width of the swimming pool is $12$ meters. What is the length, in meters, of the swimming pool?",
+  "choices": {},
+  "correctAnswer": "$$30$$",
+  "explanation": "The correct answer is $30$. The perimeter formula for a rectangle is given as $P = 2x + 2y$, where $x$ is the length and $y$ is the width. The problem states that the perimeter is $84$ meters and the width $y = 12$ meters. Substituting $y = 12$ into the equation gives $84 = 2x + 2(12)$. Simplifying the right side: $84 = 2x + 24$. Subtracting $24$ from both sides gives $84 - 24 = 2x$, which simplifies to $60 = 2x$. Dividing both sides by $2$ yields $x = 30$. Therefore, the length of the swimming pool is $30$ meters.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=f64368c3",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

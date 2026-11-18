@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fee40e6c047926b45140675c47de3b33",
+  "capturedAt": "2026-11-18T13:26:00.449Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The Lindisfarne Gospels is an illuminated manuscript from the eighth century. Currently held at the British Library in London, England, it is one of several hundred such manuscripts from the European Middle Ages still remaining, with the even older Book of Kells from the seventh century (now held at Trinity College Library in Dublin, Ireland) ______ another one.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "was",
+    "B": "being",
+    "C": "is",
+    "D": "has been"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of verb forms within a sentence. The phrase beginning with 'with' functions as an absolute phrase that modifies the main clause. Absolute phrases require a non-finite verb form—specifically a participle—rather than a finite verb. The present participle 'being' correctly forms this absolute phrase structure: 'with the even older Book of Kells...being another one.' This construction provides additional information about the Book of Kells while maintaining proper subordination to the main clause about the Lindisfarne Gospels.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=70d1202b",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 17,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

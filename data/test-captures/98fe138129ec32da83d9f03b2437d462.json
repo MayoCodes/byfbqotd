@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "98fe138129ec32da83d9f03b2437d462",
+  "capturedAt": "2026-11-18T13:26:29.736Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $p$ in the $xy$-plane passes through the points $(0, 15)$ and $(1, 33)$. Which equation defines line $p$?",
+  "choices": {
+    "A": "$18x - y + 15 = 0$",
+    "B": "$18x - y + \\frac{1}{(15)} = 0$",
+    "C": "$18x - y - \\frac{1}{(15)} = 0$",
+    "D": "$18x - y - 15 = 0$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The slope of a line passing through two points $(x_1, y_1)$ and $(x_2, y_2)$ is given by $m = \\frac{y_2 - y_1}{x_2 - x_1}$. For the points $(0, 15)$ and $(1, 33)$, the slope is $m = \\frac{33 - 15}{1 - 0} = \\frac{18}{1} = 18$. Since the line passes through $(0, 15)$, the $y$-intercept is $15$. The slope-intercept form of the line is $y = 18x + 15$. Converting to standard form by subtracting $y$ from both sides and rearranging: $18x - y + 15 = 0$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=22aa9390",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 9,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

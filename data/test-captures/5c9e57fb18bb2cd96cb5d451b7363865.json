@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5c9e57fb18bb2cd96cb5d451b7363865",
+  "capturedAt": "2026-11-18T13:26:46.959Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Best Model Type",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The scatterplot shows the relationship between $t$ and $h$ for $11$ data points collected in Round 1. The least-squares quadratic regression model for Round 1 can be written as $h = 0.20t^{2} - 0.40t + 8.50$. The data point at $t = 1$ was found to be a recording error and was removed to create Round 2, consisting of the remaining $10$ data points. As shown, the point at $t = 1$ lies below the fitted curve. The least-squares quadratic regression model for Round 2 can be written as $h = at^{2} + bt + c$, where $a$, $b$, and $c$ are constants.\n\nWhich of the following statements about the Round 2 model must be true?\n\nI. $a > 0.20$\n\nII. $c > 8.50$\n\n[Figure 1]",
+  "choices": {
+    "A": "I only",
+    "B": "II only",
+    "C": "I and II",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "C",
+  "explanation": "The correct answer is C. Both statements must be true.\n\nFor Statement I: The Round 1 model has a positive leading coefficient, so it opens upward. The removed point at $t = 1$ lies below the Round 1 least-squares regression curve near its vertex. Removing this low point causes the least-squares regression curve for the remaining data to bend upward more steeply to fit the remaining points, so the value of $a$ increases. Therefore, $a > 0.20$ is true.\n\nFor Statement II: The coefficient $c$ represents the predicted value of $h$ when $t = 0$. Since the removed point at $t = 1$ lies below the Round 1 least-squares regression curve, that point pulled the fitted curve downward near the left side of the graph. Removing it raises the fitted value near $t = 0$ for the least-squares regression of the remaining data. Therefore, $c > 8.50$ is true.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=63eaee13",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5c9e57fb18bb2cd96cb5d451b7363865/1-0b45dedfa687a2e3.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

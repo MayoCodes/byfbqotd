@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0854c018c488df3a16e96ba50864d164",
+  "capturedAt": "2026-11-18T13:26:36.134Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Apply Rate to Find Quantity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "There is a proportional relationship between $m$ and $n$. If $m = 4,200$ when $n = 6,300$, then what is the value of $n$ when $m = 3,600$?",
+  "choices": {
+    "A": "$2,400$",
+    "B": "$5,040$",
+    "C": "$5,700$",
+    "D": "$5,400$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. If there is a proportional relationship between $m$ and $n$, then $m = kn$ for some constant $k$, or $\\frac{m}{n} = k$. Using the given values, we can find $k$: $k = \\frac{4200}{6300} = \\frac{2}{3}$. Now we need to find $n$ when $m = 3600$. Using the relationship $m = kn$, we have $3600 = \\frac{2}{3}n$. Multiplying both sides by $\\frac{3}{2}$ gives $n = 3600 \\times \\frac{3}{2} = \\frac{10800}{2} = 5400$. Alternatively, since $\\frac{m_1}{n_1} = \\frac{m_2}{n_2}$, we have $\\frac{4200}{6300} = \\frac{3600}{n}$. Cross-multiplying gives $4200n = 6300 \\times 3600 = 22{,}680{,}000$. So, $n = \\frac{22{,}680{,}000}{4200} = 5400$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=c4547ddd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

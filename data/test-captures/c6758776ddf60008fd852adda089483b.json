@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c6758776ddf60008fd852adda089483b",
+  "capturedAt": "2026-11-18T13:26:47.792Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Radian/Degree Conversion",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which measure, in radians, is equivalent to $(29 \\times 180)^°$?",
+  "choices": {
+    "A": "$\\pi + 29$",
+    "B": "$29\\pi$",
+    "C": "$-\\frac{(\\pi )}{(29)}$",
+    "D": "$\\pi - 29$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To convert an angle measure from degrees to radians, multiply the degree measure by $\\frac{\\pi}{180}$. The given angle is $(29 \\cdot 180)^{\\circ}$, which equals $5220^{\\circ}$. Applying the conversion formula: $5220^{\\circ} \\times \\frac{\\pi}{180} = \\frac{5220\\pi}{180}$. This can be rewritten as $\\frac{29 \\cdot 180 \\cdot \\pi}{180}$. The factor of $180$ in the numerator and denominator cancels, leaving $29\\pi$ radians. Therefore, $(29 \\cdot 180)^{\\circ}$ is equivalent to $29\\pi$ radians.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=2f584a23",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

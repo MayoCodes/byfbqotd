@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "910351e052ea7be08d1a74a250e9819a",
+  "capturedAt": "2026-11-18T13:25:56.699Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nAn education researcher is examining the decline since 1990 in average class sizes in primary schools in various nations due to both demographic shifts and the adoption of educational policy reforms. The first task in this investigation is to determine how the decline in Singapore compares to that in other countries. The researcher finds that ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "though the percent decrease in class size in Singapore was greater than that in Finland and South Korea, it was less than that in Mexico",
+    "B": "the decline in number of students per class was greater in Singapore than it was in Finland, Mexico, or South Korea",
+    "C": "while the number of students per class rose in Singapore from 1990 to 2023, it declined in Finland, Mexico, and South Korea",
+    "D": "though the percent decrease in class size in Singapore was less than that in Finland, it was greater than that in Mexico and South Korea"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accurately uses the percent change data from the table to compare Singapore's decline to other countries. According to the table, Singapore experienced a -22% decrease in class size, which was less than Finland's -44% decrease but greater than both Mexico's -16% decrease and South Korea's -14% decrease. Choice D correctly identifies all three comparative relationships.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=f3f91b00",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/910351e052ea7be08d1a74a250e9819a/1-f0d27f445ae3ddec.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 12,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

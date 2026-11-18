@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "725946f35ad0898e4edc8d9844ec7499",
+  "capturedAt": "2026-11-18T13:26:44.069Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nFor a linear relationship between $t$ and $p$, the table gives three values of $t$ and their corresponding values of $p$ in terms of a constant $k$. What is the slope of the line in the $tp$-plane that represents this relationship?",
+  "choices": {
+    "A": "$-28$",
+    "B": "$7$",
+    "C": "$-7$",
+    "D": "$28$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The slope of a line can be calculated using any two points on the line with the formula $m = \\frac{p_2 - p_1}{t_2 - t_1}$, where $(t_1, p_1)$ and $(t_2, p_2)$ are two points on the line. Using the first two points from the table, $(0, k)$ and $(4, k-28)$: the change in $p$ is $(k-28) - k = k - 28 - k = -28$, and the change in $t$ is $4 - 0 = 4$. Therefore, the slope is $m = \\frac{-28}{4} = -7$. Note that the constant $k$ cancels out in the calculation, which is expected because the slope of a line represents the rate of change and is independent of vertical shifts. This can be verified using the second and third points: $(4, k-28)$ and $(8, k-56)$ give $\\frac{(k-56)-(k-28)}{8-4} = \\frac{-28}{4} = -7$, confirming the answer.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=55438c65",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/725946f35ad0898e4edc8d9844ec7499/1-70470e82f8960eaa.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 8,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

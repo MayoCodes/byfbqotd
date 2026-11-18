@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3db801fd35fe8ce984d5c34e45bc72e8",
+  "capturedAt": "2026-11-18T13:25:58.575Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Marine biologist Vikram Reddy and colleagues analyzed the gill tissues of parrotfish (Scaridae family) that were collected from waters near Palau. The researchers found that samples from tissue sections that formed before maturation, including sample J12, formed in water with 6.5-7.0 mg/L dissolved oxygen, whereas samples from sections that formed after maturation, including A19, formed in water with 4.8-5.2 mg/L dissolved oxygen. These findings are consistent with the oxygen concentrations Samoan parrotfish encounter during their corresponding stages of development. Because dissolved oxygen concentration varies with depth, a biology student hypothesized that the Palauan parrotfish reach maturity at approximately the same depth as Samoan parrotfish do.",
+  "prompt": "Which finding, if true, would most directly weaken the student's hypothesis?",
+  "choices": {
+    "A": "Samoan parrotfish generally live at lower depths than Palauan parrotfish do, though Samoan parrotfish migrate to the typical depth of Palauan parrotfish to reach maturation.",
+    "B": "The dissolved oxygen concentration at a given depth tends to be lower in waters near Palau than it is at that depth in waters near Samoa.",
+    "C": "Once a parrotfish matures, it is a very mobile animal, so the oxygen values reported by Reddy and colleagues for the adult parrotfish are averages over a potentially large range of depths.",
+    "D": "There are few locations near Samoa with dissolved oxygen concentrations of 4.8-5.2 mg/L that are suitable for parrotfish maturation."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a finding that directly undermines the student's hypothesis that similar oxygen concentrations indicate similar maturation depths. The student reasoned that because both Palauan and Samoan parrotfish experience 4.8-5.2 mg/L dissolved oxygen during maturation, they must mature at the same depth. However, if oxygen concentration at a given depth is systematically lower near Palau than near Samoa, then Palauan parrotfish would need to be at shallower depths to encounter the same oxygen levels that Samoan parrotfish experience at deeper depths—meaning identical oxygen concentrations would occur at different depths in the two locations.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=58d37429",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 14,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f951eb71f7aba80e0bddacfe1ed96906",
+  "capturedAt": "2026-11-18T13:26:11.591Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Scientists study the concentrations and the isotope ratios (IR)—the relative proportions of two isotopes—of nitrogen (N) isotopes in river systems to track pollution sources and to monitor water quality. However, isotope concentrations and IR are not always uniform across a single river system, which may affect the reliability of results if sampling is not sufficiently representative. Layla Hassan et al. analyzed concentrations of the isotope N-15 and the N-15/N-14 IR at multiple sites and seasonal periods in three rivers in Brazil, finding no significant variation in values within the same river.",
+  "prompt": "Information in the text best supports which statement about Hassan et al.'s findings?",
+  "choices": {
+    "A": "They illustrate why scientists investigating pollution sources and water quality ought to evaluate how evenly N concentrations and IR are distributed in the river systems they are examining.",
+    "B": "They indicate that researchers performing isotopic analysis in the rivers Hassan et al. studied can likely rely on localized sampling within each river, since values from any one site or period are representative of the entire river.",
+    "C": "They challenge the assumption that N concentrations and IR sometimes vary from river to river, since the N-15 concentration and N-15/N-14 IR were consistent across the sampled rivers.",
+    "D": "They demonstrate that the number of samples Hassan et al. collected from the three rivers is sufficient to yield equally reliable information about pollution sources and water quality in those three rivers."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it correctly interprets the implications of Hassan et al.'s findings. The text establishes that non-uniform isotope distribution 'may affect the reliability of results if sampling is not sufficiently representative.' Hassan et al. found 'no significant variation in values within the same river,' which resolves this concern. If isotope values don't vary significantly across sites and seasonal periods within a river, then localized sampling is reliable—any single sample would be representative of the entire river.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=58a32b58",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 8,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

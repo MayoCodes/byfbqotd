@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cb89302b123e06fa1c674a7935af483b",
+  "capturedAt": "2026-11-18T13:26:28.233Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A survey was conducted in Springfield to estimate the percent of adult residents who support the construction of a new public library in the downtown area of their city. Based on the survey, it is estimated that $42%$ of all adult residents of Springfield support the construction of a new public library in the downtown area of their city, with an associated margin of error of $5%$. Which of the following is the most appropriate conclusion about all adult residents of Springfield?",
+  "choices": {
+    "A": "Plausible values for the percent of all adult residents of Springfield who support the construction of a new public library in the downtown area of their city are either less than $37%$ or more than $47%$.",
+    "B": "Plausible values for the percent of all adult residents of Springfield who support the construction of a new public library in the downtown area of their city are between $37%$ and $47%$.",
+    "C": "The construction of a new public library in the downtown area of the city is supported by exactly $37%$ of all adult residents of Springfield.",
+    "D": "The construction of a new public library in the downtown area of the city is supported by more than $47%$ of all adult residents of Springfield."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In survey statistics, a margin of error defines the range of plausible values for the true population parameter around the point estimate. The point estimate from the survey is $42\\%$, and the margin of error is $5\\%$. To find the interval of plausible values, subtract and add the margin of error to the point estimate: $42\\% - 5\\% = 37\\%$ (lower bound) and $42\\% + 5\\% = 47\\%$ (upper bound). Therefore, the most appropriate conclusion is that the true percentage of all adult residents of Springfield who support the construction lies between $37\\%$ and $47\\%$. This interval represents the range within which we can be reasonably confident the true population parameter falls, based on the survey data.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=be9119d2",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

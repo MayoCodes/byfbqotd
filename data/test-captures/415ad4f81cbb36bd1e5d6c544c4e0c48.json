@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "415ad4f81cbb36bd1e5d6c544c4e0c48",
+  "capturedAt": "2026-11-18T13:26:53.432Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Largest Generalization Population",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For a study, a group of students will be selected from School A consisting of $180$ students, and a group of students will be selected from School B consisting of $160$ students. Some of the students from School A and School B will be in a treatment group that receives a new teaching method, and some of the students will be in a control group that receives the standard teaching method. Which of the following is necessary for this study to attempt to establish a cause-and-effect relationship between two variables?",
+  "choices": {
+    "A": "The number of students from School A in the treatment group is equal to the number of students from School B in the treatment group, and the number of students from School A in the control group is equal to the number of students from School B in the control group.",
+    "B": "The students from School A and the students from School B are randomly selected from their respective schools.",
+    "C": "The students from School A and the students from School B are randomly assigned to the treatment and control groups.",
+    "D": "The average prior achievement level of the students from School A in the treatment group is equal to the average prior achievement level of the students from School B in the treatment group, and the average prior achievement level of the students from School A in the control group is equal to the average prior achievement level of the students from School B in the control group."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To establish a cause-and-effect relationship, students must be randomly assigned to treatment and control groups. Random assignment ensures the groups are comparable, so any difference in outcomes can be attributed to the teaching method rather than pre-existing differences between students.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=dd0052ef",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 22,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

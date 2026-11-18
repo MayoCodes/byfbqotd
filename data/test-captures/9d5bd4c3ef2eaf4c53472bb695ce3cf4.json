@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9d5bd4c3ef2eaf4c53472bb695ce3cf4",
+  "capturedAt": "2026-11-18T13:26:25.111Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, the graph of the equation $y = 2^x$ is translated $5$ units to the right. What is an equation of the resulting graph?",
+  "choices": {
+    "A": "$y = 2^x-5$",
+    "B": "$y = 2^x+5$",
+    "C": "$y = 2^x - 5$",
+    "D": "$y = 2^x + 5$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A horizontal translation of a function moves the graph left or right by replacing $x$ with $(x - h)$ or $(x + h)$. To shift a graph $h$ units to the right, replace $x$ with $(x - h)$. Here, the graph is translated $5$ units to the right, so replace $x$ with $(x - 5)$: $y = 2^{x-5}$. For example, the original graph passes through $(0, 1)$ since $2^0 = 1$. The translated graph passes through $(5, 1)$ since $2^{5-5} = 2^0 = 1$, confirming a rightward shift of $5$ units.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=00f09696",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

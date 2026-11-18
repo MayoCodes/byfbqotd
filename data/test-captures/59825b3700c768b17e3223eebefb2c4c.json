@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "59825b3700c768b17e3223eebefb2c4c",
+  "capturedAt": "2026-11-18T13:26:21.991Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Air quality specialist Alex Parker helps maintain automated air quality measurement stations throughout Texas.\n• They are called TCEQ monitoring stations.\n• There are around 85 stations throughout Texas.\n• There is one at Lake Houston.",
+  "prompt": "The student wants to emphasize the number of TCEQ monitoring stations in Texas. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "TCEQ monitoring stations collect air quality measurement data throughout the state of Texas.",
+    "B": "One particular TCEQ monitoring station is located at Lake Houston in Texas.",
+    "C": "In Texas alone, there are around 85 TCEQ monitoring stations located throughout the state.",
+    "D": "Air quality specialist Alex Parker helps maintain TCEQ monitoring stations, such as the one at Lake Houston, Texas."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively emphasizes the number of TCEQ monitoring stations in Texas. The sentence places the numerical information prominently in the main clause with 'In Texas alone, there are around 85 TCEQ monitoring stations,' using 'alone' to further stress the quantity. This structure foregrounds the specific number that accomplishes the stated goal.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=0974c54d",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 24,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

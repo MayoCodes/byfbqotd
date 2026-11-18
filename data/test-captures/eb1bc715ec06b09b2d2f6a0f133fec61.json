@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eb1bc715ec06b09b2d2f6a0f133fec61",
+  "capturedAt": "2026-11-18T13:26:15.220Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Certain species, such as blind cave salamanders (Proteus anguinus), lack conventional sensory organs for orientation and rely on alternative mechanisms for navigation. Marina Orozco and colleagues investigated such mechanisms in the loggerhead sea turtle (Caretta caretta), which has no organs with magnetoreceptors (magnetic field-detecting cells) in its brain but can sense and navigate using Earth's magnetic field. The researchers placed individual specimens in a chamber with a natural magnetic field (chamber 1) connected to a chamber with a disrupted magnetic field (chamber 2) and then monitored the turtles' navigation patterns. They observed a rapid increase in electrical activity in the turtles' specialized flipper scales with the onset of magnetic field exposure, followed by the turtles' movement toward chamber 1. Based on their observations, the researchers concluded that magnetite-containing cells in the flipper scales are likely responsible for magnetic field detection in the turtles.",
+  "prompt": "Which additional finding from Orozco and colleagues' study, if true, would best support the researchers' conclusion?",
+  "choices": {
+    "A": "When their flipper scales were covered with a magnetic-shielding material, the turtles remained disoriented in chamber 2 for longer durations.",
+    "B": "The turtles showed the same tendency to move to chamber 1 when the natural magnetic field was accompanied by artificially reduced electrical signals.",
+    "C": "Loggerhead sea turtles are more proficient at detecting magnetic fields than other turtle species are.",
+    "D": "When body parts other than the turtles' flipper scales were monitored, the electrical activity of these body parts was found to increase in the presence of magnetic fields."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it provides causal evidence that flipper scales are necessary for magnetic field detection. The text indicates that Orozco and colleagues observed electrical activity in flipper scales followed by navigation toward the chamber with a natural magnetic field, leading them to conclude that magnetite-containing cells in the flipper scales are responsible for detection. If blocking the flipper scales with magnetic-shielding material impairs the turtles' ability to navigate (remaining disoriented longer), this demonstrates that the flipper scales are essential for the detection mechanism, strongly supporting the researchers' conclusion.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=c4907bf6",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 13,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

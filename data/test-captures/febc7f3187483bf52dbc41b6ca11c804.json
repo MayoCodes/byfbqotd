@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "febc7f3187483bf52dbc41b6ca11c804",
+  "capturedAt": "2026-11-18T13:26:31.811Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Calculate Residual",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nFor how many of the $11$ data points is the actual $y$-value greater than the $y$-value predicted by the line of best fit?",
+  "choices": {
+    "A": "$9$",
+    "B": "$7$",
+    "C": "$3$",
+    "D": "$5$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A data point has an actual $y$-value greater than the predicted $y$-value when the point lies above the line of best fit. Examining each of the $11$ data points in the scatterplot: the points at approximately $(2, 14)$, $(6, 20)$, $(9, 23)$, $(15, 32)$, and $(19, 40)$ are located above the line of best fit, meaning their actual $y$-values exceed the values predicted by the line at those $x$-coordinates. The remaining $6$ points lie below the line. Therefore, $5$ of the $11$ data points have actual $y$-values greater than the predicted $y$-values.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=1a123e5e",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/febc7f3187483bf52dbc41b6ca11c804/1-789413edd6818d31.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 12,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

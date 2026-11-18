@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "82d4f6329fc9f24e740be1ad7afcda94",
+  "capturedAt": "2026-11-18T13:26:20.142Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "When an organism is classified using the International Code of Zoological Nomenclature system, its similarity to each of the 12 phylum categories—defined by several criteria— ______ evaluated, one group at a time, until a match is found. The comparisons are made in a specific order; thus, the criteria for arthropods (organisms with segmented exoskeletons) are only applied if the organism doesn't match the criteria for chordates.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "is",
+    "B": "was",
+    "C": "have been",
+    "D": "are"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it provides the singular present tense verb that correctly agrees with the singular subject 'similarity.' Although plural nouns like 'categories' and 'criteria' appear between the subject and the verb, they are part of prepositional and parenthetical phrases that do not affect subject-verb agreement. The present tense 'is' appropriately describes the ongoing, standard classification process, as indicated by the present tense construction 'When an organism is classified' at the beginning of the sentence.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=578b90e5",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 21,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

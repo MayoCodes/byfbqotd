@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dc9550bf84e75d85aa3574ff2b5d9643",
+  "capturedAt": "2026-11-18T13:26:18.930Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In the Montessori approach, sight words like \"the\" and \"cat\" are taught to beginning reading students as young as four, while students of phonics-based programs often only ______ such words at the age of six.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "beginning to learn",
+    "B": "begin learning",
+    "C": "having begun to learn",
+    "D": "to begin learning"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it provides the finite verb form required to complete the clause. The sentence contrasts two educational approaches, with the first clause using the finite verb 'are taught' ('sight words...are taught to beginning reading students'). The second clause, introduced by 'while,' requires a parallel structure with its own finite verb. 'Begin learning' supplies the present tense finite verb 'begin,' which agrees in number with the plural subject 'students' and creates a grammatically complete clause: 'students...often only begin learning such words.'",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=754378c8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

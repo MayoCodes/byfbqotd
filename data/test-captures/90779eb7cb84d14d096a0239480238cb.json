@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "90779eb7cb84d14d096a0239480238cb",
+  "capturedAt": "2026-11-18T13:26:33.297Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Identify Graph of Function",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nFor how many values of $x$ does $f(x) = 0$?",
+  "choices": {
+    "A": "One",
+    "B": "Two",
+    "C": "Three",
+    "D": "Four"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The zeros of a function are the values of $x$ where the function equals zero, which correspond to the $x$-intercepts of the graph. Examining the graph of $y = f(x)$, the curve crosses the $x$-axis at exactly three points: approximately $x = -3$, $x = 1$, and $x = 4$. Therefore, $f(x) = 0$ for exactly three values of $x$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=780de7eb",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/90779eb7cb84d14d096a0239480238cb/1-9870de4ee91ef80d.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 14,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

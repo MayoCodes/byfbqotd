@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f442f2a189e24dd354ebcf65d921e67e",
+  "capturedAt": "2026-11-18T13:26:52.818Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is a factor of $a^{2}(b - 5) - 9(b - 5)^{3}$?",
+  "choices": {
+    "A": "$a(b - 5)$",
+    "B": "$a + 3b - 15$",
+    "C": "$a + b - 5$",
+    "D": "$(b - 5)(b - 3)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To factor $a^2(b-5) - 9(b-5)^3$, first factor out the common binomial factor $(b-5)$: $(b-5)[a^2 - 9(b-5)^2]$. The expression inside the brackets is a difference of squares because $a^2 - 9(b-5)^2 = a^2 - [3(b-5)]^2$. Applying the difference of squares formula $x^2 - y^2 = (x+y)(x-y)$ with $x = a$ and $y = 3(b-5)$ gives $(b-5)[a + 3(b-5)][a - 3(b-5)]$. Expanding the first factor inside the brackets: $a + 3(b-5) = a + 3b - 15$. Expanding the second factor: $a - 3(b-5) = a - 3b + 15$. Therefore, the complete factorization is $(b-5)(a + 3b - 15)(a - 3b + 15)$, which shows that $a + 3b - 15$ is a factor of the given expression.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=01965e58",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 21,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

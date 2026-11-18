@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ea5c70229fcda5de857069219b44cf62",
+  "capturedAt": "2026-11-18T13:26:02.917Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The Summer Olympic Games, one of the biggest sporting events on the planet, brought together approximately 10,500 athletes representing over 200 nations from all inhabited continents to the host city, Paris, in 2024. ______ only about 2,400 athletes from 28 nations, most from Europe and North America, competed in the 1912 Olympics in Stockholm.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In contrast,",
+    "B": "In other words,",
+    "C": "For instance,",
+    "D": "Therefore,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because 'In contrast,' logically signals the stark difference between the two Olympic Games being compared. The first sentence describes the 2024 Paris Olympics as a massive, globally diverse event with approximately 10,500 athletes from over 200 nations spanning all inhabited continents. The second sentence presents the 1912 Stockholm Olympics, which featured only about 2,400 athletes from just 28 nations, with most participants coming from only two regions (Europe and North America). This transition effectively highlights how dramatically the Olympics has expanded in scale and international representation over the past century.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=353e05ca",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 21,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

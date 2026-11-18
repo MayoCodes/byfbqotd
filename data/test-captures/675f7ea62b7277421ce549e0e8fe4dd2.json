@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "675f7ea62b7277421ce549e0e8fe4dd2",
+  "capturedAt": "2026-11-18T13:26:52.186Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The volume of container X is $372%$ of the volume of container Y, and the volume of container X is $0.620%$ of the volume of container Z. If the volume of container Z is $p%$ of the volume of container Y, what is the value of $p$?",
+  "choices": {},
+  "correctAnswer": "$$60000$$",
+  "explanation": "The correct answer is $60000$. To find the value of $p$, we need to relate the volume of container Z to the volume of container Y using the given percentage relationships. First, express the volume of container X in terms of container Y: since X is $372\\%$ of Y, we have $X = 3.72Y$ (converting $372\\%$ to decimal form). Second, express the volume of container X in terms of container Z: since X is $0.620\\%$ of Z, we have $X = 0.00620Z$ (converting $0.620\\%$ to decimal form). Since both expressions equal X, we can set them equal: $3.72Y = 0.00620Z$. Solving for Z in terms of Y: $Z = \\frac{3.72Y}{0.00620} = \\frac{3.72}{0.00620} \\cdot Y$. To calculate $\\frac{3.72}{0.00620}$, multiply both numerator and denominator by $1000$ to eliminate decimals: $\\frac{3720}{6.20} = \\frac{37200}{62} = 600$. Therefore, $Z = 600Y$, which means container Z's volume is $600$ times container Y's volume. To convert this to a percentage, multiply by $100$: $600 \\times 100 = 60000$. Thus, the volume of container Z is $60000\\%$ of the volume of container Y, so $p = 60000$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=ddf7dbe3",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

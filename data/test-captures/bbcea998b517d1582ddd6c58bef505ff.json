@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bbcea998b517d1582ddd6c58bef505ff",
+  "capturedAt": "2026-11-18T13:25:51.794Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Multi-Word Phrase",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Research on Silene acaulis and other alpine plants of the Caryophyllaceae family has shown that they have vivid coloration due to high levels of anthocyanin production, which was once thought to be related to their high-altitude environments. Recently, researchers have found that some low-altitude Caryophyllaceae species (such as Dianthus caryophyllus) also have vivid coloration, raising the possibility that anthocyanin production in Caryophyllaceae could be ______ altitude.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "irrespective of",
+    "B": "mediated by",
+    "C": "predictive of",
+    "D": "obscured by"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most logically completes the text's discussion of anthocyanin production in Caryophyllaceae. In this context, 'irrespective of' means regardless of or independent of. The passage establishes that vivid coloration was once thought to be related to high-altitude environments, but researchers have now found the same trait in low-altitude species like Dianthus caryophyllus. Since the trait appears at both high and low altitudes, anthocyanin production must be independent of altitude—precisely what 'irrespective of' conveys.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=06c226cb",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 4,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

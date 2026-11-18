@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "29ea28b6bb01deee7d84f76949f6f0e0",
+  "capturedAt": "2026-11-18T13:26:25.744Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $3x + 7 = 25$, what is the value of $30x + 70$?",
+  "choices": {
+    "A": "$60$",
+    "B": "$250$",
+    "C": "$6$",
+    "D": "$180$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The most efficient method recognizes that $30x + 70$ can be factored as $10(3x + 7)$. Since the given equation states that $3x + 7 = 25$, substituting this value gives $10(25) = 250$. Alternatively, solving the given equation for $x$ first: subtracting $7$ from both sides gives $3x = 18$, so $x = 6$. Then evaluating the target expression: $30x + 70 = 30(6) + 70 = 180 + 70 = 250$. Both methods yield the same result.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=38f57a64",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

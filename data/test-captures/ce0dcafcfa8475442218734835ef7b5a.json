@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ce0dcafcfa8475442218734835ef7b5a",
+  "capturedAt": "2026-11-18T13:26:46.346Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$23x + 24y = c$$\n\n$$24x + 23y = c$$\n\nIn the given system of equations, $c$ is a positive constant. Which of the following could be the point where the graphs of the equations in this system intersect in the $xy$-plane?",
+  "choices": {
+    "A": "$(c, 0)$",
+    "B": "$(c, \\frac{c}{(47)})$",
+    "C": "$(8, 504)$",
+    "D": "$(8, 8)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find the intersection, subtract the first equation from the second: $(24x + 23y) - (23x + 24y) = 0$, which gives $x - y = 0$, so $x = y$. Any intersection point must have equal $x$ and $y$ coordinates. For $(8, 8)$: substituting into the first equation gives $23(8) + 24(8) = 184 + 192 = 376$. Since $376$ is positive, $c = 376$ works, making $(8, 8)$ a valid intersection point.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=ede32e45",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

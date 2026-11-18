@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d32ec81e5406c6cc105be07246c25745",
+  "capturedAt": "2026-11-18T13:26:40.561Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $h$ shown gives the height, $h(t)$, in centimeters, of water remaining in a draining tank $t$ minutes after the tank began draining. Which statement is the best interpretation of $h(7)=74$?",
+  "choices": {
+    "A": "The height of water remaining in the tank decreased by a total of $7$ centimeters after $74$ minutes.",
+    "B": "The height of water in the tank was $7$ centimeters $74$ minutes after the tank began draining.",
+    "C": "The height of water in the tank was $74$ centimeters $7$ minutes after the tank began draining.",
+    "D": "The height of water remaining in the tank decreased by a total of $74$ centimeters after $7$ minutes."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The function notation $h(t)$ represents the height of water in centimeters as a function of time $t$ in minutes. When evaluating $h(7)$, the input is $t=7$ minutes, and the output is $h(7)=74$ centimeters. The notation $h(7)=74$ means that at $t=7$ minutes after draining began, the height of water remaining in the tank is $74$ centimeters. Therefore, the statement 'The height of water in the tank was $74$ centimeters $7$ minutes after the tank began draining' correctly interprets the function notation by identifying $7$ as the input (time elapsed) and $74$ as the output (remaining water height).",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=722e62a1",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

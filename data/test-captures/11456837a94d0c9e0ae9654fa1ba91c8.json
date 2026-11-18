@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "11456837a94d0c9e0ae9654fa1ba91c8",
+  "capturedAt": "2026-11-18T13:26:24.487Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $24(x^{2} - 6)$?",
+  "choices": {
+    "A": "$24x^{2} + 18$",
+    "B": "$24x^{2} - 30$",
+    "C": "$24x^{2} - 6$",
+    "D": "$24x^{2} - 144$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find an equivalent expression, the distributive property must be applied. The distributive property states that $a(b - c) = ab - ac$ for all real numbers $a$, $b$, and $c$. Applying this property to $24(x^2 - 6)$ gives $24 \\cdot x^2 - 24 \\cdot 6$. Simplifying each term: $24 \\cdot x^2 = 24x^2$ (the coefficient $24$ multiplies the variable term, with the exponent remaining unchanged), and $24 \\cdot 6 = 144$. Therefore, $24(x^2 - 6) = 24x^2 - 144$. This expression is equivalent to the original.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=9b578fc1",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

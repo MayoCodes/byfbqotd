@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "180b806f45633c31991932ad89108062",
+  "capturedAt": "2026-11-18T13:26:38.701Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The quadratic equation $(5y - 43)^{2} = k$, where $k$ is a constant, has exactly one real solution. What is the value of $k$?",
+  "choices": {},
+  "correctAnswer": "$$0$$",
+  "explanation": "The correct answer is $0$. The equation $(5y - 43)^2 = k$ is in perfect square form. Since any squared expression is always greater than or equal to zero, $(5y - 43)^2 \\geq 0$ for all real values of $y$. The expression $(5y - 43)^2$ equals zero when $5y - 43 = 0$, which occurs at $y = \\frac{43}{5}$. For any other value of $y$, $(5y - 43)^2 > 0$. Therefore, if $k < 0$, the equation has no real solutions. If $k = 0$, the equation has exactly one real solution (at $y = \\frac{43}{5}$). If $k > 0$, the equation has two real solutions (corresponding to $5y - 43 = \\sqrt{k}$ and $5y - 43 = -\\sqrt{k}$). Since the question specifies exactly one real solution, $k = 0$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=97cd53ee",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 22,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

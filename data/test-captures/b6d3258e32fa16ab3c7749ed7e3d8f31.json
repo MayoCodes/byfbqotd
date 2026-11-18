@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b6d3258e32fa16ab3c7749ed7e3d8f31",
+  "capturedAt": "2026-11-18T13:26:06.609Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Marina is the nickname of a Mosasaur fossil specimen housed at the San Diego Natural History Museum.\n• The San Diego Natural History Museum is located in San Diego, California.\n• Marina lived in the Late Cretaceous period.\n• Bruce is the nickname of a Mosasaur fossil specimen housed at the Field Museum.\n• The Field Museum is located in Chicago, Illinois.\n• Bruce lived in the Late Cretaceous period.",
+  "prompt": "The student wants to contrast the locations of the two specimens. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The Mosasaur fossil specimen Marina is not the only such specimen currently housed in a museum or institute.",
+    "B": "Marina is housed at the San Diego Natural History Museum in San Diego, California, while Bruce is housed at the Field Museum in Chicago, Illinois.",
+    "C": "The Field Museum in Chicago, Illinois, houses Bruce, a Mosasaur fossil specimen.",
+    "D": "Like Marina, Bruce is a Mosasaur fossil specimen that lived in the Late Cretaceous period."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it effectively accomplishes the goal of contrasting the locations of the two specimens by presenting specific geographic information for both Marina and Bruce. The sentence structure uses 'while' to create a clear contrast, noting that Marina is housed at the San Diego Natural History Museum in San Diego, California, while Bruce is housed at the Field Museum in Chicago, Illinois. This choice directly addresses the task by providing complete location details for both specimens and explicitly positioning them in opposition to one another through the contrasting conjunction.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=e9014542",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 27,
+    "subject": "English",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9a2422f53fd1be52982a10bf73183ff1",
+  "capturedAt": "2026-11-18T13:26:36.765Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation is given as $\\frac{(|3y - 36| + 6)}{4} = 9$. What is the sum of the solutions to the given equation?",
+  "choices": {
+    "A": "$2$",
+    "B": "$22$",
+    "C": "$24$",
+    "D": "$36$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To solve an equation involving an absolute value, first isolate the absolute value expression. Multiplying both sides of the given equation by $4$ gives $|3y - 36| + 6 = 36$. Subtracting $6$ from both sides yields $|3y - 36| = 30$. By the definition of absolute value, this equation is equivalent to two cases: $3y - 36 = 30$ or $3y - 36 = -30$. For the first case, adding $36$ to both sides gives $3y = 66$, so $y = 22$. For the second case, adding $36$ to both sides gives $3y = 6$, so $y = 2$. Therefore, the two solutions to the equation are $y = 22$ and $y = 2$. The question asks for the sum of the solutions, which is $22 + 2 = 24$.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=6f167df5",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

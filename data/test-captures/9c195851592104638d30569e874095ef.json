@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9c195851592104638d30569e874095ef",
+  "capturedAt": "2026-11-18T13:26:50.290Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At different times during an experiment, a biologist recorded the population of bacteria in a culture. An exponential model gives the estimated population, $P$, of bacteria in the culture $t$ hours after observation started, where $t \\le 4$. Based on the model, $120$ bacteria were estimated to be in the culture when observation started, and every $20$ minutes the estimated population increased by $150%$ of the estimated population $20$ minutes earlier. Which of the following equations best represents this model?",
+  "choices": {
+    "A": "$P = 120\\frac{(1.50)^{1}}{(20)}$",
+    "B": "$P = 120\\frac{(2.50)^{1}}{(20)}$",
+    "C": "$P = 120(1.50)^{3}t$",
+    "D": "$P = 120(2.50)^{3}t$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. An exponential growth model has the form $P = P_0 \\cdot b^t$, where $P_0$ is the initial value and $b$ is the growth factor per time unit. The problem states that $120$ bacteria were present when observation started, so $P_0 = 120$. The phrase 'increased by $150\\%$ of the estimated population' means the new population equals the original population plus $150\\%$ of the original population: $P_{\\text{new}} = P_{\\text{old}} + 1.50 \\cdot P_{\\text{old}} = 2.50 \\cdot P_{\\text{old}}$. Therefore, the growth factor per $20$-minute period is $b = 2.50$. Since $t$ is measured in hours and the growth occurs every $20$ minutes, there are $\\frac{60}{20} = 3$ periods of $20$ minutes in each hour. Thus, in $t$ hours, there are $3t$ growth periods. The model becomes $P = 120(2.50)^{3t}$, which matches Choice D.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=686e860d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 17,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

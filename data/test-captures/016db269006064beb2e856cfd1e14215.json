@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "016db269006064beb2e856cfd1e14215",
+  "capturedAt": "2026-11-18T13:26:51.560Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The functions $h$ and $k$ are defined by the given equations, where $t > 0$, $m$ and $n$ are integer constants, $m < n$, and $m > 1$. If $y = h(t)$ and $y = k(t)$ are graphed in the $ty$-plane, which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where $t \\ge 0$?\n\nI. $h(t) = m(0.38)^-t$\n\nII. $k(t) = m(1.72)^t-1 + n$",
+  "choices": {
+    "A": "II only",
+    "B": "I only",
+    "C": "I and II",
+    "D": "Neither I nor II"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For equation I, $h(t) = m(0.38)^{-t}$, applying the negative exponent rule gives $h(t) = m \\left(\\frac{1}{0.38}\\right)^t = m(2.632...)^t$. Since the base $2.632 > 1$, this is exponential growth for $t \\geq 0$. The minimum value occurs at the left endpoint: $h(0) = m(2.632)^0 = m(1) = m$. Therefore, the coefficient $m$ explicitly displays the minimum value of function $h$ over the domain $t \\geq 0$. For equation II, $k(t) = m(1.72)^{t-1} + n$, since the base $1.72 > 1$, this is exponential growth. The minimum value over $t \\geq 0$ occurs at $t = 0$: $k(0) = m(1.72)^{-1} + n = \\frac{m}{1.72} + n \\approx 0.581m + n$. Since $m > 1$, this minimum value is approximately $0.581m + n$, which is not explicitly displayed as any single constant or coefficient in the equation. The constant $n$ represents the horizontal asymptote as $t \\to -\\infty$, not the minimum value for $t \\geq 0$. Therefore, only equation I displays its minimum value explicitly, making 'I only' the correct answer.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=14e9d50b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}

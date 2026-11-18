@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3f8f6cbe0c0fae199bad731e28d416ee",
+  "capturedAt": "2026-11-18T13:26:50.908Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Number of Solutions",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$30(x-2)=5(6x-12)$$\n\nHow many solutions does the given equation have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Expanding both sides: $30(x-2)=30x-60$ and $5(6x-12)=30x-60$. The equation becomes $30x-60=30x-60$, which is an identity true for all values of $x$. Therefore, the equation has infinitely many solutions.",
+  "source": "https://cooksat.com/practice-test-review/10?questionId=c7a58d3f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 18,
+    "subject": "Math",
+    "testId": "10",
+    "title": "Practice Test 10"
+  }
+}
