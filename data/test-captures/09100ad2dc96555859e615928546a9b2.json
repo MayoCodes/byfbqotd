@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "09100ad2dc96555859e615928546a9b2",
+  "capturedAt": "2026-11-18T13:24:01.816Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A museum is giving away free passes every day. The equation $g(x) = 240 - 15x$ gives the number of free passes, $g(x)$, that remain to be given away after $x$ days. Which of the following is the best interpretation of $g(16) = 0$ in this context?",
+  "choices": {
+    "A": "The museum has $16$ free passes to give away.",
+    "B": "The museum will give away $16$ free passes in $15$ days.",
+    "C": "It will take $16$ days to give away all the free passes.",
+    "D": "It will take $240$ days to give away $16$ free passes."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The equation $g(x) = 240 - 15x$ represents the number of free passes remaining after $x$ days. In the expression $g(16) = 0$, the input value $16$ represents the number of days, and the output value $0$ represents the number of passes remaining. Therefore, $g(16) = 0$ means that after $16$ days, $0$ free passes remain to be given away. This is equivalent to saying it will take $16$ days to give away all the free passes.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=f8ab1a8e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

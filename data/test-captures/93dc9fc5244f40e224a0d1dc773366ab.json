@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "93dc9fc5244f40e224a0d1dc773366ab",
+  "capturedAt": "2026-11-18T13:24:03.730Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A right circular cylinder has a volume of $17,496\\pi$ cubic inches. The height of the cylinder is $3$ times its radius. What is the radius, in inches, of the cylinder?",
+  "choices": {
+    "A": "$18$",
+    "B": "$54$",
+    "C": "$324$",
+    "D": "$972$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The volume $V$ of a right circular cylinder is given by the formula $V = \\pi r^2 h$, where $r$ is the radius and $h$ is the height. The problem states that the height is $3$ times the radius, so $h = 3r$. Substituting this into the volume formula gives $V = \\pi r^2(3r) = 3\\pi r^3$. Setting this equal to the given volume: $17{,}496\\pi = 3\\pi r^3$. Dividing both sides by $3\\pi$ gives $r^3 = \\frac{17{,}496}{3} = 5{,}832$. Taking the cube root of both sides yields $r = \\sqrt[3]{5{,}832} = 18$ inches.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=60b8cde6",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 8,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

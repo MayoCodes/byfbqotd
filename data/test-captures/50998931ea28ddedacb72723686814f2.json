@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50998931ea28ddedacb72723686814f2",
+  "capturedAt": "2026-11-18T13:23:43.454Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "On a certain day in December, the lowest recorded temperature in a city was $15$ degrees Fahrenheit ($°F$) and the highest recorded temperature was $38°F$. Which inequality is true for all values of $t$, where $t$ represents any temperature, in °F, recorded in the city on this day?",
+  "choices": {
+    "A": "$15 \\le t \\le 38$",
+    "B": "$t \\le 27$",
+    "C": "$t \\ge 38$",
+    "D": "$t \\le 15$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The problem states that the lowest recorded temperature was $15°F$ and the highest was $38°F$. This means every temperature $t$ recorded that day must be at least $15°F$ (so $t \\geq 15$) and at most $38$°F (so $t \\leq 38$). Combining these constraints yields the compound inequality $15 \\leq t \\leq 38$, which is true for all recorded temperature values.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=a0c071de",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

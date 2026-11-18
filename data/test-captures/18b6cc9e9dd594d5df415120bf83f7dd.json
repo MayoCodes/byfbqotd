@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "18b6cc9e9dd594d5df415120bf83f7dd",
+  "capturedAt": "2026-11-18T13:23:13.242Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Layla Hassan and team studied the effect of artificial light on fireflies (Photinus pyralis), nocturnal insects that are sensitive to photic changes in their environment. Hypothesizing that elevated light levels affect courtship among fireflies, Hassan's team compared firefly flash patterns in natural darkness conditions with those behaviors in two artificial light exposure conditions—streetlight illumination and streetlight illumination coupled with intermittent spotlight pulses. Both exposure conditions resulted in significant decreases in the frequency and intensity of flash signals (associated with courtship) relative to natural conditions. However, differences between signaling behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that ______.",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "the fireflies weren't as sensitive to artificial light as the researchers had predicted.",
+    "B": "streetlight illumination contributes so much to the overall light level that the addition of spotlight pulses has little effect on the fireflies' photic environment.",
+    "C": "fireflies produce flash signals at lower frequencies in the presence of streetlight illumination alone than in the presence of streetlight illumination coupled with spotlight pulses.",
+    "D": "spotlight pulses can be detected at significantly greater distances than streetlight illumination can."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most logically explains why the two artificial light conditions produced negligible differences in firefly behavior. The text indicates that both streetlight illumination alone and streetlight illumination combined with spotlight pulses significantly reduced flash signals compared to natural darkness, but differences between these two conditions were negligible. Choice B resolves this by suggesting a ceiling effect: if streetlight illumination already contributes so much light that it maximally disrupts courtship behavior, then adding spotlight pulses provides minimal incremental change to the overall photic environment.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=8310a612",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 9,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

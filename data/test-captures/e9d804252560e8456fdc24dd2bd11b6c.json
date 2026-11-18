@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e9d804252560e8456fdc24dd2bd11b6c",
+  "capturedAt": "2026-11-18T13:24:03.090Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $\\frac{(7x)}{3} - 8 = \\frac{(63)}{3} - 8$, what is the value of $7x$?",
+  "choices": {
+    "A": "$9$",
+    "B": "$21$",
+    "C": "$63$",
+    "D": "$70$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The subtraction property of equality states that if two expressions are equal, and the same value is subtracted from both, the results remain equal. In the equation $\\frac{7x}{3} - 8 = \\frac{63}{3} - 8$, the same value ($8$) is subtracted from both sides. Therefore, $\\frac{7x}{3} = \\frac{63}{3}$. Multiplying both sides of this equation by $3$ gives $7x = 63$. Thus, the value of $7x$ is $63$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=68499d2f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

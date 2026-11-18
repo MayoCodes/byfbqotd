@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b58a5c0c4cc4f645788d1c97f3944c4e",
+  "capturedAt": "2026-11-18T13:23:23.150Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Lakpa Sherpa is a Nepali climber.\n• Ama Dablam is a mountain peak.\n• Sherpa completed a solo climb to the summit of Ama Dablam in 18 days.\n• Sofia Andersson is a Swedish climber.\n• Broad Peak is a mountain peak.\n• Andersson completed a solo climb to the summit of Broad Peak in 26 days.",
+  "prompt": "The student wants to compare the durations of the two climbers' expeditions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Both Andersson and Sherpa embarked on climbing expeditions to mountain summits.",
+    "B": "Andersson's expedition took place on Broad Peak, while Sherpa climbed Ama Dablam.",
+    "C": "Andersson's 26-day expedition to the summit took longer than Sherpa's 18-day climb.",
+    "D": "Nepali climber Lakpa Sherpa reached the summit of Ama Dablam in 18 days."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively accomplishes the goal of comparing the durations of the two climbers' expeditions. The sentence includes both specific numerical durations from the notes—Andersson's 26-day expedition and Sherpa's 18-day climb—and uses explicit comparative language ('took longer than') to establish the relationship between them. By presenting both data points alongside comparative phrasing, this choice enables readers to understand not only how long each expedition took but also how the durations relate to each other, fulfilling the requirement to compare.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=884cca9f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 24,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

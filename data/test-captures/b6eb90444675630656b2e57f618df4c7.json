@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b6eb90444675630656b2e57f618df4c7",
+  "capturedAt": "2026-11-18T13:23:29.524Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Social Science/History",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In 2003, the US state of California enacted emissions reduction standards (ERSs), constraining manufacturing companies' latitude to operate older, high-emission facilities once the standards were implemented. Although ERSs are intended to benefit the environment and public health, Caleb Turner and Kevin Tanaka note that ERSs could curtail manufacturers' profits to such a degree that manufacturers relocate out of state, thereby reducing the competitive pressure that typically restrains product prices for newly released items. To determine whether this occurred in California, students first collect data on the number of manufacturing facilities in the state for a few years leading up to and following 2003 and the product prices for new items offered by those manufacturers.",
+  "prompt": "Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?",
+  "choices": {
+    "A": "Compare changes over time within each of the two types of data the students have collected with changes over time in the same types of data from California for a period beginning several years after 2003.",
+    "B": "Compare changes over time in the facility-number data the students have collected with changes over time in facility-number data from another state that enacted ERSs but not during the same period.",
+    "C": "Compare changes over time within each of the two types of data the students have collected with changes over time in analogous data for the same period from an otherwise similar state that had not enacted ERSs.",
+    "D": "Compare changes over time in the product price data the students have collected with changes over time in product prices for items that were already on the market during the same period in an otherwise similar state that had not enacted ERSs."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it describes the most methodologically sound approach for determining whether ERSs caused the hypothesized effects. To establish that ERSs specifically led to manufacturer relocation and increased prices for new items, the students need a control group: an otherwise similar state without ERSs during the same time period. This comparison isolates the policy's effect from other temporal factors (economic trends, technological changes) that might have affected all states. By comparing both data types—facility numbers and product prices for new items—with analogous control data, the students can determine whether changes were attributable to ERSs rather than broader trends.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=0cafc0b3",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 7,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

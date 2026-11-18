@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f394cb794b934ed7290e17596e55498f",
+  "capturedAt": "2026-11-18T13:24:00.375Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nFor a linear function $g$, the table shows three values of $x$ and their corresponding values of $g(x)$. Which of the following could define $g$?",
+  "choices": {
+    "A": "$g(x) = 4x+3$",
+    "B": "$g(x) = 3x+4$",
+    "C": "$g(x) = x+4$",
+    "D": "$g(x) = 3x$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For a linear function in the form $g(x) = mx + b$, the value of $b$ represents the $y$-intercept, which is the value of $g(x)$ when $x = 0$. From the table, when $x = 0$, $g(x) = 4$, so $b = 4$. The value of $m$ represents the slope, which can be calculated as the change in $g(x)$ divided by the change in $x$. Using the first two points: $m = \\frac{7 - 4}{1 - 0} = \\frac{3}{1} = 3$. Therefore, $g(x) = 3x + 4$. This can be verified: $g(0) = 3(0) + 4 = 4$, $g(1) = 3(1) + 4 = 7$, and $g(2) = 3(2) + 4 = 10$, which matches all values in the table.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=f09827e6",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/f394cb794b934ed7290e17596e55498f/1-5241ba708f9acfb6.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

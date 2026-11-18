@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c835b621716a2f6a705ce1192da05470",
+  "capturedAt": "2026-11-18T13:23:18.111Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "PET scans of metabolic activity in the brain, ______ increased activity in brain regions associated with processing spatial reasoning tasks.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "positron emission tomography images show that while analyzing complex endgame positions, the highest-rated chess grandmasters have",
+    "B": "analyses of complex endgame positions show that the highest-rated chess grandmaster have positron emission tomography images with",
+    "C": "the highest-rated chess grandmasters analyzing complex endgame positions have positron emission tomography images that show",
+    "D": "complex endgame position analyses show that the highest-rated chess grandmasters captured in positron emission tomography images have"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it correctly uses an appositive to define the technical term. The phrase 'positron emission tomography images' functions as an appositive that explains what 'PET scans' are. This appositive is then followed by the main verb 'show,' making the images the grammatical subject that reveals what the scans demonstrate: that chess grandmasters analyzing complex positions have increased brain activity in regions associated with spatial reasoning.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=0dde0ac7",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 16,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

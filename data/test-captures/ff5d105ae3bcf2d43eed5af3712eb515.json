@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff5d105ae3bcf2d43eed5af3712eb515",
+  "capturedAt": "2026-11-18T13:24:01.171Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Surface Area of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The height of a right circular cylinder is $48$ centimeters, and the circumference of its base is $240$ centimeters. Which expression represents the total surface area, in square centimeters, of the cylinder?",
+  "choices": {
+    "A": "$(48)(240) + 2\\pi (\\frac{(120)}{(\\pi )})^{2}$",
+    "B": "$(48)(240) + \\pi (\\frac{(120)}{(\\pi )})^{2}$",
+    "C": "$\\pi (\\frac{(120)}{(\\pi )})^{2}(48)$",
+    "D": "$(48)(240)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The total surface area of a right circular cylinder is the sum of the lateral surface area and the areas of the two circular bases, given by the formula $SA = 2\\pi r^2 + 2\\pi rh$, where $r$ is the radius and $h$ is the height. First, the radius must be found from the circumference. The circumference of a circle is $C = 2\\pi r$, so $240 = 2\\pi r$, which gives $r = \\frac{240}{2\\pi} = \\frac{120}{\\pi}$ centimeters. The lateral surface area can be expressed as $2\\pi rh = (2\\pi r)h = Ch = (240)(48)$ square centimeters. The area of the two circular bases is $2\\pi r^2 = 2\\pi(\\frac{120}{\\pi})^2$ square centimeters. Therefore, the total surface area is $(48)(240) + 2\\pi(\\frac{120}{\\pi})^2$ square centimeters.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=425fb486",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 4,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bb2a4746ab403d3bcaafe4848347dd27",
+  "capturedAt": "2026-11-18T13:23:30.156Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The presence of other individuals of the same species has been observed to mitigate stress in highly social mammals. To investigate whether this phenomenon, known as social buffering, also occurs in prairie voles (Microtus ochrogaster), researchers led by Jennifer Huang monitored stress responses in wild M. ochrogaster in three experimental treatments: when alone, with a small wooden block, and with a companion M. ochrogaster. The researchers compared the percent increase from pre-stress to post-stress corticosterone concentration in response to a mild stressor, with higher values indicating higher stress levels.",
+  "prompt": "Which finding, if true, would most directly support the idea that social buffering occurs among M. ochrogaster?",
+  "choices": {
+    "A": "Solitary M. ochrogaster had higher average pre-stress corticosterone concentrations than did M. ochrogaster in the other treatments, but the average percent increase in corticosterone concentration was smaller among solitary M. ochrogaster than among M. ochrogaster with a companion.",
+    "B": "Average post-stress corticosterone concentrations were highest among solitary M. ochrogaster, but no differences were observed in average post-stress corticosterone concentrations between M. ochrogaster with a companion and M. ochrogaster with a wooden block.",
+    "C": "M. ochrogaster with a companion displayed a lower average pre-stress corticosterone concentration and lower average post-stress corticosterone concentration than did solitary M. ochrogaster or M. ochrogaster with a wooden block.",
+    "D": "The average percent increase in corticosterone concentration was lower among M. ochrogaster with a companion than among solitary M. ochrogaster and M. ochrogaster with a wooden block."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents a finding that would directly support social buffering in M. ochrogaster. The text indicates that the researchers measured stress response using percent increase in corticosterone concentration, with higher values indicating higher stress. Choice D shows that voles with a companion had a lower percent increase than both solitary voles and voles with a wooden block, demonstrating that the companion's presence specifically reduced stress response—the defining characteristic of social buffering.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=3b11c675",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 8,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

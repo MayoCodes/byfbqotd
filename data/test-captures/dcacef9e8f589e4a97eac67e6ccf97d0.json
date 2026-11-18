@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dcacef9e8f589e4a97eac67e6ccf97d0",
+  "capturedAt": "2026-11-18T13:23:27.628Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Implementing charter schools, such as Success Academy Charter Schools in New York, is a common education reform strategy, but because charter schools restrict enrollment and divert funding, it's widely thought that they worsen educational equity. This perception is driven in part by the fact that performance assessments often don't capture the spillover effects of innovations linked to charter schools. But Priya Reddy et al. found that competition associated with Success Academy prompts improvements in nearby traditional public schools, resulting in, for instance, higher standardized test scores in surrounding districts.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It introduces a widely held belief about the effect charter schools have on educational equity, proposes a reason for that belief's prevalence, and then details a study whose findings seemingly conflict with that belief.",
+    "B": "It explains how charter schools typically affect educational equity in the regions where they are established, summarizes the findings of several performance studies that support this explanation, and then concedes that a particular charter school is an exception to the general trend.",
+    "C": "It makes a generalization about the difficulty of using charter schools to reconcile equity and innovation priorities, demonstrates why most charter schools fall short of achieving that goal, and then holds up a particular charter school as an example of how that goal can be achieved.",
+    "D": "It states a hypothesis that accounts for why charter schools generally negatively impact educational equity, outlines how a research team's findings support that hypothesis, and then suggests how a novel methodology led a separate team of researchers to a different conclusion."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it accurately maps the passage's three-part structure. First, it introduces 'a widely held belief'—that charter schools 'worsen educational equity' because they 'restrict enrollment and divert funding.' Second, it 'proposes a reason for that belief's prevalence': 'performance assessments often don't capture the spillover effects' of charter school innovations. Third, it 'details a study whose findings seemingly conflict with that belief': Reddy et al.'s research showing charter schools actually prompt 'improvements in nearby traditional public schools,' leading to 'higher standardized test scores.' This finding challenges the conventional wisdom about charter schools and equity.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=4eed989a",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 4,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

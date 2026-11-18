@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "55839602bab775a7fe418ba52e5f4eca",
+  "capturedAt": "2026-11-18T13:24:04.376Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the given equation, $3y^{2} = m$, $m$ is a constant. The equation has no real solution. Which of the following could be the value of $m$?",
+  "choices": {
+    "A": "$-75$",
+    "B": "$0$",
+    "C": "$38$",
+    "D": "$62$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For the equation $3y^2 = m$ to have a real solution, it must be possible to solve for real values of $y$. Dividing both sides by $3$ gives $y^2 = \\frac{m}{3}$. For any real number $y$, the value of $y^2$ is always greater than or equal to zero (that is, $y^2 \\geq 0$). Therefore, for the equation $y^2 = \\frac{m}{3}$ to have a real solution, the value $\\frac{m}{3}$ must be greater than or equal to zero. This means $m \\geq 0$. If $m < 0$, then $\\frac{m}{3} < 0$, and there would be no real value of $y$ such that $y^2 = \\frac{m}{3}$ (since $y^2$ cannot be negative for real $y$). Among the answer choices, only $m = -75$ is negative. When $m = -75$, we get $y^2 = \\frac{-75}{3} = -25$, which has no real solution. Therefore, $-75$ is a value of $m$ for which the equation has no real solution.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=a5718c2b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 9,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6f7817f1b96e5a6a1eaa73f12cee7bdc",
+  "capturedAt": "2026-11-18T13:23:16.016Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Medical technology researcher Dr. Priya Reddy asserts that AI-powered diagnostic tools for smartphones and computers are—despite generally failing to detect many subtleties—increasingly supplanting the need to consult medical professionals. Advances in diagnostic algorithm technology have greatly boosted the utility of these tools for straightforward assessments, like identifying symptoms of a common cold, and routine health checks; that said, more complex diagnoses (e.g., in cases involving rare conditions or patients with multiple comorbidities) often depend on clinical context and diagnostic variations.",
+  "prompt": "What does the text most directly suggest about AI diagnostic tools?",
+  "choices": {
+    "A": "They are coming to be embraced by general consumers but are viewed with skepticism by many medical professionals.",
+    "B": "They have gained impressive capabilities but continue to be widely viewed as inadequate for most practical purposes.",
+    "C": "They are becoming simpler to use but are inconsistent in how comprehensively they cover different medical specialties.",
+    "D": "They have improved remarkably over time but remain insufficient to support the complexity called for in certain medical situations."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accurately synthesizes the dual position presented in the text. The passage explicitly states that 'advances in diagnostic algorithm technology have greatly boosted the utility of these tools,' demonstrating remarkable improvement. However, it also notes they are 'generally failing to detect many subtleties' and that 'more complex diagnoses...often depend on clinical context and diagnostic variations'—capabilities the AI tools lack. The phrase 'insufficient to support the complexity called for in certain medical situations' directly corresponds to complex cases 'involving rare conditions or patients with multiple comorbidities' that require judgment beyond what these tools provide.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=476d9fce",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 13,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

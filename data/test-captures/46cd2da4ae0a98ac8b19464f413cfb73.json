@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "46cd2da4ae0a98ac8b19464f413cfb73",
+  "capturedAt": "2026-11-18T13:23:42.844Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = \\frac{(12)}{(17-x)}$. What is the value of $g(x)$ when $x = 14$?",
+  "choices": {},
+  "correctAnswer": "$$4$$",
+  "explanation": "The correct answer is $4$. To find the value of $g(14)$, substitute $x = 14$ into the function definition: $g(14) = \\frac{12}{17-14}$. Simplifying the denominator gives $17 - 14 = 3$. Therefore, $g(14) = \\frac{12}{3} = 4$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=9648c03d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

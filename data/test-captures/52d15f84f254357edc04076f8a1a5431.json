@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "52d15f84f254357edc04076f8a1a5431",
+  "capturedAt": "2026-11-18T13:23:20.010Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The city of Geneva, Switzerland, is home to the headquarters of the World Health Organization (WHO). However, you won't see WHO physicians issuing medical licenses in Geneva. The WHO can make public health recommendations, but only Swiss authorities ______ permitted to grant medical licenses there.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are",
+    "B": "had been",
+    "C": "were",
+    "D": "were being"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is verb tense consistency. The present tense plural verb 'are' correctly agrees in number with the plural subject 'Swiss authorities' and maintains temporal consistency with the rest of the passage. The text establishes a present tense context with 'is home to' and 'can make,' both describing current facts about WHO operations and jurisdictional authority. The statement about Swiss authorities being permitted to grant medical licenses describes an ongoing, present reality about legal jurisdiction, making the present tense appropriate.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=76ce0ff8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 19,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

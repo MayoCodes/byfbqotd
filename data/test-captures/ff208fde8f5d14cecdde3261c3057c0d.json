@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff208fde8f5d14cecdde3261c3057c0d",
+  "capturedAt": "2026-11-18T13:23:11.363Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Identify Main Purpose",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The following text is from Grace Yamamoto's 1972 poem \"Elegy for Entertainment.\" The Riverside Theater in Detroit closed permanently in 1968. ©2005 by Grace Yamamoto.\n\nThe old Riverside Theater stands\nin a wasteland of weeds now. Its marquee letters are missing.\nThe velvet seats show exposed springs.\nThe stage curtain hangs in tatters.",
+  "prompt": "Which choice best states the main purpose of the text?",
+  "choices": {
+    "A": "To contrast the effects of different kinds of weather on a building.",
+    "B": "To argue that a building should be rehabilitated.",
+    "C": "To explain why a once-popular building was abandoned.",
+    "D": "To describe details of the deteriorated state of a building."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because the text describes details of a building's deteriorated state. The poem excerpt consists entirely of concrete, observational details documenting the Riverside Theater's decay: it 'stands in a wasteland of weeds,' 'its marquee letters are missing,' 'the velvet seats show exposed springs,' and 'the stage curtain hangs in tatters.' Each line contributes a specific visual detail illustrating deterioration, progressing from exterior surroundings to interior elements. The text does not argue for any action, explain causes, or make comparisons—it simply catalogs observable signs of abandonment and decay.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=328defd5",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 7,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

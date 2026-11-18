@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8829d8eb8733a898fbe874b784f7e94f",
+  "capturedAt": "2026-11-18T13:23:52.085Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the $xy$-plane has its center at $(-4,1)$, and the point $(2,-3)$ lies on the circle. Which equation represents this circle?",
+  "choices": {
+    "A": "$(x+4)^{2}+(y-1)^{2}=52$",
+    "B": "$(x+4)^{2}+(y-1)^{2}=20$",
+    "C": "$(x-4)^{2}+(y+1)^{2}=52$",
+    "D": "$(x-4)^{2}+(y+1)^{2}=20$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The standard form of a circle's equation is $(x-h)^2 + (y-k)^2 = r^2$, where $(h,k)$ is the center and $r$ is the radius. With center $(-4,1)$, the equation becomes $(x-(-4))^2 + (y-1)^2 = r^2$, which simplifies to $(x+4)^2 + (y-1)^2 = r^2$. To find $r^2$, use the distance formula between the center $(-4,1)$ and the point $(2,-3)$ on the circle: $r^2 = (2-(-4))^2 + (-3-1)^2 = 6^2 + (-4)^2 = 36 + 16 = 52$. Therefore, the equation is $(x+4)^2 + (y-1)^2 = 52$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=137be763",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

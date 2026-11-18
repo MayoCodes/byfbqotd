@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "11824b02e49892498bd6ee8fe4fd3508",
+  "capturedAt": "2026-11-18T13:23:52.744Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A tutoring center charges an enrollment fee for the first $2$ sessions and then charges a fixed fee for each additional session. One student took $6$ sessions and was charged $$110$. Another student took $14$ sessions and was charged $$270$. Which function, $f$, gives the total charge, in dollars, for any student who took $x$ sessions, where $x > 2$?",
+  "choices": {
+    "A": "$f(x) = 20x - 10$",
+    "B": "$f(x) = 18x + 30$",
+    "C": "$f(x) = 20x$",
+    "D": "$f(x) = 18x$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Let $E$ be the enrollment fee for the first $2$ sessions and $r$ be the fee per additional session. For $x$ sessions where $x > 2$, the total charge is $f(x) = E + r(x - 2)$. Using the given data: $110 = E + 4r$ (for $6$ sessions) and $270 = E + 12r$ (for $14$ sessions). Subtracting: $160 = 8r$, so $r = 20$. Substituting back: $110 = E + 80$, so $E = 30$. Therefore, $f(x) = 30 + 20(x - 2) = 20x - 10$. Verification: $f(6) = 110$ and $f(14) = 270$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=80a61405",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

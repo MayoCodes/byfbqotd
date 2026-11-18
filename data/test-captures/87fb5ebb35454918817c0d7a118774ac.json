@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "87fb5ebb35454918817c0d7a118774ac",
+  "capturedAt": "2026-11-18T13:23:54.664Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The equation gives a volume $x$, in liters, of a $15%$ acid solution that could be mixed with a volume $y$, in liters, of a $25%$ acid solution to produce a $23%$ acid solution. According to this equation, what volume, in liters, of the $25%$ acid solution must be mixed with $30.0$ liters of the $15%$ acid solution to produce a $23%$ acid solution? (Assume that the volume of the mixture is the sum of the volumes of the two solutions before they were mixed.)",
+  "choices": {},
+  "correctAnswer": "$$120$$",
+  "explanation": "The correct answer is $120$. To find the volume $y$ when $x = 30.0$ liters, substitute this value into the given equation and solve for $y$. Starting with $0.15x + 0.25y = 0.23(x + y)$, expand the right side: $0.15x + 0.25y = 0.23x + 0.23y$. Rearranging to collect like terms, subtract $0.23y$ from both sides and subtract $0.15x$ from both sides: $0.25y - 0.23y = 0.23x - 0.15x$. Simplifying the coefficients: $0.02y = 0.08x$. Dividing both sides by $0.02$: $y = \\frac{0.08x}{0.02} = 4x$. This shows that the volume of the $25\\%$ solution must be $4$ times the volume of the $15\\%$ solution. Substituting $x = 30.0$ liters: $y = 4(30.0) = 120$ liters. Therefore, $120$ liters of the $25\\%$ acid solution must be mixed with $30.0$ liters of the $15\\%$ acid solution to produce a $23\\%$ acid solution.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=e0ee88eb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

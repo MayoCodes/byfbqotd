@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3ba605dd34275431a5c0822fce51e323",
+  "capturedAt": "2026-11-18T13:23:25.046Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The human body contains cells that benefit from compounds called antioxidants.\n• Antioxidants are found in a variety of foods, including dark chocolate and green tea.\n• Participants in a study consumed a sample of strawberries, a type of berry.\n• They rated its antioxidant levels as moderate.\n• The participants consumed a sample of blueberries, another type of berry.\n• They rated its antioxidant levels as high.",
+  "prompt": "The student wants to emphasize a difference between the two berries. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "After consuming two types of berries, strawberries and blueberries, participants in a study found blueberries' antioxidant content to be the higher of the two.",
+    "B": "While strawberries and blueberries contain antioxidants, these compounds can also be found in dark chocolate and green tea.",
+    "C": "Strawberries are a type of berry, but so are blueberries.",
+    "D": "Some types of berries, like strawberries and blueberries, provide antioxidants that benefit human cells."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively emphasizes the difference between the two berries by using explicit comparative language. The phrase 'the higher of the two' directly contrasts blueberries' high antioxidant levels (from note 6) with strawberries' moderate levels (from note 4). By structuring the sentence around this comparison, Choice A foregrounds the distinguishing characteristic between the berries, which precisely fulfills the rhetorical goal of emphasizing their difference.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=07cbd689",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 27,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

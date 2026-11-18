@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4dfc38f2eb46f2b5fa09bb020e4341b0",
+  "capturedAt": "2026-11-18T13:23:14.742Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "All advanced ceramics contain varying amounts of metallic oxides, stabilizing additives, and heat-resistant compounds. However, alumina-based ceramic, often used for industrial insulators, contains a higher percentage of aluminum oxide (at least 85%) than does zirconia-based ceramic and a higher concentration of silicon compounds, which is responsible for its thermal insulation properties. Unlike alumina-based ceramic, zirconia-based ceramic has a tetragonal crystalline structure resulting from the addition of yttria to the material. Zirconia-based ceramic has two subtypes: Type I grade, often used for dental crowns, and Type II grade, which has more yttria than Type I grade and is often used for cutting tools or abrasive components. Thus, ceramic material used to manufacture ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "industrial insulators will have a tetragonal crystalline structure.",
+    "B": "abrasive components will have similar thermal insulation properties to ceramic material used to manufacture industrial insulators.",
+    "C": "cutting tools will have a concentration of aluminum oxide lower than 85%, while ceramic material used to manufacture dental crowns will not.",
+    "D": "dental crowns will have a lower percentage of aluminum oxide in its composition than ceramic material used for industrial insulators will."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most logically synthesizes the passage's classification system. The text establishes that alumina-based ceramic, used for industrial insulators, contains at least 85% aluminum oxide. Zirconia-based ceramic is explicitly contrasted with alumina-based ceramic (note the transition \"Unlike alumina-based ceramic, zirconia-based ceramic...\"), indicating it has different compositional properties. Since dental crowns are made from Type I zirconia-based ceramic, they would contain a lower percentage of aluminum oxide than industrial insulators made from alumina-based ceramic with at least 85% aluminum oxide.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=c07f5ba7",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 11,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

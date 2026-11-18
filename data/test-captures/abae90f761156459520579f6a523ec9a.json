@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "abae90f761156459520579f6a523ec9a",
+  "capturedAt": "2026-11-18T13:23:31.412Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response with Qualification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nGood architecture often challenges and disrupts design conventions and aesthetic expectations, but the creation of urban buildings—residential complexes, commercial structures, and public facilities constructed in city neighborhoods—typically requires broad agreement among architects, urban planners, and residents about the structures' design principles and functional goals. Urban architecture that fails to satisfy everyone by being sufficiently architecturally conservative and functionally conventional almost inevitably generates opposition.\n\nText 2\nUrban architecture is commonly encountered in spaces intended for purposes other than deliberate architectural appreciation. Some critics of urban design therefore note that tradition-breaking structures that aren't effectively harmonized with neighboring buildings in a manner that prepares observers to appreciate the structures' merits (as is often the case) tend to be regarded more unfavorably than similarly controversial designs encountered in architecture journals or professional exhibitions are.",
+  "prompt": "Based on the texts, how would the critics mentioned in Text 2 most likely respond to the underlined claim in Text 1?",
+  "choices": {
+    "A": "By arguing that the reason members of the general public might disagree about an urban building's merits is unrelated to the unconventionality of its design and principles.",
+    "B": "By contending that the kinds of reactions controversial urban buildings often receive aren't exclusively the result of attributes inherent in the structures themselves.",
+    "C": "By agreeing with the idea that only structures that are universally appealing are suitable for constructing in urban neighborhoods.",
+    "D": "By disputing the notion that urban planners and residents are easily satisfied by architecture that is intended mainly to reinforce design conventions."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it accurately captures how Text 2's critics would reframe Text 1's claim. Text 1 suggests that urban architecture generates opposition when it fails to be 'sufficiently architecturally conservative,' implying that inherent unconventionality directly causes negative reactions. Text 2's critics, however, offer a more nuanced explanation: tradition-breaking structures receive unfavorable reactions particularly when they 'aren't effectively harmonized with neighboring buildings.' The critics note that 'similarly controversial designs encountered in architecture journals or professional exhibitions' are regarded more favorably, demonstrating that reactions depend not exclusively on inherent attributes but also on contextual factors affecting perception.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=6920a4b5",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "43f179c38ebd10f4fe5a3fe4a0c2a20a",
+  "capturedAt": "2026-11-18T13:23:38.410Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "On March 15, 2018, the research vessel Atlantis departed from port, initiating Expedition ______ twelve days and four hours, the expedition ended when the vessel docked at Port Elizabeth in South Africa.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "AT-47, it spanned",
+    "B": "AT-47 spanning",
+    "C": "AT-47, spanning",
+    "D": "AT-47. Spanning"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between sentences. The period after 'AT-47' correctly marks the boundary between two independent clauses. The first sentence establishes that the vessel departed and initiated the expedition. The second sentence, beginning with the participial phrase 'Spanning twelve days and four hours,' describes when the expedition ended. The capitalized 'Spanning' correctly signals a new sentence.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=3131967e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 21,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

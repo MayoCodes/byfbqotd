@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e0da7ab19b8dcfe5dc077ef78068921a",
+  "capturedAt": "2026-11-18T13:24:05.652Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$0.2484$ is $0.18%$ of the number $p$. The number $p$ is $40%$ of the number $q$. What is the value of $q$?",
+  "choices": {},
+  "correctAnswer": "$$345$$",
+  "explanation": "The correct answer is $345$. The phrase \"$0.2484$ is $0.18\\%$ of the number $p$\" can be translated into the equation $0.2484 = \\frac{0.18}{100} \\times p$, which simplifies to $0.2484 = 0.0018p$. Dividing both sides by $0.0018$ gives $p = \\frac{0.2484}{0.0018} = 138$. Next, the phrase \"the number $p$ is $40\\%$ of the number $q$\" translates to $138 = \\frac{40}{100} \\times q$, which simplifies to $138 = 0.40q$. Dividing both sides by $0.40$ gives $q = \\frac{138}{0.40} = 345$. Therefore, the value of $q$ is $345$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=ea56a93f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "441ed1938818ccfb9f2fa651b90872a1",
+  "capturedAt": "2026-11-18T13:24:12.050Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{3}{4}(8x + 12) = 6y - 3n$$\n\nOne of the equations in a system of two linear equations is given, where $n$ is a constant. The system has no solution. Which equation could be the second equation in this system?",
+  "choices": {
+    "A": "$4x - 4y = -2n - 6$",
+    "B": "$4x + 4y = 2n$",
+    "C": "$4x - 4y = 2n$",
+    "D": "$4x + 4y = -2n - 6$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. First, simplify the given equation: $\\frac{3}{4}(8x + 12) = 6y - 3n$ becomes $6x + 9 = 6y - 3n$, which rearranges to $6x - 6y = -3n - 9$. Dividing by $6$: $x - y = \\frac{-n - 3}{2}$, or in slope-intercept form: $y = x + \\frac{n + 3}{2}$. The slope is $1$. For no solution, the second equation must have the same slope but a different y-intercept. Choice C: $4x - 4y = 2n$ simplifies to $x - y = \\frac{n}{2}$, or $y = x - \\frac{n}{2}$. This has slope $1$ and y-intercept $-\\frac{n}{2}$, which differs from $\\frac{n+3}{2}$. The lines are parallel and distinct, so the system has no solution.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=5ad4cc57",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 21,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b45f8ca1af8d557dbf975c17f981da3c",
+  "capturedAt": "2026-11-18T13:23:24.405Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Use Quotation for Purpose",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Usually, a company's headquarters is also its largest facility by employee count.\n• The headquarters of Amazon is in Seattle, Washington.\n• Its largest facility by employee count is in Bessemer, Alabama.\n• The headquarters of Toyota is in Toyota City, Japan.\n• Its largest facility by employee count is in Georgetown, Kentucky.",
+  "prompt": "The student wants to emphasize a similarity between Bessemer and Georgetown. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "While Bessemer is in Alabama, Georgetown is in Kentucky.",
+    "B": "The headquarters of Amazon is in Seattle; the headquarters of Toyota is in Toyota City.",
+    "C": "The largest facility by employee count for Amazon is in Bessemer, but its headquarters is in Seattle.",
+    "D": "Although neither is a headquarters location, both Bessemer and Georgetown are the sites of the largest facilities by employee count for their companies."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively emphasizes the key similarity between Bessemer and Georgetown using information from the notes. The sentence uses parallel structure ('both...are the sites of the largest facilities by employee count') to highlight what the two cities have in common. Additionally, it emphasizes the significance of this similarity by noting that 'neither is a headquarters location,' which connects to the first note's statement that headquarters are usually also the largest facilities. This choice synthesizes information across multiple notes to present a meaningful comparison.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=fbc82dcc",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 26,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

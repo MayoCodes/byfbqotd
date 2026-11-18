@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff53c6ed8491e32ebbf047608fcba8af",
+  "capturedAt": "2026-11-18T13:23:12.003Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nSince the 1970s, many state legislatures across the United States have seen increasing representation of women among their elected officials, including notable figures such as Ann Richards (who served in the Texas State Senate) and Shirley Chisholm (who served in the New York State Assembly). A policy institute examined historical records about state legislators who identified as women and found that ______ .",
+  "prompt": "Which choice most effectively uses data from the graph to complete the sentence?",
+  "choices": {
+    "A": "from 2005 to 2025, state senates had a higher percentage of those legislators than state houses did",
+    "B": "from 1985 to 2015, those legislators constituted less than a quarter of members in both types of chambers",
+    "C": "from 2005 to 2015, the percentage of those legislators decreased in both types of chambers",
+    "D": "the percentage of those legislators increased to more than 30 percent in both types of chambers from 1975 to 2005"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it accurately describes the data shown in the graph for the specified time period. The graph shows that from 1985 to 2015, state senates had approximately 12%, 18%, 22%, and 22% female legislators at the measured intervals, while state houses had approximately 14%, 20%, 24%, and 24%. Since all of these values are below 25% (one quarter), the statement that female legislators 'constituted less than a quarter of members in both types of chambers' from 1985 to 2015 is accurate and demonstrates effective use of quantitative data.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=8dc93b05",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ff53c6ed8491e32ebbf047608fcba8af/1-9ba8c4f6a7a7f1ee.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 8,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

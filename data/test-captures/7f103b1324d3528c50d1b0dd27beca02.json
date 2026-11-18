@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7f103b1324d3528c50d1b0dd27beca02",
+  "capturedAt": "2026-11-18T13:23:39.050Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Though its onboard sensors allowed it to measure water chemistry in real-time, the 2012 Triton Explorer submersible was unable to collect sediment samples for surface analysis. ______ when creating the 2021 Mariana Sentinel submersible, marine engineer Hassan Mansour and other members of Woods Hole Oceanographic Institution sought to develop a system that could do exactly that.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Specifically,",
+    "B": "Earlier,",
+    "C": "Similarly,",
+    "D": "Hence,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because 'Hence' logically signals that the second sentence describes a consequence of the information in the first sentence. The text establishes that the 2012 Triton Explorer 'was unable to collect sediment samples for surface analysis,' and then states that the 2021 Mariana Sentinel team 'sought to develop a system that could do exactly that.' The design goal for the newer submersible was a direct response to the earlier model's limitation, making 'Hence' the appropriate causal transition to connect these ideas.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=8aafa240",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 22,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

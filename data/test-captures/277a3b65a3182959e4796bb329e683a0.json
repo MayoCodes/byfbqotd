@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "277a3b65a3182959e4796bb329e683a0",
+  "capturedAt": "2026-11-18T13:23:48.717Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Conditional Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At a museum, there are a total of $450$ visitors. Each visitor is located in either Hall 1, Hall 2, or Hall 3. If one of these visitors is selected at random, the probability of selecting a visitor who is located in Hall 1 is $0.32$, and the probability of selecting a visitor who is located in Hall 2 is $0.28$. How many visitors are located in Hall 3?",
+  "choices": {
+    "A": "$40$",
+    "B": "$180$",
+    "C": "$144$",
+    "D": "$126$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Since each visitor is located in exactly one of the three halls, the probabilities of all three locations must sum to $1$. The probability of selecting a visitor in Hall 3 is $P(\\text{Hall 3}) = 1 - P(\\text{Hall 1}) - P(\\text{Hall 2}) = 1 - 0.32 - 0.28 = 0.40$. To find the number of visitors in Hall 3, multiply this probability by the total number of visitors: $0.40 \\times 450 = 180$. Therefore, there are $180$ visitors located in Hall 3.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=952ffdab",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 10,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

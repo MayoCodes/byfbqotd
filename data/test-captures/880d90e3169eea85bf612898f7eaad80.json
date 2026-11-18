@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "880d90e3169eea85bf612898f7eaad80",
+  "capturedAt": "2026-11-18T13:24:10.110Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The quadratic function $h$ models the height, in feet, above ground level of a hot air balloon $t$ seconds after the balloon was launched. The function estimates that the balloon reached its maximum height of $485.6$ feet $12$ seconds after it was launched and then returned to ground level $24$ seconds after it was launched. Based on the function, what was the estimated height, to the nearest foot, of the balloon $15$ seconds after it was launched?",
+  "choices": {},
+  "correctAnswer": "$$455$$",
+  "explanation": "The correct answer is $455$. Since the balloon reaches its maximum height at $t = 12$ seconds and returns to ground level at $t = 24$ seconds, and assuming it was launched from ground level at $t = 0$, the quadratic function has its vertex at $(12, 485.6)$ and x-intercepts at $t = 0$ and $t = 24$. Using vertex form, $h(t) = a(t - 12)^2 + 485.6$. To find $a$, substitute the point $(24, 0)$: $0 = a(24 - 12)^2 + 485.6$, which gives $0 = 144a + 485.6$, so $a = -\\frac{485.6}{144} \\approx -3.372$. Therefore, $h(t) = -3.372(t - 12)^2 + 485.6$. Evaluating at $t = 15$: $h(15) = -3.372(15 - 12)^2 + 485.6 = -3.372(9) + 485.6 = -30.35 + 485.6 = 455.25$. Rounding to the nearest foot gives $455$ feet.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=7f29a3ee",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 18,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

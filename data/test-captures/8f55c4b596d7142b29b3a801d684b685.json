@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8f55c4b596d7142b29b3a801d684b685",
+  "capturedAt": "2026-11-18T13:23:13.878Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nDr. Sofia Mendoza and colleagues demonstrated that applying mechanical pressure to a copper-silicone polymer composite can increase how efficiently heat transfers through the material. At some pressures, thermal conductivity—as measured in watts per meter-kelvin (W/m·K)—was high (more than 40 W/m·K). But the mere application of mechanical pressure is not sufficient to cause increased thermal conductivity, as evidenced by the fact that ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+  "choices": {
+    "A": "at 2 MPa, mean thermal conductivity was lower than it was at both 1 MPa and 3 MPa.",
+    "B": "at 3 MPa, mean thermal conductivity reached its highest observed level at approximately 58 W/m·K.",
+    "C": "at 1 MPa, mean thermal conductivity was approximately equal to thermal conductivity at 0 MPa.",
+    "D": "at 0 MPa, mean thermal conductivity was equal to 0 W/m·K."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it provides evidence supporting the claim that 'the mere application of mechanical pressure is not sufficient to cause increased thermal conductivity.' The graph shows that at 0 MPa, thermal conductivity was approximately 12 W/m·K, and at 1 MPa it remained approximately 12 W/m·K—unchanged despite pressure being applied. This demonstrates that pressure alone does not automatically increase thermal conductivity.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=baffd111",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/8f55c4b596d7142b29b3a801d684b685/1-d3d7134fb614e0fe.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 10,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

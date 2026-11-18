@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fc84011cde7a2f5c0b16109b51f345c1",
+  "capturedAt": "2026-11-18T13:24:10.768Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $PQR$, the measure of angle $P$ is $90°$. Point $S$ lies on segment $QR$, and segment $PS$ is perpendicular to segment $QR$. The length of segment $SQ$ is $572$, and the length of segment $PS$ is $429$. What is the value of $R$?",
+  "choices": {
+    "A": "$\\frac{3}{5}$",
+    "B": "$\\frac{3}{4}$",
+    "C": "$\\frac{4}{5}$",
+    "D": "$\\frac{4}{3}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. In triangle $PQR$ with right angle at $P$, the altitude $PS$ to hypotenuse $QR$ creates similar triangles. To find $\\tan R$, consider right triangle $PSR$ where $\\tan R = \\frac{PS}{SR}$. By the geometric mean theorem, $PS^2 = SQ \\times SR$. Substituting the given values: $429^2 = 572 \\times SR$, so $SR = \\frac{184041}{572}$. Therefore, $\\tan R = \\frac{PS}{SR} = \\frac{429}{\\frac{184041}{572}} = \\frac{429 \\times 572}{184041} = \\frac{245388}{184041} = \\frac{4}{3}$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=4fed71d2",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

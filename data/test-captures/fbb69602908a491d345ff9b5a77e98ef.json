@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fbb69602908a491d345ff9b5a77e98ef",
+  "capturedAt": "2026-11-18T13:24:11.420Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Complete the Square to Standard Form",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The given equation $x^{2} + y^{2} - 8x - 12y - 4k = 0$ represents circle C in the $xy$-plane, where $k$ is a constant. Point $(8,10)$ lies on circle D, which has the same center but twice the diameter as circle C. What is the value of $k$?",
+  "choices": {},
+  "correctAnswer": "$$-11$$",
+  "explanation": "The correct answer is $-11$. To find the center and radius of circle C, complete the square for the given equation $x^2 + y^2 - 8x - 12y - 4k = 0$. Rearranging: $(x^2 - 8x) + (y^2 - 12y) = 4k$. Completing the square: $(x^2 - 8x + 16) + (y^2 - 12y + 36) = 4k + 16 + 36$, which gives $(x-4)^2 + (y-6)^2 = 4k + 52$. This is the standard form of a circle with center $(4,6)$ and radius $r_C = \\sqrt{4k+52}$. Circle D has the same center $(4,6)$ but twice the diameter of circle C. Since circle D has twice the diameter, it also has twice the radius, so $r_D = 2r_C = 2\\sqrt{4k+52}$. The point $(8,10)$ lies on circle D, so it satisfies the equation $(x-4)^2 + (y-6)^2 = r_D^2$. Substituting: $(8-4)^2 + (10-6)^2 = (2\\sqrt{4k+52})^2$. Simplifying the left side: $4^2 + 4^2 = 16 + 16 = 32$. Simplifying the right side: $(2\\sqrt{4k+52})^2 = 4(4k+52) = 16k + 208$. Therefore, $32 = 16k + 208$. Solving for $k$: $16k = 32 - 208 = -176$, so $k = \\frac{-176}{16} = -11$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=d9784d13",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

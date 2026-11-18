@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "57e3c445ff7df3dfb3353d55cea10065",
+  "capturedAt": "2026-11-18T13:23:44.070Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A triangle has a base length of $60$ centimeters and a height of $50$ centimeters. What is the area, in square centimeters, of the triangle?",
+  "choices": {},
+  "correctAnswer": "$$1500$$",
+  "explanation": "The correct answer is $1500$. The area of a triangle is calculated using the formula $A = \\frac{1}{2}bh$, where $b$ is the base length and $h$ is the height. Substituting the given values: $A = \\frac{1}{2}(60)(50)$. First, multiply the base and height: $60 \\times 50 = 3000$. Then multiply by $\\frac{1}{2}$ (or divide by $2$): $A = \\frac{3000}{2} = 1500$ square centimeters. Therefore, the area of the triangle is $1500$ square centimeters.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=fd5c41b0",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

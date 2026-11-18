@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3f2f2c4dbfe35db90427e69deb8b5f2b",
+  "capturedAt": "2026-11-18T13:23:41.584Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• In the medical licensure system that determines where US physicians can practice, a doctor approved by California's medical board can practice only within California's borders.\n• A 2013 report written by medical policy researchers Dr. Jon Thomas and Dr. Alice Cooper proposed that states could instead agree to recognize licenses from other member states through an expedited process.\n• Thomas and Cooper's idea is the basis of the Interstate Medical Licensure Compact (IMLC).\n• If at least 25 states adopt the IMLC, the compact will take effect and adopters will grant practice privileges accordingly.\n• California adopted the IMLC in 2019.",
+  "prompt": "The student wants to explain the significance of California's IMLC adoption. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Because it has adopted the IMLC, California will grant practice privileges only to physicians approved by the state's medical board—once at least 25 states do the same.",
+    "B": "If the IMLC takes effect, adopter California will grant practice privileges to physicians licensed in other member states, rather than only to those approved by California's medical board.",
+    "C": "According to the idea proposed by Thomas and Cooper, physicians approved by California's medical board will be able to practice only within the state if the IMLC takes effect.",
+    "D": "An agreement among US states to recognize medical licenses from other member states through an expedited process was adopted by California in 2019."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it explains the significance of California's IMLC adoption by clearly contrasting the new system with the current one. The first note establishes that California currently grants practice privileges only to physicians approved by its own medical board. Choice B shows how adoption changes this: California will now grant privileges to physicians licensed in other member states, representing a fundamental shift from the state-restricted system described in the notes to the multi-state recognition system proposed by Thomas and Cooper.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=c5b5811e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 26,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

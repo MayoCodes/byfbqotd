@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "22a57ef55019d958bbef62381757459b",
+  "capturedAt": "2026-11-18T13:23:23.775Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The coast redwood is a species of tree found along the California coast.\n• It has an average height of 65 meters.\n• The coastal strawberry is a species of plant found along the California coast.\n• It has an average height of 0.6 meters.",
+  "prompt": "The student wants to emphasize a difference between the two plant species. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "On average, the coast redwood reaches 65 meters in height, while the coastal strawberry reaches only 0.6 meters.",
+    "B": "The coastal strawberry and the coast redwood can be found along the California coast.",
+    "C": "The coast redwood is a tree with an average height of 65 meters.",
+    "D": "The coastal strawberry and the coast redwood are both plant species."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively emphasizes a difference between the two plant species by directly comparing their heights. The sentence uses a comparative structure ('while') to juxtapose the coast redwood's average height of 65 meters with the coastal strawberry's height of 'only' 0.6 meters. The word 'only' further emphasizes the dramatic disparity between the two measurements, making the difference explicit and prominent. This choice draws on the most distinctive quantitative data from the notes to accomplish the stated rhetorical goal.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=1e541aa3",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 25,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

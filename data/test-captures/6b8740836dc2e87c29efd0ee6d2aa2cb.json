@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6b8740836dc2e87c29efd0ee6d2aa2cb",
+  "capturedAt": "2026-11-18T13:24:09.486Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The equation $3|x - 8| = k$, where $k$ is a constant, has exactly one solution. Which of the following could be the value of $\\frac{k}{3}$?",
+  "choices": {
+    "A": "$-8$ or $8$",
+    "B": "$-8$ only",
+    "C": "$0$ only",
+    "D": "$8$ only"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The equation $3|x - 8| = k$ can be rewritten as $|x - 8| = \\frac{k}{3}$. The absolute value expression $|x - 8|$ represents the distance between $x$ and $8$ on the number line, which is always non-negative. For an equation of the form $|x - a| = c$, if $c > 0$, there are exactly two solutions ($x = a + c$ and $x = a - c$); if $c = 0$, there is exactly one solution ($x = a$); and if $c < 0$, there are no solutions. Therefore, for the equation $|x - 8| = \\frac{k}{3}$ to have exactly one solution, $\\frac{k}{3}$ must equal $0$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=88d308af",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 17,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

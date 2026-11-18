@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8b8487720aa793b93ec3372a9d1a73fe",
+  "capturedAt": "2026-11-18T13:23:46.838Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Exterior Angle Theorem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In $PQR$, the measures of both $P$ and $Q$ are equal and the measure of $R$ is $132$. What is the measure of $P$?",
+  "choices": {
+    "A": "$90$",
+    "B": "$66$",
+    "C": "$24$",
+    "D": "$48$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The sum of the interior angles of any triangle is $180$ degrees. In $\\triangle PQR$, this means $\\angle P + \\angle Q + \\angle R = 180$. Since $\\angle P$ and $\\angle Q$ are equal, let each equal $x$. Substituting gives $x + x + 132 = 180$, which simplifies to $2x + 132 = 180$. Subtracting $132$ from both sides yields $2x = 48$. Dividing both sides by $2$ gives $x = 24$. Therefore, the measure of $\\angle P$ is $24$ degrees.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=a45a206c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

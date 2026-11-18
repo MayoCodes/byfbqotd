@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a26c48857b6a7175229513724b2e2704",
+  "capturedAt": "2026-11-18T13:23:28.893Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Soil bacteria are microorganisms that are often exposed to copper pollution. Layla Khoury and colleagues collected samples of four bacterial strains (genetically and geographically distinct populations within a species), along with soil from each strain's habitat. Hypothesizing that each strain is adapted to its local conditions in ways that bolster its metabolic efficiency and resistance to pollutants, the researchers grew each strain in all four soil samples and with three levels of copper (none, low, high). (The researchers did not replicate local differences in pH or moisture.) They found that the strains metabolized nutrients equally efficiently in all four soil samples and that adding copper consistently enhanced metabolic activity, regardless of concentration, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "if each strain is indeed locally adapted as the researchers hypothesized, those adaptations are to other environmental conditions than the soil each strain inhabits.",
+    "B": "there may not be significant differences in the soil that each strain inhabits, but there are significant differences in each strain's resistance to copper pollution.",
+    "C": "although the researchers' hypothesis does not appear to be supported, this may be because the levels of copper exposure the bacteria in the experiment received did not match their exposure in their natural environments.",
+    "D": "while the strains are genetically and geographically distinct, those differences do not represent adaptations to local environmental conditions."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most logically reconciles the experimental results with the researchers' hypothesis. The findings show that all bacterial strains performed equally well in all soil samples and responded identically to copper exposure, which appears to contradict the hypothesis of local adaptation. However, the text explicitly states that the researchers 'did not replicate local differences in pH or moisture.' Choice A resolves this apparent contradiction by suggesting that if local adaptations exist, they may be to these untested environmental variables rather than to soil composition or copper levels.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=915a1ec4",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 6,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

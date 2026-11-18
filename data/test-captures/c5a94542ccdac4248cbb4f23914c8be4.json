@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c5a94542ccdac4248cbb4f23914c8be4",
+  "capturedAt": "2026-11-18T13:23:54.018Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At the start of an experiment, there were $184$ thousand bacteria in a culture. Every $2$ hours after the start, the number of bacteria had increased by $40%$ of the number $2$ hours earlier. The function $g$ gives the predicted number of bacteria, in thousands, $x$ hours after the start of the experiment. Which equation defines $g$?",
+  "choices": {
+    "A": "$g(x) = 184(0.40)^\\frac{x}{2}$",
+    "B": "$g(x) = 184(0.40)^{2}x$",
+    "C": "$g(x) = 184(1.40)^\\frac{x}{2}$",
+    "D": "$g(x) = 184(1.40)^{2}x$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The problem describes exponential growth where the bacteria population increases by $40\\%$ every $2$ hours. When a quantity increases by $40\\%$, the new amount is $100\\% + 40\\% = 140\\%$ of the original, which means the quantity is multiplied by $1.40$ each growth period. Since the growth occurs every $2$ hours, after $x$ hours there have been $\\frac{x}{2}$ growth periods. Therefore, the function that models this growth is $g(x) = 184(1.40)^{\\frac{x}{2}}$, where $184$ is the initial population in thousands.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=9020d15c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

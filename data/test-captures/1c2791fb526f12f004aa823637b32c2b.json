@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1c2791fb526f12f004aa823637b32c2b",
+  "capturedAt": "2026-11-18T13:23:55.306Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The functions $f(x) = x + 4$ and $g(x) = 5x^{2} - rx + 80$ are given, where r is a constant. If $f(x) \\times g(x) = 5x^{3} + 320$, what is the value of $r$?",
+  "choices": {},
+  "correctAnswer": "$$20$$",
+  "explanation": "The correct answer is $20$. To find the value of $r$, expand the product $f(x) \\cdot g(x) = (x+4)(5x^2 - rx + 80)$. Distributing $x$ gives $5x^3 - rx^2 + 80x$, and distributing $4$ gives $20x^2 - 4rx + 320$. Combining these results yields $5x^3 + (20-r)x^2 + (80-4r)x + 320$. Since this product must equal $5x^3 + 320$, the coefficients of $x^2$ and $x$ must both be zero. From the coefficient of $x^2$: $20 - r = 0$, which gives $r = 20$. This can be verified using the coefficient of $x$: $80 - 4(20) = 80 - 80 = 0$. Therefore, $r = 20$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=a10d447f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 20,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

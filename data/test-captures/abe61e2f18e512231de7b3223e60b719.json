@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "abe61e2f18e512231de7b3223e60b719",
+  "capturedAt": "2026-11-18T13:23:21.892Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Geologists Marie and Pierre Dubois systematically examined archival records of ground movements in Earth's crust known as seismic tremors. Their research in the early 1900s led to the documentation of a period from 1750 to 1820—now known as the Dubois ______ tremors were remarkably infrequent, a pattern that seismologists continue to analyze.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Quiescence: when",
+    "B": "Quiescence-when",
+    "C": "Quiescence, when",
+    "D": "Quiescence when"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of paired em-dashes to set off an appositive phrase. An em-dash opens the appositive phrase 'now known as the Dubois Quiescence,' and a second em-dash must close it before the sentence continues. The closing em-dash before 'when' creates the structure: 'a period from 1750 to 1820—now known as the Dubois Quiescence—when tremors were remarkably infrequent.'",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=ee3bbeb7",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 22,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

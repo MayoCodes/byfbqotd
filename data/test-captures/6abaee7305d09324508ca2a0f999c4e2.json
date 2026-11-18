@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6abaee7305d09324508ca2a0f999c4e2",
+  "capturedAt": "2026-11-18T13:24:12.680Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $PQR$, the measure of angle $Q$ is $90^°$ and $QS$ is an altitude of the triangle. The length of $PQ$ is $7$ and the length of $PR$ is $18$ greater than the length of $PQ$. What is the value of $\\frac{(QR)}{(QS)}$?",
+  "choices": {
+    "A": "$\\frac{7}{(25)}$",
+    "B": "$\\frac{(25)}{(24)}$",
+    "C": "$\\frac{(24)}{7}$",
+    "D": "$\\frac{(25)}{7}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The correct answer is D. In right triangle $PQR$ with the right angle at $Q$, we're given that $PQ = 7$ and $PR = 7 + 18 = 25$. Since $PR$ is the hypotenuse, we can use the Pythagorean theorem to find $QR$: $PR^2 = PQ^2 + QR^2$, so $25^2 = 7^2 + QR^2$. This gives $625 = 49 + QR^2$, so $QR^2 = 576$ and $QR = 24$. When an altitude is drawn from the right angle to the hypotenuse in a right triangle, it creates similar triangles. Specifically, triangle $QRS$ is similar to triangle $PQR$. From this similarity relationship, we have $\\frac{QR}{QS} = \\frac{PR}{PQ} = \\frac{25}{7}$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=419ae937",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 22,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

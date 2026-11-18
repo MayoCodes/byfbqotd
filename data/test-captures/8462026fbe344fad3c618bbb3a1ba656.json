@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8462026fbe344fad3c618bbb3a1ba656",
+  "capturedAt": "2026-11-18T13:23:19.382Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Dr. Ellen Ochoa was an engineer in the National Aeronautics and Space Administration (NASA), serving in the Houston-based Astronaut Corps. In 2013, the President of the United States honored Ochoa for her contributions to space exploration with one of the nation's highest ______ Presidential Medal of Freedom.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "honors; the",
+    "B": "honors the",
+    "C": "honors: the",
+    "D": "honors (the"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. A colon correctly introduces the specific honor being named. The phrase 'one of the nation's highest honors' is complete and sets up the expectation that the specific honor will be identified. The colon signals that what follows ('the Presidential Medal of Freedom') specifies or elaborates on 'honors.'",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=4117bd43",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 18,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

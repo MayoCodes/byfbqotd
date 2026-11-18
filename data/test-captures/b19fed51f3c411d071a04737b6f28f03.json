@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b19fed51f3c411d071a04737b6f28f03",
+  "capturedAt": "2026-11-18T13:23:33.936Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Function of Underlined Sentence",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Most species belong to taxonomic groups, or clusters of organisms whose morphological and genetic similarities likely derive from their descent from a common ancestor that lived long ago. A minority—such as the coelacanth, which is found in the Indian Ocean, and the tuatara, which is found in New Zealand—are taxonomic isolates, having no apparent evolutionary relationship to other living species. Yet the coelacanth and tuatara, like all isolates, are potentially survivors of lineages whose other members went extinct before the fossil record could document them, perhaps through the competitive displacement by more successful groups.",
+  "prompt": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+  "choices": {
+    "A": "It implies that a nonisolate species may have influenced both the coelacanth and tuatara to such a degree that their relationship to their former groups is no longer discernible.",
+    "B": "It proposes that the distinction made between present-day nonisolate species and isolates like the coelacanth and tuatara may not have been applicable in the distant past.",
+    "C": "It suggests that the ancestral forms of both the coelacanth and tuatara were likely isolates that replaced nonisolate species through competitive displacement in the distant past.",
+    "D": "It asserts that the fossil record tends to overrepresent nonisolate species relative to isolates, such that the origins of the coelacanth and tuatara are obscure to scientists in the present day."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because the underlined sentence proposes that the distinction between nonisolates and isolates may not have applied in the distant past. The passage establishes a present-day binary: most species belong to taxonomic groups with living relatives, while isolates have no apparent evolutionary relationship to other living species. The underlined sentence, introduced with 'Yet,' complicates this by proposing that today's isolates 'are potentially survivors of lineages whose other members went extinct.' This suggests species currently classified as isolates may have once belonged to larger groups whose other members have since disappeared, meaning the current classification may not describe the historical situation accurately.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=68b5ef17",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 14,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

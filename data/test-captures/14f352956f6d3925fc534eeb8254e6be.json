@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "14f352956f6d3925fc534eeb8254e6be",
+  "capturedAt": "2026-11-18T13:24:06.909Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular garden has an area of $2,700$ square feet. What is the area, in square yards, of this garden? ($1$ yard = $3$ feet)",
+  "choices": {
+    "A": "$300$",
+    "B": "$225$",
+    "C": "$900$",
+    "D": "$1,200$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To convert square feet to square yards, the linear conversion factor must be squared. Since $1$ yard $= 3$ feet, squaring both sides gives $1$ square yard $= 3^2 = 9$ square feet. To find the area in square yards, divide the area in square feet by $9$: $\\frac{2{,}700}{9} = 300$ square yards. Therefore, the garden has an area of $300$ square yards.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=6e9c2a5c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

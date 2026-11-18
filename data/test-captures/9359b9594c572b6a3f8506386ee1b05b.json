@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9359b9594c572b6a3f8506386ee1b05b",
+  "capturedAt": "2026-11-18T13:23:37.106Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The Venus flytrap (Dionaea muscipula), a carnivorous plant native to the subtropical wetlands of the Carolina coast that was first scientifically described in 1768, is considered a mixotroph—an organism that obtains energy through both photosynthesis and consuming other organisms. Botanists classify mixotrophs as distinct from autotrophs, which produce their own food, and heterotrophs, which consume other organisms. ______ many carnivorous plants, including the Venus flytrap, perform significant photosynthesis while also trapping insects.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Of course, the distinction is not always so neat:",
+    "B": "For example, heterotrophs have successfully adapted to harsh conditions:",
+    "C": "In other words, organisms are classified according to their energy source:",
+    "D": "Likewise, autotrophs produce their own energy through photosynthesis:"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it logically signals a concession that qualifies the classification system just presented. The passage establishes three distinct categories (mixotrophs, autotrophs, heterotrophs), but the following sentence reveals that carnivorous plants like the Venus flytrap perform both photosynthesis and consumption, blurring the boundaries between categories. The phrase 'Of course, the distinction is not always so neat:' acknowledges this real-world complexity and prepares readers for evidence that complicates the neat taxonomic divisions.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=87f3292b",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

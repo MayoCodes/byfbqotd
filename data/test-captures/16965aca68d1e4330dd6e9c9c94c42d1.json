@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "16965aca68d1e4330dd6e9c9c94c42d1",
+  "capturedAt": "2026-11-18T13:24:07.554Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by the given equation, $g(x) = (x - m)(x - n)$, where $m$ and $n$ are integer constants. If $g(26) > 0$, $g(29) < 0$, and $g(32) > 0$, which of the following could be the value of $m + n$?",
+  "choices": {
+    "A": "$29$",
+    "B": "$31$",
+    "C": "$55$",
+    "D": "$58$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The function $g(x) = (x - m)(x - n)$ is a quadratic function in factored form with roots at $x = m$ and $x = n$. Since the leading coefficient is positive, the parabola opens upward, meaning $g(x) > 0$ when $x$ is outside the interval between the roots, and $g(x) < 0$ when $x$ is between the roots. Given that $g(26) > 0$, $g(29) < 0$, and $g(32) > 0$, the value $x = 29$ must lie between the two roots, while $x = 26$ and $x = 32$ must lie outside this interval. Therefore, one root must be between $26$ and $29$, and the other root must be between $29$ and $32$. Since $m$ and $n$ are integers, the possible values are $m \\in \\{27, 28\\}$ and $n \\in \\{30, 31\\}$ (or vice versa). Testing $m = 27$ and $n = 31$: $g(29) = (29 - 27)(29 - 31) = (2)(-2) = -4 < 0$, $g(26) = (26 - 27)(26 - 31) = (-1)(-5) = 5 > 0$, and $g(32) = (32 - 27)(32 - 31) = (5)(1) = 5 > 0$. Therefore, $m + n = 27 + 31 = 58$. Similarly, $m = 28$ and $n = 30$ also yields $m + n = 58$. Thus, $58$ is a valid value for $m + n$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=3af94ad4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

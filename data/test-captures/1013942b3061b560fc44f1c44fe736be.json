@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1013942b3061b560fc44f1c44fe736be",
+  "capturedAt": "2026-11-18T13:24:08.201Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "One of the factors of $12t^{4} + 43t^{2} + 35$ is $at^{2} + b$, where $a$ and $b$ are positive constants. What is the value of $ab$ for the factor with the larger value of $a$?",
+  "choices": {
+    "A": "$5$",
+    "B": "$15$",
+    "C": "$20$",
+    "D": "$21$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The correct answer is C. The polynomial $12t^4 + 43t^2 + 35$ is a biquadratic expression that can be factored by recognizing it as quadratic in form. Substituting $u = t^2$ gives $12u^2 + 43u + 35$. To factor this, we need to find two binomials $(au + b)(cu + d)$ where $ac = 12$, $bd = 35$, and $ad + bc = 43$. Testing factor pairs: for $ac = 12$, we can use $3 \\times 4$, and for $bd = 35$, we can use $7 \\times 5$. Testing the arrangement $(3u + 7)(4u + 5)$: the middle term gives $3(5) + 7(4) = 15 + 28 = 43$. Therefore, $12u^2 + 43u + 35 = (3u + 7)(4u + 5)$. Substituting back $u = t^2$ gives $12t^4 + 43t^2 + 35 = (3t^2 + 7)(4t^2 + 5)$. The two factors are $3t^2 + 7$ (where $a = 3, b = 7$) and $4t^2 + 5$ (where $a = 4, b = 5$). Since the question asks for the factor with the larger value of $a$, we use $4t^2 + 5$, giving $ab = 4 \\times 5 = 20$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=5bdb364f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

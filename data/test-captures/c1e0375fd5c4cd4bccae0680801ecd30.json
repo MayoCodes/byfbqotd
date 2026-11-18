@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c1e0375fd5c4cd4bccae0680801ecd30",
+  "capturedAt": "2026-11-18T13:23:16.657Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nWorking in Kenya, Amina Ochieng and colleagues compared the impact on tomato growth of different combinations of water treatments, including synthetic growth hormone (a chemical compound that accelerates plant development), fish emulsion (an organic fertilizer made from processed fish), and seaweed extract (a natural plant nutrient derived from marine algae). Based on data in the table, tomato farmers with no access to synthetic water treatments would likely increase the yield and quality of their fruits by the greatest amount by using ______.",
+  "prompt": "Which choice most effectively uses data from the table to complete the text?",
+  "choices": {
+    "A": "seaweed extract alone",
+    "B": "fish emulsion alone",
+    "C": "fish emulsion and synthetic growth hormone",
+    "D": "fish emulsion and seaweed extract"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it correctly identifies the water treatment combination that would provide the greatest improvement for farmers without access to synthetic treatments. The question specifies that farmers have 'no access to synthetic water treatments,' which eliminates any option containing synthetic growth hormone. Among the remaining organic options, the table shows that fish emulsion and seaweed extract produces the highest values: yield of 8.7 kg (compared to 7.2 kg for fish emulsion alone and 6.9 kg for seaweed extract alone), sugar content of 5.8 Brix (compared to 5.4 and 5.1), and firmness of 4.2 N (compared to 3.9 and 3.7).",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=6f378fa8",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c1e0375fd5c4cd4bccae0680801ecd30/1-39d535fc72a40cab.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 14,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

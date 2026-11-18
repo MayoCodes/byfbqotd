@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "785bfb674111d89a850482b351c5afeb",
+  "capturedAt": "2026-11-18T13:23:59.083Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Two swimmers recorded their lap times during practice sessions. The lists give the times, to the nearest second, that swimmer A and swimmer B took to complete laps at various sessions.\n\nSwimmer A: $18,19,21,22$\n\nSwimmer B: $18,19,21,22,31$\n\nWhich statement correctly compares the mean lap times, to the nearest second, of swimmer A and swimmer B at these sessions?",
+  "choices": {
+    "A": "The mean lap time of swimmer A is greater than the mean lap time of swimmer B.",
+    "B": "The mean lap time of swimmer A is less than the mean lap time of swimmer B.",
+    "C": "The mean lap time of swimmer A is equal to the mean lap time of swimmer B.",
+    "D": "There is not enough information to compare the mean lap times of swimmer A and swimmer B."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The mean of a dataset is calculated by dividing the sum of all values by the number of values. For swimmer A, the four lap times are $18$, $19$, $21$, and $22$ seconds. The sum of these values is $18 + 19 + 21 + 22 = 80$ seconds. Dividing by the number of values gives $\\frac{80}{4} = 20$ seconds. For swimmer B, the five lap times are $18$, $19$, $21$, $22$, and $31$ seconds. The sum of these values is $18 + 19 + 21 + 22 + 31 = 111$ seconds. Dividing by the number of values gives $\\frac{111}{5} = 22.2$ seconds. Since $20 < 22.2$, the mean lap time of swimmer A is less than the mean lap time of swimmer B.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=c6e5b76b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

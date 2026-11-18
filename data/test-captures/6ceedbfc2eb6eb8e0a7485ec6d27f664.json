@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6ceedbfc2eb6eb8e0a7485ec6d27f664",
+  "capturedAt": "2026-11-18T13:23:51.425Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} - 7x + 3 = 0$$\n\nWhat is one of the solutions to the given equation?",
+  "choices": {
+    "A": "$(7 + sqrt(61))/2$",
+    "B": "$(7 + sqrt(37))/2$",
+    "C": "$(-7 + sqrt(37))/2$",
+    "D": "$(-7 + sqrt(61))/2$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Using the quadratic formula with $a = 1$, $b = -7$, and $c = 3$: the discriminant is $(-7)^2 - 4(1)(3) = 49 - 12 = 37$. Substituting into the formula: $x = \\frac{-(-7) \\pm \\sqrt{37}}{2(1)} = \\frac{7 \\pm \\sqrt{37}}{2}$. Therefore, $\\frac{7 + \\sqrt{37}}{2}$ is one of the solutions.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=444aa18d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 14,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

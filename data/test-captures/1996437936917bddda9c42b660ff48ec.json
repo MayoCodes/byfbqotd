@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1996437936917bddda9c42b660ff48ec",
+  "capturedAt": "2026-11-18T13:23:49.348Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Range from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3,3,15,28,28$$\n\nWhat is the range of the data set shown?",
+  "choices": {
+    "A": "$25$",
+    "B": "$20$",
+    "C": "$15$",
+    "D": "$77$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The range of a data set is calculated by subtracting the minimum value from the maximum value. In the data set $3, 3, 15, 28, 28$, the maximum value is $28$ and the minimum value is $3$. Therefore, the range is $28 - 3 = 25$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=255e10e4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 11,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

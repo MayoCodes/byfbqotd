@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7851adc9d29e9a80d738f2c5b4f0db64",
+  "capturedAt": "2026-11-18T13:23:49.985Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows three values of $x$ and their corresponding values of $y$ for the equation $y = 5(3)^x + 7$. In the table, $b$ is a constant. What is the value of $b$?",
+  "choices": {
+    "A": "$97$",
+    "B": "$135$",
+    "C": "$412$",
+    "D": "$142$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find the value of $b$, substitute $x=3$ into the given equation $y = 5(3)^x + 7$. This gives $b = 5(3)^3 + 7$. First, calculate the exponent: $3^3 = 27$. Then, substitute this back into the equation: $b = 5(27) + 7$. Perform the multiplication: $5 \\times 27 = 135$. Finally, perform the addition: $b = 135 + 7 = 142$. Thus, the value of $b$ is $142$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=68bcb4bb",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/7851adc9d29e9a80d738f2c5b4f0db64/1-33fe38f1ce903371.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 12,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

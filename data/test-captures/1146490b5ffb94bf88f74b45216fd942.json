@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1146490b5ffb94bf88f74b45216fd942",
+  "capturedAt": "2026-11-18T13:23:45.371Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Best Model Type",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following equations is the most appropriate exponential model for the data shown in the scatterplot?",
+  "choices": {
+    "A": "$y = 28(1.05)^-x$",
+    "B": "$y = -28(1.05)^x$",
+    "C": "$y = -28(1.05)^-x$",
+    "D": "$y = 28(1.05)^x$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The scatterplot shows data points that increase from left to right, indicating exponential growth. Additionally, all $y$-values are positive. For an exponential function in the form $y = a(b)^x$ where $b > 1$: a positive coefficient $a$ produces positive $y$-values, and a positive exponent with $b > 1$ produces growth (increasing values as $x$ increases). The equation $y = 28(1.05)^x$ has a positive coefficient ($28$) and a base greater than $1$ ($1.05$) with a positive exponent, which matches the increasing pattern of positive values shown in the scatterplot.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=ba1a7d33",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1146490b5ffb94bf88f74b45216fd942/1-c02f14066fae19fb.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

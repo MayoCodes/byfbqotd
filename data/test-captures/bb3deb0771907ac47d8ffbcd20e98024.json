@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bb3deb0771907ac47d8ffbcd20e98024",
+  "capturedAt": "2026-11-18T13:24:08.840Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $P$ given by $P(t) = 2,000(\\frac{3}{2})^\\frac{(4t)}{3}$ gives the estimated number of algae cells in a laboratory culture $t$ hours after an experiment began. According to the function, the number of algae cells is estimated to increase by $50%$ every $k$ minutes. What is the value of $k$?",
+  "choices": {
+    "A": "$36$",
+    "B": "$45$",
+    "C": "$80$",
+    "D": "$90$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The given function is $P(t) = 2{,}000\\left(\\frac{3}{2}\\right)^{\\frac{4t}{3}}$. An increase of $50\\%$ means the population multiplies by $1.5$, or $\\frac{3}{2}$. The number of algae cells increases by $50\\%$ each time the exponent $\\frac{4t}{3}$ increases by $1$. Setting $\\frac{4t}{3} = 1$ and solving for $t$ gives $t = \\frac{3}{4}$ hours. To convert this to minutes, multiply by $60$: $k = \\frac{3}{4} \\times 60 = 45$ minutes. Therefore, the value of $k$ is $45$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=ddb1fd95",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1e54f2a41b37ed0885e0745426123eec",
+  "capturedAt": "2026-11-18T13:24:05.018Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(5x(x-5) - 3(x-5))/(4x-20)$, where $x > 5$ ?",
+  "choices": {
+    "A": "$\\frac{(x-5)}{4}$",
+    "B": "$\\frac{(5x-3)}{4}$",
+    "C": "$\\frac{(5x^{2} - 3x - 10)}{(4x - 20)}$",
+    "D": "$\\frac{(5x^{2} - 3x - 25)}{(4x - 20)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The numerator $5x(x-5) - 3(x-5)$ contains a common factor of $(x-5)$ in both terms. Factoring out $(x-5)$ gives $(x-5)(5x-3)$. The denominator $4x-20$ can be factored as $4(x-5)$. The expression becomes $\\frac{(x-5)(5x-3)}{4(x-5)}$. Since $x > 5$, the factor $(x-5)$ is nonzero and can be canceled, yielding $\\frac{5x-3}{4}$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=c95e283b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

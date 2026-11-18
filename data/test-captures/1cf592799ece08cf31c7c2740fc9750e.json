@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1cf592799ece08cf31c7c2740fc9750e",
+  "capturedAt": "2026-11-18T13:23:46.199Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Maya receives a budget of $$85.00$ to spend at a school book fair. She uses her budget to buy $3$ hardcover books for $$7.50$ each. She will spend the rest of her budget on paperback books for $$2.50$ each. How many paperback books can Maya buy?",
+  "choices": {},
+  "correctAnswer": "$$25$$",
+  "explanation": "The correct answer is $25$. First, calculate the total cost of the hardcover books: $3 \\times 7.50 = 22.50$ dollars. Next, subtract this from her total budget to find how much remains: $85.00 - 22.50 = 62.50$ dollars. Finally, divide the remaining budget by the cost of each paperback book: $62.50 \\div 2.50 = 25$. Therefore, Maya can buy $25$ paperback books.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=1c8f9ef0",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

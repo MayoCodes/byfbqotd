@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a8b83ca910165ee9fa93d609599acfe8",
+  "capturedAt": "2026-11-18T13:23:39.680Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Silent Steps is a 1999 photograph by Chinese artist Liu Wei. Like many of Liu's photos, the work features a pair of feet. Positioned on a wooden platform, one foot ______ adorned with Chinese characters, the feet suggest an out-of-frame figure on the edge of movement.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "bare and the other",
+    "B": "is bare and the other is",
+    "C": "is bare, the other",
+    "D": "bare, the other is"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is parallel structure in coordinate elements. The phrase 'one foot bare and the other adorned with Chinese characters' maintains perfect parallelism through symmetric verb ellipsis: both coordinate elements omit the verb 'is' (one foot [is] bare and the other [is] adorned). This creates a clean, balanced participial phrase that modifies 'the feet' in the main clause. The coordinating conjunction 'and' properly joins two grammatically equivalent structures.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=29d4c19e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 23,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

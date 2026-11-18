@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7a687ec27800c77f479785803d121e2c",
+  "capturedAt": "2026-11-18T13:23:33.320Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "From powering container ships to fueling port equipment, ammonia has potential applications in maritime transport. Currently, producing ammonia is carbon intensive, but Michael T. Adeyemi is one of many scholars investigating the feasibility of large-scale production of ammonia through Haber-Bosch synthesis, a process that produces no carbon emissions when powered by renewable sources. Adeyemi suggests that although some obstacles may prevent ammonia from replacing conventional marine fuels entirely, there is utility in its ability to reduce carbon output of shipping and port operations, where lowering emissions is especially challenging.",
+  "prompt": "Which statement about the use of ammonia in shipping and port operations is most strongly supported by the text?",
+  "choices": {
+    "A": "Development of applications for ammonia from Haber-Bosch synthesis is less advanced in these operations than it is in most other carbon-intensive industries.",
+    "B": "At least some of ammonia's potential to lessen these operations' carbon emissions is as yet unrealized.",
+    "C": "The adoption of ammonia from Haber-Bosch synthesis by these operations has been impeded by concerns about how carbon intensive its production is.",
+    "D": "The fact that large-scale ammonia production through Haber-Bosch synthesis is not yet available has limited these operations' interest in pursuing ammonia-based applications."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most accurately represents the relationship between ammonia's potential and limitations described in the text. The passage states there is 'utility' in ammonia's ability to reduce carbon output of shipping and port operations, indicating beneficial potential. However, Adeyemi notes that 'some obstacles may prevent ammonia from replacing conventional marine fuels entirely,' suggesting barriers to full implementation. By combining these ideas—demonstrated utility plus existing obstacles—we can infer ammonia's potential to reduce emissions has not been fully realized yet. The phrase 'as yet unrealized' captures this synthesis: the potential exists, but obstacles prevent complete realization.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=0b22ba8c",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 13,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

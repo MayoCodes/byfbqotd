@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c8685879839b4fb1c300d5d7a26522a8",
+  "capturedAt": "2026-11-18T13:23:55.949Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Interpret Inequality Solution in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For which of the following tables are all the values of $x$ and their corresponding values of $y$ solutions to the inequality $y<18x+6$?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. For an ordered pair $(x, y)$ to be a solution to the inequality $y < 18x + 6$, the $y$-value must be strictly less than the value of $18x + 6$ when the corresponding $x$-value is substituted. For the table in choice B, we must verify all three pairs. For $x = 1$: calculate $18(1) + 6 = 18 + 6 = 24$. The corresponding $y$-value is $20$, and $20 < 24$ is true. For $x = 3$: calculate $18(3) + 6 = 54 + 6 = 60$. The corresponding $y$-value is $55$, and $55 < 60$ is true. For $x = 5$: calculate $18(5) + 6 = 90 + 6 = 96$. The corresponding $y$-value is $85$, and $85 < 96$ is true. Since all three ordered pairs satisfy the inequality, choice B is correct.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=417fa61f",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c8685879839b4fb1c300d5d7a26522a8/1-3ecaa677de074990.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/c8685879839b4fb1c300d5d7a26522a8/2-c469e80d9391734e.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/c8685879839b4fb1c300d5d7a26522a8/3-d9b0fd947d9dd9e0.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/c8685879839b4fb1c300d5d7a26522a8/4-a8bfbe9ec49e69ae.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 21,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7430e516ed9681404dc7639a5de10374",
+  "capturedAt": "2026-11-18T13:23:53.368Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Whole from a Percent",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A fruit stand has only apples, oranges, and bananas for sale. On Tuesday, $25%$ of the fruits for sale were apples and $60%$ were oranges. If there were $45$ apples for sale at the fruit stand on Tuesday, how many bananas were for sale?",
+  "choices": {},
+  "correctAnswer": "$$27$$",
+  "explanation": "The correct answer is $27$. Since $25\\%$ of the fruits were apples and there were $45$ apples, we can find the total number of fruits by dividing: $45 \\div 0.25 = 180$ total fruits. The percentage of fruits that were bananas is $100\\% - 25\\% - 60\\% = 15\\%$. To find the number of bananas, we calculate $15\\%$ of $180$: $0.15 \\times 180 = 27$ bananas.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=8d35f2b8",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 17,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

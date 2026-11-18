@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "27162cb97bf7bf505e9fd887773d13a7",
+  "capturedAt": "2026-11-18T13:24:06.291Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g$ is defined by the equation $g(x) = 15^x + c$, where $c$ is a constant. In the $xy$-plane, the graph of $y = g(x)$ contains the points $(0,52)$ and $(2, q + 28)$, where $q$ is a constant. What is the value of $q$?",
+  "choices": {},
+  "correctAnswer": "$$248$$",
+  "explanation": "The correct answer is $248$. Since the point $(0, 52)$ is on the graph of $y = g(x)$, substituting $x = 0$ gives $g(0) = 52$. Using the function definition: $52 = 15^0 + c$. Since $15^0 = 1$, we have $52 = 1 + c$, which gives $c = 51$. Therefore, the function is $g(x) = 15^x + 51$. Since the point $(2, q + 28)$ is also on the graph, substituting $x = 2$ gives $g(2) = q + 28$. Using the function: $q + 28 = 15^2 + 51$. Calculating $15^2 = 225$, we get $q + 28 = 225 + 51 = 276$. Solving for $q$: $q = 276 - 28 = 248$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=cff7b2e2",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "499f2f19da336f8d0cfa5f0f5800b523",
+  "capturedAt": "2026-11-18T13:23:47.457Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$41a + 40b = k$$\n\n$$40a - 41b = k$$\n\nIn the given system of equations, $k$ is a positive constant. Which of the following could be the point where the graphs of the equations in this system intersect in the $ab$-plane?",
+  "choices": {
+    "A": "$(8, 810)$",
+    "B": "$(8, -\\frac{8}{(81)})$",
+    "C": "$(k, \\frac{k}{(81)})$",
+    "D": "$(k, 0)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The intersection point must satisfy both equations with the same positive value of $k$. Substituting $a = 8$ and $b = -\\frac{8}{81}$: First equation: $41(8) + 40(-\\frac{8}{81}) = 328 - \\frac{320}{81} = \\frac{26248}{81}$. Second equation: $40(8) - 41(-\\frac{8}{81}) = 320 + \\frac{328}{81} = \\frac{26248}{81}$. Both equations give $k = \\frac{26248}{81}$, which is positive. Therefore, $(8, -\\frac{8}{81})$ is the intersection point for this value of $k$.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=d7cff7f9",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}

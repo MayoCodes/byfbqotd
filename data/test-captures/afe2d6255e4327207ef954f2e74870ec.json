@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "afe2d6255e4327207ef954f2e74870ec",
+  "capturedAt": "2026-11-18T13:23:26.304Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Multi-Word Phrase",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The Pirahã people of the remote Amazon rainforest of Brazil do not count precisely and have no artificial means (e.g., written numerals) of recording quantities, but this does not imply that the Pirahã are ______ quantity. As Anita Menon and colleagues have recently shown, the Pirahã language contains many quantitative expressions, such as hói, which translates to \"a small amount.\"",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "dependent on",
+    "B": "meticulous about",
+    "C": "preoccupied with",
+    "D": "inattentive to"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most logically completes the text's discussion of the Pirahã people's relationship to quantity. As used in this context, 'inattentive to' means not paying attention to. The text establishes that the Pirahã lack precise counting systems and artificial recording methods, which might lead to the false conclusion that they don't pay attention to quantity concepts. However, the word 'but' signals that the text rejects this inference, and the counter-evidence—that their language contains quantitative expressions like hói—demonstrates that they do attend to quantity, even without precise counting.",
+  "source": "https://cooksat.com/practice-test-review/9?questionId=490a22ba",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 2,
+    "subject": "English",
+    "testId": "9",
+    "title": "Practice Test 9"
+  }
+}
