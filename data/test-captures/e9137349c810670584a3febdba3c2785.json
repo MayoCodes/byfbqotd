@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e9137349c810670584a3febdba3c2785",
+  "capturedAt": "2026-11-18T13:31:35.302Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A cargo van can hold a maximum weight of 3,920 kilograms during one trip. A 145-kilogram driver needs to transport several packages using the cargo van. Some of these packages weigh 18 kilograms each and the others weigh 53 kilograms each. Which inequality represents the possible combinations of the number of 18-kilogram packages, $x$, and the number of 53-kilogram packages, $y$, the driver can transport during one trip if only the driver and the packages are in the cargo van?",
+  "choices": {
+    "A": "$18x + 53y \\ge 3775$",
+    "B": "$53x + 18y \\le 3920$",
+    "C": "$53x + 18y \\ge 3920$",
+    "D": "$18x + 53y \\le 3775$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The cargo van has a maximum capacity of $3{,}920$ kilograms, meaning the total weight must be less than or equal to this value. The total weight consists of the driver's weight ($145$ kilograms) plus the weight of all packages. If there are $x$ packages weighing $18$ kilograms each and $y$ packages weighing $53$ kilograms each, the total weight of packages is $18x + 53y$ kilograms. Therefore, the inequality representing the constraint is $145 + 18x + 53y \\leq 3920$. Subtracting $145$ from both sides gives $18x + 53y \\leq 3920 - 145$, which simplifies to $18x + 53y \\leq 3775$. This inequality correctly represents all possible combinations of packages that can be transported without exceeding the van's weight capacity.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=edaa56a1",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 11,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

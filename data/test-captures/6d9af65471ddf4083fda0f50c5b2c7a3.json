@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6d9af65471ddf4083fda0f50c5b2c7a3",
+  "capturedAt": "2026-11-18T13:31:59.589Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The area of a circular region is increasing at a rate of $48,000$ square centimeters per hour. Which of the following is closest to this rate in square meters per minute? (Use $1$ meter $= 100$ centimeters.)",
+  "choices": {
+    "A": "$4.8$",
+    "B": "$8.0$",
+    "C": "$0.08$",
+    "D": "$0.8$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To convert the rate from square centimeters per hour to square meters per minute, both the area units and time units must be converted. Since $1$ meter $= 100$ centimeters, squaring both sides gives $1$ square meter $= (100)^2 = 10{,}000$ square centimeters. For time conversion, $1$ hour $= 60$ minutes. Converting the area units: $48{,}000$ square centimeters per hour $\\times \\frac{1 \\text{ square meter}}{10{,}000 \\text{ square centimeters}} = \\frac{48{,}000}{10{,}000} = 4.8$ square meters per hour. Converting the time units: $4.8$ square meters per hour $\\times \\frac{1 \\text{ hour}}{60 \\text{ minutes}} = \\frac{4.8}{60} = 0.08$ square meters per minute. Therefore, the rate is closest to $0.08$ square meters per minute.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=a6139075",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 21,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

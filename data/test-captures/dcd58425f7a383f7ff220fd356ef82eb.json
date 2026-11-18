@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dcd58425f7a383f7ff220fd356ef82eb",
+  "capturedAt": "2026-11-18T13:32:00.220Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Tangent Line to Circle",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, points $A$, $B$, $C$, and $E$ lie on the circle, and $AB < BE$. Segment $AC$ is perpendicular to segment $BE$ at point $D$, $ABC$ is a right angle, and $BD = sqrt(700)$. The diameter of the circle is $145$. What is the value of $\\frac{(CD)}{(AD)}$?",
+  "choices": {
+    "A": "$28$",
+    "B": "$\\frac{1}{(28)}$",
+    "C": "$14$",
+    "D": "$35$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct answer is A. Since $\\angle ABC = 90°$, by the inscribed angle theorem, $\\overline{AC}$ is a diameter, so $AD + CD = 145$. Place $D$ at the origin with $\\overline{AC}$ on the y-axis and $\\overline{BE}$ on the x-axis. If $AD=a$ and $CD=c$, then the center of the circle is the midpoint of $\\overline{AC}$, at a vertical distance $\\frac{|c-a|}{2}$ from $D$. Since $BD=\\sqrt{700}$ and the radius is $72.5$, $700+\\left(\\frac{c-a}{2}\\right)^2=72.5^2$, so $|c-a|=135$. Together with $a+c=145$, this gives the two possible pairs $(a,c)=(5,140)$ or $(140,5)$. The condition $AB<BE$ eliminates $(140,5)$, since then $AB=\\sqrt{700+140^2}$, which is greater than $BE=2\\sqrt{700}$. Therefore $AD=5$ and $CD=140$, so $\\frac{CD}{AD}=28$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=e07ed575",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/dcd58425f7a383f7ff220fd356ef82eb/1-47b7155c0a328dd0.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 22,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

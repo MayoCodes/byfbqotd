@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c8ed65b801d6da90310fb13d749610a0",
+  "capturedAt": "2026-11-18T13:31:36.720Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$a - 15 = \\frac{m}{n}$. The given equation relates the positive numbers $a$, $m$, and $n$. Which equation correctly expresses $m$ in terms of $a$ and $n$?",
+  "choices": {
+    "A": "$m = \\frac{(a-15)}{n}$",
+    "B": "$m = an - 15$",
+    "C": "$m = \\frac{(an-15)}{n}$",
+    "D": "$m = an - 15n$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To solve for $m$ in the equation $a - 15 = \\frac{m}{n}$, multiply both sides of the equation by $n$ to eliminate the denominator. This gives $n(a - 15) = n \\cdot \\frac{m}{n}$. The right side simplifies to $m$ since $n \\cdot \\frac{m}{n} = m$. On the left side, apply the distributive property: $n(a - 15) = n \\cdot a - n \\cdot 15 = an - 15n$. Therefore, $m = an - 15n$. It's essential to distribute $n$ to both terms inside the parentheses, yielding both $an$ and $-15n$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=abfe2831",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 13,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

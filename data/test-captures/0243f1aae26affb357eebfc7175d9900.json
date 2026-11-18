@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0243f1aae26affb357eebfc7175d9900",
+  "capturedAt": "2026-11-18T13:31:45.653Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Verify Solutions by Substitution",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y > x$$\n\n$$y \\le 4x + 7$$\n\nFor which of the following tables are all the values of $x$ and their corresponding values of $y$ solutions to the given system of inequalities?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A solution to a system of inequalities is an ordered pair $(x, y)$ that satisfies all inequalities in the system. For a table of values to represent solutions, every ordered pair in the table must satisfy both inequalities. The system consists of $y > x$ and $y \\leq 4x + 7$. Testing each ordered pair in Choice D: For $(2, 5)$, the first inequality gives $5 > 2$, which is true, and the second inequality gives $5 \\leq 4(2) + 7$, which simplifies to $5 \\leq 15$, which is true. For $(3, 6)$, the first inequality gives $6 > 3$, which is true, and the second inequality gives $6 \\leq 4(3) + 7$, which simplifies to $6 \\leq 19$, which is true. For $(4, 7)$, the first inequality gives $7 > 4$, which is true, and the second inequality gives $7 \\leq 4(4) + 7$, which simplifies to $7 \\leq 23$, which is true. Since all three ordered pairs satisfy both inequalities, all values in the table in choice D are solutions to the system.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=2b63deec",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/0243f1aae26affb357eebfc7175d9900/1-fd43c0bae95b8a32.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/0243f1aae26affb357eebfc7175d9900/2-606180402af75445.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/0243f1aae26affb357eebfc7175d9900/3-52d71a05ac44e93f.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/0243f1aae26affb357eebfc7175d9900/4-2ac95cb9f2d9e55c.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

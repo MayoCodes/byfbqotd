@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "24ab1d4573167b11df49657758e43798",
+  "capturedAt": "2026-11-18T13:31:40.544Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the $y$-intercept of the graph of $f(x) = 5^x + 17$ in the $xy$-plane?",
+  "choices": {
+    "A": "$(0, 18)$",
+    "B": "$(0, 17)$",
+    "C": "$(0, 22)$",
+    "D": "$(0, 5)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The $y$-intercept of a function occurs at the point where the graph crosses the $y$-axis, which happens when $x = 0$. To find the $y$-intercept of $f(x) = 5^x + 17$, substitute $x = 0$ into the function: $f(0) = 5^0 + 17$. Using the exponential property that any nonzero number raised to the power of $0$ equals $1$, we have $5^0 = 1$. Therefore, $f(0) = 1 + 17 = 18$. The $y$-intercept is the point $(0, 18)$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=b6a59caf",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

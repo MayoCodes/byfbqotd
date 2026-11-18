@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4c2b73789aea4f5e5549200e9d834274",
+  "capturedAt": "2026-11-18T13:31:50.703Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The length of the diagonal of a square is $(144sqrt(2))/2$ units. What is the area, in square units, of the square?",
+  "choices": {
+    "A": "$72$",
+    "B": "$5,184$",
+    "C": "$10,368$",
+    "D": "$288$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The diagonal of a square with side length $s$ is $s\\sqrt{2}$. First, simplify the given diagonal length: $\\frac{144\\sqrt{2}}{2} = 72\\sqrt{2}$ units. Using the relationship $d = s\\sqrt{2}$, where $d$ is the diagonal and $s$ is the side length, substitute to get $72\\sqrt{2} = s\\sqrt{2}$. Dividing both sides by $\\sqrt{2}$ gives $s = \\frac{72\\sqrt{2}}{\\sqrt{2}} = 72$ units. The area of a square is $A = s^2$. Therefore, $A = 72^2 = 5{,}184$ square units.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=0cd7e8ee",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

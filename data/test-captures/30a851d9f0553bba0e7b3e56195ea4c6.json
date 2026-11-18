@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "30a851d9f0553bba0e7b3e56195ea4c6",
+  "capturedAt": "2026-11-18T13:31:48.774Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The population of a bacteria culture doubles every $18$ hours. After $72$ hours, the population is $80,000$ bacteria. What was the initial population of the bacteria culture?",
+  "choices": {},
+  "correctAnswer": "$$5000$$",
+  "explanation": "The correct answer is $5000$. In an exponential growth scenario where a population doubles at regular intervals, working backward in time requires repeatedly dividing by $2$ for each doubling period. First, determine the number of doubling periods: the time elapsed is $72 - 0 = 72$ hours, and with a doubling period of $18$ hours, there are $\\frac{72}{18} = 4$ doubling periods. To find the initial population, divide the final population by $2^4$ (since the population doubled $4$ times): $\\frac{80{,}000}{2^4} = \\frac{80{,}000}{16} = 5{,}000$. This can be verified by working forward: $5{,}000 \\times 2 = 10{,}000$ (after $18$ hours), $10{,}000 \\times 2 = 20{,}000$ (after $36$ hours), $20{,}000 \\times 2 = 40{,}000$ (after $54$ hours), and $40{,}000 \\times 2 = 80{,}000$ (after $72$ hours). Therefore, the initial population was $5{,}000$ bacteria.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=08c3ec4a",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

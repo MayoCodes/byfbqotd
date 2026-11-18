@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4f45a4f20ba1d17c2703d0d466798ce2",
+  "capturedAt": "2026-11-18T13:31:35.941Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn triangle $PQR$, $r^° = \\frac{3}{5}$. What is the length of $QR$?",
+  "choices": {},
+  "correctAnswer": "$$18$$",
+  "explanation": "The correct answer is $18$. In the right triangle $PQR$ with the right angle at vertex $Q$, the hypotenuse $PR$ has length $30$, and angle $r^{\\circ}$ is located at vertex $R$. The cosine of an angle in a right triangle is defined as the ratio of the length of the adjacent side to the length of the hypotenuse. Since angle $r^{\\circ}$ is at vertex $R$, the side adjacent to this angle is $\\overline{QR}$, and the hypotenuse is $\\overline{PR}$. Therefore, $\\cos r^{\\circ} = \\frac{QR}{PR}$. Substituting the given value: $\\frac{3}{5} = \\frac{QR}{30}$. Multiplying both sides by $30$ gives $QR = 30 \\times \\frac{3}{5} = \\frac{90}{5} = 18$. Thus, the length of $\\overline{QR}$ is $18$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=8ecd7432",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4f45a4f20ba1d17c2703d0d466798ce2/1-f3b28e170747f913.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 12,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "63fad8cb1948998b1e09b07596ee218c",
+  "capturedAt": "2026-11-18T13:31:37.998Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "All the rectangular garden plots in a community garden have the same dimensions. The length of each of these garden plots is $28$ meters greater than the width. Which equation gives the area $A$, in square meters, of a garden plot in terms of the width $w$, in meters, of that garden plot?",
+  "choices": {
+    "A": "$A = (w)(\\frac{w}{(28)})$",
+    "B": "$A = (w)(28w)$",
+    "C": "$A = (w)(w + 28)$",
+    "D": "$A = w^{2}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The area of a rectangle is given by the formula $A = \\text{length} \\times \\text{width}$. It's given that the length of each garden plot is $28$ meters greater than the width. If the width is represented by $w$ meters, then the length can be expressed as $w + 28$ meters. Substituting these expressions into the area formula gives $A = (w + 28) \\times w$, which can be written as $A = (w)(w + 28)$ or equivalently $A = w(w + 28)$. This equation correctly represents the area in terms of the width.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=291e9fca",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

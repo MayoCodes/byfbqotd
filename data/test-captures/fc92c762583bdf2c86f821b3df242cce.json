@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fc92c762583bdf2c86f821b3df242cce",
+  "capturedAt": "2026-11-18T13:31:28.804Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, line $m$ is parallel to line $n$, and line $k$ intersects both lines. What is the value of $w$?",
+  "choices": {
+    "A": "$35$",
+    "B": "$125$",
+    "C": "$90$",
+    "D": "$180$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. When two parallel lines are cut by a transversal, corresponding angles are equal. In the figure, line $m$ is parallel to line $n$, and both are intersected by transversal line $k$. The angle measuring $125\\degree$ is formed between line $k$ and line $m$ on one side of the transversal. The angle $w$ is formed between line $k$ and line $n$ in the corresponding position (same side of the transversal, same relative position). By the corresponding angles theorem, these angles are equal. Therefore, $w = 125\\degree$. Note that the $55\\degree$ angle shown at line $m$ and the $125\\degree$ angle form a linear pair (supplementary angles on a straight line), which can be verified: $125 + 55 = 180\\degree$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=5a691476",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/fc92c762583bdf2c86f821b3df242cce/1-261196a34e400356.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

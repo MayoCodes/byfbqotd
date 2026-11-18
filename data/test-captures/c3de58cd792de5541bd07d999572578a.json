@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c3de58cd792de5541bd07d999572578a",
+  "capturedAt": "2026-11-18T13:31:57.687Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, the graph of the equation $y = -x^{2} + 9x - 52$ intersects the line $y = c$ at exactly one point. What is the value of $c$?",
+  "choices": {
+    "A": "$-\\frac{9}{2}$",
+    "B": "$-\\frac{(23)}{4}$",
+    "C": "$-\\frac{(127)}{4}$",
+    "D": "$-52$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A horizontal line $y = c$ intersects a parabola at exactly one point when the line passes through the vertex of the parabola. For a quadratic function in the form $y = ax^2 + bx + c$, the $x$-coordinate of the vertex is given by $x = -\\frac{b}{2a}$. For the equation $y = -x^2 + 9x - 52$, we have $a = -1$ and $b = 9$. Therefore, the $x$-coordinate of the vertex is $x = -\\frac{9}{2(-1)} = \\frac{9}{2}$. To find the $y$-coordinate of the vertex (which is the value of $c$), substitute $x = \\frac{9}{2}$ into the original equation: $y = -\\left(\\frac{9}{2}\\right)^2 + 9\\left(\\frac{9}{2}\\right) - 52 = -\\frac{81}{4} + \\frac{81}{2} - 52$. Converting to a common denominator of $4$: $y = -\\frac{81}{4} + \\frac{162}{4} - \\frac{208}{4} = \\frac{-81 + 162 - 208}{4} = \\frac{-127}{4} = -\\frac{127}{4}$. Therefore, $c = -\\frac{127}{4}$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=934ddbc4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 18,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

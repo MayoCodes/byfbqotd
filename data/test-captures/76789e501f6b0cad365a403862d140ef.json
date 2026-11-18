@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "76789e501f6b0cad365a403862d140ef",
+  "capturedAt": "2026-11-18T13:31:09.460Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Pritzker Architecture Prize is a prestigious award given by The Hyatt Foundation.\n• The Hyatt Foundation gives the award for \"significant contributions to humanity through the art of architecture.\"\n• It is named after American industrialist Jay Pritzker.\n• Zaha Hadid won the award in 2004 for groundbreaking designs that transformed contemporary architecture.",
+  "prompt": "The student wants to explain whom the award is named for. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The Pritzker Architecture Prize is given for \"significant contributions to humanity through the art of architecture.\"",
+    "B": "It was in 2004 that Zaha Hadid won the Pritzker Architecture Prize.",
+    "C": "The Pritzker Architecture Prize is named after American industrialist Jay Pritzker.",
+    "D": "In 2004, Zaha Hadid won the Pritzker Architecture Prize for groundbreaking designs that transformed contemporary architecture."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it directly accomplishes the stated rhetorical goal of explaining whom the award is named for. The sentence clearly identifies that the Pritzker Architecture Prize is \"named after American industrialist Jay Pritzker,\" which corresponds to the information in the third note. This choice provides the specific information requested—the namesake of the award—in a concise and direct manner that fulfills the student's purpose.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=cff85ec1",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 26,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

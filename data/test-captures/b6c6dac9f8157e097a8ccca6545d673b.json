@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b6c6dac9f8157e097a8ccca6545d673b",
+  "capturedAt": "2026-11-18T13:31:07.553Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In phonetics, the sound /m/ is classified as a consonant, while the sounds /a/ and /i/ are classified as vowels. The categorical distinction between consonants and vowels lies not in the sounds' pitch or loudness but in their articulation: the former type involves obstruction of airflow in the vocal tract, while the latter allows air to flow freely. ______ the sound /l/ is as much a consonant as /m/, despite its notably fluid quality.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Though it flows smoothly from the mouth,",
+    "B": "In a notable exception to this rule,",
+    "C": "By this definition,",
+    "D": "Summarizing this principle,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because 'By this definition' logically signals that the /l/ sound is being classified by applying the previously stated criterion. The passage establishes that consonants involve airflow obstruction in the vocal tract. The /l/ sound involves such obstruction—the tongue blocks central airflow, forcing air to flow laterally around the sides. Therefore, despite /l/'s fluid acoustic quality, it fits the definition of a consonant. This transition appropriately indicates direct application of the stated rule.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=0d3a51c2",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 23,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

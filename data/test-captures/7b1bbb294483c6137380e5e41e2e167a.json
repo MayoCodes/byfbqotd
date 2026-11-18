@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b1bbb294483c6137380e5e41e2e167a",
+  "capturedAt": "2026-11-18T13:31:42.451Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Complete the Square",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = \\frac{1}{(x-7)} - \\frac{(x-3)}{(-x+1)}$. What is the greatest possible value of $x$ such that $g(x) = 0$?",
+  "choices": {},
+  "correctAnswer": "$$5$$",
+  "explanation": "The correct answer is $5$. To find the values of $x$ where $g(x) = 0$, set the function equal to zero: $\\frac{1}{x-7} - \\frac{x-3}{-x+1} = 0$. Rearranging gives $\\frac{1}{x-7} = \\frac{x-3}{-x+1}$. Cross-multiplying yields $(-x+1)(1) = (x-7)(x-3)$. Simplifying the left side gives $-x+1$, and expanding the right side gives $(x-7)(x-3) = x^2 - 3x - 7x + 21 = x^2 - 10x + 21$. The equation becomes $-x+1 = x^2 - 10x + 21$. Rearranging all terms to one side gives $x^2 - 10x + 21 + x - 1 = 0$, which simplifies to $x^2 - 9x + 20 = 0$. This quadratic can be factored as $(x-5)(x-4) = 0$, giving solutions $x = 5$ or $x = 4$. Alternatively, using the quadratic formula: $x = \\frac{9 \\pm \\sqrt{81-80}}{2} = \\frac{9 \\pm 1}{2}$, yielding $x = 5$ or $x = 4$. Both solutions are valid (neither equals $7$ or $1$, which would make the original function undefined). Since the question asks for the greatest possible value, the answer is $5$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=121071de",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 22,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3dd4013f5691eb9b5f48fd52e016f70d",
+  "capturedAt": "2026-11-18T13:31:58.953Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $ABC$, angle $C$ is a right angle, point $M$ lies on $AB$, point $N$ lies on $BC$, and $MN$ is parallel to $AC$. If the length of $AC$ is $84$ units, the length of $MN$ is $28$ units, and the area of triangle $ABC$ is $546$ square units, what is the length of $NC$, in units?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{26}{3},8.666,8.667$$",
+  "explanation": "The correct answer is $\\frac{26}{3}$. Since angle $C$ is a right angle in triangle $ABC$, the legs $\\overline{AC}$ and $\\overline{BC}$ are perpendicular, making the area formula $A = \\frac{1}{2} \\cdot AC \\cdot BC$. Substituting the given values: $546 = \\frac{1}{2} \\cdot 84 \\cdot BC$, which gives $546 = 42 \\cdot BC$, so $BC = 13$ units. Since $\\overline{MN}$ is parallel to $\\overline{AC}$, triangles $MBN$ and $ABC$ are similar by the AA similarity criterion (they share angle $B$, and corresponding angles are equal due to parallel lines). The ratio of similarity is $\\frac{MN}{AC} = \\frac{28}{84} = \\frac{1}{3}$. By the properties of similar triangles, corresponding sides are proportional: $\\frac{BN}{BC} = \\frac{MN}{AC} = \\frac{1}{3}$. Therefore, $BN = \\frac{1}{3} \\cdot 13 = \\frac{13}{3}$ units. Finally, $NC = BC - BN = 13 - \\frac{13}{3} = \\frac{39}{3} - \\frac{13}{3} = \\frac{26}{3}$ units. Note that 26/3, 8.666, and 8.667 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=bcbf14f1",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

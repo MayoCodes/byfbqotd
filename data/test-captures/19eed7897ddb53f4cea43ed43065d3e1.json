@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "19eed7897ddb53f4cea43ed43065d3e1",
+  "capturedAt": "2026-11-18T13:31:43.089Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rental agency requires a security deposit between $\\frac{1}{(720)}$ and $\\frac{1}{(650)}$ of the annual rent for an apartment. If the annual rent for an apartment is $$72,720$, which inequality best represents the required security deposit $d$, in dollars?",
+  "choices": {
+    "A": "$10.1 \\le d < 11.188$",
+    "B": "$101 \\le d < 111.88$",
+    "C": "$1,010 \\le d < 1,118.8$",
+    "D": "$10,100 \\le d < 11,188$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The security deposit is between $\\frac{1}{720}$ and $\\frac{1}{650}$ of the annual rent. To find the range of the deposit, multiply the annual rent by each fraction. The lower bound is $72{,}720 \\times \\frac{1}{720} = \\frac{72{,}720}{720} = 101$ dollars. The upper bound is $72{,}720 \\times \\frac{1}{650} = \\frac{72{,}720}{650} \\approx 111.88$ dollars. Since the deposit must be between these values, including the lower bound, the inequality is $101 \\leq d < 111.88$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=415e0510",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

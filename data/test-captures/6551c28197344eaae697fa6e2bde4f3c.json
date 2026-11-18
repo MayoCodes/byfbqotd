@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6551c28197344eaae697fa6e2bde4f3c",
+  "capturedAt": "2026-11-18T13:31:39.272Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Radian/Degree Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The measure of angle $M$ is $(\\pi )/(3(12))$ radians. The measure of angle $N$ is $12$ times the measure of angle $M$. What is the measure, in degrees, of angle $N$?",
+  "choices": {
+    "A": "$60$",
+    "B": "$12$",
+    "C": "$48$",
+    "D": "$72$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To find the measure of angle $N$ in degrees, first simplify the measure of angle $M$ in radians, then multiply by $12$ to find angle $N$ in radians, and finally convert to degrees. The measure of angle $M$ is $\\frac{\\pi}{3(12)} = \\frac{\\pi}{36}$ radians. Angle $N$ is $12$ times angle $M$, so $N = 12 \\times \\frac{\\pi}{36} = \\frac{12\\pi}{36}$. Simplifying by dividing both numerator and denominator by $12$ gives $N = \\frac{\\pi}{3}$ radians. To convert radians to degrees, multiply by $\\frac{180}{\\pi}$: $\\frac{\\pi}{3} \\times \\frac{180}{\\pi} = \\frac{180}{3} = 60$ degrees. Therefore, the measure of angle $N$ is $60$ degrees.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=7dbe06f6",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 17,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

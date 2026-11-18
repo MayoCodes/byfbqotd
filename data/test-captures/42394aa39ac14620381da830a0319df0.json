@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "42394aa39ac14620381da830a0319df0",
+  "capturedAt": "2026-11-18T13:31:21.210Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "A single specimen of T. magnificus, collected at a depth of 15 meters in a sedimentary layer in Montana, and a single specimen of A. primordialis, collected at a depth of 32 meters in a sedimentary layer in Argentina have been preserved as exemplars of their respective ______ former in a repository at Chicago's Field Museum and the latter in a repository at Paris's National Museum of Natural History.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of standard English?",
+  "choices": {
+    "A": "species, the",
+    "B": "species. The",
+    "C": "species; the",
+    "D": "species, and the"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The phrase 'the former in a repository at Chicago's Field Museum and the latter in a repository at Paris's National Museum of Natural History' is an appositive that provides additional information about where each specimen is preserved. A comma properly introduces this explanatory phrase. Since this construction lacks a finite verb and is not an independent clause, a comma—not a period, semicolon, or coordinating conjunction—is the appropriate punctuation.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=5ec218b1",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 17,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

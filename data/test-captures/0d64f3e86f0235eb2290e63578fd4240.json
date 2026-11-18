@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0d64f3e86f0235eb2290e63578fd4240",
+  "capturedAt": "2026-11-18T13:31:50.058Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Circle Translation and Transformation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, an equation of circle A is $(x-5)^{2}+(y-7)^{2} = 9$. Circle B has the same center as circle A but has a radius that is twice the radius of circle A. Which equation represents circle B?",
+  "choices": {
+    "A": "$(x-5)^{2}+(y-7)^{2} = 81$",
+    "B": "$(x-5)^{2}+(y-7)^{2} = 36$",
+    "C": "$(x-5)^{2}+(y-7)^{2} = 18$",
+    "D": "$(x-5)^{2}+(y-7)^{2} = 54$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The standard form of a circle equation is $(x-h)^2+(y-k)^2 = r^2$, where $(h,k)$ is the center and $r$ is the radius. For circle A, the equation $(x-5)^2+(y-7)^2 = 9$ shows that $r^2 = 9$, which means the radius is $r = \\sqrt{9} = 3$. Since circle B has the same center $(5,7)$ but a radius twice that of circle A, the radius of circle B is $2 \\times 3 = 6$. The equation of circle B must have $r^2 = 6^2 = 36$. Therefore, the equation is $(x-5)^2+(y-7)^2 = 36$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=af694f92",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 9,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

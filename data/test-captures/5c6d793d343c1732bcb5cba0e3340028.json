@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5c6d793d343c1732bcb5cba0e3340028",
+  "capturedAt": "2026-11-18T13:31:55.737Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "At the beginning of an experiment, the water level in a tank is $15$ centimeters (cm). During the first $6.0$ minutes of the experiment, the water level increases at an average rate of $4.5$ cm per minute. Then, the water level increases at a constant rate of $1.8$ cm per minute. If the water level reaches $60$ cm $x$ minutes after the beginning of the experiment, where $x > 6.0$, which equation represents this situation?",
+  "choices": {
+    "A": "$60 = 1.8(x - 6.0) + 42$",
+    "B": "$60 = 1.8x + 15$",
+    "C": "$60 = 1.8(x - 6.0) + 27$",
+    "D": "$60 = 1.8x + 42$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The water level increases in two distinct phases. During the first $6.0$ minutes, the water level increases at $4.5$ cm per minute, so the change in water level during this phase is $4.5 \\times 6.0 = 27$ cm. Adding this to the initial level gives $15 + 27 = 42$ cm, which is the water level at $x = 6.0$ minutes. After this point, the water level increases at a constant rate of $1.8$ cm per minute. The time elapsed after the $6.0$-minute mark is $(x - 6.0)$ minutes. Therefore, the equation representing the final water level is $60 = 1.8(x - 6.0) + 42$, where $42$ is the starting level for the second phase, $1.8$ is the rate of increase, and $(x - 6.0)$ is the duration of the second phase.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=d999eee8",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

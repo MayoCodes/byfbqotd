@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "11a020e99d95a15ee82856fa10202bb3",
+  "capturedAt": "2026-11-18T13:31:53.825Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A savings account containing $$45$ receives an automatic deposit of $$0.12$ every $4$ days. Until a certain limit is reached, which of the following can be used to represent the balance $b$, in dollars, in the account $d$ days after the automatic deposits begin, where $d$ is a multiple of $4$?",
+  "choices": {
+    "A": "$b = 4d$",
+    "B": "$b = 0.03d + 45$",
+    "C": "$b = 0.48d + 45$",
+    "D": "$b = 0.12d + 45$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The balance in the account can be modeled by a linear function of the form $b = md + c$, where $m$ is the rate of change per day and $c$ is the initial balance. The initial balance is $$45$. The account receives $$0.12$ every $4$ days, so the rate of change per day is $\\frac{0.12}{4} = 0.03$ dollars per day. Therefore, the balance $b$, in dollars, can be represented by the equation $b = 0.03d + 45$, where $d$ is the number of days after the automatic deposits begin.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=e48cddc0",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

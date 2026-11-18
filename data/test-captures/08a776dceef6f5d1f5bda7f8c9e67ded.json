@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "08a776dceef6f5d1f5bda7f8c9e67ded",
+  "capturedAt": "2026-11-18T13:31:32.569Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$g(x) = -16x^{2} + 100$$\n\nThe function $g$ gives the estimated height, in feet, of a rock $x$ seconds after the rock fell from a cliff. Based on the function, what is the estimated height, in feet, of the rock before it fell from the cliff?",
+  "choices": {},
+  "correctAnswer": "$$100$$",
+  "explanation": "The correct answer is $100$. The function $g(x) = -16x^2 + 100$ models the height of the rock as a function of time $x$ in seconds after it fell. The phrase 'before it fell from the cliff' refers to the initial moment when the rock began falling, which corresponds to time $x = 0$ seconds. To find the height at this moment, substitute $x = 0$ into the function: $g(0) = -16(0)^2 + 100 = -16(0) + 100 = 0 + 100 = 100$. Therefore, the estimated height of the rock before it fell was $100$ feet. This value is the constant term in the quadratic function, representing the initial height from which the rock fell.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=66b63634",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

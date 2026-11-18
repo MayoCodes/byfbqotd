@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c2bc59413935639dde8503112bbebf73",
+  "capturedAt": "2026-11-18T13:31:16.808Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The fish species Amphiprion ocellaris (the common clownfish) practices a feeding strategy known as hover-feeding (remaining near its anemone while consuming plankton, enabling it to scan for threats in all directions while foraging). Conversely, Gobiosoma oceanops (the neon goby), with which A. ocellaris shares territory in Caribbean coral reefs, practices cleaning behavior (entering the mouths of larger fish to remove parasites), substantially eliminating the fish's field of vision while foraging. Biologist Dr. Lisa Lam and colleagues hypothesized that the greater vulnerability inherent in the latter strategy is reflected in greater sensitivity to predator alarm signals from neighboring species.",
+  "prompt": "Which finding, if true, would most directly support Lam and colleagues' hypothesis?",
+  "choices": {
+    "A": "When Lam and colleagues released alarm signals from another local fish species, G. oceanops displayed escape behavior, whereas A. ocellaris did not display any behavioral change.",
+    "B": "When Lam and colleagues released control solutions of plain seawater, only G. oceanops displayed escape behavior, whereas both G. oceanops and A. ocellaris displayed such behavior when alarm signals from another local fish species were released.",
+    "C": "When Lam and colleagues released alarm signals from a species that does not share territory with A. ocellaris and G. oceanops, A. ocellaris displayed escape behavior, whereas G. oceanops did not display any behavioral change.",
+    "D": "When Lam and colleagues released A. ocellaris alarm pheromones, only A. ocellaris displayed escape behavior, whereas both A. ocellaris and G. oceanops displayed such behavior when G. oceanops alarm pheromones were released."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it directly supports the hypothesis that greater vulnerability leads to greater sensitivity to alarm signals. The text establishes that G. oceanops is more vulnerable due to its cleaning behavior that substantially eliminates its field of vision, while A. ocellaris is less vulnerable with its hover-feeding strategy that allows scanning for threats. Choice A shows that when alarm signals from another local species are released, G. oceanops displays escape behavior while A. ocellaris shows no behavioral change, confirming the predicted correlation between vulnerability and sensitivity.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=6c75c2d6",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c920920109a820c14c808a8c1acd3c05",
+  "capturedAt": "2026-11-18T13:31:56.376Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(t) = 18t^{3}$. The graph of $y = g(-t) + k$ in the $ty$-plane, where $k$ is a positive integer constant, has a $t$-intercept at $(p, 0)$ and a $y$-intercept at $(0, q)$, where $p$ and $q$ are constants. Which of the following must be true about $p$ and $q$?",
+  "choices": {
+    "A": "$p<0$ and $q>0$",
+    "B": "$p<0$ and $q<0$",
+    "C": "$p>0$ and $q<0$",
+    "D": "$p>0$ and $q>0$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The function $g$ is defined by $g(t) = 18t^3$. Applying the transformation, $g(-t) = 18(-t)^3 = 18(-1)^3(t^3) = -18t^3$. Therefore, the equation becomes $y = -18t^3 + k$. To find the $y$-intercept, substitute $t = 0$: $q = -18(0)^3 + k = k$. Since $k$ is a positive integer constant, $q > 0$. To find the $t$-intercept, set $y = 0$: $0 = -18p^3 + k$, which gives $18p^3 = k$, so $p^3 = \\frac{k}{18}$. Since $k > 0$, we have $p^3 > 0$. The cube root of a positive number is positive, so $p > 0$. Therefore, both $p > 0$ and $q > 0$ must be true.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=b9fa4723",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

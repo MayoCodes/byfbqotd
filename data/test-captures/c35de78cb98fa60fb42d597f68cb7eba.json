@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c35de78cb98fa60fb42d597f68cb7eba",
+  "capturedAt": "2026-11-18T13:31:28.171Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $x^{4} - 380x^{3}$?",
+  "choices": {
+    "A": "$(x^{2} + 38)(x^{2} - 10)$",
+    "B": "$(x^{2} - 38)(x^{2} - 10)$",
+    "C": "$x^{3}(x - 380)$",
+    "D": "$x^{3}(x + 380)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To find an equivalent expression, factor out the greatest common factor (GCF) from both terms. The expression $x^4 - 380x^3$ has two terms: $x^4$ and $380x^3$. Both terms contain the factor $x^3$. Factoring out $x^3$ from each term gives $x^3(\\frac{x^4}{x^3} - \\frac{380x^3}{x^3})$. Using the quotient rule for exponents, $\\frac{x^4}{x^3} = x^{4-3} = x^1 = x$, and $\\frac{380x^3}{x^3} = 380$. Therefore, the factored expression is $x^3(x - 380)$. This can be verified by expanding: $x^3(x - 380) = x^3 \\cdot x - x^3 \\cdot 380 = x^4 - 380x^3$, which matches the original expression.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=23e64a8a",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

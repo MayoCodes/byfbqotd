@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c56a1d32b7c654ba9253009cbb5b300d",
+  "capturedAt": "2026-11-18T13:30:58.617Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Resource Allocation Theory (RAT) holds that plants' growth patterns reflect resource allocation trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is soil nitrogen availability, which Emma Sullivan and colleagues found to be negatively associated with growth in drought-resistant sedges but Connor Murphy and colleagues found to be positively associated with growth in shade-tolerant ferns. This discrepancy is explicable in terms of RAT: the ferns' greater photosynthetic capacity means that higher nitrogen availability benefits them more than it benefits the sedges.",
+  "prompt": "Information in the text best supports which statement about RAT?",
+  "choices": {
+    "A": "It may be weakened by the finding that the costs and benefits associated with a particular ecological circumstance vary by species.",
+    "B": "It can explain why some species act in accordance with resource allocation trade-offs and others do not.",
+    "C": "It tends to allow for a better understanding of the benefits of ecological circumstances than the costs of those circumstances.",
+    "D": "It can account for observations of different species responding differently to similar ecological circumstances."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because the passage demonstrates RAT's ability to explain divergent species responses. The text shows that two species respond oppositely to the same circumstance: sedges show negative association with soil nitrogen while ferns show positive association. Critically, the passage states 'This discrepancy is explicable in terms of RAT' and provides the explanation—the ferns' greater photosynthetic capacity causes nitrogen to benefit them differently. This directly supports the claim that RAT can account for different species responding differently to similar circumstances.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=c86cb930",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 10,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

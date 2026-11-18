@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "84082f14d1bcce43833026844cb15f6c",
+  "capturedAt": "2026-11-18T13:31:41.805Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The density of aluminum is $2.7000$ grams per cubic centimeter. If a sample of aluminum is in the shape of a sphere with a diameter of $29.000$ centimeters, what is the mass of this sample, in grams, to the nearest whole number? (Use $3.14159$ for $\\pi$.)",
+  "choices": {},
+  "correctAnswer": "$$34479$$",
+  "explanation": "The correct answer is $34479$. Mass equals density times volume, so we need the volume of the sphere using $V = \\frac{4}{3}\\pi r^3$. With diameter $29.000$ centimeters, the radius is $r = 14.5$ centimeters, and $r^3 = (14.5)^3 = 3048.625$ cubic centimeters. The volume is $V = \\frac{4}{3} \\times 3.14159 \\times 3048.625 = 12770.04...$ cubic centimeters. The mass is $2.7000 \\times 12770.04... = 34479.108...$ grams, which rounds to $34479$ grams.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=d30911a8",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 21,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

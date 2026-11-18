@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a86c906bb888f2f17b491ee997f80a78",
+  "capturedAt": "2026-11-18T13:31:23.749Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Elena Kowalski of Middlebury College, along with researchers Kevin Tanaka of Stanford University and Sarah Oladipo of the University of Michigan, ______ on the research team for the Global Climate Archive, a comprehensive digital database that documents global temperature patterns from 1850 to the present day.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are serving",
+    "B": "serves",
+    "C": "serve",
+    "D": "have served"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because the singular verb 'serves' correctly agrees with the singular subject 'Elena Kowalski.' The phrase 'along with researchers Kevin Tanaka of Stanford University and Sarah Oladipo of the University of Michigan' is a prepositional phrase that modifies the subject but does not change its number. In Standard English, phrases introduced by 'along with,' 'as well as,' 'together with,' and similar expressions do not create compound subjects. Therefore, the verb must agree with 'Elena Kowalski' alone, which is singular.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=34849a25",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 21,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

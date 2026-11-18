@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c22f0224f2450f890981620509b840be",
+  "capturedAt": "2026-11-18T13:31:30.271Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Nonlinear Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nDuring a mountain climb, scientists measured atmospheric pressure $p$, in inches of mercury, at various altitudes $h$, in thousands of feet. A scatterplot shows the data collected, and a line of best fit is also shown.\n\nWhich of the following is the best interpretation of the slope of the line of best fit?",
+  "choices": {
+    "A": "The predicted atmospheric pressure increases at a constant rate of approximately $30$ inches of mercury per thousand feet over the climb.",
+    "B": "The predicted atmospheric pressure increases at a constant rate of approximately $0.8$ inches of mercury per thousand feet over the climb.",
+    "C": "The predicted atmospheric pressure decreases at a constant rate of approximately $30$ inches of mercury per thousand feet over the climb.",
+    "D": "The predicted atmospheric pressure decreases at a constant rate of approximately $0.8$ inches of mercury per thousand feet over the climb."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Using points $(0, 30)$ and $(10, 22)$: slope $= \\frac{22 - 30}{10 - 0} = -0.8$. The negative slope means pressure decreases by $0.8$ inches of mercury per thousand feet of altitude.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=408c1ea0",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c22f0224f2450f890981620509b840be/1-9561ee612dd1f825.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

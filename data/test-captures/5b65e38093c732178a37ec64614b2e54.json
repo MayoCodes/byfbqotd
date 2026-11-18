@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5b65e38093c732178a37ec64614b2e54",
+  "capturedAt": "2026-11-18T13:31:26.892Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Kwame Mensah was a twelfth-century Akan ceramicist known for celadon pottery.\n• Lars Andersson was a fifteenth-century Nordic ceramicist known for celadon pottery.\n• Celadon pottery refers to ceramics with distinctive jade-green glazes produced in various regional kilns.\n• Celadon pottery in the Nordic tradition tended to be simpler in decoration.\n• That in the Akan tradition tended to be elaborately decorated.\n• In Akan ceramics, surfaces often featured intricate crackle patterns, and many vessels displayed carved floral motifs.",
+  "prompt": "The student wants to make a distinction between the two celadon traditions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Unlike Nordic celadon pottery, which could include intricate crackle patterns and carved floral motifs, Akan ceramics were simpler in decoration.",
+    "B": "Being in the Akan tradition, the celadon pottery of Kwame Mensah differed from that of the Nordic ceramicist Lars Andersson.",
+    "C": "While celadon pottery in the Akan tradition tended to be elaborately decorated, that in the Nordic tradition featured distinctive jade-green glazes.",
+    "D": "Akan celadon pottery, unlike its simpler Nordic counterparts, tended to be elaborately decorated."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it effectively distinguishes the two celadon traditions by contrasting their key decorative characteristics. The sentence explicitly states that Akan celadon pottery 'tended to be elaborately decorated,' directly referencing note 5, while characterizing Nordic pottery as 'simpler,' which aligns with note 4. This comparison directly addresses the student's goal by highlighting the primary difference between the traditions: the Akan preference for elaborate decoration (with intricate crackle patterns and carved floral motifs, per note 6) versus the Nordic preference for simpler designs.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=10786360",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 26,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

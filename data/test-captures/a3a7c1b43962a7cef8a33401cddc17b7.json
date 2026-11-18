@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a3a7c1b43962a7cef8a33401cddc17b7",
+  "capturedAt": "2026-11-18T13:31:26.256Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• An icicle-shaped mineral formation hanging from a cave ceiling is called a stalactite.\n• A stalactite forms when water containing dissolved minerals drips from the cave ceiling and deposits those minerals, which gradually accumulate into a cone shape.\n• Stalactites will continue to grow and elongate over thousands of years.\n• A cave with a high growth rate has stalactites that lengthen quickly, and a cave with a low growth rate has stalactites that lengthen slowly.\n• Carlsbad Caverns in New Mexico has stalactites with a high growth rate.",
+  "prompt": "The student wants to describe how stalactites are formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Over time, many stalactites have formed in Carlsbad Caverns, a cave system in New Mexico with a high growth rate.",
+    "B": "Over time, water containing dissolved minerals drips from a cave ceiling and deposits those minerals, which gradually accumulate into a cone shape, or stalactite.",
+    "C": "A high-growth-rate cave, Carlsbad Caverns has many stalactites that will continue to grow and elongate over time.",
+    "D": "The icicle-shaped formations, or stalactites, that form in a cave will continue to grow and elongate over thousands of years."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it directly describes the stalactite formation process outlined in the notes. The sentence explains the complete mechanism: water containing dissolved minerals drips from the cave ceiling, deposits those minerals, and the minerals gradually accumulate into a cone shape, which becomes a stalactite. This choice synthesizes the key information from the second note and accomplishes the student's goal of describing how stalactites are formed through a clear cause-and-effect process.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=3d3ed61f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 25,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

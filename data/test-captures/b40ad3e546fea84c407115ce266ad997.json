@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b40ad3e546fea84c407115ce266ad997",
+  "capturedAt": "2026-11-18T13:31:18.673Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The default privacy framework has rapidly expanded across digital platforms—from social media to fitness apps—in part because users appreciate the convenience of preset configurations. But as a study by Dr. Claire Sullivan and colleagues demonstrates, users are typically inattentive to default privacy settings and maintain permissive data-sharing arrangements long after their comfort level with such sharing has diminished. The study also found that users were much more likely to restrict their privacy settings when they had to make an active privacy decision (for example, when they need to review and confirm privacy preferences to continue using an app) than at other times. The researchers therefore concluded that a policy requiring all users to actively configure privacy settings would likely ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "discourage privacy-conscious users from adopting platforms in the first place but would have little effect on whether inattentive users decide to adopt them.",
+    "B": "decrease users' assessment of privacy risks at a faster rate than if no such policy were implemented.",
+    "C": "result in reduced average periods of permissive data-sharing, but the overall experience of the longest-term users would improve.",
+    "D": "enable concerned users to protect more personal data than they would without such a policy in place but at the expense of a feature that may have motivated them to adopt platforms initially."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it logically follows from both study findings. The study shows that (1) users maintain permissive settings 'long after their comfort level has diminished' and (2) users are 'much more likely to restrict their privacy settings' when required to make active decisions. A policy requiring active configuration would therefore lead to more frequent restrictions, reducing the average duration of permissive data-sharing. This would particularly benefit longest-term users—those currently stuck in uncomfortable default arrangements.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=ca78dfe5",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 13,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

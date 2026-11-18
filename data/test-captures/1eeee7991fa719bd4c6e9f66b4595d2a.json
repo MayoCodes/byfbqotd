@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1eeee7991fa719bd4c6e9f66b4595d2a",
+  "capturedAt": "2026-11-18T13:31:15.162Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nIn wolf populations, males typically disperse from their natal pack when they reach maturity, whereas females often remain with their birth pack. Sofia Vargas and her research team hypothesized that this difference in life trajectory should be reflected in the behavior of wolf pups: male pups should spend less time in close proximity to the den than female pups do, since proximity-seeking behaviors are more advantageous for individuals who will remain in familiar territory. The researchers recorded the percent of observation time that pups spent near the den and the percent of time spent exploring areas distant from the den.",
+  "prompt": "Which choice best describes data from the graph that support Vargas and colleagues' hypothesis?",
+  "choices": {
+    "A": "More than half of subject W4's observation time was spent near the den, whereas less than half of subject W11's observation time was spent near the den.",
+    "B": "Neither subject W11 nor subject W4 spent the majority of observation time exploring distant areas, whereas both subjects spent more than 40% of their time near the den.",
+    "C": "The percent of time spent near the den was smaller for subject W11 than for subject W4, and the percent of time spent exploring distant areas was greater for subject W11 than for subject W4.",
+    "D": "The percent of subject W4's time spent near the den ranged from approximately 58% to approximately 66%, whereas the percent of subject W11's time spent near the den ranged from approximately 41% to approximately 49%."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it accurately describes data from the graph that directly support Vargas and colleagues' hypothesis that male wolf pups should spend less time near the den than female pups. The graph shows that subject W11 (male) spent approximately 45% of observation time near the den, while subject W4 (female) spent approximately 62% near the den. Additionally, subject W11 spent approximately 38% of time exploring distant areas compared to subject W4's approximately 21%. This two-part pattern confirms the predicted sex-based behavioral differences, with males showing less den-proximity and more distant exploration than females.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=ace2ba5f",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1eeee7991fa719bd4c6e9f66b4595d2a/1-a01ad0be7dbfa555.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 8,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

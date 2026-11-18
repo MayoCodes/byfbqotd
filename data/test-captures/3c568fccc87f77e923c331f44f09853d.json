@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3c568fccc87f77e923c331f44f09853d",
+  "capturedAt": "2026-11-18T13:31:15.974Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nWhile conducting observations for a marine biology field study, a group of students noticed a crystal jelly (Aequorea victoria), an organism of the phylum Cnidaria (jellyfish and related organisms), emitting blue-green light through chemical reactions as the group approached it in shallow coastal waters. Researching this behavior, the students learned that this phenomenon is commonly referred to as \"bioluminescence\" and serves various functions including attracting prey, communication, and defense against predators. Upon learning of other marine organisms that also exhibit the behavior they had observed, the students hypothesized that the phenomenon is exclusive to cnidarians.",
+  "prompt": "Which choice best describes data from the table that weaken the students' claim?",
+  "choices": {
+    "A": "The Atolla jellyfish, in the phylum Cnidaria, is known to exhibit bioluminescence, and the sergestid shrimp, in the phylum Arthropoda, is not.",
+    "B": "Neither the sergestid shrimp nor the Pacific sea nettle is known to exhibit bioluminescence.",
+    "C": "Both the flashlight fish and the vampire squid are known to exhibit bioluminescence.",
+    "D": "Unlike the Atolla jellyfish, the Pacific sea nettle is not known to exhibit bioluminescence, even though both are in the phylum Cnidaria."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it identifies data that directly contradicts the students' hypothesis that bioluminescence is exclusive to cnidarians. The table shows that the flashlight fish (Photoblepharon palpebratus) belongs to the phylum Chordata and the vampire squid (Vampyroteuthis infernalis) belongs to the phylum Mollusca, yet both exhibit bioluminescence. These are two distinct non-cnidarian phyla demonstrating the trait, which refutes the claim of exclusivity to Cnidaria and proves that bioluminescence occurs across multiple phyla.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=75afba1d",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/3c568fccc87f77e923c331f44f09853d/1-297a7c72233e3f73.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 9,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

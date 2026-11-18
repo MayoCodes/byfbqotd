@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a6bda043dfa741cd735203bdf1fcac45",
+  "capturedAt": "2026-11-18T13:31:54.460Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Evaluating Statistical Claims Observational Studies And Experiments",
+  "subskill": "Identify Largest Generalization Population",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A psychology club from a certain high school in Texas conducted an experiment to study the effects of music on memory. A sample of $60$ students was selected at random from the high school to participate in the experiment. First, the students studied a list of $20$ words while listening to classical music through headphones. Then, after a $10$-minute break, the students were asked to recall as many words as possible without music. $24$ students were able to correctly recall at least $15$ of the words. Which of the following is the largest population to which the results of the experiment can be generalized?",
+  "choices": {
+    "A": "All students from high schools in Texas",
+    "B": "The 60 students who participated in the experiment",
+    "C": "All students from the high school",
+    "D": "The 24 students who were able to correctly recall at least 15 of the words"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Results from a random sample can be generalized to the population from which the sample was randomly selected. The problem states that the $60$ students were selected at random from the high school. Since the random sampling was done from this particular high school, the experimental results can be generalized to all students from that high school. Random sampling ensures that the sample is representative of the school's student population. The results cannot be generalized beyond this school because students from other schools were not included in the random selection process.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=16679f9c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

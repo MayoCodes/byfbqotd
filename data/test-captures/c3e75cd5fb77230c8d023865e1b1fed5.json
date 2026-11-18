@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c3e75cd5fb77230c8d023865e1b1fed5",
+  "capturedAt": "2026-11-18T13:31:51.362Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Mean from Data",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Each of the following frequency tables represents a data set. Which data set has the greatest mean?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find the mean, multiply each value by its frequency, add the products, and divide by the total frequency. Choice A: $(15 \\cdot 2 + 35 \\cdot 2 + 55 \\cdot 3 + 75 \\cdot 3) \\div 10 = 490 \\div 10 = 49$. Choice B: $(20 \\cdot 3 + 40 \\cdot 3 + 50 \\cdot 3 + 60 \\cdot 3) \\div 12 = 510 \\div 12 = 42.5$. Choice C: $(20 \\cdot 1 + 40 \\cdot 2 + 60 \\cdot 5) \\div 8 = 400 \\div 8 = 50$. Choice D: $(20 \\cdot 2 + 40 \\cdot 2 + 60 \\cdot 3 + 70 \\cdot 3) \\div 10 = 510 \\div 10 = 51$. The greatest mean is $51$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=52254dba",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c3e75cd5fb77230c8d023865e1b1fed5/1-6b17191d59a568c2.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/c3e75cd5fb77230c8d023865e1b1fed5/2-f678f15b3519d12b.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/c3e75cd5fb77230c8d023865e1b1fed5/3-d59f184de59fce39.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/c3e75cd5fb77230c8d023865e1b1fed5/4-b6f1f4911fde0684.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

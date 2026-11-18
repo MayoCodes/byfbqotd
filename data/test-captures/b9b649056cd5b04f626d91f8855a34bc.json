@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b9b649056cd5b04f626d91f8855a34bc",
+  "capturedAt": "2026-11-18T13:31:44.369Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$28g + 63s = 266$$\n\nThe given equation represents the volume of gravel $g$, in cubic yards, and the volume of sand $s$, in cubic yards, in a mixture of gravel and sand that weighs $266$ pounds. If the volume of sand in the mixture is $2$ cubic yards, what is the volume of gravel in the mixture, in cubic yards?",
+  "choices": {},
+  "correctAnswer": "$$5$$",
+  "explanation": "The correct answer is $5$. To find the volume of gravel, substitute the given value of $s = 2$ into the equation $28g + 63s = 266$. This gives $28g + 63(2) = 266$. Multiplying yields $63 \\times 2 = 126$, so the equation becomes $28g + 126 = 266$. Subtracting $126$ from both sides gives $28g = 266 - 126 = 140$. Dividing both sides by $28$ yields $g = \\frac{140}{28} = 5$. Therefore, the volume of gravel in the mixture is $5$ cubic yards.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=c2ebf269",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

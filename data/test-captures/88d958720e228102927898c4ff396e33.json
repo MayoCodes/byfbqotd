@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "88d958720e228102927898c4ff396e33",
+  "capturedAt": "2026-11-18T13:31:08.184Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Present Study or Findings",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• A patent prevents a drug's formula from being produced and sold without permission from the patent holder.\n• When a drug's patent expires, the drug becomes available for generic production and can be legally manufactured by any company.\n• Lipaxor is a cholesterol medication developed by Chemwell Pharmaceuticals.\n• It became available for generic production in 2018.\n• Gluconil is a diabetes medication developed by MediCorp Industries.\n• It became available for generic production in 2019.",
+  "prompt": "The student wants to emphasize the order in which Lipaxor and Gluconil became available for generic production. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Lipaxor, a cholesterol medication developed by Chemwell Pharmaceuticals, and Gluconil, a diabetes medication developed by MediCorp Industries, are both available for generic production.",
+    "B": "Lipaxor, a cholesterol medication developed by Chemwell Pharmaceuticals, became available for generic production in 2018, followed by MediCorp Industries' diabetes medication Gluconil in 2019.",
+    "C": "The year was 2019, and the patents for Lipaxor and Gluconil had finally expired.",
+    "D": "Though they once were patented drugs, Lipaxor and Gluconil are now available for generic production."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively emphasizes the chronological order in which the two drugs became available for generic production. The sentence explicitly states that Lipaxor became available in 2018 and uses the phrase 'followed by' to signal temporal succession before introducing Gluconil's 2019 availability. By presenting both specific dates in chronological sequence and employing transitional language that highlights the temporal relationship, the sentence directly accomplishes the student's stated goal of emphasizing order.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=c3710e5e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 24,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

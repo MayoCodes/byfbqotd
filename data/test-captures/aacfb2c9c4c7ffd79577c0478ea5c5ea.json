@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aacfb2c9c4c7ffd79577c0478ea5c5ea",
+  "capturedAt": "2026-11-18T13:31:38.646Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the sum of the solutions to the equation $((x-3)(x-7))/(x-4) = 0$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$14$",
+    "C": "$10$",
+    "D": "$7$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A rational expression equals zero if and only if its numerator equals zero and its denominator is non-zero. Setting the numerator equal to zero gives $(x-3)(x-7) = 0$. By the zero product property, either $x-3 = 0$ or $x-7 = 0$, which yields $x = 3$ or $x = 7$. Both solutions must be verified to ensure they don't make the denominator zero. For $x = 3$, the denominator is $3-4 = -1 \\neq 0$, so $x = 3$ is valid. For $x = 7$, the denominator is $7-4 = 3 \\neq 0$, so $x = 7$ is valid. The sum of the solutions is $3 + 7 = 10$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=6d6c3caa",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6edae7c6c40bd3036ec39edbd52bba0f",
+  "capturedAt": "2026-11-18T13:31:48.140Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$f(x) = 4(g(x)) - 3$$\n\n$$g(x) = |11x - 7|$$\n\nThe functions $f$ and $g$ are defined by the given equations. What is the value of $f(-12)$?",
+  "choices": {
+    "A": "$553$",
+    "B": "$-559$",
+    "C": "$548$",
+    "D": "$139$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To find the value of $f(-12)$, first evaluate the inner function $g(-12)$. Substituting $x = -12$ into $g(x) = |11x - 7|$ gives $g(-12) = |11(-12) - 7|$. Calculating inside the absolute value: $11(-12) = -132$, and $-132 - 7 = -139$. Applying the absolute value gives $g(-12) = |-139| = 139$. Now substitute this result into the outer function: $f(-12) = 4(g(-12)) - 3 = 4(139) - 3$. Multiplying gives $4(139) = 556$, and subtracting $3$ gives $556 - 3 = 553$. Therefore, $f(-12) = 553$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=852b8bb3",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 6,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

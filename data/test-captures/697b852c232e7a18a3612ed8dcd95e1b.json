@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "697b852c232e7a18a3612ed8dcd95e1b",
+  "capturedAt": "2026-11-18T13:31:05.669Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Ice core sampling, a means of indirect climate reconstruction, has revealed previously unknown data about ancient glacial periods at vast depths beneath ______ the glacial maximum data from Dome Fuji; and, as of 2023, over 50 other climate records that are too ancient and deep to be analyzed with surface measurements.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Antarctica, at 2,774 meters deep,",
+    "B": "Antarctica at 2,774 meters deep:",
+    "C": "Antarctica: at 2,774 meters deep,",
+    "D": "Antarctica at 2,774 meters deep,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The colon after 'Antarctica' correctly introduces a list of specific ice core examples that illustrate the general statement about depths beneath Antarctica. The comma after 'at 2,774 meters deep' properly sets off this non-restrictive appositive phrase before continuing to the next item in the list. This punctuation pattern—colon to introduce the list, comma to set off the appositive—conforms to the conventions of Standard English.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=1f32a787",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 20,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

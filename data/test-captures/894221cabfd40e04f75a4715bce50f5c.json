@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "894221cabfd40e04f75a4715bce50f5c",
+  "capturedAt": "2026-11-18T13:30:57.357Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Desalination plants and many other widely used water purification facilities have membrane filters that trap particles and contaminants, causing fouling. This fouling increases energy requirements and causes efficiency loss, which decreases the performance and life span of the system. Using graphene oxide and polymer compounds, Sofia Lindqvist and colleagues at a National Science Foundation research center have created a membrane for filtration systems that reduces fouling to the point where it is almost nonexistent. The new membrane is suitable for common applications, unlike other methods that require high-pressure environments.",
+  "prompt": "What does the text most strongly suggest about the membrane created by Lindqvist and colleagues?",
+  "choices": {
+    "A": "It can likely be used to reduce energy requirements and efficiency loss in desalination plants and other common water purification facilities.",
+    "B": "It is unlikely to be widely used because it can be applied only in high-pressure environments.",
+    "C": "It is unlikely to reduce efficiency loss in filtration systems that have multiple membrane filters.",
+    "D": "It can likely improve the energy requirements of certain filtration systems but not of desalination plants."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it logically connects information from the passage. The text states that 'desalination plants and many other widely used water purification facilities' experience fouling that 'increases energy requirements and causes efficiency loss.' Lindqvist's membrane 'reduces fouling to the point where it is almost nonexistent' and is 'suitable for common applications.' Since the membrane solves the fouling problem and works in common applications, it can likely reduce energy requirements and efficiency loss in the facilities mentioned.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=6422f929",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 8,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

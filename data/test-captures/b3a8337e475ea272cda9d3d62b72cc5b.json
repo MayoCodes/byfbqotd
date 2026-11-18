@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b3a8337e475ea272cda9d3d62b72cc5b",
+  "capturedAt": "2026-11-18T13:31:23.118Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Situated on the Adriatic Sea in Italy, the city of Venice was a member of an influential naval confederation that controlled Mediterranean commerce between the 9th and 13th ______ a strategic alliance of cities from five modern nations, it has been described as a precursor to today's United Nations.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "centuries: the Maritime Republics,",
+    "B": "centuries, the Maritime Republics,",
+    "C": "centuries; the Maritime Republics,",
+    "D": "centuries—the Maritime Republics;"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use with appositives and independent clauses. The em dash after 'centuries' correctly introduces the appositive 'the Maritime Republics,' which renames 'an influential naval confederation.' The semicolon after 'Republics' properly closes the appositive and separates it from the following independent clause ('a strategic alliance of cities from five modern nations, it has been described as a precursor to today's United Nations'). This em dash-semicolon combination appropriately handles the sentence's complex three-part structure.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=e9afa8db",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 20,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

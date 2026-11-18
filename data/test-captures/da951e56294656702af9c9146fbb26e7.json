@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "da951e56294656702af9c9146fbb26e7",
+  "capturedAt": "2026-11-18T13:31:33.179Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "During maintenance, a swimming pool is being drained. A certain pool contained $850$ gallons of water when draining began and lost water at a rate of $12.5$ gallons per hour. At this rate, how many hours after draining began did the pool contain $350$ gallons?",
+  "choices": {},
+  "correctAnswer": "$$40$$",
+  "explanation": "The correct answer is $40$. This problem involves a linear rate of change where water drains from the pool at a constant rate. To find the time elapsed, first calculate the total amount of water drained: the pool initially contained $850$ gallons and ended with $350$ gallons, so $850 - 350 = 500$ gallons were drained. Since water drains at a rate of $12.5$ gallons per hour, divide the total water drained by the rate: $\\frac{500}{12.5} = 40$ hours. This can be verified by checking: if $40$ hours elapsed at $12.5$ gallons per hour, then $12.5 \\times 40 = 500$ gallons drained, leaving $850 - 500 = 350$ gallons, which matches the given final amount.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=f49a7b21",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

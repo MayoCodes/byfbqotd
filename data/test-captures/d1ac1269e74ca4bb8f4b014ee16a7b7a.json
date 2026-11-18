@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d1ac1269e74ca4bb8f4b014ee16a7b7a",
+  "capturedAt": "2026-11-18T13:31:17.425Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Social Science/History",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Norway, which, according to international indices, has relatively strong labor market regulations and low education inequality, experienced an unemployment rate of 4.1% in 2021, whereas Bangladesh, which shows the opposite pattern on such indices, had an unemployment rate of only 3.2% that year. Such a comparison may seem consistent with the theoretical critique that by diluting flexibility in labor markets, strong regulations inhibit states' ability to counteract unemployment pressures, but when Kristin Vala et al. examined regulatory strength, education inequality, and unemployment in over 110 countries, they found that regulatory strength, if associated with low inequality, restrains unemployment pressures, which would suggest that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "factors other than Norway's regulatory structure contributed to the country's unemployment rate exceeding that of Bangladesh in 2021.",
+    "B": "unemployment in Norway in 2021 would have been higher if Norway's government had more flexibility in labor markets.",
+    "C": "international indices may have overestimated the strength of Norway's labor market regulations relative to Bangladesh's.",
+    "D": "the 2021 difference between Norway's unemployment rate and Bangladesh's unemployment rate is primarily but not exclusively attributable to the different levels of education inequality in the two countries."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most logically follows from the research findings. Vala et al. found that regulatory strength, when associated with low inequality, restrains unemployment pressures—meaning it helps reduce unemployment. Norway has both strong regulations and low education inequality, so according to the research, it should have lower unemployment than Bangladesh (which has weak regulations and high inequality). However, Norway's unemployment rate (4.1%) is actually higher than Bangladesh's (3.2%). This contradiction suggests that factors beyond regulatory structure and education inequality must be influencing Norway's higher unemployment rate.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=5705f8ad",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 11,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "80b8dbb44c90c7bf12eec4adf1e94d46",
+  "capturedAt": "2026-11-18T13:31:49.411Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Parallel/Perpendicular Line Slope",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $m$ is defined by $8x + 15y - 11 = 0$. Line $n$ is perpendicular to line $m$ in the $xy$-plane. What is the slope of line $n$?",
+  "choices": {
+    "A": "$-\\frac{(15)}{(11)}$",
+    "B": "$-\\frac{8}{(15)}$",
+    "C": "$\\frac{(11)}{(15)}$",
+    "D": "$\\frac{(15)}{8}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Rewriting $8x + 15y - 11 = 0$ in slope-intercept form: $y = -\\frac{8}{15}x + \\frac{11}{15}$. The slope of line $m$ is $-\\frac{8}{15}$. The perpendicular slope is the negative reciprocal: $\\frac{15}{8}$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=8e3591ed",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 8,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "458a3aef9610dad4b1a2a95d26697d95",
+  "capturedAt": "2026-11-18T13:31:58.322Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$\\frac{1}{(46)}x^{2} + (m - \\frac{1}{(46)}n)x - mn = 0$$\n\nIn the given equation, $m$ and $n$ are positive constants. The product of the solutions to the given equation is $-2cmn$, where $c$ is a constant. What is the value of $c$?",
+  "choices": {},
+  "correctAnswer": "$$23$$",
+  "explanation": "The correct answer is $23$. For a quadratic equation $ax^2 + bx + c = 0$, the product of the solutions equals $\\frac{c}{a}$ (constant term divided by leading coefficient). Here, the leading coefficient is $\\frac{1}{46}$ and the constant term is $-mn$. The product of solutions is $\\frac{-mn}{\\frac{1}{46}} = -mn \\cdot 46 = -46mn$. Setting this equal to $-2cmn$: $-46mn = -2cmn$. Dividing both sides by $-mn$: $46 = 2c$, so $c = 23$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=d9b84cfc",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

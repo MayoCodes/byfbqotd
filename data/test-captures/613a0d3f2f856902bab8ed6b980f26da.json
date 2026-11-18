@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "613a0d3f2f856902bab8ed6b980f26da",
+  "capturedAt": "2026-11-18T13:31:55.106Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "For the positive quantities $a$, $b$, and $c$, $35%$ of $a$ is equivalent to $70%$ of $b$, and $b$ is equivalent to $48%$ of $c$. What percentage of $c$ is $a$? (Disregard the $%$ sign when entering your answer. For example, if your answer is $52%$, enter $52$)",
+  "choices": {},
+  "correctAnswer": "$$96$$",
+  "explanation": "The correct answer is $96$. To find what percentage of $c$ the quantity $a$ represents, first translate the given percentage relationships into algebraic equations. The statement '$35\\%$ of $a$ is equivalent to $70\\%$ of $b$' can be written as $0.35a = 0.70b$. The statement '$b$ is equivalent to $48\\%$ of $c$' can be written as $b = 0.48c$. To express $a$ in terms of $c$, substitute the expression for $b$ from the second equation into the first equation: $0.35a = 0.70(0.48c)$. Multiplying on the right side gives $0.35a = 0.336c$. Dividing both sides by $0.35$ gives $a = \\frac{0.336}{0.35}c = 0.96c$. This means that $a$ is $0.96$ times $c$, which is equivalent to $96\\%$ of $c$. Therefore, the answer is $96$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=575a67cc",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3549f84cec42bd9f493ab5fe8f5bc65f",
+  "capturedAt": "2026-11-18T13:31:39.909Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$5x + 2y = 21$$\n\n$$3x - 2y = 11$$\n\nHow many solutions does the given system of equations have?",
+  "choices": {
+    "A": "Infinitely many",
+    "B": "Zero",
+    "C": "Exactly two",
+    "D": "Exactly one"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The first equation has slope $-\\frac{5}{2}$ and the second has slope $\\frac{3}{2}$. Since the slopes are different, the lines intersect at exactly one point. Adding the equations gives $8x = 32$, so $x = 4$ and $y = \\frac{1}{2}$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=adcc5f52",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

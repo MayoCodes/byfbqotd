@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fcbe9f4424055f60817f41f6185b7bcc",
+  "capturedAt": "2026-11-18T13:31:37.352Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, the graph of the linear function $g$ contains the points $(0, 0)$ and $(1, 25)$. Which equation defines $g$, where $y = g(x)$?",
+  "choices": {
+    "A": "$g(x) = \\frac{1}{(25)} x + 25$",
+    "B": "$g(x) = 25x$",
+    "C": "$g(x) = 25x + 25$",
+    "D": "$g(x) = x + 25$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. A linear function has the form $g(x) = mx + b$, where $m$ is the slope and $b$ is the y-intercept. Since the function passes through the point $(0, 0)$, the y-intercept is $b = 0$. To find the slope, use the two given points $(0, 0)$ and $(1, 25)$ with the slope formula: $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{25 - 0}{1 - 0} = \\frac{25}{1} = 25$. Therefore, the equation is $g(x) = 25x + 0 = 25x$. This can be verified by checking both points: $g(0) = 25(0) = 0$ and $g(1) = 25(1) = 25$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=2a1dc790",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 14,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

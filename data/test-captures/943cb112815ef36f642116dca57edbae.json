@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "943cb112815ef36f642116dca57edbae",
+  "capturedAt": "2026-11-18T13:31:13.888Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Identify Shared Conclusion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nIn separate studies, Diego Mendoza and colleagues and Sofia Vargas and colleagues examined whether ants transmit danger signals to one another using pheromone trails—chemical pathways deposited by ants. Mendoza and colleagues excluded all pathways other than pheromones by using transparent barriers to prevent visual contact between colonies while allowing volatile chemical compounds through—an essential step Vargas and colleagues' study did not take.\n\nText 2\nMendoza and colleagues took the necessary precaution of separating the colonies visually (thereby excluding visual communication). However, any barrier used must allow the volatile compounds of pheromone trails to pass through, and this permeability would also allow air currents and vibrations through. Thus, the researchers' experimental design cannot ensure that any signal transmission observed can be attributed to pheromones and not to some other pathway.",
+  "prompt": "Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?",
+  "choices": {
+    "A": "It is impossible to determine whether pheromones are the mechanism for any observed signal transmission unless visual communication is precluded.",
+    "B": "Excluding visual communication between ant colonies is sufficient to evaluate whether any observed signal transmission involved pheromones.",
+    "C": "Vargas and colleagues' study did not find convincing evidence of signal transmission between ant colonies.",
+    "D": "A barrier that is impervious to both visual cues and volatile compounds is necessary to examine signal transmission via pheromones."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because both authors agree that excluding visual communication is necessary for determining pheromone involvement in signal transmission. Text 1 describes visual exclusion as 'an essential step' that Vargas's study failed to take, and Text 2 calls it a 'necessary precaution.' While Text 2 argues this step alone is insufficient due to other confounding pathways (air currents and vibrations), both authors endorse visual exclusion as a prerequisite for evaluating whether pheromones transmit signals.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=aa3c721a",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 6,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

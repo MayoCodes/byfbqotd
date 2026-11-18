@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "883a235ac876e0005bd3f5224f361da6",
+  "capturedAt": "2026-11-18T13:31:57.043Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A certain bacteria culture exhibits a special growth rate for the first $6$ hours the culture is monitored followed by a lower growth rate for the remainder of the time. Dr. Chen started monitoring one of these cultures with an original population of $1200$ bacteria. $6$ hours after monitoring began, the population had increased by $0.8%$ of the original population. $9$ hours after monitoring began, the population had increased by an additional $0.2%$ of the population at the end of the first 6 hours. Every $3$ hours after the first $9$ hours, the population had increased by an additional $0.2%$ of the population $3$ hours before. Which of the following equations could represent the population $P(x)$, in number of bacteria, $x$ hours after monitoring began, where $x \\ge 6$?",
+  "choices": {
+    "A": "$P(x) = 1209.6(1.002)^{3}x-18$",
+    "B": "$P(x) = 1209.6(1.002)^\\frac{x}{3} - 2$",
+    "C": "$P(x) = 1209.6(1.002)^{3}x-6$",
+    "D": "$P(x) = 1209.6(1.002)^\\frac{x}{3} - 6$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. At hour $6$, the population is $1200(1.008) = 1209.6$. After hour $6$, the population grows by $0.2\\%$ every $3$ hours, giving a growth factor of $1.002$. The number of $3$-hour periods since hour $6$ is $\\frac{x - 6}{3} = \\frac{x}{3} - 2$. Therefore, $P(x) = 1209.6(1.002)^{\\frac{x}{3} - 2}$. At $x = 6$: exponent $= 0$, giving $P(6) = 1209.6$. At $x = 9$: exponent $= 1$, giving one growth period.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=1df704dd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 17,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

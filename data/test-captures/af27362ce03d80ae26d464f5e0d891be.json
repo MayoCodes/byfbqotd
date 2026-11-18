@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "af27362ce03d80ae26d464f5e0d891be",
+  "capturedAt": "2026-11-18T13:31:10.733Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Dr. Sofia Bergman and colleagues ______ tanks of sterilized water with suspensions of live bacteria collected from waterways in five locations across Ontario, including rocky streams and calm lakes. Bergman and team then raised zebrafish in the tanks to see if the different bacterial suspensions affected levels of chemical signals like trimethylamine in the fishes' tissues.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "filtered",
+    "B": "populated",
+    "C": "excluded",
+    "D": "measured"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most logically and precisely completes the text's description of the experimental procedure. As used in this context, 'populated' means to introduce living organisms into an environment. The text indicates that researchers started with sterilized water, which contains no microorganisms, and treated it with 'suspensions of live bacteria collected from waterways' to establish different bacterial communities. This experimental design allowed them to test whether varied bacterial populations would affect chemical signals in zebrafish tissues, making 'populated' the most appropriate term for describing the introduction of bacteria into previously sterile tanks.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=6f66f012",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 1,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50223c50a695708a7e993aeffe1df110",
+  "capturedAt": "2026-11-18T13:31:19.946Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Some places that were once part of the French Empire, such as Corsica, reveal few traces of a past connection to France, linguistic or otherwise. In contrast, Haiti broke free from the French Empire in the eighteenth century yet still bears its imperial history in its language, French Creole ______ spoken by most present-day inhabitants of Haiti.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "is",
+    "B": "being",
+    "C": "is being",
+    "D": "will be"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite present participle 'being' correctly creates an absolute phrase ('French Creole being spoken by most present-day inhabitants of Haiti') that functions as an appositive describing 'its language.' This construction avoids creating a second independent clause, which would result in a comma splice if a finite verb were used. The participial phrase appropriately elaborates on Haiti's linguistic heritage as evidence of its retained imperial connection.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=cdc6cf3e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 15,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

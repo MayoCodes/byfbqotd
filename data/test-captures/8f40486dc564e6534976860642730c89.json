@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8f40486dc564e6534976860642730c89",
+  "capturedAt": "2026-11-18T13:31:08.820Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Introduce to New Audience",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• During the Digital Revolution (from the mid-1990s to 2020), the percentage of people with internet access in Kenya grew significantly (45%).\n• Digitalization occurred as the country invested heavily in telecommunications infrastructure to support its emerging technology sector.\n• The capital city of Nairobi experienced the most dramatic connectivity growth (3,500%).\n• A comparison of a 1995 connectivity report for Nairobi with infrastructure maps of the city from 2020 reflects the city's digital expansion.\n• According to technology historian Samuel Kariuki, these documents present \"a powerful visual representation of the transformation of Nairobi's connectivity infrastructure.\"",
+  "prompt": "The student wants to connect the quotation from Kariuki to the increase in Kenya's internet access during the Digital Revolution. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Kariuki claims that documents from Digital Revolution-era Nairobi present \"a powerful visual representation of the transformation of Nairobi's connectivity infrastructure\" during a time period in which Kenya experienced a significant (3,500%) increase in internet access.",
+    "B": "Heavy investment in telecommunications infrastructure in cities like Nairobi created a phenomenon that Kariuki describes as \"a powerful visual representation\" of how Kenya transformed during the Digital Revolution.",
+    "C": "Kariuki claims that period documents from Kenya present \"a powerful visual representation\" of how the country's rural infrastructure was transformed by connectivity shifts during the Digital Revolution.",
+    "D": "The sizeable growth in Kenya's internet access during the Digital Revolution is reflected in before-and-after documents that present, in Kariuki's view, \"a powerful visual representation\" of how the increase transformed Nairobi."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it effectively connects Kenya's internet access increase to Kariuki's quotation. The sentence begins by referencing 'the sizeable growth in Kenya's internet access during the Digital Revolution' (note 1's 45% increase), then links this growth to the comparative documents from 1995 and 2020 (note 4). It incorporates Kariuki's characterization of these documents as 'a powerful visual representation' (note 5) and specifies that this representation shows 'how the increase transformed Nairobi' (note 3's dramatic connectivity growth). This synthesis accomplishes the stated goal by establishing a clear causal chain: Kenya's internet growth is visually documented in before-and-after materials that Kariuki views as powerfully representing Nairobi's transformation.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=60b1c054",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 25,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

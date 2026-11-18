@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3bbf31d81a041d59517201df0fd5f28a",
+  "capturedAt": "2026-11-18T13:31:19.311Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Should Canada increase healthcare spending? As of 2019, Canada's healthcare spending level (12% of GDP) was higher than the optimal point on the Beveridge model. A theoretical framework for analyzing the relationship between healthcare spending and outcomes, the model can be used to determine whether spending increases will improve a country's health outcomes, according to some ______ 2019 data suggested that Canada was above the optimal spending level.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "policy analysts. The",
+    "B": "policy analysts the",
+    "C": "policy analysts; as the",
+    "D": "policy analysts, the"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is punctuation use between sentences. The text contains two independent clauses: 'the model can be used to determine whether spending increases will improve a country's health outcomes, according to some policy analysts' and 'The 2019 data suggested that Canada was above the optimal spending level.' The period correctly marks the boundary between these two sentences, with 'The' properly capitalized to begin the new sentence.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=947b85cc",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 14,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

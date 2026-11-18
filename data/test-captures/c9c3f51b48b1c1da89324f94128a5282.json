@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c9c3f51b48b1c1da89324f94128a5282",
+  "capturedAt": "2026-11-18T13:31:24.377Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Every US state has an associated state fossil, which is typically selected by a group of paleontologists and historians, then passed through the state legislature to receive its official designation. For example, Montana's Maiasaura peeblesorum was formally designated in 1985, and Maryland's Astrodon johnstoni in 1998. ______ years pass between a fossil's selection and official designation, as the legislative process can be notoriously slow.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In many cases,",
+    "B": "Therefore,",
+    "C": "Indeed,",
+    "D": "Similarly,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because 'In many cases,' introduces a qualified generalization about delays between selection and designation. This transition appropriately signals that delays are common but not universal, maintaining appropriate epistemic modesty based on the limited examples provided. It logically continues discussing the designation process while introducing its temporal dimension.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=3963e802",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 22,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

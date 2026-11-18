@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7c8c410799f92b12fa4f5084fcd24d1b",
+  "capturedAt": "2026-11-18T13:31:31.930Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = -8x + 12$$\n\n$$y = -12x + 16$$\n\nWhat is the solution $(x, y)$ to the given system of equations?",
+  "choices": {
+    "A": "$(1, 4)$",
+    "B": "$(16, 12)$",
+    "C": "$(12, 16)$",
+    "D": "$(4, 1)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To solve this system of linear equations, both equations can be set equal to each other since they are both solved for $y$. Setting the right sides equal gives $-8x + 12 = -12x + 16$. Adding $12x$ to both sides yields $4x + 12 = 16$. Subtracting $12$ from both sides gives $4x = 4$. Dividing both sides by $4$ results in $x = 1$. Substituting $x = 1$ into the first equation gives $y = -8(1) + 12 = -8 + 12 = 4$. This can be verified by substituting into the second equation: $y = -12(1) + 16 = -12 + 16 = 4$. Therefore, the solution to the system is $(1, 4)$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=392cc076",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "95b80d8327573e200fe2c7868ef5bf03",
+  "capturedAt": "2026-11-18T13:31:18.038Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Conservation areas (CAs) are established to promote biodiversity, but because they restrict certain land uses, it is widely believed that they provide limited ecological value in developed regions. However, a study by Elena Kowalski and team investigating six CAs, including the Yellowstone to Yukon corridor (a wildlife corridor in North America) and High Line Park (an urban green space in New York), estimated the impact of habitat protection on these regions and concluded that conservation likely results in increased species richness in surrounding ecosystems. But whereas wildlife corridors were in isolated areas with no competing habitats to support wildlife, urban green spaces were surrounded by other parks and gardens not part of the CA. Thus, the researchers acknowledged that although ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "the establishment of both CAs likely benefited their respective local ecosystems, such gains likely derived mainly from habitat protection in the Yellowstone to Yukon corridor and from factors unrelated to biodiversity in High Line Park.",
+    "B": "biodiversity at High Line Park and surrounding regions likely fluctuated erratically in the period shortly after the CA was created, biodiversity at the Yellowstone to Yukon corridor remained largely stable.",
+    "C": "species richness increased in the areas surrounding both CAs, it likely grew at a much faster rate for ecosystems near High Line Park than for ecosystems near the Yellowstone to Yukon corridor.",
+    "D": "ecological activity supporting species richness in areas around the Yellowstone to Yukon corridor can likely be attributed to its protection as a conservation area, ecological activity supporting biodiversity around High Line Park may be unrelated to the CA."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it reflects the researchers' caution about causal attribution given the presence of confounding variables. The passage establishes that both CAs showed increased species richness, but introduces a critical distinction: wildlife corridors like Yellowstone to Yukon exist in 'isolated areas with no competing habitats,' while urban green spaces like High Line Park are 'surrounded by other parks and gardens not part of the CA.' For the wildlife corridor, biodiversity increases can be confidently attributed to CA protection since no alternative habitats exist. For the urban green space, however, the surrounding parks and gardens represent confounding variables that could explain biodiversity increases independently of the CA's designation.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=07583ebb",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 12,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

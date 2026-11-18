@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ec1a0cbf05a0ab4e9d61ffba5f50cc37",
+  "capturedAt": "2026-11-18T13:31:31.107Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA water tank was installed with an initial volume of water. Over the next several hours, water was regularly added to this tank, and no water was removed during this time. The graph of the function $f$ shown, where $y = f(x)$, estimates the water volume, in gallons, in this tank $x$ hours since installation. In the graph, the $x$-axis represents time since installation, in hours, and the $y$-axis represents water volume, in gallons. To the nearest whole gallon, what is the initial water volume estimated by the graph?",
+  "choices": {},
+  "correctAnswer": "$$25$$",
+  "explanation": "The correct answer is $25$. The initial water volume is the volume at installation, when $x = 0$ hours. This is the $y$-intercept of the graph. At $x = 0$, the line crosses the $y$-axis at $y = 25$. Therefore, the initial water volume is $25$ gallons.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=7628d668",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/ec1a0cbf05a0ab4e9d61ffba5f50cc37/1-97bf6a2a926614c2.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

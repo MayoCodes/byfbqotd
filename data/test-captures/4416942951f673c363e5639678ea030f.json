@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4416942951f673c363e5639678ea030f",
+  "capturedAt": "2026-11-18T13:31:43.732Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3(2x - 5y) = 4x + 7$$\n\nWhat is the slope of the graph of the given equation in the $xy$-plane?",
+  "choices": {
+    "A": "$\\frac{2}{(15)}$",
+    "B": "$\\frac{(15)}{2}$",
+    "C": "$-\\frac{2}{(15)}$",
+    "D": "$\\frac{2}{5}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct answer is A. First distribute the 3: $6x - 15y = 4x + 7$. Subtract $4x$ from both sides: $2x - 15y = 7$. Subtract $2x$ from both sides: $-15y = -2x + 7$. Divide both sides by $-15$: $y = \\frac{2}{15}x - \\frac{7}{15}$. The slope is the coefficient of $x$, which is $\\frac{2}{15}$.\n\nChoice B is incorrect and results from finding the reciprocal of the slope. After solving for $y$, the coefficient of $x$ is $\\frac{2}{15}$, not $\\frac{15}{2}$.\n\nChoice C is incorrect and results from a sign error when dividing by $-15$. Since $-15y = -2x + 7$, dividing by $-15$ gives $y = \\frac{2}{15}x - \\frac{7}{15}$, so the slope is positive.\n\nChoice D is incorrect and may result from not distributing the $3$ to both terms inside the parentheses. The correct distribution gives $6x - 15y$, not $6x - 5y$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=d1655892",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

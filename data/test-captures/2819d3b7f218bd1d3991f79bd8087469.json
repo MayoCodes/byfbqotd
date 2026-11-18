@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2819d3b7f218bd1d3991f79bd8087469",
+  "capturedAt": "2026-11-18T13:31:20.581Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "On September 1, 1859, a massive solar flare erupting from the Sun struck Earth's magnetic field, causing widespread disruptions. Known as the Carrington Event, after the solar physicist who first observed it, ______ September 1 has been officially denoted International Space Weather Awareness Day.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "the telegraph systems that inspired an annual day of space weather awareness had operations across two continents disrupted by the storm:",
+    "B": "an annual day of space weather awareness was inspired by the storm, which disrupted telegraph operations across two continents:",
+    "C": "telegraph operations across two continents were disrupted by the storm, which inspired an annual day of",
+    "D": "the storm disrupted telegraph operations across two continents and inspired an annual day of space weather awareness:"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it correctly resolves the participial phrase that begins the sentence. The phrase 'Known as the Carrington Event, after the solar physicist who first observed it' modifies the subject that follows, which must logically be 'the storm' (since the Carrington Event refers to the storm itself). Choice D makes 'the storm' the subject, avoiding a dangling modifier. Additionally, the active verbs 'disrupted' and 'inspired' create a clear, direct construction, and the colon properly introduces the specific designation that follows: 'September 1 has been officially denoted International Space Weather Awareness Day.'",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=da8c27e9",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 16,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

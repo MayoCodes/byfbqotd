@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "17f1b44bf28e34c67d5b5fb850263259",
+  "capturedAt": "2026-11-18T13:31:33.807Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of the polynomial function $g$ is shown, where $y = g(x)$. What is the value of $g(3)$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$1$",
+    "C": "$-2$",
+    "D": "$3$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct answer is A. The notation $g(3)$ represents the output value of the function $g$ when the input is $3$, which corresponds to the $y$-coordinate of the point on the graph where $x = 3$. To find $g(3)$, locate $x = 3$ on the horizontal axis, then trace vertically to the curve. The point where the vertical line intersects the curve has coordinates $(3, 4)$. Therefore, when $x = 3$, the corresponding $y$-value is $4$, which means $g(3) = 4$.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=4f6d214f",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/17f1b44bf28e34c67d5b5fb850263259/1-24b24a603add3875.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 9,
+    "subject": "Math",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}

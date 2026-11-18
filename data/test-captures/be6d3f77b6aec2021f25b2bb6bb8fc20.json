@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "be6d3f77b6aec2021f25b2bb6bb8fc20",
+  "capturedAt": "2026-11-18T13:31:22.481Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma After Introductory Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Researchers recently theorized that Bronze Age (3300 BCE to 1200 BCE) ceramic vessels with geometric patterns collected from Mesopotamian archaeological sites were likely created by young apprentices. This hypothesis, based on comparative analyses of pottery designs made by modern students, is supported by the objects predominantly being crafted from clay—a material that, because of its ______ be easily molded by inexperienced hands using simple implements.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "plasticity—could",
+    "B": "plasticity could—",
+    "C": "plasticity could",
+    "D": "plasticity, could"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation of nonrestrictive parenthetical elements. The phrase 'because of its plasticity' is a nonrestrictive element that interrupts the relative clause 'that could be easily molded.' The comma after 'that,' opens this interruption, and a comma after 'plasticity' must close it before the clause resumes with 'could.' This punctuation pairing properly signals where the parenthetical explanation begins and ends.",
+  "source": "https://cooksat.com/practice-test-review/12?questionId=603b0131",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "12",
+    "title": "Practice Test 12"
+  }
+}
