@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fb75a1b9444da819be8d5d4a4021bf74",
+  "capturedAt": "2026-11-18T13:29:17.799Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A laboratory is monitoring the growth of a bacteria culture. At the start of an experiment at 9:00 AM, there were $1200$ bacteria cells in the culture. For the next $36$ hours after 9:00 AM, the total number of bacteria cells in the culture each hour was $8%$ greater than the total number the previous hour. Which equation gives the total number of bacteria cells, $c$, in the culture $h$ hours after 9:00 AM, where $h < 36$?",
+  "choices": {
+    "A": "$c = 1200(1.08)^h$",
+    "B": "$c = 1200(0.08)^h$",
+    "C": "$c = 1200(1.8)^h$",
+    "D": "$c = 1200(8)^h$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. When a quantity grows by a constant percentage each time period, the relationship is modeled by an exponential function of the form $c = a(1 + r)^t$, where $a$ is the initial value, $r$ is the growth rate expressed as a decimal, and $t$ is the number of time periods. In this problem, the initial number of bacteria cells is $a = 1200$, the growth rate is $8\\%$ per hour which converts to decimal form as $r = 0.08$, and $h$ represents the number of hours after 9:00 AM. The base of the exponential function must be $(1 + r) = 1 + 0.08 = 1.08$ because each hour the culture contains $100\\%$ of the previous amount (the original cells) plus an additional $8\\%$ (new growth), giving $108\\% = 1.08$ times the previous amount. Therefore, the equation is $c = 1200(1.08)^h$. This can be verified by checking $h = 1$: $c = 1200(1.08)^1 = 1296$, which equals $1200 + 96$ where $96 = 0.08 \\times 1200$ is exactly $8\\%$ of the initial amount.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=b05dfef0",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 12,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

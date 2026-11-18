@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "15abf69e2236883a6564388a61ec1a95",
+  "capturedAt": "2026-11-18T13:29:22.591Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In right triangle $PQR$, angles $P$ and $Q$ are acute, side $PR$ has a length of $34.8$, and $Q = \\frac{1}{8}$. What is the length of side $QR$, rounded to the nearest tenth?",
+  "choices": {
+    "A": "$1211.0$",
+    "B": "$278.4$",
+    "C": "$27.8$",
+    "D": "$4.4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In right triangle $PQR$, since angles $P$ and $Q$ are both acute, the right angle must be at vertex $R$. In a right triangle, the tangent of an acute angle is defined as the ratio of the length of the opposite side to the length of the adjacent side. From angle $Q$'s perspective, side $PR$ is opposite to angle $Q$, and side $QR$ is adjacent to angle $Q$. Therefore, $\\tan Q = \\frac{PR}{QR}$. Substituting the given values: $\\frac{1}{8} = \\frac{34.8}{QR}$. Cross-multiplying gives $QR = 34.8 \\times 8 = 278.4$. Since $278.4$ is already expressed to the nearest tenth, the length of side $QR$ is $278.4$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=4030cd2f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

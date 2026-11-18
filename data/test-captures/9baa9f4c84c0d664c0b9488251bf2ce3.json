@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9baa9f4c84c0d664c0b9488251bf2ce3",
+  "capturedAt": "2026-11-18T13:29:09.802Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $3y = 8$, what is the value of $15y$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$13$",
+    "C": "$32$",
+    "D": "$40$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find the value of $15y$ given that $3y = 8$, recognize that $15y$ is a multiple of $3y$. Specifically, $15y = 5(3y)$ because $15 = 5 \\times 3$. Substituting the given value $3y = 8$ into this expression gives $15y = 5(8) = 40$. Alternatively, one could solve for $y$ first: from $3y = 8$, we get $y = \\frac{8}{3}$. Then $15y = 15 \\cdot \\frac{8}{3} = \\frac{120}{3} = 40$. Both methods confirm that the value of $15y$ is $40$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=bbead823",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

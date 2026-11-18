@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1ff60863c11713ff58ce45a5fe48b430",
+  "capturedAt": "2026-11-18T13:29:07.658Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Architectural history is the study of building design and construction across time periods.\n• The buildings of many architectural movements include distinctive features like decorative patterns, structural innovations, or material choices.\n• These features often reflect the values, technology, or aesthetic philosophy of their era.\n• The Chrysler Building features geometric Art Deco ornamentation.\n• Fallingwater features organic integration with natural surroundings.",
+  "prompt": "Which choice most effectively uses information from the given sentences to emphasize a difference between the two buildings?",
+  "choices": {
+    "A": "The Chrysler Building features geometric ornamentation, whereas Fallingwater features organic integration with nature.",
+    "B": "Buildings like the Chrysler Building and Fallingwater use distinctive features in their design; examples include ornamentation and natural integration.",
+    "C": "Architectural historians study buildings, like the Chrysler Building and Fallingwater.",
+    "D": "Many architectural movements feature distinctive elements on their buildings, such as decorative patterns, structural innovations, or material choices, and the study of these designs is known as architectural history."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively emphasizes the difference between the two buildings by using explicit contrastive structure. The sentence employs 'whereas' to create a direct comparison: the Chrysler Building's 'geometric ornamentation' is contrasted against Fallingwater's 'organic integration with nature.' This construction highlights the fundamental aesthetic difference between the buildings—one featuring angular, Art Deco design elements and the other emphasizing harmony with natural surroundings. The sentence successfully synthesizes the key information from notes 4 and 5 in a way that makes the contrast clear and prominent.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=0abbc97e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 27,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

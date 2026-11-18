@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ecb946bdfddf93a043ef4401f9ed6b92",
+  "capturedAt": "2026-11-18T13:29:36.650Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "For what value of $x$ is the given expression $5-root(128m) (5-root(128m))^{3}$ equivalent to $(128m)^{20}x$, where $m > 1$?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{1}{25},0.04,.04$$",
+  "explanation": "The correct answer is $\\frac{1}{25}$. To solve this problem, first convert the radical expressions to exponential form. The fifth root can be written as a fractional exponent: $\\sqrt[5]{128m} = (128m)^{1/5}$. Similarly, $(\\sqrt[5]{128m})^3 = [(128m)^{1/5}]^3 = (128m)^{3/5}$ by the power rule. Next, apply the product rule for exponents, which states that $a^m \\cdot a^n = a^{m+n}$ for expressions with the same base. Multiplying the two expressions gives $(128m)^{1/5} \\cdot (128m)^{3/5} = (128m)^{1/5 + 3/5} = (128m)^{4/5}$. Now, since the expression $(128m)^{4/5}$ is equivalent to $(128m)^{20x}$, and the bases are identical, the exponents must be equal: $\\frac{4}{5} = 20x$. Solving for $x$ by dividing both sides by $20$ gives $x = \\frac{4}{5 \\times 20} = \\frac{4}{100} = \\frac{1}{25}$. As a decimal, $\\frac{1}{25} = 0.04$. Note that 1/25, 0.04, and .04 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=1d2058a4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 18,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

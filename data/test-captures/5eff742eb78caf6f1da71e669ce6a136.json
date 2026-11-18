@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5eff742eb78caf6f1da71e669ce6a136",
+  "capturedAt": "2026-11-18T13:28:59.836Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The Perfection of Wisdom in Eight Thousand Lines is one of the tens of thousands of manuscripts that have endured from approximately the tenth century to the present ______ being passed down through monastic collections on the Tibetan plateau. Many of these manuscripts can be found at the Potala Palace Archives.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of standard English?",
+  "choices": {
+    "A": "day. By",
+    "B": "day; by",
+    "C": "day by,",
+    "D": "day by"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The participial phrase 'by being passed down through monastic collections' explains the method by which manuscripts have endured. When a participial phrase follows the main clause and explains how something occurred, no punctuation is needed before it. The structure 'present day by being passed down' correctly connects the time reference to the explanatory phrase without unnecessary punctuation breaks.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=5f485b15",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 15,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

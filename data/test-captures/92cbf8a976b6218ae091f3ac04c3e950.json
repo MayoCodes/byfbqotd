@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "92cbf8a976b6218ae091f3ac04c3e950",
+  "capturedAt": "2026-11-18T13:29:17.136Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = -\\frac{1}{6}x$$\n\n$$y = \\frac{1}{9}x$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $x$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$-6$",
+    "C": "$3$",
+    "D": "$9$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Set the equations equal: $-\\frac{1}{6}x = \\frac{1}{9}x$. Subtracting $\\frac{1}{9}x$ from both sides: $-\\frac{3}{18}x - \\frac{2}{18}x = 0$, so $-\\frac{5}{18}x = 0$. Therefore $x = 0$. When $x = 0$, both equations give $y = 0$, confirming the solution is $(0, 0)$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=17c9fc03",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 11,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

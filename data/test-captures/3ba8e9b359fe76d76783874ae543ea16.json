@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3ba8e9b359fe76d76783874ae543ea16",
+  "capturedAt": "2026-11-18T13:29:16.478Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A baker mixes wheat flour and rye flour to make dough with a total mass of $45$ grams (g). The mass of wheat flour in the dough is $12$ g. What is the mass of rye flour, in grams, in the dough? (Assume that the mass of the dough is the sum of the masses of wheat flour and rye flour before they were mixed.)",
+  "choices": {},
+  "correctAnswer": "$$33$$",
+  "explanation": "The correct answer is $33$. The problem states that the total mass of the dough is $45$ grams and the mass of wheat flour is $12$ grams. Since the mass of the dough is the sum of the masses of wheat flour and rye flour, the relationship can be expressed as: wheat flour + rye flour = total mass. Substituting the given values: $12 + \\text{rye flour} = 45$. Solving for the mass of rye flour by subtracting $12$ from both sides: $\\text{rye flour} = 45 - 12 = 33$ grams. Therefore, the mass of rye flour in the dough is $33$ grams.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=eba342f6",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 10,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

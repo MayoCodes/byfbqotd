@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a74eca0b52e8c077c3af37d2f382ca7f",
+  "capturedAt": "2026-11-18T13:29:05.047Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "As can be seen in the case of the Sierra Club, a California organization founded in 1892 that played a pivotal role in early conservation efforts, some groups influential in the emergence of the environmental movement have been extensively documented by historians. The Thoreau Society of Massachusetts (1941), ______ remains among those conservation organizations \"of interest and significance about which relatively little has been recorded,\" according to historians Camila Reyes and Hassan Mansour.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "likewise,",
+    "B": "though,",
+    "C": "moreover,",
+    "D": "for instance,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'though' logically signals the contrast between the documentation status of different conservation organizations. The text first establishes that some influential environmental groups, like the Sierra Club, 'have been extensively documented by historians.' The word 'though' then introduces the Thoreau Society as a contrasting case—an organization that 'remains among those...about which relatively little has been recorded.' This concessive transition effectively highlights that despite the Thoreau Society's historical significance, it differs from organizations like the Sierra Club in terms of scholarly attention received.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=b389c096",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 23,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

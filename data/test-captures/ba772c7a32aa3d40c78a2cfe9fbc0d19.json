@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ba772c7a32aa3d40c78a2cfe9fbc0d19",
+  "capturedAt": "2026-11-18T13:28:36.716Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Like many flying animals, the ruby-throated hummingbird feeds on nectar by hovering near flowers and extracting nectar with their specialized bills. In this way, hummingbirds can consume up to 50 percent of their body mass in nectar per day. And while no one would call the ruby-throated hummingbird large—it can have a mass as low as 3 grams—it is much larger than the bumblebee, which can weigh as little as 0.1 grams and consume as much as 0.5 grams of nectar per day. The ruby-throated hummingbird, by contrast, can consume as much as 12 grams of nectar per day.",
+  "prompt": "Based on the text, what can most reasonably be concluded about nectar consumption among ruby-throated hummingbirds and bumblebees?",
+  "choices": {
+    "A": "Most flying animals include nectar in their diets, but the ruby-throated hummingbird is less likely than the bumblebee to do so.",
+    "B": "Both the ruby-throated hummingbird and the bumblebee can consume as much as 12 grams of nectar per day.",
+    "C": "The ruby-throated hummingbird is able to consume more nectar per day than the bumblebee is.",
+    "D": "The quantities of nectar consumed by ruby-throated hummingbirds has made it difficult for bumblebees to find sufficient food."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it can be directly inferred from the comparative information in the passage. The text states that the bumblebee can 'consume as much as 0.5 grams of nectar per day,' while the ruby-throated hummingbird 'can consume as much as 12 grams of nectar per day.' Since 12 grams is greater than 0.5 grams, the hummingbird is able to consume more nectar per day than the bumblebee. This comparison follows logically from the explicit data provided.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=d38aea0e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 8,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f66110ec1d115e2e3f60bc81e71909b0",
+  "capturedAt": "2026-11-18T13:28:55.695Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nStudies of the population density of snow leopards (Panthera uncia) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. For example, the difference between the maximum population density reported by Tanaka et al. and that reported by Petersen et al. might be artificially large if the use of ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the example?",
+  "choices": {
+    "A": "GPS collar tracking underestimates the density of snow leopards",
+    "B": "GPS collar tracking is impractical outside of Mongolia",
+    "C": "aerial drone surveying underestimates the density of snow leopards",
+    "D": "aerial drone surveying is more common in Kyrgyzstan than the use of GPS collar tracking is"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it explains how the observed difference might be artificially large due to methodological bias. The table shows that Tanaka et al. used GPS collar tracking and reported a density of 1.80, while Petersen et al. used aerial drone surveying and reported 9.45. If GPS collar tracking systematically underestimates actual density, then Tanaka et al.'s measurement would be artificially low, making the gap between 1.80 and 9.45 appear larger than the true difference in snow leopard populations between the two locations.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=21d4483b",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/f66110ec1d115e2e3f60bc81e71909b0/1-c5f3401424f57ca2.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 9,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

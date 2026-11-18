@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2e6d7149d9c44b7e8c1ffce256735abb",
+  "capturedAt": "2026-11-18T13:28:45.061Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Pronoun-Antecedent Agreement",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "As underground water pressure builds in the mineral-rich zone 12 kilometers below Earth's surface, the fluid force causes surrounding rock to expand. In 2019, geologists observing the expansion—indicated by fractures and deformations in rock layers—eventually attributed ______ to the hydraulic pressure of a previously unmapped aquifer system.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of standard English?",
+  "choices": {
+    "A": "them",
+    "B": "these",
+    "C": "it",
+    "D": "each"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun 'it' correctly refers to the singular noun 'the expansion' mentioned earlier in the sentence. The sentence structure is 'geologists observing the expansion...eventually attributed [pronoun] to the hydraulic pressure,' where the pronoun must refer back to 'the expansion.' The phrase 'indicated by fractures and deformations in rock layers,' set off by em-dashes, is a descriptive element that modifies 'expansion' but doesn't change the fact that 'expansion' is the singular antecedent requiring a singular pronoun.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=aa6d8791",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 20,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

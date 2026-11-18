@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "291a8d1b1275a89f1b3bce9649ca8953",
+  "capturedAt": "2026-11-18T13:29:26.095Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is defined by $f(x) = 3(x - 2)(x + 4) - 5$. What is the $y$-intercept of the graph of $y = f(x)$ in the $xy$-plane?",
+  "choices": {
+    "A": "$(0, -29)$",
+    "B": "$(0, -24)$",
+    "C": "$(0, -19)$",
+    "D": "$(0, 19)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The $y$-intercept occurs when $x = 0$. Substituting: $f(0) = 3(0 - 2)(0 + 4) - 5 = 3(-2)(4) - 5 = -24 - 5 = -29$. The $y$-intercept is $(0, -29)$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=8beca203",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1b98712b07b82b0d2cd0fdc0b336e85c",
+  "capturedAt": "2026-11-18T13:29:20.384Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $3t^{2} + 18t - 45 = 0$, what is the value of $t^{2} + 6t$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$5$",
+    "C": "$15$",
+    "D": "$6$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To find the value of $t^2 + 6t$ given the equation $3t^2 + 18t - 45 = 0$, we can manipulate the equation algebraically without solving for $t$. First, notice that all terms in the equation share a common factor of $3$. Factoring out $3$ gives $3(t^2 + 6t - 15) = 0$. Dividing both sides of the equation by $3$ yields $t^2 + 6t - 15 = 0$. To isolate the target expression $t^2 + 6t$, we add $15$ to both sides: $t^2 + 6t = 15$. Therefore, the value of $t^2 + 6t$ is $15$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=259317e4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

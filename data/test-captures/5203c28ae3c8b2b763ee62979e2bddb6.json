@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5203c28ae3c8b2b763ee62979e2bddb6",
+  "capturedAt": "2026-11-18T13:29:25.251Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Graph to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph shows the relationship between the number of tickets for Event A, $x$, and the number of tickets for Event B, $y$, that Marcus can purchase. Which equation could represent this relationship?",
+  "choices": {
+    "A": "$y = 8x + 15$",
+    "B": "$8x + 15y = 600$",
+    "C": "$y = 15x + 8$",
+    "D": "$15x + 8y = 600$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The correct answer is B. The graph shows a line passing through the points $(0, 40)$ and $(75, 0)$. These are the $y$-intercept and $x$-intercept, respectively. Testing the equation $8x + 15y = 600$: when $x = 0$, we have $15y = 600$, which gives $y = 40$. When $y = 0$, we have $8x = 600$, which gives $x = 75$. Both intercepts match the graph, so this equation represents the relationship.\n\nChoice A is incorrect because the equation $y = 8x + 15$ has a $y$-intercept of $15$, not $40$ as shown in the graph.\n\nChoice C is incorrect because the equation $y = 15x + 8$ has a $y$-intercept of $8$, not $40$ as shown in the graph.\n\nChoice D is incorrect because for the equation $15x + 8y = 600$, when $x = 0$, we get $8y = 600$, so $y = 75$, and when $y = 0$, we get $15x = 600$, so $x = 40$. These intercepts are swapped from what the graph shows.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=d077dc0d",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5203c28ae3c8b2b763ee62979e2bddb6/1-bd4b3487e134305c.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "02e1ba403adc3fd831fe2112a0d60574",
+  "capturedAt": "2026-11-18T13:28:41.170Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Studies have demonstrated that collaborative learning enhances real-world problem-solving accuracy and learners' psychological experience of academic tasks. Dr. Claire Murphy and team tested their prediction that collaborative learning would produce comparable results among participants solving logic puzzles in small group settings. After tracking participants' solution accuracy and completion time to determine the effects on their cognitive performance (e.g., their ability to maintain a certain target accuracy rate and solve problems efficiently) of learning conditions (collaborative, competitive, or independent) implemented at regular assessment stages, the researchers used participants' survey responses to assess their psychological experience of the task.",
+  "prompt": "Assuming participants had similar initial academic ability levels, which finding from the study, if true, would most strongly suggest that collaborative learning had the predicted psychological effect but not the predicted cognitive effect?",
+  "choices": {
+    "A": "Compared with participants in collaborative conditions, participants in independent conditions reported lower confidence in their abilities on average but maintained their accuracy and completion rates for longer durations than participants in competitive conditions.",
+    "B": "Compared with participants in collaborative or independent conditions, participants in competitive conditions reported lower confidence in their abilities on average but maintained their accuracy and completion rates for longer durations.",
+    "C": "Compared with participants in competitive conditions, participants in independent conditions reported similar levels of confidence in their abilities on average but maintained their accuracy and completion rates for shorter durations than participants in collaborative conditions.",
+    "D": "Compared with participants in competitive or independent conditions, participants in collaborative conditions reported greater confidence in their abilities on average but maintained their accuracy and completion rates for approximately similar durations."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents the exact pattern needed to confirm the psychological prediction while disconfirming the cognitive prediction. The text establishes that Murphy and team predicted collaborative learning would enhance both psychological experience and cognitive performance. Choice D indicates that collaborative participants 'reported greater confidence in their abilities' compared to other groups, which confirms the predicted psychological effect. However, these same participants 'maintained their accuracy and completion rates for approximately similar durations' to other groups, showing no cognitive advantage and thus disconfirming the predicted cognitive effect.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=d85093c7",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 14,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

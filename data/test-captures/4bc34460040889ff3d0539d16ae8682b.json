@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4bc34460040889ff3d0539d16ae8682b",
+  "capturedAt": "2026-11-18T13:29:30.701Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve by Taking Square Roots",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is defined by $f(x) = 2^{3}x+1$. What is the value of $x$ when $f(x)$ is equal to $64$?",
+  "choices": {
+    "A": "$\\frac{4}{3}$",
+    "B": "$\\frac{5}{3}$",
+    "C": "$2$",
+    "D": "$6$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To find the value of $x$ when $f(x) = 64$, substitute $64$ for $f(x)$ in the given equation: $2^{3x+1} = 64$. Recognize that $64$ can be written as a power of $2$: $64 = 2^6$ (since $2^6 = 2 \\cdot 2 \\cdot 2 \\cdot 2 \\cdot 2 \\cdot 2 = 64$). Therefore, $2^{3x+1} = 2^6$. When two exponential expressions with the same base are equal, their exponents must be equal. This gives $3x + 1 = 6$. Solving for $x$: subtract $1$ from both sides to get $3x = 5$, then divide both sides by $3$ to get $x = \\frac{5}{3}$. Therefore, when $f(x) = 64$, the value of $x$ is $\\frac{5}{3}$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=315a1941",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 9,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

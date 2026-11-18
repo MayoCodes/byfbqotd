@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ace0569f33fe5832c43a2a0c46189ea8",
+  "capturedAt": "2026-11-18T13:29:28.718Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Maya used ink to print pages. The function $g(x) = -7x + 42$ approximates the amount, in milliliters, of ink Maya had remaining after printing $x$ pages. Which statement is the best interpretation of the $y$-intercept of the graph of $y = g(x)$ in the $xy$-plane in this context?",
+  "choices": {
+    "A": "Maya used approximately $7$ milliliters of ink for each page.",
+    "B": "Maya had approximately $7$ milliliters of ink when she began to print the pages.",
+    "C": "Maya had approximately $42$ milliliters of ink when she began to print the pages.",
+    "D": "Maya used approximately $42$ milliliters of ink for each page."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The $y$-intercept of a linear function in the form $y = mx + b$ occurs at the point $(0, b)$, where $b$ is the constant term. For the function $g(x) = -7x + 42$, the $y$-intercept is $42$. This can be verified by substituting $x = 0$: $g(0) = -7(0) + 42 = 42$. In this context, $x$ represents the number of pages printed, so when $x = 0$, no pages have been printed yet. This means the $y$-intercept represents the initial amount of ink Maya had before she began printing. Therefore, the $y$-intercept of $42$ means Maya had approximately $42$ milliliters of ink when she began to print the pages.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=86c9ca19",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 6,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

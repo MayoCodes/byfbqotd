@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f6d58408f7de60593ad6b23082e6173a",
+  "capturedAt": "2026-11-18T13:29:39.693Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the given equation, $\\frac{1}{(ky)} = \\frac{y}{(80)} + \\frac{1}{k}$, $k$ is a constant. If the equation has exactly one solution, what is the value of $k$?",
+  "choices": {},
+  "correctAnswer": "$$-20$$",
+  "explanation": "The correct answer is $-20$. To find when the equation has exactly one solution, first rewrite the right side with a common denominator: $\\frac{y}{80} + \\frac{1}{k} = \\frac{ky + 80}{80k}$. The equation becomes $\\frac{1}{ky} = \\frac{ky + 80}{80k}$. Cross-multiplying gives $80k = ky(ky + 80)$, which expands to $80k = k^2y^2 + 80ky$. Dividing both sides by $k$ (assuming $k \\neq 0$) yields $80 = ky^2 + 80y$, which rearranges to $ky^2 + 80y - 80 = 0$. This is a quadratic equation in $y$ with coefficients $a = k$, $b = 80$, and $c = -80$. A quadratic equation has exactly one solution when its discriminant equals zero. The discriminant is $b^2 - 4ac = 80^2 - 4(k)(-80) = 6400 + 320k$. Setting this equal to zero: $6400 + 320k = 0$, so $320k = -6400$, giving $k = \\frac{-6400}{320} = -20$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=03c86788",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 22,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

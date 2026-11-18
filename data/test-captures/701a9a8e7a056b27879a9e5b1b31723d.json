@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "701a9a8e7a056b27879a9e5b1b31723d",
+  "capturedAt": "2026-11-18T13:29:08.322Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale.\nIn the figure, line $q$ intersects lines $m$ and $p$. Line $m$ is parallel to line $p$. What is the value of $y$?",
+  "choices": {},
+  "correctAnswer": "$$137$$",
+  "explanation": "The correct answer is $137$. When two parallel lines are cut by a transversal, corresponding angles are equal. In this problem, lines $m$ and $p$ are parallel, and line $q$ is a transversal that intersects both lines. At the intersection of lines $q$ and $m$, the angle above line $m$ and to the right of line $q$ measures $137^\\circ$. At the intersection of lines $q$ and $p$, the angle below line $p$ and to the left of line $q$ is marked $y^\\circ$. These two angles are corresponding angles because they are in the same relative position at each intersection point. Since corresponding angles formed by parallel lines and a transversal are equal, $y = 137$. Therefore, the value of $y$ is $137$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=2a2f50b8",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/701a9a8e7a056b27879a9e5b1b31723d/1-6811c7c40e7eb876.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

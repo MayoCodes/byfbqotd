@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99a78aeff63fc26c2fa1780fdd7b61f6",
+  "capturedAt": "2026-11-18T13:29:04.393Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In his comprehensive review of recent studies of social learning behaviors in primates, Dr. Kenji Tanaka presents several examples of productive imitation (i.e., copying behaviors that benefit a group), including one that involves chimpanzees. However, not all imitation is beneficial. ______ His review cites one study that described how rhesus macaques copied a flock-mate's foraging technique even when that technique was unsuitable for local conditions.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Indeed,",
+    "B": "In response,",
+    "C": "Instead,",
+    "D": "In addition,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because 'indeed' logically confirms and reinforces the preceding claim that 'not all imitation is beneficial.' The transition introduces a specific example from Tanaka's review that supports this assertion: rhesus macaques copying an unsuitable foraging technique. This confirmation relationship between claim and evidence is precisely what 'indeed' signals, making it the most appropriate transition to connect the statement about non-beneficial imitation to the concrete example that illustrates it.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=bfb3ed2a",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 22,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

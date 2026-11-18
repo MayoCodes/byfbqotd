@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "30e223100171f3f94a6621c4feb2ad47",
+  "capturedAt": "2026-11-18T13:29:10.461Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(x^{3} + 5x^{2} - 9x) + 4(x^{2} + 7)$?",
+  "choices": {
+    "A": "$x^{3} + x^{2} - 9x + 28$",
+    "B": "$x^{3} + 9x^{2} - 9x + 28$",
+    "C": "$x^{3} + 5x^{2} - 9x + 28$",
+    "D": "$x^{3} + 7x^{2} - 9x + 28$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To simplify this expression, first apply the distributive property to $4(x^2 + 7)$: multiply $4$ by each term inside the parentheses to get $4 \\cdot x^2 + 4 \\cdot 7 = 4x^2 + 28$. Next, rewrite the expression as $(x^3 + 5x^2 - 9x) + (4x^2 + 28)$. Now combine like terms by adding the coefficients of terms with the same variable and exponent. The $x^3$ term appears only once: $x^3$. The $x^2$ terms are $5x^2$ and $4x^2$, which combine to $(5 + 4)x^2 = 9x^2$. The $x$ term appears only as $-9x$. The constant terms are $0$ from the first polynomial and $28$ from the distribution, giving $28$. Therefore, the simplified expression is $x^3 + 9x^2 - 9x + 28$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=p11m1q04",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

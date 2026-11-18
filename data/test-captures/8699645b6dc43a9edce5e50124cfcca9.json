@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8699645b6dc43a9edce5e50124cfcca9",
+  "capturedAt": "2026-11-18T13:29:31.355Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $3x + 2y = 19$ and $x - y = 3$, what is the value of $2x + 3y$?",
+  "choices": {
+    "A": "$12$",
+    "B": "$16$",
+    "C": "$19$",
+    "D": "$22$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. From $x - y = 3$, we get $x = y + 3$. Substituting into $3x + 2y = 19$: $3(y + 3) + 2y = 19$, which gives $5y + 9 = 19$, so $y = 2$. Then $x = 5$. Therefore, $2x + 3y = 2(5) + 3(2) = 10 + 6 = 16$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=70e331b6",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

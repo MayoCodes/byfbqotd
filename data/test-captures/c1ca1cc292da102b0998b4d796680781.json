@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c1ca1cc292da102b0998b4d796680781",
+  "capturedAt": "2026-11-18T13:29:05.707Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Carbon atoms in a crystalline state have ordered lattice arrangements and exhibit two-dimensional structure; carbon atoms in an amorphous state are disordered and lack regular structural patterns.\n• Under thermal reduction, graphene oxide forms an unusual dual structure: a crystalline sheet matrix surrounds amorphous carbon islands.\n• This hybrid state (partial crystallinity) was previously thought to be a transitional phase between crystalline and amorphous states.\n• A 2021 study confirmed that even under prolonged heating, the matrix structure remained crystalline while the island structure did not become fully amorphous.\n• These island carbon atoms exhibited disorder but were confined to zero-dimensional localized sites by the matrix.\n• Partial crystallinity was determined to be a stable, distinct state.",
+  "prompt": "The student wants to explain why graphene oxide is not fully amorphous in a partial crystallinity state. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "A partial crystallinity state involves a dual structure of a crystalline sheet matrix surrounding amorphous islands of carbon atoms.",
+    "B": "A 2021 study confirmed that carbon atoms in graphene oxide do not become fully amorphous under thermal reduction; instead, they enter partial crystallinity, a transitional phase between crystalline and amorphous states.",
+    "C": "In partial crystallinity, some carbon atoms exhibit amorphous-like disorder but remain confined by a crystalline matrix, preventing the complete lack of regular structural patterns of a fully amorphous state.",
+    "D": "Because carbon atoms remain disordered in partial crystallinity even under prolonged heating, they cannot reach a fully amorphous state."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it directly explains the mechanism preventing full amorphous transition. The notes indicate that island carbon atoms 'exhibited disorder but were confined to zero-dimensional localized sites by the matrix.' Choice C captures this causal relationship: while some atoms show 'amorphous-like disorder,' they 'remain confined by a crystalline matrix,' which prevents 'the complete lack of regular structural patterns' that defines a fully amorphous state. This explains why graphene oxide stays in partial crystallinity rather than becoming fully amorphous.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=d5db8b71",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 24,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

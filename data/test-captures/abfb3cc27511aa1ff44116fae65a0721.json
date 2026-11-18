@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "abfb3cc27511aa1ff44116fae65a0721",
+  "capturedAt": "2026-11-18T13:28:40.523Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Deciduous trees form growth rings in their wood annually, beginning this process shortly after sprouting from seeds and continuing throughout their lifetimes. These rings are called annual rings, and the concentration of the isotope carbon-13 they contain exactly reflects the isotope's concentration in the atmosphere during the year the ring formed. Dendrochronologist Priya Reddy and colleagues examined each of the rings in two tree core samples; finding that sample R07 had a higher concentration of the isotope than sample K15 did, the researchers concluded that R07 must have formed during a period of significantly lower precipitation than K15 did.",
+  "prompt": "Which finding, if true, would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "As the concentration of carbon-13 in the atmosphere decreases, precipitation levels decrease and tree ring growth slows.",
+    "B": "As elevation increases, both the concentration of carbon-13 and the precipitation levels decrease.",
+    "C": "As precipitation levels increase, the concentration of carbon-13 in the atmosphere decreases.",
+    "D": "As precipitation levels increase, trees are able to concentrate more carbon-13 into their rings."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it establishes the relationship needed to support the researchers' conclusion. The researchers found that sample R07 had higher carbon-13 than K15 and concluded that R07 formed during lower precipitation. Choice C provides the necessary link: as precipitation increases, carbon-13 decreases—meaning conversely, lower precipitation corresponds with higher carbon-13. This inverse relationship directly explains why higher carbon-13 in R07 would indicate lower precipitation.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=446b2e36",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 13,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

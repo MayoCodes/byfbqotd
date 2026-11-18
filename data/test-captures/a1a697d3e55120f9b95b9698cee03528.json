@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a1a697d3e55120f9b95b9698cee03528",
+  "capturedAt": "2026-11-18T13:28:53.438Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nStanford University and the online education platform Khan Academy are two of the many institutions offering tutoring programs to improve student learning. But what results do such programs produce? In a study of middle school students in California, researcher Jennifer Tanaka and colleagues addressed this question and reported that participants who received online tutoring showed significant improvement in mathematics achievement scores.\n\nText 2\nWhile studies of educational interventions typically report positive results, a close look at these studies reveals widespread methodological shortcomings. This research literature is plagued by unclear hypotheses, insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.",
+  "prompt": "Based on the texts, the author of Text 2 would most like to know the answer to which question about Tanaka and colleagues' study that is not addressed in Text 1?",
+  "choices": {
+    "A": "Did the participants that Tanaka and colleagues included in the study share any demographic characteristics or learning backgrounds?",
+    "B": "Did Tanaka and colleagues measure any attributes of the participants in the study before they received the tutoring?",
+    "C": "In which US state did Tanaka and colleagues conduct their study of middle school students?",
+    "D": "Did Tanaka and colleagues compare California students who received the tutoring with a group of high-achieving students who did not receive the tutoring?"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it directly addresses a methodological shortcoming from Text 2 that Text 1 does not address. Text 2 explicitly identifies 'failures to establish pretraining baselines for the measured attributes of participants' as a major methodological problem in educational intervention research. Text 1 reports that participants 'showed significant improvement in mathematics achievement scores' but provides no information about whether researchers measured participants' mathematics achievement before the tutoring began. Without baseline measurements, it's impossible to determine whether the reported improvement represents actual gains from the intervention.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=24ff85d4",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 6,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

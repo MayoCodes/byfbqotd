@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3cdb0865babb1ad03a3dc0154db90e20",
+  "capturedAt": "2026-11-18T13:29:21.699Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nLine $m$ is shown in the $xy$-plane. Line $n$ (not shown) is perpendicular to line $m$ and passes through the point $(-15, -12)$. Which equation defines line $n$?",
+  "choices": {
+    "A": "$y = \\frac{3}{5}x - 3$",
+    "B": "$y = \\frac{3}{5}x - 21$",
+    "C": "$y = \\frac{5}{3}x + 13$",
+    "D": "$y = \\frac{5}{3}x - 37$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. From the graph, line $m$ passes through the points $(0, 5)$ and $(3, 0)$. The slope of line $m$ is $\\frac{0 - 5}{3 - 0} = -\\frac{5}{3}$. Perpendicular lines have slopes that are negative reciprocals of each other, so the slope of line $n$ is $\\frac{3}{5}$. Using the point-slope form with the point $(-15, -12)$: $y - (-12) = \\frac{3}{5}(x - (-15))$, which gives $y + 12 = \\frac{3}{5}(x + 15)$. Expanding: $y + 12 = \\frac{3}{5}x + 9$. Solving for $y$: $y = \\frac{3}{5}x + 9 - 12 = \\frac{3}{5}x - 3$. Therefore, the equation of line $n$ is $y = \\frac{3}{5}x - 3$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=d373cef3",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3cdb0865babb1ad03a3dc0154db90e20/1-95909e064af63c12.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

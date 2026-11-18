@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "76536a0e65310dac0039431fe7a7da55",
+  "capturedAt": "2026-11-18T13:28:57.187Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Northern Manitoba's Gillam region is among the most remote communities in Canada: Statistics Canada classified it as 94.3% remote in 2016. Researchers often struggle to recruit residents of communities like Gillam for inclusion in studies. Dr. Claire Sullivan and colleagues tested whether an approach called snowball sampling improves recruitment. Working in three remote communities, they recruited a few people (known as \"seeds\") with the characteristics desired for a health intervention study and asked them to recruit additional participants from their social networks. Though the seeds were given minimal guidance, many more people they recruited had the desired characteristics for the study than would be expected by chance alone, most likely because ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "the characteristics that made the seeds desirable for inclusion in the health intervention study may be unknown to some members of the seeds' social networks.",
+    "B": "the seeds' social networks include a high proportion of people who share characteristics with the seeds.",
+    "C": "the seeds' social networks tend to be somewhat smaller than the networks of people who do not live in remote areas.",
+    "D": "most seeds' social networks include some people who do not know one another and who share few characteristics."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it explains why snowball sampling recruited people with desired characteristics at rates higher than chance. The passage states that seeds with specific desired characteristics recruited from their social networks, and 'many more people they recruited had the desired characteristics...than would be expected by chance alone.' If seeds' networks 'include a high proportion of people who share characteristics with the seeds,' then recruiting through these networks would naturally yield many suitable participants—explaining the better-than-random outcome.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=d1f5ef78",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 11,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

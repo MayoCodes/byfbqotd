@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "73288fd616aa47c2ba56e7866e7109a6",
+  "capturedAt": "2026-11-18T13:29:02.438Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The legacy of the Roman Empire, which once controlled territories across Europe, Asia, and Africa, is evident in Italy, one of many places that reveal their imperial history through language. Contrast Italy with Britain, which gained independence from the empire in 410 ______ the latter's connection to the empire is so attenuated that Latin is rarely spoken as a native language there today.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "CE,",
+    "B": "CE",
+    "C": "CE:",
+    "D": "CE and"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence contains two independent clauses where the second explains the first. A colon properly introduces an explanation or elaboration of a preceding independent clause. Here, the colon after 'CE' signals that what follows explains why Britain differs from Italy—its connection to the empire became so attenuated that Latin is rarely spoken.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=d8945d95",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

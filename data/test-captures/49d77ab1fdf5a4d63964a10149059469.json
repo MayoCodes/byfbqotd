@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "49d77ab1fdf5a4d63964a10149059469",
+  "capturedAt": "2026-11-18T13:28:54.795Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nAs Phoenix underwent rapid expansion, its traditional desert landscape was progressively replaced by impervious surfaces that absorb and retain heat. Dr. Lisa Nakamura and her research team analyzed satellite thermal imagery and ground-based temperature records to examine heat distribution patterns across different urban development zones (categories indicating the predominant type of built environment). One such metric, mean surface temperature differential, measures how much warmer urban surfaces are compared to surrounding rural areas, with increases indicating intensified urban heat island effects. The team documented a range of temperature differentials, from lows of around 2 degrees Celsius or less in the 1980s and 1990s for all zones, to a high in 2000 of approximately ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "6.5 for the Industrial Zone.",
+    "B": "8.0 for the Commercial Zone.",
+    "C": "3.0 for the Industrial Zone.",
+    "D": "2.5 for the Residential Zone."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it accurately identifies the highest temperature differential value shown in the graph for the year 2000. The passage establishes a pattern of increasing urban heat island effects, noting baseline lows of around 2 degrees Celsius or less in the 1980s and 1990s, and then asks for 'a high in 2000.' According to the graph, in 2000, the Commercial Zone reached approximately 8.0 degrees Celsius above baseline—the highest value among all three urban development zones at that time point. The Industrial Zone peaked at approximately 6.0 degrees Celsius, and the Residential Zone reached approximately 7.0 degrees Celsius in 2000. Therefore, 8.0 for the Commercial Zone correctly completes the assertion by providing the maximum temperature differential recorded across all zones in the specified year.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=3bacc578",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/49d77ab1fdf5a4d63964a10149059469/1-9222f24c59ad8b00.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 8,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

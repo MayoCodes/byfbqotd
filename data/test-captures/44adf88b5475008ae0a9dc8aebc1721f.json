@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "44adf88b5475008ae0a9dc8aebc1721f",
+  "capturedAt": "2026-11-18T13:29:19.748Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = \\frac{5}{6}x - 3$$\n\nOne of two equations in a system of linear equations is given. The system has infinitely many solutions. What is the slope of the graph of the second equation?",
+  "choices": {
+    "A": "$-\\frac{6}{5}$",
+    "B": "$-\\frac{5}{6}$",
+    "C": "$\\frac{5}{6}$",
+    "D": "$\\frac{6}{5}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A system of two linear equations has infinitely many solutions when both equations represent the same line. For two lines to be identical, they must have the same slope and the same y-intercept. The given equation $y = \\frac{5}{6}x - 3$ is in slope-intercept form $y = mx + b$, where $m$ is the slope and $b$ is the y-intercept. In this equation, the coefficient of $x$ is $\\frac{5}{6}$, which is the slope of the line. Since the system has infinitely many solutions, the second equation must also represent this same line, meaning it must have the same slope of $\\frac{5}{6}$. Therefore, the slope of the graph of the second equation is $\\frac{5}{6}$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=p11m1q15",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

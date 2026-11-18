@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eb6196228b9f21fde82a0188d176326f",
+  "capturedAt": "2026-11-18T13:29:23.252Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rectangular garden has an area of $2,500$ square meters. An architect creates a scaled copy of the garden in which both the length and width are increased by $20%$. What is the area of the copy, in square meters?",
+  "choices": {
+    "A": "$2,520$",
+    "B": "$2,540$",
+    "C": "$3,000$",
+    "D": "$3,600$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. When both the length and width of a rectangle are increased by the same percentage, the area increases by the square of the scale factor. If each dimension increases by $20\\%$, the scale factor is $1 + 0.20 = 1.20$. The area scale factor is therefore $(1.20)^2 = 1.44$. The original garden has an area of $2{,}500$ square meters, so the area of the copy is $2{,}500 \\times 1.44 = 3{,}600$ square meters.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=c8c9c315",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 20,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

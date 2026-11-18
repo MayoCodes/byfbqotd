@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c4f3f93a31ad2931e44dfabad7c6d5e5",
+  "capturedAt": "2026-11-18T13:29:32.677Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$f(x) = x^{3} + x - |5 - 3x^{2}|$$\n\n$$g(x) = -5x^{3} - 2x^{2} + 4x$$\n\nThe functions $f$ and $g$ are defined by the given equations. If $f(c) = 3$, where $c$ is an integer constant, what is the value of $g(c)$?",
+  "choices": {},
+  "correctAnswer": "$$-40$$",
+  "explanation": "The correct answer is $-40$. For $|c|\\leq\\sqrt{5/3}$, the only integers are $-1$, $0$, and $1$, whose $f$-values are $-4$, $-5$, and $0$, respectively, so none satisfies $f(c)=3$. For $|c|>\\sqrt{5/3}$, $|5-3c^2|=3c^2-5$, so $f(c)=3$ becomes $c^3-3c^2+c+2=(c-2)(c^2-c-1)=0$. Its only integer root is $c=2$, since the quadratic roots $(1\\pm\\sqrt{5})/2$ are not integers. The value $c=2$ satisfies the branch condition and gives $g(2)=-5(8)-2(4)+4(2)=-40$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=faa08ab9",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

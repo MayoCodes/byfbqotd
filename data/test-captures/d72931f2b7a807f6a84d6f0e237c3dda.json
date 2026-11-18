@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d72931f2b7a807f6a84d6f0e237c3dda",
+  "capturedAt": "2026-11-18T13:29:28.064Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{m}{n} = \\frac{(p + r)}{(q - r)}$$\n\nThe given equation relates the variables $m$, $n$, $p$, $q$, and $r$, where $m + n \\ne 0$. Which equation correctly expresses $r$ in terms of $m$, $n$, $p$, and $q$?",
+  "choices": {
+    "A": "$r = \\frac{(mq - np)}{(m + n)}$",
+    "B": "$r = \\frac{(mq + np)}{(m + n)}$",
+    "C": "$r = \\frac{(mq - np)}{(m - n)}$",
+    "D": "$r = \\frac{(mq - np)}{(n - m)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct answer is A. Cross-multiply to get $m(q - r) = n(p + r)$. Expanding both sides gives $mq - mr = np + nr$. Collecting all terms with $r$ on the right side: $mq - np = nr + mr$. Factoring out $r$ on the right: $mq - np = r(n + m)$. Dividing both sides by $(m + n)$ gives $r = \\frac{mq - np}{m + n}$.\n\nChoice B is incorrect and results from a sign error when moving terms. From $mq - mr = np + nr$, moving $np$ to the left side gives $mq - np$, not $mq + np$.\n\nChoice C is incorrect and results from a sign error in the denominator. When collecting $r$ terms, $nr + mr = r(n + m)$, which is the same as $r(m + n)$, not $r(m - n)$.\n\nChoice D is incorrect and results from writing $(n - m)$ instead of $(m + n)$ in the denominator. When factoring $r$ from $nr + mr$, the result is $r(n + m)$ or equivalently $r(m + n)$, not $r(n - m)$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=0d6feece",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

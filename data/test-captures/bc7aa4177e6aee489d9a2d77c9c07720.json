@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bc7aa4177e6aee489d9a2d77c9c07720",
+  "capturedAt": "2026-11-18T13:29:37.300Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Two-Way Table",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nOne of these students will be selected at random. What is the probability of selecting a student from Course A, given that the student has intermediate or advanced experience?",
+  "choices": {
+    "A": "$\\frac{5}{(21)}$",
+    "B": "$\\frac{5}{(14)}$",
+    "C": "$\\frac{(17)}{(35)}$",
+    "D": "$\\frac{5}{7}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The probability of an event given a condition is calculated by dividing the number of outcomes satisfying both the event and condition by the total number of outcomes satisfying the condition. The condition is that the student has intermediate or advanced experience. From the table, the total number of students with intermediate or advanced experience is $35 + 35 = 70$. The number of Course A students with intermediate or advanced experience is $17 + 8 = 25$. Therefore, the probability is $\\frac{25}{70} = \\frac{5}{14}$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=f879c5f2",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/bc7aa4177e6aee489d9a2d77c9c07720/1-83fcccd46769fe55.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

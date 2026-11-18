@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f07c4525725e52d92a2f1c6d2d6c9a96",
+  "capturedAt": "2026-11-18T13:29:12.419Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following equations is the most appropriate linear model for the data shown?",
+  "choices": {
+    "A": "$y = 9.2 - 0.6x$",
+    "B": "$y = 0.6 - 9.2x$",
+    "C": "$y = 9.2 + 0.6x$",
+    "D": "$y = 0.6 + 9.2x$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The scatterplot shows a negative linear relationship between $x$ and $y$: as $x$ increases, $y$ generally decreases. This means the slope of the best-fit line must be negative, eliminating choices C and D, which have positive slopes. To determine the y-intercept, we observe where the line of best fit would cross the y-axis (when $x = 0$). Extending the trend of the data backward suggests a y-intercept near $9$. The slope can be estimated by observing that as $x$ increases from $1$ to $10$ (a change of $9$), $y$ decreases from approximately $9$ to approximately $3$ (a change of about $-6$). This gives a slope of approximately $\\frac{-6}{9} \\approx -0.67$, which is closest to $-0.6$. Therefore, the equation $y = 9.2 - 0.6x$ best models the data.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=0913170f",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/f07c4525725e52d92a2f1c6d2d6c9a96/1-9820906f8ef27b52.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

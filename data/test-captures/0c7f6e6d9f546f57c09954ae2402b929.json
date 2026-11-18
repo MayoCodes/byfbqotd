@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0c7f6e6d9f546f57c09954ae2402b929",
+  "capturedAt": "2026-11-18T13:28:56.542Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Acoustic barriers have two primary mechanisms by which they reduce noise pollution: absorption (conversion of sound energy into heat within the barrier material) and, the more effective, deflection (redirection of sound waves away from populated areas). Accordingly, installation of sound barriers to reduce major noise pollutants such as traffic-generated noise in urban areas receives considerable attention. Research by Sofia Lindqvist et al. comprised data from noise monitoring stations in the Netherlands, the US state of California, and thousands of other global locations over an eight-year span, coupled with acoustic mapping technology of those locations from the same period. The researchers ultimately recommended that reducing traffic-generated noise remain the primary focus of urban noise-pollution improvement efforts.",
+  "prompt": "Which finding from the study, if true, would most directly account for the recommendation by Lindqvist et al.?",
+  "choices": {
+    "A": "The association between ambient noise levels and acoustic barrier installation is strongly negative for locations containing or in close proximity to major highways but becomes insignificant for more residential locations.",
+    "B": "The association between acoustic barriers and ambient noise levels is moderately negative overall but becomes slightly negative and sometimes positive when consideration is limited to narrow urban corridors where barrier configurations are dense enough to hinder acoustic channeling.",
+    "C": "Ambient noise levels are comparable across locations with comparable local infrastructure (e.g., typical street width) but vary considerably depending on the predominant type of barrier material present.",
+    "D": "There is a predictable relationship between a location's typical atmospheric conditions and the efficacy of acoustic barriers in that location, but anomalous local weather events have an outsized effect on absorption and deflection of traffic-generated noise."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it explains why traffic noise reduction should be prioritized over barrier installation. While barriers generally reduce noise ('moderately negative overall'), they can become ineffective or counterproductive ('slightly negative and sometimes positive') in 'narrow urban corridors where barrier configurations are dense enough to hinder acoustic channeling.' Since the passage establishes that deflection is the 'more effective' mechanism, barriers that obstruct this process in key urban environments would logically justify recommending source reduction over barriers.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=60a15fb4",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

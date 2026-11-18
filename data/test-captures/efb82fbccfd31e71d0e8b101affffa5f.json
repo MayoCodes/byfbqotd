@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "efb82fbccfd31e71d0e8b101affffa5f",
+  "capturedAt": "2026-11-18T13:29:38.184Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows three values of $x$ and their corresponding values of $g(x)$, where $g(x) = (f(x))/(x+3)$ and $f$ is a linear function. What is the $y$-intercept of the graph of $y = f(x)$ in the $xy$-plane?",
+  "choices": {
+    "A": "$(0, 45)$",
+    "B": "$(0, 9)$",
+    "C": "$(0, 5)$",
+    "D": "$(0, -9)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since $g(x) = \\frac{f(x)}{x+3}$, it follows that $f(x) = g(x)(x+3)$. Using the table values: $f(-18) = 3(-18+3) = 3(-15) = -45$, $f(-9) = 0(-9+3) = 0$, and $f(12) = 7(12+3) = 7(15) = 105$. Since $f$ is linear, we can find its equation using two points. Using $(-9, 0)$ and $(12, 105)$: the slope is $\\frac{105-0}{12-(-9)} = \\frac{105}{21} = 5$. Using point-slope form with $(-9, 0)$: $f(x) = 5(x+9) = 5x + 45$. The $y$-intercept occurs when $x = 0$: $f(0) = 45$, so the $y$-intercept is $(0, 45)$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=c8756972",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/efb82fbccfd31e71d0e8b101affffa5f/1-c52bae2ee0db9042.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

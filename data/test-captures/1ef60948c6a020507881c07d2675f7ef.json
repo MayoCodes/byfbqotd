@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1ef60948c6a020507881c07d2675f7ef",
+  "capturedAt": "2026-11-18T13:29:35.316Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Linear Model from Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A plumber charges a flat rate of $$156$ for the first $3$ hours of work and $$42$ for each additional hour of work. Which equation gives the total amount $y$, in dollars, that the plumber charges for $x$ hours of work, where $x > 3$?",
+  "choices": {
+    "A": "$y=42x+156$",
+    "B": "$y=156x+126$",
+    "C": "$y=42x+30$",
+    "D": "$y=156x+42$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The plumber charges $$156$ for the first $3$ hours and $$42$ for each additional hour. For $x$ hours where $x > 3$, the total cost is $y = 156 + 42(x - 3)$, which simplifies to $y = 156 + 42x - 126 = 42x + 30$. Alternatively, to find the y-intercept of the linear equation $y = 42x + b$, we recognize that at $x = 3$ hours, the total charge is $$156$. If the $$42$ per hour rate applied from the start, the cost for $3$ hours would be $42(3) = 126$ dollars. Since the actual charge at $x = 3$ is $$156$, the y-intercept is $b = 156 - 126 = 30$. Therefore, the equation is $y = 42x + 30$. We can verify: at $x = 3$, $y = 42(3) + 30 = 126 + 30 = 156$, and at $x = 4$, $y = 42(4) + 30 = 168 + 30 = 198 = 156 + 42$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=1a496532",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

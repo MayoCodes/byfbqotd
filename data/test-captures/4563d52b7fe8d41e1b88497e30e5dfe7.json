@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4563d52b7fe8d41e1b88497e30e5dfe7",
+  "capturedAt": "2026-11-18T13:28:54.078Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "M.S. Vargas et al. found that an adaptive learning platform (ALP)—a software that generates personalized study materials for students—impacted student engagement and improved academic outcomes, a result that was corroborated by Jennifer Mendoza and Marcus Castillo. However, Mendoza and Castillo also determined that whereas an ALP had a stronger positive effect on class participation rates for practical courses (e.g., computer programming courses) than for theoretical courses (e.g., philosophy courses), the ALP had a stronger positive effect on course completion rates for theoretical courses than for practical ones.",
+  "prompt": "Information in the text best supports which statement about adaptive learning platforms?",
+  "choices": {
+    "A": "By directing students toward specific subject areas on an educational platform, adaptive learning platforms may limit the variety of materials encountered by learners.",
+    "B": "While adaptive learning platforms can affect student engagement toward assigned materials, those effects are not uniform in nature and strength across course categories.",
+    "C": "By proposing the most relevant options to students, adaptive learning platforms boost the participation in practical courses that otherwise tend to be underutilized.",
+    "D": "While adaptive learning platforms cause students to spend more time participating in practical courses such as computer programming courses, adaptive learning platforms' positive effect on completion rates is likely limited to theoretical courses such as philosophy courses."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most accurately synthesizes the research findings about ALPs. The text indicates that Vargas et al. found that ALPs improved engagement and outcomes, a finding that Mendoza and Castillo confirmed. However, Mendoza and Castillo also discovered that ALP effects varied significantly: ALPs had a stronger positive effect on participation rates for practical courses than for theoretical courses, while they had a stronger positive effect on completion rates for theoretical courses than for practical courses. This demonstrates that ALP effects are not uniform—they differ in both nature (participation versus completion) and strength (more effective for practical courses in one metric, more effective for theoretical courses in another) across course categories.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=b2fc74ae",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 7,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d4a69cddb3049d8e64a5e6d46fca76cf",
+  "capturedAt": "2026-11-18T13:28:38.677Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nSpecimens of meteorites have been displayed in museums and institutions across many different parts of the United States. Some of these meteorites were first displayed before 2000; for example, ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "the Canyon Diablo and the Cape York were both first displayed in the 2000s.",
+    "B": "the Willamette was first displayed in 1906, and the Canyon Diablo was first displayed in 1963.",
+    "C": "the Cape York was first displayed in 1963, and the Canyon Diablo was first displayed in 2001.",
+    "D": "the Willamette was one of several meteorites first displayed in the 1900s."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it accurately uses data from the table to support the claim that 'some of these meteorites were first displayed before 2000.' According to the table, the Willamette was displayed in 1906 and the Canyon Diablo was displayed in 1963—both dates fall before 2000. This choice provides two specific, verifiable examples that satisfy the temporal constraint established in the passage.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=f70df078",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/d4a69cddb3049d8e64a5e6d46fca76cf/1-00aefc63dcdf04c8.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 11,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

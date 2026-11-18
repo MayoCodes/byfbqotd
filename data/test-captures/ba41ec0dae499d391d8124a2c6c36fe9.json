@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ba41ec0dae499d391d8124a2c6c36fe9",
+  "capturedAt": "2026-11-18T13:29:32.013Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Word Problem - Solve System",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A rope with a length of $73$ centimeters is cut into two pieces. One piece has a length of $a$ centimeters, and the other piece has a length of $b$ centimeters. The value of $a$ is $5$ more than $3$ times the value of $b$. What is the value of $a$?",
+  "choices": {},
+  "correctAnswer": "$$56$$",
+  "explanation": "The correct answer is $56$. The problem provides two constraints: the total length of the rope is $73$ centimeters, so $a + b = 73$, and the relationship that $a$ is $5$ more than $3$ times $b$, which translates to $a = 3b + 5$. To solve for $a$, substitute the expression $a = 3b + 5$ into the first equation: $(3b + 5) + b = 73$. Combining like terms gives $4b + 5 = 73$. Subtracting $5$ from both sides yields $4b = 68$. Dividing both sides by $4$ gives $b = 17$ centimeters. Now substitute $b = 17$ back into the relationship equation: $a = 3(17) + 5 = 51 + 5 = 56$ centimeters.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=f825fb9c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

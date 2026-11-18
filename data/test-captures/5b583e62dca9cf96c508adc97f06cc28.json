@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5b583e62dca9cf96c508adc97f06cc28",
+  "capturedAt": "2026-11-18T13:28:43.121Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Plural and Possessive Nouns",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Alex Garland's Ex Machina (2014) is considered a homage to another film influential in the genre: Ridley Scott's Blade Runner (1982), which Garland's protagonist, Caleb Smith, is shown referencing. However, the similarity of the ______ experiences—the dilemmas of both Caleb and Scott's Rick Deckard result from corporate exploitation—suggests that underlying the homage is an ethical commentary.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "films' protagonists",
+    "B": "film's protagonist's",
+    "C": "films' protagonists'",
+    "D": "film's protagonists'"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of plural possessive forms. The passage discusses two films (Ex Machina and Blade Runner) and two protagonists (Caleb Smith and Rick Deckard), as confirmed by the phrase 'both Caleb and Scott's Rick Deckard.' The correct form requires two plural possessives: 'films'' (with an apostrophe after the plural 'films') to show that the protagonists belong to multiple films, and 'protagonists'' (with an apostrophe after the plural 'protagonists') to show that the experiences belong to multiple protagonists.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=5034cc72",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 17,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

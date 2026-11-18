@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9e4aa395e4c943a68f9e94bc86cf46f5",
+  "capturedAt": "2026-11-18T13:29:11.104Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = x^{2} + 14$. What is the value of $g(5)$?",
+  "choices": {},
+  "correctAnswer": "$$39$$",
+  "explanation": "The correct answer is $39$. To find $g(5)$, substitute $x = 5$ into the function definition $g(x) = x^2 + 14$. This gives $g(5) = (5)^2 + 14$. Evaluating the exponent first: $(5)^2 = 25$. Then adding the constant: $25 + 14 = 39$. Therefore, $g(5) = 39$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=8d9c9833",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

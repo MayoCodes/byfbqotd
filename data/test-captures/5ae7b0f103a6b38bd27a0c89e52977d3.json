@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5ae7b0f103a6b38bd27a0c89e52977d3",
+  "capturedAt": "2026-11-18T13:29:21.048Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x)=(x-2)(x-6)(x+k)$, where $k$ is a constant. In the $xy$-plane, the graph of $y=g(x)$ passes through the point $(-4, 0)$. What is the value of $g(0)$?",
+  "choices": {
+    "A": "$-48$",
+    "B": "$48$",
+    "C": "$12$",
+    "D": "$-4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. When a polynomial function in factored form passes through a point where $y = 0$, that point represents a zero of the function, meaning at least one factor must equal zero at that $x$-value. Since the graph of $y = g(x)$ passes through $(-4, 0)$, it follows that $g(-4) = 0$. Substituting $x = -4$ into the function gives $g(-4) = (-4-2)(-4-6)(-4+k) = (-6)(-10)(-4+k) = 0$. Since neither $-6$ nor $-10$ equals zero, the factor $(-4+k)$ must equal zero. Therefore, $-4 + k = 0$, which gives $k = 4$. Substituting $k = 4$ into the original function yields $g(x) = (x-2)(x-6)(x+4)$. To find $g(0)$, substitute $x = 0$: $g(0) = (0-2)(0-6)(0+4) = (-2)(-6)(4)$. Computing this product: $(-2)(-6) = 12$, then $12 \\times 4 = 48$. Therefore, the value of $g(0)$ is $48$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=a79aa180",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 17,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

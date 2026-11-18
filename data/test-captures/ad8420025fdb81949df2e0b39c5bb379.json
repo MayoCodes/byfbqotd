@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ad8420025fdb81949df2e0b39c5bb379",
+  "capturedAt": "2026-11-18T13:28:42.484Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "When attempting to determine a coral colony's growth history, marine biologists like Dr. Liam Sullivan at the University of Miami rely in part on data about the coral's structural characteristics and environmental conditions. For example, data from the National Oceanic and Atmospheric Administration show the ______ and environmental parameters (water temperature averaging 26°C) of a staghorn coral formation in Biscayne Bay, Florida.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "diameter (2.4 m), growth rate (approximately 6 cm/yr),",
+    "B": "diameter, (2.4 m); growth rate, (approximately 6 cm/yr);",
+    "C": "diameter, (2.4 m), growth rate, (approximately 6 cm/yr),",
+    "D": "diameter (2.4 m) growth rate (approximately 6 cm/yr)"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The conventions being tested are punctuation with parenthetical elements and series. Parenthetical measurements directly follow the terms they clarify without preceding commas: 'diameter (2.4 m)' and 'growth rate (approximately 6 cm/yr).' The commas after each closing parenthesis correctly separate items in the series—diameter, growth rate, and environmental parameters. This properly coordinates parenthetical punctuation with series punctuation.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=c75b1690",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 16,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "82df9ff773c579f0d3d72513c02211c1",
+  "capturedAt": "2026-11-18T13:28:33.471Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Multi-Word Phrase",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Gilgamesh is said to have ruled the city of Uruk in ancient Mesopotamia during the 3rd millennium BCE. Unlike that of Hammurabi or other well-documented figures from Mesopotamian history, Gilgamesh's existence has been the subject of debate, as our knowledge of him is ______ largely mythological epic poems compiled centuries after the events they recount.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "unsupported by",
+    "B": "independent of",
+    "C": "reminiscent of",
+    "D": "derived from"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most logically completes the text's discussion of why Gilgamesh's existence is debated. As used in this context, 'derived from' means obtained or sourced from. The text contrasts Gilgamesh with 'well-documented figures' like Hammurabi, establishing that our knowledge of Gilgamesh comes from 'largely mythological epic poems compiled centuries after the events they recount.' Because these sources are mythological and temporally distant from the events, they are unreliable as historical documentation. This source relationship—knowledge derived from unreliable sources—explains why Gilgamesh's existence remains debated.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=bb85c826",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 3,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

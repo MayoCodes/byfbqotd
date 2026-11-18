@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ae6a689b04b77950cfc98b4f9c3ed6cd",
+  "capturedAt": "2026-11-18T13:28:48.891Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Pritzker Architecture Prize is a prestigious award given by The Hyatt Foundation.\n• The foundation gives the award for \"consistent and significant contributions to humanity through the art of architecture.\"\n• It is named after American philanthropist Jay Pritzker.\n• Zaha Hadid won the award in 2004.",
+  "prompt": "The student wants to explain whom the award is named for and identify one recipient of it. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The Pritzker Architecture Prize is given for \"consistent and significant contributions to humanity through the art of architecture.\"",
+    "B": "It was in 2004 that Zaha Hadid won the Pritzker Architecture Prize.",
+    "C": "In 2004, Zaha Hadid won the Pritzker Architecture Prize, which is given for \"consistent and significant contributions to humanity through the art of architecture.\"",
+    "D": "The Pritzker Architecture Prize, which is named for American philanthropist Jay Pritzker, was given to Zaha Hadid in 2004."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accomplishes both stated goals by synthesizing information from multiple notes. The sentence explains that the award \"is named for American philanthropist Jay Pritzker\" (using information from the third note) and identifies \"Zaha Hadid\" as a recipient who received the award \"in 2004\" (using information from the fourth note). By including both pieces of information in a single coherent sentence, this choice effectively fulfills the assignment's dual requirements.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=0c6bfb18",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 26,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

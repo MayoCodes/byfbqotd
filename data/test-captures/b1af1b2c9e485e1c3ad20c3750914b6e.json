@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b1af1b2c9e485e1c3ad20c3750914b6e",
+  "capturedAt": "2026-11-18T13:29:33.999Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Weighted or Combined Mean",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A materials engineer is testing the hardness of $240$ metal alloy samples by measuring the Rockwell hardness of each sample. The mean hardness of all $240$ samples is $185$ Rockwell units. The engineer classifies each of these samples as either hard or soft. Of the $240$ samples, $80$ samples were classified as hard alloys, and these $80$ samples have a mean hardness of $275$ Rockwell units. The remaining $160$ samples were classified as soft alloys. What is the mean hardness, in Rockwell units, of the $160$ samples classified as soft alloys?",
+  "choices": {},
+  "correctAnswer": "$$140$$",
+  "explanation": "The correct answer is $140$. The mean hardness of all $240$ samples can be used to find the total sum of hardness values: $240 \\times 185 = 44{,}400$ Rockwell units. Similarly, the sum of hardness values for the $80$ hard alloy samples is $80 \\times 275 = 22{,}000$ Rockwell units. Since the total sum equals the sum of the hard alloys plus the sum of the soft alloys, the sum for the soft alloys is $44{,}400 - 22{,}000 = 22{,}400$ Rockwell units. Therefore, the mean hardness of the $160$ soft alloy samples is $\\frac{22{,}400}{160} = 140$ Rockwell units. This result makes sense because the hard alloys have a mean ($275$) well above the overall mean ($185$), so the soft alloys must have a mean below the overall mean to balance the weighted average.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=54ab3aea",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

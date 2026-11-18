@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eab6be9388b84aba56bf413e73c1ff2f",
+  "capturedAt": "2026-11-18T13:29:01.144Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The climate technology company TerraCapture Systems is developing an innovative new technology: a process that uses direct air capture to remove carbon dioxide from the atmosphere to help reduce atmospheric carbon levels. TerraCapture Systems' technology, alongside other such carbon sequestration technologies that function by targeting industrial emission sources, ______ the way for future advancements in environmental technology.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of standard English?",
+  "choices": {
+    "A": "is paving",
+    "B": "paving",
+    "C": "are paving",
+    "D": "have paved"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb 'is paving' agrees in number with the singular subject 'TerraCapture Systems' technology.' The phrase 'alongside other such carbon sequestration technologies that function by targeting industrial emission sources' is a parenthetical element introduced by the preposition 'alongside' and does not affect subject-verb agreement. Only the noun 'technology' determines the verb number, requiring the singular form 'is paving.'",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=3589755a",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 17,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

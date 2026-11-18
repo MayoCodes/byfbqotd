@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e5d9e82a3780e1996d82d375c293e102",
+  "capturedAt": "2026-11-18T13:29:26.757Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The product of a positive number $x$ and the number that is $5$ less than $x$ is equal to $14$. What is the value of $x$?",
+  "choices": {
+    "A": "$2.5$",
+    "B": "$7$",
+    "C": "$9$",
+    "D": "$14$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The phrase 'the product of a positive number $x$ and the number that is $5$ less than $x$' translates to the algebraic expression $x(x-5)$. Setting this equal to $14$ gives the equation $x(x-5) = 14$. Expanding the left side yields $x^2 - 5x = 14$. Rearranging to standard form: $x^2 - 5x - 14 = 0$. To factor this quadratic, we need two numbers that multiply to $-14$ and add to $-5$. The factors of $-14$ are $-7$ and $2$ (since $-7 \\times 2 = -14$ and $-7 + 2 = -5$). Therefore, the equation factors as $(x-7)(x+2) = 0$. Setting each factor equal to zero gives $x = 7$ or $x = -2$. Since the question specifies a positive number, the answer is $x = 7$. Verification: $7(7-5) = 7 \\times 2 = 14$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=3da4ec5f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

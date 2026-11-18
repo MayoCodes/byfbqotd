@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0febdc81bc5cbc5a2b980171efe0555e",
+  "capturedAt": "2026-11-18T13:28:38.021Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Social Science/History",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Ancient accounts of Babylon (a city in present-day Iraq) derive from many sources, such as the Babyloniaca, composed around 290 BCE, and Herodotus's Histories from the 5th century BCE. One of the most significant sources, Pliny the Elder's Natural History, was written in Latin around 77 CE. But while no source before 290 BCE includes references to the famous Hanging Gardens at which Babylon's terraced plants flourished, both Pliny's Natural History and Diodorus Siculus's Bibliotheca historica (1st century BCE) do. It can therefore be inferred that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "Herodotus was unaware of stories of the Hanging Gardens when composing his Histories, though historians know that works containing such stories were available to him.",
+    "B": "Herodotus's accounts of Babylonian monuments in his Histories are more similar overall in content to the accounts in the Babyloniaca than they are to the accounts in Natural History.",
+    "C": "Herodotus's Histories does not include a reference to the Hanging Gardens.",
+    "D": "Natural History is more historically accurate than Histories because the Babyloniaca had not been written when Herodotus was writing his work."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct because Histories dates to the fifth century BCE, before 290 BCE, and the passage states that no source before that cutoff references the Hanging Gardens.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=d362e898",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 10,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

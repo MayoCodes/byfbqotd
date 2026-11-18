@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "25135be77d873ecb8ab8d4c846896444",
+  "capturedAt": "2026-11-18T13:28:58.542Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "A bird species' navigational behavior (the directional patterns birds exhibit during migration) is known to be influenced by Earth's magnetic field. Reyes and colleagues hypothesized that magnetic field orientations could also affect birds' flight characteristics, including heading angles and directional vectors like azimuth precision. Recognizing that altitude varies by location in the wild and could influence birds' navigation, Reyes et al. exposed distinct magnetic field orientations to individually housed Swainson's thrushes (Catharus ustulatus) in a controlled laboratory setting, then measured the birds' navigational parameters, like directional bearing and azimuth angle (the most prominent), that determine navigation accuracy and flight precision. This method thus enabled the researchers to ______.",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "demonstrate that differences in birds' navigation accuracy result from differences in the level of directional vectors regardless of the altitude",
+    "B": "re-create the conditions of studies conducted in the wild that found links between magnetic field orientations and levels of azimuth angle in thrush populations",
+    "C": "distinguish variations in navigational parameters due to differences in magnetic field orientations from those that in a natural setting may be due to differences in altitude",
+    "D": "disentangle the influence of magnetic field orientations on altitude from their influence on azimuth angle precision in the birds"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most logically completes the text's discussion of the experimental methodology. The passage establishes that Reyes and colleagues recognized altitude as a potential confounding variable in natural settings, varying by location and potentially affecting navigation independently of magnetic field effects. By using a controlled laboratory setting where altitude remains constant while magnetic field orientations are manipulated, the researchers can isolate which observed changes in navigational parameters result from magnetic field differences versus those that might be attributed to altitude variation in the wild.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=a7f6fee7",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 13,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

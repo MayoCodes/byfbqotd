@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "aec273eeda3b60a29e1dafd2c4659cef",
+  "capturedAt": "2026-11-18T13:28:48.239Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Mount Elbrus is in Europe.\n• It ranks No. 10 among the highest mountains in the world.\n• It is 5,642 meters high.\n• Mount Kilimanjaro is in Africa.\n• It ranks No. 4 among the highest mountains in the world.\n• It is 5,895 meters high.",
+  "prompt": "The student wants to compare the heights of the two mountains. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Mount Elbrus in Europe is 5,642 meters high.",
+    "B": "Mount Kilimanjaro is in Africa, whereas Mount Elbrus is located in Europe.",
+    "C": "Among the highest mountains in the world, Mount Kilimanjaro is ranked No. 4.",
+    "D": "Mount Elbrus is shorter than Mount Kilimanjaro."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively accomplishes the goal of comparing the heights of the two mountains. The statement 'Mount Elbrus is shorter than Mount Kilimanjaro' synthesizes the height measurements from the notes (5,642 meters versus 5,895 meters) into a direct comparative relationship. This choice clearly expresses which mountain is taller and which is shorter, providing the reader with a concise and explicit comparison of the two heights rather than simply listing isolated facts.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=b6ea50ff",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 25,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

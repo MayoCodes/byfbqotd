@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d1b2ea126af434fd5fd4153c8d3534eb",
+  "capturedAt": "2026-11-18T13:29:19.095Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For $x > 0$, the function $g$ is defined as follows: $g(x)$ equals $217%$ of $x$. Which of the following could describe this function?",
+  "choices": {
+    "A": "Decreasing exponential",
+    "B": "Decreasing linear",
+    "C": "Increasing linear",
+    "D": "Increasing exponential"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The function $g$ is defined such that $g(x)$ equals $217\\%$ of $x$. Converting the percentage to decimal form: $217\\% = 2.17$. Therefore, $g(x) = 2.17x$. This function has the form $g(x) = mx$ where $m = 2.17$, which is the standard form of a linear function passing through the origin with slope $m$. Since the coefficient $m = 2.17$ is positive, the function has a positive slope. For the given domain $x > 0$, when $x$ increases, $g(x) = 2.17x$ also increases proportionally. A function with constant positive slope that increases as $x$ increases is classified as an increasing linear function.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=f69aa0e9",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 14,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

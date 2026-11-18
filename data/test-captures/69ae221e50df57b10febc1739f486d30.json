@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "69ae221e50df57b10febc1739f486d30",
+  "capturedAt": "2026-11-18T13:29:18.455Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $N(t) = 25,000(2)^\\frac{t}{(48)}$ gives the number of views on a viral video $t$ hours after it was posted. How much time, in hours, does it take for the number of views on the video to double?",
+  "choices": {},
+  "correctAnswer": "$$48$$",
+  "explanation": "The correct answer is $48$. The function $N(t) = 25{,}000(2)^{\\frac{t}{48}}$ models exponential growth with base $2$, which represents doubling. To understand when the number of views doubles, consider that when $t = 0$, $N(0) = 25{,}000(2)^0 = 25{,}000$ views. For the views to double, we need $N(t) = 50{,}000$. Setting up the equation: $25{,}000(2)^{\\frac{t}{48}} = 50{,}000$. Dividing both sides by $25{,}000$ gives $(2)^{\\frac{t}{48}} = 2$. Since $(2)^{\\frac{t}{48}} = (2)^1$, the exponents must be equal: $\\frac{t}{48} = 1$. Multiplying both sides by $48$ gives $t = 48$ hours. Alternatively, recognizing that in exponential functions of the form $A(b)^{\\frac{t}{k}}$ where $b = 2$, the value $k$ directly represents the doubling time, we can see that $k = 48$ is the time required for the quantity to double.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=73e7476c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 13,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a096c95956a44c6aa2713b3a0209ca6a",
+  "capturedAt": "2026-11-18T13:29:01.797Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Taking a formalist approach to analyzing Diego Velázquez's painting Las Meninas would lead a critic to focus on the compositional elements inherent in the painting. On the other hand, an iconographic analysis ______ on symbolic content and its relationship to cultural meaning might yield a radically different interpretation of Velázquez's painting.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of standard English?",
+  "choices": {
+    "A": "would be focusing",
+    "B": "would focus",
+    "C": "focusing",
+    "D": "focuses"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it maintains parallel structure with the opening sentence. The first sentence uses the pattern '[participial phrase] would lead,' with 'Taking a formalist approach' modifying the understood subject. The second sentence mirrors this structure: 'an iconographic analysis focusing on symbolic content' creates a noun phrase modified by the participial phrase 'focusing,' which serves as the subject of the main verb 'might yield.' This parallelism creates balanced, clear prose that presents two contrasting analytical approaches in equivalent grammatical forms.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=3c141dd4",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 18,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

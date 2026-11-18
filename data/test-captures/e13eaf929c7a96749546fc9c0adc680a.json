@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e13eaf929c7a96749546fc9c0adc680a",
+  "capturedAt": "2026-11-18T13:29:29.379Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $\\frac{a}{b} = 4$ and $\\frac{(3a)}{(kb)} = 24$, what is the value of $k$?",
+  "choices": {
+    "A": "$\\frac{1}{2}$",
+    "B": "$\\frac{3}{4}$",
+    "C": "$\\frac{4}{3}$",
+    "D": "$4$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The equation $\\frac{3a}{kb}$ can be rewritten as $\\frac{3}{k} \\cdot \\frac{a}{b}$. Since $\\frac{a}{b} = 4$, substituting gives $\\frac{3}{k} \\cdot 4 = 24$. Simplifying the left side yields $\\frac{12}{k} = 24$. Solving for $k$: multiply both sides by $k$ to get $12 = 24k$, then divide both sides by $24$ to get $k = \\frac{12}{24} = \\frac{1}{2}$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=c5563aa1",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

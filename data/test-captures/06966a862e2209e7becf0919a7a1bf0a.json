@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "06966a862e2209e7becf0919a7a1bf0a",
+  "capturedAt": "2026-11-18T13:29:27.396Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Surface Area of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The height of a right circular cylinder is $24$ inches, and the circumference of its base is $180$ inches. Which expression represents the total surface area, in square inches, of the cylinder?",
+  "choices": {
+    "A": "$\\pi (\\frac{(90)}{(\\pi )})^{2}(24)$",
+    "B": "$(24)(180) + 2\\pi (\\frac{(90)}{(\\pi )})^{2}$",
+    "C": "$(24)(180)$",
+    "D": "$(24)(180) + \\pi (\\frac{(90)}{(\\pi )})^{2}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The total surface area of a cylinder is $SA = 2\\pi rh + 2\\pi r^2$ (lateral area plus two circular bases). From the circumference $C = 2\\pi r = 180$, the radius is $r = \\frac{90}{\\pi}$. The lateral area is $2\\pi rh = 2\\pi \\cdot \\frac{90}{\\pi} \\cdot 24 = (180)(24)$. The two base areas are $2\\pi r^2 = 2\\pi\\left(\\frac{90}{\\pi}\\right)^2$. Therefore, the total surface area is $(24)(180) + 2\\pi\\left(\\frac{90}{\\pi}\\right)^2$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=7dbabc0f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 4,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8eaf14aac3a6f2d47e2f77b6f1f52d42",
+  "capturedAt": "2026-11-18T13:29:24.588Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Point $A$ lies on a unit circle in the $xy$-plane and has coordinates $(1, 0)$. Point $B$ is the center of the circle and has coordinates $(0, 0)$. Point $C$ also lies on the circle and has coordinates $(0, -1)$. Which of the following could be the positive measure of angle $ABC$, in radians?",
+  "choices": {
+    "A": "$\\frac{(33\\pi )}{2}$",
+    "B": "$\\frac{(35\\pi )}{2}$",
+    "C": "$17\\pi$",
+    "D": "$\\frac{(37\\pi )}{2}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. On a unit circle centered at the origin, the angle measured from the positive $x$-axis to a point is determined by the point's coordinates. Point $A$ at $(1, 0)$ corresponds to an angle of $0$ radians, and point $C$ at $(0, -1)$ corresponds to an angle of $\\frac{3\\pi}{2}$ radians (or $270°$) measured counterclockwise from the positive $x$-axis. Therefore, the angle $ABC$, measured from ray $BA$ to ray $BC$, has a reference measure of $\\frac{3\\pi}{2}$ radians. However, angles are not unique; any angle coterminal with $\\frac{3\\pi}{2}$ (differing by a multiple of $2\\pi$) represents the same geometric position. The general form for all such angles is $\\frac{3\\pi}{2} + 2\\pi k$, where $k$ is any non-negative integer. Testing choice B: $\\frac{35\\pi}{2} - \\frac{3\\pi}{2} = \\frac{32\\pi}{2} = 16\\pi = 8(2\\pi)$, which means $k = 8$. Since $8$ is a non-negative integer, $\\frac{35\\pi}{2}$ is coterminal with $\\frac{3\\pi}{2}$ and therefore could be the measure of angle $ABC$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=de251484",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 22,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

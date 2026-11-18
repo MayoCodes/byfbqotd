@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7088e67c019c31e4d40a8f33798409ab",
+  "capturedAt": "2026-11-18T13:29:34.656Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Equivalent Exponential Form",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For the given function $g(x) = 32(1.30)^\\frac{x}{4}$, the value of $g(x)$ increases by $p%$ for every increase of $x$ by $8$. What is the value of $p$?",
+  "choices": {
+    "A": "$30$",
+    "B": "$52$",
+    "C": "$60$",
+    "D": "$69$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. For the function $g(x) = 32(1.30)^{\\frac{x}{4}}$, when $x$ increases by $8$, the exponent $\\frac{x}{4}$ increases by $\\frac{8}{4} = 2$. To find the percent increase, compare $g(x+8)$ to $g(x)$: $\\frac{g(x+8)}{g(x)} = \\frac{32(1.30)^{\\frac{x+8}{4}}}{32(1.30)^{\\frac{x}{4}}} = (1.30)^{\\frac{8}{4}} = (1.30)^2 = 1.69$. Since $g(x)$ is multiplied by $1.69$, this represents a $69\\%$ increase. Therefore, $p = 69$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=6c822569",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

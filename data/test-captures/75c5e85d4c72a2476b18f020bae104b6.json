@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "75c5e85d4c72a2476b18f020bae104b6",
+  "capturedAt": "2026-11-18T13:29:13.938Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Intercept",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$3x - 2y = -12$$\n\nFor the given equation, which table gives three values of $x$ and their corresponding values of $y$?",
+  "choices": {
+    "A": "[Table 1]",
+    "B": "[Table 2]",
+    "C": "[Table 3]",
+    "D": "[Table 4]"
+  },
+  "correctAnswer": "D",
+  "explanation": "The correct answer is D. To find which table is correct, substitute each pair of values into $3x - 2y = -12$ and check if the equation is satisfied. For the pair $(0, 6)$: $3(0) - 2(6) = 0 - 12 = -12$. For the pair $(2, 9)$: $3(2) - 2(9) = 6 - 18 = -12$. For the pair $(4, 12)$: $3(4) - 2(12) = 12 - 24 = -12$. All three pairs satisfy the equation, so choice D is correct.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=489811cc",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/75c5e85d4c72a2476b18f020bae104b6/1-b477a6379d833835.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 2",
+      "path": "data/capture-assets/75c5e85d4c72a2476b18f020bae104b6/2-58ad4f87f660c2ca.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 3",
+      "path": "data/capture-assets/75c5e85d4c72a2476b18f020bae104b6/3-24e9cdd05cb1e312.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Table 4",
+      "path": "data/capture-assets/75c5e85d4c72a2476b18f020bae104b6/4-034be6c4cd53b1aa.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 9,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

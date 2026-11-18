@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b33726ea0ae303186dc4a1a6df643c5",
+  "capturedAt": "2026-11-18T13:29:30.042Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$\\frac{(x^{2}-4)}{(x+3)} - \\frac{(2x^{3}-1)}{(x-2)} = \\frac{(ax^{4}+bx^{3}+cx^{2}-3x+11)}{(x^{2}+x-6)}$$\n\nIn the given equation, $a$, $b$, and $c$ are constants. What is the value of $a + b + c$?",
+  "choices": {},
+  "correctAnswer": "$$-9$$",
+  "explanation": "The correct answer is $-9$. First, note that $x^2 + x - 6 = (x+3)(x-2)$, which is the common denominator. Multiply the first fraction by $\\frac{x-2}{x-2}$ and the second by $\\frac{x+3}{x+3}$. Expanding $(x^2-4)(x-2) = x^3 - 2x^2 - 4x + 8$. Expanding $(2x^3-1)(x+3) = 2x^4 + 6x^3 - x - 3$. Subtracting: $(x^3 - 2x^2 - 4x + 8) - (2x^4 + 6x^3 - x - 3) = -2x^4 - 5x^3 - 2x^2 - 3x + 11$. Comparing coefficients: $a = -2$, $b = -5$, $c = -2$. Therefore, $a + b + c = -2 + (-5) + (-2) = -9$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=c05a2c88",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 8,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

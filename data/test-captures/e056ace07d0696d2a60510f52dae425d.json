@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e056ace07d0696d2a60510f52dae425d",
+  "capturedAt": "2026-11-18T13:29:11.763Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $h$ is defined by $h(x) = \\frac{x}{3}$. For what value of $x$ does $h(x) = 159$?",
+  "choices": {},
+  "correctAnswer": "$$477$$",
+  "explanation": "The correct answer is $477$. To find the value of $x$ for which $h(x) = 159$, substitute the function definition into the equation: $\\frac{x}{3} = 159$. To solve for $x$, multiply both sides of the equation by $3$: $x = 159 \\times 3$. Calculating this product gives $x = 477$. This can be verified by substituting back: $h(477) = \\frac{477}{3} = 159$, which confirms the solution.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=75f35110",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

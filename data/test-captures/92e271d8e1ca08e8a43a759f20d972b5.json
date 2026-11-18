@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "92e271d8e1ca08e8a43a759f20d972b5",
+  "capturedAt": "2026-11-18T13:29:33.336Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$C(x) = \\frac{7}{4}(x - 100) + 5$$\n\nThe function $C$ gives the amount in currency B, in dollars, that corresponds to an amount of $x$ dollars in currency A. If an amount increased by $15.20$ dollars in currency A, by how much did the amount increase, in dollars, in currency B?",
+  "choices": {
+    "A": "$26.60$",
+    "B": "$31.60$",
+    "C": "$148.40$",
+    "D": "$153.40$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For a linear function of the form $C(x) = m(x - a) + b$, where $m$, $a$, and $b$ are constants, the rate of change of the function is determined by the coefficient $m$. In this function, $C(x) = \\frac{7}{4}(x - 100) + 5$, the coefficient is $\\frac{7}{4}$, which equals $1.75$. The constants $-100$ and $+5$ affect the absolute values of outputs but do NOT affect how changes in input correspond to changes in output. When an amount increases by $15.20$ dollars in currency A, the corresponding increase in currency B is found by multiplying the input change by the rate of change: $\\frac{7}{4} \\times 15.20 = 1.75 \\times 15.20 = 26.60$ dollars. Therefore, the amount increased by $26.60$ dollars in currency B.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=dcbe74e5",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "29b1fc1b094d53d20a73a088276f2317",
+  "capturedAt": "2026-11-18T13:29:13.278Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The $y$-intercept of the graph of $y = x^{2} + 22$ in the $xy$-plane is $(0, y)$. What is the value of $y$?",
+  "choices": {},
+  "correctAnswer": "$$22$$",
+  "explanation": "The correct answer is $22$. The $y$-intercept of a graph occurs where the graph crosses the $y$-axis, which happens when $x = 0$. To find the $y$-intercept, substitute $x = 0$ into the equation $y = x^2 + 22$. This gives $y = (0)^2 + 22 = 0 + 22 = 22$. Therefore, the $y$-intercept is at the point $(0, 22)$, and the value of $y$ is $22$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=4605e970",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

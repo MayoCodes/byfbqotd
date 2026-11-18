@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "afe6d97344074bd324786c50e66e8fa7",
+  "capturedAt": "2026-11-18T13:28:44.416Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "When minerals form crystals, the angles between their crystal faces create geometric patterns that are unique to each mineral type. This means that the measurement of an angle of 87.3 degrees, which falls in the 85-90 degree range defining the near-perpendicular category of crystal angles, ______ the mineral calcite as the source of the crystal.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "identifying",
+    "B": "to identify",
+    "C": "identifies",
+    "D": "having identified"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of finite and nonfinite verb forms within a sentence. The singular present tense verb 'identifies' correctly completes the independent clause begun by the singular subject 'the measurement.' The relative clause 'which falls in the 85-90 degree range defining the near-perpendicular category of crystal angles' provides additional information about the measurement but doesn't affect the core subject-verb relationship. A finite verb is required here to establish this relationship and create a grammatically complete sentence expressing a scientific fact about crystal identification.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=079baed3",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 19,
+    "subject": "English",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

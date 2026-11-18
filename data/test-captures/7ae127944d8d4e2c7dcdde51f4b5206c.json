@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7ae127944d8d4e2c7dcdde51f4b5206c",
+  "capturedAt": "2026-11-18T13:29:09.140Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "During operation, a laboratory refrigerator's internal temperature varied between $2$ degrees Celsius and $8$ degrees Celsius. Which inequality best represents this situation, where $t$ is the internal temperature, in degrees Celsius, during this operation?",
+  "choices": {
+    "A": "$t \\le 6$",
+    "B": "$t \\le 2$",
+    "C": "$t \\le 8$",
+    "D": "$2 \\le t \\le 8$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. When a quantity varies between two values, it means the quantity can take any value from the lower bound to the upper bound, inclusive of both endpoints. The phrase 'varied between $2$ degrees Celsius and $8$ degrees Celsius' indicates that the temperature $t$ could be as low as $2$ degrees, as high as $8$ degrees, or any value in between. This is represented mathematically by a compound inequality that specifies both the lower and upper bounds: $2 \\leq t \\leq 8$. This notation means '$t$ is greater than or equal to $2$ AND less than or equal to $8$,' which precisely captures the described situation.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=dd2b3458",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b8a496b728776c6df771814e87530d0d",
+  "capturedAt": "2026-11-18T13:29:39.048Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The speed of vehicle X is $324%$ of the speed of vehicle Y, and the speed of vehicle X is $0.054%$ of the speed of vehicle Z. If the speed of vehicle Z is $p%$ of the speed of vehicle Y, what is the value of $\\frac{p}{(1000)}$?",
+  "choices": {},
+  "correctAnswer": "$$600$$",
+  "explanation": "The correct answer is $600$. Let the speed of vehicle Y be denoted as $Y$, the speed of vehicle X as $X$, and the speed of vehicle Z as $Z$. The first statement tells us that $X = 324\\%$ of $Y$, which can be written as $X = 3.24Y$. The second statement tells us that $X = 0.054\\%$ of $Z$, which can be written as $X = 0.00054Z$. Since both expressions equal $X$, we can set them equal to each other: $3.24Y = 0.00054Z$. Solving for $Z$ in terms of $Y$: $Z = \\frac{3.24Y}{0.00054} = 6000Y$. This means that $Z$ is $6000$ times the value of $Y$. To express this as a percentage, we convert: $Z = 6000Y = 600{,}000\\%$ of $Y$. Therefore, $p = 600{,}000$. The question asks for $\\frac{p}{1000} = \\frac{600{,}000}{1000} = 600$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=7373f36d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 21,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}

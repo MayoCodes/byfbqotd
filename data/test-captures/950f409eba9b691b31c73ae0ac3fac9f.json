@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "950f409eba9b691b31c73ae0ac3fac9f",
+  "capturedAt": "2026-11-18T13:29:35.975Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Graph Reading - System Intersection",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$y = x^{2} + 6x + a$$\n\n$$y = -4.25$$\n\nIn the given system of equations, $a$ is a positive integer constant. The system has no real solutions. What is the least possible value of $a$?",
+  "choices": {},
+  "correctAnswer": "$$5$$",
+  "explanation": "The correct answer is $5$. Setting the equations equal: $x^2 + 6x + a = -4.25$, or $x^2 + 6x + (a + 4.25) = 0$. For no real solutions, the discriminant must be negative: $36 - 4(a + 4.25) < 0$. Simplifying: $36 - 4a - 17 < 0$, so $19 - 4a < 0$, giving $a > 4.75$. The least positive integer greater than $4.75$ is $5$.",
+  "source": "https://cooksat.com/practice-test-review/11?questionId=0f145d4b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 17,
+    "subject": "Math",
+    "testId": "11",
+    "title": "Practice Test 11"
+  }
+}
