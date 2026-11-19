@@ -12,10 +12,10 @@
   "passage": "",
   "prompt": "[Figure 1]\n\nTriangle $PQR$ shown is a right triangle. Which of the following has the same value as $P$?",
   "choices": {
-    "A": "$P$",
-    "B": "$Q$",
-    "C": "$P$",
-    "D": "$Q$"
+    "A": "$\\tan P$",
+    "B": "$\\tan Q$",
+    "C": "$\\cos P$",
+    "D": "$\\cos Q$"
   },
   "correctAnswer": "D",
   "explanation": "Choice D is correct. The sine of an acute angle in a right triangle equals the cosine of its complementary angle. In the triangle shown, angle $R$ is a right angle, so angles $P$ and $Q$ are complementary. Therefore, $\\cos Q$ has the same value as $\\sin P$.",

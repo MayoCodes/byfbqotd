@@ -12,10 +12,10 @@
   "passage": "",
   "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale.\n\nWhich expression represents the length of side $DE$?",
   "choices": {
-    "A": "$18 64°$",
-    "B": "$18 64°$",
-    "C": "$\\frac{(18)}{( 64°)}$",
-    "D": "$\\frac{(18)}{( 64°)}$"
+    "A": "$18\\sin 64^{\\circ}$",
+    "B": "$18\\cos 64^{\\circ}$",
+    "C": "$\\frac{18}{\\sin 64^{\\circ}}$",
+    "D": "$\\frac{18}{\\cos 64^{\\circ}}$"
   },
   "correctAnswer": "A",
   "explanation": "Choice A is correct. In right triangle $DEF$ with the right angle at $E$, the side $DE$ is opposite the $64°$ angle at vertex $F$, and the hypotenuse $DF$ has length $18$. The sine of an angle in a right triangle is defined as the ratio of the length of the opposite side to the length of the hypotenuse: $\\sin(64°) = \\frac{DE}{18}$. Solving this equation for $DE$ by multiplying both sides by $18$ gives $DE = 18\\sin(64°)$. Therefore, the expression $18\\sin 64°$ correctly represents the length of side $DE$.",
