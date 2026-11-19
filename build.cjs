@@ -45,7 +45,7 @@ const pages={
 };
 for(const [filename,source] of Object.entries(pages)){
  let page=source.replace('/assets/account-app.js','/assets/'+accountEntry).replace('/assets/assignment-run.js','/assets/'+runEntry);
- for(const name of ['heroui.css','question-bank.css','account.css','assignment.css','desmos-panel.css','katex/katex.min.css']){
+ for(const name of ['heroui.css','question-bank.css','account.css','tests-page.css','assignment.css','desmos-panel.css','katex/katex.min.css']){
   const bytes=fs.readFileSync(path.join(output,'assets',name));
   const hash=require('node:crypto').createHash('sha256').update(bytes).digest('hex').slice(0,12);
   const versioned=name.replace('.css','-'+hash+'.css');
