@@ -31,3 +31,32 @@ test('production store starts, resumes without resetting the clock, and submits 
  const reopened=await store.assignmentContext('room','store-integration');assert.equal(reopened.existingSession.status,'submitted');assert.equal(reopened.existingSession.answers.q1,'D');
  authInstance.currentUser={...user,uid:'other'};await assert.rejects(store.saveAssignmentRun('room','store-integration','student',checkpoint()),/Sign back/);
 });
+
+test('shared practice reports are private, immutable, bounded, and only writable by classroom members',async()=>{
+ const target=db=>doc(db,...room,'practiceReports','student_12345678-1234-1234-1234-123456789abc');
+ const report={studentId:'student',attemptId:'12345678-1234-1234-1234-123456789abc',testId:'6',title:'Practice Test 6',moduleNumbers:[1,2,3,4],questionIds:['q1','q2'],answers:{q1:'B'},stats:{q1:{activeMs:5000,awayMs:1000,awayCount:1}},events:[{module:1,type:'away',questionId:'q1',atMs:1000}],awayCount:1,completedAtMs:0,sharedAt:serverTimestamp()};
+ await assertSucceeds(getDoc(target(student)));await assertFails(setDoc(target(other),report));
+ await assertFails(setDoc(doc(student,'friprepClassrooms','not-joined','practiceReports','student_'+report.attemptId),report));
+ await assertFails(setDoc(target(student),{...report,questionIds:Array(101).fill('q1')}));
+ await assertFails(setDoc(target(student),{...report,stats:{foreign:{activeMs:1}}}));
+ await assertSucceeds(setDoc(target(student),report));await assertFails(updateDoc(target(student),{answers:{q1:'C'}}));await assertFails(getDoc(target(other)));await assertSucceeds(getDoc(target(teacher)));
+ const {query,where}=require('firebase/firestore');await assertSucceeds(getDocs(query(collection(student,...room,'practiceReports'),where('studentId','==','student'))));await assertFails(getDocs(collection(student,...room,'practiceReports')));
+});
+test('students can save only their actual classroom memberships as sharing destinations',async()=>{
+ await assertSucceeds(setDoc(doc(student,'friprepUsers','student','classrooms','room'),{joinedAt:serverTimestamp()}));
+ await assertFails(setDoc(doc(student,'friprepUsers','student','classrooms','not-joined'),{joinedAt:serverTimestamp()}));
+ await assertFails(getDocs(collection(other,'friprepUsers','student','classrooms')));
+});
+
+test('production share store sends once, preserves activity, and lists only classroom work',async()=>{
+ await env.withSecurityRulesDisabled(async ctx=>{await setDoc(doc(ctx.firestore(),'friprepClassrooms','room'),{title:'SAT group',teacherId:'teacher'});await setDoc(doc(ctx.firestore(),'friprepUsers','student'),{activated:true,classroomId:'room'});});
+ const esbuild=require('esbuild'),entry=path.join(__dirname,'../assets/account-store.js'),source=fs.readFileSync(entry,'utf8').replaceAll("import(base+'firebase-app.js')",'Promise.resolve(testSDK.app)').replaceAll("import(base+'firebase-auth.js')",'Promise.resolve(testSDK.auth)').replaceAll("import(base+'firebase-firestore.js')",'Promise.resolve(testSDK.firestore)');
+ const bundle=esbuild.buildSync({stdin:{contents:source,sourcefile:entry,resolveDir:path.dirname(entry)},bundle:true,write:false,format:'cjs',platform:'node'}).outputFiles[0].text;
+ const user={uid:'student',displayName:'Student',email:'student@example.test',emailVerified:true,providerData:[{providerId:'google.com'}]},authInstance={currentUser:user,authStateReady:async()=>{}};
+ const fixture={app:{getApps:()=>[],initializeApp:()=>({})},auth:{getAuth:()=>authInstance,setPersistence:async()=>{},onAuthStateChanged:(_,fn)=>{void fn(user);}},firestore:{...require('firebase/firestore'),getFirestore:()=>student}},module={exports:{}};
+ new Function('testSDK','window','module','exports',bundle)(fixture,{addEventListener:()=>{},dispatchEvent:()=>{}},module,module.exports);const store=module.exports;await store.startAccount();
+ const report={attemptId:'abcdefgh-1234-1234-1234-123456789abc',testId:'6',title:'Practice Test 6',moduleNumbers:[3],questionIds:['q1'],answers:{q1:'B'},stats:{q1:{activeMs:3000,awayMs:1000,answerMs:2000}},events:[{module:3,type:'away',questionId:'q1',atMs:1000}],awayCount:1,completedAtMs:0};
+ assert.equal(await store.sharePracticeReport('room',report),true);assert.equal(await store.sharePracticeReport('room',report),false);
+ const attempts=await store.loadClassroomAttempts('room');assert.ok(attempts.some(r=>r.attemptId===report.attemptId&&r.stats.q1.activeMs===3000&&r.events.length===1));
+ await assert.rejects(store.sharePracticeReport('not-joined',report));
+});

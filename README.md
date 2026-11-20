@@ -113,3 +113,10 @@ The main URL now opens My study space: Google sign-in for guests and the saved d
 Open a **completed CookSAT test review**, reload the existing Friprep Capture extension, and choose its **Tests** tab. Capture all four modules or one named module. Capture uses the visible review dialogs, leaves CookSAT answers and scores untouched, and can resume from its saved queue. **Publish all** writes test questions under `data/test-captures/`; then deploy `main` manually. The public **Tests** page enables a module once all its questions are published, and enables a whole test once all four modules are ready.
 
 Test attempts have separate module timers, local answer checkpoints, locked completed modules, and an end-of-test percentage with explanations. They reuse the assignment screen and do not require new Firebase rules. Practice percentages are not scaled SAT scores. Only publish question content you have permission to share.
+
+
+### Classroom practice-test reports
+
+Completed practice-test results include a **Choose a classroom** action. Sharing is explicit and stores one immutable report per attempt, student, and classroom in `friprepClassrooms/{classId}/practiceReports/{uid}_{attemptId}`. Sending the same attempt again is idempotent. Joining additional classrooms records a private membership index under `friprepUsers/{uid}/classrooms`; existing students’ current classroom works without migration. Students can switch classrooms or join another from their study space.
+
+Classroom insights combine submitted assignment sessions and explicitly shared practice reports. Scores are recalculated from the published question bank, grouped by domain, skill, and subskill. Time averages exclude missing recordings; unanswered scored questions remain in accuracy. Practice activity is recorded on the device, not a proctored score. Older finished attempts cannot recover activity timelines that were not saved; their existing timing remains usable. Only the student and the teacher can read shared reports. Deploy `firestore.rules` along with this feature; no Functions, billing upgrade, or composite Firestore index is required.

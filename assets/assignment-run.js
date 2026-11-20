@@ -1,3 +1,5 @@
+import {makePracticeReport} from './classroom-analytics.js';
+import {mountPracticeShare} from './practice-share.js';
 import {selectPracticeModules,practiceModuleSession,completePracticeModule} from './practice-test.js';
 import {assignmentResults,cleanResultExplanation} from './assignment-results.js';
 import {desmosButton,closeDesmos,syncDesmosTrigger} from './desmos-panel.js';
@@ -26,7 +28,7 @@ function timing(){if(!run)return;const left=remainingMs(run,serverNow()),node=do
  if(left===0&&!submitted&&!pendingSubmit)void finish('time-expired');}
 function questionMarkup(q,value){return formatQuestionContent(value,q);}
 function showError(error){closeDesmos();root.innerHTML=`<main class="assignment-opening"><h1>We couldn’t open this assignment.</h1><p>${escape(error.message||error)}</p><a href="/dashboard">Return to your study space</a><button id="retry-load">Try again</button></main>`;document.getElementById('retry-load').onclick=()=>location.reload();}
-function intro(){const task=context.assignment,timed=task.timingMode==='timed';root.innerHTML=`<main class="assignment-start"><a class="assignment-brand" href="${practice?'/tests':'/dashboard'}"><img src="/assets/fries.svg" width="28" height="28" alt="">friprep</a><p class="start-kicker">${practice?'SAT PRACTICE · MODULE '+(practiceProgress.completed.length+1)+' OF '+practice.modules.length:context.teacher?'TEACHER PREVIEW':'YOUR CLASSROOM ASSIGNMENT'}</p><h1>${escape(task.title)}</h1><p>${task.questionIds.length} questions · ${timed?Math.round(task.timeLimitSeconds/60)+' minute total time limit':'Untimed'}</p><div class="start-instructions"><h2>Before you begin</h2><p>${timed?'Your timer continues if you reload or leave. At the deadline, saved answers submit while the page is open, or when you return.':'Take the time you need. Your answers save as you work, and you can return to unfinished questions.'}</p><p>You can mark questions for review and move between questions before submitting.</p>${practice?'<p>Answers save on this device. Completed modules are locked, and full-test results appear after the final module.</p>':context.teacher?'<p>This preview does not create a student submission.</p>':'<p class="tracking-notice">Time spent on each question and time away from this assignment tab are recorded for your teacher. Other tabs’ contents are not accessed.</p>'}</div><button class="start-run" id="start-run">${practice?(practiceProgress.draft?'Resume module':'Start module'):context.teacher?'Open preview':'Start or resume assignment'}</button><p id="start-error" role="alert"></p></main>`;document.getElementById('start-run').onclick=start;}
+function intro(){const task=context.assignment,timed=task.timingMode==='timed';root.innerHTML=`<main class="assignment-start"><a class="assignment-brand" href="${practice?'/tests':'/dashboard'}"><img src="/assets/fries.svg" width="28" height="28" alt="">friprep</a><p class="start-kicker">${practice?'SAT PRACTICE · MODULE '+(practiceProgress.completed.length+1)+' OF '+practice.modules.length:context.teacher?'TEACHER PREVIEW':'YOUR CLASSROOM ASSIGNMENT'}</p><h1>${escape(task.title)}</h1><p>${task.questionIds.length} questions · ${timed?Math.round(task.timeLimitSeconds/60)+' minute total time limit':'Untimed'}</p><div class="start-instructions"><h2>Before you begin</h2><p>${timed?'Your timer continues if you reload or leave. At the deadline, saved answers submit while the page is open, or when you return.':'Take the time you need. Your answers save as you work, and you can return to unfinished questions.'}</p><p>You can mark questions for review and move between questions before submitting.</p>${practice?'<p>Answers and question timing save on this device, including recorded time away from the test tab. After finishing, you can choose a classroom to share your results and activity. Completed modules are locked, and full-test results appear after the final module.</p>':context.teacher?'<p>This preview does not create a student submission.</p>':'<p class="tracking-notice">Time spent on each question and time away from this assignment tab are recorded for your teacher. Other tabs’ contents are not accessed.</p>'}</div><button class="start-run" id="start-run">${practice?(practiceProgress.draft?'Resume module':'Start module'):context.teacher?'Open preview':'Start or resume assignment'}</button><p id="start-error" role="alert"></p></main>`;document.getElementById('start-run').onclick=start;}
 async function start(){if(busy||invalidated)return;busy=true;const button=document.getElementById('start-run');button.disabled=true;button.textContent='Opening…';try{
  let draft=null;try{draft=practice?practiceProgress.draft:JSON.parse(localStorage.getItem(cacheKey)||'null');}catch{}
  const beginning=practice?{session:practiceModuleSession(practice.modules[practiceProgress.completed.length],draft?.startedAtMs||Date.now()),serverNowMs:Date.now()}:context.teacher?{session:{status:'active',questionIds:context.assignment.questionIds,startedAtMs:Date.now(),clockAtMs:Date.now(),durationSeconds:context.assignment.timingMode==='timed'?context.assignment.timeLimitSeconds:0,deadlineMs:context.assignment.timingMode==='timed'?Date.now()+context.assignment.timeLimitSeconds*1000:null},serverNowMs:Date.now()}:await Promise.race([beginAssignment(classId,assignmentId,context.user.uid),new Promise((_,reject)=>setTimeout(()=>reject(Error('Could not reach the server. Check your connection and try again.')),15000))]);
@@ -89,6 +91,8 @@ async function bootPractice(){
  cacheKey='friprep-practice-test:'+testId+':'+selection;
  const version=JSON.stringify(modules.map(m=>m.questionIds));let saved;try{saved=JSON.parse(localStorage.getItem(cacheKey)||'null');}catch{}
  practiceProgress=saved?.version===version&&Array.isArray(saved.completed)&&saved.completed.length<=modules.length?saved:{version,completed:[],draft:null,done:false};
+ practiceProgress.attemptId??=crypto.randomUUID();
+ try{localStorage.setItem(cacheKey,JSON.stringify(practiceProgress));}catch{}
  context={teacher:false,user:{name:'SAT practice'},assignment:null};
  if(practiceProgress.completed.length===modules.length){showPracticeResults();return;}
  nextPracticeModule();
@@ -101,7 +105,8 @@ function nextPracticeModule(){
 function finishPractice(reason){
  closeDesmos();clearInterval(ticker);clearTimeout(saveTimer);clearInterval(checkpointTimer);
  const checkpoint=runCheckpoint(run,serverNow());
- practiceProgress=completePracticeModule(practiceProgress,checkpoint.answers,checkpoint.stats,reason,practice.modules.length);
+ practiceProgress=completePracticeModule(practiceProgress,checkpoint.answers,checkpoint.stats,reason,practice.modules.length,{events:checkpoint.events,awayCount:checkpoint.awayCount});
+ if(practiceProgress.done)practiceProgress.completedAtMs=Date.now();
  try{localStorage.setItem(cacheKey,JSON.stringify(practiceProgress));}catch{}
  if(practiceProgress.done)showPracticeResults();else nextPracticeModule();
 }
@@ -112,5 +117,7 @@ function showPracticeResults(){
  run={answers,stats,status:'submitted'};submitted=true;showSubmitted();
  const note=root.querySelector('.results-grade-note'),restart=document.createElement('button');
  restart.className='results-expand';restart.textContent='Start a new attempt';restart.onclick=()=>{try{localStorage.removeItem(cacheKey);}catch{}location.reload();};note?.after(restart);
+ const share=document.createElement('div');root.querySelector('.results-scorecard').after(share);
+ mountPracticeShare(share,makePracticeReport({attemptId:practiceProgress.attemptId,test:practice.test,modules:practice.modules,progress:practiceProgress,completedAtMs:practiceProgress.completedAtMs||0}));
 }
 void boot();

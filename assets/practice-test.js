@@ -7,7 +7,7 @@ export function selectPracticeModules(test,selection){
 export function practiceModuleSession(module,startedAtMs){
  return {status:'active',questionIds:module.questionIds,startedAtMs,clockAtMs:startedAtMs,durationSeconds:module.minutes*60,deadlineMs:startedAtMs+module.minutes*60000};
 }
-export function completePracticeModule(progress,answers,stats,reason,total){
- const completed=[...progress.completed,{answers,stats,reason}];
+export function completePracticeModule(progress,answers,stats,reason,total,activity={}){
+ const completed=[...progress.completed,{answers,stats,reason,events:activity.events||[],awayCount:activity.awayCount||0}];
  return {...progress,completed,draft:null,done:completed.length===total};
 }

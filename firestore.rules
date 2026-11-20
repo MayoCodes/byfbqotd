@@ -95,6 +95,14 @@ service cloud.firestore {
           && request.resource.data.updatedAt == request.time;
         allow delete: if activated() && request.auth.uid == uid;
       }
+      match /classrooms/{classId} {
+        allow read: if accountUser() && request.auth.uid == uid;
+        allow create, update: if activated() && request.auth.uid == uid
+          && request.resource.data.keys().hasOnly(['joinedAt'])
+          && request.resource.data.joinedAt == request.time
+          && existsAfter(/databases/$(database)/documents/friprepClassrooms/$(classId)/members/$(uid));
+        allow delete: if false;
+      }
       match /progress/{questionId} {
         allow read: if activated() && (request.auth.uid == uid || teacher());
         allow create, update: if activated() && request.auth.uid == uid
@@ -239,6 +247,32 @@ service cloud.firestore {
           allow delete: if false;
         }
 
+      }
+      // Voluntarily shared, device-recorded practice attempts. Immutable per classroom.
+      match /practiceReports/{reportId} {
+        allow get: if teacher() || (member(classId) &&
+          (!exists(/databases/$(database)/documents/friprepClassrooms/$(classId)/practiceReports/$(reportId))
+            || resource.data.studentId == request.auth.uid));
+        allow list: if teacher() || (member(classId) && resource.data.studentId == request.auth.uid);
+        allow create: if member(classId)
+          && request.resource.data.keys().hasAll(['studentId','attemptId','testId','title','moduleNumbers','questionIds','answers','stats','events','awayCount','completedAtMs','sharedAt'])
+          && request.resource.data.keys().hasOnly(['studentId','attemptId','testId','title','moduleNumbers','questionIds','answers','stats','events','awayCount','completedAtMs','sharedAt'])
+          && request.resource.data.studentId == request.auth.uid
+          && request.resource.data.attemptId is string && request.resource.data.attemptId.matches('^[a-zA-Z0-9-]{16,80}$')
+          && reportId == request.auth.uid + '_' + request.resource.data.attemptId
+          && request.resource.data.testId is string && request.resource.data.testId.size() <= 80
+          && request.resource.data.title is string && request.resource.data.title.size() <= 200
+          && request.resource.data.moduleNumbers is list && request.resource.data.moduleNumbers.size() > 0 && request.resource.data.moduleNumbers.size() <= 4
+          && request.resource.data.moduleNumbers.hasOnly([1,2,3,4])
+          && request.resource.data.questionIds is list && request.resource.data.questionIds.size() > 0 && request.resource.data.questionIds.size() <= 100
+          && request.resource.data.questionIds.toSet().size() == request.resource.data.questionIds.size()
+          && request.resource.data.answers is map && request.resource.data.answers.keys().hasOnly(request.resource.data.questionIds)
+          && request.resource.data.stats is map && request.resource.data.stats.keys().hasOnly(request.resource.data.questionIds)
+          && request.resource.data.events is list && request.resource.data.events.size() <= 800
+          && request.resource.data.awayCount is int && request.resource.data.awayCount >= 0 && request.resource.data.awayCount <= 1000000
+          && request.resource.data.completedAtMs is int && request.resource.data.completedAtMs >= 0 && request.resource.data.completedAtMs <= request.time.toMillis() + 300000
+          && request.resource.data.sharedAt == request.time;
+        allow update, delete: if false;
       }
       match /grades/{gradeId} {
         allow read: if teacher() || (member(classId) && resource.data.studentId == request.auth.uid);

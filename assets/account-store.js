@@ -34,7 +34,7 @@ export async function activate(code){
  await sdk.runTransaction(db,async tx=>{const snap=await tx.get(codeRef),value=snap.data();if(!snap.exists()||!value.enabled||value.usedBy||value.expiresAt.toMillis()<Date.now())throw Error('That activation code is invalid, expired, or already used. Ask your teacher for a new code.');tx.update(codeRef,{usedBy:uid});tx.set(ref('friprepActivationClaims',uid),{codeHash:hash,activatedAt:now()});tx.update(ref('friprepUsers',uid),{activated:true});});
 }
 export const chooseSelfStudy=()=>sdk.updateDoc(ref('friprepUsers',state.user.uid),{mode:'self-study'});
-export async function joinClass(code){const hash=await codeHash(code),invite=await sdk.getDoc(ref('friprepClassInvites',hash)),data=invite.data();if(!invite.exists()||!data.enabled)throw Error('That classroom code is not active. Check it with your teacher.');const batch=sdk.writeBatch(db),uid=state.user.uid;batch.set(ref('friprepClassrooms',data.classroomId,'members',uid),{name:state.user.displayName||'Student',email:state.user.email,joinedAt:now(),inviteHash:hash});batch.update(ref('friprepUsers',uid),{mode:'classroom',classroomId:data.classroomId});await batch.commit();}
+export async function joinClass(code){const hash=await codeHash(code),invite=await sdk.getDoc(ref('friprepClassInvites',hash)),data=invite.data();if(!invite.exists()||!data.enabled)throw Error('That classroom code is not active. Check it with your teacher.');const batch=sdk.writeBatch(db),uid=state.user.uid;const existingMember=await sdk.getDoc(ref('friprepClassrooms',data.classroomId,'members',uid));if(!existingMember.exists())batch.set(ref('friprepClassrooms',data.classroomId,'members',uid),{name:state.user.displayName||'Student',email:state.user.email,joinedAt:now(),inviteHash:hash});batch.set(ref('friprepUsers',uid,'classrooms',data.classroomId),{joinedAt:now()});batch.update(ref('friprepUsers',uid),{mode:'classroom',classroomId:data.classroomId});await batch.commit();}
 export async function createClass(title){requireTeacher();const classroom=sdk.doc(sdk.collection(db,'friprepClassrooms')),code=newCode(),hash=await codeHash(code),batch=sdk.writeBatch(db);batch.set(classroom,{title:title.trim(),teacherId:state.user.uid,createdAt:now()});batch.set(ref('friprepClassInvites',hash),{classroomId:classroom.id,enabled:true,createdAt:now()});await batch.commit();return {id:classroom.id,code};}
 export async function makeClassInvite(classroomId){requireTeacher();const code=newCode(),hash=await codeHash(code);await sdk.setDoc(ref('friprepClassInvites',hash),{classroomId,enabled:true,createdAt:now()});return code;}
 const docs=snap=>snap.docs.map(doc=>({id:doc.id,...doc.data()}));
@@ -68,4 +68,25 @@ export async function finishAssignmentRun(classroomId,assignmentId,uid,checkpoin
 }
 export function watchAssignmentActivity(classroomId,assignmentId,onUpdate,onError){
  requireTeacher();return sdk.onSnapshot(sdk.collection(db,'friprepClassrooms',classroomId,'assignments',assignmentId,'sessions'),snap=>onUpdate(docs(snap).map(value=>({...value,startedAtMs:value.startedAt?.toMillis?.()||0,submittedAtMs:value.submittedAt?.toMillis?.()||null}))),onError);
+}
+
+export async function joinedClassrooms(){
+ await startAccount();await auth.authStateReady();if(!auth.currentUser)throw Error('Sign in with Google to send your results.');
+ const uid=auth.currentUser.uid,profile=(await sdk.getDoc(ref('friprepUsers',uid))).data();
+ const saved=await sdk.getDocs(sdk.collection(db,'friprepUsers',uid,'classrooms'));
+ const ids=[...new Set([profile?.classroomId,...saved.docs.map(d=>d.id)].filter(Boolean))];
+ return (await Promise.all(ids.map(async id=>{const [room,membership]=await Promise.all([sdk.getDoc(ref('friprepClassrooms',id)),sdk.getDoc(ref('friprepClassrooms',id,'members',uid))]);return membership.exists()&&room.exists()?{id,...room.data()}:null;}))).filter(Boolean);
+}
+export async function selectClassroom(classroomId){const rooms=await joinedClassrooms();if(!rooms.some(r=>r.id===classroomId))throw Error('Join this classroom first.');await sdk.updateDoc(ref('friprepUsers',auth.currentUser.uid),{mode:'classroom',classroomId});}
+export async function sharePracticeReport(classroomId,report){
+ await startAccount();await auth.authStateReady();const uid=auth.currentUser?.uid;if(!uid)throw Error('Sign in before sending results.');
+ if(!(await joinedClassrooms()).some(r=>r.id===classroomId))throw Error('Join this classroom before sending results.');
+ const target=ref('friprepClassrooms',classroomId,'practiceReports',uid+'_'+report.attemptId);
+ return sdk.runTransaction(db,async tx=>{const existing=await tx.get(target);if(existing.exists())return false;tx.set(target,{...report,studentId:uid,sharedAt:now()});return true;});
+}
+export async function loadClassroomAttempts(classroomId,submissions=[]){
+ const teacher=isTeacher(state.user),uid=auth.currentUser?.uid,root=['friprepClassrooms',classroomId];
+ const reports=docs(await sdk.getDocs(teacher?sdk.collection(db,...root,'practiceReports'):sdk.query(sdk.collection(db,...root,'practiceReports'),sdk.where('studentId','==',uid))));
+ const sessions=await Promise.all(submissions.filter(s=>teacher||s.studentId===uid).map(async s=>{const snap=await sdk.getDoc(sessionRef(classroomId,s.assignmentId,s.studentId));return snap.exists()?{...sessionData(snap),id:s.id,studentId:s.studentId,assignmentId:s.assignmentId,source:'assignment'}:null;}));
+ return [...sessions.filter(s=>s?.status==='submitted'),...reports.map(r=>({...r,source:'practice'}))];
 }
