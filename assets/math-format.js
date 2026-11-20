@@ -19,6 +19,12 @@ function normalizeSquareRoots(tex,level=0){
   }
   return result+tex.slice(last);
 }
+// Captured accessibility math uses literal percent signs. In TeX an unescaped
+// percent starts a comment, which hides both the symbol and the rest of the line.
+// Preserve existing escapes; an even run of backslashes leaves percent unescaped.
+function normalizeMathSource(tex){
+  return normalizeSquareRoots(tex).replace(/(\\*)%/g,(match,slashes)=>slashes+(slashes.length%2?'':'\\')+'%');
+}
 // Only source-delimited equations are interpreted. All surrounding question text
 // stays escaped, and TeX cannot insert external links, HTML, or remote images.
 export function formatMathText(value,{paragraphs=false}={}){
@@ -29,7 +35,7 @@ export function formatMathText(value,{paragraphs=false}={}){
     html+=plain(text.slice(last,match.index));
     const tex=match[2]??match[3]??match[4]??match[5],display=match[2]!=null||match[3]!=null;
     if(!display&&tex.trim()!==tex)html+=escape(match[0]);
-    else html+=katex.renderToString(normalizeSquareRoots(tex),{displayMode:display,throwOnError:false,trust:false,strict:'ignore',maxExpand:500,maxSize:20});
+    else html+=katex.renderToString(normalizeMathSource(tex),{displayMode:display,throwOnError:false,trust:false,strict:'ignore',maxExpand:500,maxSize:20});
     last=match.index+match[0].length;
   }
   return html+plain(text.slice(last));

@@ -13,3 +13,21 @@ test('diagram viewer accepts only built question assets',async()=>{const {isQues
 test('scraped sqrt notation renders radicals in prompts, coordinates and coefficients',async()=>{const {formatMathText}=await format();for(const text of ['$h(x)=sqrt(5x+4)$','$(-sqrt(3),0)$','$a=2sqrt(3)$']){const html=formatMathText(text);assert.match(html,/<msqrt>/);assert.doesNotMatch(html,/<mi>s<\/mi><mi>q/);}});
 test('nested roots and parenthesized radicands retain their full scope',async()=>{const {formatMathText}=await format();const html=formatMathText('$sqrt((x+1)^2+sqrt(9))$');assert.equal((html.match(/<msqrt>/g)||[]).length,2);assert.match(html,/<msup>/);assert.match(html,/<mn>9<\/mn>/);});
 test('existing TeX roots, prose and incomplete sqrt expressions remain intact',async()=>{const {formatMathText}=await format();assert.match(formatMathText(String.raw`$\sqrt{x+1}$`),/<msqrt>/);assert.equal(formatMathText('The notation sqrt(x) names a root.'),'The notation sqrt(x) names a root.');assert.doesNotThrow(()=>formatMathText('$sqrt(x$'));assert.doesNotMatch(formatMathText('$mysqrt(x)$'),/<msqrt>/);});
+
+
+test('literal percent signs and following math survive inline and display rendering',async()=>{
+ const {formatMathText}=await format();
+ for(const source of ['$25%+x=40%$','$$25%+x=40%$$',String.raw`\(25%+x=40%\)`]){
+  const html=formatMathText(source),mathml=html.match(/<math[\s\S]*?<\/math>/)?.[0]||'';
+  assert.doesNotMatch(html,/katex-error/);
+  assert.equal((mathml.match(/<mi(?: [^>]*)?>%<\/mi>/g)||[]).length,2);
+  assert.match(mathml,/<mi>x<\/mi>/);assert.match(mathml,/<mn>40<\/mn>/);
+ }
+});
+test('percent signs inside fractions and text render without double escaping existing TeX',async()=>{
+ const {formatMathText}=await format();
+ const raw=formatMathText(String.raw`$\frac{20%}{100%}+\text{50% off}$`);
+ const escaped=formatMathText(String.raw`$\frac{20\%}{100\%}+\text{50\% off}$`);
+ assert.equal(raw,escaped);assert.match(raw,/<mfrac>/);assert.doesNotMatch(raw,/katex-error/);
+ assert.equal(formatMathText('A discount of 20% applies.'),'A discount of 20% applies.');
+});
