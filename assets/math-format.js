@@ -4,7 +4,7 @@ const escape=value=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;'
 // Balance parentheses so nested roots and grouped expressions keep their scope.
 function normalizeRoots(tex,level=0){
   if(level>100)return tex;
-  const pattern=/(?<![A-Za-z\\])sqrt\s*\(|(?<![A-Za-z0-9\\])((?:[1-9]\d*)?[A-Za-z]|[1-9]\d*)\s*-\s*root\s*\(/g;
+  const pattern=/(?<![A-Za-z\\])([A-Za-z])?sqrt\s*\(|(?<![A-Za-z0-9\\])((?:[1-9]\d*)?[A-Za-z]|[1-9]\d*)\s*-\s*root\s*\(/g;
   let result='',last=0,match;
   while((match=pattern.exec(tex))){
     const start=pattern.lastIndex;let end=start,depth=1;
@@ -14,7 +14,7 @@ function normalizeRoots(tex,level=0){
       else if(tex[end]===')'&&!--depth)break;
     }
     if(depth||!tex.slice(start,end).trim())continue;
-    result+=tex.slice(last,match.index)+'\\sqrt'+(match[1]?'['+match[1]+']':'')+'{'+normalizeRoots(tex.slice(start,end),level+1)+'}';
+    result+=tex.slice(last,match.index)+(match[1]||'')+'\\sqrt'+(match[2]?'['+match[2]+']':'')+'{'+normalizeRoots(tex.slice(start,end),level+1)+'}';
     last=end+1;pattern.lastIndex=last;
   }
   return result+tex.slice(last);
@@ -23,6 +23,8 @@ function normalizeRoots(tex,level=0){
 // percent starts a comment, which hides both the symbol and the rest of the line.
 // Preserve existing escapes; an even run of backslashes leaves percent unescaped.
 function normalizeMathSource(tex){
+  const aligned=tex.match(/^\s*aligned\s+([\s\S]+?)\s+aligned\s*$/);
+  if(aligned&&aligned[1].includes('&'))tex='\\begin{aligned}'+aligned[1]+'\\end{aligned}';
   return normalizeRoots(tex).replace(/(\\*)%/g,(match,slashes)=>slashes+(slashes.length%2?'':'\\')+'%');
 }
 // Only source-delimited equations are interpreted. All surrounding question text

@@ -49,3 +49,25 @@ test('reported radical question preserves the full 3n exponent in its prompt',as
  const q=JSON.parse(fs.readFileSync(path.join(__dirname,'../data/test-captures/70e0c204f55d29f294860fa67cbc202d.json'),'utf8'));
  const html=formatMathText(q.prompt);assert.match(html,/<mroot>/);assert.match(html,/<msup><mi>x<\/mi><mrow><mn>3<\/mn><mi>n<\/mi><\/mrow><\/msup>/);assert.doesNotMatch(html,/katex-error/);assert.equal(q.correctAnswer,'$$3375$$');
 });
+
+test('variable coefficients next to sqrt render as multiplication by a radical',async()=>{
+ const {formatMathText}=await format();
+ for(const [source,coefficient] of [['$ksqrt(3)$','k'],['$asqrt(a)$','a'],['$2ksqrt((x+1)^2)$','k']]){
+  const html=formatMathText(source);assert.match(html,/<msqrt>/);assert.match(html,new RegExp('<mi>'+coefficient+'</mi>'));assert.doesNotMatch(html,/katex-error|<mi>s<\/mi><mi>q<\/mi>/);
+ }
+ assert.equal(formatMathText('Use ksqrt(3) as shorthand.'),'Use ksqrt(3) as shorthand.');assert.doesNotMatch(formatMathText('$mysqrt(x)$'),/<msqrt>/);
+});
+test('captured aligned systems render rows and columns instead of raw environment names',async()=>{
+ const {formatMathText}=await format();
+ const html=formatMathText(String.raw`$$aligned xy + x^{2} &= 10 \\ 2x - y &= 3 aligned$$`);
+ assert.match(html,/<mtable/);assert.equal((html.match(/<mtr>/g)||[]).length,2);assert.doesNotMatch(html,/katex-error/);
+ assert.equal(formatMathText('The observations aligned closely.'),'The observations aligned closely.');
+});
+test('source-verified radical repairs preserve multiplication, fraction powers and answer keys',async()=>{
+ const fs=require('node:fs'),path=require('node:path'),{formatMathText}=await format();
+ const load=id=>JSON.parse(fs.readFileSync(path.join(__dirname,'../data/captures/'+id+'.json'),'utf8'));
+ const a=load('28d7df16'),b=load('b51beeba'),c=load('3ea3c850');assert.equal(a.correctAnswer,'D');assert.equal(b.correctAnswer,'B');
+ for(const q of [a,b,c])for(const source of [q.prompt,...Object.values(q.choices)])assert.doesNotMatch(formatMathText(source),/katex-error|<mi>s<\/mi><mi>q<\/mi>/);
+ assert.match(formatMathText(c.prompt),/<msup><mi>x<\/mi><mfrac>/);assert.match(formatMathText(a.prompt),/<msup><mi>b<\/mi><mfrac>/);assert.match(formatMathText(b.choices.A),/<msup><mi>x<\/mi><mfrac>/);
+ assert.match(formatMathText(a.choices.D),/<mroot>/);assert.match(formatMathText(a.choices.D),/<msqrt>/);
+});
