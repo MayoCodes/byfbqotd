@@ -60,3 +60,16 @@ test('production share store sends once, preserves activity, and lists only clas
  const attempts=await store.loadClassroomAttempts('room');assert.ok(attempts.some(r=>r.attemptId===report.attemptId&&r.stats.q1.activeMs===3000&&r.events.length===1));
  await assert.rejects(store.sharePracticeReport('not-joined',report));
 });
+
+test('a new verified Google student can create their profile before activation without gaining classroom or teacher access',async()=>{
+ const fresh=env.authenticatedContext('new-google-student',auth('new-student@example.test')).firestore();
+ const profile=doc(fresh,'friprepUsers','new-google-student');
+ await assertSucceeds(getDoc(profile));
+ await assertSucceeds(setDoc(profile,{name:'New student',email:'new-student@example.test',mode:null,classroomId:null,createdAt:serverTimestamp()}));
+ assert.equal((await assertSucceeds(getDoc(profile))).data().name,'New student');
+ await assertFails(getDoc(doc(fresh,'friprepUsers','student')));
+ await assertFails(getDoc(doc(fresh,...room)));
+ await assertFails(updateDoc(profile,{activated:true}));
+ const unverified=env.authenticatedContext('unverified',{...auth('new-student@example.test'),email_verified:false}).firestore();
+ await assertFails(setDoc(doc(unverified,'friprepUsers','unverified'),{name:'New student',email:'new-student@example.test',mode:null,classroomId:null,createdAt:serverTimestamp()}));
+});
