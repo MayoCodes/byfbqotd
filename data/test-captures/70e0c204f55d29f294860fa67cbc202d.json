@@ -10,7 +10,7 @@
   "difficulty": "Hard",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "If $x^{2} = n-root(5x^n + 150)$, where $n$ is a positive integer constant and $x > 0$, what is the value of $x^{3}n$?",
+  "prompt": "If $x^{2} = \\sqrt[n]{5x^{n} + 150}$, where $n$ is a positive integer constant and $x > 0$, what is the value of $x^{3n}$?",
   "choices": {},
   "correctAnswer": "$$3375$$",
   "explanation": "The correct answer is $3375$. Raising both sides to the power $n$ gives $(x^2)^n = 5x^n + 150$, which simplifies to $x^{2n} = 5x^n + 150$. Let $u = x^n$. Then $u^2 = 5u + 150$, or $u^2 - 5u - 150 = 0$. Factoring: $(u - 15)(u + 10) = 0$, so $u = 15$ or $u = -10$. Since $x > 0$, we have $x^n > 0$, so $x^n = 15$. Therefore, $x^{3n} = (x^n)^3 = 15^3 = 3375$.",

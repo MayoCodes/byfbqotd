@@ -31,3 +31,21 @@ test('percent signs inside fractions and text render without double escaping exi
  assert.equal(raw,escaped);assert.match(raw,/<mfrac>/);assert.doesNotMatch(raw,/katex-error/);
  assert.equal(formatMathText('A discount of 20% applies.'),'A discount of 20% applies.');
 });
+
+test('indexed accessibility roots render with an index and a complete radicand',async()=>{
+ const {formatMathText}=await format();
+ for(const source of ['$n-root(5x^n+150)$','$3-root(x^{2})$','$100-root(x^{70})$','$2m-root(4y^m+32)$','$5-root((x+1)^2+sqrt(9))$']){
+  const html=formatMathText(source);assert.match(html,/<mroot>/);assert.doesNotMatch(html,/katex-error|<mi>r<\/mi><mi>o/);
+ }
+ const html=formatMathText('$n-root(5x^n+150)$');assert.match(html,/<mn>150<\/mn>/);assert.match(html,/<mroot>[\s\S]*<mi>n<\/mi><\/mroot>/);
+});
+test('existing indexed TeX, ordinary prose and incomplete roots stay intact',async()=>{
+ const {formatMathText}=await format();assert.match(formatMathText(String.raw`$\sqrt[12]{x+1}$`),/<mroot>/);
+ assert.equal(formatMathText('Use n-root(x) notation.'),'Use n-root(x) notation.');
+assert.doesNotThrow(()=>formatMathText('$n-root(x$'));
+});
+test('reported radical question preserves the full 3n exponent in its prompt',async()=>{
+ const fs=require('node:fs'),path=require('node:path'),{formatMathText}=await format();
+ const q=JSON.parse(fs.readFileSync(path.join(__dirname,'../data/test-captures/70e0c204f55d29f294860fa67cbc202d.json'),'utf8'));
+ const html=formatMathText(q.prompt);assert.match(html,/<mroot>/);assert.match(html,/<msup><mi>x<\/mi><mrow><mn>3<\/mn><mi>n<\/mi><\/mrow><\/msup>/);assert.doesNotMatch(html,/katex-error/);assert.equal(q.correctAnswer,'$$3375$$');
+});

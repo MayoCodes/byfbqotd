@@ -10,7 +10,7 @@
   "difficulty": "Medium",
   "format": "Student-produced response",
   "passage": "",
-  "prompt": "For what value of $n$ is $n-root(x^{21})$ equivalent to $\\frac{x^{3}}{5}$, where $x > 1$?",
+  "prompt": "For what value of $n$ is $n-root(x^{21})$ equivalent to $x^{\\frac{3}{5}}$, where $x > 1$?",
   "choices": {},
   "correctAnswer": "$$35$$",
   "explanation": "The correct answer is $35$. The relationship between radical notation and rational exponents states that $\\sqrt[n]{x^m} = x^{\\frac{m}{n}}$ for positive values of $x$ and positive integer $n$. Applying this rule to $\\sqrt[n]{x^{21}}$ gives $x^{\\frac{21}{n}}$. Since this expression must be equivalent to $x^{\\frac{3}{5}}$, the exponents must be equal: $\\frac{21}{n} = \\frac{3}{5}$. Cross-multiplying gives $21 \\cdot 5 = 3 \\cdot n$, which simplifies to $105 = 3n$. Dividing both sides by $3$ yields $n = 35$.",
