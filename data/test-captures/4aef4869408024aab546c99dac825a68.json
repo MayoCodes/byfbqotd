@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4aef4869408024aab546c99dac825a68",
+  "capturedAt": "2026-11-21T00:17:43.060Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Interpret Confidence Interval",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A group of $150$ students selected at random from all the students at a university were surveyed about the number of hours they studied per week last semester. From the data collected, it was estimated that the mean number of hours students at the university studied per week last semester is $12$, with an associated margin of error of $2.3$. Which of the following is the most appropriate conclusion?",
+  "choices": {
+    "A": "It is plausible that the actual mean number of hours students at the university studied per week last semester is less than $9.7$.",
+    "B": "It is plausible that every student at the university studied between $12$ and $16.6$ hours per week last semester.",
+    "C": "It is plausible that the actual mean number of hours students at the university studied per week last semester is between $9.7$ and $14.3$.",
+    "D": "It is plausible that the actual mean number of hours students at the university studied per week last semester is greater than $14.3$."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. A margin of error defines a confidence interval around a sample mean within which the true population mean plausibly falls. The confidence interval is calculated as mean ± margin of error. Given that the sample mean is $12$ hours and the margin of error is $2.3$ hours, the lower bound of the interval is $12 - 2.3 = 9.7$ hours and the upper bound is $12 + 2.3 = 14.3$ hours. Therefore, it is plausible that the actual mean number of hours students at the university studied per week last semester is between $9.7$ and $14.3$ hours. This interval represents the range of values for the population mean that are consistent with the survey data, given the sampling variability captured by the margin of error.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=fc7f0871",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

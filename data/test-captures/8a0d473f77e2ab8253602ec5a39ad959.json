@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8a0d473f77e2ab8253602ec5a39ad959",
+  "capturedAt": "2026-11-21T00:17:33.052Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Although 9°N EPR-3 (Venture) and Site 872B (Guyot) are both classified as seamount formations—underwater volcanic structures on oceanic ridges—they exhibit striking differences in ______ formation 9°N EPR-3 (Venture) is considered an active vent field, displaying sporadic hydrothermal activity (such as plumes of mineral-rich water from its vents), Site 872B (Guyot), showing no such activity, is considered extinct.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "activity. The",
+    "B": "activity: while the",
+    "C": "activity; the",
+    "D": "activity, while the"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is punctuation use to introduce explanatory material. The colon after 'activity' correctly introduces detailed explanation of the 'striking differences' mentioned in the independent clause. The subordinating conjunction 'while' properly establishes the contrastive relationship between the two formations' characteristics. This structure effectively connects the general claim about differences to the specific supporting details that follow.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=e32926f3",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 20,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

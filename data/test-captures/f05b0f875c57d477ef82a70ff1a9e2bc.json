@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f05b0f875c57d477ef82a70ff1a9e2bc",
+  "capturedAt": "2026-11-21T00:18:07.061Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$3px^{2}+24qx+3p=0$$\n\nIn the given equation, $p$ is a positive constant, and $q$ is a negative constant. The equation has two distinct real solutions. If $\\frac{p}{q} > k$, what is the greatest value of $k$ for which this inequality holds for every permitted pair of constants $p$ and $q$?",
+  "choices": {},
+  "correctAnswer": "$$-4$$",
+  "explanation": "The correct answer is $-4$. For a quadratic equation of the form $ax^2+bx+c=0$ to have two real solutions, its discriminant must be positive: $\\Delta = b^2-4ac > 0$. For the given equation $3px^2+24qx+3p=0$, the coefficients are $a=3p$, $b=24q$, and $c=3p$. Computing the discriminant: $\\Delta = (24q)^2-4(3p)(3p) = 576q^2-36p^2$. For two solutions, we need $576q^2-36p^2>0$. Dividing both sides by $36$ gives $16q^2>p^2$. Taking the square root of both sides: $4|q|>|p|$. Since $p>0$ and $q<0$, we have $|p|=p$ and $|q|=-q$. Substituting: $4(-q)>p$, which simplifies to $-4q>p$, or $p<-4q$. Dividing both sides by $q$ (which is negative, so the inequality reverses): $\\frac{p}{q}>-4$. Therefore, for the equation to have two solutions, $\\frac{p}{q}$ must be greater than $-4$, and this ratio can approach $-4$ arbitrarily closely from above. Thus $-4$ is the greatest value of $k$ that works for every permitted pair of constants. Smaller values also give valid lower bounds, so there is no minimum lower bound.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=792d3355",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 21,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

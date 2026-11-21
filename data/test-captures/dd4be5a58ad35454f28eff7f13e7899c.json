@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dd4be5a58ad35454f28eff7f13e7899c",
+  "capturedAt": "2026-11-21T00:18:00.551Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Number of Solutions",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$24(x-2) = 6(-8+4x)$$\n\nHow many solutions does the given equation have?",
+  "choices": {
+    "A": "Infinitely many",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Zero"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To determine the number of solutions, the equation must be simplified by expanding both sides using the distributive property. The left side expands as $24(x-2) = 24x - 48$. The right side expands as $6(-8+4x) = 6 \\cdot (-8) + 6 \\cdot 4x = -48 + 24x$, which can be rewritten as $24x - 48$. Therefore, the equation becomes $24x - 48 = 24x - 48$. Subtracting $24x$ from both sides gives $-48 = -48$, which is a true statement regardless of the value of $x$. When an equation simplifies to an identity (a statement that is always true), the equation has infinitely many solutions because every real number satisfies the equation. Therefore, the given equation has infinitely many solutions.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=af18c24d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "31bc5844eccc253a6ce3ddec2798caab",
+  "capturedAt": "2026-11-21T00:17:48.422Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $f$ is defined $f(x) = (3x-9)/((x+7)(x-4))$. If $f(b+2)=0$, where $b$ is a constant, what is the value of $b$?",
+  "choices": {},
+  "correctAnswer": "$$1$$",
+  "explanation": "The correct answer is $1$. A rational function equals zero when its numerator equals zero and its denominator does not equal zero. The function is defined as $f(x) = \\frac{3x-9}{(x+7)(x-4)}$. To find the value of $b$ such that $f(b+2)=0$, substitute $x = b+2$ into the function. The numerator becomes $3(b+2)-9 = 3b+6-9 = 3b-3$. For the function to equal zero, set the numerator equal to zero: $3b-3=0$. Solving this equation gives $3b=3$, so $b=1$. To verify this is valid, check that the denominator is not zero when $x=b+2=3$: $(3+7)(3-4) = (10)(-1) = -10 \\neq 0$. Therefore, $b=1$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=cc03c5b8",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

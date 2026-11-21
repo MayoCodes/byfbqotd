@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0f0038cc143f4c0093a90c6709369913",
+  "capturedAt": "2026-11-21T00:18:05.135Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Tangent Line to Circle",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, a circle has center $C$ with coordinates $(a, b)$. Points $P$ and $Q$ lie on the circle. Point $P$ has coordinates $(a+2, b+sqrt(195))$, and $PCQ$ is a right angle. What is the length of $PQ$?",
+  "choices": {
+    "A": "$199sqrt(3)$",
+    "B": "$199sqrt(2)$",
+    "C": "$2sqrt(195)$",
+    "D": "$sqrt(398)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. Since points $P$ and $Q$ lie on the circle with center $C$ at $(a,b)$, both $CP$ and $CQ$ are radii of the circle and have equal length. To find the radius, use the distance formula with center $C(a,b)$ and point $P(a+2, b+\\sqrt{195})$: $r = \\sqrt{(a+2-a)^2 + (b+\\sqrt{195}-b)^2} = \\sqrt{2^2 + (\\sqrt{195})^2} = \\sqrt{4 + 195} = \\sqrt{199}$. Since $\\angle PCQ$ is a right angle and $CP = CQ = \\sqrt{199}$, triangle $PCQ$ is an isosceles right triangle (a $45°$-$45°$-$90°$ triangle). In a $45°$-$45°$-$90°$ triangle, the hypotenuse is $\\sqrt{2}$ times the length of each leg. Therefore, $PQ = CP \\cdot \\sqrt{2} = \\sqrt{199} \\cdot \\sqrt{2} = \\sqrt{199 \\cdot 2} = \\sqrt{398}$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=8a52d2ed",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 18,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

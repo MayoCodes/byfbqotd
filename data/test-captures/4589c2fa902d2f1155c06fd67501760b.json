@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4589c2fa902d2f1155c06fd67501760b",
+  "capturedAt": "2026-11-21T00:17:56.798Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$132x + 88y = 55$$\n\nOne of the equations in a system of two linear equations is given. The system has infinitely many solutions. If the second equation in the system is written as $Ax + By = C$, where $A$, $B$, and $C$ are constants, what is the value of $\\frac{(A+C)}{B}$?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{17}{8},2.125$$",
+  "explanation": "The correct answer is $\\frac{17}{8}$. For a system of two linear equations to have infinitely many solutions, the two equations must be equivalent, meaning one equation is a constant multiple of the other. This occurs when the coefficients and constant terms are proportional. To find the simplest form of the second equation, we need to simplify the given equation $132x + 88y = 55$ by dividing all terms by their greatest common divisor. Finding the GCD: $132 = 2^2 \\times 3 \\times 11$, $88 = 2^3 \\times 11$, and $55 = 5 \\times 11$. The greatest common divisor is $11$. Dividing each term by $11$ gives: $\\frac{132x}{11} + \\frac{88y}{11} = \\frac{55}{11}$, which simplifies to $12x + 8y = 5$. This is the simplified form of the equation, so any scalar multiple of this equation will create a system with infinitely many solutions. Using the simplest integer form, we have $A = 12$, $B = 8$, and $C = 5$. Therefore, $\\frac{A+C}{B} = \\frac{12+5}{8} = \\frac{17}{8}$. Since $\\gcd(17, 8) = 1$, this fraction is already in simplest form. Converting to decimal: $\\frac{17}{8} = 2.125$. Note that 17/8 and 2.125 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=7f924cf4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 6,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

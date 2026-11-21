@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e97c8bd0e1cd02b4c1cd81a0f94cddb8",
+  "capturedAt": "2026-11-21T00:17:55.507Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$T = 0.5h^{2} - 7.5h + 84$$\n\nThe equation gives the estimated temperature $T$, in degrees Fahrenheit, of a cooling liquid $h$ hours after being removed from heat, where $0 \\le h \\le 15$. Which statement is the best interpretation of $(h,T) = (2, 71)$ in this context?",
+  "choices": {
+    "A": "$71$ hours after being removed from heat, the estimated temperature is $2$ degrees Fahrenheit.",
+    "B": "$2$ hours after being removed from heat, the estimated temperature is $71$ degrees Fahrenheit.",
+    "C": "The estimated temperature increased $71$ degrees Fahrenheit every hour after being removed from heat.",
+    "D": "The estimated temperature increased $2$ degrees Fahrenheit every $71$ hours after being removed from heat."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In the given equation, $T$ represents the estimated temperature in degrees Fahrenheit and $h$ represents the number of hours after the liquid was removed from heat. The ordered pair notation $(h,T) = (2, 71)$ means that when $h = 2$, $T = 71$. Translating this to the context: when the time is $2$ hours after being removed from heat, the estimated temperature is $71$ degrees Fahrenheit. This can be verified by substituting $h = 2$ into the equation: $T = 0.5(2)^2 - 7.5(2) + 84 = 0.5(4) - 15 + 84 = 2 - 15 + 84 = 71$ degrees Fahrenheit. Therefore, the point $(2, 71)$ represents that $2$ hours after being removed from heat, the estimated temperature is $71$ degrees Fahrenheit.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=184d9182",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 4,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

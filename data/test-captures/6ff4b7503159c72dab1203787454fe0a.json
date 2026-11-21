@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6ff4b7503159c72dab1203787454fe0a",
+  "capturedAt": "2026-11-21T00:17:42.196Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Calculate Mean from Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of books read by each of $5$ students in a month. What was the mean number of books read per student?",
+  "choices": {
+    "A": "$4$",
+    "B": "$13$",
+    "C": "$10$",
+    "D": "$9$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The mean of a dataset is calculated by dividing the sum of all values by the number of values. The table shows $5$ values for the number of books read: $4$ books, $7$ books, $10$ books, $11$ books, and $13$ books. The sum of these values is $4 + 7 + 10 + 11 + 13 = 45$ books. Dividing this sum by the number of students gives $\\frac{45}{5} = 9$ books. Therefore, the mean number of books read per student was $9$ books.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=11fe8800",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/6ff4b7503159c72dab1203787454fe0a/1-c61eb87b7744ea12.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

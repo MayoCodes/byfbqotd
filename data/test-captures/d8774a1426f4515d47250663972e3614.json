@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d8774a1426f4515d47250663972e3614",
+  "capturedAt": "2026-11-21T00:17:43.727Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Combine Like Terms",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $(5x^{3} + 3x - 7) - (4x^{2} - 8x + 5)$?",
+  "choices": {
+    "A": "$-4x^{6} + 5x^{3} + 5x - 2$",
+    "B": "$5x^{5} - 5x - 12$",
+    "C": "$-x^{5} + 11x - 2$",
+    "D": "$5x^{3} - 4x^{2} + 11x - 12$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To subtract polynomials, the negative sign must be distributed to every term in the second polynomial, then like terms are combined. Starting with $(5x^3 + 3x - 7) - (4x^2 - 8x + 5)$, distribute the negative: $5x^3 + 3x - 7 - 4x^2 + 8x - 5$. Rearranging in standard form by degree gives $5x^3 - 4x^2 + (3x + 8x) + (-7 - 5)$. The $x^3$ term has no like term to combine with, so it remains $5x^3$. The $x^2$ term is $-4x^2$ with no like term. For the $x$ terms, $3x + 8x = 11x$. For the constants, $-7 - 5 = -12$. Therefore, the equivalent expression is $5x^3 - 4x^2 + 11x - 12$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=a1ff2f13",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 9,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

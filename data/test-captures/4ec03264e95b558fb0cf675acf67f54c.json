@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4ec03264e95b558fb0cf675acf67f54c",
+  "capturedAt": "2026-11-21T00:17:11.346Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nTo measure whether school districts participating in technology integration programs—initiatives that provide schools with digital learning tools, teacher training, and technical infrastructure—experience changes in student standardized test score improvement rates, education researcher Dr. Maya Foster and colleagues calculated average score growth rates for several districts over the three years before and the three years after implementing a technology program. The graph shows the results for three districts in the study. Consulting the graph, a student claims that implementing a technology integration program increases the rate of improvement in students' standardized test scores.",
+  "prompt": "Which choice best describes data from the graph that weaken the student's claim?",
+  "choices": {
+    "A": "All the districts shown had positive improvement in test scores over the three years after implementing their respective programs, but their rates of improvement varied.",
+    "B": "Although test scores from Lakewood decreased over the three years before L-STEM, a reversal in this trend was observed over the three years after Lakewood implemented L-STEM.",
+    "C": "Over the three years after Riverside implemented R-TECH, test scores from Riverside improved at a rate of about 10 percent, which is higher than the rate over the three years before Riverside implemented the program.",
+    "D": "Although test scores from Mountainview improved over the three years after Mountainview implemented M-DIGITAL, their improvement rate was even higher in the three years before M-DIGITAL."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it identifies data that directly contradicts the student's claim. The student claims that implementing technology programs increases test score improvement rates, but the graph shows that Mountainview's improvement rate decreased substantially after implementing M-DIGITAL—from 15% in the three years before implementation to only 4% in the three years after. This counterexample weakens the student's universal claim by demonstrating that technology program implementation does not always lead to increased improvement rates.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=f8afb761",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4ec03264e95b558fb0cf675acf67f54c/1-62e1e57766f04f71.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 14,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db3bb7d0c1b1c3b71022384380b9f787",
+  "capturedAt": "2026-11-21T00:17:58.423Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$f(x) = 16(2^x)$$\n\nWhich table gives three values of $x$ and their corresponding values of $f(x)$ for the function $f$?",
+  "choices": {
+    "A": "$array|c|c|c|c| x & -1 & 0 & 1 \\\\ f(x) & \\frac{1}{8} & 2 & 32 \\\\ array$",
+    "B": "$array|c|c|c|c| x & -1 & 0 & 1 \\\\ f(x) & \\frac{1}{8} & 16 & 32 \\\\ array$",
+    "C": "$array|c|c|c|c| x & -1 & 0 & 1 \\\\ f(x) & 8 & 16 & 32 \\\\ array$",
+    "D": "$array|c|c|c|c| x & -1 & 0 & 1 \\\\ f(x) & 32 & 0 & 32 \\\\ array$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To find the corresponding values of $f(x)$ for given $x$ values, substitute each $x$ value into the function $f(x) = 16(2^x)$ and evaluate. For $x = -1$: $f(-1) = 16(2^{-1}) = 16 \\times \\frac{1}{2} = \\frac{16}{2} = 8$. For $x = 0$: $f(0) = 16(2^0) = 16 \\times 1 = 16$. For $x = 1$: $f(1) = 16(2^1) = 16 \\times 2 = 32$. Therefore, the table with $f(x)$ values of $8$, $16$, and $32$ corresponding to $x$ values of $-1$, $0$, and $1$ respectively is correct.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=40364fd3",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 8,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

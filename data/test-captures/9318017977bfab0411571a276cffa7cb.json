@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9318017977bfab0411571a276cffa7cb",
+  "capturedAt": "2026-11-21T00:17:56.155Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2x + 4y = 12$$\n\n$$6x + 12y = 24$$\n\n$$4x + 8y = -8$$\n\nThe given equations are graphed in the $xy$-plane. How many solutions $(x, y)$ does the system of three equations have?",
+  "choices": {
+    "A": "Zero",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Infinitely many"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A solution to a system of three linear equations in two variables corresponds to a point $(x, y)$ where all three lines intersect. To determine the number of solutions, the relationships between the three lines must be analyzed. For the first equation $2x + 4y = 12$, solving for $y$ gives $4y = -2x + 12$, so $y = -\\frac{1}{2}x + 3$. This line has slope $-\\frac{1}{2}$ and $y$-intercept $3$. For the second equation $6x + 12y = 24$, solving for $y$ gives $12y = -6x + 24$, so $y = -\\frac{1}{2}x + 2$. This line has slope $-\\frac{1}{2}$ and $y$-intercept $2$. For the third equation $4x + 8y = -8$, solving for $y$ gives $8y = -4x - 8$, so $y = -\\frac{1}{2}x - 1$. This line has slope $-\\frac{1}{2}$ and $y$-intercept $-1$. Since all three lines have the same slope ($-\\frac{1}{2}$) but different $y$-intercepts ($3$, $2$, and $-1$), the three lines are parallel and never intersect. Therefore, there is no point $(x, y)$ that satisfies all three equations simultaneously, meaning the system has zero solutions.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=b716a49c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

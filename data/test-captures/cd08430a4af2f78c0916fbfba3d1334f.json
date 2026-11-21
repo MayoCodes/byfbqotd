@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cd08430a4af2f78c0916fbfba3d1334f",
+  "capturedAt": "2026-11-21T00:17:59.086Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A total of $4$ regular hexagons each have side length $p$. A total of $5$ squares each have side length $q$. None of these hexagons and squares shares a side. The sum of the perimeters of all these hexagons and squares is $264$. Which equation represents this situation?",
+  "choices": {
+    "A": "$16p + 30q = 264$",
+    "B": "$4p + 5q = 264$",
+    "C": "$20p + 30q = 264$",
+    "D": "$24p + 20q = 264$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The perimeter of a regular hexagon with side length $p$ is $6p$, since a hexagon has $6$ equal sides. The perimeter of a square with side length $q$ is $4q$, since a square has $4$ equal sides. The total perimeter of $4$ hexagons is $4 \\times 6p = 24p$. The total perimeter of $5$ squares is $5 \\times 4q = 20q$. Since none of the hexagons and squares share sides, the sum of all perimeters is the sum of the individual perimeters: $24p + 20q$. The problem states this sum equals $264$, so the equation representing this situation is $24p + 20q = 264$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=de9e7af4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 9,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

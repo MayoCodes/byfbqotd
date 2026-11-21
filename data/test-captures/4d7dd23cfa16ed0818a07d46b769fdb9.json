@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4d7dd23cfa16ed0818a07d46b769fdb9",
+  "capturedAt": "2026-11-21T00:17:47.141Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $ABC$, the measure of angle $A$ is $37^°$ and the measure of angle $B$ is $118^°$. In triangle $PQR$, the measure of angle $P$ is $37^°$ and the measure of angle $Q$ is $118^°$. Which of the following additional pieces of information is needed to determine whether triangle $ABC$ is similar to triangle $PQR$?",
+  "choices": {
+    "A": "No additional information is needed.",
+    "B": "The measure of angle $R$",
+    "C": "The measure of angle $C$ and the measure of angle $R$",
+    "D": "The measure of angle $C$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The Angle-Angle (AA) similarity criterion states that if two angles of one triangle are congruent to two angles of another triangle, then the triangles are similar. In this problem, triangle $ABC$ has angle $A = 37^{\\circ}$ and angle $B = 118^{\\circ}$, while triangle $PQR$ has angle $P = 37^{\\circ}$ and angle $Q = 118^{\\circ}$. Since $\\angle A \\cong \\angle P$ and $\\angle B \\cong \\angle Q$, two pairs of corresponding angles are congruent. By the triangle angle sum theorem, the sum of angles in any triangle equals $180^{\\circ}$. For triangle $ABC$: $\\angle C = 180^{\\circ} - 37^{\\circ} - 118^{\\circ} = 25^{\\circ}$. For triangle $PQR$: $\\angle R = 180^{\\circ} - 37^{\\circ} - 118^{\\circ} = 25^{\\circ}$. Therefore, all three pairs of corresponding angles are congruent, which confirms the triangles are similar. Since the AA criterion requires only two pairs of congruent angles, and we already have this information, no additional information is needed to determine that triangle $ABC$ is similar to triangle $PQR$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=b395273f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 14,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b5b02739a7bad57e614fb3ea37f95808",
+  "capturedAt": "2026-11-21T00:17:28.592Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Like many other groups of coral species, fire corals have in recent decades experienced population decline caused by, among other factors, ocean acidification and warming waters. Fire corals are also one of the most researched coral groups, second only to reef-building corals. As a result, marine biologists have gained much of their insight about coral declines from fire corals. In a 2022 paper, marine biologist Dr. Sofia Lindqvist notes that fire corals are among the relatively few coral groups that possess defensive nematocysts (stinging cells that deter predators) and display rapid growth rates, two traits that are associated with increased resilience to some specific environmental changes. Lindqvist therefore contends that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "because fire corals and other corals with rapid growth rates are less negatively affected by environmental stress than corals with slower growth rates are, they are less likely to experience major population changes in the future than corals with slower growth rates are.",
+    "B": "although fire corals have been more extensively studied than most coral species, researchers should not use fire corals to draw conclusions about the decline of other coral species, even ones with defensive mechanisms and growth patterns that are similar to those of fire corals.",
+    "C": "although fire corals and many other coral species have experienced similar population declines in the past, compared with other coral species, fire corals are likely at greater risk of being harmed by warming waters than by ocean acidification.",
+    "D": "because fire corals' defensive nematocysts are more effective at deterring predators in warming waters than in acidified waters, fire corals are likely to experience less population decline from predation than other coral species will."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most logically completes Lindqvist's argument. The passage establishes that fire corals possess two traits—defensive nematocysts and rapid growth rates—associated with increased resilience to environmental changes, then signals with 'therefore' that a conclusion follows directly from this. Choice A completes that logical chain: because these resilience traits reduce the negative impact of environmental stress, fire corals and similarly resilient species are less likely to experience major population changes than corals lacking those traits. This follows cleanly from the evidence Lindqvist presents.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=7d1c3db1",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 13,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

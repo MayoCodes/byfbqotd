@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "400f210d288bef565ef92d3e1574f534",
+  "capturedAt": "2026-11-21T00:17:20.460Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Biodiversity databases such as the Ocean Biodiversity Information System are enormous collections of electronically stored species records that can be used for empirical testing of hypotheses regarding the frequency of typical distribution patterns. For example, a marine biologist who assumes that the green sea turtle appears quite often in coastal waters could ______ that assumption with data from a database: the species is documented in 73 countries' coastal regions.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "contradict",
+    "B": "necessitate",
+    "C": "synthesize",
+    "D": "substantiate"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most logically completes the text's discussion of using database evidence to support a scientific assumption. In this context, 'substantiate' means to provide evidence or proof for something. The text establishes that a marine biologist assumes green sea turtles appear frequently in coastal waters, and the colon introduces confirmatory data showing the species is documented in 73 countries' coastal regions. This context clearly establishes that the database evidence supports the assumption, and 'substantiate' precisely captures this relationship between hypothesis and supporting data.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=c63fd4c2",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 1,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

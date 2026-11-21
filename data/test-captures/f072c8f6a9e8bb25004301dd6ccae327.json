@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f072c8f6a9e8bb25004301dd6ccae327",
+  "capturedAt": "2026-11-21T00:17:45.855Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$g(x) = 3(x-2)(x-7)(x-12)$$\n\nIf the given function $g$ is graphed in the $xy$-plane, where $y = g(x)$, what is the $x$-coordinate of an $x$-intercept of the graph?",
+  "choices": {},
+  "correctAnswer": "$$2,7,12$$",
+  "explanation": "The correct answer is $2$, $7$, or $12$. The x-intercepts of the graph of $g$ occur where $g(x) = 0$. Setting the function equal to zero gives $3(x-2)(x-7)(x-12) = 0$. By the zero product property, this equation is satisfied when any of the factors equals zero. Since $3 \\neq 0$, the solutions come from the linear factors: $(x-2) = 0$ gives $x = 2$, $(x-7) = 0$ gives $x = 7$, and $(x-12) = 0$ gives $x = 12$. Therefore, the graph has three x-intercepts at $x = 2$, $x = 7$, and $x = 12$. Since the question asks for the x-coordinate of an x-intercept (singular), any one of these three values is a correct answer. Note that 2, 7, and 12 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=0d4e3d7e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 12,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

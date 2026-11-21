@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2e7651240345d2cde31dd686b96486d8",
+  "capturedAt": "2026-11-21T00:18:01.204Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$6yz - 5xz = 6xy - z$$\n\nThe given equation relates the real numbers $x$, $y$, and $z$, where $x < 0$ and $y > 0$. Which equation correctly expresses $z$ in terms of $x$ and $y$?",
+  "choices": {
+    "A": "$z = -17xy$",
+    "B": "$z = \\frac{(6xy)}{(6y - 5x)}$",
+    "C": "$z = \\frac{(6xy)}{(6y - 5x + 1)}$",
+    "D": "$z = 5x$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To solve for $z$ in the equation $6yz - 5xz = 6xy - z$, all terms containing $z$ must be collected on one side. Adding $z$ to both sides gives $6yz - 5xz + z = 6xy$. The left side can be factored by extracting $z$ as a common factor from all three terms: $z(6y - 5x + 1) = 6xy$. Note that the three terms being factored are $6yz$ (with coefficient $6y$), $-5xz$ (with coefficient $-5x$), and $+z$ (with coefficient $+1$). Dividing both sides by $(6y - 5x + 1)$ yields $z = \\frac{6xy}{6y - 5x + 1}$. The constraints $x < 0$ and $y > 0$ ensure the denominator is well-defined but do not affect the algebraic manipulation.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=e28571dd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

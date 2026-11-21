@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3148e0b4ddb798c7294eccc9fc8fa5dd",
+  "capturedAt": "2026-11-21T00:17:24.338Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Complementary Text",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Text 1\nTo Lily the window of the drawing room had always suggested eternity. Its very position—set back slightly from the ornate trappings of the mantelpiece—implied a comment on the mundanity of domesticity. Those two tall panes, colorless, indifferent, framing between them a tarnished mirror, were fit portals for some transcendent vision, whose result might be comfortable, but would certainly not be expressed in the ordinary language of comfort.\n\nText 2\nThe interplay between opposing ideological positions in To the Lighthouse is broadly articulated in the novel's organization of spatial relationships. On the one hand, the domestic sphere of the Victorian house represents social convention's emphasis on practicality and the maintenance of material propriety; on the other, the natural world, visible through the drawing room window, fosters a transcendence that values genuine artistic vision, authentic perception, and the aesthetic—what the novel calls \"the eternal.\"",
+  "prompt": "Based on the texts, the author of Text 2 would most likely agree with which statement about the drawing room window, as it is depicted in Text 1?",
+  "choices": {
+    "A": "The window has a relatively unadorned appearance whose sharp contrast with the more aesthetically elaborate appearance of the mantelpiece suggests to Lily the ascendancy of the practical domestic outlook among the household's inhabitants.",
+    "B": "Because it is situated at the boundary of Lily's movement from the domestic space to the exterior, the window emblematizes the intrusion of the forces of social convention and materiality into the natural spaces that the novel associates with transcendence and aesthetic vision.",
+    "C": "The simplicity conveyed by the window's appearance mirrors Lily's disillusionment with the prospect of achieving genuine artistic perceptions in a world that chiefly values more conventional forms of comfort.",
+    "D": "As a point of connection between the house interior and the natural world, the window suggests to Lily the possibility of accessing the intangible richness promised by the kinds of genuine artistic perceptions that the novel's exterior spaces seem to offer."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accurately synthesizes both texts' perspectives on the window's symbolic function. Text 1 presents Lily perceiving the window as suggesting 'eternity' and serving as 'portals for some transcendent vision' beyond 'the ordinary language of comfort.' Text 2 establishes that 'the natural world, visible through the drawing room window' fosters 'transcendence that values genuine artistic vision' and 'the aesthetic—what the novel calls the eternal.' Choice D correctly identifies the window as 'a point of connection' between interior and exterior spaces that suggests 'the possibility of accessing' the 'genuine artistic perceptions' associated with the natural world.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=8b26a037",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 7,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

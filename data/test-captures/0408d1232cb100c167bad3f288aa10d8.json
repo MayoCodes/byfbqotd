@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0408d1232cb100c167bad3f288aa10d8",
+  "capturedAt": "2026-11-21T00:17:34.968Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "As can be seen in the case of \"Currer Bell\"—a pseudonym adopted by Charlotte Brontë to conceal her identity—literary scholars have successfully attributed many anonymously published novels from the Victorian era; works signed simply as \"A Lady\" and \"The Author of Waverley,\" ______ remain as mysterious as they once were to nineteenth-century readers.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "indeed,",
+    "B": "though,",
+    "C": "likewise,",
+    "D": "for example,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'though' logically signals the contrast between the two situations described in the sentence. The first clause establishes that scholars have successfully attributed many Victorian pseudonymous works, using Charlotte Brontë's 'Currer Bell' as an example of this success. The second clause, however, presents works that 'remain as mysterious as they once were'—meaning their authors have not been identified. This represents a contrast between solved and unsolved literary mysteries, which 'though' appropriately signals.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=dd809f27",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 23,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b2e323135fbe166ab6fbbc77984cb0f",
+  "capturedAt": "2026-11-21T00:17:25.607Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nSome scientists have suggested that as lowland temperatures rise, many bird species found in the lowland zone (below 1,000 meters elevation) could take refuge in the cooler highland zone (1,000 to 2,500 meters elevation). However, it isn't clear that such species will be able to tolerate highland conditions. In 2019, Sofia Bergman and colleagues studied bird populations in the two zones in South American mountain regions. Based on the elevations at which those birds are now found, the species that seems least suited to a full migration to the highland zone is ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "Chlorospingus flavopectus, because its minimum elevation of 400 meters is in the lowland zone.",
+    "B": "Tangara chilensis, because its maximum elevation of 600 meters is furthest from the highland zone.",
+    "C": "Momotus aequatorialis, because its maximum elevation of 950 meters is close to but doesn't reach the highland zone.",
+    "D": "Ramphocelus carbo, because its minimum elevation of 50 meters is the lowest of those listed."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it identifies the species whose current elevation range is furthest from highland conditions. The passage establishes that the highland zone begins at 1,000 meters elevation and raises doubts about whether lowland species can tolerate highland conditions. Tangara chilensis has a maximum elevation of only 600 meters—400 meters below the highland threshold—which is the largest gap among all listed species. This suggests the species has the least experience with conditions approaching those found in the highland zone, making it least suited for a full migration there.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=6c4ee767",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2b2e323135fbe166ab6fbbc77984cb0f/1-bee662c1515863cd.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 9,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

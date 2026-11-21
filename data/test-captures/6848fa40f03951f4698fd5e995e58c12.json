@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6848fa40f03951f4698fd5e995e58c12",
+  "capturedAt": "2026-11-21T00:17:26.497Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The bird species Tachyphonus surinamus (the fulvous-crested tanager) practices a foraging strategy known as sallying (catching insects in flight and returning to a perch to eat them), enabling it to scan for prey and predators simultaneously. Conversely, Percnostola rufifrons (the black-headed antbird), with which T. surinamus shares territory in French Guiana, practices foliage gleaning (picking insects off leaves), substantially limiting the bird's field of vision while foraging. Biologist Ari Martinez and colleagues hypothesized that the greater vulnerability inherent in the latter strategy is reflected in greater sensitivity to predator warning signals from neighboring species.",
+  "prompt": "Which finding, if true, would most directly support Martinez and colleagues' hypothesis?",
+  "choices": {
+    "A": "When Martinez and colleagues played T. surinamus alarm calls, only T. surinamus displayed predator-avoidance behavior, whereas both T. surinamus and P. rufifrons displayed such behavior when P. rufifrons alarm calls were played.",
+    "B": "When Martinez and colleagues played control sounds of random noise, only P. rufifrons displayed predator-avoidance behavior, whereas both P. rufifrons and T. surinamus displayed such behavior when alarm calls from another local bird species were played.",
+    "C": "When Martinez and colleagues played alarm calls from a species that does not share territory with T. surinamus and P. rufifrons, T. surinamus displayed predator-avoidance behavior, whereas P. rufifrons did not display any behavioral change.",
+    "D": "When Martinez and colleagues played alarm calls from another local bird species, P. rufifrons displayed predator-avoidance behavior, whereas T. surinamus did not display any behavioral change."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it presents a finding that, if true, would most directly support Martinez and colleagues' hypothesis that greater vulnerability while foraging is reflected in greater sensitivity to predator warning signals from neighboring species. The text explains that P. rufifrons practices foliage gleaning, which substantially limits the bird's field of vision while foraging and thus makes it more vulnerable to predators, whereas T. surinamus practices sallying, which enables it to scan for prey and predators simultaneously. Martinez and colleagues hypothesized that this difference in vulnerability would be reflected in P. rufifrons being more sensitive to alarm calls from neighboring species. A finding that when alarm calls from another local bird species were played, P. rufifrons displayed predator-avoidance behavior while T. surinamus did not display any behavioral change would support this hypothesis by showing that the more vulnerable species (P. rufifrons) responds to warning signals from neighboring species while the less vulnerable species (T. surinamus) does not.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=85875877",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

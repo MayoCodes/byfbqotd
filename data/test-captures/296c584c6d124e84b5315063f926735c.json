@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "296c584c6d124e84b5315063f926735c",
+  "capturedAt": "2026-11-21T00:17:40.288Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Compute Rate from Given Values",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A printing company prints documents in batches. If a printer can print between $5$ and $12$ pages per minute, which of the following could be the number of minutes the printer runs to print $195$ pages?",
+  "choices": {
+    "A": "$15$",
+    "B": "$16$",
+    "C": "$35$",
+    "D": "$41$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The printer prints between $5$ and $12$ pages per minute and must print $195$ pages total. Since time equals pages divided by rate, the valid time range can be found using the rate constraints. To find the minimum time, divide the total pages by the maximum rate: $195 \\div 12 \\approx 16.25$ minutes. To find the maximum time, divide by the minimum rate: $195 \\div 5 = 39$ minutes. Therefore, the valid time range is approximately $16.25$ to $39$ minutes. Choice C, $35$ minutes, falls within this range. To verify: if the printer runs for $35$ minutes and prints $195$ pages, the rate would be $195 \\div 35 \\approx 5.57$ pages per minute, which is between $5$ and $12$ pages per minute.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=5129cea9",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

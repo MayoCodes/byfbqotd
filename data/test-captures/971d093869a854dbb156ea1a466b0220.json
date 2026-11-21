@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "971d093869a854dbb156ea1a466b0220",
+  "capturedAt": "2026-11-21T00:17:41.550Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The perimeter of an obtuse triangle is $45$ feet. The lengths of two sides of this triangle are $11$ feet and $19$ feet. What is the length, in feet, of the third side of this triangle?",
+  "choices": {
+    "A": "$34$",
+    "B": "$26$",
+    "C": "$15$",
+    "D": "$30$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The perimeter of a triangle is the sum of the lengths of its three sides. Given that the perimeter is $45$ feet and two sides have lengths $11$ feet and $19$ feet, the third side length can be found by subtracting the sum of the known sides from the perimeter. First, calculate the sum of the two known sides: $11 + 19 = 30$ feet. Then subtract this sum from the perimeter: $45 - 30 = 15$ feet. Therefore, the length of the third side is $15$ feet. This can be verified using the triangle inequality theorem: $11 + 15 = 26 > 19$, $11 + 19 = 30 > 15$, and $15 + 19 = 34 > 11$, confirming that these three lengths can form a valid triangle.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=e8be4749",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

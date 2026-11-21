@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c112ec931405e42a005322278f806cb2",
+  "capturedAt": "2026-11-21T00:18:01.844Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ gives the product of a number, $n$, and a number that is $47$ more than $n$. Which equation defines $f$?",
+  "choices": {
+    "A": "$f(x) = x^{2} + x + 47$",
+    "B": "$f(x) = x^{2} + 47x$",
+    "C": "$f(x) = x^{2} + 47$",
+    "D": "$f(x) = x^{2} + 47x + 47$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The function $f$ is defined in terms of the variable used in function notation, which is $x$, representing the number $n$ from the description. The phrase 'a number that is $47$ more than $n$' translates to the expression $(x + 47)$. The word 'product' indicates multiplication, so the function represents $x$ multiplied by $(x + 47)$, which gives $f(x) = x(x + 47)$. Applying the distributive property to expand this expression: $f(x) = x \\cdot x + x \\cdot 47 = x^2 + 47x$. Therefore, the equation that defines $f$ is $f(x) = x^2 + 47x$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=fe54d256",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

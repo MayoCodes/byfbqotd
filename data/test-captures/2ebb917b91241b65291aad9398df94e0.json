@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2ebb917b91241b65291aad9398df94e0",
+  "capturedAt": "2026-11-21T00:17:07.541Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "A team of researchers discovered that honeybees can communicate the precise location of food sources to other members of the hive by performing a waggle dance that encodes both the distance and direction of the food. The team found that honeybees achieve 95% accuracy when communicating locations up to several kilometers away using these dance patterns, and they are hopeful that this discovery could aid in the development of navigation algorithms for autonomous robots.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It identifies an issue concerning honeybees and then proposes a solution to address the issue.",
+    "B": "It describes unique properties of honeybees and then speculates on how those properties evolved.",
+    "C": "It summarizes research findings on honeybees and then identifies an area for further research.",
+    "D": "It introduces a study of honeybees and then explains the research methods used in the study."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it accurately describes the text's two-part structure. The first part summarizes research findings: honeybees communicate food source locations through waggle dances that encode distance and direction, achieving 95% accuracy over several kilometers. The second part identifies an area for future research or application: the researchers 'are hopeful that this discovery could aid in the development of navigation algorithms for autonomous robots.' The phrase 'are hopeful that this discovery could aid' signals prospective work, not completed research, matching the 'identifies an area for further research' description in choice C.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=e72a4f32",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 8,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

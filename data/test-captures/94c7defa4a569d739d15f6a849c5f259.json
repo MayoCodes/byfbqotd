@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "94c7defa4a569d739d15f6a849c5f259",
+  "capturedAt": "2026-11-21T00:18:07.706Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the given equation $5x^{2} - 7x + k = 3$, $k$ is a constant. A solution to the equation is $(7 - sqrt(509))/(10)$. What is the value of $k$?",
+  "choices": {},
+  "correctAnswer": "$$-20$$",
+  "explanation": "The correct answer is $-20$. To find the value of $k$, first rearrange the equation to standard form: $5x^2 - 7x + k = 3$ becomes $5x^2 - 7x + (k - 3) = 0$. This is a quadratic equation with $a = 5$, $b = -7$, and constant term $k - 3$. The quadratic formula gives $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a} = \\frac{7 \\pm \\sqrt{49 - 20(k-3)}}{10}$. The given solution is $\\frac{7 - \\sqrt{509}}{10}$. Comparing these expressions, the discriminant must equal $509$: $49 - 20(k - 3) = 509$. Simplifying: $49 - 20k + 60 = 509$, so $109 - 20k = 509$. Solving for $k$: $-20k = 400$, thus $k = -20$. This can be verified by confirming that $109 - 20(-20) = 109 + 400 = 509$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=a7cbe1fd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 22,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

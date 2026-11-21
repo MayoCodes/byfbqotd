@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9cac577229aadd05ce1fb2ea6af84845",
+  "capturedAt": "2026-11-21T00:17:18.543Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Most of the fish and algae species in the Galápagos Islands, Ecuador, are introduced.\n• In a 2021 study, researchers wanted to know what role introduced fish play in dispersing algae spores in the Galápagos.\n• Researchers catalogued algae spores found in gut content samples from introduced fish.\n• Caulerpa chemnitzia, a green algae, was one of twelve endemic species catalogued.\n• Asparagopsis taxiformis, a red algae, was one of twenty-four introduced species catalogued.\n• Researchers concluded that introduced fish play a vital role in dispersing the spores of endemic and introduced algae.",
+  "prompt": "The student wants to emphasize a difference between the two algae species. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Spores from Caulerpa chemnitzia and Asparagopsis taxiformis algae were found in the gut content samples of introduced Galápagos fish, according to a 2021 study.",
+    "B": "Though Caulerpa chemnitzia and Asparagopsis taxiformis can both be found in the Galápagos Islands, Ecuador, only the former algae is endemic.",
+    "C": "Most algae species found in the Galápagos Islands, Ecuador, like Asparagopsis taxiformis, are introduced.",
+    "D": "A 2021 study catalogued algae spores found in fish gut content samples in the Galápagos Islands, Ecuador to determine what role introduced fish play in spore dispersal."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively emphasizes the key difference between the two algae species. The sentence uses a contrastive structure ('Though...both...only the former') to directly highlight that while both Caulerpa chemnitzia and Asparagopsis taxiformis are found in the Galápagos, only C. chemnitzia is endemic. This explicitly identifies the distinguishing characteristic between the species: endemic versus introduced status. The contrastive conjunction 'though' and the limiting term 'only' work together to foreground this difference as the sentence's primary focus.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=efb76061",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 25,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

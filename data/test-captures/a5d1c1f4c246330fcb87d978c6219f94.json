@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a5d1c1f4c246330fcb87d978c6219f94",
+  "capturedAt": "2026-11-21T00:17:40.923Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For a certain classification, the positive altitude $h$, in meters, of a drone must be less than $500$ meters. Which inequality represents this situation?",
+  "choices": {
+    "A": "$h>500$",
+    "B": "$0<h<500$",
+    "C": "$-500<h<0$",
+    "D": "$h<0$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The problem states two constraints on the altitude $h$: it must be positive (meaning $h > 0$), and it must be less than $500$ meters (meaning $h < 500$). Since both conditions must be satisfied simultaneously, they are combined into a compound inequality. The compound inequality $0 < h < 500$ correctly represents that the altitude $h$ is greater than $0$ and less than $500$. This is the standard mathematical notation for expressing that a variable lies between two values, which precisely captures the situation described in the problem.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=29580874",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3c0b764b0ddf3c85d324d6559431a197",
+  "capturedAt": "2026-11-21T00:17:38.153Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Inference From Sample Statistics And Margin Of Error",
+  "subskill": "Estimate Population Count from Sample",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A school surveyed a random sample of $25$ students. The survey found that $5$ of these students have a library card. If there are $300$ students in the school, which of the following is the best estimate of the number of students who have a library card?",
+  "choices": {
+    "A": "$60$",
+    "B": "$5$",
+    "C": "$12$",
+    "D": "$4$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. When a random sample is used, the proportion observed in the sample can be used to estimate the proportion in the entire population. In the sample, $5$ out of $25$ students have a library card, giving a proportion of $\\frac{5}{25} = \\frac{1}{5} = 0.2$, or $20\\%$. To estimate the number of students with library cards in the entire school, multiply this proportion by the total number of students: $0.2 \\times 300 = 60$. Alternatively, since $\\frac{1}{5}$ of the sample has library cards, we can calculate $\\frac{1}{5}$ of $300$: $300 \\div 5 = 60$. Therefore, the best estimate is that $60$ students in the school have a library card.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=94a81683",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

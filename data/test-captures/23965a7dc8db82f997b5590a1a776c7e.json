@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "23965a7dc8db82f997b5590a1a776c7e",
+  "capturedAt": "2026-11-21T00:17:27.132Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nResearchers examined how student performance improvement is affected by instructional method. As part of the study, participants received instruction in different subject areas using either traditional methods or technology-enhanced methods, and their score improvement from pre-test to post-test was measured. For each subject area, students who received technology-enhanced instruction showed greater improvement than did those who received traditional instruction. But the degree of this difference varied across the subject areas, as is best illustrated by the improvement scores for ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+  "choices": {
+    "A": "\"Biology\" and \"Algebra.\"",
+    "B": "\"Physics\" and \"Algebra.\"",
+    "C": "\"History\" and \"Writing.\"",
+    "D": "\"Biology\" and \"Writing.\""
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it pairs the subjects showing the most contrasting effect sizes. According to the graph, History shows the smallest technology advantage with only a 0.2-point difference between instructional methods (traditional: 4.8 points, technology-enhanced: 5.0 points), while Writing shows the largest advantage with a 1.1-point difference (traditional: 5.9 points, technology-enhanced: 7.0 points). By pairing these extremes—the minimum and maximum effect sizes—this choice most effectively illustrates how the degree of difference varied across subject areas.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=3ea53c09",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/23965a7dc8db82f997b5590a1a776c7e/1-c19f1882d08014a5.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 11,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

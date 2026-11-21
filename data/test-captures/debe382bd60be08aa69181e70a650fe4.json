@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "debe382bd60be08aa69181e70a650fe4",
+  "capturedAt": "2026-11-21T00:17:29.875Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The temperature gradient across ocean depths—represented by a measure called the vertical thermal profile—influences a variety of oceanographic dynamics, notably current velocity and salinity distribution. For Europa, Jupiter's largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the temperature gradient at various ocean depths. Sofia Lindqvist and colleagues point out that outputs of the GEMS ocean circulation model of Europa, which track closely to observations in some respects, reflect how the model's developers responded to this challenge: by imposing a uniform temperature gradient for the uppermost layer of the subsurface ocean. It is therefore important to note that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "some disagreements between the model's simulations of Europa's current velocity and salinity distribution and the moon's actual current velocity and salinity distribution are to be expected.",
+    "B": "even though the model's outputs sometimes agree with observational data, Europa's real temperature gradient is likely steeper than the temperature gradient used in the model.",
+    "C": "further observations of Europa may clarify the moon's temperature gradient sufficiently for the model to employ a single value rather than a range.",
+    "D": "inconsistencies across the model's simulations of Europa's current velocity and salinity distribution could be attributable to variations in the moon's temperature gradient."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it presents the logical consequence of the model's limitation described in the passage. The text establishes that observational data for Europa are too sparse to fully constrain the temperature gradient, so the GEMS model developers used a uniform temperature gradient as a simplification. When a scientific model employs a simplified assumption because real-world data is insufficient to specify actual complexity, discrepancies between model outputs and actual observations are a predictable outcome. Choice A correctly identifies that some disagreements 'are to be expected'—the direct logical consequence of using a simplified parameter when reality is likely more complex.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=735fc884",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 15,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0f2a837c900df9f1e73cbb2e287dd070",
+  "capturedAt": "2026-11-21T00:17:22.374Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The Hartfield is just one of approximately four million known archaeological sites spread throughout the world's landmasses, and their impact on soil composition and underground ecosystems is of great interest to researchers. Dr. Kenji Yamamoto and colleagues were particularly curious about the effects of ancient pottery kiln sites on soil microbial communities. The researchers studied two pottery kiln sites in the Anatolia region by placing fragments of clay and ceramic between zero and 150 meters away from each kiln site to collect samples of three kinds of microbes: bacteria, actinomycetes, and mycorrhizae. They found that across the three microbial communities, peak diversity and abundance was observed on clay and ceramic samples placed approximately 75 meters from the kiln sites.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It introduces a study of microbial communities near kiln sites that has received significant scholarly attention, summarizes the results of that study, and then describes a research team's reaction to the study.",
+    "B": "It states the number of known archaeological sites, describes the historical significance of one of those sites, and then comments on the various microbes found at the site.",
+    "C": "It notes a general scientific interest in archaeological sites' ecological effects, describes a specific study related to that interest, and then states one of the study's findings.",
+    "D": "It names a famous ancient kiln site, describes the type of clay used to build those kilns, and then explains how that clay type influences underground microbial communities."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it accurately captures the passage's three-part structure. First, the text establishes that archaeological sites' 'impact on soil composition and underground ecosystems is of great interest to researchers'—the general scientific interest in ecological effects. Second, it narrows to Yamamoto and colleagues' specific study of pottery kiln sites in Anatolia, including their methodology of placing clay and ceramic samples at varying distances to collect microbial samples. Third, it presents a finding: 'peak diversity and abundance was observed on clay and ceramic samples placed approximately 75 meters from the kiln sites.' This progression from general interest to specific study to finding matches Choice C precisely.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=5735354f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 4,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

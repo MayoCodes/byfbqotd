@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2dd30d15d3242638d0c9c35c2a62586e",
+  "capturedAt": "2026-11-21T00:17:29.228Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Logical Deduction - Scientific",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Photocatalytic water splitting systems capitalize on the ability of certain semiconductors like titanium dioxide to absorb ultraviolet photons, generating electron-hole pairs. The electrons and holes migrate to the surface of the catalyst layer, but converting these charge carriers into hydrogen gas requires that they avoid recombination—a process in which electrons and holes reunite before reaching the surface, releasing energy as heat. Accordingly, hydrogen production rates in titanium dioxide systems rarely exceed 12 micromoles per square centimeter per hour (μmol/cm²/hr). In an experiment, researchers deposited platinum nanoparticles onto titanium dioxide catalyst films on a glass substrate. The resulting hydrogen production rate was 27 μmol/cm²/hr. Since metals such as platinum exhibit high cocatalyst activity, the researchers hypothesized that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "platinum nanoparticles may allow charge carriers to avoid recombination and transfer directly to the catalyst surface.",
+    "B": "as the thickness of the catalyst layer increases, the charge carrier recombination process may decelerate independent of the presence of the platinum nanoparticles.",
+    "C": "platinum nanoparticles may increase the absorption of ultraviolet photons by the titanium dioxide, thereby increasing the number of electron-hole pairs available to produce hydrogen.",
+    "D": "charge carriers may be conducted directly to the surface before the platinum nanoparticles prevent the recombination process."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most logically completes the researchers' hypothesis about platinum's mechanism. The text identifies charge carrier recombination as the primary limitation in titanium dioxide systems, keeping hydrogen production below 12 μmol/cm²/hr. When platinum nanoparticles were added, production more than doubled to 27 μmol/cm²/hr. Since platinum exhibits high cocatalyst activity—facilitating surface reactions—it's logical to hypothesize that platinum nanoparticles reduce recombination by providing pathways for charge carriers to transfer directly to the catalyst surface.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=ad4e926f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 14,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

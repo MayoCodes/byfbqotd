@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4a74fdb4e2b18c4a90c39eff9fc652ea",
+  "capturedAt": "2026-11-21T00:17:33.693Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The public libraries of Seattle, Washington, seem to be reducing visitor stress. In a 2023 study, researchers studying connections between the library branch where a visitor survey response was ______ analyzed categorized survey responses from various library branches. They found that responses from the city's suburban libraries contained more words associated with reduced stress than other responses did.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "submitted, and the response's content",
+    "B": "submitted, and the response's content,",
+    "C": "submitted and the response's content",
+    "D": "submitted and the response's content,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it correctly omits commas when joining compound objects of a preposition. The phrase 'studying connections between X and Y' contains two noun phrases—'the library branch where a visitor survey response was submitted' and 'the response's content'—serving as objects of 'between.' Standard English conventions do not require a comma before 'and' when joining compound elements that are not independent clauses. Additionally, no comma after 'content' is needed because the participial phrase flows directly into the main verb 'analyzed' without interruption.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=ba54edb8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 21,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

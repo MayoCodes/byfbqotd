@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cab19df2a34af3367e81ac2e0b2655d9",
+  "capturedAt": "2026-11-21T00:17:21.735Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Multi-Word Phrase",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "During widespread humanitarian crises from 2015-2018, international aid organizations allocated emergency relief packages worth billions of dollars to affected nations. Ryan Bennett found that countries' transparency policies seem to have been ______ aid-allocation decisions: the probability that nations would receive emergency packages was 0.18 in countries with open government transparency ratings and 0.03 in countries with restricted transparency policies.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "associated with",
+    "B": "peripheral to",
+    "C": "decoupled from",
+    "D": "mediated by"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. 'Associated with' means related to. The reported probability of receiving aid was 0.18 for countries with open transparency ratings and 0.03 for countries with restricted policies. This difference supports an association between transparency policies and aid-allocation decisions, without establishing that either caused the other.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=ccd25faa",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 3,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

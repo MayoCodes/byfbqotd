@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2124e7e86eb82e8ddb810af77e7d4cd6",
+  "capturedAt": "2026-11-21T00:17:49.712Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Absolute Value Equation",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$y-5 = - y-5 + 14$$\n\nWhat is the sum of the solutions to the given equation?",
+  "choices": {},
+  "correctAnswer": "$$10$$",
+  "explanation": "The correct answer is $10$. To solve this equation, recognize that the same absolute value expression $\\vert y-5 \\vert$ appears on both sides. Let $u = \\vert y-5 \\vert$ to simplify. The equation becomes $u = -u + 14$. Adding $u$ to both sides gives $2u = 14$, so $u = 7$. Substituting back, we have $\\vert y-5 \\vert = 7$. An absolute value equation $\\vert a \\vert = b$ where $b > 0$ has two solutions: $a = b$ or $a = -b$. Therefore, $y-5 = 7$ or $y-5 = -7$. Solving the first equation: $y = 12$. Solving the second equation: $y = -2$. The sum of the solutions is $12 + (-2) = 10$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=3b289a32",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

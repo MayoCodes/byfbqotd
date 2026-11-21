@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8e730ac31d4dfb2ba7eefc58a87d1e43",
+  "capturedAt": "2026-11-21T00:17:17.302Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Addition or Continuation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "A research group led by Japanese astronomer Dr. Kenji Yamamoto found that many exoplanets contain atmospheric gases such as methane and water vapor. ______ Yamamoto identified methane in the atmosphere of Kepler-452b and water vapor in the atmosphere of TRAPPIST-1e.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Nevertheless,",
+    "B": "For example,",
+    "C": "For this reason,",
+    "D": "However,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'For example' logically signals that the second sentence provides specific instances illustrating the general claim in the first sentence. The first sentence states that many exoplanets contain atmospheric gases such as methane and water vapor, and the second sentence delivers concrete examples by naming specific exoplanets (Kepler-452b and TRAPPIST-1e) that contain those exact gases.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=86723b6d",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 23,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

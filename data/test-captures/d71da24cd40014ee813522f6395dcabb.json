@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d71da24cd40014ee813522f6395dcabb",
+  "capturedAt": "2026-11-21T00:17:50.993Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find the Percent from Two Values",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "While the weight of an object varies by location, shipping costs also vary by shipping method. A package costs $$150.00$ to ship domestically and $$187.50$ to ship internationally. The cost to ship the package via express shipping is $225%$ of the domestic shipping cost. If the international shipping cost is $x%$ of the express shipping cost, which of the following is closest to the value of $x$?",
+  "choices": {
+    "A": "$180.00$",
+    "B": "$125.00$",
+    "C": "$55.56$",
+    "D": "$337.50$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To find what percent the international shipping cost is of the express shipping cost, first calculate the express shipping cost. The express shipping cost is $225\\%$ of the domestic cost, which means $2.25 \\times 150.00 = 337.50$ dollars. Now calculate what percent $187.50$ dollars (international cost) is of $337.50$ dollars (express cost) using the formula $\\frac{\\text{part}}{\\text{whole}} \\times 100$. This gives $\\frac{187.50}{337.50} \\times 100 = 0.5556 \\times 100 = 55.56\\%$. Therefore, the international shipping cost is approximately $55.56\\%$ of the express shipping cost.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=10758ca2",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 20,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

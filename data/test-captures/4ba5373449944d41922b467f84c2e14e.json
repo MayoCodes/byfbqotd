@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4ba5373449944d41922b467f84c2e14e",
+  "capturedAt": "2026-11-21T00:18:02.501Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $\\frac{(y + 17)}{(x - 8)} + (y(x - 8))/(x^{2}y - 8xy)$?",
+  "choices": {
+    "A": "$\\frac{(xy^{2} + 18xy - 8y)}{(x^{2}y - 8xy)}$",
+    "B": "$\\frac{(xy + 15y + 17)}{(x^{2}y - 8xy + x - 8)}$",
+    "C": "$\\frac{(xy + y + 17)}{(x^{3}y - 16x^{2}y + 64xy)}$",
+    "D": "$\\frac{(xy^{2} + 18xy - 8y)}{(x^{3}y - 16x^{2}y + 64xy)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To add rational expressions with different denominators, first find the least common denominator (LCD). The second denominator can be factored: $x^2y - 8xy = xy(x - 8)$. The first denominator is $(x - 8)$. Therefore, the LCD is $xy(x - 8)$, which in expanded form is $x^2y - 8xy$. Rewriting the first fraction with this common denominator: $\\frac{y + 17}{x - 8} \\cdot \\frac{xy}{xy} = \\frac{xy(y + 17)}{xy(x - 8)}$. Now both fractions have the same denominator: $\\frac{xy(y + 17)}{xy(x - 8)} + \\frac{y(x - 8)}{xy(x - 8)} = \\frac{xy(y + 17) + y(x - 8)}{xy(x - 8)}$. Expanding the numerator: $xy(y + 17) = xy^2 + 17xy$ and $y(x - 8) = xy - 8y$. Combining like terms: $xy^2 + 17xy + xy - 8y = xy^2 + 18xy - 8y$. The denominator $xy(x - 8)$ equals $x^2y - 8xy$. Therefore, the expression simplifies to $\\frac{xy^2 + 18xy - 8y}{x^2y - 8xy}$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=a5457850",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

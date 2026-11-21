@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "77401859f31ceb65a1e83145b95be4cc",
+  "capturedAt": "2026-11-21T00:18:05.780Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Radical Equation",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$sqrt(m-t) = 24 - t$. In the given equation, $m$ is a constant. The equation has exactly one real solution. What is the minimum possible value of $4m$?",
+  "choices": {},
+  "correctAnswer": "$$95$$",
+  "explanation": "The correct answer is $95$. To find when the equation $\\sqrt{m-t} = 24 - t$ has exactly one real solution, we square both sides to eliminate the radical: $m - t = (24-t)^2$. Expanding the right side gives $m - t = 576 - 48t + t^2$. Rearranging to standard quadratic form: $t^2 - 48t + t + 576 - m = 0$, which simplifies to $t^2 - 47t + (576-m) = 0$. For a quadratic equation $at^2 + bt + c = 0$ to have exactly one real solution, the discriminant $\\Delta = b^2 - 4ac$ must equal zero. Here, $a = 1$, $b = -47$, and $c = 576 - m$. Computing the discriminant: $\\Delta = (-47)^2 - 4(1)(576-m) = 2209 - 2304 + 4m = 4m - 95$. Setting the discriminant equal to zero for exactly one solution: $4m - 95 = 0$, which gives $4m = 95$. We should verify this solution is valid for the original equation. When $4m = 95$, we have $m = 23.75$, and the unique solution to the quadratic is $t = \\frac{47}{2} = 23.5$. Checking the original equation: $\\sqrt{23.75 - 23.5} = \\sqrt{0.25} = 0.5$ and $24 - 23.5 = 0.5$, so both sides equal $0.5$ and the solution is valid. Therefore, the minimum possible value of $4m$ is $95$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=f516e827",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

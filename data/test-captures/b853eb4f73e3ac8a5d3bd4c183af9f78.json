@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b853eb4f73e3ac8a5d3bd4c183af9f78",
+  "capturedAt": "2026-11-21T00:17:32.419Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon Between Independent Clauses",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Art historian Dr. Noah Garcia challenges claims that the Medici family's patronage of artists in 1470s Florence was a display of Renaissance-era ______ citing previously unpublished family correspondence, Garcia makes the persuasive argument that the patronage was primarily an attempt to consolidate political power, not demonstrate genuine altruism.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "altruism and",
+    "B": "altruism,",
+    "C": "altruism by",
+    "D": "altruism;"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The sentence contains two independent clauses: the first about Garcia challenging claims, and the second about the evidence she cites. A semicolon properly connects these closely related independent clauses. The second clause, though beginning with a participial phrase, is complete with its own subject 'Garcia' and predicate 'makes.'",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=177bf4f2",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

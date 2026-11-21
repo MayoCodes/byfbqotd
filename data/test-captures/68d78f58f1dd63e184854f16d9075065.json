@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "68d78f58f1dd63e184854f16d9075065",
+  "capturedAt": "2026-11-21T00:17:10.090Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Stanislas Dehaene and colleagues studied how members of the Tsimane', an Indigenous group in Bolivia, conceptualize numerical magnitude in both spoken language and gestures. The researchers recorded Tsimane' speakers explaining certain quantity-related words and phrases, such as pewsa, a magnitude-oriented expression that translates to \"quantity exceeding ten,\" and coded each speaker's manual gestures. Previous research has found a tendency in many cultures to make numerical distinctions along imagined linear axes: for instance, English speakers often refer to the left-to-right axis to describe quantities in increasing order. Some researchers believe this tendency is universal, but Dehaene and colleagues claim this is not the case.",
+  "prompt": "Which finding, if true, would most directly support Dehaene and colleagues' claim?",
+  "choices": {
+    "A": "Gestures for large quantities used by Tsimane' speakers do not, on average, point in the opposite linear direction of gestures for small quantities.",
+    "B": "Tsimane' speakers typically gesture in opposite directions when describing large and small quantities, with large quantities represented by upward gestures and small quantities by downward gestures.",
+    "C": "Some Tsimane' grammatical structures used when talking about numbers are also used in English.",
+    "D": "Tsimane' speakers were observed making numerical gestures both while seated and while standing, though with greater frequency when seated."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it presents a finding that directly contradicts the supposedly universal pattern of linear numerical conceptualization. The text explains that many cultures map numerical magnitude onto linear axes, with opposing quantities (small vs. large) corresponding to opposing directions along those axes. If Tsimane' gestures for large quantities do not point in the opposite direction from gestures for small quantities, this demonstrates that the Tsimane' do not use linear directional axes to represent numerical magnitude—providing clear evidence that linear conceptualization is not universal, as Dehaene and colleagues claim.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=7b975855",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 12,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

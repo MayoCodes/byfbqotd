@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2f82ee5142a1199df7dff95567b1a2ed",
+  "capturedAt": "2026-11-21T00:17:16.021Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In most butterfly species, wings display browns and oranges in predictable patterns. The wings of Morpho butterflies are a strikingly different ______ butterfly wings get their hue from pigment molecules embedded in wing scales, microscopic structures on Morpho wings reflect light to produce a brilliant blue shimmer.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "shade: though most",
+    "B": "shade, though, most",
+    "C": "shade, though most",
+    "D": "shade, though. Most"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The colon correctly introduces an explanation of why Morpho butterfly wings are 'strikingly different.' What follows the colon elaborates on this difference by contrasting typical pigment-based coloration with Morpho butterflies' structural coloration. After the colon, 'though' functions as a subordinating conjunction introducing a dependent clause, which is then followed by an independent clause, forming a complete and grammatically correct sentence.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=186d70be",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 21,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

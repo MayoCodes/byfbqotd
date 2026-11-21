@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3aa2d158a9362ea46cbcfbae9dab34e3",
+  "capturedAt": "2026-11-21T00:17:06.278Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "What is a mountain? The answer depends on where you live! Many countries define an area as a mountain based on how high it is. However, not every country uses the same numbers. New Zealand defines a mountain as land with an elevation of at least 300 meters, while the United Kingdom defines a mountain as having a minimum elevation of 600 meters. Some countries even define mountains using other factors, like the prominence of the peak.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It lists the number of mountains in one country, then compares that number to the number of mountains in another country.",
+    "B": "It describes two locations, then explains why only one of the locations is considered a mountain.",
+    "C": "It poses a question, then explains why the question has many answers.",
+    "D": "It offers a recommendation, then provides reasons for that recommendation."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because the text poses a question and then explains why it has many answers. The passage opens with 'What is a mountain?' and immediately acknowledges variability: 'The answer depends on where you live!' The text then elaborates on this complexity by providing concrete examples: New Zealand defines a mountain as at least 300 meters elevation, while the United Kingdom requires 600 meters, and some countries use entirely different factors like prominence. Each sentence after the opening question explains why there are multiple valid answers—definitions vary based on geographic location and the specific criteria different nations apply.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=2e6f4f4e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 6,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

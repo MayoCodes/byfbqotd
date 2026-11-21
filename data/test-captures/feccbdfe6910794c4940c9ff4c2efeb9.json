@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "feccbdfe6910794c4940c9ff4c2efeb9",
+  "capturedAt": "2026-11-21T00:17:54.861Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Sophia is downloading a file on her computer. The equation $d = 45t + 180$ models the total amount of data, $d$, in megabytes that Sophia has downloaded $t$ seconds after she starts timing the download, where $0 < t < 60$. Which is the best interpretation of $180$ in this context?",
+  "choices": {
+    "A": "The estimated total amount of data Sophia will download during the timed period",
+    "B": "The estimated amount of data Sophia had already downloaded before the timed period started",
+    "C": "The estimated amount of data Sophia downloads each second during the timed period",
+    "D": "The estimated total amount of data Sophia will have downloaded after the timed period"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The equation $d = 45t + 180$ is in the form $y = mx + b$, where $b$ represents the y-intercept, or the initial value when the independent variable equals zero. To find what $180$ represents, substitute $t = 0$ into the equation: $d = 45(0) + 180 = 180$ megabytes. This means that when $t = 0$ (at the moment Sophia starts timing the download), she has already downloaded $180$ megabytes. Therefore, $180$ represents the amount of data that was already downloaded before she began timing the download process.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=61b394a8",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

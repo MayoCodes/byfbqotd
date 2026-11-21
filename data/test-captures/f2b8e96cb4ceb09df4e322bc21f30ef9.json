@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f2b8e96cb4ceb09df4e322bc21f30ef9",
+  "capturedAt": "2026-11-21T00:17:39.646Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $4x+20=12$, what is the value of $x+5$?",
+  "choices": {
+    "A": "$25$",
+    "B": "$5$",
+    "C": "$20$",
+    "D": "$3$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The most efficient approach recognizes that the left side of the equation can be factored. The expression $4x+20$ can be rewritten as $4(x+5)$ by factoring out the common factor of $4$. Substituting this into the equation gives $4(x+5)=12$. Dividing both sides by $4$ yields $x+5=\\frac{12}{4}=3$. Alternatively, the equation can be solved for $x$ first: subtracting $20$ from both sides gives $4x=12-20=-8$, and dividing by $4$ gives $x=-2$. Then $x+5=-2+5=3$. Either method confirms that the value of $x+5$ is $3$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=d58595c3",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

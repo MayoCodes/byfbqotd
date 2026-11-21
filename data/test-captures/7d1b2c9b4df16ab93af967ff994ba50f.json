@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7d1b2c9b4df16ab93af967ff994ba50f",
+  "capturedAt": "2026-11-21T00:17:47.777Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$aligned x^{2} + y &= 90 \\\\ -x+y &= 0 aligned$$\n\nThe solutions to the given system of equations are of the form $(x, y)$. What is a possible value of $x$?",
+  "choices": {
+    "A": "$-9$",
+    "B": "$-10$",
+    "C": "$-1$",
+    "D": "$90$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To solve this system, first solve the second equation for $y$: $-x + y = 0$ gives $y = x$. Substitute this expression into the first equation: $x^2 + x = 90$. Rearranging gives the quadratic equation $x^2 + x - 90 = 0$. To factor this, find two numbers that multiply to $-90$ and add to $1$: these are $10$ and $-9$. Thus, $x^2 + x - 90 = (x + 10)(x - 9) = 0$. Setting each factor equal to zero gives $x + 10 = 0$ or $x - 9 = 0$, which yields $x = -10$ or $x = 9$. Since the question asks for a possible value of $x$, either solution is valid. Therefore, $-10$ is a possible value of $x$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=2694408b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

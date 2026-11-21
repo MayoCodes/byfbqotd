@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c1ea8530a282b6f70d2194bfdeda1007",
+  "capturedAt": "2026-11-21T00:17:54.000Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA printing company charges a price based on the number of pages printed. The table shows the relationship between the number of pages $x$ and the total cost $g(x)$, in dollars. Which equation could define $g$?",
+  "choices": {
+    "A": "$g(x) = 0.4x$",
+    "B": "$g(x) = 200x$",
+    "C": "$g(x) = 2.5x$",
+    "D": "$g(x) = 400x$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The relationship between the number of pages and cost is proportional, meaning the equation has the form $g(x) = kx$ where $k$ is the constant of proportionality (cost per page). To find $k$, divide the cost by the number of pages for any data pair in the table. Using the first row: $k = \\frac{200}{80} = 2.5$. This can be verified with the other data pairs: $\\frac{300}{120} = 2.5$ and $\\frac{400}{160} = 2.5$. Since all ratios equal $2.5$, the equation is $g(x) = 2.5x$. To verify: $g(80) = 2.5(80) = 200$, $g(120) = 2.5(120) = 300$, and $g(160) = 2.5(160) = 400$, all of which match the table values.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=7ebfe469",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c1ea8530a282b6f70d2194bfdeda1007/1-b684a05b46d6c6e5.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

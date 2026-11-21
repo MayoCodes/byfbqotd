@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b87da2aaef89f86e235dfa7c55b9dd9b",
+  "capturedAt": "2026-11-21T00:18:06.416Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A probe descending through an atmosphere is decelerating at a rate of $1.85$ centimeters per second squared. What is this rate, in kilometers per hour squared, rounded to the nearest whole number?",
+  "choices": {},
+  "correctAnswer": "$$240$$",
+  "explanation": "The correct answer is $240$ kilometers per hour squared. Converting from centimeters per second squared to kilometers per hour squared requires converting both the distance unit (centimeters to kilometers) and the squared time unit (seconds squared to hours squared). For distance: $1$ km $= 1{,}000$ m $= 100{,}000$ cm, so the conversion factor is $\\frac{1 \\text{ km}}{100{,}000 \\text{ cm}}$. For time: $1$ hour $= 3{,}600$ seconds. Since time is squared in the unit, this conversion factor must be squared: $(3{,}600 \\text{ s/hr})^2 = 12{,}960{,}000 \\text{ s}^2\\text{/hr}^2$. Applying dimensional analysis: $1.85 \\frac{\\text{cm}}{\\text{s}^2} \\times \\frac{1 \\text{ km}}{100{,}000 \\text{ cm}} \\times \\frac{12{,}960{,}000 \\text{ s}^2}{1 \\text{ hr}^2} = 1.85 \\times \\frac{12{,}960{,}000}{100{,}000} \\frac{\\text{km}}{\\text{hr}^2} = 1.85 \\times 129.6 = 239.76$. Rounded to the nearest whole number, the rate is $240$ kilometers per hour squared.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=492face6",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

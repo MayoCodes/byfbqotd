@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cd082f5212dbe02bbf5d4e1c238ea31e",
+  "capturedAt": "2026-11-21T00:17:59.733Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Linear Equation for Data",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA technician charges customers based on the number of hours spent on a repair. The scatterplot shows the total cost, $y$, in dollars, for six different repairs that required $x$ hours of labor. Which equation is the most appropriate linear model for the data shown?",
+  "choices": {
+    "A": "$y = 0.5x$",
+    "B": "$y = 8x$",
+    "C": "$y = 20 + 0.5x$",
+    "D": "$y = 20 + 8x$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A linear model has the form $y = b + mx$, where $m$ is the slope and $b$ is the $y$-intercept. To find the most appropriate model, examine the scatterplot to estimate both values. Using two points such as $(2, 36)$ and $(9, 92)$: slope $= \\frac{92-36}{9-2} = \\frac{56}{7} = 8$. This means the cost increases by $8$ dollars for each additional hour of labor. To find the $y$-intercept, use the point $(2, 36)$: $36 = b + 8(2)$, so $b = 36 - 16 = 20$. This $y$-intercept of $20$ represents a base service fee of $20$ dollars. Therefore, the model is $y = 20 + 8x$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=b70209c5",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/cd082f5212dbe02bbf5d4e1c238ea31e/1-d0f713576628a09d.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

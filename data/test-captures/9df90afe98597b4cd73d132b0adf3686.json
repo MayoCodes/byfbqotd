@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9df90afe98597b4cd73d132b0adf3686",
+  "capturedAt": "2026-11-21T00:17:37.507Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Compare Two Items",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Nutrient Film Technique (NFT) is a form of soilless cultivation that utilizes flowing nutrient solution to rapidly grow healthy, high-quality plants.\n• Step 1: Plant seedlings are positioned in channels where their roots extend into a shallow stream of circulating water enriched with nutrients.\n• Step 2: The nutrient solution flows continuously beneath the roots, leaving a thin film (the \"root zone\") where oxygen and nutrients are absorbed.\n• Step 3: The solution cycles through the root zone—maintaining constant nutrient delivery—and supports successive growth stages of the plants.\n• Step 4: When the plants reach maturity, they are harvested and any remaining solution is processed for reuse.",
+  "prompt": "The student wants to describe how NFT grows plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "In NFT, plant roots are positioned in channels with flowing nutrient solution that supports plant growth stage by stage; once mature, the plants are harvested.",
+    "B": "NFT is advantageous for commercial growers because the nutrient solution can be recycled, reducing waste and lowering the overall cost of large-scale plant production.",
+    "C": "NFT is an increasingly popular form of soilless cultivation because it uses less water and produces higher-quality plants than traditional soil-based growing methods.",
+    "D": "NFT is a form of soilless cultivation that creates a \"root zone\" in which nutrient solution supports growth stage by stage before being harvested and processed, creating healthy, high-quality plants."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it directly describes how NFT grows plants by synthesizing the key steps of the process. The sentence covers how plant roots are positioned in channels (Step 1), identifies the flowing nutrient solution as the core mechanism supporting growth (Steps 2–3), captures the successive nature of growth with 'stage by stage' (Step 3), and concludes with harvesting at maturity (Step 4). This choice stays focused on the student's goal of describing the growing process itself.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=32510668",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 27,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

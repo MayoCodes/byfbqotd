@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8e37abe2b61f5664e096abad0163d857",
+  "capturedAt": "2026-11-21T00:18:03.142Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the given equation, $72x^{2} + bx + c = 0$, $b$ and $c$ are positive constants. The equation has more than one real solution. Which of the following describes the relationship between $b$ and $c$?",
+  "choices": {
+    "A": "$b = sqrt(288c)$",
+    "B": "$b^{2} = sqrt(288c)$",
+    "C": "$b > sqrt(288c)$",
+    "D": "$b < sqrt(288c)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. For a quadratic equation of the form $ax^2 + bx + c = 0$, the number of real solutions is determined by the discriminant $\\Delta = b^2 - 4ac$. When $\\Delta > 0$, the equation has two distinct real solutions; when $\\Delta = 0$, it has exactly one real solution (a repeated root); and when $\\Delta < 0$, it has no real solutions. Since the problem states the equation has more than one real solution, we need $\\Delta > 0$. For the given equation $72x^2 + bx + c = 0$, we have $a = 72$, so the discriminant inequality becomes $b^2 - 4(72)c > 0$. Calculating $4(72) = 288$, this simplifies to $b^2 - 288c > 0$, or equivalently $b^2 > 288c$. Since $b$ is a positive constant, taking the square root of both sides preserves the inequality direction, giving $b > \\sqrt{288c}$. Therefore, the relationship between $b$ and $c$ that ensures more than one real solution is $b > \\sqrt{288c}$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=71b32535",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

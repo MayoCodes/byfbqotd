@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "697a11e71e96fe1feaead363d363a1e4",
+  "capturedAt": "2026-11-21T00:17:38.793Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Predict Value Using Line of Best Fit",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows $5$ measurements of the height, in centimeters (cm), of a tomato plant from week $1$ to week $6$. A line of best fit is also shown. For the tomato plant at week $4$, what is the height predicted by the line of best fit, to the nearest $5$ cm?",
+  "choices": {},
+  "correctAnswer": "$$40$$",
+  "explanation": "The correct answer is $40$. To find the height predicted by the line of best fit at week $4$, locate $x = 4$ on the horizontal axis (Time) and trace vertically to the line of best fit. The line of best fit has the equation $y = 10x + 0.5$. Substituting $x = 4$: $y = 10(4) + 0.5 = 40.5$ cm. Rounding $40.5$ to the nearest $5$ cm gives $40$ cm. Alternatively, by reading the graph at $x = 4$, the line passes through approximately $40.5$ cm on the vertical axis, which rounds to $40$ cm.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=b8f95a98",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/697a11e71e96fe1feaead363d363a1e4/1-6c025216d948ad7e.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

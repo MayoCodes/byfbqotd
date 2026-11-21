@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50306df252af324b91bbf076bb9c2a75",
+  "capturedAt": "2026-11-21T00:17:52.268Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\n$ABC$ is similar to $DEC$. The lengths represented by $DE$, $AB$, and $AC$ in the figure are $3$, $9$, and $12$, respectively. What is the length of $EC$ ?",
+  "choices": {
+    "A": "$4$",
+    "B": "$5$",
+    "C": "$9$",
+    "D": "$15$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The correct answer is B. First, find $BC$ using the Pythagorean theorem: since $\\triangle ABC$ is a right triangle with legs $AB = 9$ and $AC = 12$, we have $BC = \\sqrt{9^2 + 12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15$. Since $\\triangle ABC$ is similar to $\\triangle DEC$, corresponding sides are proportional. From the similarity statement, $\\overline{AB}$ corresponds to $\\overline{DE}$ and $\\overline{BC}$ corresponds to $\\overline{EC}$. The scale factor from $\\triangle ABC$ to $\\triangle DEC$ is $\\frac{DE}{AB} = \\frac{3}{9} = \\frac{1}{3}$. Using this ratio: $\\frac{DE}{AB} = \\frac{EC}{BC}$, so $\\frac{3}{9} = \\frac{EC}{15}$. Cross-multiplying: $9 \\cdot EC = 3 \\cdot 15 = 45$. Dividing by $9$: $EC = \\frac{45}{9} = 5$.\n\nChoice A is incorrect and may result from finding $\\overline{DC}$ instead of $\\overline{EC}$. Using the proportion $\\frac{DE}{AB} = \\frac{DC}{AC}$ gives $\\frac{3}{9} = \\frac{DC}{12}$, so $DC = 4$. This error reflects confusing which side of the smaller triangle was requested.\n\nChoice C is incorrect and may result from incorrectly assuming the scale factor applies in reverse, or from confusing which triangle is larger. The student may have mistakenly used $EC = AB \\cdot \\frac{DE}{AB} = 9$, forgetting to apply the proportion correctly.\n\nChoice D is incorrect and may result from assuming that $\\overline{EC}$ has the same length as $\\overline{BC}$. This reflects a misunderstanding that similar triangles must be congruent, ignoring the different scale factors indicated by $DE = 3$ and $AB = 9$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=a26e3681",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/50306df252af324b91bbf076bb9c2a75/1-ec6d1823a3b585a4.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 22,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "39446c104ecbcd9400ec771b5927b8a5",
+  "capturedAt": "2026-11-21T00:17:17.918Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Difference",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Botanical Heritage Collection is an online archive curated by the California Academy of Sciences.\n• It features images of botanical specimens relevant to the history of plant science in California.\n• It features medicinal plants, including pressed yarrow (Achillea millefolium in Latin) collected from coastal regions.\n• The yarrow specimen was collected in 1887.\n• The Botanical Heritage Collection features garden vegetables, including a pressed tomato plant (Solanum lycopersicum) collected from a community garden.\n• The tomato specimen was collected in 2019.",
+  "prompt": "The student wants to make a generalization about the Botanical Heritage Collection. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Not all specimens in the Botanical Heritage Collection are from the 1800s.",
+    "B": "Included in the Botanical Heritage Collection is pressed yarrow.",
+    "C": "The tomato plant (Solanum lycopersicum) was collected in 2019.",
+    "D": "The Latin name for yarrow is Achillea millefolium."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it makes a generalization about the collection by synthesizing temporal information from multiple notes. The notes indicate that the yarrow specimen was collected in 1887 and the tomato specimen was collected in 2019, demonstrating that the collection spans more than a century. Choice A abstracts from these specific dates to make a broader claim about the temporal range of the collection, effectively characterizing it as containing specimens from multiple time periods rather than just focusing on historical specimens from the 1800s.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=bcdd9bd8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 24,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

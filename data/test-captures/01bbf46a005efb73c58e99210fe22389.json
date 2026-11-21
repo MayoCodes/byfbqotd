@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "01bbf46a005efb73c58e99210fe22389",
+  "capturedAt": "2026-11-21T00:17:44.375Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The function $g(n)=120(n+3)$ gives the total cost, in dollars, to produce $n$ units of a product. What is the total cost, in dollars, to produce $22$ units?",
+  "choices": {},
+  "correctAnswer": "$$3000$$",
+  "explanation": "The correct answer is $3000$. To find the total cost to produce $22$ units, substitute $n=22$ into the given function $g(n)=120(n+3)$. This gives $g(22)=120(22+3)$. Simplifying inside the parentheses: $22+3=25$, so $g(22)=120(25)$. Multiplying gives $120 \\times 25 = 3000$. Therefore, the total cost to produce $22$ units is $3000$ dollars.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=85511552",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 10,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

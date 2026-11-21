@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4f3ad1232afb42cc84370bd7b9091629",
+  "capturedAt": "2026-11-21T00:17:09.457Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "The Thinker (Le Penseur) is a sculpture by Auguste Rodin, dated 1880. It's part of the full collection of the Art Institute of Chicago, in Chicago, Illinois. A digital image of it can also be found in an online collection. In a paper, a student claims that people usually spend more time viewing a work of art in a museum than they do online.",
+  "prompt": "Which finding, if true, would most directly support the underlined claim?",
+  "choices": {
+    "A": "More than one museum has sculptures by Auguste Rodin in its full collection.",
+    "B": "The Thinker (Le Penseur) isn't the only sculpture by Auguste Rodin that has been made available in digital format.",
+    "C": "Most people who go to museums in Chicago are particularly interested in French art.",
+    "D": "Most people spend about four minutes viewing The Thinker (Le Penseur) at the museum and only about ninety seconds viewing it online."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it directly supports the student's claim with quantitative comparative data about viewing duration in both contexts. The finding states that people spend about four minutes viewing The Thinker at the museum but only about ninety seconds viewing it online. This concrete comparison demonstrates that museum viewing time substantially exceeds online viewing time, which is exactly what the student claims. The evidence is specific to the same artwork viewed in both settings, making it highly relevant support.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=10aef74d",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 11,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

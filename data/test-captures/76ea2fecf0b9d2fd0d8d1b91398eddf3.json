@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "76ea2fecf0b9d2fd0d8d1b91398eddf3",
+  "capturedAt": "2026-11-21T00:17:53.109Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph shows the estimated balance of a certain investment account, in thousands of dollars, over time $x$, in months since the account was opened. According to the graph, which of the following is closest to the number of months it took for the estimated balance to increase from the initial balance to $15$ thousand dollars?",
+  "choices": {
+    "A": "$50$",
+    "B": "$25$",
+    "C": "$10$",
+    "D": "$5$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The question asks for the time elapsed from the initial balance to when the balance reaches $15$ thousand dollars. From the graph, the initial balance occurs at time $x = 0$ months, where the balance is approximately $5$ thousand dollars. The balance reaches $15$ thousand dollars at approximately $x = 25$ months, which can be estimated by locating the point on the curve where the y-coordinate equals $15$ and reading the corresponding x-coordinate. The elapsed time is therefore $25 - 0 = 25$ months.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=1d0211f6",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/76ea2fecf0b9d2fd0d8d1b91398eddf3/1-df34a941de6e4543.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

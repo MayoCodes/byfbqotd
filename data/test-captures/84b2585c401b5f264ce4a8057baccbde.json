@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "84b2585c401b5f264ce4a8057baccbde",
+  "capturedAt": "2026-11-21T00:17:50.351Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle has center $P$, and points $M$ and $N$ lie on the circle. The measure of arc $MN$ is $45°$ and the length of this arc is $4$ centimeters. What is the circumference, in centimeters, of the circle?",
+  "choices": {
+    "A": "$4$",
+    "B": "$32$",
+    "C": "$16$",
+    "D": "$8$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The ratio of an arc's measure to $360\\degree$ equals the ratio of the arc's length to the circle's circumference. The arc $MN$ has measure $45\\degree$, so the ratio of arc measure to total degrees is $\\frac{45}{360} = \\frac{1}{8}$. This means the arc $MN$ represents $\\frac{1}{8}$ of the entire circle. Since the arc length is $4$ centimeters, the full circumference must be $8$ times this length. Therefore, the circumference is $4 \\times 8 = 32$ centimeters. This can also be verified by setting up the proportion: $\\frac{45}{360} = \\frac{4}{C}$, where $C$ is the circumference. Cross-multiplying gives $45C = 1440$, so $C = 32$ centimeters.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=f62b7cdd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

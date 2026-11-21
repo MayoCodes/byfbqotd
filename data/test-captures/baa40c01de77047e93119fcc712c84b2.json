@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "baa40c01de77047e93119fcc712c84b2",
+  "capturedAt": "2026-11-21T00:17:16.661Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Concession Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In ecology, a species endemic to tropical regions with optimal thermal tolerance below 15°C is expected to decline or migrate when temperatures exceed this threshold, whereas species with higher thermal tolerance would likely expand their range into such warmer zones. Dr. Maya Foster and colleagues, ______ documented a thriving population of the cold-adapted glasswing butterfly at a latitude of 8°N, well outside the predicted thermal tolerance zone of 25°N and above, that has persisted for over two decades.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "though,",
+    "B": "for example,",
+    "C": "fittingly,",
+    "D": "likewise,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because 'though' logically signals the contrast between the ecological principle stated in the first sentence and the research findings that follow. The text establishes that cold-adapted species are expected to decline or migrate when temperatures exceed their thermal tolerance, but Dr. Foster's research documents a cold-adapted glasswing butterfly population thriving 'well outside the predicted thermal tolerance zone' and persisting for over two decades. This contradicts the expected pattern, making 'though' the appropriate transition to signal this unexpected exception.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=fdef3b2b",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 22,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ce58548593b537f896b7e11e2e6b870c",
+  "capturedAt": "2026-11-21T00:17:27.958Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Thermoelectric cooling systems convert electrical energy into thermal gradients, eliminating the need for traditional refrigerants. The electrical current in a portable medical device, for example, can provide sufficient cooling to preserve donor organs thermoelectrically. A newly designed thermoelectric cooler incorporating a highly efficient bismuth telluride composite semiconductor has been shown to maintain precise temperature control throughout operation, an absolute prerequisite for organ preservation protocols to rely on thermoelectric cooling.",
+  "prompt": "Which finding, if true, would most directly support the text's claim about organ preservation protocols?",
+  "choices": {
+    "A": "Variable or inconsistent temperature regulation compromises the effectiveness of organ preservation protocols.",
+    "B": "The continuous electrical supply from a portable medical device makes it possible to preserve donor organs using only non-composite thermoelectric coolers.",
+    "C": "The bismuth telluride composite is incompatible with most organ preservation protocols.",
+    "D": "The high efficiency of the bismuth telluride composite is what makes the cooling output from a thermoelectric system sufficient for organ preservation protocols."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most directly supports the text's claim that 'precise temperature control throughout operation' is 'an absolute prerequisite for organ preservation protocols to rely on thermoelectric cooling.' Choice A validates this claim by establishing the contrapositive: if temperature regulation is variable or inconsistent (the opposite of precise control), then organ preservation protocols are compromised. This finding directly confirms why precise temperature control is an absolute prerequisite—without it, the preservation protocols fail.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=d1e2018e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 12,
+    "subject": "English",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}

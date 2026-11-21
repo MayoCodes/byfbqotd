@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a1dadcbd216a227450573a354010a7e2",
+  "capturedAt": "2026-11-21T00:18:03.791Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the given expression, $mt^{2} + 156t + n$, $m$ and $n$ are positive constants. If $rt + s$ is a factor of the expression, where $r$ and $s$ are positive constants, what is the greatest possible value of $mn$?",
+  "choices": {},
+  "correctAnswer": "$$6084$$",
+  "explanation": "The correct answer is $6084$. Since $rt + s$ is a factor of $mt^2 + 156t + n$ where all constants are positive, the quadratic must factor completely as $mt^2 + 156t + n = (rt + s)(ut + v)$ for some positive constants $u$ and $v$. Expanding the right side gives $rut^2 + (rv + su)t + sv$. Matching coefficients with the original expression: $m = ru$, the middle coefficient gives $rv + su = 156$, and $n = sv$. Therefore, the product $mn = (ru)(sv) = (rv)(su)$. To maximize the product $mn = (rv)(su)$ subject to the constraint $rv + su = 156$, recall that for two positive numbers with a fixed sum, their product is maximized when the two numbers are equal. Thus $(rv)(su)$ is greatest when $rv = su$. Setting $rv = su$ and using $rv + su = 156$, we get $rv + rv = 156$, which gives $rv = 78$. Since $mn = (rv)(su)$ and we want both terms equal, we have $mn = 78 \\times 78 = 6084$. Therefore, the greatest possible value of $mn$ is $6084$.",
+  "source": "https://cooksat.com/practice-test-review/5?questionId=df35f53b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "5",
+    "title": "Practice Test 5"
+  }
+}
