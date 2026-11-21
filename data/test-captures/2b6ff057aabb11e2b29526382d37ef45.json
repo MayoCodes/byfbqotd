@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b6ff057aabb11e2b29526382d37ef45",
+  "capturedAt": "2026-11-21T00:12:03.787Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Search query databases such as the Google Trends Archive are enormous collections of electronically stored search data that can be used for empirical testing of hypotheses regarding how ______ a search term is across global web searches. For instance, one might have a guess about the frequency of the term \"weather,\" but only an analysis of a database can prove that \"weather\" is the seventh most commonly searched term.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "credible",
+    "B": "pervasive",
+    "C": "assertive",
+    "D": "profound"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most logically and precisely completes the text's discussion of search query databases. In this context, 'pervasive' means widespread or prevalent throughout. The passage explains that these databases enable 'empirical testing of hypotheses' about search term occurrence, and the example reinforces this by demonstrating frequency measurement: proving that 'weather' is the 'seventh most commonly searched term.' This ranking directly measures how pervasive—how widespread—the term is across global searches. The logical progression from measuring frequency to proving specific rankings requires a word describing commonness, making 'pervasive' the precise choice.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=ff112665",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 4,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

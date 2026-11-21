@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "da821f2caa042f63913e6b9af0895990",
+  "capturedAt": "2026-11-21T00:12:00.422Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Present to Familiar Audience",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Women in Science History (WISH) project aims to inspire future scientists by archiving and sharing information about the achievements of women in STEM fields.\n• Dr. Elena Bergman is a biochemist and researcher included in WISH's Notable Scientists Archive.\n• She was born in 1931 and died in 2019.",
+  "prompt": "Which choice most effectively uses information from the given sentences to set up a discussion of Bergman's career for an audience already familiar with the WISH project?",
+  "choices": {
+    "A": "Among the many notable figures featured in the WISH project is biochemist and researcher Dr. Elena Bergman.",
+    "B": "Born in 1931, Dr. Elena Bergman died in 2019 according to the WISH project.",
+    "C": "While Dr. Elena Bergman is considered a pioneering scientist, there are many more such scientists included in WISH's Notable Scientists Archive.",
+    "D": "The WISH project's Notable Scientists Archive highlights women scientists from history, such as Dr. Elena Bergman (1931–2019), in order to inspire young women to pursue careers in science."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it effectively balances the rhetorical constraints of the task. For an audience already familiar with WISH, the sentence provides a brief, appropriate acknowledgment of the project context with 'Among the many notable figures featured in the WISH project' before transitioning to introduce Dr. Bergman. Crucially, it identifies her professional role as 'biochemist and researcher,' which provides essential context for a career discussion. The sentence structure makes Bergman the grammatical and topical focus, naturally leading into discussion of her specific achievements rather than remaining focused on WISH itself.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=78230b32",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 26,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

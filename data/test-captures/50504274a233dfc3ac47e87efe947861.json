@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50504274a233dfc3ac47e87efe947861",
+  "capturedAt": "2026-11-21T00:12:20.676Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Graph - Read Intersection Point",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of linear equations is shown. What is the solution $(x, y)$ to the system?",
+  "choices": {
+    "A": "$(3, 5)$",
+    "B": "$(2, 5)$",
+    "C": "$(1, 5)$",
+    "D": "$(0, 5)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The solution to a system of linear equations is the point where the graphs of the equations intersect. On the given graph, two lines are shown: a horizontal line at $y = 5$ and a diagonal line that passes through the points $(0, 1)$ and $(4, 9)$. The diagonal line has slope $m = \\frac{9 - 1}{4 - 0} = \\frac{8}{4} = 2$, so its equation is $y = 2x + 1$. Setting this equal to the horizontal line: $2x + 1 = 5$, which gives $2x = 4$, so $x = 2$. At $x = 2$, $y = 5$. Therefore, the two lines intersect at the point $(2, 5)$, which is the solution to the system.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=6910d312",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/50504274a233dfc3ac47e87efe947861/1-852861867a8866ac.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

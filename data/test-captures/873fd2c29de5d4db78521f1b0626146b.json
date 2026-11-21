@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "873fd2c29de5d4db78521f1b0626146b",
+  "capturedAt": "2026-11-21T00:11:55.132Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Modifier Placement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Japanese physicist Hideki Yukawa was a theoretical physicist whose work has been instrumental in the understanding and prediction of nuclear forces. Initially dismissed as purely theoretical by the scientific community, ______ contributed to the development of modern particle physics.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "Yukawa studied meson theory in 1935; it",
+    "B": "in 1935 Yukawa studied meson theory, which",
+    "C": "meson theory was studied by Yukawa in 1935 and",
+    "D": "Yukawa's 1935 study of meson theory"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of modifiers. The participial phrase 'Initially dismissed as purely theoretical by the scientific community' must logically modify the noun that immediately follows it. Choice D correctly provides 'Yukawa's 1935 study of meson theory' as that noun—it was the study that was initially dismissed as theoretical, and it was the study that contributed to the development of modern particle physics. This choice creates a grammatically sound sentence with proper subject-modifier agreement.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=beb54831",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 18,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

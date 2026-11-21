@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6d4b354d91ed55667106e28e6466d84e",
+  "capturedAt": "2026-11-21T00:12:07.102Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nA report from an international organization that monitors the percentage of women serving as legislators in various nations' parliaments, such as the Parliament in Norway and the Parliament in Brazil. From 2015 to 2019, the percentage of women serving as legislators in national parliaments in most countries increased. However, there are also countries where the percentage decreased or remained unchanged; for example, ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the example?",
+  "choices": {
+    "A": "Brazil was lower in 2019 than in 2015, whereas the percentage in Norway was the same in 2019 as in 2015.",
+    "B": "Sweden was greater in 2019 than in 2015, whereas the percentage in Norway was the same in 2019 as in 2015.",
+    "C": "Norway was the same in 2019 as in 2015, but it had a higher percentage of women in its parliament than either Sweden or Brazil did in 2019.",
+    "D": "Sweden was greater in 2019 than in 2015, whereas the percentage in Brazil was lower in 2019 than in 2015."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively illustrates both exception patterns mentioned in the text. The sentence establishes that while most countries saw increases in women legislators, 'there are also countries where the percentage decreased or remained unchanged.' According to the graph, Brazil's percentage decreased from 25% in 2015 to 20% in 2019, while Norway's remained unchanged at 35% in both years. By providing examples of both a decrease and an unchanged pattern, this choice fully supports the rhetorical purpose of the sentence.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=7bdf07ad",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/6d4b354d91ed55667106e28e6466d84e/1-2466ef2dc0388ccf.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 9,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

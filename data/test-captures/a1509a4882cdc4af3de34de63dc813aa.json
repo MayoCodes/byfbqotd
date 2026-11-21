@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a1509a4882cdc4af3de34de63dc813aa",
+  "capturedAt": "2026-11-21T00:11:54.467Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "When bacteria infect tissue, they may be exposed to antibiotics, potentially affecting their cellular processes. Recently, Dr. Arjun Reddy of Stanford University added the ______ to an agar solution to observe the antibiotic's impact on bacterial cultures' ability to reproduce in controlled conditions.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "methicillin-resistant bacteria,",
+    "B": "methicillin-resistant bacteria",
+    "C": "methicillin-resistant bacteria, growing",
+    "D": "methicillin-resistant, bacteria"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because “methicillin-resistant” is a compound modifier that correctly describes “bacteria,” and no punctuation should separate the direct object “the methicillin-resistant bacteria” from the following phrase “to an agar solution.” The completed sentence clearly states what Dr. Reddy added and where he added it.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=5f325c32",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 17,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

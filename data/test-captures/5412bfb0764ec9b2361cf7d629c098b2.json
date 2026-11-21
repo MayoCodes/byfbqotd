@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5412bfb0764ec9b2361cf7d629c098b2",
+  "capturedAt": "2026-11-21T00:12:07.984Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nElena Torres and colleagues found that applying synthetic fertilizer—the practice of using chemically manufactured nutrients to enrich soil before planting crops—was associated with an increased yield of tomatoes. But some studies of other crops have found the opposite effect, for example ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the assertion?",
+  "choices": {
+    "A": "Kenji Watanabe and colleagues found a similar association in a study using potatoes.",
+    "B": "Lars Bergström and colleagues reported an even larger positive effect of organic compost on the yield of lettuce.",
+    "C": "crop yields with synthetic fertilizer have ranged from 5,400 pounds per acre for carrots to 8,100 pounds per acre for tomatoes.",
+    "D": "a study using tomatoes yielded 8,100 pounds per acre with synthetic fertilizer and only 6,500 pounds per acre with organic compost."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it effectively provides an example of the 'opposite effect' mentioned in the text. While Torres found that synthetic fertilizer increased tomato yield (8,100 pounds per acre with synthetic versus 6,500 with organic compost), Bergström's study of lettuce found organic compost dramatically outperformed synthetic fertilizer, yielding 9,300 pounds per acre compared to only 4,700 with synthetic fertilizer. This represents a clear reversal of Torres's finding and directly supports the assertion that some studies have found the opposite effect.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=bed89b7a",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/5412bfb0764ec9b2361cf7d629c098b2/1-841025a0bfb7c7a6.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

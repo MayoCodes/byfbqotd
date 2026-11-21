@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eff9e2bc10a03ef77aa37bf5710b3c8a",
+  "capturedAt": "2026-11-21T00:12:23.931Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{p}{4} = q + 7r$$\n\nThe given equation relates the distinct positive numbers $p$, $q$, and $r$. Which equation correctly expresses $p$ in terms of $q$ and $r$?",
+  "choices": {
+    "A": "$p = q + 4(7r)$",
+    "B": "$p = 4q + 7r$",
+    "C": "$p = 4(q + 7r)$",
+    "D": "$p = \\frac{(q + 7r)}{4}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To solve for $p$, multiply both sides by $4$: $p = 4(q + 7r)$. The $4$ multiplies the entire right side of the equation.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=5f51bca4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

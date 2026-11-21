@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b6977e42c96ec5d7cf7836b442f4b5aa",
+  "capturedAt": "2026-11-21T00:12:48.592Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$\\frac{4}{3}(y - sqrt(3m + 1))(y + sqrt(3m + 1))(y - 6m) = 0$$\n\nFor the given equation, $m$ is a positive integer constant. The product of the solutions to this equation is $-480$. What is the value of $m$?",
+  "choices": {},
+  "correctAnswer": "$$5$$",
+  "explanation": "The equation equals zero when any factor equals zero, yielding three solutions: $y = \\sqrt{3m + 1}$, $y = -\\sqrt{3m + 1}$, and $y = 6m$. The product of the solutions is $\\sqrt{3m + 1} \\cdot (-\\sqrt{3m + 1}) \\cdot 6m = -(3m + 1) \\cdot 6m = -6m(3m + 1)$. Setting this equal to $-480$: $-6m(3m + 1) = -480$, which simplifies to $6m(3m + 1) = 480$. Expanding: $18m^2 + 6m = 480$, or $18m^2 + 6m - 480 = 0$. Dividing by $6$: $3m^2 + m - 80 = 0$. Factoring: $(3m + 16)(m - 5) = 0$, giving $m = -\\frac{16}{3}$ or $m = 5$. Since $m$ must be a positive integer, $m = 5$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=p12m2q17",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 17,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

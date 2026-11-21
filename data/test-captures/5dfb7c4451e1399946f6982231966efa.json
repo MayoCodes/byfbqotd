@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5dfb7c4451e1399946f6982231966efa",
+  "capturedAt": "2026-11-21T00:12:49.947Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Add or Subtract Rational Expressions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$\\frac{(12x^{2} - 7x + 5)}{(4x + 2)} = ax - 3 + \\frac{(bx + c)}{(4x + 2)}$$\n\nFor the equation above, $a$, $b$, and $c$ are integer constants. What is the value of $a + bc$?",
+  "choices": {},
+  "correctAnswer": "$$-8$$",
+  "explanation": "Multiply both sides by $(4x + 2)$: $12x^2 - 7x + 5 = (ax - 3)(4x + 2) + bx + c$. Expanding $(ax - 3)(4x + 2)$: $4ax^2 + 2ax - 12x - 6$. So $12x^2 - 7x + 5 = 4ax^2 + (2a - 12 + b)x + (-6 + c)$. Matching coefficients: For $x^2$: $12 = 4a$, giving $a = 3$. For $x$: $-7 = 2(3) - 12 + b = -6 + b$, giving $b = -1$. For the constant: $5 = -6 + c$, giving $c = 11$. Therefore, $a + bc = 3 + (-1)(11) = 3 - 11 = -8$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=7f2437b3",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

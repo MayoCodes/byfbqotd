@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2d377dc906238984e7b6a7c89cb1ce6f",
+  "capturedAt": "2026-11-21T00:12:43.333Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows three values of $x$ and their corresponding values of $y$. There is a quadratic relationship between $x$ and $y$. An equation that represents this relationship can be written as $y = 48x^{2} - bx - 60$, where $b$ is a constant. What is the value of $b$?",
+  "choices": {},
+  "correctAnswer": "$$228$$",
+  "explanation": "The correct answer is $228$. To find the value of $b$, substitute one of the given points into the equation $y = 48x^2 - bx - 60$ and solve for $b$. Using the point $(5, 0)$ is most convenient since $y = 0$ and $x$ is a simple integer. Substituting gives $0 = 48(5)^2 - b(5) - 60$. Evaluating the right side: $0 = 48(25) - 5b - 60$, so $0 = 1200 - 5b - 60$. Simplifying: $0 = 1140 - 5b$, which gives $5b = 1140$. Dividing both sides by $5$ yields $b = 228$. This value can be verified by checking that all three points in the table satisfy the equation $y = 48x^2 - 228x - 60$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=ab1a2e68",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/2d377dc906238984e7b6a7c89cb1ce6f/1-fa89a5ac3ee7203e.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

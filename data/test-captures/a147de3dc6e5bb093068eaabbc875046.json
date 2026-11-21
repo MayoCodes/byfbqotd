@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a147de3dc6e5bb093068eaabbc875046",
+  "capturedAt": "2026-11-21T00:12:29.670Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangle $PQR$ is similar to triangle $STU$, such that $P$, $Q$, and $R$ correspond to $S$, $T$, and $U$, respectively. The length of each side of triangle $STU$ is $3$ times the length of its corresponding side in triangle $PQR$. The measure of angle $P$ is $55^°$. What is the measure of angle $S$?",
+  "choices": {
+    "A": "$52^°$",
+    "B": "$55^°$",
+    "C": "$58^°$",
+    "D": "$165^°$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. When two polygons are similar, their corresponding angles are congruent regardless of the scale factor. The problem states that triangle $PQR$ is similar to triangle $STU$, with vertex $P$ corresponding to vertex $S$. The scale factor of $3$ affects only the side lengths, not the angle measures. Since angle $P$ measures $55^{\\circ}$ and angle $S$ corresponds to angle $P$, angle $S$ also measures $55^{\\circ}$. This is a fundamental property of similar figures: similarity preserves angle measures while scaling side lengths proportionally.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=6ba82daa",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 13,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

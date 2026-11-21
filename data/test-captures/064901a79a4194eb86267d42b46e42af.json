@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "064901a79a4194eb86267d42b46e42af",
+  "capturedAt": "2026-11-21T00:12:36.197Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A laboratory monitors the total mass of a bacterial culture after placing it in a nutrient-rich growth medium. According to the monitoring data, the estimated total mass of this bacterial culture at the end of every $4$-hour period is $156%$ greater than the estimated total mass of the culture at the end of the previous $4$-hour period, and the estimated total mass of the culture is $419.40$ grams after $12$ hours. Which equation best represents this model, where $M$ is the estimated total mass, in grams, of the bacterial culture after $t$ hours, and $t < 40$?",
+  "choices": {
+    "A": "$M = 110.50(1.56)^\\frac{t}{4}$",
+    "B": "$M = 110.50(2.56)^\\frac{t}{4}$",
+    "C": "$M = 25.00(2.56)^\\frac{t}{4}$",
+    "D": "$M = 268.80(1.56)^\\frac{t}{4}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. When a quantity increases by $156\\%$, the new quantity equals the original quantity multiplied by $(1 + 1.56) = 2.56$. Therefore, the growth factor is $2.56$, not $1.56$. For exponential growth occurring every $4$ hours, the model takes the form $M = M_0(2.56)^{\\frac{t}{4}}$, where $M_0$ is the initial mass and the exponent $\\frac{t}{4}$ represents the number of $4$-hour periods elapsed. To find $M_0$, use the given information that $M = 419.40$ grams when $t = 12$ hours. Substituting: $419.40 = M_0(2.56)^{\\frac{12}{4}} = M_0(2.56)^3$. Calculating $(2.56)^3 = 2.56 \\times 2.56 \\times 2.56 = 16.777216$. Therefore, $M_0 = \\frac{419.40}{16.777216} = 25.00$ grams. The equation is $M = 25.00(2.56)^{\\frac{t}{4}}$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=aebb95c8",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 22,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

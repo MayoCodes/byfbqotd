@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a92ab832e1adbcac42fa39274d9f95a2",
+  "capturedAt": "2026-11-21T00:12:12.655Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The painter Leonardo da Vinci, along with others such as Michelangelo and Raphael, ______ commonly associated with the Italian Renaissance, an influential group of painters and sculptors active in the 15th and 16th centuries who were interested in exploring humanist themes and classical ideas through their art.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "have been",
+    "B": "are",
+    "C": "is",
+    "D": "were"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is subject-verb agreement. The singular verb 'is' agrees in number with the singular subject 'The painter Leonardo da Vinci.' The intervening phrase 'along with others such as Michelangelo and Raphael' does not affect the number of the subject—it functions as a parenthetical element that provides additional information but does not create a compound subject. Additionally, the simple present tense 'is' is appropriate for describing the ongoing association between Leonardo da Vinci and the Italian Renaissance.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=8c303952",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 16,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

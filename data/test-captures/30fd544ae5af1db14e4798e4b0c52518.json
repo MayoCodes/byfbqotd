@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "30fd544ae5af1db14e4798e4b0c52518",
+  "capturedAt": "2026-11-21T00:12:25.950Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In right triangle $ABC$, angle $C$ is the right angle. If $A = \\frac{5}{(13)}$ and $BC = 10$, what is the length of $AB$?",
+  "choices": {
+    "A": "$24$",
+    "B": "$26$",
+    "C": "$12$",
+    "D": "$25$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In a right triangle, $\\sin A = \\frac{\\text{opposite}}{\\text{hypotenuse}} = \\frac{BC}{AB}$. Substituting: $\\frac{5}{13} = \\frac{10}{AB}$. Cross-multiplying: $5 \\cdot AB = 10 \\cdot 13 = 130$, so $AB = 26$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=11bac267",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

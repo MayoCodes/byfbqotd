@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4d5d5d7fd11aad99f3e44322e47de96c",
+  "capturedAt": "2026-11-21T00:12:13.326Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Today, the Pulitzer Prize is widely known as the arbiter of journalistic excellence, but when it was established in 1917, it was little more than a philanthropic gesture; newspaper magnate Joseph Pulitzer sought to elevate the profession of journalism by honoring outstanding work in reporting and writing. Nevertheless, the prize soon grew in scope and ______ its simple newspaper awards were replaced with some of the most esteemed honors from around the world, including recognition of To Kill a Mockingbird by Harper Lee and The Underground Railroad by Colson Whitehead.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "prestige",
+    "B": "prestige, and",
+    "C": "prestige,",
+    "D": "prestige and"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it correctly joins two independent clauses with a comma and coordinating conjunction. The sentence contains two complete thoughts: 'the prize soon grew in scope and prestige' (subject: 'prize,' verb: 'grew') and 'its simple newspaper awards were replaced with some of the most esteemed honors' (subject: 'awards,' verb: 'were replaced'). When independent clauses are connected by the coordinating conjunction 'and,' Standard English requires a comma before the conjunction to properly signal the sentence boundary.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=089912f3",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 17,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

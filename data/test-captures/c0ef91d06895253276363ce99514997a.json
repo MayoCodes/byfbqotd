@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c0ef91d06895253276363ce99514997a",
+  "capturedAt": "2026-11-21T00:12:31.173Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio Solve for Side",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn right triangle $DEF$, the tangent of $F$ is $\\frac{5}{(12)}$. What is the length of $DE$? Note: Figure not drawn to scale.",
+  "choices": {
+    "A": "$25$",
+    "B": "$\\frac{(39)}{4}$",
+    "C": "$\\frac{(25)}{4}$",
+    "D": "$60$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct answer is A. In a right triangle, the tangent of an angle equals the ratio of the length of the side opposite the angle to the length of the side adjacent to the angle. In right triangle $DEF$ with the right angle at $E$, the tangent of $\\angle F$ is $\\frac{DE}{EF}$. Since $\\tan(F) = \\frac{5}{12}$, the ratio $\\frac{DE}{EF} = \\frac{5}{12}$. This means $DE = 5k$ and $EF = 12k$ for some positive constant $k$. By the Pythagorean theorem, $DE^2 + EF^2 = DF^2$. Substituting: $(5k)^2 + (12k)^2 = 65^2$, which gives $25k^2 + 144k^2 = 4225$, so $169k^2 = 4225$. Solving for $k$: $k^2 = 25$, thus $k = 5$. Therefore, $DE = 5k = 5(5) = 25$.\n\nChoice B is incorrect. This fractional value may result from an incorrect application of the relationship between the tangent ratio and the hypotenuse. The correct method involves recognizing that the $5$-$12$-$13$ ratio scales to the triangle with hypotenuse $65$, yielding integer side lengths.\n\nChoice C is incorrect. This result may come from incorrectly manipulating the tangent ratio or dividing the correct answer by an erroneous factor. The correct approach requires using the Pythagorean theorem with the tangent ratio to find that $DE = 25$, not $\\frac{25}{4}$.\n\nChoice D is incorrect and may result from finding the length of $\\overline{EF}$ instead of $\\overline{DE}$. The tangent of $\\angle F$ equals $\\frac{DE}{EF}$, so $DE$ is the side opposite $\\angle F$, which equals $5k = 25$, not the adjacent side $EF = 12k = 60$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=9cc86099",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/c0ef91d06895253276363ce99514997a/1-e1d232b2f87906cb.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

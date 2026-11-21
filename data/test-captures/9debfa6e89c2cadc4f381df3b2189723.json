@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9debfa6e89c2cadc4f381df3b2189723",
+  "capturedAt": "2026-11-21T00:11:53.140Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Challenges Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Hypothesizing that classical music, characterized by its complex harmonic structure, universally promotes plant growth, Sofia Lindqvist and colleagues played a piece performed in the Mandarin language tradition and a white noise track with similar volume and duration to a group of tomato plants. The team found that the plants' stem elongation rates increased more during the classical music than during the white noise. Since increased stem elongation is associated with growth hormone activation, the team concluded that the classical music stimulated growth. Noting that increased stem elongation can also be associated with mechanical stress responses, one critic argues that instead, the music simply triggered a vibration response. Lindqvist and colleagues also measured stomatal aperture, as these leaf pores typically become larger when a stimulus triggers mechanical stress.",
+  "prompt": "Which finding, if true, would most directly weaken the critic's claim?",
+  "choices": {
+    "A": "Horticulturists in the study chose the classical music over the white noise when asked which sound they would use to promote plant growth.",
+    "B": "Neither the Mandarin language tradition nor the specific melody of the classical piece was previously used in studies of plant responses.",
+    "C": "The plants' stomata were larger when the plants were exposed to classical music than when they were exposed to white noise.",
+    "D": "Stomatal aperture, which indicates mechanical stress, was equally large whether plants were exposed to the classical music or to the white noise."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it provides evidence that directly contradicts the critic's alternative explanation. The critic argues that increased stem elongation was due to mechanical stress response from vibrations rather than growth hormone activation. The passage establishes that stomatal aperture 'typically become larger when a stimulus triggers mechanical stress,' identifying stomatal size as an indicator of mechanical stress. If stomatal aperture was equally large for both classical music and white noise, the mechanical stress response was the same in both conditions—yet stem elongation was greater during classical music. This undermines the critic's claim because the measurement specifically associated with mechanical stress did not differ between conditions, even though stem elongation did. Therefore, increased stem elongation cannot be explained by the mechanical stress mechanism the critic proposes.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=6746972f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 15,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

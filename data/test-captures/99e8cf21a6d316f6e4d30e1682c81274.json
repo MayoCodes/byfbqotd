@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99e8cf21a6d316f6e4d30e1682c81274",
+  "capturedAt": "2026-11-21T00:12:37.524Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $3x^{2}y^{3} - 2xy^{2} + 5x^{2}y^{3} - 4x^{3}y^{2} + 2xy^{2}$?",
+  "choices": {
+    "A": "$4x^{2}y^{2}(2y - x)$",
+    "B": "$4x^{2}y^{2}(2y + x)$",
+    "C": "$4xy^{2}(2xy - x^{2} - 1)$",
+    "D": "$4x^{2}y^{2}(2xy - 1)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct answer is A. First, combine like terms in the expression $3x^2y^3 - 2xy^2 + 5x^2y^3 - 4x^3y^2 + 2xy^2$. The terms $3x^2y^3$ and $5x^2y^3$ combine to give $8x^2y^3$. The terms $-2xy^2$ and $2xy^2$ cancel to give $0$. The term $-4x^3y^2$ has no like terms. This simplifies to $8x^2y^3 - 4x^3y^2$. To factor, identify the greatest common factor (GCF) of both terms: $\\gcd(8, 4) = 4$, and the common variable factors are $x^2$ and $y^2$. Factoring out $4x^2y^2$ gives $4x^2y^2(2y - x)$.\n\nChoice B is incorrect and may result from a sign error when factoring. After correctly simplifying to $8x^2y^3 - 4x^3y^2$ and factoring out $4x^2y^2$, the student may have written $(2y + x)$ instead of $(2y - x)$, failing to account for the negative sign on the $-4x^3y^2$ term.\n\nChoice C is incorrect and may result from failing to recognize that $-2xy^2$ and $2xy^2$ cancel to zero. A student might incorrectly keep both terms and factor out $4xy^2$ from the expression, yielding an incorrect form.\n\nChoice D is incorrect and may result from errors in both combining like terms and factoring. A student might incorrectly simplify the expression or misidentify the greatest common factor, leading to an expression that doesn't match the original when expanded.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=7a34d800",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

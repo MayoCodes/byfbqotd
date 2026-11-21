@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "63f9faa15f1827857ac9882767b27f2c",
+  "capturedAt": "2026-11-21T00:12:23.086Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nFor certain vehicle speeds, the table gives fuel efficiency values for two different cargo loads. According to the table, what is the fuel efficiency, in miles per gallon (mpg), when the vehicle speed is $45$ mph and the cargo load is $500$ pounds?",
+  "choices": {},
+  "correctAnswer": "$$28$$",
+  "explanation": "The correct answer is $28$. The table presents fuel efficiency data organized by vehicle speed (rows) and cargo load (columns). To find the fuel efficiency when the vehicle speed is $45$ mph and the cargo load is $500$ pounds, locate the row corresponding to $45$ mph and the column corresponding to $500$ pounds load. The intersection of this row and column shows a fuel efficiency of $28$ miles per gallon.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=c3b7ca3c",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/63f9faa15f1827857ac9882767b27f2c/1-b4d6fb7378ed5658.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

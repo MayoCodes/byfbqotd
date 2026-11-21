@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "205165959ff0ce43a881349993b14b4e",
+  "capturedAt": "2026-11-21T00:12:27.966Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nLine $p$ is shown in the $xy$-plane. Line $q$ (not shown) is perpendicular to line $p$ and passes through the point $(4, 8)$. Which equation defines line $q$?",
+  "choices": {
+    "A": "$y = -\\frac{3}{2}x + 14$",
+    "B": "$y = -\\frac{3}{2}x + 2$",
+    "C": "$y = \\frac{3}{2}x + 2$",
+    "D": "$y = \\frac{3}{2}x + 14$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. From the graph, line $p$ passes through the points $(0, -2)$ and $(3, 0)$. The slope of line $p$ is $\\frac{0 - (-2)}{3 - 0} = \\frac{2}{3}$. Perpendicular lines have slopes that are negative reciprocals of each other. Therefore, the slope of line $q$ is $-\\frac{3}{2}$. Using the point-slope form with the point $(4, 8)$: $y - 8 = -\\frac{3}{2}(x - 4)$. Distributing: $y - 8 = -\\frac{3}{2}x + 6$. Adding $8$ to both sides: $y = -\\frac{3}{2}x + 14$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=6409b945",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/205165959ff0ce43a881349993b14b4e/1-446b999a30562a2e.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 11,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

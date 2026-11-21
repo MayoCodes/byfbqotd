@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3069fb548d8a9fe70b1e6782d4a83001",
+  "capturedAt": "2026-11-21T00:12:46.281Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Radical Equation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $sqrt(n + 4) + sqrt(n - 3) = 7$, what is the value of $(n - 3)$?",
+  "choices": {
+    "A": "$3$",
+    "B": "$9$",
+    "C": "$12$",
+    "D": "$16$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Let $a = \\sqrt{n + 4}$ and $b = \\sqrt{n - 3}$. From the equation, $a + b = 7$. Notice that $a^2 - b^2 = (n + 4) - (n - 3) = 7$. Using the difference of squares: $(a + b)(a - b) = 7$, so $7(a - b) = 7$, giving $a - b = 1$. Solving the system $a + b = 7$ and $a - b = 1$: adding gives $2a = 8$, so $a = 4$; subtracting gives $2b = 6$, so $b = 3$. Since $b = \\sqrt{n - 3} = 3$, squaring both sides gives $n - 3 = 9$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=fd0ca216",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9eeee6f514e395aae17d483af3d4906a",
+  "capturedAt": "2026-11-21T00:12:31.971Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = (6(x-3)(x+2)(4x+c))/((x+8)(x+c))$$\n\nIn the $xy$-plane, the graph of the given equation, where $c$ is a constant, does not have a $y$-intercept. What is the value of $c$?",
+  "choices": {
+    "A": "$-8$",
+    "B": "$-2$",
+    "C": "$0$",
+    "D": "$3$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The correct answer is C. A function has a $y$-intercept when you can evaluate it at $x = 0$. For a rational function, the function is undefined (and thus has no $y$-intercept) when $x = 0$ makes the denominator equal to zero. The denominator of the given function is $(x+8)(x+c)$. Substituting $x = 0$ into the denominator gives $(0+8)(0+c) = 8c$. For the graph to have no $y$-intercept, the denominator must equal zero when $x = 0$, so $8c = 0$. Dividing both sides by $8$ gives $c = 0$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=cc3f07c0",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

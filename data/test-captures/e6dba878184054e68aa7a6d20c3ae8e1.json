@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e6dba878184054e68aa7a6d20c3ae8e1",
+  "capturedAt": "2026-11-21T00:11:57.139Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In contrast, Springfield Central Library, which ______ located in Springfield, Illinois, experienced a steady rise in circulated books over the same time period, from 342,156 total books to 487,293.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is subject-verb agreement. The singular verb 'is' agrees in number with the singular subject 'Springfield Central Library.' Additionally, the present tense is appropriate because the relative clause 'which is located in Springfield, Illinois' describes the library's current location, which is an ongoing, permanent fact. Even though the main clause uses past tense to describe historical circulation data, the location itself remains a present reality requiring present tense.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=7ed4387b",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 21,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

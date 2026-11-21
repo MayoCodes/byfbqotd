@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "81b69fc580e7ea8a9cd06b44da84bb45",
+  "capturedAt": "2026-11-21T00:12:08.997Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nPopulation figures for a city can vary substantially depending on what areas are included in the count. Often, governments will report a value for the core city (including only residents within the municipal boundaries) and another for the larger metropolitan region (including residents from nearby places beyond the municipal boundaries). Citing the data in the table, an urban researcher claims the population estimates from the World Bank most likely included people outside the core cities.",
+  "prompt": "Which choice best describes data in the table that support the researcher's claim?",
+  "choices": {
+    "A": "The World Bank estimated Lagos's population to be 9,875,000, which is significantly larger than the reported population for the core city.",
+    "B": "The metropolitan region of Berlin is significantly larger than 2,845 square kilometers.",
+    "C": "The reported core city population of Lagos is significantly larger than the reported core city population of Sydney.",
+    "D": "All the core city areas are below 3,500 square kilometers."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it provides data that directly supports the researcher's claim about World Bank estimation methodology. The table shows the World Bank estimated Lagos's population at 9,875,000 while the reported core city population was only 6,241,000—a difference of approximately 3.6 million people. This substantial gap indicates that the World Bank estimate must have included people beyond the core city boundaries, since the core city figure accounts for only residents within municipal boundaries. This comparison of World Bank estimates to core city populations for the same location is exactly the type of evidence needed to support the claim.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=1bdb0b67",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/81b69fc580e7ea8a9cd06b44da84bb45/1-4346e4f07b9f436a.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 11,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

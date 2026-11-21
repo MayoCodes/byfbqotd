@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "34894e2fcfe571f98454aa820a904901",
+  "capturedAt": "2026-11-21T00:12:39.789Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$q(a + 5) = 3a(a + 5) - (a + 5)^{2}$$\n\nIn the given equation, $q$ is a positive constant. The sum of solutions to the given equation is $12$. What is the value of $q$?",
+  "choices": {},
+  "correctAnswer": "$$29$$",
+  "explanation": "The correct answer is $29$. Let $u = a + 5$. Then $qu = 3(u-5)u - u^2 = 3u^2 - 15u - u^2 = 2u^2 - 15u$. Rearranging: $2u^2 - 15u - qu = 0$, so $u(2u - 15 - q) = 0$. This gives $u = 0$ or $u = \\frac{15 + q}{2}$. Converting back: $a = -5$ or $a = \\frac{5 + q}{2}$. The sum of solutions is $-5 + \\frac{5 + q}{2} = 12$. Solving: $\\frac{5 + q}{2} = 17$, so $5 + q = 34$, giving $q = 29$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=005b3d53",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

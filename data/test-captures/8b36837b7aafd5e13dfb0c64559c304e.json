@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8b36837b7aafd5e13dfb0c64559c304e",
+  "capturedAt": "2026-11-21T00:11:53.810Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Social Science/History",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In the late 20th century, American universities were classified based on research output. The system considered the number of a university's annual research publications and the size of its faculty. \"Tier 1\" was the highest classification, and \"Tier 5\" was the lowest classification, followed by unclassified institutions. This classification determined the level of a university's research funding: Tier 1 universities received between $15 million and $18 million annually, while lower-classified universities received less. Two of the universities in this classification system from this period were Northwestern University (125 publications and 450 faculty members) and Stanford University (180 publications and 450 faculty members). Of these two, only Stanford University was classified as Tier 1. It can therefore be concluded that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "not all universities with 450 faculty members were classified as Tier 1 universities.",
+    "B": "all universities with at least 125 publications were classified as Tier 1 universities.",
+    "C": "Stanford University needed funding greater than $18 million annually in order to operate efficiently.",
+    "D": "Northwestern University received between $15 million and $18 million in annual research funding."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most logically completes the text's discussion of university classifications. The text establishes that both Northwestern and Stanford have exactly 450 faculty members, yet the text states that 'only Stanford University was classified as Tier 1.' This provides a clear counterexample: Northwestern had 450 faculty members but was not Tier 1. Therefore, having 450 faculty members alone was not sufficient for Tier 1 classification, proving that not all universities with this faculty size received the highest classification.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=c0b04236",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 16,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

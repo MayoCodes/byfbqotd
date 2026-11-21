@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b7669c8982d2df82275a23abaf383e34",
+  "capturedAt": "2026-11-21T00:12:22.276Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nIf one of these books is selected at random, what is the probability of selecting a book that is Fiction?",
+  "choices": {
+    "A": "$\\frac{(15)}{(28)}$",
+    "B": "$\\frac{(15)}{(42)}$",
+    "C": "$\\frac{(15)}{(70)}$",
+    "D": "$\\frac{(15)}{(85)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The correct answer is D. The probability of an event is calculated by dividing the number of favorable outcomes by the total number of possible outcomes. The frequency table shows that there are $15$ Fiction books, and the total number of books is $15 + 42 + 28 = 85$. Therefore, the probability of randomly selecting a Fiction book is $\\frac{15}{85}$.\n\nChoice A is incorrect because it uses the Reference frequency ($28$) as the denominator instead of the total number of books.\n\nChoice B is incorrect because it uses the Nonfiction frequency ($42$) as the denominator instead of the total number of books.\n\nChoice C is incorrect because the denominator $70$ equals the sum of Nonfiction and Reference books ($42 + 28 = 70$), which represents all non-Fiction books. The probability denominator must be the total number of all books in the collection, which is $85$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=3c20d81d",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b7669c8982d2df82275a23abaf383e34/1-8018e79229d9be03.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

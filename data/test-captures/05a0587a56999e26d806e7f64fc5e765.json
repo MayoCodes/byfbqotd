@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "05a0587a56999e26d806e7f64fc5e765",
+  "capturedAt": "2026-11-21T00:12:33.303Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nFor the linear function $g$, the table shows three values of $x$ and their corresponding values of $g(x)$. Function $g$ is defined by $g(x) = ax + b$, where $a$ and $b$ are constants. What is the value of $ab$?",
+  "choices": {},
+  "correctAnswer": "$$126$$",
+  "explanation": "The correct answer is $126$. To find the value of $ab$, we first need to determine the constants $a$ and $b$ in the function $g(x) = ax + b$ using the given table values. Selecting the points $(-6, 24)$ and $(6, -60)$ from the table, we substitute into the function form. For $x = -6$: $24 = a(-6) + b$, which gives $-6a + b = 24$. For $x = 6$: $-60 = a(6) + b$, which gives $6a + b = -60$. Subtracting the first equation from the second: $(6a + b) - (-6a + b) = -60 - 24$, so $12a = -84$, giving $a = -7$. Substituting $a = -7$ into the first equation: $-6(-7) + b = 24$, so $42 + b = 24$, giving $b = -18$. We can verify this with the third point: $g(18) = -7(18) + (-18) = -126 - 18 = -144$. Therefore, $ab = (-7)(-18) = 126$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=b22a305a",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/05a0587a56999e26d806e7f64fc5e765/1-dfd415cdbfda7ca3.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7c865c8c15c4d1c785299b0a25f1b135",
+  "capturedAt": "2026-11-21T00:12:47.687Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the number of book checkouts observed at a library over a number of days. The data value $23$ was recorded in error and is removed from data set A to create data set B, which consists of the remaining $20$ data values. Which statement best compares the median of data set A and the median of data set B?",
+  "choices": {
+    "A": "The median of data set B is less than the median of data set A.",
+    "B": "The median of data set B is equal to the median of data set A.",
+    "C": "The median of data set B is greater than the median of data set A.",
+    "D": "There is not enough information to compare the medians of the two data sets."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Data set A consists of $21$ data values. The median of a data set with an odd number of values is the middle value when the values are listed in order. The middle value of $21$ values is the $\\frac{21 + 1}{2}$, or $11$th, value. Based on the table, the $11$th value of data set A is $3$. Data set B consists of the remaining $20$ data values after removing the value $23$. The median of a data set with an even number of values is the mean of the two middle values. The two middle values of $20$ values are the $\\frac{20}{2}$, or $10$th, and the $\\frac{20}{2} + 1$, or $11$th, values. Based on the table, both the $10$th and $11$th values of data set B are $3$. The mean of these two values is $\\frac{3 + 3}{2} = 3$. Therefore, the median of both data sets is $3$, so the medians are equal.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=e42314b3",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/7c865c8c15c4d1c785299b0a25f1b135/1-2aab0f2c99a0f56b.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

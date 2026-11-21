@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c97c4e9e77ab44fb9c1c46ce5021c883",
+  "capturedAt": "2026-11-21T00:12:32.624Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Unit Conversion",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the ancient Egyptian measurement system, a cubit was a unit of length that was equal to $6,400$ digits. In this measurement system, how many digits were equivalent to $4.5$ cubits?",
+  "choices": {},
+  "correctAnswer": "$$28800$$",
+  "explanation": "The correct answer is $28{,}800$. To find how many digits are equivalent to $4.5$ cubits, multiply the number of cubits by the conversion factor. Since $1$ cubit equals $6{,}400$ digits, $4.5$ cubits equals $4.5 \\times 6{,}400$ digits. Calculating this product: $6{,}400 \\times 4.5 = 6{,}400 \\times (4 + 0.5) = (6{,}400 \\times 4) + (6{,}400 \\times 0.5) = 25{,}600 + 3{,}200 = 28{,}800$. Therefore, $4.5$ cubits were equivalent to $28{,}800$ digits in the ancient Egyptian measurement system.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=fa92247e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 17,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

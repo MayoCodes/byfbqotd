@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a42456689a767f3422bef74f3a19c3b3",
+  "capturedAt": "2026-11-21T00:11:59.755Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Spinach is a vegetable that contains ferrous iron, an essential nutrient for humans.\n• Every 100 grams (g) of spinach contains 2.7 milligrams (mg) of ferrous iron.\n• Vitamin C can significantly enhance the body's absorption of ferrous iron from plant sources.\n• Humans must obtain ferrous iron from dietary sources, including vegetables and fortified foods.\n• Ferrous iron is also known as iron.",
+  "prompt": "The student wants to specify how much iron is in spinach. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "There is 2.7 mg of iron in every 100 g of spinach.",
+    "B": "Vitamin C can significantly enhance the body's absorption of ferrous iron, which is also known as iron, from plant sources.",
+    "C": "Since humans must obtain iron from dietary sources, they must get this essential nutrient from foods like spinach.",
+    "D": "Spinach contains iron, which humans must obtain from food."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it directly accomplishes the goal of specifying how much iron is in spinach. The question explicitly asks the student to 'specify how much,' which requires providing a quantitative measurement. Choice A does exactly this by stating the precise amount from the notes: '2.7 mg of iron in every 100 g of spinach.' This numerical specification effectively communicates the iron content in measurable terms, giving readers concrete information about the quantity of this essential nutrient in spinach.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=bdd06a2f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 25,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

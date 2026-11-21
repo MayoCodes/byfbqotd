@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "08d6ae215014a1a8a5d03674daf59e1d",
+  "capturedAt": "2026-11-21T00:12:36.852Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A rental agency requires a security deposit between $\\frac{1}{(600)}$ and $\\frac{1}{(450)}$ of the annual rent for an apartment. If the annual rent for an apartment is $$54,000$, which inequality best represents the required security deposit $d$, in dollars?",
+  "choices": {
+    "A": "$$90$ $\\le d \\le$ $$120$",
+    "B": "$$9$ $\\le d \\le$ $$12$",
+    "C": "$$900$ $\\le d \\le$ $$1,200$",
+    "D": "$$9,000$ $\\le d \\le$ $$12,000$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct answer is A. The security deposit must be between $\\frac{1}{600}$ and $\\frac{1}{450}$ of the annual rent of $54,000. To find the lower bound, calculate $\\frac{54{,}000}{600}$. Dividing gives $\\frac{54{,}000}{600} = 90$ dollars. To find the upper bound, calculate $\\frac{54{,}000}{450}$. Dividing gives $\\frac{54{,}000}{450} = 120$ dollars. Therefore, the security deposit must satisfy $$90$ $\\leq d \\leq$ $$120$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=9c764910",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bcc6eeab698966e3acaa6e197eea98bb",
+  "capturedAt": "2026-11-21T00:12:10.000Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The Biodiversity and Ecosystem Assessment Cooperative Network (BEACON) seeks to discover long-term effects of climate change on marine ecosystems by compiling and analyzing evidence from approximately 450 monitoring sites in ocean regions worldwide. As with most longitudinal studies, extensive funding support is needed for BEACON to collect the relevant data over timescales and at intervals that will support robust conclusions. But the quality of a more constrained investigation, such as a marine biology study seeking only to yield the current biodiversity index of a specific coral reef system, is much less dependent on high levels of funding because ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "such studies are likely to be a lower priority for funding than BEACON.",
+    "B": "the marine biology study is unlikely to be able to establish 450 monitoring sites.",
+    "C": "expanding the scope of such studies is unlikely to be feasible.",
+    "D": "such studies are not trying to identify trends over time."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it logically explains why the constrained study requires less funding to maintain quality. The passage emphasizes that BEACON needs extensive funding to 'collect the relevant data over timescales and at intervals'—the temporal dimension drives costs. The marine biology study seeks 'only to yield the current biodiversity index,' meaning a single measurement at one point in time. Choice D directly addresses this causal relationship: studies 'not trying to identify trends over time' don't require sustained monitoring and repeated data collection, eliminating the primary cost driver of longitudinal research.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=da387961",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 12,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

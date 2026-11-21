@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6e83cf660a6f198275b808b3f124a329",
+  "capturedAt": "2026-11-21T00:12:15.982Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "After finding information about Maria Goeppert Mayer, an American physicist who won the Nobel Prize in Physics, the researcher discovered biographical information about two other women who won this prestigious ______ Donna Strickland of Canada and Andrea Ghez of the United States.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "award:",
+    "B": "award;",
+    "C": "award",
+    "D": "award."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the use of punctuation to introduce a list of specific examples. A colon is the appropriate punctuation to introduce a list after an independent clause that anticipates what follows. The phrase 'two other women who won this prestigious award' creates a clear expectation that specific names will be provided, and the colon properly signals that the concrete examples follow.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=a90f0121",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 21,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db91c42393f9b4a2bebd441667aa4388",
+  "capturedAt": "2026-11-21T00:12:42.653Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{2}{3}(6x - 9) = (c + 2)x + 2c - 10$$\n\nIn the given equation, $c$ is a constant. The equation has infinitely many solutions. What is the value of $c$?",
+  "choices": {
+    "A": "$-2$",
+    "B": "$4$",
+    "C": "$-6$",
+    "D": "$2$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. For an equation to have infinitely many solutions, both sides must simplify to identical expressions. First, expand the left side: $\\frac{2}{3}(6x - 9) = \\frac{2}{3} \\cdot 6x - \\frac{2}{3} \\cdot 9 = 4x - 6$. The right side is $(c + 2)x + 2c - 10$. For the expressions to be identical, set the coefficients of $x$ equal: $c + 2 = 4$, which gives $c = 2$. Verify with the constant terms: $2c - 10 = 2(2) - 10 = 4 - 10 = -6$, which matches the left side constant of $-6$. Therefore, $c = 2$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=99c32b1b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 9,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

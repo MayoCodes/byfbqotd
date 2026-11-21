@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8c1f1d8fc0223e39d5ef132e2e16d358",
+  "capturedAt": "2026-11-21T00:12:06.447Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The fish species Ecsenius bicolor (the bicolor blenny), which occupies coral crevices and feeds among structurally complex substrates, and Chromis viridis (the blue-green chromis), which feeds in open water above the reef, share habitat in Indonesian coral reefs with Pomacentrus amboinensis (the Ambon damselfish), which releases a chemical alarm cue when it detects predators. Biologist Dr. Kenji Yamamoto and colleagues, who studied the ecological community the species share, hypothesized that there is an inverse relationship between fishes' field of vision while feeding and their sensitivity to alarm cues from neighboring species.",
+  "prompt": "Which finding, if true, would most directly support Yamamoto and colleagues' hypothesis?",
+  "choices": {
+    "A": "When Yamamoto and colleagues released P. amboinensis alarm cues, E. bicolor and C. viridis displayed no reaction, whereas P. amboinensis displayed predator-avoidance behavior.",
+    "B": "Many local fish species with similar feeding habits to those of E. bicolor displayed no reaction when Yamamoto and colleagues released P. amboinensis alarm cues, whereas E. bicolor displayed predator-avoidance behavior.",
+    "C": "Some individuals of C. viridis displayed predator-avoidance behavior when Yamamoto and colleagues released P. amboinensis alarm cues, whereas nearly all did when E. bicolor alarm cues were released.",
+    "D": "C. viridis displayed no reaction when Yamamoto and colleagues released P. amboinensis alarm cues, whereas E. bicolor displayed predator-avoidance behavior in response to the cues."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it demonstrates the predicted inverse relationship between field of vision and alarm sensitivity. C. viridis, which feeds in open water with a wide field of vision, displayed no reaction to alarm cues, whereas E. bicolor, which occupies coral crevices with a restricted field of vision, displayed predator-avoidance behavior. This pattern directly supports Yamamoto and colleagues' hypothesis that as field of vision decreases, sensitivity to alarm cues from neighboring species increases.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=35310321",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 8,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

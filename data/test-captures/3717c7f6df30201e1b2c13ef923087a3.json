@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3717c7f6df30201e1b2c13ef923087a3",
+  "capturedAt": "2026-11-21T00:12:25.282Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A drama club is selling candles for a fundraiser. They use the function $P(x) = 6x - 180$ to determine their profit $P(x)$, in dollars, for selling $x$ candles. In order to earn a profit of $900$, how many candles must they sell?",
+  "choices": {},
+  "correctAnswer": "$$180$$",
+  "explanation": "The correct answer is $180$. To find the number of candles needed to earn a profit of $900$ dollars, substitute $900$ for $P(x)$ in the given function: $900 = 6x - 180$. Adding $180$ to both sides of the equation gives $900 + 180 = 6x$, which simplifies to $1080 = 6x$. Dividing both sides by $6$ yields $x = \\frac{1080}{6} = 180$. Therefore, the drama club must sell $180$ candles to earn a profit of $900$ dollars.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=p12m1q07",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

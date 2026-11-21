@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bf382ca24cedcc35e2c5440b4916e318",
+  "capturedAt": "2026-11-21T00:12:24.603Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g$ is defined by $g(x) = 3|x|$. What is the value of $g(-7)$?",
+  "choices": {
+    "A": "$21$",
+    "B": "$4$",
+    "C": "$10$",
+    "D": "$-21$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To evaluate $g(-7)$, substitute $x = -7$ into the function definition $g(x) = 3|x|$, which gives $g(-7) = 3|-7|$. The absolute value of $-7$ is $|-7| = 7$, since absolute value converts any negative number to its positive counterpart. Therefore, $g(-7) = 3(7) = 21$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=p12m1q06",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

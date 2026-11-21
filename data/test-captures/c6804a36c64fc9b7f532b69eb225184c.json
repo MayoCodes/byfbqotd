@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c6804a36c64fc9b7f532b69eb225184c",
+  "capturedAt": "2026-11-21T00:12:18.649Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Emphasis or Support",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Built at a scale of 1:12, the Statue of Liberty in Tokyo, Japan, is one of many replicas of the famous Statue of Liberty in New York City, USA. ______ statues like the Estatua de la Libertad in San Salvador, El Salvador, though not exact replicas, pay homage to Liberty's iconic torch-and-crown design.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "On the contrary,",
+    "B": "Consequently,",
+    "C": "Moreover,",
+    "D": "Invariably,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because 'moreover' logically signals an additive relationship between the two sentences. The first sentence establishes that exact replicas of the Statue of Liberty exist worldwide, mentioning Tokyo's 1:12 scale replica as one of many. The second sentence expands this discussion by introducing another category of tributes: statues that, 'though not exact replicas,' still honor Liberty's design through the 'iconic torch-and-crown' motif. 'Moreover' appropriately introduces this additional type of homage, moving from exact replicas to inspired designs while maintaining the overall theme of global tributes to the original statue.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=bdd00a80",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 25,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

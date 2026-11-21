@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0ae0aebc37aa816b09647c57be5b4747",
+  "capturedAt": "2026-11-21T00:11:50.705Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nOne student is writing an essay about four bridges for a civil engineering class and wants to indicate when each bridge was built. Consulting the table, the student finds that the Brooklyn Bridge was built in ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the text?",
+  "choices": {
+    "A": "1992 to 1998.",
+    "B": "1870 to 1937.",
+    "C": "1336 to 1345.",
+    "D": "1883."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accurately reports the data from the table for the Brooklyn Bridge. The table's third row clearly shows that the Brooklyn Bridge was built in 1883, making this the only choice that correctly completes the sentence with the appropriate data. Unlike the other bridges listed, which show construction periods spanning multiple years, the Brooklyn Bridge has a single year listed, which Choice D correctly provides.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=a584510f",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/0ae0aebc37aa816b09647c57be5b4747/1-c3359cc7d197ac03.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 12,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

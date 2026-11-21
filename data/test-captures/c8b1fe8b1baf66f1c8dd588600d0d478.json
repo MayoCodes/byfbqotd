@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c8b1fe8b1baf66f1c8dd588600d0d478",
+  "capturedAt": "2026-11-21T00:12:11.340Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Previous research has shown that fish species with a narrow geographical range tend to be more genetically homogeneous than fish species with extensive ranges are. Based on these findings, researchers recently ran simulations to predict how the genetic variation of several species of Amphiprion, a genus of clownfish found throughout the Indo-Pacific region, might change in different distribution conditions. One of these species, A. chrysogaster, is found only on the reefs surrounding Mauritius. The researchers simulated what would happen if A. chrysogaster spread to new reef systems beyond Mauritius, and, consistent with previous findings, the results showed that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "several other Amphiprion species could survive on Mauritius reefs in the future.",
+    "B": "Amphiprion species other than A. chrysogaster would become more common on Mauritius reefs.",
+    "C": "there was a gradual increase in the genetic homogeneity of Amphiprion species on islands neighboring Mauritius.",
+    "D": "the genetic homogeneity of A. chrysogaster decreased over time."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most logically completes the text by applying the established scientific principle to the simulation results. The passage states that fish species with narrow geographical ranges 'tend to be more genetically homogeneous' than species with extensive ranges, establishing an inverse relationship between range size and genetic diversity. A. chrysogaster 'is found only on the reefs surrounding Mauritius,' identifying it as a narrow-range species with high genetic homogeneity. The simulation tested what would happen if this species 'spread to new reef systems beyond Mauritius,' transforming it into an extensive-range species. Since the results were 'consistent with previous findings,' the outcome must align with the principle: as geographical range increases, genetic homogeneity decreases.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=6de5b5ee",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 14,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

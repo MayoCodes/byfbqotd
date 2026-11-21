@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "244a1752c68ab08e7aea5e633583f879",
+  "capturedAt": "2026-11-21T00:12:51.498Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar Triangles - Proportional Sides",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In $ABC$, $C$ is a right angle, point $M$ lies on $AB$, point $N$ lies on $BC$, and $MN$ is parallel to $AC$. If the length of $AC$ is $45$ units, the length of $MN$ is $15$ units, and the area of $ABC$ is $180$ square units, what is the length of $NC$, in units?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{16}{3},5.333$$",
+  "explanation": "The correct answer is $\\frac{16}{3}$. First, find the length of $\\overline{BC}$ using the area formula for a right triangle. Since $\\angle C$ is a right angle, the legs of the triangle are $\\overline{AC}$ and $\\overline{BC}$. The area is $\\frac{1}{2} \\cdot AC \\cdot BC = 180$. Substituting $AC = 45$: $\\frac{1}{2} \\cdot 45 \\cdot BC = 180$, which gives $22.5 \\cdot BC = 180$, so $BC = 8$ units. Since $\\overline{MN}$ is parallel to $\\overline{AC}$, triangles $BMN$ and $BAC$ are similar by the AA similarity criterion (they share angle $B$, and the parallel lines create congruent corresponding angles). The ratio of corresponding sides is $\\frac{MN}{AC} = \\frac{15}{45} = \\frac{1}{3}$. By similarity, $\\frac{BN}{BC} = \\frac{1}{3}$, so $BN = \\frac{1}{3} \\cdot 8 = \\frac{8}{3}$ units. Therefore, $NC = BC - BN = 8 - \\frac{8}{3} = \\frac{24}{3} - \\frac{8}{3} = \\frac{16}{3}$ units. Note that 16/3 and 5.333 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=3650e7ff",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 21,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

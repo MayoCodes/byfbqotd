@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "abfe968c18f2e77ec8f1d63004c7c5a8",
+  "capturedAt": "2026-11-21T00:12:15.315Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Period Between Sentences",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Ecologist Daniel Kowalski serves on the advisory board tasked with designating new areas for the Colorado Registry of Protected Wilderness Areas, which includes the Fossil Creek Trail, established in 1918, and the Marble Peak Overlook, established in 1912. Kowalski doesn't make such decisions single-handedly, ______ environmental protections must be approved by a group of seven other experts.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "however. All",
+    "B": "however and all",
+    "C": "however all",
+    "D": "however, all"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it correctly separates two independent clauses with proper punctuation and capitalization. The first clause ('Kowalski doesn't make such decisions single-handedly') and the second clause ('All environmental protections must be approved by a group of seven other experts') are both complete sentences. The period after 'however' properly ends the first sentence, and capitalizing 'All' correctly begins the new sentence.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=d91531a0",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 20,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

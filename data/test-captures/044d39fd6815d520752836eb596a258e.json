@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "044d39fd6815d520752836eb596a258e",
+  "capturedAt": "2026-11-21T00:12:21.606Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The area of a rectangle is $96$ square centimeters. The length of the longest side of the rectangle is $12$ centimeters. What is the length, in centimeters, of the shortest side of this rectangle?",
+  "choices": {
+    "A": "$84$",
+    "B": "$12$",
+    "C": "$24$",
+    "D": "$8$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The correct answer is D. The area of a rectangle is given by the formula $A = l \\times w$, where $l$ is the length and $w$ is the width. Given that the area is $96$ square centimeters and the longest side is $12$ centimeters, the shortest side can be found by dividing the area by the longest side: $w = \\frac{96}{12} = 8$ centimeters.\n\nChoice A is incorrect and may result from subtracting the longest side from the area instead of dividing: $96 - 12 = 84$. This represents using the wrong operation. To find the missing dimension of a rectangle when given the area and one side, division must be used: $w = \\frac{A}{l} = \\frac{96}{12} = 8$ centimeters.\n\nChoice B is incorrect and may result from confusing which dimension is being asked for. The value $12$ centimeters is the longest side given in the problem, not the shortest side. The shortest side must be calculated using the area formula: $w = \\frac{96}{12} = 8$ centimeters.\n\nChoice C is incorrect and may result from multiplying the given longest side by $2$ instead of dividing the area by the longest side. Computing $12 \\times 2 = 24$ represents a procedural error, possibly confusing this problem with a perimeter calculation. The correct approach is to divide: $\\frac{96}{12} = 8$ centimeters.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=663f8249",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

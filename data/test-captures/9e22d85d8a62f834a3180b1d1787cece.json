@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9e22d85d8a62f834a3180b1d1787cece",
+  "capturedAt": "2026-11-21T00:11:55.804Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma + Coordinating Conjunction",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "At 442 meters, the Willis Tower in the United States is one of the tallest skyscrapers in the ______ the Petronas Towers in Malaysia, at 452 meters, are even taller.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "world, but,",
+    "B": "world,",
+    "C": "world but",
+    "D": "world, but"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The conventions being tested are punctuation use between independent clauses joined by a coordinating conjunction. Two independent clauses ('the Willis Tower...is one of the tallest skyscrapers in the world' and 'the Petronas Towers...are even taller') are joined by the coordinating conjunction 'but.' Standard English requires a comma before the coordinating conjunction when joining independent clauses, with no comma after it: 'world, but the Petronas Towers...'",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=4ae98fb4",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 19,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

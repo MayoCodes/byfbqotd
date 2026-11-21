@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1d821435a330f5326f960cd9304f89fe",
+  "capturedAt": "2026-11-21T00:12:47.006Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The expression $18x^{6} + px^{3} - 270$ is equivalent to $a(x^{3} + b)(6x^{3} + c)$, where $a$, $b$, and $c$ are integer constants. Which of the following expressions could have a value that is a noninteger?",
+  "choices": {
+    "A": "$\\frac{(18)}{a}$",
+    "B": "$\\frac{(270)}{c}$",
+    "C": "$\\frac{b}{c}$",
+    "D": "$\\frac{p}{a}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The correct answer is C. Expanding $a(x^3 + b)(6x^3 + c)$ gives $6ax^6 + a(c + 6b)x^3 + abc$. Comparing coefficients with $18x^6 + px^3 - 270$: the coefficient of $x^6$ gives $6a = 18$, so $a = 3$. The constant term gives $abc = -270$, so $3bc = -270$, which means $bc = -90$. The coefficient of $x^3$ gives $p = a(c + 6b) = 3(c + 6b)$. Now evaluate each choice: For A: $\\frac{18}{a} = \\frac{18}{3} = 6$, which is an integer. For D: $\\frac{p}{a} = \\frac{3(c + 6b)}{3} = c + 6b$, which is an integer since $b$ and $c$ are integers. For C: $\\frac{b}{c}$ where $bc = -90$. The constraint $bc = -90$ allows many integer pairs. For example, $b = 9$ and $c = -10$ satisfy $bc = -90$, giving $\\frac{b}{c} = \\frac{9}{-10} = -\\frac{9}{10}$, which is a noninteger.\n\nChoice A is incorrect because $a = 3$, so $\\frac{18}{a} = 6$ is always an integer.\n\nChoice B is incorrect because $bc = -90$ means $c$ divides $-90$. Since $270 = 3 \\times 90 = 3 \\times (-bc)$, we have $270 = -3bc$, so $\\frac{270}{c} = \\frac{-3bc}{c} = -3b$, which is an integer.\n\nChoice D is incorrect because $\\frac{p}{a} = c + 6b$, which is always an integer when $b$ and $c$ are integers.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=520a3c14",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

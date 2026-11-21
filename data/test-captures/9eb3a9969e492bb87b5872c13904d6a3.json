@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9eb3a9969e492bb87b5872c13904d6a3",
+  "capturedAt": "2026-11-21T00:12:14.647Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Within Earth's oceans, there are four main zones based on depth: sunlight, twilight, midnight, and abyssal. The Challenger Deep in the western Pacific Ocean is an abyssal ______ it is one of the deepest points in the world, with a maximum depth of about 10,994 meters.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "zone, for example",
+    "B": "zone, for example,",
+    "C": "zone; for example",
+    "D": "zone, for example;"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct because it uses a comma to set off the parenthetical phrase 'for example' at the end of the first independent clause, then a semicolon to separate that clause from the next independent clause. Here, 'for example' qualifies the claim that the Challenger Deep is an abyssal zone; the second clause adds information about the Challenger Deep.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=a4411bc9",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

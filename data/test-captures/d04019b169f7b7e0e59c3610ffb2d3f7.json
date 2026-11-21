@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d04019b169f7b7e0e59c3610ffb2d3f7",
+  "capturedAt": "2026-11-21T00:11:56.491Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Possessive Determiners",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Both Marie Curie and Ernest Rutherford have been recognized for ______ contributions to physics, perhaps most notably when the Royal Swedish Academy of Sciences awarded Curie the Nobel Prize in Physics in 1903 and Rutherford in 1908.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "it's",
+    "B": "its",
+    "C": "their",
+    "D": "they're"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is pronoun-antecedent agreement. The sentence refers to 'Both Marie Curie and Ernest Rutherford,' which is a plural compound subject requiring a plural possessive pronoun. 'Their' correctly agrees in number (plural) and shows possession of 'contributions to physics,' conforming to the conventions of Standard English.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=3009404f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 20,
+    "subject": "English",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

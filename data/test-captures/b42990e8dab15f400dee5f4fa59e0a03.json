@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b42990e8dab15f400dee5f4fa59e0a03",
+  "capturedAt": "2026-11-21T00:12:41.322Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the $xy$-plane has its center at $(4, -3)$ and the point $(8, 0)$ lies on the circle. Which equation represents this circle?",
+  "choices": {
+    "A": "$x^{2} + y^{2} + 8x - 6y = 0$",
+    "B": "$x^{2} + y^{2} - 8x + 6y - 50 = 0$",
+    "C": "$x^{2} + y^{2} + 8x - 6y - 25 = 0$",
+    "D": "$x^{2} + y^{2} - 8x + 6y = 0$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The correct answer is D. The standard form of a circle with center $(h, k)$ and radius $r$ is $(x - h)^2 + (y - k)^2 = r^2$. The center is $(4, -3)$, so the equation begins as $(x - 4)^2 + (y + 3)^2 = r^2$. The radius is the distance from the center $(4, -3)$ to the point $(8, 0)$: $r = \\sqrt{(8-4)^2 + (0-(-3))^2} = \\sqrt{16 + 9} = \\sqrt{25} = 5$. So the standard form is $(x - 4)^2 + (y + 3)^2 = 25$. Expanding: $x^2 - 8x + 16 + y^2 + 6y + 9 = 25$, which simplifies to $x^2 + y^2 - 8x + 6y + 25 = 25$, giving $x^2 + y^2 - 8x + 6y = 0$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=79e18454",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}

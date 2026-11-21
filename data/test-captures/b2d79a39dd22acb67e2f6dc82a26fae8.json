@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b2d79a39dd22acb67e2f6dc82a26fae8",
+  "capturedAt": "2026-11-21T00:12:40.462Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Solution from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe shaded region shown represents the solutions to which inequality?",
+  "choices": {
+    "A": "$6x - 2y > -4$",
+    "B": "$6x - 2y < -4$",
+    "C": "$6x + 2y < 4$",
+    "D": "$6x + 2y > 4$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The boundary line passes through $(0, 2)$ and $(1, 5)$, giving slope $m = \\frac{5-2}{1-0} = 3$ and y-intercept $b = 2$. The boundary line equation is $y = 3x + 2$. Since the shaded region is above the dashed line, the inequality is $y > 3x + 2$. Rewriting in standard form: subtract $3x$ from both sides to get $-3x + y > 2$. Multiply both sides by $-2$ (reversing the inequality): $6x - 2y < -4$.",
+  "source": "https://cooksat.com/practice-test-review/3?questionId=67543633",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/b2d79a39dd22acb67e2f6dc82a26fae8/1-c9aa74f034c9d0bc.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 6,
+    "subject": "Math",
+    "testId": "3",
+    "title": "Practice Test 3"
+  }
+}
