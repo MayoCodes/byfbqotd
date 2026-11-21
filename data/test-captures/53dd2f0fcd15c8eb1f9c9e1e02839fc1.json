@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "53dd2f0fcd15c8eb1f9c9e1e02839fc1",
+  "capturedAt": "2026-11-21T00:06:57.118Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$0.3x + 0.8y = 6$$\n\n$$1.2x + 3.2y = 24$$\n\nHow many solutions does the given system of equations have?",
+  "choices": {
+    "A": "Infinitely many",
+    "B": "Exactly two",
+    "C": "Exactly one",
+    "D": "Zero"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A system of two linear equations has infinitely many solutions when the equations are identical, representing the same line. To determine if the equations are identical, check if the second equation is a scalar multiple of the first by comparing the ratios of corresponding coefficients and constants. For the $x$-coefficients: $\\frac{1.2}{0.3} = 4$. For the $y$-coefficients: $\\frac{3.2}{0.8} = 4$. For the constants: $\\frac{24}{6} = 4$. Since all three ratios are equal to $4$, the second equation is exactly $4$ times the first equation, meaning they represent the same line. Therefore, every point on this line is a solution to both equations, giving infinitely many solutions.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=cb474475",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

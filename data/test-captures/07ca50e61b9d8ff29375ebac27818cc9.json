@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "07ca50e61b9d8ff29375ebac27818cc9",
+  "capturedAt": "2026-11-21T00:06:15.990Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Magnetic field disruptions near a landmark vary in intensity with the landmark's size and position, and migratory birds detect these disruptions to navigate around the landmarks. Using models of three bird-eye configurations—lateral (eyes positioned far apart on sides of head), intermediate, and frontal (eyes positioned close together on front of head)—Henrik Mouritsen, Kasper Thorup, and Roswitha Wiltschko showed that as disruption intensity increases, magnetic signal variations detected in the retina increase for lateral-eyed birds but remain low for frontal-eyed birds. A second research team has therefore predicted that during nighttime migration, a bird will be more likely to avoid a landmark when the associated magnetic signal variations detected in the bird's retina are greater.",
+  "prompt": "Which finding, if true, would most directly support the second research team's prediction?",
+  "choices": {
+    "A": "A study using landmarks that created strong magnetic disruptions during nighttime migration found that some individuals of the lateral-eyed American woodcock (Scolopax minor) collided with the landmarks more often than other individuals of the same species did.",
+    "B": "A study using landmarks that created strong magnetic disruptions during nighttime migration found that the lateral-eyed American woodcock (Scolopax minor) collided with the landmarks just as often as the frontal-eyed barn owl (Tyto alba) did.",
+    "C": "A study using landmarks that created strong magnetic disruptions during nighttime migration found that the frontal-eyed barn owl (Tyto alba) collided with landmarks more often than the lateral-eyed American woodcock (Scolopax minor) did.",
+    "D": "A study using landmarks that created strong magnetic disruptions during nighttime migration found that the barn owl (Tyto alba), which has frontally-positioned eyes, collided with more than half of the landmarks."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it provides comparative evidence directly supporting the second research team's prediction that birds with greater magnetic signal variations in the retina are more likely to avoid landmarks. The passage establishes that lateral-eyed birds experience increased magnetic signal variations while frontal-eyed birds experience low variations as disruption intensity increases. Choice C confirms that the frontal-eyed barn owl collided with landmarks more often than the lateral-eyed American woodcock, meaning the woodcock with greater signal detection was better at avoidance, exactly as predicted.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=a70116f7",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 11,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

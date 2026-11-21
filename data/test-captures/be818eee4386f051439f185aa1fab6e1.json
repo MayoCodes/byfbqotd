@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "be818eee4386f051439f185aa1fab6e1",
+  "capturedAt": "2026-11-21T00:06:59.402Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$12abx - 3abm + 15bxm = 0$$\n\nIn the given equation, $a$, $b$, $m$, and $x$ are positive, and $a$ is greater than $5x$. Which expression is equivalent to $m$?",
+  "choices": {
+    "A": "$\\frac{(-4ax)}{(a-5x)}$",
+    "B": "$12abx$",
+    "C": "$\\frac{(4ax)}{(a-5x)}$",
+    "D": "$\\frac{(2ax)}{(a-5x)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To solve for $m$ in the equation $12abx - 3abm + 15bxm = 0$, first factor out the common factor $b$ from all terms: $b(12ax - 3am + 15xm) = 0$. Since $b$ is positive and therefore nonzero, divide both sides by $b$ to get $12ax - 3am + 15xm = 0$. Next, rearrange the equation to collect terms containing $m$ on one side: $-3am + 15xm = -12ax$. Factor $m$ from the left side: $m(-3a + 15x) = -12ax$. Divide both sides by $(-3a + 15x)$ to isolate $m$: $m = \\frac{-12ax}{-3a + 15x}$. To simplify, factor $-3$ from the denominator: $-3a + 15x = -3(a - 5x)$. Substituting this gives $m = \\frac{-12ax}{-3(a - 5x)}$. The negative signs cancel: $m = \\frac{12ax}{3(a - 5x)}$. Finally, simplify by dividing both numerator and denominator by $3$: $m = \\frac{4ax}{a - 5x}$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=5ec90d31",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 22,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

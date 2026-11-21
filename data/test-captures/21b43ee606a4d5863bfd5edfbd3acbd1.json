@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "21b43ee606a4d5863bfd5edfbd3acbd1",
+  "capturedAt": "2026-11-21T00:06:57.763Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Weighted or Combined Mean",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For a study, a research team recorded the test scores of $240$ students from Lincoln High School and $120$ students from Washington High School. The research team determined that the mean score of the $240$ students from Lincoln High School was $76$ points and the mean score of the $120$ students from Washington High School was $82$ points. What was the mean score, in points, of all $360$ students the research team recorded for this study?",
+  "choices": {
+    "A": "$80$",
+    "B": "$77$",
+    "C": "$79$",
+    "D": "$78$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find the mean score of all students, the weighted mean formula must be used because the two schools have different numbers of students. The total points for all students equals the sum of the total points from each school. For Lincoln High School, the total is $240 \\times 76 = 18{,}240$ points. For Washington High School, the total is $120 \\times 82 = 9{,}840$ points. Adding these gives $18{,}240 + 9{,}840 = 28{,}080$ total points for all students. The mean score is calculated by dividing the total points by the total number of students: $\\frac{28{,}080}{360} = 78$ points. Therefore, the mean score of all $360$ students was $78$ points.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=227b7ee4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 20,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

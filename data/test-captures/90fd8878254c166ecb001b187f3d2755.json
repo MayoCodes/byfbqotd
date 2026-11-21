@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "90fd8878254c166ecb001b187f3d2755",
+  "capturedAt": "2026-11-21T00:07:00.117Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Solution from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y > 2x + 1$$\n\nWhich graph represents the solutions to the given inequality?",
+  "choices": {
+    "A": "[Figure 1]",
+    "B": "[Figure 2]",
+    "C": "[Figure 3]",
+    "D": "[Figure 4]"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The inequality $y > 2x + 1$ represents all points where the $y$-coordinate is strictly greater than $2x + 1$. The boundary line $y = 2x + 1$ has slope $2$ and $y$-intercept $1$. Since the inequality is strict ($>$ rather than $\\geq$), the boundary line must be dashed to indicate that points on the line are not included. The solution region is above the line, where $y$ values exceed $2x + 1$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=6d47692e",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/90fd8878254c166ecb001b187f3d2755/1-a0d3bc6b615b0518.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 2",
+      "path": "data/capture-assets/90fd8878254c166ecb001b187f3d2755/2-27684c1b6b350853.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 3",
+      "path": "data/capture-assets/90fd8878254c166ecb001b187f3d2755/3-0dd733fd14e2fbf7.png",
+      "kind": "diagram"
+    },
+    {
+      "label": "Figure 4",
+      "path": "data/capture-assets/90fd8878254c166ecb001b187f3d2755/4-5e68d074435fbdfe.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

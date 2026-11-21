@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4d969c2ad0f98dc6452daf92b20ff2df",
+  "capturedAt": "2026-11-21T00:06:47.004Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$5x + 23 = 5x + c$. In the given equation, $c$ is a constant. The equation has infinitely many solutions. What is the value of $c$?",
+  "choices": {},
+  "correctAnswer": "$$23$$",
+  "explanation": "The answer is $23$. A linear equation in one variable has infinitely many solutions when it represents an identity—that is, when the equation is true for all values of the variable. This occurs when both sides of the equation are algebraically identical. In the equation $5x + 23 = 5x + c$, the coefficient of $x$ on the left side is $5$, and the coefficient of $x$ on the right side is also $5$, so these terms already match. For the equation to be an identity, the constant terms must also be equal. The constant term on the left side is $23$, and the constant term on the right side is $c$. Therefore, for the equation to have infinitely many solutions, we must have $c = 23$. This makes both sides of the equation identical: $5x + 23 = 5x + 23$, which is true for all values of $x$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=e3833ca4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

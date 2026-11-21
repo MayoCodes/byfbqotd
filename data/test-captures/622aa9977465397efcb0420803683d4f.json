@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "622aa9977465397efcb0420803683d4f",
+  "capturedAt": "2026-11-21T00:06:17.616Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Long-distance migration is widespread among songbird species. Among studies of migratory behavior in North American songbirds, Elena M. Patterson's 1989 study of wild-caught warblers reported no tendency toward long-distance migration, while K.J. Barrett and Maya Collins's 1993 study of wild-caught thrushes did. However, the latter study included only 18 individuals, and a meta-analysis of avian-migration studies demonstrated that a minimum sample size of 195 individuals is required to be confident that a finding of population-level migration tendency is not mere statistical noise. The claim of long-distance migration in the 1993 study should therefore be treated skeptically given that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "long-distance migration does not occur frequently enough among thrushes to reliably appear in a sample of only 18 individuals.",
+    "B": "the sample size on which the claim is based is far below the threshold identified in the meta-analysis.",
+    "C": "the study that did not find long-distance migration in warblers was also based on an insufficient population size.",
+    "D": "the apparent difference between the two studies' results may be partly attributable to the 1989 study using a different standard to determine migration distance than the 1993 study did."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it directly connects the 1993 study's methodological inadequacy to the justification for skepticism. The passage establishes that a meta-analysis determined 195 individuals as the minimum sample size needed to confidently distinguish a true population-level migration tendency from statistical noise. Since the 1993 study included only 18 individuals—far below this threshold—the sample size is insufficient to support confident conclusions, making skepticism warranted.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=e30141ce",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 13,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

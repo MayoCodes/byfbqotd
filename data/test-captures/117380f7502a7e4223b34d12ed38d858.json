@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "117380f7502a7e4223b34d12ed38d858",
+  "capturedAt": "2026-11-21T00:07:03.335Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Rational Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of a system of a linear equation and a nonlinear equation is shown. Which of the following systems has the same solution as the system shown?",
+  "choices": {
+    "A": "$x + y = 9$ and $x - y = 3$",
+    "B": "$x + y = 9$ and $x - y = -3$",
+    "C": "$x + y = 6$ and $x - y = 3$",
+    "D": "$x + y = 6$ and $x - y = -3$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The correct answer is B. The solution to the graphed system is the intersection point $(3, 6)$. To find which system has the same solution, substitute $x = 3$ and $y = 6$ into each system. For choice B: $x + y = 9$ and $x - y = -3$. Checking the first equation: $3 + 6 = 9$. Checking the second equation: $3 - 6 = -3$. Since both equations are satisfied, this system has the same solution as the graphed system.\n\nChoice A is incorrect because solving $x + y = 9$ and $x - y = 3$ gives $x = 6$ and $y = 3$, which is the point $(6, 3)$, not $(3, 6)$. This may result from confusing the order of the coordinates.\n\nChoice C is incorrect because solving $x + y = 6$ and $x - y = 3$ gives $x = 4.5$ and $y = 1.5$, which is the point $(4.5, 1.5)$, not $(3, 6)$.\n\nChoice D is incorrect because solving $x + y = 6$ and $x - y = -3$ gives $x = 1.5$ and $y = 4.5$, which is the point $(1.5, 4.5)$, not $(3, 6)$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=37301422",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/117380f7502a7e4223b34d12ed38d858/1-9af20f2914737e60.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3bb661c2592f769ec43cc7235a9ba10f",
+  "capturedAt": "2026-11-21T00:07:06.440Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "For what value of $k$ does the equation $5(x + 2) = k(x + 2) - 8$ have no solutions?",
+  "choices": {
+    "A": "$5$",
+    "B": "$-5$",
+    "C": "$9$",
+    "D": "$0$"
+  },
+  "correctAnswer": "A",
+  "explanation": "The correct answer is A. Expanding both sides: $5x + 10 = kx + 2k - 8$. Rearranging: $(5 - k)x = 2k - 18$. For the equation to have no solutions, the coefficient of $x$ must equal $0$ while the constant term is nonzero. Setting $5 - k = 0$ gives $k = 5$. Checking: $2(5) - 18 = -8 \\neq 0$, so when $k = 5$, the equation becomes $0 = -8$, which is false and has no solutions.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=b669897d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

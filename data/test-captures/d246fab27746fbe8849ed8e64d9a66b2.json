@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d246fab27746fbe8849ed8e64d9a66b2",
+  "capturedAt": "2026-11-21T00:06:56.344Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale.\n\nIn the figure, lines $m$ and $n$ are parallel and line $p$ intersects both lines. If $x = 3n + 62$ and $y = \\frac{n}{3} + 58$, what is the value of $z$?",
+  "choices": {},
+  "correctAnswer": "$$116$$",
+  "explanation": "The correct answer is $116$. When two parallel lines are cut by a transversal, co-interior angles (also called consecutive interior angles or same-side interior angles) are supplementary, meaning they sum to $180$ degrees. In this figure, angles $x$ and $y$ are co-interior angles because they are on the same side of the transversal between the two parallel lines. Therefore, $x + y = 180$. Substituting the given expressions: $(3n + 62) + (\\frac{n}{3} + 58) = 180$. Simplifying: $3n + \\frac{n}{3} + 120 = 180$, so $3n + \\frac{n}{3} = 60$. Multiplying the entire equation by $3$ to clear the fraction: $9n + n = 180$, which gives $10n = 180$, so $n = 18$. Now find $y$: $y = \\frac{18}{3} + 58 = 6 + 58 = 64$ degrees. Since angles $y$ and $z$ form a linear pair at their intersection point, they are supplementary, so $y + z = 180$. Therefore, $z = 180 - 64 = 116$ degrees. Equivalently, angle $x = 3(18) + 62 = 116$ degrees, and angles $x$ and $z$ are corresponding angles, so $z = x = 116$ degrees.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=5b85cf98",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d246fab27746fbe8849ed8e64d9a66b2/1-581f7758587cb3f1.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

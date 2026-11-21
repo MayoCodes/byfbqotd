@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d7b858825d65e5bd0cce4995cb66f764",
+  "capturedAt": "2026-11-21T00:07:16.400Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Function $g$ is defined by $g(x) = -a^x + b$, where $a$ and $b$ are constants. In the $xy$-plane, the graph of $y = g(x) - 7$ has a $y$-intercept at $(0, -\\frac{(43)}{6})$. The product of $a$ and $b$ is $\\frac{(20)}{3}$. What is the value of $a$?",
+  "choices": {},
+  "correctAnswer": "$$8$$",
+  "explanation": "The correct answer is $8$. The y-intercept of $y = g(x) - 7$ occurs when $x = 0$. At $x = 0$: $g(0) - 7 = -a^0 + b - 7 = -1 + b - 7 = b - 8$. Since the y-intercept is $\\left(0, -\\frac{43}{6}\\right)$: $b - 8 = -\\frac{43}{6}$, so $b = 8 - \\frac{43}{6} = \\frac{48}{6} - \\frac{43}{6} = \\frac{5}{6}$. Given that $ab = \\frac{20}{3}$: $a \\cdot \\frac{5}{6} = \\frac{20}{3}$, so $a = \\frac{20}{3} \\cdot \\frac{6}{5} = \\frac{120}{15} = 8$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=eaaebc95",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 22,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

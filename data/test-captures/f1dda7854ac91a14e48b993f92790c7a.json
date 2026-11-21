@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f1dda7854ac91a14e48b993f92790c7a",
+  "capturedAt": "2026-11-21T00:06:14.181Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nDr. Lisa Nakamura and colleagues tracked bird populations at three observation sites in Chicago's urban parks from 2015 to 2023. Although a total of only 42 American robins were observed at site 3, that was not the lowest count at any site: ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the assertion?",
+  "choices": {
+    "A": "there were 350 northern cardinals observed at site 1.",
+    "B": "there were 11 house sparrows observed at site 3.",
+    "C": "there were 11 northern cardinals observed at site 3.",
+    "D": "there were 71 blue jays observed at site 2."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most effectively uses data from the table to complete the assertion that 42 American robins 'was not the lowest count at any site.' The statement requires evidence of a count lower than 42 to support the claim. According to the table, only 11 house sparrows were observed at site 3, which is substantially lower than the 42 robins mentioned. This concrete evidence directly proves that 42 is not the minimum count, making choice B the most effective completion of the assertion.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=3a2f3942",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/f1dda7854ac91a14e48b993f92790c7a/1-c03edfdf1a318c18.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 9,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

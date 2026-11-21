@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "695ecbbe9313fe62cddd9c8be0dbb035",
+  "capturedAt": "2026-11-21T00:07:10.053Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Quadratic or Polynomial",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "One of the factors of $6x^{6} + 29x^{3} + 9$ is $ax^{3} + b$, where $a$ and $b$ are positive integer constants. Which of the following is a possible value of $ab$?",
+  "choices": {
+    "A": "$6$",
+    "B": "$9$",
+    "C": "$18$",
+    "D": "$27$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Let $u = x^3$, so $6x^6 + 29x^3 + 9 = 6u^2 + 29u + 9$. To factor, find two numbers that multiply to $6 \\times 9 = 54$ and add to $29$: these are $27$ and $2$. Rewriting: $6u^2 + 27u + 2u + 9 = 3u(2u + 9) + 1(2u + 9) = (3u + 1)(2u + 9)$. Substituting back: $(3x^3 + 1)(2x^3 + 9)$. The factors of form $ax^3 + b$ are $3x^3 + 1$ (where $ab = 3 \\times 1 = 3$) and $2x^3 + 9$ (where $ab = 2 \\times 9 = 18$). Therefore, $18$ is a possible value of $ab$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=92696d50",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

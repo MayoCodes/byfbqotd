@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "03d8e9f288c2951f54b4ace18e961d75",
+  "capturedAt": "2026-11-21T00:06:34.069Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nBaseline ocean temperatures typically remain stable in temperate zones, while many fish species have demonstrated elevated thermal tolerance levels. A team of marine biologists therefore hypothesized that thermal adaptation (the capacity of organisms to survive in temperatures above their historical range) might enable certain species to persist in warming ocean conditions. The team's experiments showed that the maximum temperature tolerance of yellowfin tuna is sufficiently high to facilitate survival in projected warming scenarios, a finding that suggests that ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the text?",
+  "choices": {
+    "A": "Pacific sardines should demonstrate the opposite tendency.",
+    "B": "the minimum temperature tolerance necessary for a fish species to survive warming conditions must be greater than 20°C.",
+    "C": "Pacific bluefin tuna should also demonstrate this capacity.",
+    "D": "Pacific bluefin tuna and Pacific sardines, having different maximum tolerances than yellowfin tuna have, should not demonstrate this capacity."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most effectively uses data from the graph to complete the text's argument. The passage establishes that yellowfin tuna, with a maximum temperature tolerance of 24°C shown in the graph, can survive projected warming scenarios. The graph reveals that Pacific bluefin tuna have a maximum temperature tolerance of 32°C—significantly higher than yellowfin tuna's 24°C. Since a tolerance of 24°C is sufficient for survival, the higher tolerance of 32°C should also be sufficient, making choice C a well-supported inference that Pacific bluefin tuna should demonstrate this survival capacity.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=af599f89",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/03d8e9f288c2951f54b4ace18e961d75/1-4a64c10bca57b33a.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 11,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "402265d4b364cbd23fadc76d2688e81d",
+  "capturedAt": "2026-11-21T00:06:36.740Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Social Science/History",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In an analysis of ancient trade networks in Uruk, Harappa, and other Mesopotamian and Indus Valley city-states, researchers drew on modern network complexity theory, which posits that trade partner diversity in major trading hubs increases as total trade volume grows larger. Hypothesizing that this typical relationship would have differed in ancient city-states because of the constraining influence of centralized palace-temple economic control systems (which are much less pronounced in modern markets) on merchant autonomy and market competition—drivers of trade network expansion—the team created a model that accounted for the presence of redistributive economic institutions. They found that the typically expected diversity-volume relationship held for each of the 89 ancient city-states whose growth they analyzed, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "although there tends to be a positive relationship between trade volume and development of partner diversity for modern markets, economic institutions likely eliminated the positive relationship between trade volume and trade partner diversity in ancient city-states.",
+    "B": "despite a change in the role of economic control systems over time, there is likely a notable consistency between ancient city-states and modern markets in underlying elements of the commercial and competitive interactions among traders that shape the development of trade networks.",
+    "C": "the commercial and competitive dynamics that affect trade network expansion were likely much different in ancient city-states than in modern markets, despite the similarity across time in trade partner diversity patterns.",
+    "D": "the constraining influence of centralized palace-temple institutions likely had a significant effect on merchants in some trade sectors but little to no effect on merchants in other trade sectors."
+  },
+  "correctAnswer": "B",
+  "explanation": "The persistence of the expected relationship despite institutional differences supports the tentative inference that some underlying commercial and competitive elements were consistent across ancient and modern markets.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=d03933d1",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 15,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

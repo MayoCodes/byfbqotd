@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d0fd0f87301ce914d3b5590dc3b41eb5",
+  "capturedAt": "2026-11-21T00:06:21.433Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Among the world's tallest mountains are Mount Kilimanjaro, ranked ______ and Pico de Orizaba, ranked nineteenth.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "fourth in height, Mount McKinley; ranked tenth,",
+    "B": "fourth in height Mount McKinley, ranked tenth",
+    "C": "fourth in height; Mount McKinley, ranked tenth;",
+    "D": "fourth in height; Mount McKinley; ranked tenth;"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence lists three mountains with their rankings, and each list item contains internal commas separating mountain names from their rankings. Semicolons must separate the major items to maintain clarity. Choice C correctly places semicolons after 'fourth in height' and 'ranked tenth,' properly distinguishing where each list item ends and the next begins while using commas within each item to separate names from rankings.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=b40d00f9",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 19,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

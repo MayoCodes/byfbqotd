@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "721d5b76e99d7373e61141b550d5b1fa",
+  "capturedAt": "2026-11-21T00:06:37.342Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In protein analysis, determining the size of a molecule requires knowing its molecular weight, a quantification of the mass of all amino acids in the protein chain. The enzymatic ______ has a molecular weight of 14.7 kDa.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "protein, fibrinopeptin (132 amino acids),",
+    "B": "protein, fibrinopeptin (132 amino acids)",
+    "C": "protein fibrinopeptin (132 amino acids),",
+    "D": "protein fibrinopeptin (132 amino acids)"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use with restrictive appositives. The phrase 'fibrinopeptin (132 amino acids)' is a restrictive appositive that provides essential information identifying which specific protein is being discussed. Restrictive appositives should not be set off by commas because they are necessary to the meaning of the sentence. Since the name and specification identify the particular protein with a molecular weight of 14.7 kDa, no punctuation should separate these elements from 'protein.'",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=812f3288",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 16,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9a86d80dec8e1e91cb1d321307220b8b",
+  "capturedAt": "2026-11-21T00:06:58.418Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Identify Best Model Type",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nWhich of the following equations is the most appropriate model for the data shown in the scatterplot?",
+  "choices": {
+    "A": "$y = 20(1.4)^x-4$",
+    "B": "$y = 20(1.4)^x-4 + 12$",
+    "C": "$y = 8(1.4)^x-4 + 12$",
+    "D": "$y = (1.4)^x-4 + 19$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The correct answer is C. The scatterplot shows exponential growth with a horizontal asymptote near $y = 12$, indicating the equation should have the form $y = a(1.4)^{x-4} + 12$. To find the coefficient $a$, use the reference point at $x = 4$ where $y \\approx 20$. Substituting: $20 = a(1.4)^{4-4} + 12 = a(1) + 12 = a + 12$. Solving gives $a = 8$. Therefore, the equation is $y = 8(1.4)^{x-4} + 12$. This can be verified at other points: at $x = 0$, $y = 8(1.4)^{-4} + 12 \\approx 8(0.26) + 12 \\approx 14$, which matches the data; at $x = 8$, $y = 8(1.4)^4 + 12 \\approx 8(3.84) + 12 \\approx 43$, which also matches.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=d6b79f5f",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/9a86d80dec8e1e91cb1d321307220b8b/1-1093f8e458435aa9.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 21,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

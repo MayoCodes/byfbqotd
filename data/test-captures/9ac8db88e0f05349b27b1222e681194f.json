@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9ac8db88e0f05349b27b1222e681194f",
+  "capturedAt": "2026-11-21T00:06:34.922Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In the American South during the 1930s, many blues musicians earned their livings as itinerant performers, but written documentation of their repertoires was limited. Recently, Sofia Lindqvist has argued that a manuscript archive compiled in the 1930s by Thomas Brennan contains written copies of three songs likely transcribed from a performance notebook belonging to a blues musician working in the area around Brennan's home. Lindqvist cites features of the song texts characteristic of live performance, such as spoken introductions preserved in writing, repetitive verses that allow for improvisation, and requests for listeners to contribute payment.",
+  "prompt": "Which statement, if true, would most strongly support Lindqvist's argument?",
+  "choices": {
+    "A": "Brennan's archive contains the earliest surviving written copies of the three songs in question, but copies of each song also occur in other manuscript collections compiled after Brennan's.",
+    "B": "Features like repetitive verse structures also occur in other song texts from the period that were widely distributed but are not known to have been performed for live audiences.",
+    "C": "The three song texts in question contain references that presume that the audience is familiar with Clarksdale and other Delta towns near where Brennan lived.",
+    "D": "Itinerant blues musicians are thought to have performed mainly for working-class audiences, and other parts of Brennan's manuscript archive reflect his interest in song texts with commercial appeal."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because references that presume audience familiarity with towns near Brennan's home make a nearby performance context more likely. Combined with the performance-related features described in the passage, these references support the proposed connection to a musician working in that area. They do not prove that the songs were performed locally or that a performance notebook was their source, but they support the geographic part of Lindqvist's argument more directly than any other choice.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=67279640",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 12,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

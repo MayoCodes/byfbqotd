@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a383982de9b5ac285ffb13f3cca665cc",
+  "capturedAt": "2026-11-21T00:07:15.137Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Function $f$ is defined as $f(x) = (3x-4)^{2}$, and function $g$ is defined as $g(x) = 3(x + 5)$. Which of the following is equivalent to $f(x) + g(x)$?",
+  "choices": {
+    "A": "$9x^{2} - 21x + 1$",
+    "B": "$9x^{2} - 21x + 31$",
+    "C": "$9x^{2} - 9x + 31$",
+    "D": "$9x^{2} - 27x + 1$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To find $f(x) + g(x)$, each function must first be expanded, then the resulting expressions can be combined. For $f(x) = (3x-4)^2$, applying the binomial expansion formula $(a-b)^2 = a^2 - 2ab + b^2$ with $a = 3x$ and $b = 4$ gives $(3x)^2 - 2(3x)(4) + 4^2 = 9x^2 - 24x + 16$. For $g(x) = 3(x+5)$, applying the distributive property gives $3x + 15$. Adding these expressions: $(9x^2 - 24x + 16) + (3x + 15) = 9x^2 + (-24x + 3x) + (16 + 15) = 9x^2 - 21x + 31$. Therefore, $f(x) + g(x)$ is equivalent to $9x^2 - 21x + 31$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=3896f215",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "81fa1bfbfdb0697426728a5d28d9b200",
+  "capturedAt": "2026-11-21T00:06:19.518Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Items in a Series",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "On March 15, 2019, a Colorado-based research team—Dr. James K. Patterson, Dr. Sarah Reddy, and Dr. Michael Reeves—compiled precipitation data from several sites in Wyoming's Bighorn Mountains. At Station B7, the site with the lowest elevation, the precipitation levels varied slightly throughout the day, recording ______ and 4.1 mm at 3:00 p.m.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "2.3 mm at 2:00 a.m., 5.7 mm at 9:45 a.m.,",
+    "B": "2.3 mm at 2:00 a.m. 5.7 mm at 9:45 a.m.,",
+    "C": "2.3 mm, at 2:00 a.m. 5.7 mm, at 9:45 a.m.",
+    "D": "2.3 mm at 2:00 a.m. 5.7 mm at 9:45 a.m."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence presents a three-item series of precipitation measurements: 2.3 mm at 2:00 a.m., 5.7 mm at 9:45 a.m., and 4.1 mm at 3:00 p.m. Standard conventions require commas between items in a series. Each measurement is a complete unit combining the amount with its timestamp, so commas must follow each complete item to separate it from the next.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=5ffba868",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 16,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

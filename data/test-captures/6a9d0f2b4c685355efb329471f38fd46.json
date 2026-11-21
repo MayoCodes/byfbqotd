@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6a9d0f2b4c685355efb329471f38fd46",
+  "capturedAt": "2026-11-21T00:07:13.241Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Rate Unit Conversion",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "Maria earns $$600$ per week from her job. She saves $\\frac{2}{5}$ of her earnings and donates $\\frac{1}{6}$ of what she saves to charity. After $5$ weeks, Maria decides to invest $\\frac{3}{4}$ of her remaining savings into a fund that earns $20%$ interest. How much money, in dollars, does Maria have in the investment fund after the interest is applied?",
+  "choices": {},
+  "correctAnswer": "$$900$$",
+  "explanation": "The correct answer is $900$. First, find Maria's weekly savings: $\\frac{2}{5} \\times 600 = 240$ dollars per week. She donates $\\frac{1}{6}$ of her savings to charity: $\\frac{1}{6} \\times 240 = 40$ dollars per week. Her remaining savings per week: $240 - 40 = 200$ dollars. After $5$ weeks, total remaining savings: $5 \\times 200 = 1000$ dollars. She invests $\\frac{3}{4}$ of this: $\\frac{3}{4} \\times 1000 = 750$ dollars. After $20\\%$ interest: $750 \\times 1.20 = 900$ dollars.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=603c68dc",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 17,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

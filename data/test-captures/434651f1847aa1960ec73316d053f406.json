@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "434651f1847aa1960ec73316d053f406",
+  "capturedAt": "2026-11-21T00:06:32.130Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Evaluate Response to Opposing Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nFor decades, marine biologists assumed that if they observed a mimic octopus—a cephalopod species found in temperate coastal waters—displaying dramatic color changes, they must be observing a male. That's because chromatic display has long been considered a male trait; researchers have argued that color change enables males to attract mates and establish dominance.\n\nText 2\nRecent evidence shows that a female mimic octopus is as capable of chromatic display as a male is. In fact, Layla Khoury and colleagues found evidence of female color-changing ability in 68% of the 287 cephalopod species they examined. They claim that the historical mischaracterization of chromatic display as a male trait is largely the result of bias: much of the research marine biologists have carried out has been in shallow coastal regions near research stations, where female chromatic display is less common than it is in deep ocean environments.",
+  "prompt": "Based on the texts, how would Khoury and colleagues (Text 2) most likely respond to the view of chromatic display presented in Text 1?",
+  "choices": {
+    "A": "They would argue that it was influenced by the kinds of study sites researchers tended to select.",
+    "B": "They would underscore that male cephalopods in shallow regions are likely using their color changes for different purposes than are male cephalopods in deep ocean environments.",
+    "C": "They would claim that other factors than mate attraction and dominance establishment have driven the evolution of color change in male cephalopods.",
+    "D": "They would suggest that it reflects a tendency to study male cephalopods rather than female cephalopods."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it accurately reflects Khoury and colleagues' explanation for the mischaracterization in Text 1. Text 2 states that the belief that chromatic display is primarily a male trait 'is largely the result of bias: much of the research marine biologists have carried out has been in shallow coastal regions near research stations, where female chromatic display is less common than it is in deep ocean environments.' This directly attributes the mistaken assumption to the geographic locations where research was conducted—the kinds of study sites researchers selected. Because research was concentrated in accessible shallow coastal areas, scientists observed fewer instances of female color change and incorrectly concluded it was primarily a male trait.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=86b97037",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 8,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

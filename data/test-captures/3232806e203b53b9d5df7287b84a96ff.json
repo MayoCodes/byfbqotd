@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3232806e203b53b9d5df7287b84a96ff",
+  "capturedAt": "2026-11-21T00:06:39.950Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The extraordinary capabilities that quantum computing processors have brought to computational technology belie their extreme cooling requirements, the processors typically ______ at temperatures from negative 273 to negative 270 degrees Celsius.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "operate",
+    "B": "can operate",
+    "C": "will operate",
+    "D": "operating"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite present participle 'operating' correctly creates an absolute phrase ('the processors typically operating at temperatures from negative 273 to negative 270 degrees Celsius') that modifies the main clause. This construction provides additional descriptive information about the cooling requirements mentioned in the main clause without creating a second independent clause. Using a finite verb form would create a comma splice by joining two independent clauses with only a comma, which violates Standard English conventions.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=a6607c7c",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 20,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

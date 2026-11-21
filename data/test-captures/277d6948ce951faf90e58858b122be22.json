@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "277d6948ce951faf90e58858b122be22",
+  "capturedAt": "2026-11-21T00:07:10.673Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "District A has an area of $a$ square kilometers and a housing density of $845$ housing units per square kilometer. District B adjacent to District A has an area of $b$ square kilometers and a housing density of $425$ housing units per square kilometer. The combined number of housing units in District A and District B is $10,795$ housing units. Which equation represents this situation?",
+  "choices": {
+    "A": "$845a + 425b = 1,270$",
+    "B": "$845a + 425 = 10,795b$",
+    "C": "$845a + 425 = 1,270b$",
+    "D": "$845a + 425b = 10,795$"
+  },
+  "correctAnswer": "D",
+  "explanation": "The number of housing units in a district equals density times area. District A has $845a$ housing units and District B has $425b$ housing units. The combined total is $845a + 425b = 10{,}795$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=e59a4c07",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b82d50126cd71428fcc60e1c6710571a",
+  "capturedAt": "2026-11-21T00:06:11.634Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Function of Underlined Sentence",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "C3 photosynthesis involves the direct conversion of carbon dioxide into sugars during daylight hours with stomata open; CAM photosynthesis, in contrast, involves the storage of carbon dioxide at night when stomata are open, followed by sugar production during the day with stomata closed. While CAM photosynthesis is common among plants in arid environments—such as the succulents Opuntia ficus-indica and Agave americana—it has rarely been documented among plants in temperate climates. However, new research suggests that CAM photosynthesis is more widespread in temperate climate plants than previously documented.",
+  "prompt": "Which choice best states the function of the underlined sentence in the text as a whole?",
+  "choices": {
+    "A": "It explains a biological process by contrasting it with a somewhat similar process.",
+    "B": "It proposes a direction for future research into a biological phenomenon.",
+    "C": "It argues that two biological phenomena are more similar than they may initially appear to be.",
+    "D": "It explains why a common perception of a biological process is flawed."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it accurately identifies the dual function of the underlined sentence: explaining CAM photosynthesis while contrasting it with C3 photosynthesis. The sentence uses parallel structure with the repeated verb 'involves' and explicitly signals contrast with the phrase 'in contrast.' The first clause defines C3 photosynthesis as converting carbon dioxide during daylight with open stomata, while the second defines CAM photosynthesis through its key differences—storing carbon dioxide at night, then producing sugars during the day with closed stomata. This contrastive structure establishes the conceptual framework for understanding the passage's subsequent discussion of where each type occurs.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=983cebd8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 5,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

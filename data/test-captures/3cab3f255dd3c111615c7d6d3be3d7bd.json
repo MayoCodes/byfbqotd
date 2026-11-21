@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3cab3f255dd3c111615c7d6d3be3d7bd",
+  "capturedAt": "2026-11-21T00:07:07.755Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from Word Problem",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nEach of 250 students can be classified by their favorite subject among three options, as shown in the frequency table.\n\nIf one of the students is selected at random, what is the probability of selecting a student whose favorite subject is Science?",
+  "choices": {
+    "A": "$\\frac{(100)}{(250)}$",
+    "B": "$\\frac{3}{(250)}$",
+    "C": "$\\frac{(247)}{(250)}$",
+    "D": "$\\frac{(147)}{(250)}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The probability of an event is calculated using the formula $P(\\text{event}) = \\frac{\\text{number of favorable outcomes}}{\\text{total number of outcomes}}$. According to the frequency table, $3$ students chose Science as their favorite subject out of a total of $250$ students surveyed. Therefore, the probability of randomly selecting a student whose favorite subject is Science is $\\frac{3}{250}$. This fraction is already in simplest form since $3$ is prime and shares no common factors with $250$ other than $1$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=feb1bcdc",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/3cab3f255dd3c111615c7d6d3be3d7bd/1-89102bd7ec38acc0.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 9,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

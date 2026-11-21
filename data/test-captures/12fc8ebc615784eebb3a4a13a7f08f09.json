@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "12fc8ebc615784eebb3a4a13a7f08f09",
+  "capturedAt": "2026-11-21T00:06:43.753Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Ancient Roman residential architecture reached its height during the late Roman Republic and early Roman Empire periods, approximately 100 BCE–100 CE.\n• The House of the Faun in Pompeii, Italy, is a former Roman villa inhabited from approximately 180 BCE until the eruption of Mount Vesuvius in 79 CE.\n• Preserved by volcanic ash, it featured single-story stone and marble construction spanning an entire city block.\n• The building contained rectangular, interconnected rooms organized around two interior courtyards.\n• These courtyards, called atria, included central pools (impluviums) and served as spaces for receiving guests and conducting household rituals.",
+  "prompt": "The student wants to provide a detailed overview of the structures at the House of the Faun. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Preserved by volcanic ash, the House of the Faun's single-story stone and marble construction featured interior courtyards called atria surrounded by rectangular, interconnected rooms.",
+    "B": "The House of the Faun, whose structures were built by ancient Romans in Pompeii, was inhabited from approximately 180 BCE until the eruption of Mount Vesuvius in 79 CE.",
+    "C": "Located in Pompeii, Italy, the House of the Faun was designed with atria, interior courtyards that included central pools and served as spaces for receiving guests and conducting household rituals.",
+    "D": "Ancient Romans used stone and marble in the construction of the House of the Faun in Pompeii, Italy."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it effectively synthesizes multiple structural elements from the notes to provide a detailed overview. The sentence describes the preservation method (volcanic ash), construction materials (stone and marble), building configuration (single-story), key architectural feature (interior courtyards called atria), and spatial organization (rectangular, interconnected rooms surrounding the courtyards). This combination of specific details across multiple structural aspects fulfills both the 'detailed' and 'overview' requirements of the rhetorical goal.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=71fddfec",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 26,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

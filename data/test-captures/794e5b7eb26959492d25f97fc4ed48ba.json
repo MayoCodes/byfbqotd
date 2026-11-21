@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "794e5b7eb26959492d25f97fc4ed48ba",
+  "capturedAt": "2026-11-21T00:06:36.136Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Exclusively inhabiting polar regions such as Antarctica, wild emperor penguins lack adaptations to seasonal variations in photoperiod (day length) that occur in temperate zones; since extended darkness enables many vertebrates to regulate melatonin production for circadian rhythms, Jordan Rivera and colleagues studied aquarium penguins in Japan and other temperate countries to see how melatonin levels are affected by the seasonal variations in darkness duration that occur in those locations. They found that penguins' melatonin levels were significantly lower in summer than in winter and appeared unaffected by artificial lighting adjustments implemented by aquarium staff. Rivera and colleagues point out, however, that lighting protocols were rare, highly varied, and poorly tracked, and therefore they caution against concluding that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "wild emperor penguins in Antarctica would exhibit the same melatonin responses to artificial lighting as aquarium penguins in temperate countries.",
+    "B": "artificial lighting adjustments are ineffective at influencing melatonin levels in aquarium penguins housed in temperate countries.",
+    "C": "melatonin levels among aquarium penguins in Japan and other temperate countries show seasonal variation in response to changes in darkness duration.",
+    "D": "further research on the relationship between artificial lighting and melatonin regulation in captive penguins could yield useful findings."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it identifies the premature conclusion that researchers are explicitly warning against. The text states that melatonin levels 'appeared unaffected' by artificial lighting, but Rivera and colleagues note that lighting protocols were 'rare, highly varied, and poorly tracked.' Given these methodological limitations, concluding that artificial lighting is genuinely ineffective would be unwarranted—the null result may simply reflect inadequate implementation or data collection rather than true ineffectiveness.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=14a7be19",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 14,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "525fed6ead42957a865ba2723bfba2dd",
+  "capturedAt": "2026-11-21T00:06:52.969Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A model estimates that the initial number of bacteria in a culture is 1200 when antibiotic treatment begins. The model also estimates that during the treatment, the number of bacteria in the culture decreases by 50% for each 6 hours of treatment. Which equation represents this model, where $N$ is the estimated number of bacteria in the culture at a time $t$ hours after treatment begins?",
+  "choices": {
+    "A": "$N = 1200(6)^\\frac{t}{2}$",
+    "B": "$N = 1200(0.5)^t$",
+    "C": "$N = 1200(2)^\\frac{t}{6}$",
+    "D": "$N = 1200(0.5)^\\frac{t}{6}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. An exponential decay model has the form $N = N_0 \\cdot b^{\\frac{t}{k}}$, where $N_0$ is the initial value, $b$ is the decay factor per interval, and $k$ is the length of the decay interval. The problem states that the initial number of bacteria is $1200$, so $N_0 = 1200$. The bacteria population decreases by $50\\%$ each interval, meaning the population is multiplied by $0.5$ (since $100\\% - 50\\% = 50\\% = 0.5$), so $b = 0.5$. The decay interval is $6$ hours, so $k = 6$. Substituting these values gives $N = 1200(0.5)^{\\frac{t}{6}}$. This can be verified: at $t = 0$ hours, $N = 1200(0.5)^0 = 1200$; at $t = 6$ hours, $N = 1200(0.5)^1 = 600$ (a $50\\%$ decrease); at $t = 12$ hours, $N = 1200(0.5)^2 = 300$ (another $50\\%$ decrease). Therefore, the equation $N = 1200(0.5)^{\\frac{t}{6}}$ correctly represents the model.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=ac088168",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 13,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b95cebf0216784165133e2763d11426b",
+  "capturedAt": "2026-11-21T00:06:55.070Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$3x + 2y = 16$$\n\n$$5x - 3y = 14$$\n\nThe solution to the given system of equations is $(x, y)$. What is the value of $4x - 7y$?",
+  "choices": {},
+  "correctAnswer": "$$2$$",
+  "explanation": "The correct answer is $2$. To find the value of $4x - 7y$, we must first solve the system of equations for $x$ and $y$. Using the elimination method, we can eliminate $y$ by making the coefficients of $y$ opposites. Multiply the first equation by $3$: $9x + 6y = 48$. Multiply the second equation by $2$: $10x - 6y = 28$. Adding these equations eliminates $y$: $(9x + 6y) + (10x - 6y) = 48 + 28$, which simplifies to $19x = 76$. Dividing both sides by $19$ gives $x = 4$. Substituting $x = 4$ into the first equation: $3(4) + 2y = 16$, so $12 + 2y = 16$, which gives $2y = 4$ and $y = 2$. We can verify this solution in the second equation: $5(4) - 3(2) = 20 - 6 = 14$. Now substitute $x = 4$ and $y = 2$ into the expression $4x - 7y$: $4(4) - 7(2) = 16 - 14 = 2$. Therefore, the value of $4x - 7y$ is $2$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=db22944b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

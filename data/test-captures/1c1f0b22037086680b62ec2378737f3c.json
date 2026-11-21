@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1c1f0b22037086680b62ec2378737f3c",
+  "capturedAt": "2026-11-21T00:07:02.691Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A baker combines $30$ grams of flour, $40$ grams of sugar, and $x$ grams of butter. The resulting dough has a mass of $125$ grams. What is the value of $x$?",
+  "choices": {
+    "A": "$30$",
+    "B": "$40$",
+    "C": "$55$",
+    "D": "$10$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The total mass of the dough equals the sum of the individual ingredient masses. Given that the baker combines $30$ grams of flour, $40$ grams of sugar, and $x$ grams of butter to make $125$ grams of dough, the equation is $30 + 40 + x = 125$. First, add the known values: $30 + 40 = 70$ grams. Then solve for $x$ by subtracting this sum from the total: $x = 125 - 70 = 55$ grams. Therefore, the value of $x$ is $55$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=d29b85a9",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

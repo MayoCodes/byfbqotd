@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f8f3704a02d91c9175a119e67204c620",
+  "capturedAt": "2026-11-21T00:06:45.743Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Evaluate Function at Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f$ is defined by $f(x) = 6(7x - 8)$. What is the value of $f(12)$?",
+  "choices": {
+    "A": "$12$",
+    "B": "$456$",
+    "C": "$72$",
+    "D": "$84$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To find the value of $f(12)$, substitute $x = 12$ into the function definition $f(x) = 6(7x - 8)$. This gives $f(12) = 6(7 \\cdot 12 - 8)$. Following the order of operations, first calculate the expression inside the parentheses: $7 \\cdot 12 = 84$, then $84 - 8 = 76$. Next, multiply this result by the outer coefficient: $6 \\cdot 76 = 456$. Therefore, $f(12) = 456$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=fcb37111",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

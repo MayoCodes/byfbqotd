@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "44a7ed1b511550b771d26c3c73a5b922",
+  "capturedAt": "2026-11-21T00:06:50.423Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Y-Intercept in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $P(w) = 26w$ gives the perimeter of a rectangle, in meters $(m)$, if the width of the rectangle is $w$ m and the length is $12$ times the width. Which of the following is the best interpretation of $P(15) = 390$?",
+  "choices": {
+    "A": "If the width of the rectangle is $390$ m, then the length of the rectangle is $15$ m.",
+    "B": "If the width of the rectangle is $15$ m, then the perimeter of the rectangle is $390$ m.",
+    "C": "If the width of the rectangle is $15$ m, then the length of the rectangle is $390$ m.",
+    "D": "If the width of the rectangle is $390$ m, then the perimeter of the rectangle is $15$ m."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. In function notation, $P(w)$ represents the perimeter as a function of width $w$. The statement $P(15) = 390$ means that when the input value is $w = 15$, the output value is $P = 390$. In the context of this problem, the input $w$ represents the width of the rectangle in meters, and the output $P$ represents the perimeter of the rectangle in meters. Therefore, $P(15) = 390$ means that when the width of the rectangle is $15$ meters, the perimeter of the rectangle is $390$ meters. This can be verified by the given function: $P(15) = 26(15) = 390$ meters.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=1c19668f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 9,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6fc8f25ed4718af60ebf5e7f07d937ec",
+  "capturedAt": "2026-11-21T00:07:04.802Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A shopping mall parking lot has a total of $450$ parking spaces. At 10 AM, $40%$ of the spaces were occupied. By noon, the number of occupied spaces had increased by $35%$ from the 10 AM count. How many parking spaces were occupied at noon?",
+  "choices": {
+    "A": "$243$",
+    "B": "$338$",
+    "C": "$180$",
+    "D": "$63$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. At 10 AM, $40\\%$ of $450$ spaces were occupied: $450 \\times 0.40 = 180$ spaces. By noon, this increased by $35\\%$: $180 \\times 1.35 = 243$ spaces. Alternatively, the increase is $180 \\times 0.35 = 63$, so $180 + 63 = 243$ spaces were occupied at noon.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=25b23aa1",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

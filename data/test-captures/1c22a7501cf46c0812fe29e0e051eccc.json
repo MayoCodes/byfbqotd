@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1c22a7501cf46c0812fe29e0e051eccc",
+  "capturedAt": "2026-11-21T00:06:44.391Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Difference",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The pH scale is a fourteen-point scale (ranging from 0 to 14) that orders solutions by acidity.\n• Solutions with smaller pH numbers are more acidic than solutions with larger pH numbers.\n• Solutions with larger pH numbers are less acidic than solutions with smaller pH numbers.\n• Lemon juice has a pH of 2.\n• Coffee has a pH of 5.\n• Pure water has a pH of 7.",
+  "prompt": "The student wants to make a generalization about solutions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Based on their pH values, lemon juice (2) is more acidic than coffee (5), and coffee is more acidic than pure water (7).",
+    "B": "Any solution with a pH of 2, like lemon juice, is more acidic than a solution with a pH of 5, like coffee.",
+    "C": "Lemon juice has a lower pH than pure water because lemon juice is more acidic than pure water.",
+    "D": "The pH scale can be used to order lemon juice, coffee, and pure water by acidity."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it makes an effective generalization by stating a principle that extends beyond a single named example. By using the phrase 'Any solution with a pH of 2,' the sentence establishes a broad claim about solutions at that pH level rather than limiting the claim to lemon juice alone. The choice uses lemon juice and coffee as examples while correctly applying the note that smaller pH numbers indicate greater acidity.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=31cde1c7",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 27,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

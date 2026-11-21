@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a994e3662d0e30381a89947cc1ee19a0",
+  "capturedAt": "2026-11-21T00:06:46.362Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A concert venue that hosts both seated and standing attendees can accommodate at most $87$ people. Which inequality represents this situation, where $s$ is the number of seated attendees and $t$ is the number of standing attendees?",
+  "choices": {
+    "A": "$s - t \\le 87$",
+    "B": "$s + t \\le 87$",
+    "C": "$s + t > 87$",
+    "D": "$s - t \\ge 87$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The problem states that the venue 'can accommodate at most 87 people,' which means the total number of people must be less than or equal to $87$. In mathematical notation, 'at most' is represented by the inequality symbol $\\leq$. Since the venue hosts both seated and standing attendees, the total number of people is the sum of seated attendees ($s$) and standing attendees ($t$). Therefore, the inequality that represents this situation is $s + t \\leq 87$. This correctly captures that the combined total of both types of attendees cannot exceed $87$ people.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=c2f735be",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

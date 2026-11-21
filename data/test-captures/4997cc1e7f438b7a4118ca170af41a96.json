@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4997cc1e7f438b7a4118ca170af41a96",
+  "capturedAt": "2026-11-21T00:06:38.684Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "In cognitive psychology, episodic memories are considered a distinct category because they are truly separable from semantic memories, \"truly\" being a word that admits a degree of uncertainty. In 2022, researchers L. Bergman, A. Okafor, and K. Lindstrom devised a computational model of distinctness (separability) that would account for such variation. Determining whether memories are \"entirely distinct\" or \"partially overlapping\"—whether experiences, facts, or skills— ______ among their primary aims.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "having been",
+    "D": "being"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer. The convention being tested is subject-verb agreement in an inverted sentence structure. The subject of the sentence is the gerund phrase 'Determining whether memories are \"entirely distinct\" or \"partially overlapping\"—whether experiences, facts, or skills.' Gerund phrases function as singular nouns regardless of plural nouns they may contain. The singular past tense verb 'was' correctly agrees with this singular subject. The sentence structure is inverted, placing the verb after the subject but before the complement 'among their primary aims.'",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=717fb88d",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 18,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

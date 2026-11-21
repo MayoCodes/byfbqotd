@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "404c6aea1e13399275624a06a2b573ee",
+  "capturedAt": "2026-11-21T00:06:49.177Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Unit Conversion",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A marathon runner completed a race with an average speed of $9.500$ miles per hour. What was the average speed, in feet per hour, of the runner during the race? ($1$ mile = $5,280$ feet)",
+  "choices": {},
+  "correctAnswer": "$$50160$$",
+  "explanation": "The correct answer is $50{,}160$ feet per hour. To convert the runner's speed from miles per hour to feet per hour, multiply the speed in miles per hour by the number of feet in one mile. The given conversion factor is $1$ mile = $5{,}280$ feet. The runner's speed is $9.500$ miles per hour, which simplifies to $9.5$ miles per hour. Multiplying gives: $9.5 \\times 5{,}280 = 50{,}160$ feet per hour. This can be calculated as $(9 \\times 5{,}280) + (0.5 \\times 5{,}280) = 47{,}520 + 2{,}640 = 50{,}160$. Therefore, the runner's average speed during the race was $50{,}160$ feet per hour.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=d131e06b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

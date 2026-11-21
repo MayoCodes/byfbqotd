@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c3211e9838033e843eb4979325fe21d0",
+  "capturedAt": "2026-11-21T00:07:11.323Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A triangle has a base length of $(2x + 4)$ centimeters and a height of $(x + 5)$ centimeters. If the area of the triangle is $70$ square centimeters, what is the value of $x$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$6$",
+    "C": "$5$",
+    "D": "$4$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. Using $A = \\frac{1}{2}bh$: $70 = \\frac{1}{2}(2x + 4)(x + 5)$. Multiplying both sides by $2$: $140 = (2x + 4)(x + 5)$. Expanding: $140 = 2x^2 + 10x + 4x + 20 = 2x^2 + 14x + 20$. Rearranging: $2x^2 + 14x - 120 = 0$, so $x^2 + 7x - 60 = 0$. Factoring: $(x + 12)(x - 5) = 0$, giving $x = -12$ or $x = 5$. Since dimensions must be positive, $x = 5$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=f6cb5920",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

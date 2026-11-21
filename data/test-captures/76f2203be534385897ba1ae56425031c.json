@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "76f2203be534385897ba1ae56425031c",
+  "capturedAt": "2026-11-21T00:06:47.653Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The $y$-intercept of the graph of $y=8(2.34)^x$ in the $xy$-plane is $(0,y)$. What is the value of $y$?",
+  "choices": {},
+  "correctAnswer": "$$8$$",
+  "explanation": "The correct answer is $8$. The $y$-intercept of a function occurs at the point where the graph crosses the $y$-axis, which happens when $x=0$. To find the $y$-coordinate of this point, substitute $x=0$ into the given function $y=8(2.34)^x$. This gives $y=8(2.34)^0$. Using the zero exponent property, which states that any nonzero number raised to the power of zero equals $1$, we have $(2.34)^0=1$. Therefore, $y=8(1)=8$. The $y$-intercept is at the point $(0,8)$, so the value of $y$ is $8$. Note that for exponential functions in the form $y=a(b)^x$, the $y$-intercept is always equal to the coefficient $a$, since $b^0=1$ for any positive base $b$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=4b5b08f6",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

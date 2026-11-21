@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "777d0736ba682a318c713c83fda5efd5",
+  "capturedAt": "2026-11-21T00:06:20.150Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "A sound absorber is a type of material that serves to minimize reverberation—unwanted sound wave reflection that occurs when acoustic energy encounters hard surfaces in enclosed spaces. Though modern acoustical engineers commonly use absorbers like polyurethane foam in their designs, absorbers that have been utilized for centuries, such as wool fabric and wood panels, ______ used to this day by engineers as well.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are",
+    "B": "were",
+    "C": "were being",
+    "D": "would have been"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the use of verb tenses to express time. The present tense plural verb 'are' correctly indicates that traditional sound absorbers continue to be used in the present. This matches the temporal marker 'to this day,' which means 'up to and including the present moment.' The present tense 'are' also agrees in number with the plural subject 'absorbers' and maintains consistency with the sentence's assertion that historical materials remain in current engineering practice.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=8ca287f9",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 17,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

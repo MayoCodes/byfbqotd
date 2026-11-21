@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "be5a978c9ba6c0e754e140a8c20487a2",
+  "capturedAt": "2026-11-21T00:06:33.427Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from Social Science/History",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Sociologist Dr. Lisa Tanaka finds that 12% of global internet users employ advanced encryption software (digital tools developed in jurisdictions such as Switzerland that provide enhanced data protection for users who reside outside those jurisdictions). Tanaka also finds that use of encryption software differs between countries—it is rarely employed by citizens in Canada but commonly employed by citizens in Brazil and South Korea. Technology ethicist Marcus Lindqvist expresses concern about corporations that fail to implement robust encryption as a method of data handling that, though legally accessible, nonetheless allows companies to circumvent responsibility for protecting user information.",
+  "prompt": "Based on the text, what does Tanaka's research suggest about citizens in Canada?",
+  "choices": {
+    "A": "They are less likely than citizens in Brazil to use advanced encryption software.",
+    "B": "They are engaging in digital practices that Lindqvist would acknowledge as beneficial because they are legally accessible.",
+    "C": "They are more likely than residents of Switzerland to employ security strategies that might offer greater protection but that might also result in reduced convenience.",
+    "D": "They are more likely than residents of South Korea to circumvent corporate data collection."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because Tanaka finds that advanced encryption software is rarely employed by citizens in Canada but commonly employed by citizens in Brazil. This directly supports the inference that Canadian citizens are less likely than Brazilian citizens to use such software.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=27010c15",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

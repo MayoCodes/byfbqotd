@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e4f969ac94946b26f69bda918e07cb08",
+  "capturedAt": "2026-11-21T00:06:35.531Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The advent of online video streaming has led many viewers to drift away from ownership of films and television shows (through digital purchases or through physical media such as DVDs and Blu-rays) in favor of the streaming services StreamFlix and WatchNow, among others. Ryan Sullivan studied the effect of the 2013 implementation of a restriction on the free version of the Swedish streaming service Viewly: its unlimited usage was reduced to ten hours a month, while the paid premium version's usage remained unlimited. Ryan Sullivan found that viewers who used the free service visited licensed online video retailers (e.g., the Google Play store) and sites that offer pirated content to download about 3% less after the restriction was implemented, suggesting that ______.",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "the implementation of the restriction reduced the overall number of users of the streaming service",
+    "B": "restrictions on the amount of video content that can be streamed may actually suppress viewers' interest in owning films and television shows",
+    "C": "most users of the free streaming service were probably encouraged by the restriction to move to a paid version of the service with unlimited, ad-free viewing",
+    "D": "consumers are unlikely to purchase physical copies of video content that is readily available through streaming"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most logically completes the text based on Sullivan's research findings. The study found that when Viewly restricted its free streaming from unlimited to ten hours per month, viewers visited both licensed video retailers and pirated content sites about 3% less. This finding is counterintuitive: one might expect that reducing free streaming access would drive viewers to seek content ownership through purchases or downloads. However, the data shows the opposite—less streaming access correlates with less interest in obtaining content through other means. Choice B captures this relationship by stating that restrictions 'may actually suppress viewers' interest in owning films and television shows,' directly reflecting the unexpected negative correlation found in the study.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=d59fe5a3",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 13,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

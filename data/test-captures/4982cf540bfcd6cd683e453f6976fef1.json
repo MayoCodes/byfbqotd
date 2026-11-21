@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4982cf540bfcd6cd683e453f6976fef1",
+  "capturedAt": "2026-11-21T00:06:48.338Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of the linear function $f$ is shown, where $y=f(x)$. What is the slope of the graph of $f$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$-5$",
+    "C": "$-\\frac{1}{2}$",
+    "D": "$\\frac{1}{2}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The slope of a line can be found using the slope formula $m = \\frac{y_2 - y_1}{x_2 - x_1}$, where $(x_1, y_1)$ and $(x_2, y_2)$ are two points on the line. From the graph, two clear points on the line are $(4, -5)$ and $(10, -2)$. Substituting these coordinates into the slope formula gives $m = \\frac{-2 - (-5)}{10 - 4} = \\frac{-2 + 5}{10 - 4} = \\frac{3}{6}$. Simplifying this fraction by dividing both numerator and denominator by their greatest common divisor of $3$ gives $m = \\frac{1}{2}$. Therefore, the slope of the graph of $f$ is $\\frac{1}{2}$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=cefe25de",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/4982cf540bfcd6cd683e453f6976fef1/1-1eb59f6788c6f516.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

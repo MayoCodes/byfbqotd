@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "665ed2d753070ed885662ab6567c27d7",
+  "capturedAt": "2026-11-21T00:06:55.709Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Standard Form - Center and Radius",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A circle in the $xy$-plane has its center at $(3, -2)$ and the point $(6, 2)$ lies on the circle. Which equation represents this circle?",
+  "choices": {
+    "A": "$(x-3)^{2} + (y+2)^{2} = 25$",
+    "B": "$(x+3)^{2} + (y+2)^{2} = 5$",
+    "C": "$(x-3)^{2} + (y-2)^{2} = 25$",
+    "D": "$(x-3)^{2} + (y+2)^{2} = 5$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The standard form equation of a circle is $(x-h)^2 + (y-k)^2 = r^2$, where $(h, k)$ is the center and $r$ is the radius. The center is given as $(3, -2)$, so $h = 3$ and $k = -2$. To find the radius, use the distance formula with the center $(3, -2)$ and the point $(6, 2)$ on the circle: $r = \\sqrt{(6-3)^2 + (2-(-2))^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9+16} = \\sqrt{25} = 5$. Therefore, $r^2 = 25$. Substituting into the standard form: $(x-3)^2 + (y-(-2))^2 = 25$, which simplifies to $(x-3)^2 + (y+2)^2 = 25$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=4ec290bb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 17,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

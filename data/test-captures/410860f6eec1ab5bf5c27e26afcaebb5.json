@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "410860f6eec1ab5bf5c27e26afcaebb5",
+  "capturedAt": "2026-11-21T00:06:16.630Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nChlorophyll a (Chl a) is a pigment that primarily aids in light absorption and energy conversion across the thylakoid membrane in photosynthetic tissue; these are necessary functions in photosynthetic organisms, including aquatic macrophytes. Carrying out these functions typically requires Chl a to be expressed at high levels, evidenced by green plant tissue. The table shows the average Chl a levels and their standard deviations (indicating how dispersed the Chl a levels of individual plants are in relation to the average) of three aquatic plant species, as calculated by Layla Nazari et al. Based on the data, the researchers concluded that for some aquatic plant species, light absorption and energy conversion may occur with negligible assistance from Chl a.",
+  "prompt": "Which choice most effectively uses data from the table to support Nazari et al.'s conclusion?",
+  "choices": {
+    "A": "On average, E. canadensis had higher Chl a levels in their photosynthetic tissue than P. crispus and R. fluitans had.",
+    "B": "Less variation in Chl a levels was observed among R. fluitans individuals than among E. canadensis and P. crispus individuals.",
+    "C": "Greater average Chl a levels in a certain species were associated with greater variance in Chl a levels among individuals of that species.",
+    "D": "R. fluitans had very low Chl a levels in their photosynthetic tissue."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively uses data from the table to support Nazari et al.'s conclusion that some aquatic plant species can perform light absorption and energy conversion with negligible Chl a assistance. The table shows that R. fluitans had an average Chl a level of only 0.03 μg/g—dramatically lower than E. canadensis (42.50 μg/g) and P. crispus (23.15 μg/g). Despite these negligible Chl a levels, R. fluitans was observed as healthy (4 plants), indicating the species successfully performs photosynthetic functions without significant chlorophyll, directly supporting the researchers' conclusion.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=9d25e287",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/410860f6eec1ab5bf5c27e26afcaebb5/1-883df13f3b2622d1.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 12,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

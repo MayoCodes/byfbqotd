@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cb3556007f1bf266979857dc95ef57f9",
+  "capturedAt": "2026-11-21T00:07:04.169Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Word Problem - Setup and Solve Inequality",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Marco is saving money to buy a video game console that costs $$349$. He currently has $$86$ saved and earns $$12.50$ per hour at his part-time job. If Marco can work at most 15 hours per week, what is the minimum number of complete weeks Marco must work to have enough money to buy the console?",
+  "choices": {
+    "A": "$1$",
+    "B": "$2$",
+    "C": "$14$",
+    "D": "$21$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Marco needs $$349$ − $$86$ = $$263$ more. Working 15 hours per week at $$12.50$/hour, he earns $15 \\times 12.50$ = $$187.50$ per week. Dividing: $$263$ ÷ $$187.50$ ≈ $1.4$ weeks. Since Marco must work complete weeks, he needs a minimum of $2$ weeks. Checking: $2 \\times 187.50$ = $$375$, and $$86$ + $$375$ = $$461$ ≥ $$349$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=0d28bedb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 4,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

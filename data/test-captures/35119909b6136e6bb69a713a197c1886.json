@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "35119909b6136e6bb69a713a197c1886",
+  "capturedAt": "2026-11-21T00:06:22.703Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Sequence Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "In 1928, scientists first identified vitamin C as a nutrient found in citrus fruits, which they knew promoted health—and, they assumed, existed only in plants. ______ researchers would discover significant concentrations of vitamin C in animal liver tissue, but this finding wouldn't emerge until years later.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In other words,",
+    "B": "Eventually,",
+    "C": "For example,",
+    "D": "Earlier,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'Eventually' logically signals forward temporal movement from the 1928 discovery to a later finding. The first sentence describes scientists' initial assumption that vitamin C existed only in plants, while the second sentence describes a discovery that contradicted this assumption. The phrase 'this finding wouldn't emerge until years later' explicitly indicates that this discovery occurred after 1928, making 'Eventually' the only transition that correctly conveys this chronological progression from the initial assumption to the subsequent contradictory finding.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=b2447720",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 21,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

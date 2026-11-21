@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "25c503fe4e834cdf7c052221723f6b3c",
+  "capturedAt": "2026-11-21T00:06:52.316Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Quadratic Formula Application",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Given $y^{2} + 37y + 2 = 0$, what is one of the solutions to the given equation?",
+  "choices": {
+    "A": "$(-2 + sqrt(1361))/2$",
+    "B": "$(-37 + sqrt(1361))/(74)$",
+    "C": "$(-37 + sqrt(1361))/2$",
+    "D": "$(-2 + sqrt(1361))/(74)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "The correct answer is C. For the equation $y^2 + 37y + 2 = 0$, the coefficients are $a = 1$, $b = 37$, and $c = 2$. Using the quadratic formula $y = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$, first calculate the discriminant: $b^2 - 4ac = 37^2 - 4(1)(2) = 1369 - 8 = 1361$. Substituting into the formula gives $y = \\frac{-37 \\pm \\sqrt{1361}}{2(1)} = \\frac{-37 \\pm \\sqrt{1361}}{2}$. This equation has two solutions: $\\frac{-37 + \\sqrt{1361}}{2}$ and $\\frac{-37 - \\sqrt{1361}}{2}$. Choice C shows one of these solutions.\n\nChoice A is incorrect because it results from using $b = 2$ instead of $b = 37$ in the numerator of the quadratic formula.\n\nChoice B is incorrect because it results from incorrectly using $2a = 74$ (as if $a = 37$) instead of $2a = 2$ in the denominator.\n\nChoice D is incorrect because it combines both errors: using $b = 2$ in the numerator and $2a = 74$ in the denominator.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=72298432",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 12,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

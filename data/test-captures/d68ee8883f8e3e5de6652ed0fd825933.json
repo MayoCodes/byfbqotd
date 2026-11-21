@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d68ee8883f8e3e5de6652ed0fd825933",
+  "capturedAt": "2026-11-21T00:06:45.036Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A quadratic function models the height, in meters, of a stream of water above the ground in terms of the time, in seconds, after the water was released. The model estimates that the water was released from an initial height of $0$ meters above the ground and reached a maximum height of $45$ meters above the ground $3$ seconds after it was released. The model also estimates that the water was at a height of $25$ meters above the ground $x$ seconds after it was released. What is a possible value of $x$?",
+  "choices": {},
+  "correctAnswer": "$$1,5$$",
+  "explanation": "The correct answer is $1$ or $5$. A quadratic function modeling projectile motion with a maximum can be written in vertex form as $h(t) = a(t - h)^2 + k$, where $(h, k)$ is the vertex representing the maximum height. Given that the maximum height is $45$ meters at $t = 3$ seconds, the vertex is $(3, 45)$, so the function has the form $h(t) = a(t - 3)^2 + 45$. To find the coefficient $a$, use the initial condition that the water was released from height $0$ at time $t = 0$: $h(0) = a(0 - 3)^2 + 45 = 9a + 45 = 0$. Solving gives $9a = -45$, so $a = -5$. The complete function is $h(t) = -5(t - 3)^2 + 45$. To find when the height is $25$ meters, solve $-5(x - 3)^2 + 45 = 25$. Subtracting $45$ from both sides gives $-5(x - 3)^2 = -20$. Dividing by $-5$ gives $(x - 3)^2 = 4$. Taking the square root of both sides gives $x - 3 = \\pm 2$, so $x = 3 + 2 = 5$ or $x = 3 - 2 = 1$. Both values are valid: $x = 1$ second represents the water reaching $25$ meters on the way up, and $x = 5$ seconds represents the water at $25$ meters on the way down. Note that 1 and 5 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=70759114",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

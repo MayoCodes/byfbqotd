@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ed87edddbe449bfcad57f0ca421086a9",
+  "capturedAt": "2026-11-21T00:06:29.988Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Some researchers posit that the valley networks found in Mars's Tharsis region date to the planet's early Noachian period around 3.5 billion years ago. A study conducted by David R. Montgomery et al. found, however, that the formation age (the age determined by crater density analysis and erosion patterns in the geological formation) of the valley networks in the Tharsis region is 1.2 billion years; Montgomery et al. further found that the formation age of valley networks in the Martian highlands generally is approximately 1.5 billion years.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "It presents a possibility that some researchers have raised, then describes a study that clarifies their reasons for doing so.",
+    "B": "It explains a view some researchers have advanced, then discusses study results that led them to reconsider that view.",
+    "C": "It describes an idea that some researchers have put forward, then presents study results that are incompatible with that idea.",
+    "D": "It identifies a discrepancy between a hypothesis some researchers have proposed and related research findings, then explains that discrepancy."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most accurately describes the overall structure of the text. The passage begins by presenting an idea that some researchers have proposed: that Mars's valley networks in the Tharsis region date to the early Noachian period around 3.5 billion years ago. The text then transitions with 'however' to present Montgomery et al.'s study results showing formation ages of only 1.2 billion years (Tharsis) and 1.5 billion years (highlands). These findings directly contradict the 3.5-billion-year hypothesis, making them incompatible with the original idea.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=1f129ef8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 5,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

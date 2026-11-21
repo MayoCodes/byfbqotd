@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "26497f9020d6ede1546a4db4839f27c8",
+  "capturedAt": "2026-11-21T00:07:09.399Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Isosceles/Equilateral Triangle Properties",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In triangle $ABC$, angle $A$ measures $50°$ and angle $B$ measures $70°$. Point $D$ lies on side $BC$ such that $AD$ bisects angle $A$. What is the measure of angle $ADB$, in degrees? (Disregard the degree symbol when entering your answer.)",
+  "choices": {},
+  "correctAnswer": "$$85$$",
+  "explanation": "The correct answer is $85$. First, find $\\angle C$: since angles in a triangle sum to $180°$, $\\angle C = 180° - 50° - 70° = 60°$. Since $\\overline{AD}$ bisects $\\angle A$, $\\angle BAD = 25°$. In triangle $ABD$, the sum of angles equals $180°$: $\\angle ABD + \\angle BAD + \\angle ADB = 180°$. Substituting: $70° + 25° + \\angle ADB = 180°$, so $\\angle ADB = 85°$. This can be verified by noting that $\\angle ADC = 180° - 60° - 25° = 95°$, and $\\angle ADB$ and $\\angle ADC$ are supplementary: $85° + 95° = 180°$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=a15e5442",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

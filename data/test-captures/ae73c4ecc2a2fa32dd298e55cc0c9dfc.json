@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ae73c4ecc2a2fa32dd298e55cc0c9dfc",
+  "capturedAt": "2026-11-21T00:07:12.600Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Isolate Variable / Rearrange Formula",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$4x=\\frac{(16y^{2})}{x}-32x$$\n\nThe given equation relates the positive variables $x$ and $y$. Which equation correctly expresses $x$ in terms of $y$?",
+  "choices": {
+    "A": "$x = \\frac{(4y)}{9}$",
+    "B": "$x = \\frac{(2y)}{3}$",
+    "C": "$x = \\frac{(4y^{2})}{9}$",
+    "D": "$x = \\frac{(2y^{2})}{3}$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To solve for $x$ in terms of $y$, first add $32x$ to both sides of the equation: $4x + 32x = \\frac{16y^2}{x}$, which simplifies to $36x = \\frac{16y^2}{x}$. Multiplying both sides by $x$ to clear the denominator gives $36x^2 = 16y^2$. Dividing both sides by $36$ yields $x^2 = \\frac{16y^2}{36} = \\frac{4y^2}{9}$. Taking the positive square root of both sides (since $x$ and $y$ are positive variables) gives $x = \\sqrt{\\frac{4y^2}{9}} = \\frac{\\sqrt{4y^2}}{\\sqrt{9}} = \\frac{2y}{3}$. This uses the properties that $\\sqrt{4y^2} = \\sqrt{4} \\cdot \\sqrt{y^2} = 2y$ for positive $y$, and $\\sqrt{9} = 3$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=30e02a97",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

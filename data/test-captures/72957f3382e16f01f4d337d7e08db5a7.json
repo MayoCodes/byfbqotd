@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "72957f3382e16f01f4d337d7e08db5a7",
+  "capturedAt": "2026-11-21T00:07:15.765Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$20x^{2} - 60x + 45 = m + \\frac{(23)}{5}$$\n\nWhat is the greatest integer value of $m$ for which the given equation has no real solutions?",
+  "choices": {},
+  "correctAnswer": "$$-5$$",
+  "explanation": "The correct answer is $-5$. The left side can be factored as $5(4x^2 - 12x + 9) = 5(2x - 3)^2$. Rewriting the equation: $5(2x - 3)^2 = m + \\frac{23}{5}$. Since a perfect square is always nonnegative, $5(2x - 3)^2 \\geq 0$, so the equation has no real solutions when $m + \\frac{23}{5} < 0$. Solving: $m < -\\frac{23}{5} = -4.6$. The greatest integer less than $-4.6$ is $-5$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=53cf8562",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 21,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

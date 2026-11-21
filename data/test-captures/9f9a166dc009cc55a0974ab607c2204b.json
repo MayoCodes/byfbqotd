@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9f9a166dc009cc55a0974ab607c2204b",
+  "capturedAt": "2026-11-21T00:06:12.274Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Overall Text Structure",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In a study by Lars Pedersen, Sofia Martelli, and colleagues, commuters in Copenhagen, Denmark, and Rome, Italy, were surveyed about bicycle commuting in their cities. Of the 1,045 respondents from Copenhagen, 68.4% indicated that they regularly commute by bicycle, and of the 892 respondents from Rome, 31.2% indicated regularly commuting by bicycle. Given that the percentage of Copenhagen respondents who reported having access to dedicated bike parking facilities near their workplaces was much lower than that reported by Rome respondents, the difference in bicycle commuting rates can't be explained by Copenhagen commuters having more access to dedicated bike parking facilities near workplaces.",
+  "prompt": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "A study of bicycle commuting in Copenhagen is described, and then a similar study of bicycle commuting in Rome is analyzed to corroborate the findings of the Copenhagen study.",
+    "B": "An unresolved question about transportation planning is described, and then examples from a study of Copenhagen and Rome are used to answer that question.",
+    "C": "An unexpected finding is described, and then that finding is attributed to the method used to collect survey data in Copenhagen and Rome.",
+    "D": "A study involving surveys in Copenhagen and Rome is introduced, and then a possible explanation for some of the results is considered and rejected."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it accurately captures the two-part organizational structure of the passage. The text begins by introducing a study by Pedersen, Martelli, and colleagues, presenting survey data showing Copenhagen has a 68.4% bicycle commuting rate while Rome has 31.2%. The passage then shifts to analytical reasoning, where it considers whether higher cycling in Copenhagen might be explained by greater bike parking access. The text rejects this explanation by noting Copenhagen actually has lower access to bike parking than Rome. This structure—study introduction with data presentation followed by consideration and rejection of a causal explanation—is precisely what Choice D describes.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=27de578f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 6,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

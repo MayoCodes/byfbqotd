@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "35e74ff93f1edf00453d0f11ea10ac6f",
+  "capturedAt": "2026-11-21T00:06:49.801Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Triangle $PQR$ is similar to triangle $XYZ$, where angle $P$ corresponds to angle $X$ and angle $R$ corresponds to angle $Z$. Angles $R$ and $Z$ are right angles. If $P = \\frac{(15)}{8}$, what is the value of $X$?",
+  "choices": {
+    "A": "$\\frac{(15)}{(17)}$",
+    "B": "$\\frac{8}{(17)}$",
+    "C": "$\\frac{(17)}{(15)}$",
+    "D": "$\\frac{(17)}{8}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Since triangles $PQR$ and $XYZ$ are similar and angle $P$ corresponds to angle $X$, these corresponding angles are equal: $\\angle P = \\angle X$. Therefore, trigonometric ratios for these equal angles are also equal, meaning $\\sin P = \\sin X$. Given $\\tan P = \\frac{15}{8}$, we can use this to find $\\sin P$. The tangent ratio $\\tan P = \\frac{\\text{opposite}}{\\text{adjacent}} = \\frac{15}{8}$ indicates that in right triangle $PQR$ (with right angle at $R$), the side opposite to angle $P$ is $15k$ and the side adjacent to angle $P$ is $8k$ for some positive constant $k$. Using the Pythagorean theorem, the hypotenuse is $\\sqrt{(15k)^2 + (8k)^2} = \\sqrt{225k^2 + 64k^2} = \\sqrt{289k^2} = 17k$. Therefore, $\\sin P = \\frac{\\text{opposite}}{\\text{hypotenuse}} = \\frac{15k}{17k} = \\frac{15}{17}$. Since $\\sin X = \\sin P$, we have $\\sin X = \\frac{15}{17}$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=14752534",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

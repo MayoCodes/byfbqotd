@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "16158dff0e29fcc85a1db4b85c6d90a2",
+  "capturedAt": "2026-11-21T00:06:54.267Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale. In right triangle $PQR$ shown, what is the measure of $R$?",
+  "choices": {
+    "A": "$142^°$",
+    "B": "$128^°$",
+    "C": "$52^°$",
+    "D": "$38^°$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The sum of the measures of the interior angles of any triangle is $180^\\circ$. In right triangle $PQR$, angle $Q$ is the right angle, so $m\\angle Q = 90^\\circ$. The diagram shows that $m\\angle P = 38^\\circ$. Using the triangle angle sum theorem: $m\\angle P + m\\angle Q + m\\angle R = 180^\\circ$. Substituting the known values gives $38^\\circ + 90^\\circ + m\\angle R = 180^\\circ$. Solving for $m\\angle R$: $m\\angle R = 180^\\circ - 38^\\circ - 90^\\circ = 52^\\circ$. Therefore, the measure of angle $R$ is $52^\\circ$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=456783c0",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/16158dff0e29fcc85a1db4b85c6d90a2/1-59e400b4f2d08c89.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

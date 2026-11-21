@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a2b3113d6f524cbcc918e8eaf932eae7",
+  "capturedAt": "2026-11-21T00:07:11.954Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Solve for X Given Output",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $g(x) = -25x + 400$ gives the amount of water remaining $g(x)$, in gallons, in a tank that is being drained $x$ minutes after the draining begins. A second tank is modeled by $h(x) = -40x + 520$, where $h(x)$ is the amount of water remaining in gallons after $x$ minutes. After how many minutes will both tanks contain the same amount of water?",
+  "choices": {
+    "A": "$6$",
+    "B": "$8$",
+    "C": "$10$",
+    "D": "$12$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To find when both tanks contain the same amount of water, set $g(x) = h(x)$: $-25x + 400 = -40x + 520$. Adding $40x$ to both sides: $15x + 400 = 520$. Subtracting $400$: $15x = 120$. Dividing by $15$: $x = 8$. Therefore, both tanks contain the same amount of water after $8$ minutes.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=70bda604",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c4f88159087a58d2008670966f081723",
+  "capturedAt": "2026-11-21T00:06:53.626Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $m$ passes through the points $(4, 0)$ and $(0, 6)$. Which of the following is an equation of line $m$?",
+  "choices": {
+    "A": "$2x - 3y = 12$",
+    "B": "$3x - 2y = 12$",
+    "C": "$2x + 3y = 12$",
+    "D": "$3x + 2y = 12$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The line passes through $(4, 0)$ and $(0, 6)$, which are the $x$-intercept and $y$-intercept, respectively. Using the intercept form of a line, $\\frac{x}{a} + \\frac{y}{b} = 1$, where $a$ is the $x$-intercept and $b$ is the $y$-intercept, gives $\\frac{x}{4} + \\frac{y}{6} = 1$. Multiplying both sides by $12$ (the least common multiple of $4$ and $6$) yields $12\\left(\\frac{x}{4}\\right) + 12\\left(\\frac{y}{6}\\right) = 12$, which simplifies to $3x + 2y = 12$. This can be verified by substituting both points: for $(4, 0)$, $3(4) + 2(0) = 12 + 0 = 12$, and for $(0, 6)$, $3(0) + 2(6) = 0 + 12 = 12$. Both points satisfy the equation, confirming that $3x + 2y = 12$ is the equation of line $m$.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=efe43c50",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 14,
+    "subject": "Math",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}

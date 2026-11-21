@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7ece8eedaf747665bc6b9d204593469e",
+  "capturedAt": "2026-11-21T00:06:42.477Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Known as \"the empire that spanned the globe,\" the British Empire once controlled territories across four continents. Its legacy can still be seen, and heard, in the English-speaking nation of India, which gained its independence from Britain in the twentieth century. ______ a former colony's tie to the British Empire is so tenuous that English is rarely used in daily life; an example is Myanmar, which ceased to be part of the empire in 1948.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "As a result,",
+    "B": "In addition,",
+    "C": "At the same time,",
+    "D": "On the other hand,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because 'On the other hand' logically signals the contrast between the two examples of British colonial legacy presented in the text. The passage first discusses India, where the British Empire's legacy 'can still be seen, and heard' through widespread English usage. The sentence following the blank introduces Myanmar, where 'English is rarely used in daily life,' representing a dramatically different outcome. This oppositional relationship—strong linguistic legacy versus weak linguistic legacy—requires a contrastive transition, which 'On the other hand' provides.",
+  "source": "https://cooksat.com/practice-test-review/1?questionId=5fe8c40c",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 24,
+    "subject": "English",
+    "testId": "1",
+    "title": "Practice Test 1"
+  }
+}
