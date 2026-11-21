@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3570ae474cd891a059507a08f516af70",
+  "capturedAt": "2026-11-21T00:09:34.080Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Contrast Two Items",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Fractured Memory is a 2021 photomontage by Japanese-American artist Layla Khoury.\n• It is a black-and-white composition that layers fragmented portrait photographs.\n• Photomontage became prominent with propagandists and advertisers in the 1920s and began to decline in commercial use in the 1950s.\n• Photomontage became established with artists in the 1960s and continues to be widely used today.\n• Art historian Omar Hassan says, \"[Photomontages] must be painstakingly assembled by hand because the layering process is too labor-intensive to automate.\"",
+  "prompt": "The student wants to connect the photomontage to the history of photomontage in art. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "With Fractured Memory, Khoury joins the decades-long lineage of artists who have helped make photomontage an established artistic medium since the 1960s.",
+    "B": "Photomontages like Fractured Memory are used by propagandists and artists alike, though they must, as Hassan notes, be painstakingly assembled by hand, as the layering process cannot be easily automated.",
+    "C": "Continuing from the 1920s to today, photomontage has been a prominent technique, both as a propaganda tool and an artistic medium.",
+    "D": "The black-and-white photomontage Fractured Memory nods to the rich history of a technique whose artistic prominence has long been in decline."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it effectively connects Khoury's specific artwork to the history of photomontage in art. The sentence accomplishes the stated goal by naming both the artwork (Fractured Memory) and the artist (Khoury), then explicitly linking them to the 'decades-long lineage of artists' who have used photomontage as an artistic medium since the 1960s. This directly references the note stating that photomontage 'became established with artists in the 1960s and continues to be widely used today,' positioning Khoury's 2021 work within this ongoing artistic tradition.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=919518f0",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 27,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

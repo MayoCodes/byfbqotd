@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a9741719ae269204b11c03de11a96aa1",
+  "capturedAt": "2026-11-21T00:09:54.579Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA fundraising campaign was launched with an initial donation. Over the next several weeks, regular donations were made to this campaign, and there were no withdrawals made during this time. The graph of the function $f$ shown, where $y = f(x)$, estimates the total amount raised, in dollars, in this fundraising campaign $x$ weeks since the initial donation. To the nearest whole dollar, what is the amount of the initial donation estimated by the graph?",
+  "choices": {},
+  "correctAnswer": "$$50$$",
+  "explanation": "The correct answer is $50$. The initial donation is the amount raised at $x = 0$ weeks, which is the $y$-intercept. Reading the graph at $x = 0$, the $y$-coordinate is $50$. Therefore, the initial donation is $50$ dollars.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=d1e18626",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a9741719ae269204b11c03de11a96aa1/1-a0db9954b0c147ae.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

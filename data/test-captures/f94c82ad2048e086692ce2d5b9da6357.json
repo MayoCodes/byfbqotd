@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f94c82ad2048e086692ce2d5b9da6357",
+  "capturedAt": "2026-11-21T00:10:20.127Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$g(x) = 2k(15x+16) + 12$$\n\nWhich of the following represents the $x$-intercept of the graph of $y = g(x) + 4$ in the $xy$-plane, where $k$ is a constant?",
+  "choices": {
+    "A": "$(32k+16, 0)$",
+    "B": "$(4 - \\frac{(32k+16)}{(30k)}, 0)$",
+    "C": "$(\\frac{(-32k-16)}{(30k)}, 0)$",
+    "D": "$(-\\frac{(28)}{(30k+4)}, 0)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The $x$-intercept of a graph occurs where $y = 0$. Given $g(x) = 2k(15x+16) + 12$, we need to find the $x$-intercept of $y = g(x) + 4$. Setting $y = 0$ gives $g(x) + 4 = 0$, which means $g(x) = -4$. Substituting the expression for $g(x)$: $2k(15x+16) + 12 = -4$. Using the distributive property: $30kx + 32k + 12 = -4$. Combining the constant terms: $30kx + 32k = -16$. Isolating the term with $x$: $30kx = -32k - 16$. Solving for $x$: $x = \\frac{-32k-16}{30k}$. Therefore, the $x$-intercept is $\\left(\\frac{-32k-16}{30k}, 0\\right)$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=51c89aba",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

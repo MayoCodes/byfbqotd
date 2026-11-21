@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dd54c15231631ff71125494e2f2ada4e",
+  "capturedAt": "2026-11-21T00:09:47.794Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Dr. Natalie Reyes is a marine biologist who works on the Challenger Deep submersible program. Thanks in part to Reyes's contributions, the submersible is now capable of reaching the floor of the Mariana Trench, almost 36,000 feet below the ocean's surface. ______ the submersible's predecessor, a conventional research submarine, can only descend to about 1,000 feet below the surface.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Therefore,",
+    "B": "Secondly,",
+    "C": "Similarly,",
+    "D": "By contrast,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because 'By contrast' logically signals a comparison that highlights the differences between the two technologies described. The text establishes that the Challenger Deep submersible can reach almost 36,000 feet below the ocean's surface, while the predecessor conventional submarine can only descend to about 1,000 feet. This represents a dramatic difference in capability, and 'By contrast' appropriately emphasizes this disparity between the advanced new technology and its limited predecessor.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=b23b4b0b",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 22,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6a409472a9197e2fa7cc57778d973018",
+  "capturedAt": "2026-11-21T00:09:51.528Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Factor Out GCF",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression is equivalent to $x^{5} - 420x^{2}$?",
+  "choices": {
+    "A": "$x^{2}(x^{3} + 420)$",
+    "B": "$(x^{2} + 42)(x^{2} - 10)$",
+    "C": "$(x^{2} - 21)(x^{2} - 20)$",
+    "D": "$x^{2}(x^{3} - 420)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find an equivalent expression, factor out the greatest common factor (GCF) from the polynomial $x^5 - 420x^2$. Both terms contain powers of $x$, and the GCF is $x^2$, the highest power of $x$ that divides both terms. Factoring out $x^2$ gives $x^2(x^3 - 420)$, where $x^5 \\div x^2 = x^3$ using the quotient rule for exponents, and $420x^2 \\div x^2 = 420$. This can be verified by expanding: $x^2(x^3 - 420) = x^2 \\cdot x^3 - x^2 \\cdot 420 = x^5 - 420x^2$, which matches the original expression.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=45fdf9d7",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

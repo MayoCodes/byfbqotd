@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0c36598d0747da349781ce455b28e48a",
+  "capturedAt": "2026-11-21T00:09:49.029Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The spectacular meteor shower of August 12, 1479 CE, was extensively documented in Chinese astronomical records. Another notable meteor event occurred on November 17, 1833 CE, but unlike the 1479 CE event, the 1833 CE meteors were sporadic. ______ the meteors appeared randomly from various points in the sky, rather than radiating from a single constellation.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "For example,",
+    "B": "That is,",
+    "C": "Meanwhile,",
+    "D": "Nonetheless,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'that is' logically signals that what follows is a clarification or restatement of the preceding information. The passage introduces the technical term 'sporadic' to describe the 1833 CE meteors, and the clause after the blank explains what this term means: the meteors 'appeared randomly from various points in the sky, rather than radiating from a single constellation.' This is a definitional explanation, not an example or contrast, making 'that is' the appropriate transition to connect the term with its meaning.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=27b5e009",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 24,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

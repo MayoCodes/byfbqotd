@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3d2c01ba138b9fbfbc7596dadbe8cba8",
+  "capturedAt": "2026-11-21T00:09:24.949Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nMany flowering plants display petal patterns that vary in coloration, with some petals showing distinct stripes while others remain solid in color, a phenomenon known as striped petal patterns. University of Washington botanist Elena Okoye and colleagues examined several varieties of snapdragons and closely related plants, which have petals that grow in pairs, to see if both petals in a pair tend to show the same pattern (that is, both striped or both solid) or not. They found that striped petals were much more common than solid petals: in the Cascade variety, for example, approximately ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the example?",
+  "choices": {
+    "A": "650 petal pairs show striped petals, whereas no pairs show solid petals.",
+    "B": "110 petal pairs show striped petals, whereas approximately 49 pairs show solid petals.",
+    "C": "150 petal pairs show striped petals, whereas approximately 60 pairs show solid petals.",
+    "D": "110 petal pairs show striped petals, whereas no pairs show solid petals."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it accurately uses data from the graph to complete the example about the Cascade variety. The passage explicitly states 'in the Cascade variety, for example,' requiring data from the dark gray bars according to the graph's legend. Choice C correctly cites approximately 150 petal pairs with striped petals and approximately 60 pairs with solid petals, effectively demonstrating that striped petals are much more common than solid petals in this variety.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=42a3f636",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/3d2c01ba138b9fbfbc7596dadbe8cba8/1-a604918a3bd65723.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 13,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

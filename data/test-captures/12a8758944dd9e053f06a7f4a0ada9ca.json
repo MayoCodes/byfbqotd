@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "12a8758944dd9e053f06a7f4a0ada9ca",
+  "capturedAt": "2026-11-21T00:10:19.498Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Right circular cone $A$ is similar to right circular cone $B$. The surface area of cone $A$ is $1,600$ square units and the surface area of cone $B$ is $129,600$ square units. If the volume of cone $B$ is $34,992$ cubic units, what is the sum of the volumes, in cubic units, of the $2$ cones?",
+  "choices": {
+    "A": "$35,040$",
+    "B": "$38,880$",
+    "C": "$35,424$",
+    "D": "$69,984$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For similar figures, the ratio of surface areas equals the square of the linear scale factor, and the ratio of volumes equals the cube of the linear scale factor. The ratio of surface areas is $\\frac{1{,}296}{16} = 81$, so the linear scale factor is $k = \\sqrt{81} = 9$, and the volume ratio is $9^3 = 729$. Since $\\frac{V_B}{V_A} = 729$ and $V_B = 34{,}992$, we have $V_A = \\frac{34{,}992}{729} = 48$ cubic units. The sum of the volumes is $34{,}992 + 48 = 35{,}040$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=e8281076",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 18,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

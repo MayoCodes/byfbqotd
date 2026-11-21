@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "616abf10908ee6ce21f0e298caf80436",
+  "capturedAt": "2026-11-21T00:09:26.247Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Smallmouth bass (Micropterus dolomieu) are native to the Great Lakes, where cold water temperatures have historically limited potential invasive species. As the freshwater climate has warmed in recent decades, however, round goby (Neogobius melanostomus) populations have established themselves in the Great Lakes. It has been suggested that warming-induced advances in the timing of spring temperature increases can benefit invasives more than native species; to evaluate this possibility, biologists Sofia Andersson and Lars Bergman tracked M. dolomieu and N. melanostomus, along with other native and invasive species, over several years, concluding that invasives are advantaged by earlier spring warming in the Great Lakes.",
+  "prompt": "Which finding, if true, would most directly support Andersson and Bergman's conclusion?",
+  "choices": {
+    "A": "Although M. dolomieu and N. melanostomus both tended to produce more offspring overall in years with early spring temperature increases than they did in years with historically typical temperature patterns, the years with early spring temperature increases also had extended summer growing seasons.",
+    "B": "Although significant interannual variations in spring temperature timing were observed during the study, neither N. melanostomus nor M. dolomieu showed any significant interannual variation in the initiation of spawning activity.",
+    "C": "Although M. dolomieu and N. melanostomus tended to begin spawning at about the same time in years with historically typical temperature patterns, N. melanostomus began spawning later than M. dolomieu did in years with early spring temperature increases.",
+    "D": "Although M. dolomieu and N. melanostomus both tended to begin spawning earlier in spring in years with early temperature increases, the advancement was much greater for N. melanostomus than for M. dolomieu."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it provides evidence that directly demonstrates the differential advantage claimed in Andersson and Bergman's conclusion. The finding shows that both the native species (M. dolomieu) and the invasive species (N. melanostomus) advance their spawning timing in response to early spring warming, but the invasive species shows a much greater advancement. This differential response is precisely what 'advantaged' means in the conclusion: the invasive gains a larger benefit from the environmental change, potentially accessing resources and optimal conditions before the native species does.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=7d211370",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 14,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

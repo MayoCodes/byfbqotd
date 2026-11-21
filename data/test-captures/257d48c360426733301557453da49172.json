@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "257d48c360426733301557453da49172",
+  "capturedAt": "2026-11-21T00:10:00.932Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Find Intercept from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In the $xy$-plane, the graph of the linear function $g$ contains the points $(0, 0)$ and $(1, 6)$. Which equation defines $g$, where $y = g(x)$?",
+  "choices": {
+    "A": "$g(x) = \\frac{1}{6}x + 6$",
+    "B": "$g(x) = 6x + 6$",
+    "C": "$g(x) = 6x$",
+    "D": "$g(x) = x + 6$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The equation of a linear function in slope-intercept form is $y = mx + b$, where $m$ is the slope and $b$ is the $y$-intercept. To find the slope, use the formula $m = \\frac{y_2 - y_1}{x_2 - x_1}$. Using the points $(0, 0)$ and $(1, 6)$, the slope is $m = \\frac{6 - 0}{1 - 0} = \\frac{6}{1} = 6$. Since the line passes through the origin $(0, 0)$, the $y$-intercept is $b = 0$. Therefore, the equation is $g(x) = 6x + 0 = 6x$. This can be verified by checking that both points satisfy the equation: $g(0) = 6(0) = 0$ and $g(1) = 6(1) = 6$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=34f80bf0",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 14,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

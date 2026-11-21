@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0e286b8e4cc5de4b95700b0536afecd6",
+  "capturedAt": "2026-11-21T00:10:12.773Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA library organizes its books into three types: fiction, nonfiction, and reference. The table summarizes the distribution of book type by subject for all the books in the library. A book is selected at random. What is the probability of selecting a book that is about science, given that the book is nonfiction?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{1}{4},0.25,.25$$",
+  "explanation": "The correct answer is $\\frac{1}{4}$ or $0.25$. This is a conditional probability problem asking for $P(\\text{Science}|\\text{Nonfiction})$. When given a condition, we restrict our sample space to only those outcomes satisfying the condition. Since the book is nonfiction, we only consider the nonfiction row. From the table, the nonfiction row shows $20$ mystery books, $12$ science books, and $16$ history books, for a total of $48$ nonfiction books. Among these $48$ nonfiction books, $12$ are about science. Therefore, the probability is $\\frac{12}{48} = \\frac{1}{4} = 0.25$. Note that 1/4, 0.25, and .25 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=1f964aea",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/0e286b8e4cc5de4b95700b0536afecd6/1-ef017ddac6b18a52.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

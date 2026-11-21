@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dae7299c83eca00161fc0e0fa2184524",
+  "capturedAt": "2026-11-21T00:09:40.054Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nEducational psychologist Dr. Claire Sullivan and colleagues developed a computational model to predict how engaged a student will be with a particular teaching method on a scale from 1 (not at all engaged) to 5 (extremely engaged). They then recruited participants to use the same scale to rate their engagement with several sessions using different instructional approaches. Assuming participant S1 gave equal ratings to the lecture-based and project-based sessions, the data in the graph indicate the model predicted that ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the example?",
+  "choices": {
+    "A": "S1 would be more engaged with project-based sessions than with lecture-based sessions.",
+    "B": "S1 would be equally engaged with lecture-based and project-based sessions.",
+    "C": "S1 would be more engaged with lecture-based sessions than with project-based sessions.",
+    "D": "S1 would be only slightly engaged with project-based sessions."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because the graph shows that the model predicted a higher engagement rating for S1 in project-based sessions than in lecture-based sessions. The predicted rating is approximately 4.2 for project-based sessions and approximately 2.6 for lecture-based sessions.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=ce099ba3",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/dae7299c83eca00161fc0e0fa2184524/1-4e8f239c57135ead.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

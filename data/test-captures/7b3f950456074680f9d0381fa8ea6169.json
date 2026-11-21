@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7b3f950456074680f9d0381fa8ea6169",
+  "capturedAt": "2026-11-21T00:10:21.394Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A quadratic function gives the estimated temperature $T(d)$, in degrees Celsius, in a certain city $d$ days after January 1, where $0 \\le d \\le 8$. According to the function, the estimated temperature is $18$ degrees Celsius $7$ days after January 1 and the maximum estimated temperature is $22.5$ degrees Celsius $4$ days after January 1. Based on this function, what is the estimated temperature, in degrees Celsius, on January 1?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{29}{2},14.5,14.50$$",
+  "explanation": "The correct answer is $\\frac{29}{2}$ or $14.5$ degrees Celsius. A quadratic function with a known maximum can be expressed in vertex form $T(d) = a(d - h)^2 + k$, where $(h, k)$ is the vertex representing the maximum point. Given that the maximum temperature is $22.5$ degrees Celsius at $d = 4$ days, the vertex is $(4, 22.5)$, so the function is $T(d) = a(d - 4)^2 + 22.5$. To find the coefficient $a$, substitute the known point $(7, 18)$: $18 = a(7 - 4)^2 + 22.5$, which simplifies to $18 = 9a + 22.5$. Solving for $a$ gives $9a = 18 - 22.5 = -4.5$, so $a = -0.5$. The complete function is $T(d) = -0.5(d - 4)^2 + 22.5$. To find the temperature on January 1, evaluate the function at $d = 0$: $T(0) = -0.5(0 - 4)^2 + 22.5 = -0.5(16) + 22.5 = -8 + 22.5 = 14.5$ degrees Celsius. Note that 29/2, 14.5, and 14.50 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=5eb66bea",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 21,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

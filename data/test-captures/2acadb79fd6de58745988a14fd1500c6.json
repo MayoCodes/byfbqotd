@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2acadb79fd6de58745988a14fd1500c6",
+  "capturedAt": "2026-11-21T00:09:48.423Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Lossless compression methods like ZIP and PNG, techniques used by data archivists to store digital files efficiently, typically require storage systems to manage file sizes measuring in the kilobytes. ______ these techniques are more efficient than uncompressed storage formats, which require larger and more costly storage systems to accommodate file sizes measuring in the megabytes.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Instead,",
+    "B": "Specifically,",
+    "C": "As such,",
+    "D": "For example,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because 'As such' logically signals a consequence or result. The first sentence establishes that lossless compression methods require storage systems to manage small file sizes (kilobytes), and the second sentence presents the efficiency advantage that results from this characteristic. The transition 'As such' correctly indicates that the greater efficiency described is a direct consequence of the smaller file sizes mentioned in the first sentence, making it the most logical connector between these cause-and-effect ideas.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=0c2abafc",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 23,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

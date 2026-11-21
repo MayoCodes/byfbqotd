@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ff8c5fe685f0261ca4bd5985cd91bc8b",
+  "capturedAt": "2026-11-21T00:10:05.958Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$31x^{2} + (31n + m)x + mn = 0$$\n\nIn the given equation, $m$ and $n$ are positive constants. The product of the solutions to the given equation is $kmn$, where $k$ is a constant. What is the value of $k$?",
+  "choices": {
+    "A": "$\\frac{1}{(31)}$",
+    "B": "$1$",
+    "C": "$31$",
+    "D": "$-\\frac{1}{(31)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The equation $31x^2 + (31n + m)x + mn = 0$ can be factored by grouping. Rewriting the middle term: $31x^2 + 31nx + mx + mn = 0$. Grouping: $31x(x + n) + m(x + n) = 0$, which factors as $(31x + m)(x + n) = 0$. By the zero product property, $x = -\\frac{m}{31}$ or $x = -n$. The product of the solutions is $\\left(-\\frac{m}{31}\\right)(-n) = \\frac{mn}{31}$. Since the product equals $kmn$, we have $\\frac{mn}{31} = kmn$. Dividing both sides by $mn$ (valid since $m$ and $n$ are positive) gives $k = \\frac{1}{31}$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=387b1bf1",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 22,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

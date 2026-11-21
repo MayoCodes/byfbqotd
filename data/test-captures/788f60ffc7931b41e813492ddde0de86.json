@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "788f60ffc7931b41e813492ddde0de86",
+  "capturedAt": "2026-11-21T00:10:04.072Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What is the $y$-intercept of the graph of $y = 5^x + 8$ in the $xy$-plane?",
+  "choices": {
+    "A": "$(0, 5)$",
+    "B": "$(0, 8)$",
+    "C": "$(0, 9)$",
+    "D": "$(0, 13)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The $y$-intercept of a graph in the $xy$-plane occurs at the point where $x = 0$. To find the $y$-intercept of the function $y = 5^x + 8$, substitute $x = 0$ into the equation: $y = 5^0 + 8$. Using the exponential property that any nonzero number raised to the power of zero equals $1$, we have $5^0 = 1$. Therefore, $y = 1 + 8 = 9$. The $y$-intercept is the point $(0, 9)$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=c4bd837f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "99b22df0a6851beb6e927b6454eb8407",
+  "capturedAt": "2026-11-21T00:09:22.813Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nDr. Layla Hassan and colleagues gathered data on 23 invasive aquatic species documented along North American coastlines. They analyzed reports from California, Massachusetts, and Florida about the number of these species found in those regions as well as the numbers of parasite and predator species that threaten those organisms. The researchers concluded that California had a greater number of damaging parasite species than either of the other regions did.",
+  "prompt": "Which choice best describes data from the table that support Hassan and colleagues' conclusion?",
+  "choices": {
+    "A": "California reported 315 damaging parasite species, which is more than either Massachusetts or Florida reported.",
+    "B": "California reported 315 damaging parasite species, whereas Massachusetts reported 91 damaging predator species.",
+    "C": "Florida reported 21 damaging parasite species but only 17 damaging predator species.",
+    "D": "Massachusetts and Florida reported 91 and 17 damaging predator species, respectively, which is fewer than California reported."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most directly describes data supporting Hassan and colleagues' conclusion that California had more damaging parasite species than the other regions. The passage states the researchers concluded California exceeded both Massachusetts and Florida in parasite species counts. Choice A accurately cites California's parasite count (315 species) and explicitly makes the complete comparison: this value 'is more than either Massachusetts or Florida reported.' The table confirms California's 315 parasite species exceeds Massachusetts's 54 and Florida's 21, making this the most straightforward statement of the evidentiary relationship.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=81f2318d",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/99b22df0a6851beb6e927b6454eb8407/1-5f03641f8c6a7f99.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 11,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

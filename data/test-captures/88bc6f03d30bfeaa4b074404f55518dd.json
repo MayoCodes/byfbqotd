@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "88bc6f03d30bfeaa4b074404f55518dd",
+  "capturedAt": "2026-11-21T00:10:18.876Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A factory produces widgets using two machines. Machine A produces $120$ widgets per hour and Machine B produces $90$ widgets per hour. On a certain day, the factory produced a total of $4,100$ widgets. If Machine A ran for $m$ minutes and Machine B ran for $n$ minutes that day, which equation represents this situation?",
+  "choices": {
+    "A": "$120m + 90n = 4,100$",
+    "B": "$2m + 1.5n = 4,100$",
+    "C": "$7,200m + 5,400n = 4,100$",
+    "D": "$2m + 1.5n = 246,000$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Machine A produces 120 widgets per hour and Machine B produces 90 widgets per hour, but the variables m and n represent minutes. Converting to widgets per minute: Machine A produces 120/60 = 2 widgets per minute, and Machine B produces 90/60 = 1.5 widgets per minute. The total production is 2m + 1.5n = 4,100.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=47b38430",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 17,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

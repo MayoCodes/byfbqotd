@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "eefb276a31c930293102b5b0297198a4",
+  "capturedAt": "2026-11-21T00:10:07.183Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Find Percent of a Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Jessie purchased $400$ gallons of paint. She used $75%$ of this paint to cover a large wall. How many gallons of paint did Jessie use to cover the wall?",
+  "choices": {
+    "A": "$30$",
+    "B": "$100$",
+    "C": "$325$",
+    "D": "$300$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find the amount of paint Jessie used, calculate $75\\%$ of $400$ gallons. Converting the percentage to decimal form gives $75\\% = 0.75$. Multiplying this by the total amount: $400 \\times 0.75 = 300$. Alternatively, recognizing that $75\\% = \\frac{3}{4}$, the calculation becomes $400 \\times \\frac{3}{4} = \\frac{1200}{4} = 300$ gallons. Therefore, Jessie used $300$ gallons of paint to cover the wall.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=35d20a63",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

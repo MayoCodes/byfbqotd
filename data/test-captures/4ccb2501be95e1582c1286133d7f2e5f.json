@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4ccb2501be95e1582c1286133d7f2e5f",
+  "capturedAt": "2026-11-21T00:10:14.243Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$(a+p) + \\frac{7}{2}(b+q) + 17 = 0$$\n\n$$(a+p) - \\frac{7}{2}(b+q) - 17 = 0$$\n\nIn the given system of equations, $p$ and $q$ are constants. The solution to this system is $(a, b)$. What is the value of $14(b + q)$?",
+  "choices": {
+    "A": "$0$",
+    "B": "$-68$",
+    "C": "$34$",
+    "D": "$7$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To solve this system, add the two equations to eliminate the $(b+q)$ term. Adding the left sides: $(a+p) + \\frac{7}{2}(b+q) + 17 + (a+p) - \\frac{7}{2}(b+q) - 17 = 2(a+p)$. Adding the right sides: $0 + 0 = 0$. Therefore, $2(a+p) = 0$, which gives $(a+p) = 0$. Substituting $(a+p) = 0$ into the first equation: $0 + \\frac{7}{2}(b+q) + 17 = 0$. Solving for $(b+q)$: $\\frac{7}{2}(b+q) = -17$, so $(b+q) = -17 \\cdot \\frac{2}{7} = \\frac{-34}{7}$. The question asks for $14(b+q)$, so $14(b+q) = 14 \\cdot \\frac{-34}{7} = \\frac{14}{7} \\cdot (-34) = 2 \\cdot (-34) = -68$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=7e56cdde",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

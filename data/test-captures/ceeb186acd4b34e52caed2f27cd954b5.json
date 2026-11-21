@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ceeb186acd4b34e52caed2f27cd954b5",
+  "capturedAt": "2026-11-21T00:09:56.062Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Function Value in Context",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A ball is thrown upward from a platform. The function $g(t) = -5t^{2} + 45$ gives the estimated height, in meters, of the ball $t$ seconds after it was thrown. Based on the function, what is the estimated height, in meters, of the ball when it was thrown?",
+  "choices": {},
+  "correctAnswer": "$$45$$",
+  "explanation": "The correct answer is $45$. To find the estimated height of the ball when it was thrown, we need to determine the height at the initial time, which is when $t = 0$ seconds. The function $g(t) = -5t^2 + 45$ gives the height at any time $t$. Substituting $t = 0$ into the function: $g(0) = -5(0)^2 + 45 = -5(0) + 45 = 0 + 45 = 45$. Therefore, the estimated height of the ball when it was thrown is $45$ meters. This value corresponds to the constant term in the quadratic function, which represents the initial height of the ball on the platform before any time has elapsed.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=c764b9ff",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

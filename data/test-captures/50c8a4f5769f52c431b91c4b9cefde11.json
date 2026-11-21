@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "50c8a4f5769f52c431b91c4b9cefde11",
+  "capturedAt": "2026-11-21T00:09:27.434Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Verb Tense Consistency",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Red Cube (1968) is one of several dozen remaining works by Isamu Noguchi. Currently, his sculpture ______ at the Museum of Modern Art in New York, where visitors can observe the Japanese American artist's work on display.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "stands",
+    "B": "will have stood",
+    "C": "stood",
+    "D": "was standing"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is verb tense consistency. The adverb 'Currently' at the beginning of the sentence establishes a present-time context, indicating that the sculpture's location is being described as it exists now. The simple present tense verb 'stands' correctly matches this temporal frame. Additionally, the present tense is reinforced by the subordinate clause 'where visitors can observe,' which uses the present tense modal 'can.' The singular verb 'stands' also agrees in number with the singular subject 'sculpture.'",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=f2070b6b",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 16,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

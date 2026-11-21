@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0e4799e0880c2b3782c2d0a9acb112bd",
+  "capturedAt": "2026-11-21T00:09:38.957Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The fish species Danio rerio (zebrafish) shares some territory in Lake Superior tributaries with Pimephales promelas (fathead minnow), which releases an alarm pheromone when it detects predators. Biologist Aiden Patel and colleagues collected water samples containing P. promelas alarm pheromone and introduced them into areas inhabited by wild D. rerio. Finding that the fish often showed rapid swimming or hiding behavior upon exposure to the samples, they concluded that D. rerio associates P. promelas alarm pheromone with danger.",
+  "prompt": "Which finding, if true, would most directly support Patel and colleagues' conclusion?",
+  "choices": {
+    "A": "When Patel and colleagues introduced control samples of water from tanks without fish in the vicinity of D. rerio, the fish displayed no reaction.",
+    "B": "Other fish species than D. rerio also showed a tendency to exhibit rapid swimming or hiding behavior when Patel and colleagues introduced P. promelas alarm pheromone.",
+    "C": "Patel and colleagues introduced alarm pheromone from different P. promelas individuals and observed that D. rerio usually showed little or no response to samples from most of those individuals.",
+    "D": "In some instances, D. rerio showed rapid swimming or hiding behavior when Patel and colleagues approached but before they began introducing samples."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it provides a control comparison: D. rerio reacted to water containing P. promelas alarm pheromone but not to control water from tanks without fish. This supports the conclusion that the response was associated with the pheromone-containing samples. Because the control does not establish that the samples were otherwise identical in handling and composition, it does not by itself rule out every alternative cause or prove that the pheromone alone triggered the response.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=0630f952",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 8,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

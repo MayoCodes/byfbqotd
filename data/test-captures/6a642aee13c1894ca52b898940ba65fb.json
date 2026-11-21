@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6a642aee13c1894ca52b898940ba65fb",
+  "capturedAt": "2026-11-21T00:10:02.175Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The width of a rectangle is $28$ meters less than its length. Which equation gives the area $A$, in square meters, of the rectangle in terms of the length $l$, in meters, of the rectangle?",
+  "choices": {
+    "A": "$A = l(28l)$",
+    "B": "$A = l(l - 28)$",
+    "C": "$A = l(\\frac{l}{(28)})$",
+    "D": "$A = l(l + 28)$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The area of a rectangle is calculated using the formula $A = \\text{length} \\times \\text{width}$. The problem states that the width is $28$ meters less than the length. If the length is represented by $l$, then the width can be expressed as $l - 28$. Substituting the length $l$ and the width $l - 28$ into the area formula gives $A = l \\times (l - 28)$, which can be written as $A = l(l - 28)$. This equation correctly expresses the area $A$ in terms of the length $l$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=bc04b576",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

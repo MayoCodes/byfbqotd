@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "7f2ff24f20390d9f7bc888a612440804",
+  "capturedAt": "2026-11-21T00:10:00.313Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$aligned b-23&=\\frac{x}{y} aligned$$\n\nThe given equation relates the positive numbers $b$, $x$, and $y$. Which equation correctly expresses $x$ in terms of $b$ and $y$?",
+  "choices": {
+    "A": "$x = by - 23y$",
+    "B": "$x = \\frac{(b-23)}{y}$",
+    "C": "$x = \\frac{(by - 23)}{y}$",
+    "D": "$x = by - 23$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To solve the equation $b - 23 = \\frac{x}{y}$ for $x$, multiply both sides of the equation by $y$ to eliminate the fraction. This gives $y(b - 23) = y \\cdot \\frac{x}{y}$, which simplifies to $y(b - 23) = x$. Applying the distributive property to the left side yields $by - 23y = x$. Therefore, the equation that correctly expresses $x$ in terms of $b$ and $y$ is $x = by - 23y$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=2865694c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 13,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

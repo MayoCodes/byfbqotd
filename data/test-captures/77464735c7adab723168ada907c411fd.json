@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "77464735c7adab723168ada907c411fd",
+  "capturedAt": "2026-11-21T00:10:08.422Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Distribute and Simplify",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $(y + 3)^{2} = 28$, what is the value of $y^{2} + 6y$?",
+  "choices": {
+    "A": "$19$",
+    "B": "$37$",
+    "C": "$56$",
+    "D": "$28$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The key insight is recognizing that the target expression $y^2 + 6y$ appears within the expansion of $(y+3)^2$. Using the binomial expansion formula $(a+b)^2 = a^2 + 2ab + b^2$, we can expand $(y+3)^2$ as follows: $(y+3)^2 = y^2 + 2(y)(3) + 3^2 = y^2 + 6y + 9$. Since $(y+3)^2 = 28$, we can substitute to get $y^2 + 6y + 9 = 28$. Solving for the target expression by subtracting $9$ from both sides gives $y^2 + 6y = 28 - 9 = 19$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=aa0e732d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 4,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

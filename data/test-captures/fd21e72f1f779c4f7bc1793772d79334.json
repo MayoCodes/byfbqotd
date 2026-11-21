@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fd21e72f1f779c4f7bc1793772d79334",
+  "capturedAt": "2026-11-21T00:10:06.559Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Substitute and Solve",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2.5s + 5l = 200$$\n\nThe given equation describes the relationship between the number of small items, $s$, and the number of large items, $l$, that can be produced by a factory in a day. If the factory produces $40$ large items in a day, how many small items can it produce that day?",
+  "choices": {
+    "A": "$2$",
+    "B": "$0$",
+    "C": "$64$",
+    "D": "$200$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To find the number of small items $s$ that can be produced when $l = 40$, substitute this value into the given equation $2.5s + 5l = 200$. This gives $2.5s + 5(40) = 200$. Simplifying the multiplication: $2.5s + 200 = 200$. Subtracting $200$ from both sides yields $2.5s = 0$. Dividing both sides by $2.5$ gives $s = 0$. Therefore, when the factory produces $40$ large items, it can produce $0$ small items that day. This result makes mathematical sense: the production of $40$ large items completely uses the factory's daily capacity of $200$, leaving no capacity for small items.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=2e1ec53e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

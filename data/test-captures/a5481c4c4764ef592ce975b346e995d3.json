@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a5481c4c4764ef592ce975b346e995d3",
+  "capturedAt": "2026-11-21T00:09:53.665Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Select Best Nonlinear Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nDuring the first 8 hours of a road trip, the scatterplot shows the distance traveled $d$, in miles, at various times $t$, in hours, since the start of the trip. A line of best fit is also shown.\n\nWhich of the following is the best interpretation of the slope of the line of best fit?",
+  "choices": {
+    "A": "The predicted distance increases at a constant rate of approximately 150 miles per hour over the 8-hour period.",
+    "B": "The predicted distance increases at a constant rate of approximately 55 miles per hour over the 8-hour period.",
+    "C": "The predicted distance decreases at a constant rate of approximately 150 miles per hour over the 8-hour period.",
+    "D": "The predicted distance decreases at a constant rate of approximately 55 miles per hour over the 8-hour period."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The slope of the line of best fit represents the rate of change of distance with respect to time, which is the average speed. To estimate the slope, select two points on the line of best fit. Using the points $(1, 75)$ and $(8, 460)$, the slope is calculated as: slope $= \\frac{460 - 75}{8 - 1} = \\frac{385}{7} = 55$ miles per hour. This can be verified using other points on the line, such as $(2, 130)$ and $(6, 350)$: slope $= \\frac{350 - 130}{6 - 2} = \\frac{220}{4} = 55$ miles per hour. Since the slope is positive and approximately $55$, the best interpretation is that the predicted distance increases at a constant rate of approximately $55$ miles per hour over the $8$-hour period. This represents the average speed of travel during the road trip.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=21f16a84",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/a5481c4c4764ef592ce975b346e995d3/1-b571c8684c62b8f0.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

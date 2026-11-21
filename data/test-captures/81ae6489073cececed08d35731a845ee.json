@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "81ae6489073cececed08d35731a845ee",
+  "capturedAt": "2026-11-21T00:10:12.179Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A biologist observes a bacterial population treated with an antibiotic. An exponential model estimates that the population decreases by $35%$ every $2.5$ hours. Which of the following equations could represent this model, where $P$ is the estimated population of bacteria $t$ hours after the biologist began the observation?",
+  "choices": {
+    "A": "$P = 500(0.35)^\\frac{t}{(2.5)}$",
+    "B": "$P = 500(0.35)^t+2.5$",
+    "C": "$P = 500(0.65)^\\frac{t}{(2.5)}$",
+    "D": "$P = 500(0.65)^t+2.5$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. An exponential decay model has the form $P = P_0 \\cdot b^{\\frac{t}{T}}$, where $P_0$ is the initial population, $b$ is the decay factor (the fraction remaining after one time period), $t$ is time, and $T$ is the length of one time period. When the population decreases by $35\\%$, it retains $100\\% - 35\\% = 65\\%$ of its value, so the decay factor is $b = 0.65$. The time period is $T = 2.5$ hours. Therefore, the exponent must be $\\frac{t}{2.5}$ to correctly count the number of $2.5$-hour intervals that have elapsed. The initial population of $500$ (evident from all answer choices) gives the complete model $P = 500(0.65)^{\\frac{t}{2.5}}$. To verify: after $t = 2.5$ hours (one period), this gives $P = 500(0.65)^1 = 325$, which represents a $35\\%$ decrease from $500$ as required.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=31b54054",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

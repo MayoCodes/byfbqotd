@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "396b09351874f3a74e9e0ff32042a819",
+  "capturedAt": "2026-11-21T00:09:39.449Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Samsung's introduction of the Galaxy Gear in 2013 illustrates brand extension: the company used its Galaxy smartphone branding for a smartwatch. An outstanding question is whether perceived technology compatibility predicts consumers' likelihood of purchasing brand extensions. To answer this question, Jordan Hayes et al. identified 28 extended-brand pairs (e.g., the same brand of smartphone and fitness tracker) in 48 weeks of purchases by approximately 55,000 households and, for each pair, calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.",
+  "prompt": "Based on the text, which potential study design would be most likely to produce evidence that would enable Hayes et al. to answer their research question?",
+  "choices": {
+    "A": "Poll a representative sample of the households to determine the degree of brand recognition of each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the average cost of each product in the pairs.",
+    "B": "Have a representative sample of the households rate the compatibility of one technology product in each extended brand pair to other products in the same category, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.",
+    "C": "Poll a representative sample of the households to determine the degree of brand recognition for each brand in the extended brand pairs, then determine how, if at all, the degree of brand recognition correlates with the frequency with which a different group of households purchased at least one product of that brand.",
+    "D": "Have a representative sample of the households rate the compatibility of the technology categories in each extended brand pair, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it proposes a study design that directly addresses Hayes et al.'s research question about whether perceived technology compatibility predicts consumers' likelihood of purchasing brand extensions. The researchers have already calculated the change in probability of purchasing a brand in one category given purchase in another category—this represents the purchase behavior data. Choice D proposes collecting the missing variable: having households rate 'the compatibility of the technology categories in each extended brand pair.' By correlating these compatibility ratings with the probability changes already calculated, the researchers would obtain both variables needed to test whether higher perceived compatibility between technology categories corresponds to higher cross-category purchase probability.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=fa7fd282",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 9,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

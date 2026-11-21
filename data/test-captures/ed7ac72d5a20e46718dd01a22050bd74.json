@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ed7ac72d5a20e46718dd01a22050bd74",
+  "capturedAt": "2026-11-21T00:10:04.682Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$-5y + 30ky = 60$$\n\nIn the given equation, $k$ is a constant. The equation has no solution. What is the value of $k$?",
+  "choices": {
+    "A": "$\\frac{1}{6}$",
+    "B": "$0$",
+    "C": "$6$",
+    "D": "$\\frac{1}{5}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. A linear equation in the form $ay = b$ has no solution when the coefficient of the variable equals zero but the constant term is non-zero. In the given equation $-5y + 30ky = 60$, the left side can be factored as $y(-5 + 30k) = 60$. For this equation to have no solution, the coefficient of $y$ must equal zero while the constant remains non-zero. Setting the coefficient equal to zero: $-5 + 30k = 0$. Solving for $k$: $30k = 5$, so $k = \\frac{5}{30}$. Simplifying this fraction by dividing both numerator and denominator by their greatest common divisor of $5$ gives $k = \\frac{1}{6}$. This value makes the left side $y(0) = 0$, creating the inconsistent equation $0 = 60$, which has no solution.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=638488b5",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 20,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

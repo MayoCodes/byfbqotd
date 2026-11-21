@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2f262d69e394de15c5f439e358a6fd85",
+  "capturedAt": "2026-11-21T00:09:47.199Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In their attempt to analyze single-walled carbon nanotube structures, Dr. Helena Kowalczyk and colleagues used a field emission electron microscope to direct an electron beam at samples mounted on copper grids. An electromagnetic coil ______ the beam on the center of the 50-nanometer-diameter nanotubes ensured a convergence angle (a measure of beam focusing precision) of 15 milliradians.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "focused",
+    "B": "focuses",
+    "C": "focusing",
+    "D": "focus"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it correctly uses the present participle 'focusing' to form a participial phrase that modifies 'electromagnetic coil.' The phrase 'focusing the beam on the center of the 50-nanometer-diameter nanotubes' describes the coil's function and serves as part of the complete subject of the sentence. The main verb 'ensured' establishes that this coil (with its focusing function) ensured a specific convergence angle. This structure avoids creating two independent clauses and maintains proper grammatical form throughout the sentence.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=be30e0b2",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 21,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e94d16ee4728dcdd03cbd8229cb1e49b",
+  "capturedAt": "2026-11-21T00:09:56.683Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Compute Rate from Given Values",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A water tank used for irrigation initially contained $840$ gallons of water and drained at a constant rate of $1.5$ gallons per hour. At this rate, how many hours after the tank started draining did it contain $780$ gallons?",
+  "choices": {},
+  "correctAnswer": "$$40$$",
+  "explanation": "The correct answer is $40$. To find the time elapsed, first determine the total amount of water that drained from the tank. The tank initially contained $840$ gallons and drained to $780$ gallons, so the amount drained is $840 - 780 = 60$ gallons. Since the tank drained at a constant rate of $1.5$ gallons per hour, the time elapsed can be found by dividing the total amount drained by the rate: $\\frac{60}{1.5} = 40$ hours. This can also be calculated as $60 \\div 1.5 = 60 \\times \\frac{2}{3} = 40$. To verify: if the tank drains for $40$ hours at $1.5$ gallons per hour, it will drain $40 \\times 1.5 = 60$ gallons, bringing the level from $840$ gallons to $840 - 60 = 780$ gallons, confirming the answer.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=d204f599",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

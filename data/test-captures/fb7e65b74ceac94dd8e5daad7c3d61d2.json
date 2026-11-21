@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fb7e65b74ceac94dd8e5daad7c3d61d2",
+  "capturedAt": "2026-11-21T00:10:20.749Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Similar/Congruent Corresponding Angles",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In triangle $DEF$, the measure of angle $D$ is $38^°$ and $DF = 24$. In triangle $XYZ$, the measure of angle $X$ is $38^°$ and $XZ = 72$. Which additional piece of information is sufficient to prove that triangle $DEF$ is similar to triangle $XYZ$?",
+  "choices": {
+    "A": "$DE = 30$ and $XY = 30$.",
+    "B": "The measures of angle $E$ and angle $Y$ are both $65^°$.",
+    "C": "$DE = 30$ and $YZ = 90$.",
+    "D": "The measures of angle $E$ and angle $Z$ are $38^°$ and $65^°$, respectively."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. Two triangles are similar if two pairs of corresponding angles are congruent (AA Similarity Postulate). The problem states that angle D = angle X = 38°, establishing the first pair of corresponding angles. Choice B provides angle E = angle Y = 65°, establishing the second pair of corresponding angles. With DX and EY, we have DEF ~ XYZ by AA Similarity. The third angles are also equal: angle F = 180° - 38° - 65° = 77° and angle Z = 180° - 38° - 65° = 77°.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=f94c475b",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

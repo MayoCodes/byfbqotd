@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "35ea796a1ed055a799c80db9d0d5212e",
+  "capturedAt": "2026-11-21T00:10:11.570Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Solve for Missing Dimension",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A right square pyramid has a height of $9$ centimeters and a volume of $432$ cubic centimeters. What is the length, in centimeters, of one side of the base of the pyramid?",
+  "choices": {
+    "A": "$48$",
+    "B": "$144$",
+    "C": "$12$",
+    "D": "$4sqrt(3)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The volume of a pyramid is given by the formula $V = \\frac{1}{3}Bh$, where $B$ is the area of the base and $h$ is the height. For a square pyramid with side length $s$, the base area is $B = s^2$, so the formula becomes $V = \\frac{1}{3}s^2h$. Substituting the given values $V = 432$ cubic centimeters and $h = 9$ centimeters gives $432 = \\frac{1}{3}s^2(9)$. Simplifying the right side: $432 = \\frac{9}{3}s^2 = 3s^2$. Dividing both sides by $3$ yields $s^2 = \\frac{432}{3} = 144$. Taking the positive square root of both sides gives $s = \\sqrt{144} = 12$ centimeters. Therefore, the length of one side of the base is $12$ centimeters.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=771643a4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 9,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4ad355350fe7fe8cfa3b52fd3bc0e931",
+  "capturedAt": "2026-11-21T00:10:17.427Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Vertex or Min/Max of Quadratic",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$h(x) = \\frac{1}{(13)}(8(3)^x+5)$. The function $h$ is defined by the given equation. For all values of $x$, the value of $h(x)$ is greater than $k$, where $k$ is a constant. What is the greatest possible value of $k$?",
+  "choices": {
+    "A": "$\\frac{5}{(13)}$",
+    "B": "$1$",
+    "C": "$0$",
+    "D": "$5$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Since $3^x > 0$ for all values of $x$, the term $8(3)^x$ is always positive. As $x$ becomes more negative, $3^x$ gets closer and closer to $0$ but never equals $0$. Therefore, $8(3)^x + 5$ gets closer to $5$ but is always greater than $5$. Dividing by $13$, $h(x)$ gets closer to $\\frac{5}{13}$ but is always greater than $\\frac{5}{13}$. The greatest value of $k$ such that $h(x) > k$ for all $x$ is $\\frac{5}{13}$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=6f9c82a4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

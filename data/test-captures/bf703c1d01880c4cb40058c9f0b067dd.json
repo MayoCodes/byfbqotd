@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bf703c1d01880c4cb40058c9f0b067dd",
+  "capturedAt": "2026-11-21T00:09:57.929Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph of the polynomial function $f$ is shown, where $y = f(x)$. What is the value of $f(6)$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$6$",
+    "C": "$-2$",
+    "D": "$0$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The notation $f(6)$ represents the value of the function $f$ when $x = 6$, which corresponds to the $y$-coordinate of the point on the graph where $x = 6$. To find $f(6)$, locate $x = 6$ on the horizontal axis and identify where the curve intersects the vertical line at $x = 6$. The graph shows that the polynomial function passes through the point $(6, 0)$, which means when $x = 6$, the corresponding $y$-value is $0$. Therefore, $f(6) = 0$. This point represents an $x$-intercept or zero of the polynomial function.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=a3ef2eed",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/bf703c1d01880c4cb40058c9f0b067dd/1-1a1b39307b1415e5.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 10,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

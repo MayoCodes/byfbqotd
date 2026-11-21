@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "213e930b60245438cf1de95de388a6d8",
+  "capturedAt": "2026-11-21T00:10:02.798Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Radian/Degree Conversion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The measure of angle $M$ is $(\\pi )/(2(8))$ radians. The measure of angle $N$ is $8$ times the measure of angle $M$. What is the measure, in degrees, of angle $N$?",
+  "choices": {
+    "A": "$90$",
+    "B": "$8$",
+    "C": "$82$",
+    "D": "$98$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The measure of angle $M$ is given as $\\frac{\\pi}{2(8)}$ radians, which simplifies to $\\frac{\\pi}{16}$ radians. The measure of angle $N$ is $8$ times the measure of angle $M$, so $N = 8 \\times \\frac{\\pi}{16} = \\frac{8\\pi}{16} = \\frac{\\pi}{2}$ radians. To convert from radians to degrees, use the conversion factor $\\frac{180^\\circ}{\\pi \\text{ radians}}$. Therefore, $N = \\frac{\\pi}{2} \\times \\frac{180^\\circ}{\\pi} = \\frac{\\pi \\times 180^\\circ}{2\\pi} = \\frac{180^\\circ}{2} = 90^\\circ$. Thus, the measure of angle $N$ is $90$ degrees.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=72f30030",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 17,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

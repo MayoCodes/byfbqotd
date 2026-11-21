@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "627e48055f94d73438bf5e73b9dc3008",
+  "capturedAt": "2026-11-21T00:10:13.615Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Slope and Point",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Line $p$ passes through the points $(0, 8)$ and $(6, 0)$ in the xy-plane. If the equation of line $p$ is written in the form $Ax + By = 12$, where $A$ and $B$ are constants, what is the value of $A - B$?",
+  "choices": {
+    "A": "$\\frac{1}{2}$",
+    "B": "$-\\frac{1}{2}$",
+    "C": "$2$",
+    "D": "$-2$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The line passes through $(0, 8)$ and $(6, 0)$, which are the $y$-intercept and $x$-intercept respectively. Using intercept form: $\\frac{x}{6} + \\frac{y}{8} = 1$. Multiplying by $24$ to clear fractions: $4x + 3y = 24$. To obtain $Ax + By = 12$, multiply by $\\frac{12}{24} = \\frac{1}{2}$: $2x + \\frac{3}{2}y = 12$. Therefore, $A = 2$ and $B = \\frac{3}{2}$, so $A - B = 2 - \\frac{3}{2} = \\frac{1}{2}$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=9a598092",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

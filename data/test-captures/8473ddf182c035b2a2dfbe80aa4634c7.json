@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8473ddf182c035b2a2dfbe80aa4634c7",
+  "capturedAt": "2026-11-21T00:09:38.345Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Central Ideas And Details",
+  "subskill": "Retrieve Detail - Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "In a study by Maya Foster, Jordan Reid, and colleagues, residents of Ankara, Turkey, and Oslo, Norway, were surveyed about public libraries in their cities. Of the 645 respondents from Ankara, 71.2% indicated that they use the city's libraries, and of the 872 respondents from Oslo, 38.4% indicated using city libraries. Given that the percentage of Ankara respondents who reported living within a 15-minute walk of a library was much lower than that reported by Oslo respondents, greater proximity alone can't explain the difference in library use.",
+  "prompt": "The text makes which point about the difference between the proportions of Ankara residents and Oslo residents using libraries?",
+  "choices": {
+    "A": "It was much larger than the researchers conducting the study expected.",
+    "B": "It is caused by something other than the libraries' proximity to city residents.",
+    "C": "It could be due to inaccuracies in the survey results.",
+    "D": "It was calculated using sources that predate the survey."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it paraphrases the text's explicit claim about what explains the usage difference between the two cities. Ankara residents use libraries at a higher rate (71.2%) than Oslo residents (38.4%), even though fewer Ankara respondents live within a 15-minute walk of a library. The text addresses this paradox: 'Given that the percentage of Ankara respondents who reported living within a 15-minute walk of a library was much lower than that reported by Oslo respondents, greater proximity alone can't explain the difference in library use.' Choice B captures this conclusion by stating the difference 'is caused by something other than the libraries' proximity to city residents.'",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=eaa1f378",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 7,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

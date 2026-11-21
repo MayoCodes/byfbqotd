@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c6ce5f1bb70fde144c66d88166ace941",
+  "capturedAt": "2026-11-21T00:09:55.444Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$y = -8x+19$$\n\n$$y = -11x+25$$\n\nWhat is the solution $(x, y)$ to the given system of equations?",
+  "choices": {
+    "A": "$(19, 25)$",
+    "B": "$(25, 19)$",
+    "C": "$(3, 2)$",
+    "D": "$(2, 3)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To solve this system of linear equations, observe that both equations are solved for $y$. Therefore, the expressions on the right side of each equation must be equal: $-8x + 19 = -11x + 25$. Adding $11x$ to both sides gives $3x + 19 = 25$. Subtracting $19$ from both sides yields $3x = 6$. Dividing both sides by $3$ gives $x = 2$. Substituting $x = 2$ into the first equation: $y = -8(2) + 19 = -16 + 19 = 3$. This can be verified using the second equation: $y = -11(2) + 25 = -22 + 25 = 3$. Therefore, the solution to the system is $(2, 3)$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=7b6986b1",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

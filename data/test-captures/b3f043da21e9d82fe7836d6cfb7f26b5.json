@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b3f043da21e9d82fe7836d6cfb7f26b5",
+  "capturedAt": "2026-11-21T00:09:41.627Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Many studies have found a negative association between water temperature and dissolved oxygen levels in mountain lakes in Europe. But Sandra Sullivan and Marcus O'Brien did not find this correlation in a study conducted in New Zealand, leading some scientists to hypothesize that the association is particular to Europe. However, several other studies conducted outside Europe, such as one by James Kariuki and colleagues in Kenya, showed similar results to the European studies, while few have produced results similar to those of Sullivan and O'Brien's study, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "water temperature and dissolved oxygen levels in mountain lakes are both much lower in New Zealand than elsewhere.",
+    "B": "the hypothesis that the negative association is particular to Europe is correct.",
+    "C": "there were circumstances unique to Kariuki and colleagues' study that impeded accurate measurements of dissolved oxygen levels.",
+    "D": "water temperature and dissolved oxygen levels do typically vary inversely in mountain lakes."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because the studies described collectively support a typical inverse relationship between water temperature and dissolved oxygen levels in mountain lakes. Many European studies and several studies outside Europe found a negative association, whereas few studies reported results similar to Sullivan and O'Brien's failure to find that correlation. This pattern supports D's qualified conclusion that the variables typically vary inversely and weighs against the hypothesis that the association is particular to Europe. Failure to find a correlation in one study does not by itself establish that the underlying relationship is absent or reversed.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=d09c2385",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 12,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

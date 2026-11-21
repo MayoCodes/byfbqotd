@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0ca48c4cdf0865c772ce7913644a1a3b",
+  "capturedAt": "2026-11-21T00:09:20.304Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Describe Difference Between Views",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Text 1\nDr. Elena Vasquez and her team have discovered evidence in sonar data of a 50-meter-long submerged structure beneath approximately 30 meters of water off the coast of the eastern Mediterranean that is consistent with an ancient constructed harbor. This structure, which the team named Apollonia, exhibits all the telltale signs of deliberate human construction: parallel stone walls, a rectangular basin, a stepped entrance ramp, and a pronounced constructed breakwater extending from its perimeter.\n\nText 2\nBoth coastal erosion and tectonic fracturing can cause harborlike formations without the need for human construction. However, coastal erosion is very unlikely to have occurred in the vicinity of Apollonia given the protected nature of the inlet, and although tectonic fracturing could have plausibly occurred in this seismically active area and would result in a formation with parallel walls or a rectangular shape, it would not exhibit the constructed breakwater extending from the perimeter seen at Apollonia.",
+  "prompt": "Which choice best describes a difference between the approach of Text 1 and the approach of Text 2?",
+  "choices": {
+    "A": "Text 1 dispassionately describes Vasquez and colleagues' findings and conclusions, whereas Text 2 attempts to convey the researchers' excitement on discovering Apollonia.",
+    "B": "Text 1 discusses a single plausible cause of Apollonia, whereas Text 2 evaluates two possible causes.",
+    "C": "Text 1 focuses on features Apollonia lacks, whereas Text 2 indicates features it shares with other geological formations.",
+    "D": "Text 1 emphasizes the evidence supporting human construction as the cause of Apollonia, whereas Text 2 argues that human construction is the least likely explanation."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it accurately identifies the fundamental methodological difference between the texts. Text 1 presents a single explanation—that Apollonia is an ancient constructed harbor—supported by evidence of 'parallel stone walls,' 'a rectangular basin,' 'a stepped entrance ramp,' and a 'pronounced constructed breakwater.' Text 2 takes an evaluative approach, systematically examining two alternative natural explanations: coastal erosion and tectonic fracturing. This represents a clear structural difference: Text 1 builds an affirmative case for one explanation, while Text 2 evaluates multiple competing explanations.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=701ca658",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 7,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d69018a498b2a37b39a17bfc1723204c",
+  "capturedAt": "2026-11-21T00:09:52.136Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Parallel Lines and Transversal Angles",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure shown, line $m$ is parallel to line $n$, and line $k$ intersects both lines. What is the value of $w$?",
+  "choices": {
+    "A": "$118$",
+    "B": "$180$",
+    "C": "$28$",
+    "D": "$90$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. When two parallel lines are cut by a transversal, corresponding angles are congruent. In the figure, line $m$ is parallel to line $n$, and line $k$ is a transversal that intersects both parallel lines. The angle measuring $118\\degree$ at the intersection of line $k$ and line $m$ and the angle $w$ at the intersection of line $k$ and line $n$ are corresponding angles because they are in the same relative position at each intersection. By the corresponding angles theorem, corresponding angles formed by parallel lines and a transversal are equal in measure. Therefore, $w = 118\\degree$, which means $w = 118$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=5d6c80f6",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d69018a498b2a37b39a17bfc1723204c/1-b6df33c5bec2b5c6.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

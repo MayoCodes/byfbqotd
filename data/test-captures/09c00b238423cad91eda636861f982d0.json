@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "09c00b238423cad91eda636861f982d0",
+  "capturedAt": "2026-11-21T00:09:46.587Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The medieval playwright known as the Wakefield Master's The Second Shepherds' Play, a mystery play about the Nativity, is an extant work: it can still be read. By contrast, lost works like the Wakefield Master's miracle play about Saint Thomas, The Martyrdom of Saint Thomas—no copy of which exists—______ known to medievalists only through references in extant church records.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "becomes",
+    "B": "is becoming",
+    "C": "has become",
+    "D": "have become"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is subject-verb agreement. The plural verb 'have become' agrees in number with the plural subject 'lost works.' The intervening phrase 'like the Wakefield Master's miracle play about Saint Thomas, The Martyrdom of Saint Thomas—no copy of which exists—' is set off by dashes to indicate it provides a specific example of lost works; it does not change the grammatical subject. The present perfect tense 'have become' appropriately indicates that these works became known at an unspecified past time and remain known to medievalists in the present.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=84973556",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 20,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

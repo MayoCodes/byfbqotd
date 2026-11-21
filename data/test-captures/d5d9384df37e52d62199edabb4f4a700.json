@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d5d9384df37e52d62199edabb4f4a700",
+  "capturedAt": "2026-11-21T00:09:31.664Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Use Quotation for Purpose",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The Monarch butterfly is a species of insect that can be found in the San Bernardino Mountains.\n• It has an average wingspan of 10 centimeters.\n• The Pygmy Blue butterfly is a species of insect that can be found in the San Bernardino Mountains.\n• It has an average wingspan of 1.5 centimeters.",
+  "prompt": "The student wants to emphasize a similarity between the Monarch butterfly and the Pygmy Blue butterfly. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "On average, the Monarch butterfly has a wingspan of 10 centimeters, while the Pygmy Blue butterfly has a wingspan of 1.5 centimeters.",
+    "B": "The Pygmy Blue butterfly, which has a wingspan of 1.5 centimeters on average, can be found in the San Bernardino Mountains.",
+    "C": "The San Bernardino Mountains are home to several insect species, one of which is the Monarch butterfly.",
+    "D": "The Pygmy Blue butterfly and the Monarch butterfly can both be found in the San Bernardino Mountains."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most effectively emphasizes a similarity between the two butterfly species by explicitly naming both and highlighting their shared characteristic. The sentence structure places both species as joint subjects ('The Pygmy Blue butterfly and the Monarch butterfly') and uses the word 'both' to reinforce that they share the same habitat. This construction directly fulfills the rhetorical goal of emphasizing what the butterflies have in common, using the most relevant information from the notes: their shared location in the San Bernardino Mountains.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=abd38bac",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 23,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

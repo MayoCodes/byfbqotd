@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "93a1c86dc015667d9ad79b0114c39cfa",
+  "capturedAt": "2026-11-21T00:09:28.632Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "California resident Julia Morgan, one of the first licensed women architects in the United States and designer of more than seven hundred buildings during her career, ______ her independent architectural practice in 1904.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "began",
+    "B": "having begun",
+    "C": "beginning",
+    "D": "to begin"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is the use of finite and nonfinite verb forms within a sentence. A nonfinite verb cannot serve as the main verb of a clause. This sentence requires a finite verb to complete the independent clause, which has the subject 'Julia Morgan' (with the appositive phrase 'one of the first licensed women architects...during her career' providing additional information). The simple past tense finite verb 'began' correctly functions as the main verb and matches the historical time reference of '1904.'",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=c21647b1",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 18,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

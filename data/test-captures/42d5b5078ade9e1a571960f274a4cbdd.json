@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "42d5b5078ade9e1a571960f274a4cbdd",
+  "capturedAt": "2026-11-21T00:09:58.817Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A cargo van can hold a maximum weight of $4,800$ pounds during one trip. A $175$-pound driver needs to deliver several packages using the cargo van. Some of these packages weigh $18$ pounds each and the others weigh $45$ pounds each. Which inequality represents the possible combinations of the number of $18$-pound packages, $x$, and the number of $45$-pound packages, $y$, the driver can deliver during one trip if only the driver and the packages are in the cargo van?",
+  "choices": {
+    "A": "$45x + 18y \\ge 4,800$",
+    "B": "$18x + 45y \\ge 4,625$",
+    "C": "$18x + 45y \\le 4,625$",
+    "D": "$45x + 18y \\le 4,800$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The total weight in the cargo van equals the driver's weight plus the weight of all packages. Since there are $x$ packages weighing $18$ pounds each and $y$ packages weighing $45$ pounds each, the total weight can be expressed as $175 + 18x + 45y$ pounds. The cargo van has a maximum capacity of $4{,}800$ pounds, which means the total weight must be less than or equal to this limit. This gives the inequality $175 + 18x + 45y \\leq 4{,}800$. Subtracting $175$ from both sides yields $18x + 45y \\leq 4{,}800 - 175$, which simplifies to $18x + 45y \\leq 4{,}625$. Therefore, this inequality correctly represents the possible combinations of packages the driver can deliver.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=2a07ea80",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 11,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

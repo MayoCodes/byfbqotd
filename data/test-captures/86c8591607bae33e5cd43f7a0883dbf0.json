@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "86c8591607bae33e5cd43f7a0883dbf0",
+  "capturedAt": "2026-11-21T00:09:52.969Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Apply 2D Area/Perimeter Formula",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The width of a rectangle is $7$ centimeters. The length of the rectangle is $40$ centimeters longer than the width. What is the area, in square centimeters, of this rectangle?",
+  "choices": {
+    "A": "$14$",
+    "B": "$329$",
+    "C": "$7$",
+    "D": "$54$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The area of a rectangle is calculated using the formula $A = \\text{length} \\times \\text{width}$. The problem states that the width is $7$ centimeters and the length is $40$ centimeters longer than the width. First, calculate the length: $\\text{length} = 7 + 40 = 47$ centimeters. Then, apply the area formula: $A = 47 \\times 7$. This can be calculated as $(40 \\times 7) + (7 \\times 7) = 280 + 49 = 329$ square centimeters. Therefore, the area of the rectangle is $329$ square centimeters.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=262100b5",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4eb8e5e497e391cc3233c63ee90e30c6",
+  "capturedAt": "2026-11-21T00:09:45.967Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "No Punctuation Within Clause",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "While the Amur leopard (Panthera pardus orientalis) can be found in areas like the Jilin Province in China and the southern regions of North Korea, more than 90 percent of this critically endangered big cat species is found in Primorsky Krai, Russia. There, conservation ______ is on the front lines of efforts to bring these leopards back from near extinction.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "scientist Dr. Elena Vladimirovna Yudina",
+    "B": "scientist, Dr. Elena Vladimirovna Yudina",
+    "C": "scientist: Dr. Elena Vladimirovna Yudina",
+    "D": "scientist, Dr. Elena Vladimirovna Yudina,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it correctly treats 'Dr. Elena Vladimirovna Yudina' as a restrictive appositive. The name provides essential identifying information about which specific conservation scientist is being discussed—'conservation scientist' alone is too general to identify a particular person. Restrictive appositives should not be separated from the noun they modify by punctuation, as the information is necessary to understand who or what is being referenced. Without the name, the sentence would lack the specific identification needed.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=e7bae33e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

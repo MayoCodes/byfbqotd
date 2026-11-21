@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2c05724532b0a3f05866bef27d496842",
+  "capturedAt": "2026-11-21T00:10:22.030Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Number of Solutions / Discriminant Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the given equation, $nx^{2} - 12x = 19x^{2} - 6$, $n$ is an integer constant. If the equation has two distinct real solutions, what is the greatest possible value of $n$?",
+  "choices": {},
+  "correctAnswer": "$$24$$",
+  "explanation": "The correct answer is $24$. For a quadratic equation in standard form $ax^2 + bx + c = 0$ to have two distinct real solutions, the discriminant $\\Delta = b^2 - 4ac$ must be greater than zero. First, rearrange the given equation $nx^2 - 12x = 19x^2 - 6$ to standard form by moving all terms to the left side: $nx^2 - 12x - 19x^2 + 6 = 0$, which simplifies to $(n - 19)x^2 - 12x + 6 = 0$. The coefficients are $a = n - 19$, $b = -12$, and $c = 6$. The discriminant is $\\Delta = (-12)^2 - 4(n - 19)(6) = 144 - 24(n - 19) = 144 - 24n + 456 = 600 - 24n$. For two distinct real solutions, $\\Delta > 0$, so $600 - 24n > 0$. Solving this inequality: $600 > 24n$, which gives $n < \\frac{600}{24} = 25$. Since $n$ is an integer and $n < 25$, the greatest possible value of $n$ is $24$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=96b6c42c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 22,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

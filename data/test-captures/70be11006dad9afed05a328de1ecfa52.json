@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "70be11006dad9afed05a328de1ecfa52",
+  "capturedAt": "2026-11-21T00:10:09.061Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Constant for No/Infinite Solutions",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$4(kx - 7) = 21x + 15$$\n\nIn the given equation, $k$ is a constant. The equation has no solution. What is the value of $k$?",
+  "choices": {},
+  "correctAnswer": "$$\\frac{21}{4},5.25$$",
+  "explanation": "The correct answer is $\\frac{21}{4}$ or $5.25$. A linear equation in the form $ax + b = cx + d$ has no solution when the coefficients of $x$ are equal ($a = c$) but the constant terms are not equal ($b \\neq d$). First, expand the left side: $4(kx - 7) = 4kx - 28$. The equation becomes $4kx - 28 = 21x + 15$. For no solution, the coefficients of $x$ must be equal: $4k = 21$. Solving gives $k = \\frac{21}{4}$. We verify the constants are unequal: $-28 \\neq 15$, which confirms the equation has no solution when $k = \\frac{21}{4}$. Note that 21/4 and 5.25 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=45b51cf3",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

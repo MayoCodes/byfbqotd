@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "394fca072ff31cc54db8f98c182f59e1",
+  "capturedAt": "2026-11-21T00:10:07.801Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x + 3 = 7$$\n\n$$y = 2x^{2} + 5$$\n\nAt what point $(x, y)$ do the graphs of the equations in the given system intersect?",
+  "choices": {
+    "A": "$(4, 32)$",
+    "B": "$(7, 103)$",
+    "C": "$(4, 37)$",
+    "D": "$(7, 5)$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To find the intersection point of the two graphs, we need to find the values of $x$ and $y$ that satisfy both equations simultaneously. First, solve the linear equation $x + 3 = 7$ for $x$: subtracting $3$ from both sides gives $x = 4$. Next, substitute $x = 4$ into the quadratic equation $y = 2x^2 + 5$ to find $y$: $y = 2(4)^2 + 5 = 2(16) + 5 = 32 + 5 = 37$. Therefore, the graphs intersect at the point $(4, 37)$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=d7f98a82",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

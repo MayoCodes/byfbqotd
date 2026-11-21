@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "51700a0be2ebc72e61cff2e5a3fb135c",
+  "capturedAt": "2026-11-21T00:09:42.274Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Nina Brooks et al. tracked pH-driven changes in the abundance of Echinostoma sp. (a complex life cycle parasite, or CLP, that requires two host species throughout its life cycle), Glochidium larvae (a directly transmitted parasite, which requires only one host species), and 67 other parasite taxa found on twelve snail species. CLPs are transmitted when an infected host contacts an individual of another species, typically shielding CLPs from the external water column, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Brooks et al. found that two-host CLP abundance decreased as lake pH levels decreased, whereas directly transmitted parasite abundance was largely stable, suggesting that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "as the number of host species involved in a parasite's transmission increases, the parasite is better protected against declining pH levels.",
+    "B": "directly transmitted parasites identified in the study were more likely than two-host CLPs to be shielded from the external water column during transmission.",
+    "C": "CLPs primarily transmitted by contact were less dependent on host species adversely affected by changing pH levels than were CLPs that use other transmission strategies.",
+    "D": "any advantages that the transmission strategy used by two-host CLPs may have conferred did not completely offset the negative effects of other pH-driven factors on CLP abundance."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it most logically resolves the paradox presented in the text. The passage establishes that CLPs are typically shielded from the external water column during transmission, suggesting that this transmission strategy could offer some protection from pH changes. However, Brooks et al. found that CLP abundance decreased while directly transmitted parasite abundance remained largely stable. Choice D explains this result: any protective advantage of the CLP transmission strategy was not enough to overcome other pH-driven factors that reduced CLP abundance.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=f7cdf1a1",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 13,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

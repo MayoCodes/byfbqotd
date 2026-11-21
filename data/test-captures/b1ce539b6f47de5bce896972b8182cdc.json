@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b1ce539b6f47de5bce896972b8182cdc",
+  "capturedAt": "2026-11-21T00:10:05.316Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Volume of 3D Solid",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The density of a certain type of brass metal is $8.5000$ grams per cubic centimeter. If a sample of this brass is in the shape of a sphere with a diameter of $23.000$ centimeters, what is the mass of this sample, in grams, to the nearest whole number? (Use $3.14159$ for $\\pi$.)",
+  "choices": {},
+  "correctAnswer": "$$54150$$",
+  "explanation": "The correct answer is $54150$ grams. To find the mass of the sphere, we use the relationship mass = density × volume. First, we need to find the volume of the sphere using the formula $V = \\frac{4}{3}\\pi r^3$. The radius is half the diameter: $r = \\frac{23.000}{2} = 11.5$ centimeters. Substituting into the volume formula with the given value of $\\pi$: $V = \\frac{4}{3} \\times 3.14159 \\times (11.5)^3$. Calculating $(11.5)^3 = 11.5 \\times 11.5 \\times 11.5 = 1520.875$ cubic centimeters. Then $\\frac{4}{3} \\times 3.14159 = 4.18878\\ldots$, so $V = 4.18878\\ldots \\times 1520.875 = 6370.628\\ldots$ cubic centimeters. Now applying the density formula: mass $= 8.5000 \\times 6370.628\\ldots = 54150.338\\ldots$ grams. Rounding to the nearest whole number gives $54150$ grams.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=b5791f49",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 21,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "dd49d8f2d151a16e2a748677be809fba",
+  "capturedAt": "2026-11-21T00:09:44.727Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Colon Before Explanation or List",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The painting \"The Old Guitarist,\" which was completed in 1904, exemplifies three signature elements of Pablo Picasso's Blue Period ______ nearly monochromatic blue palette; elongated, gaunt figures conveying physical frailty; and a melancholic focus on themes of poverty and human suffering in Barcelona's marginalized communities.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "style. Somber,",
+    "B": "style, somber,",
+    "C": "style; somber,",
+    "D": "style: somber,"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. A colon is the correct punctuation to introduce an explanatory list following an independent clause that creates an anticipatory statement. The text before the colon ('The painting... exemplifies three signature elements of Pablo Picasso's Blue Period style') is a complete independent clause, and what follows is the detailed elaboration of those three elements, making a colon the appropriate punctuation mark.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=399b89b3",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 17,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

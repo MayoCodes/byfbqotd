@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "73df2c7cc21ff48eb6bda8285a8a2b1b",
+  "capturedAt": "2026-11-21T00:09:45.345Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Subject-Verb Agreement",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Traditional memory consolidation theory assumes that memories become permanently stable after initial formation, but Lars Bergman of Stanford University makes no such assumption; cognitive psychologists such as Bergman, whose research focuses on memory retrieval, ______ that memory formation can in fact be highly malleable.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "argue",
+    "B": "argues",
+    "C": "is arguing",
+    "D": "has argued"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The convention being tested is subject-verb agreement. The plural verb 'argue' agrees in number with the plural subject 'cognitive psychologists.' Though the singular name 'Bergman' appears immediately before the blank, the grammatical subject of the clause is 'cognitive psychologists such as Bergman,' which is plural. The phrase 'such as Bergman' provides a specific example but doesn't change the plural nature of the subject. The simple present tense is appropriate for stating general theoretical positions held by researchers.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=7545136b",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 18,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2e5c26985333a688f1725184cddae83d",
+  "capturedAt": "2026-11-21T00:10:10.327Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Interpret Slope in Context",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "On January 1, $2005$, the enrollment of a school was $14,320$ students and on January 1, $2015$, the enrollment was $15,070$ students. The equation $10x + 14,320 = 15,070$ describes this situation. Which of the following is the best interpretation of $x$ in this context?",
+  "choices": {
+    "A": "The total increase in enrollment between $2005$ and $2015$",
+    "B": "The average increase per year of the enrollment between $2005$ and $2015$",
+    "C": "The percentage by which the enrollment of the school increased each year between $2005$ and $2015$",
+    "D": "The projected enrollment of the school $10$ years after $2015$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. The equation $10x + 14{,}320 = 15{,}070$ models the enrollment change from $2005$ to $2015$. The structure of this equation is (rate × time) + initial value = final value. The coefficient $10$ represents the number of years between $2005$ and $2015$. Since the total increase in enrollment was $15{,}070 - 14{,}320 = 750$ students, and this increase occurred over $10$ years, the equation can be rewritten as $10x = 750$, which gives $x = 75$. This means $x$ represents the average increase in enrollment per year, which is $75$ students per year. The coefficient $10$ multiplied by the annual rate $x$ gives the total increase over the time period.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=cae0d615",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

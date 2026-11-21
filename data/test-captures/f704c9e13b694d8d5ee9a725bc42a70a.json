@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f704c9e13b694d8d5ee9a725bc42a70a",
+  "capturedAt": "2026-11-21T00:09:29.240Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Comma with Supplementary Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The bristlecone pine (Pinus longaeva) known as WPN-114, located in the western United States, was one of the oldest known trees in the world, at 4,850 years old. With nearly five millennia of atmospheric data in its tree ______ single tree like this, claims dendroclimatologist Edmund Schulman, can reveal the planet's climatic past.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "rings. A",
+    "B": "rings; a",
+    "C": "rings and a",
+    "D": "rings, a"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The comma after 'rings' properly continues the single sentence structure that begins with the prepositional phrase 'With nearly five millennia of atmospheric data in its tree rings.' The lowercase 'a' indicates that 'a single tree like this' is part of the same sentence, functioning as the subject of 'can reveal.' The attribution phrase 'claims dendroclimatologist Edmund Schulman' is correctly set off by commas as an interrupter.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=1c513a2c",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 19,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "73a4d7f57d66a8196bd6c6bf93b4de5b",
+  "capturedAt": "2026-11-21T00:09:32.272Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Make Generalization",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• The pH scale is a measurement system that indicates the acidity or alkalinity of a substance using values from 0 to 14.\n• Substances with higher pH numbers are more basic (alkaline) than substances with lower pH numbers.\n• Substances with lower pH numbers are more acidic than substances with higher pH numbers.\n• Lemon juice has a pH of approximately 2.\n• Milk has a pH of approximately 6.\n• A baking soda solution has a pH of approximately 9.",
+  "prompt": "The student wants to emphasize milk's pH level. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Milk has a pH of approximately 6, which means that it is more basic than lemon juice (2) but more acidic than a baking soda solution (9).",
+    "B": "On the pH scale, a baking soda solution (9) is more basic than lemon juice (2).",
+    "C": "Milk, lemon juice, and a baking soda solution can be ordered by their levels of acidity or alkalinity.",
+    "D": "A baking soda solution, which has a pH of approximately 9, is more basic than both lemon juice and milk."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most effectively emphasizes milk's pH level by making milk the grammatical subject and focal point of the sentence. The choice states milk's specific pH value (approximately 6) and then provides comparative context by explaining that milk is 'more basic than lemon juice (2) but more acidic than a baking soda solution (9).' This structure foregrounds milk while synthesizing relevant information from the notes to create an informative, emphatic statement about milk's position on the pH scale.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=d7794ae8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 24,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

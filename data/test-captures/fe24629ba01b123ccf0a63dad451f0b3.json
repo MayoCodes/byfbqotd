@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fe24629ba01b123ccf0a63dad451f0b3",
+  "capturedAt": "2026-11-21T00:10:10.954Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Area and Volume",
+  "subskill": "Similar Figures and Scale Factor",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Cube Y has a volume of $64$ cubic centimeters. The length of each edge of cube X is $m$ times the length of each edge of cube Y. If cube X has a volume of $1,728$ cubic centimeters, what is the value of $m$?",
+  "choices": {
+    "A": "$27$",
+    "B": "$4$",
+    "C": "$16$",
+    "D": "$3$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The volume of a cube with edge length $s$ is given by $V = s^3$. For Cube Y with volume $64$ cubic centimeters, the edge length is $s_Y = \\sqrt[3]{64} = 4$ centimeters. For Cube X with volume $1{,}728$ cubic centimeters, the edge length is $s_X = \\sqrt[3]{1{,}728} = 12$ centimeters. Since the edge of Cube X is $m$ times the edge of Cube Y, $m = \\frac{s_X}{s_Y} = \\frac{12}{4} = 3$. Alternatively, when a linear dimension is scaled by a factor of $m$, the volume is scaled by a factor of $m^3$. The volume ratio is $\\frac{1{,}728}{64} = 27$, so $m^3 = 27$, giving $m = \\sqrt[3]{27} = 3$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=e22d743c",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 8,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

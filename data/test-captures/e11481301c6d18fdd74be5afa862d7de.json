@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "e11481301c6d18fdd74be5afa862d7de",
+  "capturedAt": "2026-11-21T00:09:37.117Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Text Structure And Purpose",
+  "subskill": "Function of Underlined Portion",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Shedding light on the hydraulic engineering of plants, research by Yuki Tanaka et al. indicates that certain bamboo species (including Bambusa multiplex and species from the genus Phyllostachys) can achieve a pressurized state through hydraulic regulation. Effects of this pressure management were not limited to the plants' stems and root-like rhizomes: pressure increases were observed in the water immediately surrounding the bamboo. Though slight, the increases inspired a pressure regulation device; using approximately 500 grams of bamboo segments, the team's prototype increased the water pressure in a closed system by 3 atmospheres in thirty minutes.",
+  "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?",
+  "choices": {
+    "A": "It provides empirical evidence to bolster the claim made earlier in the text that certain plant species maintain a pressurized state.",
+    "B": "It establishes a finding central to the text's discussion of a practical application resulting from the team's study of plant hydraulic engineering.",
+    "C": "It presents a tangential finding about pressure regulation in certain plant species that the experiment described later in the text was designed to explain.",
+    "D": "It identifies an unexpected observation that motivated the study of hydraulic regulation in plants that is discussed earlier in the text."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because the underlined sentence establishes a finding central to the practical application discussed later. The passage follows a three-part progression: the general research finding (bamboo achieves pressurized states), the specific observation in the underlined sentence (pressure effects extended to surrounding water), and the practical application (a pressure regulation device prototype). The underlined sentence bridges research and application—it presents the key discovery that made the device possible. The phrase 'Though slight, the increases inspired a pressure regulation device' explicitly confirms this observation inspired the application discussed afterward.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=9a332e08",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 5,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

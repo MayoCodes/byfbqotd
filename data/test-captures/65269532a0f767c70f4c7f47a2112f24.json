@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "65269532a0f767c70f4c7f47a2112f24",
+  "capturedAt": "2026-11-21T00:10:01.553Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2x + y = 13$$\n\n$$5x - y = 8$$\n\nHow many solutions does the given system of equations have?",
+  "choices": {
+    "A": "Infinitely many",
+    "B": "Exactly one",
+    "C": "Exactly two",
+    "D": "Zero"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. A system of two linear equations in two variables can have zero solutions (parallel lines), exactly one solution (intersecting lines), or infinitely many solutions (identical lines). To determine which case applies, the system can be solved using the elimination method. The given system is $2x + y = 13$ and $5x - y = 8$. Adding these equations eliminates $y$: $(2x + y) + (5x - y) = 13 + 8$, which simplifies to $7x = 21$. Dividing both sides by $7$ gives $x = 3$. Substituting $x = 3$ into the first equation: $2(3) + y = 13$, so $6 + y = 13$, which gives $y = 7$. The solution $(3, 7)$ can be verified in the second equation: $5(3) - 7 = 15 - 7 = 8$, which is correct. Since a unique solution $(3, 7)$ exists, the system has exactly one solution.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=7e79d9f0",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

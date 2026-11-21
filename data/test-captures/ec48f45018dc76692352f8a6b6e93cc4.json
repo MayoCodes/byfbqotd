@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ec48f45018dc76692352f8a6b6e93cc4",
+  "capturedAt": "2026-11-21T00:09:42.895Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Conclusion from Scientific Research",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Prolonged exposure to artificial light pollution (illumination from human sources like streetlights or building lighting) can affect nocturnal animals, as Maya Foster and colleagues found in a 2018 study of luna moths. Researchers conducted a meta-analysis of studies of how such light exposure affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of insects showed larger differences than studies of mammals did, for every class of animals examined, there were individual studies showing differences well above the average for insects. Therefore, the results of the meta-analysis suggest that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "the studies in the meta-analysis that examined insects were more likely than those that examined mammals to specify whether the observed effects were detrimental.",
+    "B": "some studies of mammals found larger effects of exposure to artificial light pollution than some studies of insects did.",
+    "C": "the difference found in the study conducted by Maya Foster and colleagues was likely larger than the average difference for studies of luna moths included in the meta-analysis.",
+    "D": "the differences that studies attribute to exposure to artificial light pollution are likely to be more pronounced for mammals than they are for insects."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most logically completes the text's discussion of the meta-analysis findings. The passage establishes that on average, insect studies showed larger differences than mammal studies. However, the text also states that 'for every class of animals examined, there were individual studies showing differences well above the average for insects.' This means some mammal studies exceeded the insect average. Therefore, those mammal studies must have found larger effects than at least some insect studies, which is what Choice B states.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=e3cc4050",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 14,
+    "subject": "English",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

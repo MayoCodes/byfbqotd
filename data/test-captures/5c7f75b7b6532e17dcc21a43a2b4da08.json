@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5c7f75b7b6532e17dcc21a43a2b4da08",
+  "capturedAt": "2026-11-21T00:10:09.698Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Exponent Rules and Radicals",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Which expression represents the product of $(a^{-7}b^{5}c^{4})$ and $(a^{3}c^{6} + b^{9}c^{-8})$?",
+  "choices": {
+    "A": "$a^{-4}b^{5}c^{10} + a^{-7}b^{14}c^{-4}$",
+    "B": "$a^{-4}b^{5}c^{10} + b^{9}c^{-8}$",
+    "C": "$a^{-4}c^{10} + a^{-7}c^{-4}$",
+    "D": "$a^{-4}c^{10} + a^{14}c^{-4}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To find the product of a monomial and a binomial, the distributive property must be applied: the monomial must be multiplied by each term in the binomial. Additionally, when multiplying powers with the same base, the exponents are added. Distributing $(a^{-7}b^5c^4)$ to the first term $(a^3c^6)$ gives $(a^{-7}b^5c^4)(a^3c^6) = a^{-7+3}b^5c^{4+6} = a^{-4}b^5c^{10}$. Note that $b^5$ carries through unchanged because there is no $b$ term in $a^3c^6$. Distributing $(a^{-7}b^5c^4)$ to the second term $(b^9c^{-8})$ gives $(a^{-7}b^5c^4)(b^9c^{-8}) = a^{-7}b^{5+9}c^{4+(-8)} = a^{-7}b^{14}c^{-4}$. Note that $a^{-7}$ carries through unchanged because there is no $a$ term in $b^9c^{-8}$. Combining these results gives $a^{-4}b^5c^{10} + a^{-7}b^{14}c^{-4}$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=487f818f",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 6,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

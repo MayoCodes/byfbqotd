@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fea85868af737d80cfd12c1247abc8ce",
+  "capturedAt": "2026-11-21T00:09:57.303Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $y + 2 = 5$, what is the value of $3(y + 2)$?",
+  "choices": {},
+  "correctAnswer": "$$15$$",
+  "explanation": "The correct answer is $15$. The substitution property allows an expression to be treated as a single unit. The given equation states that $y + 2 = 5$. The question asks for the value of $3(y + 2)$. Since $(y + 2)$ equals $5$, this can be substituted directly: $3(y + 2) = 3(5) = 15$. Alternatively, solving the given equation for $y$ yields $y = 3$. Substituting this into $3(y + 2)$ gives $3(3 + 2) = 3(5) = 15$. Both methods confirm the answer is $15$.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=ae0161eb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 9,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "04b876da24283d70ffa562ff88f5d505",
+  "capturedAt": "2026-11-21T00:10:18.038Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Effect of Adding/Removing Data on Statistics",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nA teacher recorded student scores on a 10-point quiz over 31 class periods. The table summarizes the resulting data set, data set A.\n\nThe data value 2 was incorrectly recorded and is removed from data set A to create data set B, which consists of the remaining 30 data values. Which statement best compares the median of data set A and the median of data set B?",
+  "choices": {
+    "A": "The median of data set B is greater than the median of data set A.",
+    "B": "There is not enough information to compare the medians of the two data sets.",
+    "C": "The median of data set B is less than the median of data set A.",
+    "D": "The median of data set B is equal to the median of data set A."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To find the median of a dataset from a frequency table, use cumulative frequency to locate the middle position(s). For data set A with $n = 31$ observations (odd), the median is the $\\frac{31+1}{2} = 16$th value when the data are ordered. The cumulative frequencies are: after score $2$: $1$; after score $6$: $1+3=4$; after score $7$: $4+6=10$; after score $8$: $10+12=22$; after score $9$: $22+6=28$; after score $10$: $28+3=31$. The $16$th value falls in the score $8$ group (positions $11$ through $22$), so the median of data set A is $8$. For data set B, removing the single occurrence of score $2$ leaves $n = 30$ observations (even). The median is the average of the $15$th and $16$th values. The cumulative frequencies for data set B are: after score $6$: $3$; after score $7$: $9$; after score $8$: $21$; after score $9$: $27$; after score $10$: $30$. Both the $15$th and $16$th values fall in the score $8$ group (positions $10$ through $21$), so the median of data set B is $\\frac{8+8}{2} = 8$. Therefore, the medians are equal.",
+  "source": "https://cooksat.com/practice-test-review/2?questionId=370db6f9",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/04b876da24283d70ffa562ff88f5d505/1-8be3009dea7b6046.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "2",
+    "title": "Practice Test 2"
+  }
+}
