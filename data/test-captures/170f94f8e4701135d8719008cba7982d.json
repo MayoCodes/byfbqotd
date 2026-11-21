@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "170f94f8e4701135d8719008cba7982d",
+  "capturedAt": "2026-11-21T00:14:12.698Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Diego Vargas and his team used satellite images of well-mapped areas of Phoenix to train a computer program to identify roof damage. When it was tested on images of Miami, it ______ identified damage in the vast majority of cases and even distinguished whether roofs had missing shingles or cracked tiles. Vargas believes the program will improve on this already-strong performance as it gets used more.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "consistently",
+    "B": "inaccurately",
+    "C": "occasionally",
+    "D": "gradually"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most logically completes the text's discussion of the computer program's performance. In this context, 'consistently' means in a dependable, regular manner. The passage states that the program 'identified damage in the vast majority of cases' and characterizes this as 'already-strong' performance—both phrases indicate reliable, repeated success. The word 'consistently' precisely conveys this pattern of dependable operation across many instances.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=b1228ec2",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 4,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

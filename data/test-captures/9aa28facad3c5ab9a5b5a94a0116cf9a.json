@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9aa28facad3c5ab9a5b5a94a0116cf9a",
+  "capturedAt": "2026-11-21T00:14:15.195Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Cross-text Connections",
+  "subskill": "Identify Shared Conclusion",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Text 1\nDespite how the Lakota nation differs from the Haudenosaunee Confederacy, both groups are described as \"tribes.\" The word's history, however, is contested. It's a term popularized by European and American colonizers to refer to the numerous Indigenous nations of North America. In 1998, anthropologist Margaret Bruchac dismissed the term \"tribe\" as inaccurate, and in 2019 scholar Adrienne Keene suggested that people abandon the term both for its colonial origin and for its failure to grasp the complexities of Indigenous sovereignty.\n\nText 2\nGrowing up on her reservation, scholar Kim TallBear didn't encounter the term \"tribe\" often: her family spoke of their nation, but some of her neighbors used \"tribe.\" Although the widespread use of the term is stemming from colonialism, TallBear calls her community a tribe. Having worked with multiple Indigenous communities as part of her research, she came to appreciate North America's diverse Indigenous nations and the diverse uses of the term \"tribe.\"",
+  "prompt": "Text 1 and Text 2 present points of view about which topic?",
+  "choices": {
+    "A": "The history of Indigenous peoples in North America.",
+    "B": "The use of the term \"tribe.\"",
+    "C": "The difference between the Lakota and Haudenosaunee.",
+    "D": "The best method for studying Indigenous communities."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because both texts focus centrally on the use of the term 'tribe' for Indigenous peoples. Text 1 discusses the term's 'contested' history from colonizers and presents scholars arguing for its abandonment. Text 2 discusses TallBear acknowledging the colonial origins while choosing to 'call her community a tribe.' Although they reach different conclusions about the term's appropriateness, both texts share a common focus on this specific terminology.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=e7b222ed",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 8,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

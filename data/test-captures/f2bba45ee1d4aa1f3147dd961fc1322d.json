@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f2bba45ee1d4aa1f3147dd961fc1322d",
+  "capturedAt": "2026-11-21T00:14:56.058Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Ratios Rates Proportional Relationships And Units",
+  "subskill": "Density with Geometric Calculation",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A liquid's flow rate, in liters per minute, is increasing at a rate of $360$ liters per minute per second. Which of the following is closest to this rate in gallons per second squared, where $1$ liter = $0.264$ gallons?",
+  "choices": {
+    "A": "$0.10$",
+    "B": "$15.8$",
+    "C": "$1.58$",
+    "D": "$95.0$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The flow rate acceleration must be converted from liters per minute per second to gallons per second squared through two conversions. First, convert liters to gallons using the given conversion factor: $360$ liters per minute per second × $0.264$ gallons per liter = $95.04$ gallons per minute per second. Second, convert the time unit from minutes to seconds. Since there are $60$ seconds in $1$ minute, divide by $60$: $\\frac{95.04}{60} = 1.584$ gallons per second squared. Rounding to the nearest hundredth gives $1.58$ gallons per second squared, which matches choice C.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=de98d488",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 16,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

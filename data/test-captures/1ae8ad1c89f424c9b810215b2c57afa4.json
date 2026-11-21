@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1ae8ad1c89f424c9b810215b2c57afa4",
+  "capturedAt": "2026-11-21T00:15:12.363Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A linear function $f$ satisfies $f(x + 3) - f(x) = 12$ for all values of $x$, and the graph of $y = f(x)$ passes through the point $(5, 23)$. Another linear function $g$ is defined by $g(x) = f(x - 2) + f(2)$. What is the $y$-intercept of the graph of $y = g(x)$?",
+  "choices": {
+    "A": "$(0, 6)$",
+    "B": "$(0, 3)$",
+    "C": "$(0, 11)$",
+    "D": "$(0, -5)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. First, find the slope of $f$. The condition $f(x + 3) - f(x) = 12$ means that for every increase of $3$ in $x$, the value of $f$ increases by $12$. Therefore, the slope is $m = \\frac{12}{3} = 4$, and $f(x) = 4x + b$ for some constant $b$. Using the point $(5, 23)$: $23 = 4(5) + b$, so $b = 3$. Thus $f(x) = 4x + 3$. Next, find $g(x) = f(x - 2) + f(2)$. Calculate $f(x - 2) = 4(x - 2) + 3 = 4x - 5$. Calculate $f(2) = 4(2) + 3 = 11$. Therefore, $g(x) = (4x - 5) + 11 = 4x + 6$. The y-intercept occurs when $x = 0$: $g(0) = 6$, so the y-intercept is $(0, 6)$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=1aa9b5bc",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 18,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

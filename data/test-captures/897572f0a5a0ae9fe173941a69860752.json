@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "897572f0a5a0ae9fe173941a69860752",
+  "capturedAt": "2026-11-21T00:14:57.947Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In $2020$, approximately $8,000$ electric vehicles were newly registered in a certain city. In $2021$, the number of newly registered electric vehicles in this city increased by $18%$ from the number of newly registered electric vehicles in $2020$. If the number of newly registered electric vehicles continues to increase each year by $18%$ of the previous year's newly registered electric vehicles, which of the following types of functions best describes how the number of newly registered electric vehicles changes over time?",
+  "choices": {
+    "A": "Decreasing exponential",
+    "B": "Increasing exponential",
+    "C": "Decreasing linear",
+    "D": "Increasing linear"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. When a quantity increases by a constant percentage each year, the relationship is exponential rather than linear. Specifically, if the number of newly registered electric vehicles increases by $18\\%$ each year, then each year's value is multiplied by $1.18$ (which represents $100\\% + 18\\% = 118\\%$ of the previous year). This can be modeled by the exponential function $f(t) = 8000(1.18)^t$, where $t$ represents the number of years since $2020$. Since the base of the exponential, $1.18$, is greater than $1$, the function represents exponential growth, meaning it is an increasing exponential function. This distinguishes it from linear growth, where the same amount (rather than the same percentage) would be added each year.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=c3669cf6",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 19,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

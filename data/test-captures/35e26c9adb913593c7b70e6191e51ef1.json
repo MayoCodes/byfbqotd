@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "35e26c9adb913593c7b70e6191e51ef1",
+  "capturedAt": "2026-11-21T00:14:57.321Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Find Slope from Equation",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "In the $xy$-plane, line $q$ has a slope of $-\\frac{3}{2}$ and an $x$-intercept of $(-18, 0)$. What is the $y$-coordinate of the $y$-intercept of line $q$?",
+  "choices": {},
+  "correctAnswer": "$$-27$$",
+  "explanation": "The correct answer is $-27$. The $y$-intercept of a line is the point where the line crosses the $y$-axis, which occurs when $x = 0$. In the slope-intercept form $y = mx + b$, the value $b$ represents the $y$-coordinate of the $y$-intercept. Since line $q$ passes through the $x$-intercept $(-18, 0)$ with slope $m = -\\frac{3}{2}$, we can substitute these values into the equation: $0 = \\left(-\\frac{3}{2}\\right)(-18) + b$. Calculating the product: $\\left(-\\frac{3}{2}\\right)(-18) = \\frac{(-3)(-18)}{2} = \\frac{54}{2} = 27$. Substituting this result: $0 = 27 + b$, which gives $b = -27$. Therefore, the $y$-coordinate of the $y$-intercept of line $q$ is $-27$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=0adc6fea",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 18,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

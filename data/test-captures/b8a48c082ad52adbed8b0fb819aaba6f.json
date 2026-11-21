@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b8a48c082ad52adbed8b0fb819aaba6f",
+  "capturedAt": "2026-11-21T00:14:17.708Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nButler County has the largest park system of the fifteen county park systems in Ohio, covering 380,000 acres. Most county park systems are much smaller. For example, the total acreage of Harrison County is 24,900 acres, and the total acreage of Montgomery County is ______",
+  "prompt": "Which choice most effectively uses data from the table to complete the statement?",
+  "choices": {
+    "A": "52,500 acres.",
+    "B": "380,000 acres.",
+    "C": "100,000 acres.",
+    "D": "13,700 acres."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because 52,500 acres is the correct data value from the table for Montgomery County, which is the county specifically named in the text's incomplete statement. The passage states 'the total acreage of Montgomery County is ______,' requiring students to locate this county in the table and extract its corresponding value. According to the table, the row labeled 'Montgomery County' shows a total acreage of 52,500 acres.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=b2b947ce",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/b8a48c082ad52adbed8b0fb819aaba6f/1-fcde31e4864d20d4.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 12,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

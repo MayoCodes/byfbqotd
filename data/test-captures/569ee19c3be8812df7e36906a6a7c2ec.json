@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "569ee19c3be8812df7e36906a6a7c2ec",
+  "capturedAt": "2026-11-21T00:15:05.528Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "subskill": "Arc Length and Central Angles",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Circle $O$ has a radius of $3$ and a center of $(0, 0)$. Point $A$ lies on the circle at point $( (3sqrt(2))/2, (3sqrt(2))/2 )$, and point $B$ lies on the circle. If a counterclockwise rotation from ray $OA$ to ray $OB$ has measure $\\frac{(49\\pi )}{4}$ radians, which of the following could be point $B$?",
+  "choices": {
+    "A": "$(3, 0)$",
+    "B": "$( (3sqrt(2))/2, (-3sqrt(2))/2 )$",
+    "C": "$( -\\frac{3}{2}, (3sqrt(3))/2 )$",
+    "D": "$(0, 3)$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. First, find the angle that point A makes with the positive x-axis. Point A is at $\\left( \\frac{3\\sqrt{2}}{2}, \\frac{3\\sqrt{2}}{2} \\right)$, which on a circle of radius $3$ corresponds to angle $\\theta_A$ where $\\cos(\\theta_A) = \\frac{\\sqrt{2}}{2}$ and $\\sin(\\theta_A) = \\frac{\\sqrt{2}}{2}$. This gives $\\theta_A = \\frac{\\pi}{4}$. The angle AOB is $\\frac{49\\pi}{4}$. Since one full rotation equals $2\\pi = \\frac{8\\pi}{4}$, divide to find the number of complete rotations: $\\frac{49\\pi}{4} \\div \\frac{8\\pi}{4} = \\frac{49}{8} = 6.125$. This means $6$ complete rotations plus a remainder. Subtracting $6$ full rotations: $\\frac{49\\pi}{4} - 6 \\cdot \\frac{8\\pi}{4} = \\frac{49\\pi}{4} - \\frac{48\\pi}{4} = \\frac{\\pi}{4}$. The effective rotation from point A is $\\frac{\\pi}{4}$, so $\\theta_B = \\frac{\\pi}{4} + \\frac{\\pi}{4} = \\frac{\\pi}{2}$. At angle $\\frac{\\pi}{2}$ on a circle of radius $3$, the coordinates are $(3\\cos\\frac{\\pi}{2}, 3\\sin\\frac{\\pi}{2}) = (0, 3)$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=ba179353",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 8,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

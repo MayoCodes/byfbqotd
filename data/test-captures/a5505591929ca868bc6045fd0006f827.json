@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "a5505591929ca868bc6045fd0006f827",
+  "capturedAt": "2026-11-21T00:14:35.989Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Weakens",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "[Table 1]\n\nSubsidizing solar panel production yields positive net fiscal return—profit generated when the tax revenue from an energy sector exceeds the cost of subsidizing it—for Germany's government, which can be used to fund such services as healthcare. Subsidizing energy production can also result in negative net fiscal return, however, and this phenomenon led Denmark to stop subsidizing certain energy types. A student argues that it is in the financial interest of Canada to follow the example of Denmark with regard to each of the four energy types shown in the table.",
+  "prompt": "Which choice best describes data from the table that weaken the student's argument?",
+  "choices": {
+    "A": "Although subsidizing solar panels and wind turbines resulted in negative net fiscal return in millions of dollars, subsidizing hydroelectric dams and geothermal plants resulted in positive net fiscal return in millions of dollars.",
+    "B": "Net fiscal return per dollar subsidized was slightly greater for geothermal plants than for hydroelectric dams, but net fiscal return in millions of dollars was much greater for geothermal plants than for hydroelectric dams.",
+    "C": "Subsidizing solar panels and wind turbines created negative net fiscal return in millions of dollars, but for each of those energy types, the total government expenditure was lower than the total government expenditure for hydroelectric dams or geothermal plants was.",
+    "D": "Although subsidizing wind turbines created the greatest negative net fiscal return in millions of dollars, subsidizing solar panels created the greatest negative net fiscal return per dollar subsidized."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it directly weakens the student's blanket recommendation to stop subsidizing all four energy types. The table shows negative net fiscal returns for solar panels and wind turbines (-109.8 and -118.2 million dollars) but positive returns for hydroelectric dams and geothermal plants (+160.0 and +388.0 million dollars). Those positive returns indicate that stopping those two subsidies would not be in Canada's financial interest, so the data undermine the student's recommendation to stop all four.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=41ddfd08",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/a5505591929ca868bc6045fd0006f827/1-5bf45f744d736c61.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 13,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

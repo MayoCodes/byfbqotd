@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4074ec95499a868200ef118c4dff0dd3",
+  "capturedAt": "2026-11-21T00:15:00.528Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Distributions, Center & Spread",
+  "subskill": "Compare or Relate Mean and Median",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows the distribution of scores on a test. What is the positive difference between the mean and the median of the scores?",
+  "choices": {
+    "A": "$0$",
+    "B": "$2.5$",
+    "C": "$5$",
+    "D": "$10$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. First, find the mean. The total number of students is $4 + 12 + 14 + 10 = 40$. The sum of all scores is $(60 \\times 4) + (70 \\times 12) + (80 \\times 14) + (90 \\times 10) = 240 + 840 + 1120 + 900 = 3100$. The mean is $\\frac{3100}{40} = 77.5$. Next, find the median. With $40$ students, the median is the average of the $20$th and $21$st values when arranged in order. The first $4$ scores are $60$, the next $12$ scores (positions $5$ through $16$) are $70$, and the next $14$ scores (positions $17$ through $30$) are $80$. Since both the $20$th and $21$st scores are $80$, the median is $80$. The positive difference between the mean and median is $80 - 77.5 = 2.5$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=5dad11b7",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/4074ec95499a868200ef118c4dff0dd3/1-03e7e2ce2e364a21.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 1,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

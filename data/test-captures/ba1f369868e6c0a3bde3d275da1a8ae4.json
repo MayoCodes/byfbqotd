@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ba1f369868e6c0a3bde3d275da1a8ae4",
+  "capturedAt": "2026-11-21T00:14:41.908Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Cause/Effect Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Marine biologist Dr. Kevin Tanaka is excited about the potential of the new Deep Vision Scanner. Unlike its predecessor, traditional sonar systems, the Deep Vision Scanner specifically detects blue light wavelengths. Most bioluminescent signals from deep-sea organisms emit blue light; ______ the Deep Vision Scanner can provide Tanaka and his research group much more information about these organisms than sonar could.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "hence,",
+    "B": "in contrast,",
+    "C": "for instance,",
+    "D": "alternatively,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. 'Hence' logically signals the cause-and-effect relationship between the two clauses. The text establishes that the Deep Vision Scanner detects blue light wavelengths and that most bioluminescent signals from deep-sea organisms emit blue light. The conclusion that the scanner can provide more information than traditional sonar is a direct consequence of this capability match. 'Hence' (meaning 'therefore') explicitly signals that the second clause is a logical result of the first.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=3249a6b4",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 22,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5dc17e97c8fce725c2f71aa8d9f91430",
+  "capturedAt": "2026-11-21T00:14:49.210Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Radical Equation",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "If $y = 2m-root(4y^m + 32)$, where $m$ is a positive integer constant, what is the value of $y^m$?",
+  "choices": {},
+  "correctAnswer": "$$8$$",
+  "explanation": "The correct answer is $8$. To solve for $y^m$, raise both sides of the equation to the power $2m$ to eliminate the radical. This gives $(y)^{2m} = 4y^m + 32$, which simplifies to $y^{2m} = 4y^m + 32$. Using substitution, let $z = y^m$. Then $y^{2m} = (y^m)^2 = z^2$, and the equation becomes $z^2 = 4z + 32$. Rearranging gives $z^2 - 4z - 32 = 0$. Factoring this quadratic equation yields $(z - 8)(z + 4) = 0$, which gives $z = 8$ or $z = -4$. Since the radical $\\sqrt[2m]{4y^m + 32}$ represents an even root, the result $y$ must be non-negative by convention (we take the principal root). Because $m$ is a positive integer, if $y \\geq 0$, then $y^m \\geq 0$ as well. Therefore, $y^m$ cannot equal $-4$, so $y^m = 8$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=76541ff9",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 6,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

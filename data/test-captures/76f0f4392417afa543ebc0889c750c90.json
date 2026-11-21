@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "76f0f4392417afa543ebc0889c750c90",
+  "capturedAt": "2026-11-21T00:15:06.810Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Table to Equation",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table shows three values of $x$ and their corresponding values of $y$. There is a linear relationship between $x$ and $y$. In the $xy$-plane, what is the $x$-intercept of the graph that represents this relationship?",
+  "choices": {
+    "A": "$(256, 0)$",
+    "B": "$(16, 0)$",
+    "C": "$(-16, 0)$",
+    "D": "$(-\\frac{1}{(256)}, 0)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To find the $x$-intercept, first determine the equation of the line using the table data. Calculate the slope using two points, such as $(-8, 16 + \\frac{1}{2})$ and $(8, 16 - \\frac{1}{2})$. Converting to improper fractions: $(-8, \\frac{33}{2})$ and $(8, \\frac{31}{2})$. The slope is $m = \\frac{\\frac{31}{2} - \\frac{33}{2}}{8 - (-8)} = \\frac{-\\frac{2}{2}}{16} = \\frac{-1}{16}$. Using the point-slope form with $(8, \\frac{31}{2})$: $y - \\frac{31}{2} = -\\frac{1}{16}(x - 8)$. Simplifying: $y = -\\frac{x}{16} + \\frac{1}{2} + \\frac{31}{2} = -\\frac{x}{16} + 16$. The $x$-intercept occurs when $y = 0$: $0 = -\\frac{x}{16} + 16$, which gives $\\frac{x}{16} = 16$, so $x = 256$. Therefore, the $x$-intercept is $(256, 0)$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=488652c7",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/76f0f4392417afa543ebc0889c750c90/1-f452c91c7e7c87d0.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 10,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

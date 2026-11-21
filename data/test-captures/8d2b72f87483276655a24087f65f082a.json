@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8d2b72f87483276655a24087f65f082a",
+  "capturedAt": "2026-11-21T00:14:43.788Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Emphasize Similarity",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Mandarin Chinese is a language in the Sino-Tibetan language family.\n• In Mandarin Chinese, most nouns remain unchanged to indicate plurality; plural marking is optional and typically appears only on pronouns and certain human nouns.\n• The Mandarin Chinese noun péngyou (friend) can optionally be combined with the plural marker -men to become péngyoumen (friends), though the unmarked form can also indicate plurality depending on context.\n• Spanish is a language in the Romance language family.\n• In Spanish, all nouns must change form to indicate plurality.\n• Spanish nouns add the suffix -s or -es to mark plurality; for example, libro (book) becomes libros (books).",
+  "prompt": "The student wants to emphasize a difference between Mandarin Chinese and Spanish nouns. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "In Mandarin Chinese, nouns can remain unchanged to indicate plurality, as the language belongs to the Sino-Tibetan family; Spanish, however, belongs to the Romance family.",
+    "B": "Mandarin Chinese and Spanish belong to two distinct language families; the former is in the Sino-Tibetan family, while the latter is a Romance language.",
+    "C": "Though nouns in Spanish must change form to indicate plurality, this Romance language belongs to a different language family than Mandarin Chinese does.",
+    "D": "To indicate plurality in Mandarin Chinese, a suffix is optionally added to certain nouns, but in Spanish, all nouns must take a suffix to mark plurality."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it directly emphasizes the key grammatical difference between the two noun systems in a focused, parallel structure. The sentence clearly contrasts Mandarin Chinese's optional plural marking on certain nouns with Spanish's obligatory plural marking on all nouns. This choice accomplishes the rhetorical goal by highlighting the specific difference in noun behavior without including extraneous information about language families or other irrelevant details.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=b5c45cc8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 25,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

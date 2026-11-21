@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6afadae48b05cb58d61ff6df1f3968f6",
+  "capturedAt": "2026-11-21T00:14:23.962Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon with Transitional Expression",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Many works of the Greek philosopher Theophrastus (4th-3rd century BCE), including his history of philosophy, On Monarchy, have been lost to time. Scholars wishing to read a work written by the Greek philosopher needn't ______ they can still obtain a copy of Theophrastus's Historia Plantarum, a treatise on botany.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "despair, though",
+    "B": "despair, though,",
+    "C": "despair—though",
+    "D": "despair, though;"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is punctuation use between independent clauses. The text contains two independent clauses: 'Scholars wishing to read a work written by the Greek philosopher needn't despair, though' and 'they can still obtain a copy of Theophrastus's Historia Plantarum.' In this choice, 'though' functions as a trailing concessive adverb modifying 'despair,' set off by a comma. The semicolon after 'though' correctly separates the two independent clauses.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=21453468",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 21,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

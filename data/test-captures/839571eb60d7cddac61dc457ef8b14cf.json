@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "839571eb60d7cddac61dc457ef8b14cf",
+  "capturedAt": "2026-11-21T00:14:58.601Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Quadratic/Nonlinear Word Problem",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "An object is launched into the air from ground level. According to a quadratic model, $2.5$ seconds after the object is launched, it reaches its maximum height of $31.25$ meters above ground level. Which equation represents this model, where $f(t)$ is the object's height, in meters, above ground level $t$ seconds after it was launched?",
+  "choices": {
+    "A": "$f(t)=-5(t-2.5)^{2}+31.25$",
+    "B": "$f(t)=5(t-2.5)^{2}+31.25$",
+    "C": "$f(t)=-5(t+2.5)^{2}+31.25$",
+    "D": "$f(t)=5(t+2.5)^{2}+31.25$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The vertex form of a quadratic function is $f(t)=a(t-h)^2+k$, where $(h,k)$ represents the vertex of the parabola. For a projectile launched from ground level, the vertex represents the maximum height, occurring at time $t=h$ with height value $k$. Given that the maximum height of $31.25$ meters occurs at $t=2.5$ seconds, the vertex is $(2.5, 31.25)$, so $h=2.5$ and $k=31.25$. Since the object is launched upward and then falls back down due to gravity, the parabola opens downward, requiring a negative value for the coefficient $a$. Using $a=-5$ (appropriate for projectile motion in meters per second squared), the equation becomes $f(t)=-5(t-2.5)^2+31.25$. This can be verified: at $t=2.5$, we have $f(2.5)=-5(2.5-2.5)^2+31.25=-5(0)^2+31.25=31.25$ meters, confirming the maximum height.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=cfd95dcb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 20,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

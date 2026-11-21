@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d418e98609071f0dba45cd26742f47c0",
+  "capturedAt": "2026-11-21T00:14:12.071Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Given that robust habitat connectivity supports monarch butterfly migration success—a matter of public interest given the butterflies' crucial role as indicators of tallgrass prairie ecosystem health—a study revealing a ______ of migratory corridors among North American monarch butterflies raised concern, though it also noted the potential to expand the butterflies' access to several newly mapped corridor segments (e.g., MC-427-2-CAN).",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "paucity",
+    "B": "surplus",
+    "C": "inconsistency",
+    "D": "compendium"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most logically completes the text's discussion of monarch butterfly migration. In this context, 'paucity' means a scarcity or lack of something. The text establishes that habitat connectivity supports migration success and indicates that the study 'raised concern'—signaling a problematic finding. A paucity (lack) of migratory corridors would logically threaten migration success and raise concern. The contrast introduced by 'though' also makes sense: despite the concerning lack of corridors, there is potential to improve the situation by expanding access to newly mapped segments.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=ae335cd4",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 3,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

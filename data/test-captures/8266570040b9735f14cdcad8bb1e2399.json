@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8266570040b9735f14cdcad8bb1e2399",
+  "capturedAt": "2026-11-21T00:14:37.545Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The Chipotle Restaurant Group's introduction of fine-dining Mexican cuisine concepts in 2019 is an instance of brand extension—the company leveraged its brand recognition as a fast-casual restaurant to enter a premium dining category. To investigate how customer loyalty affects consumers' likelihood of patronizing brand extensions, Omar Hassan et al. identified 28 extended brand pairs (e.g., the same brand operating both a quick-service burger chain and an upscale steakhouse) in restaurant industry data; for each pair, Hassan et al. calculated the branded restaurants' customer loyalty rates and calculated the increase in likelihood of a brand in one category being patronized if the same brand was patronized in the other category. A broad inverse relationship between the two values emerged, which can most reasonably be attributed to the fact that ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "the patronage likelihood of a brand is affected by the patronage likelihood of the particular dining category to which it belongs, and thus brands in categories that are rarely visited tend to have low patronage likelihoods regardless of customer loyalty rate.",
+    "B": "brands with high customer loyalty rates have high patronage likelihood regardless of whether the other restaurant in the pair is visited and thus have less potential to increase in patronage likelihood than brands with low loyalty rates do.",
+    "C": "as a brand's customer loyalty rate increases, the number of competing brands in the same dining category tends to decrease, and thus the rate of increase in customer loyalty tends to accelerate as a brand's loyalty rate grows.",
+    "D": "consumers tend to be less familiar with brands with low customer loyalty rates than brands with high loyalty rates and thus may patronize both restaurants in a pair with low loyalty rates without recognizing that the restaurants are the same brand."
+  },
+  "correctAnswer": "B",
+  "explanation": "B proposes that high-loyalty brands already have high patronage likelihood, leaving less room for additional patronage associated with visiting the paired brand extension and thereby explaining the inverse relationship.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=9d084319",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 15,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

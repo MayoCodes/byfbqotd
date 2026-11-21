@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ef1a7893770b0ffb92a6b1d910f2da1f",
+  "capturedAt": "2026-11-21T00:14:48.572Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "If $4x - 12 = 8$, what is the value of $x - 3$?",
+  "choices": {
+    "A": "$-7$",
+    "B": "$8$",
+    "C": "$-1$",
+    "D": "$2$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The equation $4x - 12 = 8$ can be rewritten by factoring the left side. Since $4x - 12 = 4(x - 3)$, the equation becomes $4(x - 3) = 8$. Dividing both sides by $4$ gives $x - 3 = 2$. Alternatively, the equation can be solved for $x$ first: adding $12$ to both sides gives $4x = 20$, and dividing both sides by $4$ gives $x = 5$. Substituting this value into the expression $x - 3$ yields $5 - 3 = 2$. Therefore, the value of $x - 3$ is $2$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=78836d12",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 5,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1239c2bff1ceed62cd56b26f0db7858f",
+  "capturedAt": "2026-11-21T00:15:14.267Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nNote: Figure not drawn to scale.\n\nIn triangle $ABC$, angle $B$ is a right angle. Point $D$ lies on side $AC$ such that $BD$ is perpendicular to $AC$. If $AD = 3$ and $DC = 12$, what is the value of $C$?",
+  "choices": {
+    "A": "$(sqrt(5))/5$",
+    "B": "$(2sqrt(5))/5$",
+    "C": "$\\frac{1}{2}$",
+    "D": "$\\frac{2}{5}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. When an altitude is drawn from the right angle to the hypotenuse of a right triangle, it creates geometric mean relationships. The hypotenuse $AC = AD + DC = 3 + 12 = 15$. Using the geometric mean relationship, $AB^2 = AD \\cdot AC = 3 \\cdot 15 = 45$, so $AB = \\sqrt{45} = 3\\sqrt{5}$. Similarly, $BC^2 = DC \\cdot AC = 12 \\cdot 15 = 180$, so $BC = 6\\sqrt{5}$. In right triangle $ABC$, $\\sin C = \\frac{\\text{opposite}}{\\text{hypotenuse}} = \\frac{AB}{AC} = \\frac{3\\sqrt{5}}{15} = \\frac{\\sqrt{5}}{5}$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=de0c0d7e",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/1239c2bff1ceed62cd56b26f0db7858f/1-131091a8a1cf72d9.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 21,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2b3b24b855a38c2ef91d15e8b81464fb",
+  "capturedAt": "2026-11-21T00:14:34.531Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Dry season periods in Costa Rican cloud forests have been growing longer as a result of climate changes, potentially enabling increased nitrogen (N) absorption through greater productivity of epiphytic moss and lichen communities and other vegetation, but also potentially enabling increased N loss through greater denitrification activity (N converted to gas by soil bacteria and released to the atmosphere). Ecologist Dr. Sofia Bergman and her colleagues developed a model incorporating numerous inputs—years of canopy humidity and fog frequency data among them—to evaluate the effects of climate changes on the N balance in these forests, concluding that net N loss is likely to increase if fog frequency diminishes earlier relative to the typical onset of the dry season.",
+  "prompt": "Which finding, if true, would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "When fog frequency drops before the dry season typically begins, moss and lichen productivity declines immediately, but soil moisture remains high enough for denitrification to continue for several weeks.",
+    "B": "Relatively early fog reduction decreases both the rate of nitrogen absorption by moss and lichen communities and the rate of nitrogen loss through denitrification by similar amounts.",
+    "C": "Canopy humidity levels affect the rate of denitrification and the growth rate of moss and lichen communities to roughly the same degree during both foggy and non-foggy periods.",
+    "D": "Fog cover tends to persist longer in areas of relatively low vegetation growth and high denitrification than in areas of relatively high vegetation growth and low denitrification."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it describes a timing-based imbalance that would lead to increased net nitrogen loss when fog frequency diminishes earlier than usual. If moss and lichen productivity declines immediately, nitrogen absorption decreases right away. But if soil moisture remains high enough for denitrification to continue for several weeks, nitrogen loss continues during that same period. This directly supports the researchers' conclusion that earlier fog reduction is likely to increase net nitrogen loss.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=73fa8012",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 11,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

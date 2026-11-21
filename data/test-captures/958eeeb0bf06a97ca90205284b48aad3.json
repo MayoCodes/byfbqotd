@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "958eeeb0bf06a97ca90205284b48aad3",
+  "capturedAt": "2026-11-21T00:14:25.831Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "One important boundary in ocean ecosystems is the photic zone limit, approximately 200 meters below the sea surface. Based on the work of marine biologist Rachel Carson, this depth marks the level at which sunlight no longer penetrates sufficiently for photosynthesis to occur. ______ marine organisms obtain energy below this depth primarily through chemosynthesis, using chemical reactions from hydrothermal vents and organic matter rather than relying on sunlight.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Regardless,",
+    "B": "Instead,",
+    "C": "Granted,",
+    "D": "For instance,"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because 'Instead' logically signals a replacement or alternative mechanism. The first sentence establishes that photosynthesis cannot occur below 200 meters because sunlight no longer penetrates sufficiently. The second sentence describes chemosynthesis as the alternative energy-production mechanism that marine organisms use in these conditions. 'Instead' perfectly captures this relationship: organisms cannot use photosynthesis below this depth, so instead they rely on chemosynthesis. This transition clearly indicates that one mechanism replaces the other based on environmental conditions.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=05a1435e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 24,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

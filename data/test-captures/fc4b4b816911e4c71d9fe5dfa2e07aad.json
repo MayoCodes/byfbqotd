@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "fc4b4b816911e4c71d9fe5dfa2e07aad",
+  "capturedAt": "2026-11-21T00:15:04.728Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Vertical and Supplementary Angles",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the figure, two lines intersect at point $P$. If angle $CPB$ measures $x$°, angle $APD$ measures $y$°, and $x = 73$, what is the value of $y$?",
+  "choices": {},
+  "correctAnswer": "$$73$$",
+  "explanation": "The correct answer is $73$. When two lines intersect, they form two pairs of vertical angles. Vertical angles are the angles that are opposite each other at the intersection point. A fundamental property of vertical angles is that they are always congruent, meaning they have equal measures. In the given figure, angles $x$ and $y$ are vertical angles because they are opposite each other at the point of intersection. Since vertical angles are congruent, $y = x$. Given that $x = 73$, it follows that $y = 73$. Therefore, the value of $y$ is $73$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=e791c37f",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/fc4b4b816911e4c71d9fe5dfa2e07aad/1-176465ac46f50941.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 7,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

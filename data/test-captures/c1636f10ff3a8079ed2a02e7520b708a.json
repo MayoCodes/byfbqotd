@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c1636f10ff3a8079ed2a02e7520b708a",
+  "capturedAt": "2026-11-21T00:14:20.211Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Inferences",
+  "subskill": "Inference from General Informational",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "New Zealand professional basketball team Auckland Thunder, whose home arena features significantly brighter court lighting than most venues, won approximately 60% of its home games between 1985 and 2018. This is a higher percentage of home games than Canterbury Bulls, whose home arena has standard court lighting, won during the same period. According to a study by Patricia L. Henderson and colleagues, exceptionally bright lighting can cause opposing players to experience disorientation and visual fatigue, which the researchers think helps explain Auckland Thunder's success. Michael Nakamura and colleagues reexamined the original findings from this study, however, and found no indication that teams with brighter court lighting are more likely than other teams to win, indicating that Auckland Thunder's performance at its home arena ______",
+  "prompt": "Which choice most logically completes the text?",
+  "choices": {
+    "A": "was likely influenced by its opponents' negative responses to the bright lighting conditions.",
+    "B": "would probably have remained roughly the same if its arena had featured standard court lighting.",
+    "C": "was directly tied to its players' general comfort with the lighting in their home arena.",
+    "D": "may have influenced other teams to increase the brightness of their court lighting."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it most logically completes the text's discussion of Auckland Thunder's home performance. Henderson's study proposed that bright court lighting caused opponents to experience disorientation and visual fatigue, thus explaining Auckland Thunder's strong 60% home win rate. However, Nakamura's reanalysis found 'no indication that teams with brighter court lighting are more likely than other teams to win.' If bright lighting provides no competitive advantage, then Auckland Thunder's success must stem from other factors unrelated to their arena's lighting, meaning their performance would likely have been similar with standard lighting.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=37bd9a6a",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 15,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

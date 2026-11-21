@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "85208c07187ca57fe12f5a639d2d9399",
+  "capturedAt": "2026-11-21T00:15:09.012Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Function Transformation and Composition",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The function $f(x) = 2^x$ is transformed to create function $g$. The graph of $g$ is the result of reflecting the graph of $f$ over the $y$-axis, then translating it $3$ units to the right and $5$ units up. If $g(a) = 7$, what is the value of $a$?",
+  "choices": {
+    "A": "$2$",
+    "B": "$4$",
+    "C": "$-2$",
+    "D": "$-4$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. Apply the transformations to $f(x) = 2^x$ in order. Reflecting over the y-axis replaces $x$ with $-x$: $2^{-x}$. Translating $3$ units right replaces $x$ with $(x - 3)$: $2^{-(x-3)} = 2^{3-x}$. Translating $5$ units up adds $5$: $g(x) = 2^{3-x} + 5$. To find $a$ when $g(a) = 7$, solve $2^{3-a} + 5 = 7$. Subtracting $5$ from both sides: $2^{3-a} = 2$. Since $2 = 2^1$, we have $2^{3-a} = 2^1$, so $3 - a = 1$. Solving for $a$: $a = 2$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=427fabfb",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 13,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

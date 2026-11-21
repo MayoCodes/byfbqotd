@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f75f4b03b106c8799e78237ebbccedf0",
+  "capturedAt": "2026-11-21T00:14:28.931Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "For most of their vertical extent, towering cumulonimbus clouds have sufficiently strong updraft velocity to suspend water droplets, but when these updrafts reach the stable air of the tropopause, they weaken and spread horizontally, reducing updraft velocity and thereby ______ water droplet suspension. Droplets thus descend, eventually forming precipitation.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "interrupting",
+    "B": "concealing",
+    "C": "reinforcing",
+    "D": "accelerating"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because it most logically completes the text's discussion of water droplet suspension in cumulonimbus clouds. In this context, 'interrupting' means stopping or breaking off an ongoing process. The text establishes that strong updrafts suspend water droplets, but when these updrafts reach the tropopause and weaken, the suspension process must stop for the droplets to descend and form precipitation. This causal chain—reduced velocity interrupts suspension, allowing droplets to fall—is confirmed by the text's statement that droplets 'thus descend, eventually forming precipitation.'",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=4a267993",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 2,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

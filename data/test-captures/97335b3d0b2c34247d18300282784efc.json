@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "97335b3d0b2c34247d18300282784efc",
+  "capturedAt": "2026-11-21T00:14:33.910Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Illustrates Claim",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "A student is writing a research paper on the history of bridge construction in the northeastern United States, situating the development of the Brooklyn Bridge (a suspension bridge completed in New York in 1883) in a larger historical context. The student claims that some modern-day bridge-building techniques used in northeastern states, such as New York, Pennsylvania, and Massachusetts, have a lineage that long predates the completion of the Brooklyn Bridge.",
+  "prompt": "Which quotation from a historian best supports the student's claim?",
+  "choices": {
+    "A": "\"Cable-stayed bridge designs, which were developed in the late 20th century, are a convenient technique of construction that makes use of steel cables extending directly from towers to support the roadway. Many areas of the northeastern United States are currently served by bridges built using this method.\"",
+    "B": "\"In the decades following the Second World War, construction of highway bridges for automobile traffic increased to such a degree that it now accounts for roughly 40% of all major bridge projects in the United States.\"",
+    "C": "\"The importance of the development of bridge infrastructure in the American Northeast today cannot be overstated, since it is the most common means of supporting vehicular traffic for commerce and transportation.\"",
+    "D": "\"The bridge construction techniques developed by Roman engineers in what is now southern Europe in the 1st century CE were sophisticated and made use of structural engineering principles such as arch design and load distribution that are still utilized by today's engineers.\""
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it provides historical evidence directly supporting the student's claim that modern bridge-building techniques have a lineage predating the 1883 Brooklyn Bridge. The quotation describes Roman engineers' techniques from the 1st century CE and explicitly states that their structural engineering principles, 'such as arch design and load distribution,' are 'still utilized by today's engineers.' This establishes both required elements of the claim: techniques from well before 1883 that continue to be used in modern practice.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=57faaaf6",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 10,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

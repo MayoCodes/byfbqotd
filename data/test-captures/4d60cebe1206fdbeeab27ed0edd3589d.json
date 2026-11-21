@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4d60cebe1206fdbeeab27ed0edd3589d",
+  "capturedAt": "2026-11-21T00:14:46.513Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Inequalities",
+  "subskill": "Graph - Identify Inequality from Shaded Region",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A number $x$ is at least twice the value of a number $y$. If the value of $y$ is $63$, which inequality represents the possible values of $x$?",
+  "choices": {
+    "A": "$x \\ge 61$",
+    "B": "$x \\ge 65$",
+    "C": "$x \\ge 128$",
+    "D": "$x \\ge 126$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The phrase 'at least' indicates a greater than or equal to relationship (≥), and 'twice the value' means multiply by $2$. Therefore, the statement 'x is at least twice the value of y' translates to the inequality $x \\geq 2y$. Substituting the given value $y = 63$ into this inequality gives $x \\geq 2(63)$. Multiplying yields $x \\geq 126$. Therefore, the inequality $x \\geq 126$ represents the possible values of $x$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=93ae0911",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 2,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

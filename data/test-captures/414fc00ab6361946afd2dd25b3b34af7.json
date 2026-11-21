@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "414fc00ab6361946afd2dd25b3b34af7",
+  "capturedAt": "2026-11-21T00:14:51.427Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A rope that has a length of $156$ meters (m) is divided into three parts. One part is $48$ m long. The other two parts have lengths that are equal to each other. What is the length, in m, of one of the other two parts of equal length?",
+  "choices": {},
+  "correctAnswer": "$$54$$",
+  "explanation": "The correct answer is $54$. The rope has a total length of $156$ meters and is divided into three parts: one part that is $48$ meters long, and two parts that have equal lengths. To find the combined length of the two equal parts, subtract the known part from the total: $156 - 48 = 108$ meters. Since the two parts are equal in length, divide the remaining length by $2$: $\\frac{108}{2} = 54$ meters. Therefore, each of the two equal parts has a length of $54$ meters. This can be verified: $54 + 54 + 48 = 156$ meters.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=23c8c115",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 9,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

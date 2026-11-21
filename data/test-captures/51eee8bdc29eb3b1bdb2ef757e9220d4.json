@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "51eee8bdc29eb3b1bdb2ef757e9220d4",
+  "capturedAt": "2026-11-21T00:15:01.357Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe scatterplot shows the relationship between the age, in weeks, of each of $9$ chickens on June 15 and the number of eggs each chicken laid that week. How many eggs did the $8$-week chicken lay?",
+  "choices": {
+    "A": "$6$",
+    "B": "$4$",
+    "C": "$5$",
+    "D": "$3$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To determine how many eggs the $8$-week chicken laid, locate the value $8$ on the horizontal axis (age in weeks), then find the corresponding data point directly above it on the scatterplot. Reading the vertical coordinate of this point on the y-axis shows that the $8$-week-old chicken laid $3$ eggs that week. Since there is only one data point at age $8$ weeks, this can be read directly from the graph without ambiguity.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=6b034122",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/51eee8bdc29eb3b1bdb2ef757e9220d4/1-05ea805058d679fb.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 2,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

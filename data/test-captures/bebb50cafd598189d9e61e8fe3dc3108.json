@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "bebb50cafd598189d9e61e8fe3dc3108",
+  "capturedAt": "2026-11-21T00:15:13.628Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Percentages",
+  "subskill": "Multi-Step Successive Percent Changes",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "A water tank loses $20%$ of its volume during the first half of the day, then loses $25%$ of its remaining volume during the second half of the day. If the tank contains $48$ liters at the end of the day, what was the tank's volume, in liters, at the start of the day?",
+  "choices": {
+    "A": "$72$",
+    "B": "$80$",
+    "C": "$93$",
+    "D": "$96$"
+  },
+  "correctAnswer": "B",
+  "explanation": "The correct answer is B. Let $x$ represent the initial volume in liters. After losing $20\\%$ in the first half, $80\\%$ remains, giving $0.80x$ liters. After losing $25\\%$ of this remaining volume, $75\\%$ of that amount remains, giving $0.75(0.80x) = 0.60x$ liters. Since the final volume is $48$ liters, the equation is $0.60x = 48$. Solving gives $x = \\frac{48}{0.60} = 80$ liters.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=9796e9b6",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 20,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

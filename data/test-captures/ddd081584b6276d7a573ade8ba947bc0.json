@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "ddd081584b6276d7a573ade8ba947bc0",
+  "capturedAt": "2026-11-21T00:15:03.487Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Evaluate Function at a Given Value",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The functions $f$ and $g$ are defined by $f(x) = 3x - 7$ and $g(x) = 2x^{2} + 5$. What is the value of $f(g(2)) - g(f(2))$?",
+  "choices": {
+    "A": "$7$",
+    "B": "$25$",
+    "C": "$32$",
+    "D": "$39$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. First, find $g(2)$: $g(2) = 2(2)^2 + 5 = 2(4) + 5 = 8 + 5 = 13$. Then find $f(g(2)) = f(13) = 3(13) - 7 = 39 - 7 = 32$. Next, find $f(2)$: $f(2) = 3(2) - 7 = 6 - 7 = -1$. Then find $g(f(2)) = g(-1) = 2(-1)^2 + 5 = 2(1) + 5 = 2 + 5 = 7$. Finally, calculate $f(g(2)) - g(f(2)) = 32 - 7 = 25$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=82a23636",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 5,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

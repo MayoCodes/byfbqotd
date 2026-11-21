@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b25a6bf95802885fea645adaef2afa5a",
+  "capturedAt": "2026-11-21T00:14:59.236Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Number of Solutions / No-Solution Constant",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2x + 3y = 6$$\n\nOne of the two equations in a system of linear equations is given. The system has no solution. Which equation could be the second equation in this system?",
+  "choices": {
+    "A": "$x + 2y = 4$",
+    "B": "$3x + 2y = 6$",
+    "C": "$2x + 3y = 6$",
+    "D": "$2x + 3y = 9$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. A system of linear equations has no solution when the two lines are parallel, which occurs when the lines have the same slope but different y-intercepts. The given equation $2x + 3y = 6$ can be rewritten in slope-intercept form as $y = -\\frac{2}{3}x + 2$, so its slope is $-\\frac{2}{3}$. Choice D, $2x + 3y = 9$, can be rewritten as $y = -\\frac{2}{3}x + 3$, which has the same slope of $-\\frac{2}{3}$ but a different y-intercept ($3$ instead of $2$). Since the two equations have identical coefficients for $x$ and $y$ but different constants, they represent parallel lines that never intersect. Therefore, the system formed by the given equation and Choice D has no solution.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=30cc82bd",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 21,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

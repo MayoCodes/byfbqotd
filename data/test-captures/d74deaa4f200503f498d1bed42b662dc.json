@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "d74deaa4f200503f498d1bed42b662dc",
+  "capturedAt": "2026-11-21T00:14:55.222Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Two-variable Data Models And Scatterplots",
+  "subskill": "Read Value from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nThe graph models the number of mobile app downloads at the end of every three-month period, where $x$ is the number of three-month periods since the end of March 2020 and $0 \\le x \\le 4$. Which statement is the best interpretation of the point $(1, 800)$ in this context?",
+  "choices": {
+    "A": "The estimated number of mobile app downloads at the end of March 2020 was $800$.",
+    "B": "The estimated number of mobile app downloads increased every three months by $800$ downloads.",
+    "C": "The estimated number of mobile app downloads at the end of the first three-month period was $800$.",
+    "D": "The estimated number of mobile app downloads decreased by $800$ during the first three-month period."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The graph shows mobile app downloads over time, where the horizontal axis represents the number of three-month periods since the end of March 2020, and the vertical axis represents the number of downloads. The point $(1, 800)$ has coordinates where $x = 1$ and $y = 800$. Since $x$ represents the number of three-month periods since the end of March 2020, $x = 1$ corresponds to the end of the first three-month period after March 2020. The $y$-coordinate represents the number of app downloads at that time. Therefore, the point $(1, 800)$ means that at the end of the first three-month period, the estimated number of mobile app downloads was $800$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=16d17ad3",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/d74deaa4f200503f498d1bed42b662dc/1-33e0bd0c92bef190.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 15,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

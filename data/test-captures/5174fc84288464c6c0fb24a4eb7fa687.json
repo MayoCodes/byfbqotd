@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5174fc84288464c6c0fb24a4eb7fa687",
+  "capturedAt": "2026-11-21T00:14:47.779Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, Angles, and Triangles",
+  "subskill": "Triangle Angle Sum",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the right triangle shown, what is the value of $b$?",
+  "choices": {
+    "A": "$32$",
+    "B": "$122$",
+    "C": "$90$",
+    "D": "$58$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The sum of the interior angles of any triangle is $180$ degrees. In a right triangle, one angle measures $90$ degrees (indicated by the small square symbol). The diagram shows that another angle measures $32$ degrees, and the third angle measures $b$ degrees. Therefore, the equation $32 + 90 + b = 180$ represents the sum of the angles. Adding the known angles gives $32 + 90 = 122$ degrees. Subtracting this sum from $180$ degrees yields $b = 180 - 122 = 58$ degrees. Thus, the value of $b$ is $58$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=6799ee6c",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/5174fc84288464c6c0fb24a4eb7fa687/1-cda86503be83b1c7.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 4,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

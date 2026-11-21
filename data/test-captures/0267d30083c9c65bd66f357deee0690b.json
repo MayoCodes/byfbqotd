@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "0267d30083c9c65bd66f357deee0690b",
+  "capturedAt": "2026-11-21T00:14:24.581Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Elaboration or Specification",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Dr. Vikram Reddy has worked at Woods Hole Oceanographic Institution (WHOI), one of the world's leading facilities for deep-sea exploration. ______ Reddy worked as a research scientist on WHOI's 2022 Deep Explorer submersible team, which enhanced the 2015 Atlantis Explorer design by adding a sediment sampling array to the vessel that could collect seafloor cores for later analysis.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Finally,",
+    "B": "Conversely,",
+    "C": "Specifically,",
+    "D": "Nevertheless,"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because 'Specifically' logically signals that the sentence provides a particular example of the general claim made in the previous sentence. The first sentence establishes that Reddy worked at WHOI, a leading deep-sea exploration facility. The second sentence narrows this general statement by providing specific details about his role on the 2022 Deep Explorer submersible team. This transition appropriately marks the shift from broad context to concrete illustration.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=5d1ae50e",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 22,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

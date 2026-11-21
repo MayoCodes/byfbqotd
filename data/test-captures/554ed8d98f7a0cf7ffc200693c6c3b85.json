@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "554ed8d98f7a0cf7ffc200693c6c3b85",
+  "capturedAt": "2026-11-21T00:15:02.830Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Setup and Solve",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "A store sells notebooks for $$6$ each. Members receive a $25%$ discount on all purchases but must pay a one-time $$4$ membership fee. A customer decides to become a member and purchases some notebooks, spending $$40$ in total including the membership fee. How many notebooks did the customer purchase?",
+  "choices": {},
+  "correctAnswer": "$$8$$",
+  "explanation": "The correct answer is $8$. Let $n$ represent the number of notebooks purchased. The regular price per notebook is $6$ dollars, and members receive a $25\\%$ discount, so the discounted price is $6 \\times 0.75 = 4.50$ dollars per notebook. The total cost includes the membership fee plus the cost of notebooks: $4 + 4.50n = 40$. Subtracting $4$ from both sides: $4.50n = 36$. Dividing both sides by $4.50$: $n = \\frac{36}{4.50} = 8$. To verify: $8$ notebooks at $4.50$ dollars each equals $36$ dollars, plus the $4$ dollar membership fee equals $40$ dollars total.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=d9495e76",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 4,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

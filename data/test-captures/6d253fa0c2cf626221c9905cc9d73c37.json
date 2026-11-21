@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6d253fa0c2cf626221c9905cc9d73c37",
+  "capturedAt": "2026-11-21T00:14:33.277Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Textual Evidence Supports Claim",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Some researchers posit that species on the Mediterranean island of Corsica are the surviving members of clades that inhabited other islands in the region before the complete emergence of Corsica 34 million years ago. In a 2015 study, however, Priya Reddy et al. found that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of Corsican oaks on Corsica is 15.2 million years; Reddy et al. further found that the crown age of the clade of Corsican oaks in the Mediterranean generally is also approximately 15.2 million years.",
+  "prompt": "As presented in the text, the findings of Reddy et al. best support which statement?",
+  "choices": {
+    "A": "The Corsican oaks found on Corsica are members of a clade that likely originated outside the Mediterranean.",
+    "B": "The Corsican oaks found on Corsica are not members of a clade that existed before the island completely emerged.",
+    "C": "The most recent common ancestor of the Corsican oaks found on Corsica lived at least 34 million years ago.",
+    "D": "The ancestors of most species found on Corsica arrived on the island earlier than did the most recent common ancestor of the island's Corsican oaks."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it presents a statement directly supported by Reddy et al.'s findings. The text indicates that Corsica completely emerged 34 million years ago, but the crown age of the Corsican oak clade is only 15.2 million years. Since the crown age represents when the most recent common ancestor of all species in the clade lived, and 15.2 million years ago is more recent than 34 million years ago, the most recent common ancestor lived after the island emerged. Therefore, this clade could not have existed before the island's emergence.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=46b461f8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 9,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

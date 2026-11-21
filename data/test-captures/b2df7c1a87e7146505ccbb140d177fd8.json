@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "b2df7c1a87e7146505ccbb140d177fd8",
+  "capturedAt": "2026-11-21T00:14:41.274Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "The green spaces of Portland, Oregon, seem to be reducing people's stress. In 2023, a team of researchers ______ to find connections between the physical location in which smartphone app data was collected and the physiological stress markers shown in that data analyzed GPS-tracked health data from various sites in Portland. The team found that data from the city's green spaces showed lower stress markers than did the other data.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "hoped",
+    "B": "were hoping",
+    "C": "was hoping",
+    "D": "hoping"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite present participle 'hoping' correctly forms a participial phrase ('hoping to find connections...shown in that data') that modifies 'team of researchers' and describes the team's goal. This participial phrase functions as an adjective, allowing the main verb 'analyzed' to serve as the sentence's finite verb. The construction 'a team of researchers hoping...analyzed GPS-tracked health data' is grammatically correct and clearly communicates that the team analyzed data with the goal of finding connections.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=faa1a290",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 21,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

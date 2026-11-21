@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4a4a93b22bb0eb027a0a9fa2be7c59c9",
+  "capturedAt": "2026-11-21T00:14:40.022Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Semicolon Between Independent Clauses",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The Great Barrier Reef system's biodiversity typically surpasses that of the Ningaloo Reef system due to the interplay of three main factors—namely, the density and species variety of the ______ nutrient availability within the reef substrate, with higher nutrient concentrations supporting more diverse ecosystems; and oceanic conditions, such as variations in water temperature and salinity.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "polyps, their",
+    "B": "polyps. Their",
+    "C": "polyps; their",
+    "D": "polyps—their"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The sentence lists three factors, and the second and third items contain internal commas. When list items have internal punctuation, semicolons are required between the major items to maintain clarity. A semicolon after 'polyps' properly separates the first factor from the second, following the pattern: factor 1; factor 2; and factor 3.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=f215f3f0",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 19,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

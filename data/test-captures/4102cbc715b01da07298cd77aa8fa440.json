@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4102cbc715b01da07298cd77aa8fa440",
+  "capturedAt": "2026-11-21T00:15:09.671Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Linear Model Evaluate in Context",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "The linear functions $f(x) = 2x + a$ and $g(x) = bx - 4$ intersect at the point $(3, 5)$ in the $xy$-plane. The function $h$ is defined by $h(x) = f(g(x))$. What is the $y$-intercept of the graph of $y = h(x)$?",
+  "choices": {
+    "A": "$(0, -9)$",
+    "B": "$(0, -5)$",
+    "C": "$(0, -4)$",
+    "D": "$(0, -1)$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. First, find the values of $a$ and $b$ using the intersection point $(3, 5)$. For $f(x) = 2x + a$: substituting gives $5 = 2(3) + a$, so $5 = 6 + a$, thus $a = -1$. For $g(x) = bx - 4$: substituting gives $5 = b(3) - 4$, so $5 = 3b - 4$, thus $9 = 3b$ and $b = 3$. Now $f(x) = 2x - 1$ and $g(x) = 3x - 4$. To find $h(x) = f(g(x))$, substitute $g(x)$ into $f$: $h(x) = f(3x - 4) = 2(3x - 4) - 1 = 6x - 8 - 1 = 6x - 9$. The y-intercept occurs when $x = 0$: $h(0) = 6(0) - 9 = -9$. Therefore, the y-intercept is $(0, -9)$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=cc58510d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 14,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "27e662095820e053bfc0aebf2d30f374",
+  "capturedAt": "2026-11-21T00:15:10.291Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Table-Based Function Analysis",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table gives two values of $x$ and their corresponding values of $f(x)$, where $f(x) = (g(x) + c)/(x + c)$ and $g(x) = sqrt(a^x)$. What is the value of $g(6)$?",
+  "choices": {},
+  "correctAnswer": "$$64$$",
+  "explanation": "The correct answer is $64$. First, simplify $g(x) = \\sqrt{a^x} = a^{x/2}$. Use the table to find $c$ and $a$. When $x = 0$: $f(0) = \\frac{g(0) + c}{0 + c} = \\frac{a^0 + c}{c} = \\frac{1 + c}{c} = 1.25$. Solving: $1 + c = 1.25c$, so $1 = 0.25c$, giving $c = 4$. When $x = 12$: $f(12) = \\frac{a^{12/2} + 4}{12 + 4} = \\frac{a^6 + 4}{16} = 256.25$. Solving: $a^6 + 4 = 256.25 \\times 16 = 4100$, so $a^6 = 4096$. Since $4^6 = 4096$, we have $a = 4$. Therefore, $g(x) = 4^{x/2}$, and $g(6) = 4^{6/2} = 4^3 = 64$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=be0579b0",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/27e662095820e053bfc0aebf2d30f374/1-b613657dbff2a289.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 15,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

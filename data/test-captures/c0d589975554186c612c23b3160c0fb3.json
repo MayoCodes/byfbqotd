@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c0d589975554186c612c23b3160c0fb3",
+  "capturedAt": "2026-11-21T00:14:45.661Z",
+  "subject": "Math",
+  "domain": "Problem Solving and Data Analysis",
+  "skill": "Probability And Conditional Probability",
+  "subskill": "Simple Probability from One-Way Table",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Table 1]\n\nThe table summarizes respondents to a survey by age and whether they live in the Eastern or Western region. If a respondent is selected at random, what is the probability that the selected respondent is at least $30$ years old?",
+  "choices": {
+    "A": "$\\frac{(18)}{(150)}$",
+    "B": "$\\frac{(42)}{(150)}$",
+    "C": "$\\frac{(132)}{(150)}$",
+    "D": "$\\frac{(108)}{(150)}$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The probability of an event is calculated by dividing the number of favorable outcomes by the total number of possible outcomes. The question asks for the probability that a randomly selected respondent is at least $30$ years old. From the table, the row labeled 'At least $30$ years old' shows a total of $132$ respondents in this age category. The grand total of all respondents is $150$, shown in the bottom-right cell of the table. Therefore, the probability is $\\frac{132}{150}$, which represents the $132$ respondents who are at least $30$ years old out of the $150$ total respondents.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=e7889124",
+  "images": [
+    {
+      "label": "Table 1",
+      "path": "data/capture-assets/c0d589975554186c612c23b3160c0fb3/1-1ffef8fd9e549a91.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 1,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

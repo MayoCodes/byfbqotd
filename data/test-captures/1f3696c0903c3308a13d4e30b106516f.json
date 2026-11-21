@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "1f3696c0903c3308a13d4e30b106516f",
+  "capturedAt": "2026-11-21T00:14:47.153Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Isolate Expression",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$7x = 4(y + z)$$\n\nThe given equation relates the positive numbers $x$, $y$, and $z$. Which equation correctly gives $x$ in terms of $y$ and $z$?",
+  "choices": {
+    "A": "$x = 4(y + z)$",
+    "B": "$x = (4(y+z))/7$",
+    "C": "$x = 4(y + z) - 7$",
+    "D": "$x = 4 - y - z - 7$"
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is correct. To solve the equation $7x = 4(y + z)$ for $x$, the variable $x$ must be isolated. Since $x$ is multiplied by $7$, both sides of the equation should be divided by $7$ to isolate $x$. Dividing the left side by $7$ gives $\\frac{7x}{7} = x$. Dividing the right side by $7$ gives $\\frac{4(y + z)}{7}$. Therefore, the equation becomes $x = \\frac{4(y + z)}{7}$, which correctly expresses $x$ in terms of $y$ and $z$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=01064c23",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 3,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

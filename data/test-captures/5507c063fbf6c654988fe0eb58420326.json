@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5507c063fbf6c654988fe0eb58420326",
+  "capturedAt": "2026-11-21T00:14:56.688Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Systems of Linear Equations",
+  "subskill": "Solve System Algebraically",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$2a + 3b = 11$$\n\n$$2a - 3b = 5$$\n\nThe solution to the given system of equations is $(a, b)$. What is the value of $a$?",
+  "choices": {
+    "A": "$4$",
+    "B": "$0.75$",
+    "C": "$5$",
+    "D": "$16$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. The system can be solved using the elimination method. Since the coefficients of $b$ in the two equations are opposites ($+3b$ and $-3b$), adding the equations eliminates the $b$ variable. Adding the left sides: $(2a+3b)+(2a-3b)=2a+2a+3b-3b=4a$. Adding the right sides: $11+5=16$. This gives the equation $4a=16$. Dividing both sides by $4$ yields $a=\\frac{16}{4}=4$. Therefore, the value of $a$ is $4$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=d1a18b27",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 17,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

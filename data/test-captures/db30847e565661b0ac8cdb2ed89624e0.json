@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "db30847e565661b0ac8cdb2ed89624e0",
+  "capturedAt": "2026-11-21T00:15:07.714Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Interpret Graph Behavior in Context",
+  "difficulty": "Hard",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "The graph of a quadratic function in the $xy$-plane has vertex $(3, -8)$ and passes through the point $(5, 4)$. What is the $y$-coordinate of the $y$-intercept of this graph?",
+  "choices": {},
+  "correctAnswer": "$$19$$",
+  "explanation": "The correct answer is $19$. A quadratic function with vertex $(h, k)$ can be written in vertex form as $y = a(x - h)^2 + k$. With vertex $(3, -8)$, the equation becomes $y = a(x - 3)^2 - 8$. To find the value of $a$, substitute the point $(5, 4)$ into the equation: $4 = a(5 - 3)^2 - 8$. This simplifies to $4 = a(2)^2 - 8$, then $4 = 4a - 8$, so $12 = 4a$, giving $a = 3$. The complete equation is $y = 3(x - 3)^2 - 8$. The y-intercept occurs when $x = 0$: $y = 3(0 - 3)^2 - 8 = 3(9) - 8 = 27 - 8 = 19$. Therefore, the y-coordinate of the y-intercept is $19$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=b43d9b35",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 11,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

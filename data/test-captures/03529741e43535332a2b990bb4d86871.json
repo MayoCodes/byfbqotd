@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "03529741e43535332a2b990bb4d86871",
+  "capturedAt": "2026-11-21T00:14:59.866Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Exponential Growth/Decay Model",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$g(t)=5000(1.003)^{4}t$$\n\nThe given function $g$ models the value of an investment account, in dollars, $t$ years after it is opened. Which statement is the best interpretation of $(1.003)^{4}t$?",
+  "choices": {
+    "A": "At the end of every $3$-month interval, the value increases by about $0.3%$ of the value at the beginning of the $3$-month interval.",
+    "B": "Every $4$ months, the value increases by about $$3$.",
+    "C": "Every $3$ months, the value increases by about $$3$.",
+    "D": "At the end of every $4$-month interval, the value increases by about $0.3%$ of the value at the beginning of the $4$-month interval."
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. In an exponential growth function of the form $a(1+r)^{nt}$, the base $(1+r)$ represents $1$ plus the growth rate per compounding period, and the exponent coefficient $n$ represents the number of compounding periods per unit time. For the expression $(1.003)^{4t}$, the base is $1.003 = 1 + 0.003 = 1 + 0.3\\%$, indicating a $0.3\\%$ growth rate per compounding period. The exponent $4t$ means that when $t = 1$ year, there are $4$ compounding periods, so the investment compounds $4$ times per year. Since there are $12$ months in a year, dividing $12$ by $4$ gives $3$ months per compounding period. Therefore, at the end of every $3$-month interval (quarterly), the account value increases by about $0.3\\%$ of the value at the beginning of that $3$-month interval.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=cac00e16",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 22,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

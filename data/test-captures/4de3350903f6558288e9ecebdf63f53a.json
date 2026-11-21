@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4de3350903f6558288e9ecebdf63f53a",
+  "capturedAt": "2026-11-21T00:15:11.080Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$y = 2x$$\n\n$$y = x^{2}-24$$\n\nA solution to the given system of equations is $(x, y)$, where $x > 0$. What is the value of $x$?",
+  "choices": {},
+  "correctAnswer": "$$6$$",
+  "explanation": "The correct answer is $6$. To find the solution to the system where $x > 0$, substitute the linear equation into the quadratic equation. Since $y = 2x$ and $y = x^2 - 24$, it follows that $2x = x^2 - 24$. Rearranging this equation gives $x^2 - 2x - 24 = 0$. To factor this quadratic, find two numbers that multiply to $-24$ and add to $-2$. The factor pairs of $24$ are $(1, 24)$, $(2, 12)$, $(3, 8)$, and $(4, 6)$. Since $4 \\times (-6) = -24$ and $4 + (-6) = -2$, the equation factors as $(x - 6)(x + 4) = 0$. This gives solutions $x = 6$ or $x = -4$. Since the problem specifies $x > 0$, the value of $x$ is $6$. This can be verified: when $x = 6$, both equations give $y = 12$ (from $y = 2(6) = 12$ and $y = 6^2 - 24 = 36 - 24 = 12$).",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=7205fd65",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 16,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "6fa68058731e103ca9e485ef62fcb707",
+  "capturedAt": "2026-11-21T00:15:02.185Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Direct Solve for Variable",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "What value of $x$ satisfies the equation $8x + 42 = 322$?",
+  "choices": {
+    "A": "$272$",
+    "B": "$38$",
+    "C": "$35$",
+    "D": "$322$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To solve the equation $8x + 42 = 322$ for $x$, first subtract $42$ from both sides of the equation: $8x + 42 - 42 = 322 - 42$, which simplifies to $8x = 280$. Next, divide both sides by $8$: $\\frac{8x}{8} = \\frac{280}{8}$, which simplifies to $x = 35$. To verify: substituting $x = 35$ into the original equation gives $8(35) + 42 = 280 + 42 = 322$, which confirms the solution is correct.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=cbe4ac89",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 3,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "3d66e780869c2c5df572de208f5735d4",
+  "capturedAt": "2026-11-21T00:14:23.337Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Enacted in 1949, Costa Rica's constitution, according to education policy ______ includes one of the eight constitutional provisions that mandate environmental protection. Explicit language for environmental rights, Darling-Hammond and Schleicher's research explains, is more likely to be found in constitutions enacted after 1992.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "researchers Linda Darling-Hammond and Andreas Schleicher",
+    "B": "researchers, Linda Darling-Hammond and Andreas Schleicher",
+    "C": "researchers Linda Darling-Hammond and Andreas Schleicher,",
+    "D": "researchers, Linda Darling-Hammond and Andreas Schleicher."
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is punctuation use with interrupting phrases and restrictive appositives. The researchers' names are restrictive information (essential to identifying which researchers), so no commas should set them off. However, the entire phrase 'according to education policy researchers Linda Darling-Hammond and Andreas Schleicher' interrupts the main clause, so a comma is needed after 'Schleicher' to separate this phrase from the main verb 'includes.'",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=154bcc24",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 20,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

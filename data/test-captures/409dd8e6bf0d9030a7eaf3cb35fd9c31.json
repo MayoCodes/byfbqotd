@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "409dd8e6bf0d9030a7eaf3cb35fd9c31",
+  "capturedAt": "2026-11-21T00:14:35.151Z",
+  "subject": "English",
+  "domain": "Information and Ideas",
+  "skill": "Command Of Evidence",
+  "subskill": "Hypothetical Finding Supports",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "[Figure 1]\n\nTo understand the extent of urban green space fragmentation in the Phoenix metropolitan area of Arizona, Sofia Vargas and colleagues used satellite imagery and GIS mapping to track changes in the total number of green space patches in areas of different vegetation density zones (categories that indicate the concentration of vegetation cover in urban areas). Due to the Phoenix area's rapid growth, various types of vegetated areas were converted to residential development as expanding metropolitan population drove a housing construction boom in the 1970s and 1980s: this conversion is evident in the ______",
+  "prompt": "Which choice most effectively uses data from the graph to complete the assertion?",
+  "choices": {
+    "A": "high number of patches in Zone II and Zone III in 1995.",
+    "B": "decrease in the number of patches for all zones from 1965 to 1985.",
+    "C": "increase in the number of patches for all zones from 1985 to 2005.",
+    "D": "difference between the number of patches in Zone II and in Zone I in 2005."
+  },
+  "correctAnswer": "B",
+  "explanation": "Choice B is the best answer because it identifies graph data that directly supports the claim about urban conversion during the housing boom. The text states that vegetated areas were converted to residential development during the 1970s and 1980s housing boom, which corresponds to the period between 1965 and 1985 on the graph. The graph shows that all three vegetation density zones experienced decreases during this period (Zone I: 800 to 500, Zone III: 900 to 600, Zone II: 650 to 550), providing clear evidence that green space patches declined as vegetation was converted to development.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=ab4690d5",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/409dd8e6bf0d9030a7eaf3cb35fd9c31/1-3bd2fb3056743cb7.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 12,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

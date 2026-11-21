@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cfe402fca95ec3503767b42e6a632ca6",
+  "capturedAt": "2026-11-21T00:14:50.597Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Define Function from Table",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nA water tank was initially filled with some water. Over the next several hours, water was continuously added to this tank at a constant rate, and no water was removed during this time. The graph of the function $f$ shown, where $y = f(x)$, estimates the amount of water, in liters, in this water tank $x$ hours since the initial filling. To the nearest whole liter, what is the amount of water in the tank at the time of initial filling estimated by the graph?",
+  "choices": {},
+  "correctAnswer": "$$15$$",
+  "explanation": "The correct answer is $15$. The amount of water at the time of initial filling corresponds to the value of the function when $x = 0$ (at time zero), which is the $y$-intercept of the graph. The graph shows a linear function passing through the point $(0, 15)$, where the line intersects the $y$-axis. Reading from the graph, at $x = 0$ hours, the $y$-coordinate is $15$ liters. This point is marked on the graph and falls exactly on a gridline on the $y$-axis (the third gridline from the origin, with the $y$-axis scale showing increments of $5$ liters: $0, 5, 10, 15, ...$). Therefore, the initial amount of water in the tank was $15$ liters.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=1288a3e8",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/cfe402fca95ec3503767b42e6a632ca6/1-961b4cffc205eff5.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 8,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

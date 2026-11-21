@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "789cf2321dfa6c4c2a7e680b187de4d9",
+  "capturedAt": "2026-11-21T00:14:39.436Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Plural and Possessive Nouns",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "A 2018 study by researchers Leila Barrett and Adrian Cole examining how participants characterized the hues of various paint samples revealed some similarities between the hue of sample 7A (cadmium yellow) and that of sample 9B (ochre yellow). The ______ primary descriptors both included \"warm\"; however, the next most common word used for sample 7A was \"vibrant,\" while that for sample 9B was \"muted.\"",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "sample's hues",
+    "B": "samples' hue's",
+    "C": "samples' hues'",
+    "D": "samples hues'"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the correct formation of plural possessives in a possessive chain. The sentence discusses two samples (7A and 9B), as confirmed by the word 'both,' requiring the plural possessive form 'samples'' to show that multiple samples possess the hues. Each sample has multiple hues, so 'hues' must be plural. The primary descriptors belong to these hues, requiring the plural possessive form 'hues'' to complete the possessive chain: samples possess hues, which possess primary descriptors.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=fdcc58e6",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 18,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

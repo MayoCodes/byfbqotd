@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "5203c9eeed07d8150829a952bb1d59e1",
+  "capturedAt": "2026-11-21T00:14:38.801Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Focusing on Chelonia mydas—or ______ 2022 study by researchers Layla Hassan, Omar Khoury, and Sara Nazari found that juvenile green sea turtles devote more than 65% of their time to traveling between feeding grounds in the western Atlantic Ocean.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "green sea turtles, as they're more commonly known, a",
+    "B": "green sea turtles, as they're more commonly known. A",
+    "C": "green sea turtles, as they're more commonly known—a",
+    "D": "green sea turtles—as they're more commonly known, a"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is the use of matching punctuation to enclose parenthetical elements. An em dash opens before 'or green sea turtles' to set off this appositive from the scientific name 'Chelonia mydas.' A matching em dash must close after 'known' to properly enclose the entire parenthetical element. The lowercase 'a' correctly continues the sentence, creating the structure: 'Focusing on Chelonia mydas—or green sea turtles, as they're more commonly known—a 2022 study...'",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=84cff6e8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 2,
+    "number": 17,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

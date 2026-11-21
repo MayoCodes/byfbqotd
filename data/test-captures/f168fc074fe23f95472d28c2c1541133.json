@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "f168fc074fe23f95472d28c2c1541133",
+  "capturedAt": "2026-11-21T00:14:27.691Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Rhetorical Synthesis",
+  "subskill": "Use Quotation for Purpose",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "While researching a topic, a student has taken the following notes:\n• Conducting contamination-free botanical experiments requires sterilized soil samples with stable pH levels near the optimal 6.5.\n• James Okoro and a team of researchers at the University of Melbourne, Australia, evaluated the bacterial reduction and pH stability of soil sterilized using three different sterilization methods.\n• Autoclave-A (method 1) achieved 99.8% bacterial reduction but resulted in a pH of 8.2.\n• ChemSter (method 2) achieved 96.5% bacterial reduction and maintained a pH of 6.4.\n• HeatPress-X (method 3) achieved 87.2% bacterial reduction and resulted in a pH of 6.3.\n• According to the researchers, ChemSter was the most effective because it was the only method with both sufficiently high bacterial reduction and a pH close to the optimal 6.5.",
+  "prompt": "The student wants to emphasize the significance of a similarity between two of the methods. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Autoclave-A and HeatPress-X both achieved bacterial reduction above 95% and maintained pH levels above 6.0.",
+    "B": "Compared to Autoclave-A, which achieved 99.8% bacterial reduction, both ChemSter and HeatPress-X had insufficient reduction rates; HeatPress-X, in particular, was ineffective due to its low bacterial reduction.",
+    "C": "With the optimal pH being 6.5, Autoclave-A and ChemSter were equal in pH stability, according to the researchers.",
+    "D": "Due to their insufficient bacterial reduction or unsuitable pH, Autoclave-A and HeatPress-X were deemed by the researchers to be less effective than ChemSter."
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is the best answer because it effectively emphasizes the significance of the similarity between Autoclave-A and HeatPress-X. Although their shortcomings differed—Autoclave-A achieved high bacterial reduction but had an unsuitable pH of 8.2, while HeatPress-X maintained a near-optimal pH of 6.3 but had insufficient bacterial reduction—both were less effective than ChemSter. The researchers' identification of ChemSter as the most effective and the only method meeting both criteria supports this comparison and shows that effectiveness required both sufficiently high bacterial reduction and a pH close to 6.5.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=c4a2468f",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 27,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

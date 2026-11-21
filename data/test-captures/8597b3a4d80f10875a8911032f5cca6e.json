@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "8597b3a4d80f10875a8911032f5cca6e",
+  "capturedAt": "2026-11-21T00:14:21.459Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Boundaries",
+  "subskill": "Punctuating Nonessential Element",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "Pianist Sofia Vargas's distinguished career includes many memorable achievements, such as working on Miles Davis's album Birth of the Cool. However, as session pianist at Blue Note Records, a record label that was a pioneer of early bebop ______ Vargas joined too late to play piano on the label's classic song \"A Night in Tunisia.\"",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "music,",
+    "B": "music;",
+    "C": "music, which",
+    "D": "music"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer. The sentence includes a nonrestrictive appositive phrase ('a record label that was a pioneer of early bebop music') that provides additional information about Blue Note Records. Nonrestrictive elements require paired commas. Since the appositive opens with a comma after 'Blue Note Records,' it must close with a comma before 'Vargas joined.' Choice A provides this closing comma.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=ab3d5c40",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 17,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

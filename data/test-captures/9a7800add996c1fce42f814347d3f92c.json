@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9a7800add996c1fce42f814347d3f92c",
+  "capturedAt": "2026-11-21T00:14:25.205Z",
+  "subject": "English",
+  "domain": "Expression of Ideas",
+  "skill": "Transitions",
+  "subskill": "Contrast Transition",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "Two regions at similar latitudes can experience vastly different precipitation patterns. For instance, one region might receive minimal annual rainfall; another region, ______ might receive abundant annual rainfall.",
+  "prompt": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "by contrast,",
+    "B": "for example,",
+    "C": "with this in mind,",
+    "D": "lastly,"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is the best answer because 'by contrast' logically signals the opposition between the two examples of precipitation patterns. The text establishes that regions at similar latitudes can have vastly different precipitation, then presents two contrasting cases to illustrate this claim: one region receives minimal rainfall while another receives abundant rainfall. The transition 'by contrast' effectively emphasizes this difference between minimal and abundant precipitation, making the contrasting relationship between the two examples explicit and reinforcing the opening statement about vastly different patterns.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=22dc04f2",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 23,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

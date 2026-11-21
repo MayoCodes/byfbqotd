@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "cb662915a9e4d2c22d4b938594499296",
+  "capturedAt": "2026-11-21T00:14:22.085Z",
+  "subject": "English",
+  "domain": "Standard English Conventions",
+  "skill": "Form Structure And Sense",
+  "subskill": "Finite and Nonfinite Verb Forms",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "Ada Lovelace's Analytical Engine algorithm—conceived, like Charles Babbage's earlier Difference Engine, amid the nineteenth century push to replace manual computation methods with faster and more reliable machine-based approaches— ______ among the first documented programmable computing systems.",
+  "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "being",
+    "B": "were",
+    "C": "was",
+    "D": "are"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer. The convention being tested is subject-verb agreement and verb tense. The singular verb 'was' correctly agrees in number with the singular subject 'algorithm' and provides the past tense appropriate for describing a nineteenth-century development. The lengthy parenthetical clause between the subject and verb does not change the fact that the subject is singular, requiring a singular verb form.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=092e3889",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 18,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

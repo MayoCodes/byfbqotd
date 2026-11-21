@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "42ed7b1be3dcc37d3ebca1116a37ea21",
+  "capturedAt": "2026-11-21T00:15:12.993Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In Two Variables",
+  "subskill": "Write Equation from Context",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "In a grading system, a teacher awards $2$ points for each homework assignment a student completes and $5$ points for each test a student passes. A certain student in this class has earned $36$ points. Which equation represents this situation, where $h$ represents the number of homework assignments this student has completed and $t$ represents the number of tests this student has passed?",
+  "choices": {
+    "A": "$\\frac{h}{5} + 2t = 36$",
+    "B": "$2h + \\frac{t}{5} = 36$",
+    "C": "$5h + 2t = 36$",
+    "D": "$2h + 5t = 36$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. To translate the verbal description into an algebraic equation, identify what each variable represents and the rate associated with each activity. The variable $h$ represents the number of homework assignments completed, and each homework assignment is worth $2$ points, so the total points from homework is $2h$. The variable $t$ represents the number of tests passed, and each test is worth $5$ points, so the total points from tests is $5t$. The student has earned $36$ points total, which is the sum of points from homework and tests. Therefore, the equation is $2h + 5t = 36$, which represents the total points earned as the sum of $2$ points per homework assignment and $5$ points per test.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=d2302f71",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 19,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

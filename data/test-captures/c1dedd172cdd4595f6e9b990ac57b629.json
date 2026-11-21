@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "c1dedd172cdd4595f6e9b990ac57b629",
+  "capturedAt": "2026-11-21T00:14:53.955Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "System of Nonlinear Equations (Substitution)",
+  "difficulty": "Medium",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$cases y = x \\\\ y = x^{2} + 8x - 60 cases$$\n\nThe graphs of the equations in the given system intersect at the point $(x, y)$ in the $xy$-plane. What is a possible value of $x$?",
+  "choices": {
+    "A": "$12$",
+    "B": "$6$",
+    "C": "$-12$",
+    "D": "$-6$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. To find the intersection points of the system, substitute the first equation into the second equation: $x = x^2 + 8x - 60$. Rearranging this gives $0 = x^2 + 7x - 60$. This quadratic equation can be factored as $0 = (x + 12)(x - 5)$, which gives solutions $x = -12$ or $x = 5$. Since the question asks for a possible value of $x$, choice C provides $x = -12$, which is one of the two intersection points.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=5659b6f5",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 13,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "934188e9fda576ddd0b9264e9e4835cc",
+  "capturedAt": "2026-11-21T00:15:11.714Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Equations In One Variable And Systems Of Equations In Two Variables",
+  "subskill": "Solve Quadratic by Factoring",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$x^{2} + x - 12 = 0$$\n\nWhat is the product of the solutions to the given equation?",
+  "choices": {
+    "A": "$-12$",
+    "B": "$-48$",
+    "C": "$12$",
+    "D": "$48$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. For a quadratic equation in the form $ax^2 + bx + c = 0$, Vieta's formulas state that the product of the solutions is $\\frac{c}{a}$. The given equation is $x^2 + x - 12 = 0$, where $a = 1$, $b = 1$, and $c = -12$. Applying the formula, the product of the solutions is $\\frac{-12}{1} = -12$. This can be verified by solving the equation: factoring gives $(x + 4)(x - 3) = 0$, so the solutions are $x = -4$ and $x = 3$. The product of these solutions is $(-4)(3) = -12$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=0935d37e",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 17,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

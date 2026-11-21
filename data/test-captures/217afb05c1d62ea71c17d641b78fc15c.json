@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "217afb05c1d62ea71c17d641b78fc15c",
+  "capturedAt": "2026-11-21T00:15:08.369Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Equivalent Expressions",
+  "subskill": "Rational Expression Simplification",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "$$\\frac{(x^{3} - 8)}{(x^{2} + 2x + 4)} \\times \\frac{(x^{2} - 4)}{(x^{2} - 4x + 4)}$$\n\nWhich expression is equivalent to the given expression for all values of $x$ where the expression is defined?",
+  "choices": {
+    "A": "$x + 2$",
+    "B": "$x - 2$",
+    "C": "$(x + 2)(x - 2)$",
+    "D": "$\\frac{(x + 2)}{(x - 2)}$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. First, factor each polynomial. The numerator $x^3 - 8$ is a difference of cubes: $x^3 - 8 = (x - 2)(x^2 + 2x + 4)$. The expression $x^2 - 4$ is a difference of squares: $x^2 - 4 = (x - 2)(x + 2)$. The expression $x^2 - 4x + 4$ is a perfect square trinomial: $x^2 - 4x + 4 = (x - 2)^2$. Substituting these factorizations: $\\frac{(x-2)(x^2+2x+4)}{x^2+2x+4} \\cdot \\frac{(x-2)(x+2)}{(x-2)^2}$. Cancel the common factor $(x^2 + 2x + 4)$ in the first fraction: $(x - 2) \\cdot \\frac{(x-2)(x+2)}{(x-2)^2}$. This simplifies to $\\frac{(x-2)^2(x+2)}{(x-2)^2}$. Cancel $(x - 2)^2$: $x + 2$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=896dc78d",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 12,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

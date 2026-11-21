@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "9d6de82a5e76df513b70441af7bdcd88",
+  "capturedAt": "2026-11-21T00:14:52.693Z",
+  "subject": "Math",
+  "domain": "Advanced Math",
+  "skill": "Nonlinear Functions",
+  "subskill": "Find Zeros or X-Intercepts",
+  "difficulty": "Easy",
+  "format": "Student-produced response",
+  "passage": "",
+  "prompt": "$$f(x) = (x - 3)(x - 5)(x - 8)$$\n\nIf the given function $f$ is graphed in the $xy$-plane, where $y = f(x)$, what is the $x$-coordinate of an $x$-intercept of the graph?",
+  "choices": {},
+  "correctAnswer": "$$3,5,8$$",
+  "explanation": "The correct answer is $3$, $5$, or $8$. The x-intercepts of a function occur where the graph crosses the x-axis, which happens when $y = 0$, or equivalently when $f(x) = 0$. Setting the given function equal to zero gives $(x - 3)(x - 5)(x - 8) = 0$. By the zero product property, this equation is satisfied when any of the factors equals zero. Setting each factor equal to zero:\n\n$x - 3 = 0$ gives $x = 3$\n\n$x - 5 = 0$ gives $x = 5$\n\n$x - 8 = 0$ gives $x = 8$\n\nTherefore, the graph has three x-intercepts at $x = 3$, $x = 5$, and $x = 8$. Note that 3, 5, and 8 are examples of ways to enter a correct answer.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=30ba9213",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 11,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

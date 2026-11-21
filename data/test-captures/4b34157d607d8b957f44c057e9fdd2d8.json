@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4b34157d607d8b957f44c057e9fdd2d8",
+  "capturedAt": "2026-11-21T00:14:53.322Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Functions",
+  "subskill": "Write Equation from Graph",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Scientists collected samples of a flowering plant species and analyzed the relationship between stem height and flower production. For any of these plants, if the plant has a stem height of $x$ centimeters, the equation $y = 0.73x + 1.8$, where $15 \\le x \\le 95$, gives the predicted number of flowers, $y$, on the plant. If one of these plants has a stem height of $35$ centimeters, which of the following is closest to the predicted number of flowers on the plant?",
+  "choices": {
+    "A": "$27$",
+    "B": "$37$",
+    "C": "$31$",
+    "D": "$79$"
+  },
+  "correctAnswer": "A",
+  "explanation": "Choice A is correct. To find the predicted number of flowers for a plant with stem height $x = 35$ centimeters, substitute this value into the given equation $y = 0.73x + 1.8$. First, multiply the coefficient by the input: $0.73 \\times 35 = 25.55$. Then add the constant term: $25.55 + 1.8 = 27.35$. Since the question asks for the value closest to the predicted number, round $27.35$ to the nearest integer, which gives $27$ flowers. Therefore, the predicted number of flowers on a plant with a stem height of $35$ centimeters is closest to $27$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=31d977b4",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 12,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "818f0050d6b7659f06a72fb06d5fbdea",
+  "capturedAt": "2026-11-21T00:15:04.112Z",
+  "subject": "Math",
+  "domain": "Algebra",
+  "skill": "Linear Equations In One Variable",
+  "subskill": "Word Problem Equation Setup",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "Marcus purchased a tool and some rope at the hardware store. Marcus paid $$5$ for the tool and $$2.40$ per meter for the rope. If Marcus paid a total of $$17$ for the tool and the rope, which of the following equations can be used to find $m$, the number of meters of rope Marcus purchased?",
+  "choices": {
+    "A": "$2.40 + 5m = 17$",
+    "B": "$2.40m - 5 = 17$",
+    "C": "$2.40m + 5 = 17$",
+    "D": "$2.40 - 5m = 17$"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is correct. The total cost equals the fixed cost of the tool plus the variable cost of the rope. The tool costs a fixed $$5$. The rope costs $$2.40$ per meter, so for $m$ meters, the rope costs $2.40m$ dollars. The total cost is $$17$. Therefore, the equation representing this situation is $2.40m + 5 = 17$, where the variable cost ($2.40m$) plus the fixed cost ($5$) equals the total cost ($17$). This equation can be used to find $m$, the number of meters of rope purchased.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=956b68de",
+  "images": [],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 4,
+    "number": 6,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

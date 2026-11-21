@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "4e5c61ea4270e55ebb536765e5afc9da",
+  "capturedAt": "2026-11-21T00:14:11.451Z",
+  "subject": "English",
+  "domain": "Craft and Structure",
+  "skill": "Words In Context",
+  "subskill": "Fill in Blank - Single Word",
+  "difficulty": "Hard",
+  "format": "Multiple choice",
+  "passage": "The exoplanets Kepler-442b and Kepler-442c have recently been discovered orbiting a star in the Cygnus constellation, approximately 1,200 light-years from Earth, a region visible to ground-based telescopes. The number of other planetary bodies that may orbit this star is currently ______ , as the star system is poorly surveyed and the few observations that have been conducted cannot be presumed to be representative.",
+  "prompt": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "minuscule",
+    "B": "determinable",
+    "C": "inestimable",
+    "D": "controversial"
+  },
+  "correctAnswer": "C",
+  "explanation": "Choice C is the best answer because it most logically completes the text's discussion of scientific knowledge about the star system. As used in this context, 'inestimable' means impossible to estimate or calculate. The text establishes that scientists cannot determine how many other planetary bodies might orbit this star because the system 'is poorly surveyed' and existing observations 'cannot be presumed to be representative.' This lack of adequate data means any attempt to quantify the number of additional planets would be unreliable, making the number currently inestimable.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=632329a8",
+  "images": [],
+  "testModule": {
+    "count": 27,
+    "minutes": 32,
+    "module": 1,
+    "number": 2,
+    "subject": "English",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}

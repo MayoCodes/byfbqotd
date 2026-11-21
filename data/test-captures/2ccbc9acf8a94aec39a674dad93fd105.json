@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractionVersion": 6,
+  "id": "2ccbc9acf8a94aec39a674dad93fd105",
+  "capturedAt": "2026-11-21T00:14:49.836Z",
+  "subject": "Math",
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right Triangles And Trigonometry",
+  "subskill": "Trig Ratio from Side Lengths",
+  "difficulty": "Easy",
+  "format": "Multiple choice",
+  "passage": "",
+  "prompt": "[Figure 1]\n\nIn the triangle shown, what is the value of $x$?",
+  "choices": {
+    "A": "$\\frac{(17)}{8}$",
+    "B": "$\\frac{(15)}{(17)}$",
+    "C": "$\\frac{(17)}{(15)}$",
+    "D": "$\\frac{8}{(17)}$"
+  },
+  "correctAnswer": "D",
+  "explanation": "Choice D is correct. The sine of an angle in a right triangle is defined as the ratio of the length of the side opposite the angle to the length of the hypotenuse. In the given right triangle, angle $x$ is located at the bottom-right vertex. The side opposite to angle $x$ is the vertical leg with length $8$, and the hypotenuse has length $17$. Therefore, $\\sin x = \\frac{\\text{opposite}}{\\text{hypotenuse}} = \\frac{8}{17}$.",
+  "source": "https://cooksat.com/practice-test-review/4?questionId=c0075c2e",
+  "images": [
+    {
+      "label": "Figure 1",
+      "path": "data/capture-assets/2ccbc9acf8a94aec39a674dad93fd105/1-4d52b314a828bf29.png",
+      "kind": "diagram"
+    }
+  ],
+  "testModule": {
+    "count": 22,
+    "minutes": 35,
+    "module": 3,
+    "number": 7,
+    "subject": "Math",
+    "testId": "4",
+    "title": "Practice Test 4"
+  }
+}
