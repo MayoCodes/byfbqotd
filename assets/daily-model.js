@@ -1,0 +1,3 @@
+export const DAILY_DURATION=70000;
+export function dailyDay(ms,dst){const year=new Date(ms).getUTCFullYear(),window=dst[String(year)];if(!window)throw Error('Daily calendar needs an update.');const offset=ms>=window.start&&ms<window.end?-14400000:-18000000;return Math.floor((ms+offset)/86400000);}
+export function dailySelection(pool,ms=Date.now()){if(!pool.questions?.length)throw Error('No daily questions are available.');const day=dailyDay(ms,pool.dst),item=pool.questions[day%pool.questions.length];return {id:String(day),questionId:item.id,correctAnswer:item.key,date:new Date(day*86400000).toISOString().slice(0,10)};}

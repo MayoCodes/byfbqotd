@@ -3,8 +3,9 @@ const fs=require('node:fs');
 const path=require('node:path');
 const root=path.join(__dirname,'../public');
 const port=Number(process.env.PORT||4180);
-http.createServer((req,res)=>{
+http.createServer(async(req,res)=>{
   const url=new URL(req.url,'http://localhost');
+  if(url.pathname==='/api/daily'){const {default:handler}=await import('../api/daily.js');res.status=code=>{res.statusCode=code;return res;};res.json=value=>{res.setHeader('Content-Type','application/json');res.end(JSON.stringify(value));};return handler(req,res);}
   const requested=url.pathname==='/'?'index.html':url.pathname==='/question-bank'?'question-bank.html':url.pathname==='/tests'?'tests.html':url.pathname==='/dashboard'?'dashboard.html':url.pathname==='/daily-challenge'?'daily-challenge.html':url.pathname==='/assignment'?'assignment.html':url.pathname.replace(/^\//,'');
   const file=path.resolve(root,requested);
   if(!file.startsWith(root+path.sep)){res.writeHead(403);return res.end('Forbidden');}

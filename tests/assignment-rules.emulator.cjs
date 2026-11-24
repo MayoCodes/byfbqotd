@@ -73,3 +73,20 @@ test('a new verified Google student can create their profile before activation w
  const unverified=env.authenticatedContext('unverified',{...auth('new-student@example.test'),email_verified:false}).firestore();
  await assertFails(setDoc(doc(unverified,'friprepUsers','unverified'),{name:'New student',email:'new-student@example.test',mode:null,classroomId:null,createdAt:serverTimestamp()}));
 });
+
+test('daily questions have one immutable timed attempt per day and rankings use that day’s bank answer key',async()=>{
+ const pool=JSON.parse(fs.readFileSync(path.join(__dirname,'../data/daily-pool.json'),'utf8')),{dailySelection}=await import('../assets/daily-model.js'),spec=dailySelection(pool);
+ await env.withSecurityRulesDisabled(async ctx=>{await setDoc(doc(ctx.firestore(),'byfbDailyConfig','main'),pool);});
+ const attempt=doc(student,'byfbDailyChallenges',spec.id,'attempts','student'),score=doc(student,'byfbDailyChallenges',spec.id,'leaderboard','student');
+ await assertSucceeds(setDoc(attempt,{name:'Reader',status:'active',startedAt:serverTimestamp()}));
+ await assertFails(updateDoc(attempt,{startedAt:serverTimestamp()}));
+ await assertFails(setDoc(doc(student,'byfbDailyChallenges',String(Number(spec.id)+1),'attempts','student'),{name:'Reader',status:'active',startedAt:serverTimestamp()}));
+ await assertFails(setDoc(score,{name:'Reader',elapsed:0,finishedAt:serverTimestamp()}));
+ await assertSucceeds(updateDoc(attempt,{status:'answered',answer:spec.correctAnswer,response:spec.correctAnswer,finishedAt:serverTimestamp()}));
+ const saved=(await getDoc(attempt)).data(),elapsed=Math.floor(saved.finishedAt.toMillis())-Math.floor(saved.startedAt.toMillis());
+ await assertSucceeds(setDoc(score,{name:saved.name,elapsed,finishedAt:saved.finishedAt}));
+ await assertFails(updateDoc(attempt,{answer:'A',response:'A',finishedAt:serverTimestamp()}));
+ await assertFails(setDoc(doc(student,'byfbDailyConfig','main'),pool));
+ const expired=doc(other,'byfbDailyChallenges',spec.id,'attempts','other');await env.withSecurityRulesDisabled(async ctx=>{await setDoc(doc(ctx.firestore(),'byfbDailyChallenges',spec.id,'attempts','other'),{name:'Reader',status:'active',startedAt:Timestamp.fromMillis(Date.now()-80000)});});
+ await assertFails(updateDoc(expired,{status:'answered',answer:spec.correctAnswer,response:spec.correctAnswer,finishedAt:serverTimestamp()}));
+});

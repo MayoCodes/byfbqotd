@@ -57,6 +57,49 @@ service cloud.firestore {
         && request.resource.data.elapsed <= 70000;
       allow update, delete: if false;
     }
+    match /byfbDailyConfig/main {
+      // Question-bank answer keys are already public. Only project admins can change the pool.
+      allow get: if true;
+      allow list, write: if false;
+    }
+    match /byfbDailyChallenges/{dayId}/attempts/{uid} {
+      function pool() { return get(/databases/$(database)/documents/byfbDailyConfig/main).data; }
+      function today() {
+        let calendar = pool().dst[string(request.time.year())];
+        let stamp = request.time.toMillis();
+        let offset = stamp >= calendar.start && stamp < calendar.end ? -14400000 : -18000000;
+        return string(int((stamp + offset) / 86400000));
+      }
+      allow get: if owner(uid);
+      allow list, delete: if false;
+      allow create: if owner(uid) && dayId == today()
+        && request.resource.data.keys().hasOnly(['name','status','startedAt'])
+        && request.resource.data.name == googleName() && request.resource.data.name.size() <= 200
+        && request.resource.data.status == 'active' && request.resource.data.startedAt == request.time;
+      allow update: if owner(uid) && resource.data.status == 'active'
+        && request.resource.data.name == resource.data.name && request.resource.data.startedAt == resource.data.startedAt
+        && request.resource.data.finishedAt == request.time
+        && ((request.resource.data.status == 'answered'
+          && request.resource.data.keys().hasOnly(['name','status','startedAt','finishedAt','answer','response'])
+          && request.resource.data.answer is string && request.resource.data.answer.size() <= 200
+          && request.resource.data.response is string && request.resource.data.response.size() <= 200
+          && request.time < resource.data.startedAt + duration.value(70,'s'))
+        || (request.resource.data.status == 'invalid'
+          && request.resource.data.keys().hasOnly(['name','status','startedAt','finishedAt','reason'])
+          && request.resource.data.reason is string && request.resource.data.reason.size() <= 180));
+    }
+    match /byfbDailyChallenges/{dayId}/leaderboard/{uid} {
+      function attempt() { return get(/databases/$(database)/documents/byfbDailyChallenges/$(dayId)/attempts/$(uid)).data; }
+      function answerKey() { let pool = get(/databases/$(database)/documents/byfbDailyConfig/main).data.questions; return pool[int(dayId) % pool.size()].key; }
+      allow read: if google();
+      allow create: if owner(uid) && dayId.matches('^[0-9]{5,7}$')
+        && request.resource.data.keys().hasOnly(['name','elapsed','finishedAt'])
+        && attempt().status == 'answered' && attempt().answer == answerKey()
+        && request.resource.data.name == attempt().name && request.resource.data.finishedAt == attempt().finishedAt
+        && request.resource.data.elapsed is int && request.resource.data.elapsed >= 0 && request.resource.data.elapsed <= 70000
+        && request.resource.data.elapsed == attempt().finishedAt.toMillis() - attempt().startedAt.toMillis();
+      allow update, delete: if false;
+    }
     // Friprep accounts: roles and activation are enforced here, never by UI alone.
     function accountUser() { return google() && request.auth.token.email_verified == true; }
     function teacher() { return accountUser() && request.auth.token.email.lower() == 'ray.r.hossain@gmail.com'; }

@@ -35,11 +35,15 @@ const accountBundle=await require('esbuild').build({entryPoints:[path.join(__dir
 const accountEntry=path.basename(Object.entries(accountBundle.metafile.outputs).find(([,info])=>info.entryPoint)[0]);
 const runBundle=await require('esbuild').build({entryPoints:[path.join(__dirname,'assets/assignment-run.js')],bundle:true,minify:true,format:'esm',entryNames:'assignment-run-[hash]',outdir:path.join(output,'assets'),metafile:true});
 const runEntry=path.basename(Object.entries(runBundle.metafile.outputs).find(([,info])=>info.entryPoint)[0]);
+const dailySource=fs.readFileSync(path.join(__dirname,'daily-challenge.html'),'utf8');
+const dailyMatch=dailySource.match(/<script type="module">([\s\S]*?)<\/script>/);
+const dailyBundle=await require('esbuild').build({stdin:{contents:dailyMatch[1],resolveDir:__dirname,loader:'js',sourcefile:'daily-inline.js'},bundle:true,minify:true,format:'esm',entryNames:'daily-challenge-[hash]',outdir:path.join(output,'assets'),metafile:true});
+const dailyName=path.basename(Object.entries(dailyBundle.metafile.outputs).find(([,info])=>info.entryPoint)[0]);
 const pages={
  'question-bank.html':html,
  'tests.html':fs.readFileSync(path.join(__dirname,'tests.html'),'utf8'),
  'assignment.html':fs.readFileSync(path.join(__dirname,'assignment.html'),'utf8'),
- 'daily-challenge.html':fs.readFileSync(path.join(__dirname,'daily-challenge.html'),'utf8'),
+ 'daily-challenge.html':dailySource.replace(dailyMatch[0],'<script type="module" src="/assets/'+dailyName+'"></script>'),
  'dashboard.html':fs.readFileSync(path.join(__dirname,'dashboard.html'),'utf8'),
  'index.html':fs.readFileSync(path.join(__dirname,'index.html'),'utf8')
 };

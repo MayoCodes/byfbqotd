@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f7f3ee"><meta name="description" content="One passage. One question. Seventy seconds. Take the Friprep reading challenge."><title>Friprep — A little time. A little brilliance.</title>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f7f3ee"><meta name="description" content="A new question from the Friprep question bank every day. Seventy seconds."><title>Friprep — A little time. A little brilliance.</title>
 <script>
 // For local emulator testing only. Leave false on Vercel.
 const USE_FIREBASE_EMULATORS = false;
@@ -23,16 +23,22 @@ const USE_FIREBASE_EMULATORS = false;
 .timer .icon{width:19px;height:19px}
 .close .icon{width:24px;height:24px}
 .site-nav{display:flex;gap:22px;align-items:center}.site-nav a{color:var(--muted);font-size:12px;text-decoration:none;padding:9px 0;border-bottom:1px solid transparent}.site-nav a[aria-current]{color:var(--ink);border-color:var(--sage)}.site-nav a:hover{color:var(--brown)}@media(max-width:680px){.header{flex-wrap:wrap;gap:10px}.header .brand{font-size:25px}.site-nav{order:3;width:100%;justify-content:center;gap:28px}.site-nav a{font-size:12px}.header>.text-btn{margin-left:auto}}
-</style><link rel="stylesheet" href="/assets/heroui.css"><link rel="stylesheet" href="/assets/account.css"><link rel="icon" type="image/svg+xml" href="/assets/fries.svg"></head><body>
+.passage-text .question-visual img,.answer-box img{max-width:100%;height:auto}.passage-text .katex-display,.question .katex-display{overflow-x:auto;overflow-y:hidden}.answer-box>div{font-size:14px;line-height:1.9}.answer-box .katex{font-size:1.1em}
+</style><link rel="stylesheet" href="/assets/katex/katex.min.css"><link rel="stylesheet" href="/assets/heroui.css"><link rel="stylesheet" href="/assets/account.css"><link rel="icon" type="image/svg+xml" href="/assets/fries.svg"></head><body>
 <header class="header"><a class="brand" href="/" aria-label="Friprep home">friprep<span class="brand-dot"><img class="fries-logo" src="/assets/fries.svg" width="28" height="28" alt=""></span></a><nav class="site-nav" aria-label="Main navigation"><a href="/daily-challenge" aria-current="page">Daily challenge</a><a id="question-bank-link" href="/question-bank">Question bank</a><a href="/tests">Tests</a></nav><div class="header-account-actions"><button class="text-btn" id="board-link">Leaderboard</button><div id="account-menu"></div></div></header>
-<main id="app"></main><footer><span>One passage. One good idea.</span><span>Friprep READING CHALLENGE · 01</span></footer>
+<main id="app"></main><footer><span>One question. A fresh challenge, every day.</span><span>FRIPREP · DAILY CHALLENGE</span></footer>
 <dialog id="board-dialog"><button id="close-board" class="close" aria-label="Close leaderboard"><svg class="icon icon-close" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 6 12 12M6 18 18 6"/></svg></button><p class="eyebrow">THE QUICK THINKERS</p><h2>Every second counts.</h2><p class="muted">Correct answers, ranked by time. Equal times share a place.</p><div id="board-content"></div><p class="local-note">Shared rankings · Correct answers are ranked by server-recorded time. Equal times share a place.</p></dialog>
 <script type="module">
-import {firebaseConfig} from '/assets/firebase-config.js';
+import {firebaseConfig} from './assets/firebase-config.js';
+import {formatQuestionContent} from './assets/content-format.js';
+import {cleanResultExplanation} from './assets/assignment-results.js';
+import {responseMatches} from './assets/answer-check.js';
+let dailySpec,question;
+const content=value=>formatQuestionContent(value,question);
 
-function createQuizStore(sdk, db, user, clockNow = () => Date.now()) {
+function createQuizStore(sdk, db, user, clockNow = () => Date.now(), daily) {
   const {doc,collection,serverTimestamp,runTransaction,getDoc,getDocs,query,orderBy,limit,where,getCount} = sdk;
-  const root='byfbFreeChallenges/bears-v1';
+  const root='byfbDailyChallenges/'+daily.id;
   const attemptRef=doc(db,root+'/attempts/'+user.uid);
   const scoreRef=doc(db,root+'/leaderboard/'+user.uid);
   const duration=70000;
@@ -44,12 +50,12 @@ function createQuizStore(sdk, db, user, clockNow = () => Date.now()) {
     return {
       id:user.uid,name:data.name,status,startedAt,deadline,
       ...(data.reason?{reason:data.reason}:{}),
-      ...(data.answer?{answer:data.answer,correct:data.answer==='B'}:{}),
+      ...(data.answer?{answer:data.response||data.answer,correct:data.answer===daily.correctAnswer}:{}),
       ...(data.finishedAt?{finishedAt:Math.floor(data.finishedAt.toMillis()),elapsed:data.status==='expired'?duration:Math.floor(data.finishedAt.toMillis())-startedAt}:{})
     };
   };
   async function publish(data){
-    if(data?.status!=='answered'||data.answer!=='B')return;
+    if(data?.status!=='answered'||data.answer!==daily.correctAnswer)return;
     await runTransaction(db,async tx=>{
       const existing=await tx.get(scoreRef);
       if(!existing.exists())tx.set(scoreRef,{
@@ -80,10 +86,11 @@ function createQuizStore(sdk, db, user, clockNow = () => Date.now()) {
       if(data.action==='invalidate'){
         tx.update(attemptRef,{status:'invalid',reason:String(data.reason||'You left the quiz.').slice(0,180),finishedAt:serverTimestamp()});
       }else if(data.action==='answer'){
-        if(!['A','B','C','D'].includes(data.answer))throw new Error('Select a valid answer.');
+        if(typeof data.answer!=='string'||!data.answer.trim()||data.answer.length>200)throw new Error('Enter a valid answer.');
+        const normalized=question.options.length?data.answer:responseMatches(data.answer,daily.correctAnswer)?daily.correctAnswer:'incorrect:'+data.answer.slice(0,180);
         // Firestore rules check the actual server request time against startedAt.
         // No score or client timestamp is accepted in this write.
-        tx.update(attemptRef,{status:'answered',answer:data.answer,finishedAt:serverTimestamp()});
+        tx.update(attemptRef,{status:'answered',answer:normalized,response:data.answer,finishedAt:serverTimestamp()});
       }else throw new Error('Unknown attempt action.');
     });
     const result=await readAttempt();
@@ -191,6 +198,7 @@ async function submitAnswer(){
 }
 async function start(name,button){
   if(starting||!connected)return;
+  if(new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(now()))!==dailySpec.date){location.reload();return;}
   starting=true;departedDuringStart=false;button.disabled=true;button.textContent='Starting…';
   try{
     const sent=performance.now();
@@ -239,20 +247,12 @@ function board(){
   void fetchLeaderboard(document.querySelector('#board-content'));
 }
 function renderResult(){
-  clearInterval(ticker);
-  const valid=attempt.status==='answered',correct=valid&&attempt.correct;
-  const title=correct?'Good thinking, '+escape(attempt.name)+'.':attempt.status==='invalid'?'Your attempt is invalid.':attempt.status==='expired'?'Time’s up, '+escape(attempt.name)+'.':'A little off this time.';
-  app.innerHTML=`<section class="result"><p class="eyebrow">${correct?'A LITTLE BRILLIANCE':valid?'EVERY QUESTION TEACHES SOMETHING':'CHALLENGE COMPLETE'}</p><h1>${title}</h1><p class="muted">${correct?'You connected the clues. Answer B is correct.':valid?'You chose '+escape(attempt.answer)+'. The correct answer is B.':attempt.status==='expired'?'The 70-second window has ended. Your answer was not submitted.':escape(attempt.reason||'You left the challenge page.')}</p><div class="score-ring"><strong id="own-rank">${correct?'…':valid?'B':'—'}</strong><span>${correct?'on the shared leaderboard':valid?'the correct choice':'not ranked'}</span></div>${valid?`<div class="result-stats"><div><b>${time(attempt.elapsed)}</b><span>Your answer time</span></div><div><b>${correct?'Correct':'Incorrect'}</b><span>Your result</span></div></div>`:''}<div class="answer-box"><h3>B · The strongest conclusion</h3><p>${answers[1]}</p><p style="margin-top:14px">Daughters initially resemble their mothers, but the similarity fades. That supports a temporary social learning effect. Modest correlations with bears in similar habitats leave room for environmental influences, while the lack of correlation with other relatives offers little support for genetics.</p></div><button class="primary" id="view-board">See the leaderboard</button><p class="lock-note">Your attempt is saved. Reloading or reopening this page won’t start a new one.</p><p id="sync-error" class="error" role="alert">${attempt.pendingInvalid?'Saving the invalidation. If you are offline, it will retry when you reconnect.':''}</p><button class="text-btn" id="retry-sync" ${attempt.pendingInvalid?'':'hidden'}>Retry saving invalidation</button><div id="result-board"></div><p class="local-note">Shared rankings · Correct answers are ranked by server-recorded answer time. Equal times share a place. Showing the top 100 and your place.</p></section>`;
-  document.querySelector('#view-board').onclick=board;document.querySelector('#retry-sync').onclick=reconnectAttempt;
-  if(correct)void fetchLeaderboard(document.querySelector('#result-board'),true);
-  window.scrollTo({top:0,behavior:'instant'});
+ clearInterval(ticker);const valid=attempt.status==='answered',correct=valid&&attempt.correct;
+ const title=correct?'Good thinking, '+escape(attempt.name)+'.':attempt.status==='invalid'?'Your attempt is invalid.':attempt.status==='expired'?'Time’s up, '+escape(attempt.name)+'.':'A little off this time.';
+ const key=question.correctAnswer,explanation=cleanResultExplanation(question.explanation);
+ app.innerHTML=`<section class="result"><p class="eyebrow">${escape(dailySpec.date)} · DAILY CHALLENGE</p><h1>${title}</h1><p class="muted">${correct?'Your answer is correct.':valid?'Your answer: '+escape(attempt.answer)+'.':attempt.status==='expired'?'The 70-second window has ended.':escape(attempt.reason||'You left the challenge page.')}</p><div class="score-ring"><strong id="own-rank">${correct?'…':'—'}</strong><span>${correct?'on today’s leaderboard':'not ranked'}</span></div>${valid?`<div class="result-stats"><div><b>${time(attempt.elapsed)}</b><span>Your answer time</span></div><div><b>${correct?'Correct':'Incorrect'}</b><span>Your result</span></div></div>`:''}<div class="answer-box"><h3>Correct answer: ${content(key)}</h3>${question.options.length?`<p>${content(question.options['ABCD'.indexOf(key)])}</p>`:''}<div style="margin-top:14px">${explanation?content(explanation):'An explanation is not available for this question.'}</div></div><button class="primary" id="view-board">See today’s leaderboard</button><p class="lock-note">Your attempt for today is saved. A new question and attempt open at midnight Eastern time.</p><p id="sync-error" class="error" role="alert">${attempt.pendingInvalid?'Saving the invalidation. It will retry when you reconnect.':''}</p><button class="text-btn" id="retry-sync" ${attempt.pendingInvalid?'':'hidden'}>Retry saving invalidation</button><div id="result-board"></div><p class="local-note">Today’s rankings · Correct answers ranked by server-recorded time. Equal times share a place.</p></section>`;
+ document.querySelector('#view-board').onclick=board;document.querySelector('#retry-sync').onclick=reconnectAttempt;if(correct)void fetchLeaderboard(document.querySelector('#result-board'),true);window.scrollTo({top:0,behavior:'instant'});
 }
-const answers=[
-'growing dissimilarity between mothers and their daughters with regard to dietary mix may reflect changes in the resources available in maternal habitats, though social learning could also contribute to the trend.',
-'dietary mix among females may reflect a social learning effect that eventually diminishes, though environmental constraints cannot be ruled out as a contributing factor.',
-'female dietary mix is best understood as changeable and contingent on fluctuating environmental conditions rather than as the result of social learning or genetic factors.',
-'social learning and resource fluctuations may both play a role in dietary mix among females, at least temporarily, though genetic factors appear to make a significant contribution as well.'
-];
 function welcome(){
   if(!signedInUser){
     app.innerHTML=`<section class="signin-screen"><div class="signin-content"><button class="primary google-signin" id="google-login" ${signInGoogle&&storageOK?'':'disabled'}><span class="google-icon" aria-hidden="true"><svg viewBox="0 0 48 48" width="20" height="20"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5Z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65Z"/><path fill="#FBBC05" d="M10.53 28.59A14.41 14.41 0 0 1 9.75 24c0-1.59.27-3.13.76-4.59l-7.98-6.19A23.87 23.87 0 0 0 0 24c0 3.87.93 7.52 2.56 10.78l7.97-6.19Z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.9-5.8l-7.73-6c-2.15 1.45-4.92 2.3-8.17 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48Z"/></svg></span>Sign in with Google <span class="signin-arrow" aria-hidden="true"><svg class="icon icon-arrow-right" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></span></button><p id="signin-error" class="error" role="alert">${escape(connectionError)}</p></div></section>`;
@@ -263,15 +263,15 @@ function welcome(){
     };
     return;
   }
-  app.innerHTML=`<section class="rules-screen"><form class="entry" id="entry"><div class="spark" aria-hidden="true"><svg class="icon icon-sparkle" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 3c1 5.5 3.5 8 9 9-5.5 1-8 3.5-9 9-1-5.5-3.5-8-9-9 5.5-1 8-3.5 9-9Z"/></svg></div><h2>Ready, ${escape(signedInUser.displayName||'reader')}?</h2><div class="rules"><div class="rules-title">Before the clock starts</div><div class="rule"><span><svg class="icon icon-clock" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><div>You have <b>1 minute, 10 seconds.</b> Reloading does not reset the timer.</div></div><div class="rule"><div>Stay on this page. Switching tabs, hiding the page, or leaving this window invalidates your attempt.</div></div><div class="rule"><span><svg class="icon icon-no-camera" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="6" width="18" height="14" rx="3"/><path d="m8 6 2-3h4l2 3M3 3l18 18"/></svg></span><div>No screenshots or screen recording. Browsers cannot reliably detect or prevent screenshots.</div></div></div><label class="consent"><input id="agree" type="checkbox" required><span>I understand. My Google name and correct answer time will appear on the leaderboard.</span></label><button class="primary" type="submit" ${connected&&storageOK?'':'disabled'}>Start my 70 seconds <span aria-hidden="true"><svg class="icon icon-arrow-right" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></span></button><p id="entry-error" class="error" role="alert">${escape(connectionError)}</p></form></section>`;
+  app.innerHTML=`<section class="rules-screen"><form class="entry" id="entry"><div class="spark" aria-hidden="true"><svg class="icon icon-sparkle" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 3c1 5.5 3.5 8 9 9-5.5 1-8 3.5-9 9-1-5.5-3.5-8-9-9 5.5-1 8-3.5 9-9Z"/></svg></div><h2>Ready, ${escape(signedInUser.displayName||'reader')}?</h2><p class="muted">${escape(dailySpec.date)} · A new bank question every day at midnight Eastern.</p><div class="rules"><div class="rules-title">Before the clock starts</div><div class="rule"><span><svg class="icon icon-clock" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><div>You have <b>1 minute, 10 seconds.</b> Reloading does not reset the timer.</div></div><div class="rule"><div>Stay on this page. Switching tabs, hiding the page, or leaving this window invalidates your attempt.</div></div><div class="rule"><span><svg class="icon icon-no-camera" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="6" width="18" height="14" rx="3"/><path d="m8 6 2-3h4l2 3M3 3l18 18"/></svg></span><div>No screenshots or screen recording. Browsers cannot reliably detect or prevent screenshots.</div></div></div><label class="consent"><input id="agree" type="checkbox" required><span>I understand. My Google name and correct answer time will appear on the leaderboard.</span></label><button class="primary" type="submit" ${connected&&storageOK?'':'disabled'}>Start my 70 seconds <span aria-hidden="true"><svg class="icon icon-arrow-right" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></span></button><p id="entry-error" class="error" role="alert">${escape(connectionError)}</p></form></section>`;
   document.querySelector('#entry').onsubmit=e=>{e.preventDefault();void start((signedInUser.displayName||'Reader').slice(0,40),document.querySelector('#entry button[type=submit]'));};
 }
-function renderQuiz(){app.innerHTML=`<div class="quiz-top"><div class="progress"><div class="progress-label"><span>YOUR CHALLENGE</span><b>1 / 1</b></div><div class="track"><div id="progress-fill"></div></div></div><div class="timer" role="timer" aria-label="Time remaining"><span aria-hidden="true"><svg class="icon icon-clock" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><strong id="clock">01:10</strong></div></div><section class="quiz-grid"><article class="passage"><p class="eyebrow">READ. REASON. TRUST YOURSELF.</p><h1>A matter of<br>mother nature.</h1><p class="passage-text">Across brown bears—omnivores with high dietary plasticity—there is wide variety in dietary mix, which may reflect genetics, local resource availability, or social learning (cubs stay with their mothers for two years or more). Evaluating these possibilities, Anne Hertel et al. analyzed 30 years of data on trophic position (indicative of dietary mix) for female brown bears. After separation, daughters, who tended to settle near their mothers, occupied the same trophic positions as their mothers for two years, but the correlation disappeared by year five. Trophic correlation with unrelated individuals in similar habitats was modest, while habitat-independent correlation with nonmaternal relatives (e.g., cousins) was no different than with unrelated individuals. These findings suggest that <span class="blank" aria-label="blank"></span></p><p class="source">BROWN BEARS · READING & REASONING</p></article><section class="question"><p class="eyebrow">QUESTION 01</p><h2 id="question-label">Which choice most logically completes the text?</h2><div class="choices" role="radiogroup" aria-labelledby="question-label">${answers.map((a,i)=>`<button class="choice" role="radio" aria-checked="false" data-value="${'ABCD'[i]}"><span class="letter">${'ABCD'[i]}</span><span>${a}</span><span class="choice-check" aria-hidden="true"></span></button>`).join('')}</div><div class="submit-row"><button class="primary" id="submit" disabled>Lock in my answer <span aria-hidden="true"><svg class="icon icon-arrow-right" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></span></button></div><p id="submit-error" class="error" role="alert"></p><p class="quiz-fine">One answer. Make it yours.</p></section></section>`;
-
-selected=null;document.querySelectorAll('.choice').forEach((button,i,list)=>{
-button.onclick=()=>{if(attempt?.status!=='active'||submitting)return;if(now()>=attempt.deadline){tick();return;}selected=button.dataset.value;list.forEach(b=>{b.classList.toggle('selected',b===button);b.setAttribute('aria-checked',String(b===button));});document.querySelector('#submit').disabled=false;};
-button.onkeydown=e=>{if(['ArrowDown','ArrowRight','ArrowUp','ArrowLeft'].includes(e.key)){e.preventDefault();const n=(i+(['ArrowDown','ArrowRight'].includes(e.key)?1:-1)+4)%4;list[n].focus();list[n].click();}};
-});document.querySelector('#submit').onclick=submitAnswer;clearInterval(ticker);tick();if(attempt?.status==='active'&&now()<attempt.deadline)ticker=setInterval(tick,100);}
+function renderQuiz(){
+ const typed=!question.options.length;
+ app.innerHTML=`<div class="quiz-top"><div class="progress"><div class="progress-label"><span>${escape(dailySpec.date)}</span><b>1 / 1</b></div><div class="track"><div id="progress-fill"></div></div></div><div class="timer" role="timer" aria-label="Time remaining"><strong id="clock">01:10</strong></div></div><section class="quiz-grid"><article class="passage"><p class="eyebrow">${escape([question.subject,question.skill].filter(Boolean).join(' · '))}</p><h1>Today’s challenge.</h1><div class="passage-text">${content(question.passage||question.prompt)}</div><p class="source">FROM THE FRIPREP QUESTION BANK</p></article><section class="question"><p class="eyebrow">QUESTION 01</p>${question.passage?`<h2 id="question-label">${content(question.prompt)}</h2>`:'<h2 id="question-label">Your answer</h2>'}${typed?'<label for="daily-response">Enter a number or fraction</label><input type="text" id="daily-response" inputmode="decimal" maxlength="200" autocomplete="off" placeholder="Your answer">':`<div class="choices" role="radiogroup" aria-labelledby="question-label">${question.options.map((value,i)=>`<button class="choice" role="radio" aria-checked="false" data-value="${'ABCD'[i]}"><span class="letter">${'ABCD'[i]}</span><span>${content(value)}</span><span class="choice-check" aria-hidden="true"></span></button>`).join('')}</div>`}<div class="submit-row"><button class="primary" id="submit" disabled>Lock in my answer</button></div><p id="submit-error" class="error" role="alert"></p><p class="quiz-fine">One answer. Make it yours.</p></section></section>`;
+ selected=null;if(typed)document.querySelector('#daily-response').oninput=event=>{selected=event.target.value.trim();document.querySelector('#submit').disabled=!selected;};
+ document.querySelectorAll('.choice').forEach((button,i,list)=>{button.onclick=()=>{if(attempt?.status!=='active'||submitting)return;if(now()>=attempt.deadline){tick();return;}selected=button.dataset.value;list.forEach(b=>{b.classList.toggle('selected',b===button);b.setAttribute('aria-checked',String(b===button));});document.querySelector('#submit').disabled=false;};button.onkeydown=e=>{if(['ArrowDown','ArrowRight','ArrowUp','ArrowLeft'].includes(e.key)){e.preventDefault();const n=(i+(['ArrowDown','ArrowRight'].includes(e.key)?1:-1)+list.length)%list.length;list[n].focus();list[n].click();}};});document.querySelector('#submit').onclick=submitAnswer;clearInterval(ticker);tick();if(attempt?.status==='active'&&now()<attempt.deadline)ticker=setInterval(tick,100);
+}
 
 
 document.querySelector('#board-link').onclick=board;
@@ -301,6 +301,7 @@ async function initialize(){
   }catch{storageOK=false;connectionError='Enable browser storage to preserve your attempt.';welcome();return;}
   if(!firebaseConfig.apiKey||!firebaseConfig.projectId||!firebaseConfig.appId){connectionError='This quiz is not connected yet. Please check back once the host has finished setup.';welcome();return;}
   try{
+    const dailyResponse=await fetch('/api/daily',{cache:'no-store'});if(!dailyResponse.ok)throw Error('The daily question could not be loaded.');dailySpec=await dailyResponse.json();question=dailySpec.question;serverAnchor=dailySpec.serverNow;perfAnchor=performance.now();
     const base='https://www.gstatic.com/firebasejs/13.2.0/';
     const [{initializeApp},{getAuth,setPersistence,browserLocalPersistence,GoogleAuthProvider,signInWithPopup,onAuthStateChanged,connectAuthEmulator},firestore]=await Promise.all([
       import(base+'firebase-app.js'),import(base+'firebase-auth.js'),import(base+'firebase-firestore-lite.js')
@@ -314,11 +315,11 @@ async function initialize(){
     await setPersistence(auth,browserLocalPersistence);await auth.authStateReady();
     async function loadAccount(user){
     signedInUser=user;
-    key='byfb:'+firebaseConfig.projectId+':bears-v1:'+user.uid;
-    callCloud=createQuizStore(firestore,db,user,now);
+    key='byfb:'+firebaseConfig.projectId+':daily:'+dailySpec.id+':'+user.uid;
+    callCloud=createQuizStore(firestore,db,user,now,dailySpec);
     // No clock document or preflight write is needed for sign-in.
     const offset=Number(localStorage.getItem(key+':clock-offset')||0);
-    serverAnchor=Date.now()+(Number.isFinite(offset)?offset:0);perfAnchor=performance.now();
+    const calibrated=now();serverAnchor=localStorage.getItem(key+':clock-offset')!==null?Date.now()+(Number.isFinite(offset)?offset:0):calibrated;perfAnchor=performance.now();
     const saved=JSON.parse(localStorage.getItem(key)||'null');
     const left=saved?.leftAt&&performance.getEntriesByType('navigation')[0]?.type!=='reload';
     if(saved?.pendingInvalid||left){

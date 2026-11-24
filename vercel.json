@@ -17,5 +17,10 @@
   ],
   "git": {
     "deploymentEnabled": false
+  },
+  "functions": {
+    "api/daily.js": {
+      "includeFiles": "{data/daily-pool.json,public/question-bank.json}"
+    }
   }
 }
