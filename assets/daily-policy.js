@@ -1,0 +1,2 @@
+export const DAILY_POLICY={subject:'English',difficulty:'Hard',maxWords:280};
+export function eligibleDailyQuestion(q){const text=[q.passage||'',q.prompt||'',...(q.options||[])].join(' ');return q.subject===DAILY_POLICY.subject&&q.difficulty===DAILY_POLICY.difficulty&&q.options?.length===4&&/^[A-D]$/.test(q.correctAnswer||'')&&q.options.every(value=>typeof value==='string'&&value.trim())&&!!q.prompt?.trim()&&!q.images?.length&&!/underlined|highlighted|\[(?:Figure|Table) \d+\]/i.test(text)&&text.trim().split(/\s+/).length<=DAILY_POLICY.maxWords;}

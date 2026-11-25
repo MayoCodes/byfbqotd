@@ -107,3 +107,14 @@ test('completion indexes are private to the student and teacher',async()=>{
  await assertFails(setDoc(history(other),{questionIds:[],updatedAt:serverTimestamp()}));
  await assertSucceeds(setDoc(history(teacher),{questionIds:['q1','q2'],updatedAt:serverTimestamp()}));
 });
+
+test('Hard English daily attempts rank against the English pool and stay separate from earlier daily attempts',async()=>{
+ const pool=JSON.parse(fs.readFileSync(path.join(__dirname,'../data/daily-pool.json'),'utf8')),{dailySelection}=await import('../assets/daily-model.js'),spec=dailySelection(pool);
+ await env.withSecurityRulesDisabled(async ctx=>{await setDoc(doc(ctx.firestore(),'byfbDailyConfig','english-hard-v1'),pool);});
+ const attempt=doc(student,'byfbEnglishDailyChallenges',spec.id,'attempts','student'),score=doc(student,'byfbEnglishDailyChallenges',spec.id,'leaderboard','student');
+ await assertSucceeds(setDoc(attempt,{name:'Reader',status:'active',startedAt:serverTimestamp()}));
+ await assertFails(updateDoc(attempt,{startedAt:serverTimestamp()}));
+ await assertSucceeds(updateDoc(attempt,{status:'answered',answer:spec.correctAnswer,response:spec.correctAnswer,finishedAt:serverTimestamp()}));
+ const saved=(await getDoc(attempt)).data();await assertSucceeds(setDoc(score,{name:saved.name,elapsed:Math.floor(saved.finishedAt.toMillis())-Math.floor(saved.startedAt.toMillis()),finishedAt:saved.finishedAt}));
+ await assertFails(updateDoc(attempt,{answer:'wrong',response:'wrong',finishedAt:serverTimestamp()}));
+});
