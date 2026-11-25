@@ -90,3 +90,20 @@ test('daily questions have one immutable timed attempt per day and rankings use 
  const expired=doc(other,'byfbDailyChallenges',spec.id,'attempts','other');await env.withSecurityRulesDisabled(async ctx=>{await setDoc(doc(ctx.firestore(),'byfbDailyChallenges',spec.id,'attempts','other'),{name:'Reader',status:'active',startedAt:Timestamp.fromMillis(Date.now()-80000)});});
  await assertFails(updateDoc(expired,{status:'answered',answer:spec.correctAnswer,response:spec.correctAnswer,finishedAt:serverTimestamp()}));
 });
+
+test('targeted assignments only permit listed students to start or read a session',async()=>{
+ const targeted={...task(),audience:'students',studentIds:['student']};
+ await assertSucceeds(setDoc(assignment(teacher,'targeted'),targeted));
+ await assertFails(setDoc(assignment(teacher,'empty-target'),{...targeted,studentIds:[]}));
+ await assertFails(setDoc(assignment(teacher,'wrong-scope'),{...targeted,audience:'classroom'}));
+ await assertSucceeds(setDoc(run(student,'targeted'),initial()));
+ await assertFails(setDoc(run(other,'targeted','other'),initial()));
+ await assertFails(getDoc(run(other,'targeted','other')));
+});
+test('completion indexes are private to the student and teacher',async()=>{
+ const history=db=>doc(db,'friprepUsers','student','history','questions');
+ await assertSucceeds(setDoc(history(student),{questionIds:['q1'],updatedAt:serverTimestamp()}));
+ await assertSucceeds(getDoc(history(teacher)));await assertFails(getDoc(history(other)));
+ await assertFails(setDoc(history(other),{questionIds:[],updatedAt:serverTimestamp()}));
+ await assertSucceeds(setDoc(history(teacher),{questionIds:['q1','q2'],updatedAt:serverTimestamp()}));
+});

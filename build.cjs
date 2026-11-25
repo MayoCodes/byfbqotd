@@ -69,6 +69,8 @@ for(const capture of [...captures,...testCaptures]){
     fs.copyFileSync(path.join(__dirname,image.path),target);
   }
 }
+const identities={};for(const capture of [...captures,...testCaptures]){try{const source=new URL(capture.source);const id=source.searchParams.get('questionId');if(source.origin==='https://cooksat.com'&&/^[A-Za-z0-9_-]{1,100}$/.test(id||''))identities[String(capture.id).toLowerCase()]=id.toLowerCase();}catch{}}
+fs.writeFileSync(path.join(output,'question-identities.json'),JSON.stringify(identities));
 fs.writeFileSync(path.join(output,'practice-tests.json'),JSON.stringify(testCatalog));
 fs.writeFileSync(path.join(output,'practice-test-questions.json'),JSON.stringify(testBank));
 fs.writeFileSync(path.join(output,'question-bank.json'),JSON.stringify(bank));

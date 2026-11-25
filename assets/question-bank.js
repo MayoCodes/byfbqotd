@@ -1,3 +1,4 @@
+import {filterByCompletion} from './assignment-audience.js';
 import {cleanResultExplanation} from './assignment-results.js';
 import './desmos-panel.js';
 import {formatQuestionContent} from './content-format.js';
@@ -10,7 +11,7 @@ const sparkle='<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="current
 const arrow='<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6"/></svg>';
 let questions=[],activeId=null,page=0,busy=false,lastFetched=null;
 const states=new Map(),PAGE_SIZE=24;
-let selectionMode=false,selectedQuestions=new Set();
+let selectionMode=false,selectedQuestions=new Set(),assignmentHistory={ready:false,byQuestion:{},aliases:{},total:0,filter:'all'};
 function emitBank(){window.dispatchEvent(new CustomEvent('friprep-bank-loaded',{detail:{questions,visibleIds:filtered().slice(page*PAGE_SIZE,(page+1)*PAGE_SIZE).map(q=>q.id)}}));}
 let filters={...DEFAULT_FILTERS},progress={},accountUid=null;
 const progressKey=()=>accountUid?'friprep-bank-progress:'+accountUid:'friprep-bank-progress';
@@ -21,7 +22,7 @@ function refreshControls(){updateFilterControls({questions,filters,progress,matc
 const fingerprint=q=>JSON.stringify([q.prompt,q.passage,q.options,q.correctAnswer,q.explanation,(q.images||[]).map(image=>[image.label,image.url])]);
 function content(value,q){return formatQuestionContent(value,q);}
 
-function filtered(){return filterQuestions(questions,filters,progress,$('#search').value);}
+function filtered(){return filterByCompletion(filterQuestions(questions,filters,progress,$('#search').value),assignmentHistory,selectionMode?assignmentHistory.filter:'all');}
 function tags(q){const m=metadata(q);return [m.domain,m.skill,m.difficulty].filter(Boolean).map(t=>`<span class="tag">${escape(t)}</span>`).join('');}
 function renderChips(){
  const labels={subject:'Section',domain:'Domain',skill:'Skill',difficulty:'Difficulty',status:'Status',format:'Format',sort:'Order'};
@@ -38,7 +39,7 @@ function renderList(keepActive=false){
   if(!keepActive&&!rows.slice(page*PAGE_SIZE,(page+1)*PAGE_SIZE).some(q=>q.id===activeId))activeId=rows[page*PAGE_SIZE]?.id||null;
   $('#question-list').classList.toggle('is-selecting',selectionMode);
   $('#question-list').innerHTML=rows.slice(page*PAGE_SIZE,(page+1)*PAGE_SIZE).map(q=>{const p=progress[q.id]||{},num=questions.indexOf(q)+1,status=p.checked?(p.correct?'Answered correctly':'Needs review'):'Not attempted';
-    if(selectionMode)return `<div class="selection-question ${selectedQuestions.has(q.id)?'is-picked':''}"><label class="question-select-control"><input type="checkbox" data-select-id="${escape(q.id)}" aria-label="Select question ${num}" ${selectedQuestions.has(q.id)?'checked':''}><span>Question ${num}</span></label><button class="selection-question-preview" data-id="${escape(q.id)}" aria-label="Preview question ${num}" aria-haspopup="dialog"><span class="selection-preview-tags">${escape([metadata(q).skill,metadata(q).difficulty].filter(Boolean).join(' · '))}</span><span class="selection-preview-text">${content(q.prompt,q)}</span><span class="selection-preview-link">Preview question</span></button></div>`;
+    if(selectionMode)return `<div class="selection-question ${selectedQuestions.has(q.id)?'is-picked':''}"><label class="question-select-control"><input type="checkbox" data-select-id="${escape(q.id)}" aria-label="Select question ${num}" ${selectedQuestions.has(q.id)?'checked':''}><span>Question ${num}</span></label><button class="selection-question-preview" data-id="${escape(q.id)}" aria-label="Preview question ${num}" aria-haspopup="dialog"><span class="selection-preview-tags">${escape([metadata(q).skill,metadata(q).difficulty].filter(Boolean).join(' · '))}</span><span class="selection-preview-text">${content(q.prompt,q)}</span><span class="selection-history-badge ${assignmentHistory.ready&&(assignmentHistory.byQuestion[assignmentHistory.aliases[q.id]||q.id]||[]).length?'has-completion':''}">${assignmentHistory.ready?'Completed by '+(assignmentHistory.byQuestion[assignmentHistory.aliases[q.id]||q.id]||[]).length+'/'+assignmentHistory.total+' selected students':assignmentHistory.total?'Checking completion history…':'Choose recipients to check history'}</span><span class="selection-preview-link">Preview question</span></button></div>`;
     return `<button class="question-item ${p.checked?(p.correct?'is-correct':'is-review'):''}" data-id="${escape(q.id)}" aria-current="${q.id===activeId?'true':'false'}" aria-label="Question ${num}, ${status}${p.bookmarked?', saved':''}" title="${escape(metadata(q).skill||q.prompt)}"><span>${num}</span>${p.bookmarked?'<span class="saved-marker" aria-hidden="true"></span>':''}</button>`;}).join('');
   $('#question-list').querySelectorAll('[data-select-id]').forEach(input=>input.onchange=()=>{input.checked=selectedQuestions.has(input.dataset.selectId);window.dispatchEvent(new CustomEvent('friprep-selection-toggle',{detail:{id:input.dataset.selectId}}));});
   $('#navigator-hint').textContent=rows.length?'SELECT A NUMBER TO PRACTICE':'NO MATCHES';
@@ -112,3 +113,5 @@ if(oldAssignmentLink.has('assignment')&&oldAssignmentLink.has('classroom'))locat
 window.addEventListener('friprep-bank-request',emitBank);
 window.addEventListener('friprep-selection-state',event=>{selectionMode=!!event.detail.enabled;selectedQuestions=new Set(event.detail.ids);if(questions.length)renderList(true);});
 window.addEventListener('friprep-question-open',event=>{if(!questions.some(q=>q.id===event.detail.id))return;activeId=event.detail.id;renderList(true);$('#detail').scrollIntoView({block:'start',behavior:'smooth'});});
+
+window.addEventListener('friprep-assignment-history',event=>{assignmentHistory=event.detail;page=0;if(questions.length)renderList(true);});

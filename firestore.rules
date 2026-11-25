@@ -146,6 +146,14 @@ service cloud.firestore {
           && existsAfter(/databases/$(database)/documents/friprepClassrooms/$(classId)/members/$(uid));
         allow delete: if false;
       }
+      match /history/{historyId} {
+        allow read: if activated() && (request.auth.uid == uid || teacher());
+        allow create, update: if activated() && (request.auth.uid == uid || teacher()) && historyId == 'questions'
+          && request.resource.data.keys().hasOnly(['questionIds','updatedAt'])
+          && request.resource.data.questionIds is list && request.resource.data.questionIds.size() <= 10000
+          && request.resource.data.updatedAt == request.time;
+        allow delete: if false;
+      }
       match /progress/{questionId} {
         allow read: if activated() && (request.auth.uid == uid || teacher());
         allow create, update: if activated() && request.auth.uid == uid
@@ -223,7 +231,10 @@ service cloud.firestore {
       match /assignments/{assignmentId} {
         allow read: if teacher() || member(classId);
         allow create, update: if teacher()
-          && request.resource.data.keys().hasOnly(['title','category','dueDate','questionIds','createdAt','timingMode','timeLimitSeconds'])
+          && request.resource.data.keys().hasOnly(['title','category','dueDate','questionIds','createdAt','timingMode','timeLimitSeconds','audience','studentIds'])
+          && request.resource.data.get('audience','classroom') in ['classroom','students']
+          && request.resource.data.get('studentIds',[]) is list && request.resource.data.get('studentIds',[]).size() <= 100
+          && (request.resource.data.get('audience','classroom') == 'classroom' ? request.resource.data.get('studentIds',[]) == [] : request.resource.data.studentIds.size() > 0)
           && request.resource.data.title is string && request.resource.data.title.size() > 0 && request.resource.data.title.size() <= 120
           && request.resource.data.category is string && request.resource.data.category.size() <= 120
           && request.resource.data.dueDate is string && request.resource.data.dueDate.size() <= 10
@@ -236,7 +247,7 @@ service cloud.firestore {
         allow delete: if teacher();
 
         match /sessions/{uid} {
-          function ownSession() { return member(classId) && request.auth.uid == uid; }
+          function ownSession() { return member(classId) && request.auth.uid == uid && (task().get('audience','classroom') == 'classroom' || uid in task().get('studentIds',[])); }
           function task() {
             return get(/databases/$(database)/documents/friprepClassrooms/$(classId)/assignments/$(assignmentId)).data;
           }
