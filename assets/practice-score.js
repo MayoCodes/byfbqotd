@@ -1,0 +1,23 @@
+import {assignmentResults} from './assignment-results.js';
+export const PRACTICE_SCORE_RULE={sectionMaximum:800,sectionMinimum:200,hardMiss:10,otherMiss:20};
+export function practiceResultSummary(modules,questionMap,answers,completedCount){
+ const numbers=modules.map(m=>m.number),complete=completedCount===modules.length;
+ const sections=[{name:'Reading and Writing',numbers:[1,2],expected:54},{name:'Math',numbers:[3,4],expected:44}].map(section=>{
+  const included=modules.filter(m=>section.numbers.includes(m.number)),ids=included.flatMap(m=>m.questionIds),missing=ids.filter(id=>!questionMap.has(id));
+  const result=assignmentResults(ids.map(id=>questionMap.get(id)).filter(Boolean),answers);
+  const missed=result.rows.filter(row=>row.scorable&&!row.correct),difficulty=row=>String(row.question.difficulty||'').trim().toLowerCase();
+  const hardMisses=missed.filter(row=>difficulty(row)==='hard').length,otherMisses=missed.filter(row=>['easy','medium'].includes(difficulty(row))).length,unknownMisses=missed.length-hardMisses-otherMisses;
+  const sectionComplete=complete&&section.numbers.every(n=>numbers.includes(n))&&ids.length===section.expected&&new Set(ids).size===ids.length&&missing.length===0;
+  const deductions=hardMisses*PRACTICE_SCORE_RULE.hardMiss+otherMisses*PRACTICE_SCORE_RULE.otherMiss;
+  const score=sectionComplete&&!result.ungraded&&!unknownMisses?Math.max(PRACTICE_SCORE_RULE.sectionMinimum,PRACTICE_SCORE_RULE.sectionMaximum-deductions):null;
+  return {...section,modules:included.map(m=>m.number),missing:missing.length,...result,complete:sectionComplete,hardMisses,otherMisses,unknownMisses,deductions,score,minimumApplied:score!==null&&PRACTICE_SCORE_RULE.sectionMaximum-deductions<PRACTICE_SCORE_RULE.sectionMinimum};
+ }).filter(s=>s.modules.length);
+ const fullTest=complete&&modules.length===4&&new Set(numbers).size===4&&[1,2,3,4].every(n=>numbers.includes(n))&&sections.length===2&&sections.every(s=>s.complete);
+ const score=fullTest&&sections.every(s=>s.score!==null)?sections.reduce((n,s)=>n+s.score,0):null;
+ return {fullTest,complete,sections,score,allScorable:sections.every(s=>s.ungraded===0&&s.missing===0),totalCorrect:sections.reduce((n,s)=>n+s.correct,0),totalScored:sections.reduce((n,s)=>n+s.scored,0)};
+}
+export function renderSectionBreakdown(summary){return `<div class="practice-section-breakdown">${summary.sections.map(section=>`<article><span>${section.name}</span><strong>${section.score===null?(section.percentage===null?'—':section.percentage+'%'):section.score+'<small> / 800</small>'}</strong><p>${section.correct} / ${section.scored} correct · ${section.unanswered} unanswered${section.ungraded?' · '+section.ungraded+' not scored':''}${section.missing?' · '+section.missing+' unavailable':''}</p>${section.score===null?'':`<p class="practice-deductions">${section.hardMisses} Hard ${section.hardMisses===1?'miss':'misses'} × 10 + ${section.otherMisses} Medium/Easy ${section.otherMisses===1?'miss':'misses'} × 20 = ${section.deductions} points${section.minimumApplied?' · 200-point minimum applied':''}</p>`}</article>`).join('')}</div>`;}
+export function renderPracticeScore(summary){
+ const note=summary.score!==null?'Custom scoring for Friprep practice. This is not an official SAT score or a validated prediction.':summary.fullTest?'A custom total is unavailable because an answer key or a missed question’s difficulty is missing.':'A 1600-scale total is available after completing both modules of Reading and Writing and both Math modules.';
+ return `<div class="practice-score-heading"><div><p class="practice-score-kicker">FRIPREP CUSTOM SCORING</p><h2>${summary.fullTest?'Custom practice score':'Practice section results'}</h2></div>${summary.score!==null?`<div class="practice-custom-total" aria-label="Custom practice score ${summary.score} out of 1600"><strong>${summary.score}</strong><span> / 1600</span></div>`:''}</div><p class="practice-score-note">${note}</p>${renderSectionBreakdown(summary)}<details class="practice-score-method"><summary>How this practice score works</summary><p>Each completed section starts at 800. Every incorrect or unanswered Hard question deducts 10 points; Medium and Easy questions deduct 20. Each section has a minimum of 200, for a combined range of 400–1600. All imported questions count for this custom score.</p><p>Official digital SAT scoring uses calibrated questions and adaptive testing. These custom deductions do not reproduce College Board’s scoring method.</p><a href="https://satsuite.collegeboard.org/scores/what-scores-mean/how-scores-calculated" target="_blank" rel="noopener">College Board’s scoring explanation</a></details>`;
+}
